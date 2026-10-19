@@ -1,0 +1,548 @@
+[
+  {
+    "id": "1790572339282",
+    "name": "Nouvelle-Aquitaine",
+    "status": "ok",
+    "method": "old-cache"
+  },
+  {
+    "id": "1790659080807",
+    "name": "Provence-Alpes-Côte-d'Azur",
+    "status": "ok",
+    "method": "old-cache"
+  },
+  {
+    "id": "1790695988984",
+    "name": "Île-de-France",
+    "status": "ok",
+    "method": "old-cache"
+  },
+  {
+    "id": "1790884491205",
+    "name": "Normandie",
+    "status": "ok",
+    "method": "old-cache"
+  },
+  {
+    "id": "1790884696681",
+    "name": "Bourgogne-Franche-Comté",
+    "status": "ok",
+    "method": "old-cache"
+  },
+  {
+    "id": "1790885158808",
+    "name": "Centre-Val-de-Loire",
+    "status": "ok",
+    "method": "old-cache"
+  },
+  {
+    "id": "1790885359573",
+    "name": "Pays-de-La-Loire",
+    "status": "ok",
+    "method": "old-cache"
+  },
+  {
+    "id": "1790917541169",
+    "name": "Haut-de-France",
+    "status": "ok",
+    "method": "old-cache"
+  },
+  {
+    "id": "1790917778744",
+    "name": "Grand-Est",
+    "status": "ok",
+    "method": "old-cache"
+  },
+  {
+    "id": "1790918075927",
+    "name": "Auvergne-Rhône-Alpes",
+    "status": "ok",
+    "method": "old-cache"
+  },
+  {
+    "id": "1791022189806",
+    "name": "Formentera",
+    "status": "ok",
+    "method": "old-cache"
+  },
+  {
+    "id": "1791022447995",
+    "name": "Mallorca ",
+    "status": "ok",
+    "method": "old-cache"
+  },
+  {
+    "id": "1791022715791",
+    "name": "Eivissa (Ibiza)",
+    "status": "ok",
+    "method": "original"
+  },
+  {
+    "id": "1791046538526",
+    "name": "Extremadura",
+    "status": "ok",
+    "method": "original"
+  },
+  {
+    "id": "1791046828121",
+    "name": "Castilla La Mancha",
+    "status": "ok",
+    "method": "original"
+  },
+  {
+    "id": "1791047157533",
+    "name": "Andalucía",
+    "status": "ok",
+    "method": "original"
+  },
+  {
+    "id": "1791047773453",
+    "name": "Aragón",
+    "status": "ok",
+    "method": "original"
+  },
+  {
+    "id": "1791048006665",
+    "name": "Asturias",
+    "status": "ok",
+    "method": "old-cache"
+  },
+  {
+    "id": "1791048498730",
+    "name": "Cantabria",
+    "status": "ok",
+    "method": "original"
+  },
+  {
+    "id": "1791050575956",
+    "name": "Comunidad de Madrid",
+    "status": "ok",
+    "method": "old-cache"
+  },
+  {
+    "id": "1791051546680",
+    "name": "Región de Murcia",
+    "status": "ok",
+    "method": "original"
+  },
+  {
+    "id": "1791051662246",
+    "name": "Navarra",
+    "status": "ok",
+    "method": "original"
+  },
+  {
+    "id": "1791129899907",
+    "name": "Comunidad Valenciana",
+    "status": "ok",
+    "method": "original"
+  },
+  {
+    "id": "1791130864022",
+    "name": "La Rioja",
+    "status": "ok",
+    "method": "original"
+  },
+  {
+    "id": "1791130969709",
+    "name": "Ceuta",
+    "status": "ok",
+    "method": "old-cache"
+  },
+  {
+    "id": "1791131287277",
+    "name": "Melilla",
+    "status": "ok",
+    "method": "original"
+  },
+  {
+    "id": "1791177051294",
+    "name": "Great London",
+    "status": "ok",
+    "method": "old-cache"
+  },
+  {
+    "id": "1791177800284",
+    "name": "North West (ENG)",
+    "status": "ok",
+    "method": "old-cache"
+  },
+  {
+    "id": "1791225177631",
+    "name": "West Midlands (ENG)",
+    "status": "ok",
+    "method": "old-cache"
+  },
+  {
+    "id": "1791225559874",
+    "name": "Yorkshire And The Humber",
+    "status": "ok",
+    "method": "old-cache"
+  },
+  {
+    "id": "1791286166429",
+    "name": "East Midlands (ENG)",
+    "status": "ok",
+    "method": "old-cache"
+  },
+  {
+    "id": "1791286416424",
+    "name": "South East (ENG)",
+    "status": "ok",
+    "method": "old-cache"
+  },
+  {
+    "id": "1791286581560",
+    "name": "North East (ENG)",
+    "status": "ok",
+    "method": "old-cache"
+  },
+  {
+    "id": "1791286706378",
+    "name": "South West (ENG)",
+    "status": "ok",
+    "method": "old-cache"
+  },
+  {
+    "id": "1791286931317",
+    "name": "East of England",
+    "status": "ok",
+    "method": "old-cache"
+  },
+  {
+    "id": "1791884606153",
+    "name": "West Central Scotland",
+    "status": "ok",
+    "method": "old-cache"
+  },
+  {
+    "id": "1791884737702",
+    "name": "Southern Scotland",
+    "status": "ok",
+    "method": "old-cache"
+  },
+  {
+    "id": "1791884962234",
+    "name": "North Eastern Scotland",
+    "status": "ok",
+    "method": "old-cache"
+  },
+  {
+    "id": "1791885091435",
+    "name": "Highlands and Islands (SCO)",
+    "status": "ok",
+    "method": "old-cache"
+  },
+  {
+    "id": "1791885364544",
+    "name": "Eastern Scotland",
+    "status": "ok",
+    "method": "old-cache"
+  },
+  {
+    "id": "1791982363586",
+    "name": "Área Metropolitana de Lisboa",
+    "status": "ok",
+    "method": "old-cache"
+  },
+  {
+    "id": "1791996337203",
+    "name": "Centro (POR)",
+    "status": "ok",
+    "method": "old-cache"
+  },
+  {
+    "id": "1791996455936",
+    "name": "Norte (POR)",
+    "status": "ok",
+    "method": "old-cache"
+  },
+  {
+    "id": "1791996618978",
+    "name": "Algarve",
+    "status": "ok",
+    "method": "old-cache"
+  },
+  {
+    "id": "1791996722174",
+    "name": "Alentejo",
+    "status": "ok",
+    "method": "old-cache"
+  },
+  {
+    "id": "1792045908770",
+    "name": "Leinster",
+    "status": "ok",
+    "method": "old-cache"
+  },
+  {
+    "id": "1792045987642",
+    "name": "United Ulster",
+    "status": "ok",
+    "method": "original"
+  },
+  {
+    "id": "1792046127848",
+    "name": "Munster",
+    "status": "ok",
+    "method": "old-cache"
+  },
+  {
+    "id": "1792046200023",
+    "name": "Connacht",
+    "status": "ok",
+    "method": "old-cache"
+  },
+  {
+    "id": "1792127836339",
+    "name": "West Wales and the Valleys",
+    "status": "ok",
+    "method": "old-cache"
+  },
+  {
+    "id": "1792127923885",
+    "name": "East Wales",
+    "status": "ok",
+    "method": "old-cache"
+  },
+  {
+    "id": "1792358000001",
+    "name": "Abruzzo",
+    "status": "ok",
+    "method": "original"
+  },
+  {
+    "id": "1792358000002",
+    "name": "Basilicata",
+    "status": "ok",
+    "method": "original"
+  },
+  {
+    "id": "1792358000003",
+    "name": "Calabria",
+    "status": "ok",
+    "method": "original"
+  },
+  {
+    "id": "1792358000004",
+    "name": "Campania",
+    "status": "ok",
+    "method": "old-cache"
+  },
+  {
+    "id": "1792358000005",
+    "name": "Emilia-Romagna",
+    "status": "ok",
+    "method": "original"
+  },
+  {
+    "id": "1792358000006",
+    "name": "Friuli-Venezia Giulia",
+    "status": "ok",
+    "method": "original"
+  },
+  {
+    "id": "1792358000007",
+    "name": "Lazio",
+    "status": "ok",
+    "method": "original"
+  },
+  {
+    "id": "1792358000008",
+    "name": "Liguria",
+    "status": "ok",
+    "method": "original"
+  },
+  {
+    "id": "1792358000009",
+    "name": "Lombardy",
+    "status": "ok",
+    "method": "original"
+  },
+  {
+    "id": "1792358000010",
+    "name": "Marche",
+    "status": "ok",
+    "method": "original"
+  },
+  {
+    "id": "1792358000011",
+    "name": "Molise",
+    "status": "ok",
+    "method": "original"
+  },
+  {
+    "id": "1792358000012",
+    "name": "Piedmont",
+    "status": "ok",
+    "method": "original"
+  },
+  {
+    "id": "1792358000013",
+    "name": "Apulia",
+    "status": "ok",
+    "method": "original"
+  },
+  {
+    "id": "1792358000014",
+    "name": "Trentino-Alto Adige",
+    "status": "ok",
+    "method": "old-cache"
+  },
+  {
+    "id": "1792358000015",
+    "name": "Tuscany",
+    "status": "ok",
+    "method": "original"
+  },
+  {
+    "id": "1792358000016",
+    "name": "Umbria",
+    "status": "ok",
+    "method": "original"
+  },
+  {
+    "id": "1792358000017",
+    "name": "Aosta Valley",
+    "status": "ok",
+    "method": "original"
+  },
+  {
+    "id": "1792358000018",
+    "name": "Veneto",
+    "status": "ok",
+    "method": "original"
+  },
+  {
+    "id": "1792359000001",
+    "name": "Baden-Württemberg",
+    "status": "ok",
+    "method": "original"
+  },
+  {
+    "id": "1792359000002",
+    "name": "Bavaria",
+    "status": "ok",
+    "method": "original"
+  },
+  {
+    "id": "1792359000003",
+    "name": "Berlin",
+    "status": "ok",
+    "method": "original"
+  },
+  {
+    "id": "1792359000004",
+    "name": "Brandenburg",
+    "status": "ok",
+    "method": "original"
+  },
+  {
+    "id": "1792359000005",
+    "name": "Bremen",
+    "status": "ok",
+    "method": "original"
+  },
+  {
+    "id": "1792359000006",
+    "name": "Hamburg",
+    "status": "ok",
+    "method": "old-cache"
+  },
+  {
+    "id": "1792359000007",
+    "name": "Hesse",
+    "status": "ok",
+    "method": "original"
+  },
+  {
+    "id": "1792359000008",
+    "name": "Lower Saxony",
+    "status": "ok",
+    "method": "original"
+  },
+  {
+    "id": "1792359000009",
+    "name": "Mecklenburg-Vorpommern",
+    "status": "ok",
+    "method": "original"
+  },
+  {
+    "id": "1792359000010",
+    "name": "North Rhine-Westphalia",
+    "status": "ok",
+    "method": "original"
+  },
+  {
+    "id": "1792359000011",
+    "name": "Rhineland-Palatinate",
+    "status": "ok",
+    "method": "original"
+  },
+  {
+    "id": "1792359000012",
+    "name": "Saarland",
+    "status": "ok",
+    "method": "original"
+  },
+  {
+    "id": "1792359000013",
+    "name": "Saxony",
+    "status": "ok",
+    "method": "original"
+  },
+  {
+    "id": "1792359000014",
+    "name": "Saxony-Anhalt",
+    "status": "ok",
+    "method": "original"
+  },
+  {
+    "id": "1792359000015",
+    "name": "Schleswig-Holstein",
+    "status": "ok",
+    "method": "original"
+  },
+  {
+    "id": "1792359000016",
+    "name": "Thuringia",
+    "status": "ok",
+    "method": "original"
+  },
+  {
+    "id": "1792359001001",
+    "name": "Lake Geneva Region",
+    "status": "ok",
+    "method": "original"
+  },
+  {
+    "id": "1792359001002",
+    "name": "Espace Mittelland",
+    "status": "ok",
+    "method": "original"
+  },
+  {
+    "id": "1792359001003",
+    "name": "Northwestern Switzerland",
+    "status": "ok",
+    "method": "original"
+  },
+  {
+    "id": "1792359001004",
+    "name": "Zurich",
+    "status": "ok",
+    "method": "original"
+  },
+  {
+    "id": "1792359001005",
+    "name": "Eastern Switzerland",
+    "status": "ok",
+    "method": "original"
+  },
+  {
+    "id": "1792359001006",
+    "name": "Central Switzerland",
+    "status": "ok",
+    "method": "old-cache"
+  }
+]
