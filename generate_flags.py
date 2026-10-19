@@ -10,6 +10,10 @@ s=requests.Session();s.headers.update({"User-Agent":"MMD31 WavyFlags/1.0 (region
 report=[]
 for n,r in enumerate(rows,1):
  try:
+  if (flags/(r["id"]+".png")).is_file():
+   report.append({"id":r["id"],"name":r["name"],"status":"ok","cached":True})
+   print(n,len(rows),r["name"],"cached",flush=True)
+   continue
   url=r["source_flag_url"].split("?")[0]
   if not url.startswith("https://"):raise ValueError("Source not HTTPS")
   response=s.get(url,timeout=25);response.raise_for_status()
