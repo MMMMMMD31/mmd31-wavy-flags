@@ -5,6 +5,7 @@ on:
     paths:
       - 'flags_manifest.zlib.b64'
       - 'generate_flags.py'
+      - 'generate_emoji_flags.py'
       - '.github/workflows/wavy-flags.yml'
   workflow_dispatch:
 permissions:
@@ -18,7 +19,7 @@ jobs:
         with:
           python-version: '3.11'
       - run: pip install 'pillow>=10.4,<13' 'requests>=2.32,<3' 'cairosvg>=2.7,<3'
-      - run: python generate_flags.py
+      - run: python generate_emoji_flags.py
       - name: Commit PNG and gallery
         run: |
           git config user.name "github-actions[bot]"
