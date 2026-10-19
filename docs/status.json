@@ -2,67 +2,69 @@
   {
     "id": "1790572339282",
     "name": "Nouvelle-Aquitaine",
-    "status": "ok"
+    "status": "ok",
+    "cached": true
   },
   {
     "id": "1790659080807",
     "name": "Provence-Alpes-Côte-d'Azur",
-    "status": "ok"
+    "status": "ok",
+    "cached": true
   },
   {
     "id": "1790695988984",
     "name": "Île-de-France",
-    "status": "ok"
+    "status": "ok",
+    "cached": true
   },
   {
     "id": "1790884491205",
     "name": "Normandie",
-    "status": "ok"
+    "status": "ok",
+    "cached": true
   },
   {
     "id": "1790884696681",
     "name": "Bourgogne-Franche-Comté",
-    "status": "ok"
+    "status": "ok",
+    "cached": true
   },
   {
     "id": "1790885158808",
     "name": "Centre-Val-de-Loire",
-    "status": "ok"
+    "status": "ok",
+    "cached": true
   },
   {
     "id": "1790885359573",
     "name": "Pays-de-La-Loire",
-    "status": "error",
-    "reason": "429 Client Error: Too many requests (76af2b0) for url: https://upload.wikimedia.org/wikipedia/commons/2/24/Cultural_flag_of_Pays-de-la-Loire"
+    "status": "ok"
   },
   {
     "id": "1790917541169",
     "name": "Haut-de-France",
-    "status": "ok"
+    "status": "ok",
+    "cached": true
   },
   {
     "id": "1790917778744",
     "name": "Grand-Est",
-    "status": "error",
-    "reason": "429 Client Error: Too many requests (f061ab2) for url: https://upload.wikimedia.org/wikipedia/commons/c/c7/Flag_of_Alsace.svg"
+    "status": "ok"
   },
   {
     "id": "1790918075927",
     "name": "Auvergne-Rhône-Alpes",
-    "status": "error",
-    "reason": "429 Client Error: Too many requests (76af2b0) for url: https://upload.wikimedia.org/wikipedia/commons/8/85/Flag_of_the_region_Auvergne-Rh%C3"
+    "status": "ok"
   },
   {
     "id": "1791022189806",
     "name": "Formentera",
-    "status": "error",
-    "reason": "429 Client Error: Too many requests (f061ab2) for url: https://upload.wikimedia.org/wikipedia/commons/6/6a/Bandera_de_Formentera.svg"
+    "status": "ok"
   },
   {
     "id": "1791022447995",
     "name": "Mallorca ",
-    "status": "error",
-    "reason": "429 Client Error: Too many requests (76af2b0) for url: https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Mallorca.svg"
+    "status": "ok"
   },
   {
     "id": "1791022715791",
@@ -86,19 +88,18 @@
     "id": "1791047157533",
     "name": "Andalucía",
     "status": "error",
-    "reason": "429 Client Error: Too many requests (76af2b0) for url: https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_Andaluc%C3%ADa.svg"
+    "reason": "429 Client Error: Too many requests (f061ab2) for url: https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_Andaluc%C3%ADa.svg"
   },
   {
     "id": "1791047773453",
     "name": "Aragón",
     "status": "error",
-    "reason": "429 Client Error: Too many requests (76af2b0) for url: https://upload.wikimedia.org/wikipedia/commons/1/18/Flag_of_Aragon.svg"
+    "reason": "429 Client Error: Too many requests (f061ab2) for url: https://upload.wikimedia.org/wikipedia/commons/1/18/Flag_of_Aragon.svg"
   },
   {
     "id": "1791048006665",
     "name": "Asturias",
-    "status": "error",
-    "reason": "429 Client Error: Too many requests (76af2b0) for url: https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_Asturias.svg"
+    "status": "ok"
   },
   {
     "id": "1791048498730",
@@ -109,20 +110,19 @@
   {
     "id": "1791050575956",
     "name": "Comunidad de Madrid",
-    "status": "error",
-    "reason": "429 Client Error: Too many requests (f061ab2) for url: https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_the_Community_of_Madrid.s"
+    "status": "ok"
   },
   {
     "id": "1791051546680",
     "name": "Región de Murcia",
     "status": "error",
-    "reason": "429 Client Error: Too many requests. Please contact noc@wikimedia.org for further information (0068e25) for url: https://upload.wikimedia.or"
+    "reason": "429 Client Error: Too many requests (76af2b0) for url: https://upload.wikimedia.org/wikipedia/commons/a/a5/Flag_of_the_Region_of_Murcia.svg"
   },
   {
     "id": "1791051662246",
     "name": "Navarra",
     "status": "error",
-    "reason": "429 Client Error: Too many requests (76af2b0) for url: https://upload.wikimedia.org/wikipedia/commons/3/36/Bandera_de_Navarra.svg"
+    "reason": "429 Client Error: Too many requests (f061ab2) for url: https://upload.wikimedia.org/wikipedia/commons/3/36/Bandera_de_Navarra.svg"
   },
   {
     "id": "1791129899907",
@@ -139,7 +139,8 @@
   {
     "id": "1791130969709",
     "name": "Ceuta",
-    "status": "ok"
+    "status": "ok",
+    "cached": true
   },
   {
     "id": "1791131287277",
@@ -150,128 +151,152 @@
   {
     "id": "1791177051294",
     "name": "Great London",
-    "status": "ok"
+    "status": "ok",
+    "cached": true
   },
   {
     "id": "1791177800284",
     "name": "North West (ENG)",
-    "status": "ok"
+    "status": "ok",
+    "cached": true
   },
   {
     "id": "1791225177631",
     "name": "West Midlands (ENG)",
-    "status": "ok"
+    "status": "ok",
+    "cached": true
   },
   {
     "id": "1791225559874",
     "name": "Yorkshire And The Humber",
-    "status": "ok"
+    "status": "ok",
+    "cached": true
   },
   {
     "id": "1791286166429",
     "name": "East Midlands (ENG)",
-    "status": "ok"
+    "status": "ok",
+    "cached": true
   },
   {
     "id": "1791286416424",
     "name": "South East (ENG)",
-    "status": "ok"
+    "status": "ok",
+    "cached": true
   },
   {
     "id": "1791286581560",
     "name": "North East (ENG)",
-    "status": "ok"
+    "status": "ok",
+    "cached": true
   },
   {
     "id": "1791286706378",
     "name": "South West (ENG)",
-    "status": "ok"
+    "status": "ok",
+    "cached": true
   },
   {
     "id": "1791286931317",
     "name": "East of England",
-    "status": "ok"
+    "status": "ok",
+    "cached": true
   },
   {
     "id": "1791884606153",
     "name": "West Central Scotland",
-    "status": "ok"
+    "status": "ok",
+    "cached": true
   },
   {
     "id": "1791884737702",
     "name": "Southern Scotland",
-    "status": "ok"
+    "status": "ok",
+    "cached": true
   },
   {
     "id": "1791884962234",
     "name": "North Eastern Scotland",
-    "status": "ok"
+    "status": "ok",
+    "cached": true
   },
   {
     "id": "1791885091435",
     "name": "Highlands and Islands (SCO)",
-    "status": "ok"
+    "status": "ok",
+    "cached": true
   },
   {
     "id": "1791885364544",
     "name": "Eastern Scotland",
-    "status": "ok"
+    "status": "ok",
+    "cached": true
   },
   {
     "id": "1791982363586",
     "name": "Área Metropolitana de Lisboa",
-    "status": "ok"
+    "status": "ok",
+    "cached": true
   },
   {
     "id": "1791996337203",
     "name": "Centro (POR)",
-    "status": "ok"
+    "status": "ok",
+    "cached": true
   },
   {
     "id": "1791996455936",
     "name": "Norte (POR)",
-    "status": "ok"
+    "status": "ok",
+    "cached": true
   },
   {
     "id": "1791996618978",
     "name": "Algarve",
-    "status": "ok"
+    "status": "ok",
+    "cached": true
   },
   {
     "id": "1791996722174",
     "name": "Alentejo",
-    "status": "ok"
+    "status": "ok",
+    "cached": true
   },
   {
     "id": "1792045908770",
     "name": "Leinster",
-    "status": "ok"
+    "status": "ok",
+    "cached": true
   },
   {
     "id": "1792045987642",
     "name": "United Ulster",
     "status": "error",
-    "reason": "429 Client Error: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images"
+    "reason": "429 Client Error: Too many requests (76af2b0) for url: https://upload.wikimedia.org/wikipedia/commons/7/7e/Flag_of_Ulster.svg"
   },
   {
     "id": "1792046127848",
     "name": "Munster",
-    "status": "ok"
+    "status": "ok",
+    "cached": true
   },
   {
     "id": "1792046200023",
     "name": "Connacht",
-    "status": "ok"
+    "status": "ok",
+    "cached": true
   },
   {
     "id": "1792127836339",
     "name": "West Wales and the Valleys",
-    "status": "ok"
+    "status": "ok",
+    "cached": true
   },
   {
     "id": "1792127923885",
     "name": "East Wales",
-    "status": "ok"
+    "status": "ok",
+    "cached": true
   },
   {
     "id": "1792358000001",
@@ -283,18 +308,19 @@
     "id": "1792358000002",
     "name": "Basilicata",
     "status": "error",
-    "reason": "429 Client Error: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images"
+    "reason": "429 Client Error: Too many requests (76af2b0) for url: https://upload.wikimedia.org/wikipedia/commons/8/8e/Flag_of_Basilicata.svg"
   },
   {
     "id": "1792358000003",
     "name": "Calabria",
     "status": "error",
-    "reason": "429 Client Error: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images"
+    "reason": "429 Client Error: Too many requests (76af2b0) for url: https://upload.wikimedia.org/wikipedia/commons/8/8b/Flag_of_Calabria.svg"
   },
   {
     "id": "1792358000004",
     "name": "Campania",
-    "status": "ok"
+    "status": "ok",
+    "cached": true
   },
   {
     "id": "1792358000005",
@@ -318,7 +344,7 @@
     "id": "1792358000008",
     "name": "Liguria",
     "status": "error",
-    "reason": "429 Client Error: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images"
+    "reason": "429 Client Error: Too many requests (76af2b0) for url: https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Liguria.svg"
   },
   {
     "id": "1792358000009",
@@ -330,13 +356,13 @@
     "id": "1792358000010",
     "name": "Marche",
     "status": "error",
-    "reason": "429 Client Error: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images"
+    "reason": "429 Client Error: Too many requests (76af2b0) for url: https://upload.wikimedia.org/wikipedia/commons/0/07/Flag_of_Marche.svg"
   },
   {
     "id": "1792358000011",
     "name": "Molise",
     "status": "error",
-    "reason": "429 Client Error: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images"
+    "reason": "429 Client Error: Too many requests (76af2b0) for url: https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Molise.svg"
   },
   {
     "id": "1792358000012",
@@ -348,13 +374,12 @@
     "id": "1792358000013",
     "name": "Apulia",
     "status": "error",
-    "reason": "429 Client Error: Too many requests (76af2b0) for url: https://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Apulia.svg"
+    "reason": "429 Client Error: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images"
   },
   {
     "id": "1792358000014",
     "name": "Trentino-Alto Adige",
-    "status": "error",
-    "reason": "429 Client Error: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images"
+    "status": "ok"
   },
   {
     "id": "1792358000015",
@@ -366,19 +391,19 @@
     "id": "1792358000016",
     "name": "Umbria",
     "status": "error",
-    "reason": "429 Client Error: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images"
+    "reason": "429 Client Error: Too many requests (76af2b0) for url: https://upload.wikimedia.org/wikipedia/commons/c/cc/Flag_of_Umbria.svg"
   },
   {
     "id": "1792358000017",
     "name": "Aosta Valley",
     "status": "error",
-    "reason": "429 Client Error: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images"
+    "reason": "429 Client Error: Too many requests (76af2b0) for url: https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Valle_d%27Aosta.svg"
   },
   {
     "id": "1792358000018",
     "name": "Veneto",
     "status": "error",
-    "reason": "429 Client Error: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images"
+    "reason": "429 Client Error: Too many requests (76af2b0) for url: https://upload.wikimedia.org/wikipedia/commons/d/d5/Flag_of_Veneto.svg"
   },
   {
     "id": "1792359000001",
@@ -413,13 +438,14 @@
   {
     "id": "1792359000006",
     "name": "Hamburg",
-    "status": "ok"
+    "status": "ok",
+    "cached": true
   },
   {
     "id": "1792359000007",
     "name": "Hesse",
     "status": "error",
-    "reason": "429 Client Error: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images"
+    "reason": "429 Client Error: Too many requests (76af2b0) for url: https://upload.wikimedia.org/wikipedia/commons/f/f7/Flag_of_Hesse.svg"
   },
   {
     "id": "1792359000008",
@@ -437,7 +463,7 @@
     "id": "1792359000010",
     "name": "North Rhine-Westphalia",
     "status": "error",
-    "reason": "429 Client Error: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images"
+    "reason": "429 Client Error: Too many requests (76af2b0) for url: https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_North_Rhine-Westphalia.sv"
   },
   {
     "id": "1792359000011",
@@ -449,7 +475,7 @@
     "id": "1792359000012",
     "name": "Saarland",
     "status": "error",
-    "reason": "429 Client Error: Too many requests (76af2b0) for url: https://upload.wikimedia.org/wikipedia/commons/f/f7/Flag_of_Saarland.svg"
+    "reason": "429 Client Error: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images"
   },
   {
     "id": "1792359000013",
@@ -508,7 +534,6 @@
   {
     "id": "1792359001006",
     "name": "Central Switzerland",
-    "status": "error",
-    "reason": "429 Client Error: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images"
+    "status": "ok"
   }
 ]
