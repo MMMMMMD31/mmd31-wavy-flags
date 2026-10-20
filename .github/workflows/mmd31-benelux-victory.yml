@@ -1,0 +1,74 @@
+name: Generate MMD31 Benelux Victory Flags
+on:
+  push:
+    paths: ['.github/workflows/mmd31-benelux-victory.yml']
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install Pillow cairosvg requests
+      - name: Generate 10 wavy transparent 120x96 flags
+        shell: python
+        run: |
+          import requests, cairosvg, io, math, os, time
+          from PIL import Image
+          names = [
+            'Flag_of_Groningen_City.svg', 'Flag_of_Zwolle.svg',
+            'Flag_of_Amsterdam.svg', 'Flag_of_Eindhoven.svg',
+            'Flag_of_Flanders.svg', 'Flag_of_Wallonia.svg',
+            'Flag_of_the_Brussels-Capital_Region.svg',
+            'Flag_of_Diekirch,_Luxembourg.svg',
+            'Coat_of_arms_grevenmacher_luxbrg.svg',
+            'Flag_of_Luxembourg_(city).svg'
+          ]
+          os.makedirs('docs/emoji-flags',exist_ok=True)
+          manifest=[]
+          for i, name in enumerate(names):
+            url='https://commons.wikimedia.org/wiki/Special:Redirect/file/'+requests.utils.quote(name, safe='(),-_.')
+            response=None
+            for attempt in range(4):
+              try:
+                response=requests.get(url,headers={'User-Agent':'MMD31-educational-game-art/1.0 (public github)'},timeout=35)
+                response.raise_for_status()
+                break
+              except requests.RequestException:
+                if attempt==3: raise
+                time.sleep(3*(attempt+1))
+            original=cairosvg.svg2png(bytestring=response.content,output_width=108,output_height=72)
+            src=Image.open(io.BytesIO(original)).convert('RGBA')
+            # Municipal heraldry for Grevenmacher: symbolic substitute, NOT an official flag.
+            if i==8:
+              field=Image.new('RGBA',(108,72),'white')
+              crest=src.copy();crest.thumbnail((48,61),Image.Resampling.LANCZOS)
+              field.alpha_composite(crest,((108-crest.width)//2,(72-crest.height)//2));src=field
+            out=Image.new('RGBA',(120,96),(0,0,0,0))
+            for x in range(108):
+              top=9+round(4*math.sin(x/19+0.4))
+              for y in range(72):
+                yy=top+y+round(2.5*math.sin(x/23+y/53))
+                if 0<=yy<96:
+                  r,g,b,a=src.getpixel((x,y))
+                  # emoji-style curved lighting, without a pole or background
+                  light=0.92+0.08*math.cos(x/14)
+                  out.putpixel((x+6,yy),(int(r*light),int(g*light),int(b*light),a))
+            tid=1792700001001+i
+            path=f'docs/emoji-flags/{tid}.png'
+            out.save(path,optimize=True)
+            assert Image.open(path).size==(120,96)
+            assert Image.open(path).mode=='RGBA'
+            manifest.append(f'{tid} | {name} | {url}' + (' | symbolic city arms on white, not official flag' if i==8 else ''))
+          with open('docs/emoji-flags/BENELUX_SOURCES.md','w') as f:
+            f.write('# MMD31 Benelux Victory flags\nOriginal images from Wikimedia Commons: check individual license and attribution on their file pages.\n\n'+'\n'.join(manifest)+'\n')
+      - name: Commit generated flag files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/emoji-flags
+          git diff --cached --quiet || (git commit -m "Generate 10 Benelux wavy Victory flags" && git push)
