@@ -1,0 +1,36 @@
+name: MMD31 French Departments ONE-OFF Test Pennants
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'tools/generate_mmd31_fr_departments_one_off.py'
+      - '.github/workflows/mmd31-fr-departments-one-off.yml'
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install Pillow
+        run: python -m pip install Pillow
+      - name: Generate 101 normal and 101 victory flags offline
+        run: python tools/generate_mmd31_fr_departments_one_off.py
+      - name: Publish only MMD31 one-off department test assets
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/departements-fr-test/
+          if git diff --cached --quiet; then
+            echo "No media changes"
+          else
+            git commit -m "Publish 101+101 MMD31 France department test pennants"
+            git push
+          fi
