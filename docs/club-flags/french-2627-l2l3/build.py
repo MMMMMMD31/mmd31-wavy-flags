@@ -22,7 +22,26 @@ def download(url):
 
 def wiki_crest(team):
  # Prefer club badge from Wikipedia infobox; reject article hero image not in infobox.
- titles=[team["wiki"]]
+ aliases={
+  "AS Cannes":["AS Cannes","Association Sportive de Cannes"],
+  "AS Nancy-Lorraine":["AS Nancy Lorraine","AS Nancy-Lorraine"],
+  "AS Saint-Étienne":["AS Saint-Étienne","AS Saint-Etienne"],
+  "Dijon FCO":["Dijon FCO"],
+  "EA Guingamp":["En Avant Guingamp","EA Guingamp"],
+  "FC Fleury 91":["FC Fleury 91","Football Club Fleury 91"],
+  "FC Nantes":["FC Nantes"],
+  "FC Villefranche-Beaujolais":["FC Villefranche Beaujolais"],
+  "Quevilly Rouen Métropole":["US Quevilly-Rouen Métropole","Quevilly-Rouen Métropole"],
+  "SC Aubagne Air Bel":["SC Aubagne","Aubagne FC"],
+  "Stade Lavallois":["Stade Lavallois"],
+  "US Boulogne CO":["US Boulogne","US Boulogne CO"],
+  "US Concarneau":["US Concarneau"],
+  "US Orléans":["US Orléans","US Orléans Loiret"],
+  "US Thionville Lusitanos":["Thionville FC","US Thionville Lusitanos"],
+  "USL Dunkerque":["USL Dunkerque","US Dunkerque"],
+  "Vendée FC La Roche":["La Roche VF","Vendée FC La Roche"],
+ }
+ titles=list(dict.fromkeys([team["name"]]+aliases.get(team["name"],[])+[team["wiki"]]))
  for lang in ("fr","en"):
   for title in titles:
    url=f"https://{lang}.wikipedia.org/wiki/{quote(title.replace(' ','_'))}"
