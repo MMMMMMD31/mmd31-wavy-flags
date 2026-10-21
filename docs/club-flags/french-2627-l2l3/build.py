@@ -21,6 +21,10 @@ def download(url):
  except Exception: return None
 
 def wiki_crest(team):
+ if team["slug"]=="fleury":
+  verified="https://fr.wikipedia.org/wiki/Special:Redirect/file/Logo_FC_Fleury_91_-_2023-11.svg"
+  img=download(verified)
+  if img: return img,verified
  # Prefer club badge from Wikipedia infobox; reject article hero image not in infobox.
  aliases={
   "AS Cannes":["AS Cannes","Association Sportive de Cannes"],
