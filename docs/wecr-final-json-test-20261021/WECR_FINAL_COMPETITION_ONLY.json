@@ -1,0 +1,441 @@
+{
+  "id": 1793210000000,
+  "title": "Regional Confederations Cup of Western Europe",
+  "slug": "mmd31-wecr-regional-confederations-cup",
+  "category": "cup",
+  "alias": "WECR Final",
+  "yearsBeforeWorldCup": 1,
+  "prestige": 88,
+  "logo": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/main/docs/wecr-logos/western_europe_logo.png",
+  "trophy": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/main/docs/wecr-trophies/MMD31_Trophy_Western_Europe_Confederations.png",
+  "matchStyleId": 1,
+  "description": "Final competition bringing together the ten winners of the Western Europe regional cups.",
+  "stages": [
+    {
+      "id": 1793210000001,
+      "title": "Stage 1",
+      "slug": "stage-1",
+      "competitionId": 1793210000000,
+      "phase": "Stage 1",
+      "type": "group",
+      "format": "roundRobin",
+      "standingTiebreakers": [
+        {
+          "field": "pt",
+          "order": "desc"
+        },
+        {
+          "field": "gd",
+          "order": "desc"
+        },
+        {
+          "field": "gf",
+          "order": "desc"
+        },
+        {
+          "field": "redCards",
+          "order": "asc"
+        },
+        {
+          "field": "elo",
+          "order": "desc"
+        }
+      ],
+      "tiebreakers": [
+        {
+          "field": "pt",
+          "order": "desc"
+        },
+        {
+          "field": "gd",
+          "order": "desc"
+        },
+        {
+          "field": "gf",
+          "order": "desc"
+        },
+        {
+          "field": "redCards",
+          "order": "asc"
+        },
+        {
+          "field": "elo",
+          "order": "desc"
+        }
+      ],
+      "pointSystem": {
+        "regularTimeDraw": 1,
+        "regularTimeWin": 3
+      },
+      "drawStrategy": {
+        "type": "standard"
+      },
+      "potDistributionMode": "fillLastPot",
+      "seedTeams": [],
+      "seedingRules": [
+        {
+          "sortBy": "seedingValue",
+          "sortOrder": "asc"
+        }
+      ],
+      "roundRobinRounds": 1,
+      "kFactor": 45,
+      "venueContext": "home",
+      "groupCount": 2,
+      "teamCount": 10,
+      "qualifications": [
+        {
+          "id": 1793210000101,
+          "type": "stage",
+          "stageId": 1793100007003,
+          "minRank": 1,
+          "maxRank": 1,
+          "seedingValue": 1
+        },
+        {
+          "id": 1793210000102,
+          "type": "stage",
+          "stageId": 1793100008003,
+          "minRank": 1,
+          "maxRank": 1,
+          "seedingValue": 1
+        },
+        {
+          "id": 1793210000103,
+          "type": "stage",
+          "stageId": 1792608267648,
+          "minRank": 1,
+          "maxRank": 1,
+          "seedingValue": 1
+        },
+        {
+          "id": 1793210000104,
+          "type": "stage",
+          "stageId": 1793100003003,
+          "minRank": 1,
+          "maxRank": 1,
+          "seedingValue": 2
+        },
+        {
+          "id": 1793210000105,
+          "type": "stage",
+          "stageId": 1793100002004,
+          "minRank": 1,
+          "maxRank": 1,
+          "seedingValue": 2
+        },
+        {
+          "id": 1793210000106,
+          "type": "stage",
+          "stageId": 1792609485967,
+          "minRank": 1,
+          "maxRank": 1,
+          "seedingValue": 3
+        },
+        {
+          "id": 1793210000107,
+          "type": "stage",
+          "stageId": 1793100001002,
+          "minRank": 1,
+          "maxRank": 1,
+          "seedingValue": 3
+        },
+        {
+          "id": 1793210000108,
+          "type": "stage",
+          "stageId": 1792609714913,
+          "minRank": 1,
+          "maxRank": 1,
+          "seedingValue": 3
+        },
+        {
+          "id": 1793210000109,
+          "type": "stage",
+          "stageId": 1793100000002,
+          "minRank": 1,
+          "maxRank": 1,
+          "seedingValue": 3
+        },
+        {
+          "id": 1793210000110,
+          "type": "stage",
+          "stageId": 1793100012003,
+          "minRank": 1,
+          "maxRank": 1,
+          "seedingValue": 2
+        }
+      ],
+      "matchFormat": 1,
+      "includeInTopScorers": true
+    },
+    {
+      "id": 1793210000002,
+      "title": "Stage 2",
+      "slug": "stage-2",
+      "competitionId": 1793210000000,
+      "phase": "Stage 2",
+      "type": "group",
+      "format": "roundRobin",
+      "standingTiebreakers": [
+        {
+          "field": "pt",
+          "order": "desc"
+        },
+        {
+          "field": "gd",
+          "order": "desc"
+        },
+        {
+          "field": "gf",
+          "order": "desc"
+        },
+        {
+          "field": "redCards",
+          "order": "asc"
+        },
+        {
+          "field": "elo",
+          "order": "desc"
+        }
+      ],
+      "tiebreakers": [
+        {
+          "field": "pt",
+          "order": "desc"
+        },
+        {
+          "field": "gd",
+          "order": "desc"
+        },
+        {
+          "field": "gf",
+          "order": "desc"
+        },
+        {
+          "field": "redCards",
+          "order": "asc"
+        },
+        {
+          "field": "elo",
+          "order": "desc"
+        }
+      ],
+      "pointSystem": {
+        "regularTimeDraw": 1,
+        "regularTimeWin": 3
+      },
+      "drawStrategy": {
+        "type": "standard"
+      },
+      "potDistributionMode": "fillLastPot",
+      "seedTeams": [],
+      "seedingRules": [
+        {
+          "sortBy": "default",
+          "sortOrder": "asc"
+        }
+      ],
+      "roundRobinRounds": 1,
+      "kFactor": 45,
+      "venueContext": "home",
+      "groupCount": 2,
+      "teamCount": 8,
+      "qualifications": [
+        {
+          "id": 1793210000111,
+          "type": "stage",
+          "stageId": 1793210000001,
+          "minRank": 1,
+          "maxRank": 8,
+          "standingColor": "#00ff00"
+        }
+      ],
+      "matchFormat": 1,
+      "includeInTopScorers": true
+    },
+    {
+      "id": 1793210000003,
+      "title": "Stage 3",
+      "slug": "stage-3",
+      "competitionId": 1793210000000,
+      "phase": "Stage 3",
+      "type": "group",
+      "format": "roundRobin",
+      "standingTiebreakers": [
+        {
+          "field": "pt",
+          "order": "desc"
+        },
+        {
+          "field": "gd",
+          "order": "desc"
+        },
+        {
+          "field": "gf",
+          "order": "desc"
+        },
+        {
+          "field": "redCards",
+          "order": "asc"
+        },
+        {
+          "field": "elo",
+          "order": "desc"
+        }
+      ],
+      "tiebreakers": [
+        {
+          "field": "pt",
+          "order": "desc"
+        },
+        {
+          "field": "gd",
+          "order": "desc"
+        },
+        {
+          "field": "gf",
+          "order": "desc"
+        },
+        {
+          "field": "redCards",
+          "order": "asc"
+        },
+        {
+          "field": "elo",
+          "order": "desc"
+        }
+      ],
+      "pointSystem": {
+        "regularTimeDraw": 1,
+        "regularTimeWin": 3
+      },
+      "drawStrategy": {
+        "type": "standard"
+      },
+      "potDistributionMode": "fillLastPot",
+      "seedTeams": [],
+      "seedingRules": [
+        {
+          "sortBy": "default",
+          "sortOrder": "asc"
+        }
+      ],
+      "roundRobinRounds": 1,
+      "kFactor": 45,
+      "venueContext": "home",
+      "groupCount": 2,
+      "teamCount": 6,
+      "qualifications": [
+        {
+          "id": 1793210000112,
+          "type": "stage",
+          "stageId": 1793210000002,
+          "minRank": 1,
+          "maxRank": 6,
+          "standingColor": "#00ff00"
+        }
+      ],
+      "matchFormat": 1,
+      "includeInTopScorers": true
+    },
+    {
+      "id": 1793210000004,
+      "title": "Finals",
+      "slug": "finals",
+      "competitionId": 1793210000000,
+      "phase": "Finals",
+      "type": "knockout",
+      "kFactor": 50,
+      "venueContext": "home",
+      "teamCount": 4,
+      "playoffPaths": 2,
+      "knockoutTotalRounds": 2,
+      "hasThirdPlaceMatch": true,
+      "legs": 1,
+      "qualifications": [
+        {
+          "id": 1793210000113,
+          "type": "stage",
+          "stageId": 1793210000003,
+          "minRank": 1,
+          "maxRank": 4,
+          "standingColor": "#00ff00"
+        }
+      ],
+      "brackets": [
+        {
+          "team1": {
+            "type": "groupRank",
+            "stageId": 1793210000003,
+            "groupIndices": [
+              0
+            ],
+            "rank": 1
+          },
+          "team2": {
+            "type": "groupRank",
+            "stageId": 1793210000003,
+            "groupIndices": [
+              1
+            ],
+            "rank": 2
+          }
+        },
+        {
+          "team1": {
+            "type": "groupRank",
+            "stageId": 1793210000003,
+            "groupIndices": [
+              1
+            ],
+            "rank": 1
+          },
+          "team2": {
+            "type": "groupRank",
+            "stageId": 1793210000003,
+            "groupIndices": [
+              0
+            ],
+            "rank": 2
+          }
+        }
+      ],
+      "matchFormat": 2,
+      "isChampionshipStage": true,
+      "includeInTopScorers": true,
+      "seedTeams": [],
+      "seedingRules": [
+        {
+          "sortBy": "default",
+          "sortOrder": "asc"
+        }
+      ]
+    }
+  ],
+  "$types": {
+    "stages": "arrayNonindexKeys",
+    "stages.0.standingTiebreakers": "arrayNonindexKeys",
+    "stages.0.tiebreakers": "arrayNonindexKeys",
+    "stages.0.seedTeams": "arrayNonindexKeys",
+    "stages.0.seedingRules": "arrayNonindexKeys",
+    "stages.0.qualifications": "arrayNonindexKeys",
+    "stages.1.standingTiebreakers": "arrayNonindexKeys",
+    "stages.1.tiebreakers": "arrayNonindexKeys",
+    "stages.1.seedTeams": "arrayNonindexKeys",
+    "stages.1.seedingRules": "arrayNonindexKeys",
+    "stages.1.qualifications": "arrayNonindexKeys",
+    "stages.2.standingTiebreakers": "arrayNonindexKeys",
+    "stages.2.tiebreakers": "arrayNonindexKeys",
+    "stages.2.seedTeams": "arrayNonindexKeys",
+    "stages.2.seedingRules": "arrayNonindexKeys",
+    "stages.2.qualifications": "arrayNonindexKeys",
+    "stages.3.qualifications": "arrayNonindexKeys",
+    "stages.3.brackets": "arrayNonindexKeys",
+    "stages.3.brackets.0.team1.groupIndices": "arrayNonindexKeys",
+    "stages.3.brackets.0.team2.groupIndices": "arrayNonindexKeys",
+    "stages.3.brackets.1.team1.groupIndices": "arrayNonindexKeys",
+    "stages.3.brackets.1.team2.groupIndices": "arrayNonindexKeys",
+    "stages.3.seedTeams": "arrayNonindexKeys",
+    "stages.3.seedingRules": "arrayNonindexKeys"
+  }
+}
