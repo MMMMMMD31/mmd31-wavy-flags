@@ -17,8 +17,8 @@ try:
   try:
    h=bs4.BeautifulSoup(s.get(page,timeout=18).text,"html.parser")
    full=h.get_text(" ",strip=True)
-   match=re.search(r"Current Rating\\s*([0-9][0-9,]+)",full,re.I)
-   dat=re.search(r"Current Rating\\s*[0-9][0-9,]+\\s*(\\d{1,2} [A-Za-z]+ 2026)",full,re.I)
+   match=re.search(r"Current Rating\s*([0-9][0-9,]+)",full,re.I)
+   dat=re.search(r"Current Rating\s*[0-9][0-9,]+\s*(\d{1,2} [A-Za-z]+ 2026)",full,re.I)
    if match:
     teams[key]={"elo":int(match.group(1).replace(",","")),"date":dat.group(1) if dat else "October 2026","source":page}
   except Exception:pass
