@@ -1,5 +1,5 @@
 {
-  "generated": 35,
+  "generated": 36,
   "requested": 36,
   "results": [
     {
@@ -59,8 +59,8 @@
     {
       "club": "FC Fleury 91",
       "division": "l3",
-      "status": "NO_AUTHENTIC_CRESPONSE",
-      "source": null
+      "status": "AUTHENTIC_WIKI_INFOBOX_CREST",
+      "source": "https://www.footylogos.com/dls/logo/rgba-v1/fc-fleury-91.png"
     },
     {
       "club": "FC Metz",
