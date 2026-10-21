@@ -22,7 +22,7 @@ def download(url):
 
 def wiki_crest(team):
  if team["slug"]=="fleury":
-  verified="https://fr.wikipedia.org/wiki/Special:Redirect/file/Logo_FC_Fleury_91_-_2023-11.svg"
+  verified="https://www.footylogos.com/dls/logo/rgba-v1/fc-fleury-91.png"
   img=download(verified)
   if img: return img,verified
  # Prefer club badge from Wikipedia infobox; reject article hero image not in infobox.
