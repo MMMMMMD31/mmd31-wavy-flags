@@ -1,0 +1,258 @@
+{
+  "date": "2026-10-21",
+  "label": "MMD31 French Leagues — 2026/27 new team badges",
+  "teams": [
+    {
+      "division": "l2",
+      "slug": "annecy",
+      "name": "FC Annecy",
+      "wiki": "FC Annecy",
+      "color": "#C32537"
+    },
+    {
+      "division": "l2",
+      "slug": "boulogne",
+      "name": "US Boulogne CO",
+      "wiki": "Union sportive Boulogne Côte d'Opale",
+      "color": "#BD101F"
+    },
+    {
+      "division": "l2",
+      "slug": "clermont",
+      "name": "Clermont Foot 63",
+      "wiki": "Clermont Foot 63",
+      "color": "#C61F37"
+    },
+    {
+      "division": "l2",
+      "slug": "dijon",
+      "name": "Dijon FCO",
+      "wiki": "Dijon Football Côte-d'Or",
+      "color": "#C62032"
+    },
+    {
+      "division": "l2",
+      "slug": "dunkerque",
+      "name": "USL Dunkerque",
+      "wiki": "Union sportive du littoral de Dunkerque",
+      "color": "#1463B5"
+    },
+    {
+      "division": "l2",
+      "slug": "grenoble",
+      "name": "Grenoble Foot 38",
+      "wiki": "Grenoble Foot 38",
+      "color": "#1747A4"
+    },
+    {
+      "division": "l2",
+      "slug": "guingamp",
+      "name": "EA Guingamp",
+      "wiki": "En avant Guingamp",
+      "color": "#CC1D2D"
+    },
+    {
+      "division": "l2",
+      "slug": "laval",
+      "name": "Stade Lavallois",
+      "wiki": "Stade lavallois Mayenne Football Club",
+      "color": "#E17A1D"
+    },
+    {
+      "division": "l2",
+      "slug": "metz",
+      "name": "FC Metz",
+      "wiki": "Football Club de Metz",
+      "color": "#8B1635"
+    },
+    {
+      "division": "l2",
+      "slug": "montpellier",
+      "name": "Montpellier HSC",
+      "wiki": "Montpellier Hérault Sport Club",
+      "color": "#EA6723"
+    },
+    {
+      "division": "l2",
+      "slug": "nancy",
+      "name": "AS Nancy-Lorraine",
+      "wiki": "Association sportive Nancy-Lorraine",
+      "color": "#C82034"
+    },
+    {
+      "division": "l2",
+      "slug": "nantes",
+      "name": "FC Nantes",
+      "wiki": "Football Club de Nantes",
+      "color": "#E2B627"
+    },
+    {
+      "division": "l2",
+      "slug": "pau",
+      "name": "Pau FC",
+      "wiki": "Pau Football Club",
+      "color": "#E5B72A"
+    },
+    {
+      "division": "l2",
+      "slug": "red-star",
+      "name": "Red Star FC",
+      "wiki": "Red Star Football Club",
+      "color": "#157A50"
+    },
+    {
+      "division": "l2",
+      "slug": "reims",
+      "name": "Stade de Reims",
+      "wiki": "Stade de Reims",
+      "color": "#C92338"
+    },
+    {
+      "division": "l2",
+      "slug": "rodez",
+      "name": "Rodez AF",
+      "wiki": "Rodez Aveyron Football",
+      "color": "#B4172F"
+    },
+    {
+      "division": "l2",
+      "slug": "saint-etienne",
+      "name": "AS Saint-Étienne",
+      "wiki": "Association sportive de Saint-Étienne",
+      "color": "#16874C"
+    },
+    {
+      "division": "l2",
+      "slug": "sochaux",
+      "name": "FC Sochaux-Montbéliard",
+      "wiki": "Football Club Sochaux-Montbéliard",
+      "color": "#E5BF26"
+    },
+    {
+      "division": "l3",
+      "slug": "amiens",
+      "name": "Amiens SC",
+      "wiki": "Amiens Sporting Club",
+      "color": "#161616"
+    },
+    {
+      "division": "l3",
+      "slug": "aubagne",
+      "name": "SC Aubagne Air Bel",
+      "wiki": "Sporting Club Aubagne Air Bel",
+      "color": "#CD273C"
+    },
+    {
+      "division": "l3",
+      "slug": "bastia",
+      "name": "SC Bastia",
+      "wiki": "Sporting Club de Bastia",
+      "color": "#1263AB"
+    },
+    {
+      "division": "l3",
+      "slug": "bourg",
+      "name": "Bourg-en-Bresse 01",
+      "wiki": "Football Bourg-en-Bresse Péronnas 01",
+      "color": "#1672B7"
+    },
+    {
+      "division": "l3",
+      "slug": "caen",
+      "name": "SM Caen",
+      "wiki": "Stade Malherbe Caen",
+      "color": "#D22132"
+    },
+    {
+      "division": "l3",
+      "slug": "cannes",
+      "name": "AS Cannes",
+      "wiki": "Association sportive de Cannes Football",
+      "color": "#CD2339"
+    },
+    {
+      "division": "l3",
+      "slug": "concarneau",
+      "name": "US Concarneau",
+      "wiki": "Union sportive concarnoise",
+      "color": "#C72C38"
+    },
+    {
+      "division": "l3",
+      "slug": "fleury",
+      "name": "FC Fleury 91",
+      "wiki": "Football Club Fleury 91",
+      "color": "#C21B32"
+    },
+    {
+      "division": "l3",
+      "slug": "la-roche",
+      "name": "Vendée FC La Roche",
+      "wiki": "Vendée Football Club La Roche-sur-Yon",
+      "color": "#D31D36"
+    },
+    {
+      "division": "l3",
+      "slug": "le-puy",
+      "name": "Le Puy Foot 43",
+      "wiki": "Le Puy Foot 43 Auvergne",
+      "color": "#1264A0"
+    },
+    {
+      "division": "l3",
+      "slug": "orleans",
+      "name": "US Orléans",
+      "wiki": "Union sportive Orléans Loiret football",
+      "color": "#E8BD24"
+    },
+    {
+      "division": "l3",
+      "slug": "paris13",
+      "name": "Paris 13 Atlético",
+      "wiki": "Paris 13 Atletico",
+      "color": "#C62437"
+    },
+    {
+      "division": "l3",
+      "slug": "qrm",
+      "name": "Quevilly Rouen Métropole",
+      "wiki": "Union sportive Quevilly Rouen Métropole",
+      "color": "#E5AD22"
+    },
+    {
+      "division": "l3",
+      "slug": "rouen",
+      "name": "FC Rouen",
+      "wiki": "Football Club de Rouen 1899",
+      "color": "#C92038"
+    },
+    {
+      "division": "l3",
+      "slug": "thionville",
+      "name": "US Thionville Lusitanos",
+      "wiki": "Union sportive Thionville Lusitanos",
+      "color": "#165AA5"
+    },
+    {
+      "division": "l3",
+      "slug": "valenciennes",
+      "name": "Valenciennes FC",
+      "wiki": "Valenciennes Football Club",
+      "color": "#C42830"
+    },
+    {
+      "division": "l3",
+      "slug": "versailles",
+      "name": "FC Versailles",
+      "wiki": "Football Club de Versailles 78",
+      "color": "#26478C"
+    },
+    {
+      "division": "l3",
+      "slug": "villefranche",
+      "name": "FC Villefranche-Beaujolais",
+      "wiki": "Football Club Villefranche Beaujolais",
+      "color": "#2652A1"
+    }
+  ]
+}
