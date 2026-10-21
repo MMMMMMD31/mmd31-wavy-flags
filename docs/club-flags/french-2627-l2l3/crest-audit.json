@@ -1,60 +1,60 @@
 {
-  "generated": 19,
+  "generated": 35,
   "requested": 36,
   "results": [
     {
       "club": "AS Cannes",
       "division": "l3",
-      "status": "NO_AUTHENTIC_CRESPONSE",
-      "source": null
+      "status": "AUTHENTIC_WIKI_INFOBOX_CREST",
+      "source": "https://thumb.wikimedia.org/wikipedia/en/thumb/6/64/AS_Cannes_logo.svg/500px-AS_Cannes_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
     },
     {
       "club": "AS Nancy-Lorraine",
       "division": "l2",
-      "status": "NO_AUTHENTIC_CRESPONSE",
-      "source": null
+      "status": "AUTHENTIC_WIKI_INFOBOX_CREST",
+      "source": "https://thumb.wikimedia.org/wikipedia/en/thumb/4/4d/AS_Nancy_logo.svg/500px-AS_Nancy_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
     },
     {
       "club": "AS Saint-Étienne",
       "division": "l2",
-      "status": "NO_AUTHENTIC_CRESPONSE",
-      "source": null
+      "status": "AUTHENTIC_WIKI_INFOBOX_CREST",
+      "source": "https://thumb.wikimedia.org/wikipedia/en/thumb/2/25/AS_Saint-%C3%89tienne_logo.svg/500px-AS_Saint-%C3%89tienne_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
     },
     {
       "club": "Amiens SC",
       "division": "l3",
       "status": "AUTHENTIC_WIKI_INFOBOX_CREST",
-      "source": "https://thumb.wikimedia.org/wikipedia/en/thumb/2/25/Amiens_SC_logo.svg/500px-Amiens_SC_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+      "source": "Previously published verified crest"
     },
     {
       "club": "Bourg-en-Bresse 01",
       "division": "l3",
       "status": "AUTHENTIC_WIKI_INFOBOX_CREST",
-      "source": "https://thumb.wikimedia.org/wikipedia/en/thumb/4/42/Football_Bourg-en-Bresse_Peronnas_01_logo.svg/500px-Football_Bourg-en-Bresse_Peronnas_01_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+      "source": "Previously published verified crest"
     },
     {
       "club": "Clermont Foot 63",
       "division": "l2",
       "status": "AUTHENTIC_WIKI_INFOBOX_CREST",
-      "source": "https://thumb.wikimedia.org/wikipedia/en/thumb/5/52/Clermont_Foot_logo.svg/500px-Clermont_Foot_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+      "source": "Previously published verified crest"
     },
     {
       "club": "Dijon FCO",
       "division": "l2",
-      "status": "NO_AUTHENTIC_CRESPONSE",
-      "source": null
+      "status": "AUTHENTIC_WIKI_INFOBOX_CREST",
+      "source": "https://thumb.wikimedia.org/wikipedia/en/thumb/f/f7/Dijon_FCO_logo.svg/500px-Dijon_FCO_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
     },
     {
       "club": "EA Guingamp",
       "division": "l2",
-      "status": "NO_AUTHENTIC_CRESPONSE",
-      "source": null
+      "status": "AUTHENTIC_WIKI_INFOBOX_CREST",
+      "source": "https://thumb.wikimedia.org/wikipedia/en/thumb/5/56/En_Avant_Guingamp_logo.svg/500px-En_Avant_Guingamp_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
     },
     {
       "club": "FC Annecy",
       "division": "l2",
       "status": "AUTHENTIC_WIKI_INFOBOX_CREST",
-      "source": "https://thumb.wikimedia.org/wikipedia/en/thumb/d/db/FC_Annecy_logo.svg/500px-FC_Annecy_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+      "source": "Previously published verified crest"
     },
     {
       "club": "FC Fleury 91",
@@ -66,157 +66,157 @@
       "club": "FC Metz",
       "division": "l2",
       "status": "AUTHENTIC_WIKI_INFOBOX_CREST",
-      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/FC_Metz_2021_Logo.svg/330px-FC_Metz_2021_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+      "source": "Previously published verified crest"
     },
     {
       "club": "FC Nantes",
       "division": "l2",
-      "status": "NO_AUTHENTIC_CRESPONSE",
-      "source": null
+      "status": "AUTHENTIC_WIKI_INFOBOX_CREST",
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Logo_FC_Nantes_%28avec_fond%29_-_2019.svg/330px-Logo_FC_Nantes_%28avec_fond%29_-_2019.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
     },
     {
       "club": "FC Rouen",
       "division": "l3",
       "status": "AUTHENTIC_WIKI_INFOBOX_CREST",
-      "source": "https://thumb.wikimedia.org/wikipedia/en/thumb/b/be/F.C._Rouen.svg/500px-F.C._Rouen.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+      "source": "Previously published verified crest"
     },
     {
       "club": "FC Sochaux-Montbéliard",
       "division": "l2",
       "status": "AUTHENTIC_WIKI_INFOBOX_CREST",
-      "source": "https://thumb.wikimedia.org/wikipedia/en/thumb/7/7c/FC_Sochaux-Montbeliard_logo.svg/330px-FC_Sochaux-Montbeliard_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+      "source": "Previously published verified crest"
     },
     {
       "club": "FC Versailles",
       "division": "l3",
       "status": "AUTHENTIC_WIKI_INFOBOX_CREST",
-      "source": "https://thumb.wikimedia.org/wikipedia/en/thumb/7/75/FC_Versailles_78_logo.svg/500px-FC_Versailles_78_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+      "source": "Previously published verified crest"
     },
     {
       "club": "FC Villefranche-Beaujolais",
       "division": "l3",
-      "status": "NO_AUTHENTIC_CRESPONSE",
-      "source": null
+      "status": "AUTHENTIC_WIKI_INFOBOX_CREST",
+      "source": "https://thumb.wikimedia.org/wikipedia/en/thumb/2/2f/FC_Villefranche_Beaujolais_logo.svg/500px-FC_Villefranche_Beaujolais_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
     },
     {
       "club": "Grenoble Foot 38",
       "division": "l2",
       "status": "AUTHENTIC_WIKI_INFOBOX_CREST",
-      "source": "https://thumb.wikimedia.org/wikipedia/en/thumb/d/de/Grenoble_Foot_38_logo.svg/500px-Grenoble_Foot_38_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+      "source": "Previously published verified crest"
     },
     {
       "club": "Le Puy Foot 43",
       "division": "l3",
       "status": "AUTHENTIC_WIKI_INFOBOX_CREST",
-      "source": "https://thumb.wikimedia.org/wikipedia/en/thumb/1/1f/Le_Puy-en-Velay_FC_crest.svg/500px-Le_Puy-en-Velay_FC_crest.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+      "source": "Previously published verified crest"
     },
     {
       "club": "Montpellier HSC",
       "division": "l2",
       "status": "AUTHENTIC_WIKI_INFOBOX_CREST",
-      "source": "https://thumb.wikimedia.org/wikipedia/en/thumb/a/a8/Montpellier_HSC_logo.svg/500px-Montpellier_HSC_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+      "source": "Previously published verified crest"
     },
     {
       "club": "Paris 13 Atlético",
       "division": "l3",
       "status": "AUTHENTIC_WIKI_INFOBOX_CREST",
-      "source": "https://thumb.wikimedia.org/wikipedia/en/thumb/5/58/Paris_13_Atletico_logo.svg/500px-Paris_13_Atletico_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+      "source": "Previously published verified crest"
     },
     {
       "club": "Pau FC",
       "division": "l2",
       "status": "AUTHENTIC_WIKI_INFOBOX_CREST",
-      "source": "https://thumb.wikimedia.org/wikipedia/en/thumb/8/82/Pau_FC_logo.svg/500px-Pau_FC_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+      "source": "Previously published verified crest"
     },
     {
       "club": "Quevilly Rouen Métropole",
       "division": "l3",
-      "status": "NO_AUTHENTIC_CRESPONSE",
-      "source": null
+      "status": "AUTHENTIC_WIKI_INFOBOX_CREST",
+      "source": "https://thumb.wikimedia.org/wikipedia/en/thumb/3/39/US_Quevilly-Rouen_M%C3%A9tropole_logo.svg/500px-US_Quevilly-Rouen_M%C3%A9tropole_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
     },
     {
       "club": "Red Star FC",
       "division": "l2",
       "status": "AUTHENTIC_WIKI_INFOBOX_CREST",
-      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Red_Star_FC_logo.svg/500px-Red_Star_FC_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+      "source": "Previously published verified crest"
     },
     {
       "club": "Rodez AF",
       "division": "l2",
       "status": "AUTHENTIC_WIKI_INFOBOX_CREST",
-      "source": "https://thumb.wikimedia.org/wikipedia/en/thumb/7/70/Rodez_AF_logo.svg/330px-Rodez_AF_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+      "source": "Previously published verified crest"
     },
     {
       "club": "SC Aubagne Air Bel",
       "division": "l3",
-      "status": "NO_AUTHENTIC_CRESPONSE",
-      "source": null
+      "status": "AUTHENTIC_WIKI_INFOBOX_CREST",
+      "source": "https://thumb.wikimedia.org/wikipedia/en/thumb/0/0c/SC_Aubagne_Air_Bel_logo.svg/500px-SC_Aubagne_Air_Bel_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
     },
     {
       "club": "SC Bastia",
       "division": "l3",
       "status": "AUTHENTIC_WIKI_INFOBOX_CREST",
-      "source": "https://thumb.wikimedia.org/wikipedia/en/thumb/d/d7/SC_Bastia_logo_2024.svg/330px-SC_Bastia_logo_2024.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+      "source": "Previously published verified crest"
     },
     {
       "club": "SM Caen",
       "division": "l3",
       "status": "AUTHENTIC_WIKI_INFOBOX_CREST",
-      "source": "https://thumb.wikimedia.org/wikipedia/en/thumb/a/aa/SM_Caen_2016_logo.svg/330px-SM_Caen_2016_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+      "source": "Previously published verified crest"
     },
     {
       "club": "Stade Lavallois",
       "division": "l2",
-      "status": "NO_AUTHENTIC_CRESPONSE",
-      "source": null
+      "status": "AUTHENTIC_WIKI_INFOBOX_CREST",
+      "source": "https://thumb.wikimedia.org/wikipedia/en/thumb/c/ca/Stade_Lavallois_logo.svg/330px-Stade_Lavallois_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
     },
     {
       "club": "Stade de Reims",
       "division": "l2",
       "status": "AUTHENTIC_WIKI_INFOBOX_CREST",
-      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Stade_de_Reims_logo.svg/330px-Stade_de_Reims_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+      "source": "Previously published verified crest"
     },
     {
       "club": "US Boulogne CO",
       "division": "l2",
-      "status": "NO_AUTHENTIC_CRESPONSE",
-      "source": null
+      "status": "AUTHENTIC_WIKI_INFOBOX_CREST",
+      "source": "https://thumb.wikimedia.org/wikipedia/en/thumb/3/31/US_Boulogne_crest.svg/500px-US_Boulogne_crest.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
     },
     {
       "club": "US Concarneau",
       "division": "l3",
-      "status": "NO_AUTHENTIC_CRESPONSE",
-      "source": null
+      "status": "AUTHENTIC_WIKI_INFOBOX_CREST",
+      "source": "https://thumb.wikimedia.org/wikipedia/en/thumb/6/68/US_Concarneau_logo.svg/500px-US_Concarneau_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
     },
     {
       "club": "US Orléans",
       "division": "l3",
-      "status": "NO_AUTHENTIC_CRESPONSE",
-      "source": null
+      "status": "AUTHENTIC_WIKI_INFOBOX_CREST",
+      "source": "https://thumb.wikimedia.org/wikipedia/en/thumb/7/75/US_Orl%C3%A9ans_logo.svg/500px-US_Orl%C3%A9ans_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
     },
     {
       "club": "US Thionville Lusitanos",
       "division": "l3",
-      "status": "NO_AUTHENTIC_CRESPONSE",
-      "source": null
+      "status": "AUTHENTIC_WIKI_INFOBOX_CREST",
+      "source": "https://thumb.wikimedia.org/wikipedia/en/thumb/f/fa/US_Thionville_Lusitanos_logo.svg/500px-US_Thionville_Lusitanos_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
     },
     {
       "club": "USL Dunkerque",
       "division": "l2",
-      "status": "NO_AUTHENTIC_CRESPONSE",
-      "source": null
+      "status": "AUTHENTIC_WIKI_INFOBOX_CREST",
+      "source": "https://thumb.wikimedia.org/wikipedia/en/thumb/a/a7/USL_Dunkerque_crest.svg/330px-USL_Dunkerque_crest.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
     },
     {
       "club": "Valenciennes FC",
       "division": "l3",
       "status": "AUTHENTIC_WIKI_INFOBOX_CREST",
-      "source": "https://thumb.wikimedia.org/wikipedia/en/thumb/8/8c/Valenciennes_FC.svg/500px-Valenciennes_FC.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+      "source": "Previously published verified crest"
     },
     {
       "club": "Vendée FC La Roche",
       "division": "l3",
-      "status": "NO_AUTHENTIC_CRESPONSE",
-      "source": null
+      "status": "AUTHENTIC_WIKI_INFOBOX_CREST",
+      "source": "https://thumb.wikimedia.org/wikipedia/en/thumb/e/ea/VFC_La_Roche-sur-Yon_crest.svg/500px-VFC_La_Roche-sur-Yon_crest.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
     }
   ]
 }
