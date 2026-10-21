@@ -1,4 +1,95 @@
 {
   "source": "https://www.footballratings.org/leagues/ligue-2",
-  "values": {}
+  "values": {
+    "saint-étienne": {
+      "elo": 1572,
+      "date": "17 Oct 2026",
+      "source": "https://www.footballratings.org/clubs/saint-etienne"
+    },
+    "montpellier": {
+      "elo": 1517,
+      "date": "19 Oct 2026",
+      "source": "https://www.footballratings.org/clubs/montpellier"
+    },
+    "reims": {
+      "elo": 1578,
+      "date": "16 Oct 2026",
+      "source": "https://www.footballratings.org/clubs/reims"
+    },
+    "red star": {
+      "elo": 1458,
+      "date": "17 Oct 2026",
+      "source": "https://www.footballratings.org/clubs/red-star"
+    },
+    "nancy": {
+      "elo": 1357,
+      "date": "16 Oct 2026",
+      "source": "https://www.footballratings.org/clubs/nancy"
+    },
+    "pau fc": {
+      "elo": 1382,
+      "date": "16 Oct 2026",
+      "source": "https://www.footballratings.org/clubs/pau-fc"
+    },
+    "metz": {
+      "elo": 1496,
+      "date": "17 Oct 2026",
+      "source": "https://www.footballratings.org/clubs/metz"
+    },
+    "annecy": {
+      "elo": 1459,
+      "date": "16 Oct 2026",
+      "source": "https://www.footballratings.org/clubs/annecy"
+    },
+    "dijon": {
+      "elo": 1407,
+      "date": "16 Oct 2026",
+      "source": "https://www.footballratings.org/clubs/dijon"
+    },
+    "dunkerque": {
+      "elo": 1404,
+      "date": "17 Oct 2026",
+      "source": "https://www.footballratings.org/clubs/dunkerque"
+    },
+    "sochaux": {
+      "elo": 1415,
+      "date": "17 Oct 2026",
+      "source": "https://www.footballratings.org/clubs/sochaux"
+    },
+    "boulogne": {
+      "elo": 1350,
+      "date": "16 Oct 2026",
+      "source": "https://www.footballratings.org/clubs/boulogne"
+    },
+    "guingamp": {
+      "elo": 1357,
+      "date": "16 Oct 2026",
+      "source": "https://www.footballratings.org/clubs/guingamp"
+    },
+    "nantes": {
+      "elo": 1505,
+      "date": "17 Oct 2026",
+      "source": "https://www.footballratings.org/clubs/nantes"
+    },
+    "grenoble": {
+      "elo": 1369,
+      "date": "16 Oct 2026",
+      "source": "https://www.footballratings.org/clubs/grenoble"
+    },
+    "clermont": {
+      "elo": 1361,
+      "date": "16 Oct 2026",
+      "source": "https://www.footballratings.org/clubs/clermont"
+    },
+    "rodez": {
+      "elo": 1441,
+      "date": "19 Oct 2026",
+      "source": "https://www.footballratings.org/clubs/rodez"
+    },
+    "laval": {
+      "elo": 1333,
+      "date": "16 Oct 2026",
+      "source": "https://www.footballratings.org/clubs/laval"
+    }
+  }
 }
