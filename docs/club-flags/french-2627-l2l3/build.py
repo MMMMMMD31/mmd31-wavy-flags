@@ -12,7 +12,7 @@ TEAMS=json.loads((BASE/"roster.json").read_text(encoding="utf8"))["teams"]
 S=requests.Session(); S.headers.update({"User-Agent":"MMD31ClubFlagResearch/1.0 (public educational simulator; GitHub workflow)"})
 def download(url):
  try:
-  r=S.get(url,timeout=15,headers={"User-Agent":"Mozilla/5.0 (MMD31 sports graphics)"});r.raise_for_status()
+  r=S.get(url,timeout=7,headers={"User-Agent":"Mozilla/5.0 (MMD31 sports graphics)"});r.raise_for_status()
   if len(r.content)>5_000_000:return None
   if "<svg" in r.text[:250].lower() or url.lower().split("?")[0].endswith(".svg"):
    import cairosvg
@@ -22,12 +22,12 @@ def download(url):
 
 def wiki_crest(team):
  # Prefer club badge from Wikipedia infobox; reject article hero image not in infobox.
- titles=[team["wiki"],team["name"]]
+ titles=[team["wiki"]]
  for lang in ("fr","en"):
   for title in titles:
    url=f"https://{lang}.wikipedia.org/wiki/{quote(title.replace(' ','_'))}"
    try:
-    r=S.get(url,timeout=18);r.raise_for_status()
+    r=S.get(url,timeout=6);r.raise_for_status()
     soup=BeautifulSoup(r.text,"html.parser")
     selectors=["table.infobox_v2 img","table.infobox img","aside.portable-infobox img","table.infobox_v3 img"]
     for selector in selectors:
