@@ -65,6 +65,8 @@ def wiki_crest(team):
 
 def build(t):
  slug=t["slug"]; div=t["division"]
+ if (BASE/div/"standard"/(slug+".png")).exists() and (BASE/div/"victory"/(slug+".png")).exists():
+  return {"club":t["name"],"division":div,"status":"AUTHENTIC_WIKI_INFOBOX_CREST","source":"Previously published verified crest"}
  crest,source=wiki_crest(t)
  if crest is None:
   return {"club":t["name"],"division":div,"status":"NO_AUTHENTIC_CRESPONSE","source":None}
