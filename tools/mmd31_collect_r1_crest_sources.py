@@ -41,6 +41,11 @@ def groups_for(league):
         lbl=a.get_text(" ",strip=True)
         if not lbl.lower().startswith(("poule","groupe")):continue
         found[p['poule'][0]]=u
+    if not found and league in {"centre-val-de-loire","corse","mediterranee"}:
+        # Some one-group league pages omit labelled poule links. Probe their
+        # explicit 2026 season poule, with downstream table validation.
+        key="1-1"
+        found[key]=f"{ROOT}?organisme={league}&poule={key}&saison=2026"
     return [(league,k,url) for k,url in sorted(found.items())]
 
 def entries_for(task):
