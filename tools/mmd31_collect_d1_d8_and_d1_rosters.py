@@ -63,6 +63,14 @@ def district_groups(args):
         if not label.lower().startswith(("poule","groupe")):continue
         groups.append((q["poule"][0], label,href))
     groups=list({k:(k,title,href) for k,title,href in groups}.values())
+    if groups and len(groups)!=district["declared_group_count"]:
+        print("DISTRICT GROUP MISMATCH",district["district_slug"],district["declared_group_count"],"found",[(k,title) for k,title,href in groups],flush=True)
+        existing={k for k,title,href in groups}
+        for idx in range(1,district["declared_group_count"]+1):
+            k="1-"+str(idx)
+            if k not in existing and len(groups)<district["declared_group_count"]:
+                extra_url=ROOT+"/competitions/departemental-"+str(level)+"?organisme="+district["district_slug"]+"&poule="+k+"&saison=2026"
+                groups.append((k,"Poule "+chr(64+idx),extra_url))
     if not groups:
         if district["declared_group_count"]!=1:
             raise ValueError(f"missing group links for {district}")
