@@ -204,7 +204,7 @@ def footmercato_logo(t):
    alt=(img.get("alt") or "").lower()
    if not alt.startswith("logo "):continue
    if any(x in alt for x in ["national 2","national 1"]):continue
-   src=img.get("src") or img.get("data-src")
+   src=img.get("data-src") or img.get("src")
    if not src:continue
    src=("https:"+src) if src.startswith("//") else urljoin(url,src)
    if "assets" not in src and "imgfoot" not in src:continue
