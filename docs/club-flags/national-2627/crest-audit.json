@@ -1,34 +1,42 @@
 {
   "requested": 160,
-  "generated": 5,
+  "generated": 85,
   "results": [
     {
       "team": "AF Virois",
       "division": "N2",
       "slug": "af-virois",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://thumb.wikimedia.org/wikipedia/en/thumb/e/ec/AF_Virois_logo.png/250px-AF_Virois_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "standard_sha256": "db7fd492fd4079d50c93115e75af9bb61edf3bf80eaf68b0393f46a6c462bfea",
+      "victory_sha256": "dcd7f7025daa2a05fb687acf01d04c33f067ba22f21716f6b5f97eaaba1a45af"
     },
     {
       "team": "AJ Auxerre II",
       "division": "N2",
       "slug": "aj-auxerre-ii",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://www.footylogos.com/dls/logo/aj-auxerre.png",
+      "standard_sha256": "e936f5324331783b3dbc24cd18ca98ebae8f67fb08911647b9f32df58948410d",
+      "victory_sha256": "bc345509cf91d6bd051e581c301130dba8baa3857ad11a3985aa6a40c86844e7"
     },
     {
       "team": "Andrézieux-Bouthéon FC",
       "division": "N1",
       "slug": "andrezieux-boutheon-fc",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://www.footylogos.com/dls/logo/andrezieux-boutheon-fc.png",
+      "standard_sha256": "db8c8be91ea6927a979d57a1c0baafe7f3b34503f57dc0444aa3af3eea5606b8",
+      "victory_sha256": "52d2ebb5b4470cc09f6c47ef256b9c72675daafde34e0542485c85accc606af8"
     },
     {
       "team": "Angoulême Charente FC",
       "division": "N1",
       "slug": "angouleme-charente-fc",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://www.footylogos.com/dls/logo/angouleme-charente-fc.png",
+      "standard_sha256": "e84a1e62fa215972b3609bd857397ece1afa71bed966a1a15701c2944e9b4d9c",
+      "victory_sha256": "f3003d17fb29c2dcba8144dfc6d42e2d69a4a43afd450ca20c45aa7b938a2f9e"
     },
     {
       "team": "APM Metz",
@@ -41,8 +49,10 @@
       "team": "AS Furiani-Agliani",
       "division": "N1",
       "slug": "as-furiani-agliani",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://www.footylogos.com/dls/logo/as-furiani-agliani.png",
+      "standard_sha256": "ec006e340006b89a957f52a9989990e746429de9cdf86dd22983b4b46e923af5",
+      "victory_sha256": "96c5fe27756848f83ace5465c9f3cec1af42c0098218aa57e18a377b6872726a"
     },
     {
       "team": "AS La Châtaigneraie",
@@ -55,15 +65,19 @@
       "team": "AS Nancy Lorraine II",
       "division": "N2",
       "slug": "as-nancy-lorraine-ii",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://www.footylogos.com/dls/logo/nancy-lorraine.png",
+      "standard_sha256": "f941cd53a0e3a369123cd7d7417068e69c32553bf00e1a5a6ab4885ed663a280",
+      "victory_sha256": "596352172383e034624d8a2f9a80959591c8c4f340109773355027a82a53eaf7"
     },
     {
       "team": "AS Panazol",
       "division": "N2",
       "slug": "as-panazol",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://thumb.wikimedia.org/wikipedia/en/thumb/d/d4/AS_Panazol.png/250px-AS_Panazol.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "standard_sha256": "de915ec26e7d884281a37c1c5ee391311063d584f0dc5d58bb8321220328f95e",
+      "victory_sha256": "844c4e9bcd552ef781caf9a11e137439e6a3a39ea22ee923204d5edeef3de7b3"
     },
     {
       "team": "AS Saint-Brieuc Ginglin-Cesson",
@@ -76,8 +90,10 @@
       "team": "AS Saint-Étienne II",
       "division": "N2",
       "slug": "as-saint-etienne-ii",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://www.footylogos.com/dls/logo/as-saint-etienne.png",
+      "standard_sha256": "de2e852a6414a953d282257eebecedd4cc0129a68e5d305c6b116935d41a4edf",
+      "victory_sha256": "a4ee3b1713f06d9fd489c39923f2e06498730a0dd4048330e2cfe4e1f77670b7"
     },
     {
       "team": "AS Saint-Ouen-l'Aumône",
@@ -90,8 +106,10 @@
       "team": "AS Saint-Priest",
       "division": "N1",
       "slug": "as-saint-priest",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://www.footylogos.com/dls/logo/as-saint-priest.png",
+      "standard_sha256": "abd64d97edf09553447f5b1f98b40acba91e2478f4bf5347679b8e3db51d503c",
+      "victory_sha256": "5785aaa3e5451f9dfc5b5f63107ccd08d7cc1fd34f946de5519339ded05c3c48"
     },
     {
       "team": "AS Steenvoorde",
@@ -118,8 +136,10 @@
       "team": "ASC Biesheim",
       "division": "N1",
       "slug": "asc-biesheim",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://www.footylogos.com/dls/logo/asc-biesheim.png",
+      "standard_sha256": "9a020b9392e55705961fd152a3f7c19b3a60bdb794313ea19ea57348f8398d7d",
+      "victory_sha256": "26f5070463091c2c40ea83be89dcfb1b5b162a33e8fcccaf514b7c1a115e6b60"
     },
     {
       "team": "ASM Belfort",
@@ -146,8 +166,10 @@
       "team": "Aviron Bayonnais FC",
       "division": "N1",
       "slug": "aviron-bayonnais-fc",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://www.footylogos.com/dls/logo/aviron-bayonnais-fc.png",
+      "standard_sha256": "a9412a5f2a9db46aaad1bb961d2c32927c741ace7657ce5c7ee94ea3183890d2",
+      "victory_sha256": "d7351a3bf45c65a7836e83c1a80b6883cfae06c3a81b38450232d5f3631f8db3"
     },
     {
       "team": "Avoine Olympique Chinon Cinais",
@@ -174,8 +196,10 @@
       "team": "Bourges FC",
       "division": "N1",
       "slug": "bourges-fc",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://www.footylogos.com/dls/logo/bourges-fc.png",
+      "standard_sha256": "dd618422dd2588ed1263620835b60fc34c5dcd828c9367b89b491a51af5d4cbd",
+      "victory_sha256": "8067f7f5ae7188683af81c1d615d0cd43a515267d9e9f73b6a8ff384cbfb54ad"
     },
     {
       "team": "C'Chartres Football",
@@ -195,8 +219,10 @@
       "team": "Canet Roussillon FC",
       "division": "N1",
       "slug": "canet-roussillon-fc",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://www.footylogos.com/dls/logo/canet-roussillon-fc.png",
+      "standard_sha256": "3273a5cd56cc2abfc2fd2a390b3bd2791d71e555e9d56b014d7cb4628f9412ea",
+      "victory_sha256": "e90e1ddd688a888f7823eac9eabbf17d94a58065cbca474227159a3988fafd64"
     },
     {
       "team": "CMS Oissel",
@@ -209,29 +235,37 @@
       "team": "Dijon FCO II",
       "division": "N2",
       "slug": "dijon-fco-ii",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://www.footylogos.com/dls/logo/dijon-fco.png",
+      "standard_sha256": "442a65ea0eb0d072cca7e562b6960973f2bb0d75b5292c9b86e009d2a99eb968",
+      "victory_sha256": "91ff5f249a9c6176c9a7b5848698d5e137248837e2e9731b3b9e15b8df1d8ec2"
     },
     {
       "team": "Dinan Léhon FC",
       "division": "N1",
       "slug": "dinan-lehon-fc",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://www.footylogos.com/dls/logo/dinan-lehon-fc.png",
+      "standard_sha256": "0820f9b4b0175db91d06f9413ed6bc745151a94d3e44dafdd1639ef04b1105e2",
+      "victory_sha256": "402faa323100fe8f6295f1df2198aedefd908f67df537c21f66f519965ceec4f"
     },
     {
       "team": "EA Guingamp II",
       "division": "N2",
       "slug": "ea-guingamp-ii",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://www.footylogos.com/dls/logo/ea-guingamp.png",
+      "standard_sha256": "e126f41f766026c25a3bf5a2d3d6e096a9c9d7e2f344d037cc058117266e1295",
+      "victory_sha256": "952f02f3e1bfdfa1c6ec326419618925787671b84c4709bb57acf318e9dfaf26"
     },
     {
       "team": "Entente Feignies Aulnoye",
       "division": "N1",
       "slug": "entente-feignies-aulnoye",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://www.footylogos.com/dls/logo/entente-feignies-aulnoye.png",
+      "standard_sha256": "00acc1a67a53995052cb2f9af8258e51a5e7133ea49be3efb587a5c05d91c7d2",
+      "victory_sha256": "ba5ba658dbb5345c9fd8c622ae0ab50b6fc4a9ec89529fadc0a5a99866ac8e41"
     },
     {
       "team": "ES Fosséenne",
@@ -265,22 +299,28 @@
       "team": "ESTAC Troyes II",
       "division": "N1",
       "slug": "estac-troyes-ii",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://www.footylogos.com/dls/logo/estac-troyes-2.png",
+      "standard_sha256": "e64ac3b27e835936ec7e5d2922cc807928ee9c21d4d117b86c2f5b66132a04a9",
+      "victory_sha256": "ada223a61e9e4fc809996fb903b4c430d49f401e1200ba1e37e763f3216c7b4b"
     },
     {
       "team": "Étoile Fréjus Saint-Raphaël",
       "division": "N1",
       "slug": "etoile-frejus-saint-raphael",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://www.footylogos.com/dls/logo/frejus-saint-raphael.png",
+      "standard_sha256": "38934538f122f46f9e2380b6afa72352cef8179f14ebf9f83ebd3882ba93912a",
+      "victory_sha256": "67519aa5c2f4c55234f90da9cfae1adb197cb98b281cd08a301b55337031f39d"
     },
     {
       "team": "FC Annecy II",
       "division": "N2",
       "slug": "fc-annecy-ii",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://www.footylogos.com/dls/logo/fc-annecy.png",
+      "standard_sha256": "2af9bb6f7977cab68bab40612c5c745c7dbb5368c1c0f5b9317b75b13c11a015",
+      "victory_sha256": "0fc6ecf83ad05ec8e223cc7172da36fb82c3a4b9204c80d8953503462c60b270"
     },
     {
       "team": "FC Balagne",
@@ -293,15 +333,19 @@
       "team": "FC Bassin d'Arcachon",
       "division": "N2",
       "slug": "fc-bassin-d-arcachon",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://upload.wikimedia.org/wikipedia/en/e/ea/FC_Bassin_d%27Arcachon.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+      "standard_sha256": "3aa3958a1cd9a98f3859266c6e0663f2bc69db247ef555a0f1df0f7d99182130",
+      "victory_sha256": "569b112a70f551954807ad84b0f17e4f2c962b5a3d332d0f6b2cc6a700d89d73"
     },
     {
       "team": "FC Borgo",
       "division": "N1",
       "slug": "fc-borgo",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://www.footylogos.com/dls/logo/fc-borgo.png",
+      "standard_sha256": "51fae5795d3aa8f3c3d6e4d073db5afaee520f6698a1bbccf2ee56f5ad2cbafa",
+      "victory_sha256": "450f08cad68328fae03c074b0afcb7ef1e56b69d6271ac855898d3307900d2a8"
     },
     {
       "team": "FC Bourgoin-Jallieu",
@@ -335,22 +379,28 @@
       "team": "FC Chambly Oise",
       "division": "N1",
       "slug": "fc-chambly-oise",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://www.footylogos.com/dls/logo/fc-chambly-oise.png",
+      "standard_sha256": "35a014f07965a87ace91f52dd80d713b9a60baf67e6febcac4b165b8d93bc5cf",
+      "victory_sha256": "7fad47d06d69344b94e20a06077acf45958252bda2774aef4f639bbc601b5fe6"
     },
     {
       "team": "FC Chauray",
       "division": "N1",
       "slug": "fc-chauray",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://www.footylogos.com/dls/logo/fc-chauray.png",
+      "standard_sha256": "5a865efdbc1428ac95fc29dbb5595b81aa9d3e5a23c156be72ead34e9a2867af",
+      "victory_sha256": "d5c2da02588ffd00561e8f23b61f2e0b9b94b89585fb35b23012ebfded09aa31"
     },
     {
       "team": "FC Dieppe",
       "division": "N1",
       "slug": "fc-dieppe",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://www.footylogos.com/dls/logo/fc-dieppe.png",
+      "standard_sha256": "c10e5a1d712018f3bc70b2f392e9d08475157bea9dc26fa188f4f307e539ce03",
+      "victory_sha256": "89e9f8e9f0e4b256779a21481e91081a21b64ea0bcd81d4810631508e92b4f0d"
     },
     {
       "team": "FC Espaly",
@@ -363,15 +413,19 @@
       "team": "FC Limonest Dardilly Saint-Didier",
       "division": "N1",
       "slug": "fc-limonest-dardilly-saint-didier",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://www.footylogos.com/dls/logo/fc-limonest-dardilly-saint-didier.png",
+      "standard_sha256": "9e7929d4705e5dcab7c13992ee920ded39becbdae4b0a7198353421e8d9e8f67",
+      "victory_sha256": "566552be80de363ae55587aeb3bc5b1864bbb974e36629f01833be4058d46bca"
     },
     {
       "team": "FC Lorient II",
       "division": "N1",
       "slug": "fc-lorient-ii",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://www.footylogos.com/dls/logo/fc-lorient-2.png",
+      "standard_sha256": "e87da5ff02df6b28c0327349358f1d79ea643787b65aedeb333dd53d3dfbb35d",
+      "victory_sha256": "9d68be02eca4fc90b8ca9764825746f0cdcb3c82f505e8a727db40a8abe725f5"
     },
     {
       "team": "FC Mérignac Arlac",
@@ -384,29 +438,37 @@
       "team": "FC Metz II",
       "division": "N2",
       "slug": "fc-metz-ii",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://www.footylogos.com/dls/logo/fc-metz.png",
+      "standard_sha256": "69670dab8ab693c5d2c27aeac529322d9dfd1a78e02dc97e04df6701c50f4d32",
+      "victory_sha256": "a2e993d1fe8b7f6806c30cb835957977a4a45d0e63d6507592495628393e64ba"
     },
     {
       "team": "FC Montlouis",
       "division": "N1",
       "slug": "fc-montlouis",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://www.footylogos.com/dls/logo/fc-montlouis.png",
+      "standard_sha256": "24d38d312ec37863ee790be19f4e3d901e0d54752fccea3818869dba9eae5fde",
+      "victory_sha256": "f484e6e376183b0c21bc42bdd07fcafbb8f3805ffe25c18a65ba1d04192aee31"
     },
     {
       "team": "FC Mulhouse",
       "division": "N2",
       "slug": "fc-mulhouse",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://www.footylogos.com/dls/logo/fc-mulhouse.png",
+      "standard_sha256": "44feed2330fda8c25495407a450e7e22154ab071c05fb52ea814c1e1840996e3",
+      "victory_sha256": "196121a579d6031988f0597ffa99b6405fa34a7bd0221cbab74187c261a04be9"
     },
     {
       "team": "FC Nantes II",
       "division": "N2",
       "slug": "fc-nantes-ii",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://www.footylogos.com/dls/logo/fc-nantes.png",
+      "standard_sha256": "a48fc81ef33d3bcc87c9b2e3164f7981dfb43b246851ed14793eb81e959e3597",
+      "victory_sha256": "0a8b8362ab36ae7a4dc86676e2f0fdecf4ad8fa3da15f708d8ccf764fcd664fe"
     },
     {
       "team": "FC Rousset SVO",
@@ -440,8 +502,10 @@
       "team": "FC Versailles II",
       "division": "N2",
       "slug": "fc-versailles-ii",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://www.footylogos.com/dls/logo/fc-versailles.png",
+      "standard_sha256": "dd7d67fe3936be37acd264c56f60be1726123ed48eff5405d7cada54d92ed173",
+      "victory_sha256": "250a2567ada8ce9c764f33a8c75e83c68c5d02c684d13c50f845937cf6ab5382"
     },
     {
       "team": "FC Vesoul",
@@ -468,61 +532,71 @@
       "team": "FCSR Haguenau",
       "division": "N1",
       "slug": "fcsr-haguenau",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://www.footylogos.com/dls/logo/fcsr-haguenau.png",
+      "standard_sha256": "2d49ff5738a4a663aad01614f72d437b750b600ad2070e5f4222942fcc62e29d",
+      "victory_sha256": "f786612bffdecf95afa083d96c5907c95d1264095ae5483bcd15de248ddccca6"
     },
     {
       "team": "Gallia Lucciana",
       "division": "N2",
       "slug": "gallia-lucciana",
-      "status": "WIKIPEDIA_INFOBOX",
-      "source": "https://upload.wikimedia.org/wikipedia/en/e/e7/GC_Lucciana_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
-      "standard_sha256": "d9d3f9cbd9e5d9ed4b8c5bba919a934bfaab68c17d725c479bfff64ca7a6d33f",
-      "victory_sha256": "bcc28aaf2cfc1f33036cc166305a77ab7ac275f32e16ede719bec7b2db85f4fb"
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
     },
     {
       "team": "GFA Rumilly-Vallières",
       "division": "N1",
       "slug": "gfa-rumilly-vallieres",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://www.footylogos.com/dls/logo/gfa-rumilly-vallieres.png",
+      "standard_sha256": "f23c39ce5bd5d705d3cbf7d9c95d20290470f08ba075d43a42451cade66ebc42",
+      "victory_sha256": "8415e25cd92d0c984fbf65fe246a5be9a0d5fef312b0cae23663eae0f471a14a"
     },
     {
       "team": "GFC Ajaccio",
       "division": "N2",
       "slug": "gfc-ajaccio",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://www.footylogos.com/dls/logo/gazelec-ajaccio.png",
+      "standard_sha256": "4217e9a5f0c69e35f143fea6bc5c91fc4c02b055d12bf9e11b997c745212be8c",
+      "victory_sha256": "0c25e7419c2fffea2436289bf69d9fba436be3cd95ccecdd6476432661e22bca"
     },
     {
       "team": "GOAL FC",
       "division": "N1",
       "slug": "goal-fc",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://www.footylogos.com/dls/logo/goal-fc.png",
+      "standard_sha256": "ab43698faa8463921045522f75751186a54b54d83d10269d2e0b7ecef6b301e0",
+      "victory_sha256": "750ea508006d15f3b878a4f6c925d8866e1096830f8ed2f4d7a8f256c76ae3be"
     },
     {
       "team": "GSI Pontivy",
       "division": "N1",
       "slug": "gsi-pontivy",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://www.footylogos.com/dls/logo/gsi-pontivy.png",
+      "standard_sha256": "e10c3bd4b1c617f163e0812c915114613759180d76fe823f770631e6238a6d61",
+      "victory_sha256": "be4a173482da0d013e88d44686198e5191fff9074c103563db871ffc218c7c66"
     },
     {
       "team": "Hauts Lyonnais",
       "division": "N1",
       "slug": "hauts-lyonnais",
       "status": "WIKIPEDIA_INFOBOX",
-      "source": "https://upload.wikimedia.org/wikipedia/en/f/f6/Hauts_Lyonnais_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
-      "standard_sha256": "26d1c5659bf5605706ac3edc55d833343b9b3063dbe0af1382a597074e4df865",
-      "victory_sha256": "83f77636ca3ae2c27766824ce39a96041c762bfe05eb2098ff33005b15afee5f"
+      "source": "https://www.footylogos.com/dls/logo/hauts-lyonnais.png",
+      "standard_sha256": "5f5b6a0e68a4691791c15d74f73547d2b44b197c924626e4f3e0a937347f8b75",
+      "victory_sha256": "da1f2b90e71b4ea83f54ee6fb5e92e2857a0f043aaf2ea7ca2a4637dbdade748"
     },
     {
       "team": "Hyères FC",
       "division": "N1",
       "slug": "hyeres-fc",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://www.footylogos.com/dls/logo/hyeres-fc.png",
+      "standard_sha256": "c8edf4024bd5bc92ae2e601dd4c405070607ef4e6b318377628b93fe02afdcde",
+      "victory_sha256": "555e77e08cd5b3fe5f87f0bc1c43847f3655076fe9a9640b2381347fe9941c23"
     },
     {
       "team": "IC Croix",
@@ -542,8 +616,10 @@
       "team": "Istres FC",
       "division": "N1",
       "slug": "istres-fc",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://www.footylogos.com/dls/logo/istres-fc.png",
+      "standard_sha256": "3f50795969237d254c2adadba7145a6b1438667e176134268157b6d4057d8a13",
+      "victory_sha256": "47ec3fac6292149e1e673fa47335ff12e16d3a19846ae4ae7c2139712a016fb5"
     },
     {
       "team": "JA Drancy",
@@ -570,29 +646,37 @@
       "team": "LB Châteauroux",
       "division": "N1",
       "slug": "lb-chateauroux",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://www.footylogos.com/dls/logo/chateauroux.png",
+      "standard_sha256": "47452ab65f7ca659f0f2024cdc7d2fcab44b33207a5304e1b4f5d2b583de683b",
+      "victory_sha256": "0d0637cd619c63aa6df29890056946115847d7e62592919effa50534fd5f9b53"
     },
     {
       "team": "LB Châteauroux II",
       "division": "N2",
       "slug": "lb-chateauroux-ii",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://www.footylogos.com/dls/logo/chateauroux.png",
+      "standard_sha256": "47452ab65f7ca659f0f2024cdc7d2fcab44b33207a5304e1b4f5d2b583de683b",
+      "victory_sha256": "0d0637cd619c63aa6df29890056946115847d7e62592919effa50534fd5f9b53"
     },
     {
       "team": "Le Mans FC II",
       "division": "N2",
       "slug": "le-mans-fc-ii",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://www.footylogos.com/dls/logo/le-mans-fc.png",
+      "standard_sha256": "8a15fd23b6e40555b171cc814abcba942b06f6d1ba052c60b5d4c7175a8b74cf",
+      "victory_sha256": "a3ed27763c6f8d62281d3fcb9bd1206533dfb85dcdb208258e9ec8fdc73ebd33"
     },
     {
       "team": "Le Poiré-sur-Vie VF",
       "division": "N1",
       "slug": "le-poire-sur-vie-vf",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://www.footylogos.com/dls/logo/le-poire-sur-vie.png",
+      "standard_sha256": "454199055fe12b8fa73f705a8de57fa82c33422246b37c00a851bb91980256c1",
+      "victory_sha256": "64312597144189dd45f73044a8f667c7c870a03eaac259efde3a282303ca84eb"
     },
     {
       "team": "Les Genêts d'Anglet",
@@ -605,8 +689,10 @@
       "team": "Les Herbiers VF",
       "division": "N1",
       "slug": "les-herbiers-vf",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://www.footylogos.com/dls/logo/les-herbiers-vf.png",
+      "standard_sha256": "d94e1340478ce0212ae4e62dc0378762ea8b1320097a9c523dd9f83de6455947",
+      "victory_sha256": "5ba6db98b036a768fbe3c2972e5358c88b48b87fd59812a0aeea12df0925c42f"
     },
     {
       "team": "Les Sables Vendée Football",
@@ -619,15 +705,19 @@
       "team": "LOSC Lille II",
       "division": "N2",
       "slug": "losc-lille-ii",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://www.footylogos.com/dls/logo/losc-lille.png",
+      "standard_sha256": "651745b07599d1940a1358b6c7455fbd7c08ea7083600513ecf57eb25c73464a",
+      "victory_sha256": "255b5ada97b8e18b7bf11847f4d0658feaf424ae9f3e32e13b9acdaaced17de5"
     },
     {
       "team": "Lyon La Duchère",
       "division": "N1",
       "slug": "lyon-la-duchere",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://www.footylogos.com/dls/logo/lyon-la-duchere.png",
+      "standard_sha256": "4080d8afccd8d7a6a4ad8d6f6363a88afcb51295f03f52183ad9a5df14b8e8ff",
+      "victory_sha256": "e38b82da57b9e111419bdd900f88a9559009ca3efb743af284ce58217fedb6f1"
     },
     {
       "team": "Montpellier Atlas Paillade",
@@ -640,15 +730,19 @@
       "team": "Montpellier HSC II",
       "division": "N2",
       "slug": "montpellier-hsc-ii",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://www.footylogos.com/dls/logo/montpellier.png",
+      "standard_sha256": "f113c03efd3e911058d48dce74f0049bae621c866c3fbf66cc115b16373a20e3",
+      "victory_sha256": "ac3923e39a6ee44ec5ee52b30d4bc8668d30edb68541c37bd9314d0cc7484a18"
     },
     {
       "team": "Nîmes Olympique",
       "division": "N1",
       "slug": "nimes-olympique",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://www.footylogos.com/dls/logo/nimes-olympique.png",
+      "standard_sha256": "c009977874a35dfbb971c33cd0c8486592902d469c49d58287806ed16c9886d2",
+      "victory_sha256": "21a9d7e2f8ebaa216c6888c5ede7bbe0103ed70659b81e5db5de0db7804c06f6"
     },
     {
       "team": "OC Cesson",
@@ -675,15 +769,19 @@
       "team": "Olympique de Marseille II",
       "division": "N2",
       "slug": "olympique-de-marseille-ii",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://www.footylogos.com/dls/logo/olympique-de-marseille-om.png",
+      "standard_sha256": "ff2f2bf17215a50c6fcc97370cb5b22d0c374d04b987246057b99fa5d1dbd355",
+      "victory_sha256": "ccbd8ca2f1eba4c1ae5718ee1a25939d535ee37edfdc897d1af465c1fc5858a5"
     },
     {
       "team": "Olympique Lyonnais II",
       "division": "N2",
       "slug": "olympique-lyonnais-ii",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://www.footylogos.com/dls/logo/olympique-lyonnais.png",
+      "standard_sha256": "d630f3b518092ff81ca41a6e9a6367bc7bcbee1beec5c380def7b30c3801a840",
+      "victory_sha256": "e4aeff81bf27e37532a65bc1a3a088ad3a1deef7d14429368587a09cb433c295"
     },
     {
       "team": "Olympique Saint-Quentin",
@@ -696,8 +794,10 @@
       "team": "Olympique Saumur FC",
       "division": "N1",
       "slug": "olympique-saumur-fc",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://www.footylogos.com/dls/logo/olympique-saumur.png",
+      "standard_sha256": "9bfcb2225aafd9f7dfd9698feceec1c813ca0ed8f5658b8a2dead4307a459a55",
+      "victory_sha256": "cfdcda2735b1138b206375eb2f46b10b9881b4c62cc57b82435e15333bfd943d"
     },
     {
       "team": "Onet-le-Château Foot",
@@ -711,16 +811,18 @@
       "division": "N2",
       "slug": "paris-fc-ii",
       "status": "WIKIPEDIA_INFOBOX",
-      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Paris_FCLogo_11-24.png/250px-Paris_FCLogo_11-24.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "standard_sha256": "a88dcfdb690909e1a878a915368201451479c25e134b5740c073be7a33115527",
-      "victory_sha256": "53974c2e779395c7fa54782cae3c3b7fed0957accd54095326e0de1718f79082"
+      "source": "https://www.footylogos.com/dls/logo/paris-fc.png",
+      "standard_sha256": "2e4ce7499d3832093ec5f8b1667d96a2f038b7c19e83860bd39f10132b2deecc",
+      "victory_sha256": "03ebe610fdcc7676043c5d377a8ab98ff8f0994c25b132506d1e8917922b8a41"
     },
     {
       "team": "Pau FC II",
       "division": "N2",
       "slug": "pau-fc-ii",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://www.footylogos.com/dls/logo/pau-fc.png",
+      "standard_sha256": "88a228ec189745e03ef728696a9dc98922b44d391b7446d5439f22ac58170b0a",
+      "victory_sha256": "20887b7c88a903d801758d229b5c60dd320cb5eeb9d94358177e5ba970380fa9"
     },
     {
       "team": "Racing Besançon",
@@ -733,22 +835,28 @@
       "team": "Racing Club de France",
       "division": "N1",
       "slug": "racing-club-de-france",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://www.footylogos.com/dls/logo/racing-club-de-france.png",
+      "standard_sha256": "cc9ffc0c40047f643e679f52b87a6b7d14fa9ca2ed47801d84c3d8b9dd9c46f6",
+      "victory_sha256": "6a3f6c326fee8d4ad2503ef885e4f177c687b34702a6bf6115784c9c6ee85487"
     },
     {
       "team": "RC Strasbourg II",
       "division": "N2",
       "slug": "rc-strasbourg-ii",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://www.footylogos.com/dls/logo/rc-strasbourg-alsace.png",
+      "standard_sha256": "83bd568f07921271e07b0427985bc41c9824ad9fb3b2006af271feec1a798a89",
+      "victory_sha256": "e76d0c508cfbe4fa43d89c4d0e7a58acef591fba4456376617d2575a6899c54d"
     },
     {
       "team": "Red Star FC II",
       "division": "N2",
       "slug": "red-star-fc-ii",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://www.footylogos.com/dls/logo/red-star-fc.png",
+      "standard_sha256": "a0b571928862db443fbb05bc997567960f2eca783c7393d1506dd41ee6245f0a",
+      "victory_sha256": "d2426e73b2a3f88edb090f8ca4245b794ec6f674bd317ec9d4ae1ee6b5bb1edc"
     },
     {
       "team": "Riviera FC",
@@ -761,22 +869,28 @@
       "team": "Rodez AF II",
       "division": "N2",
       "slug": "rodez-af-ii",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://www.footylogos.com/dls/logo/rodez-af.png",
+      "standard_sha256": "1a4a9452074a7cd6e33563716c4d90955be14fd05f0ebce0b612491af3ddde0f",
+      "victory_sha256": "155035527b4e0c91ea8583c14b7394ee292015cf415a60d4a591f867f5a814d0"
     },
     {
       "team": "SA Épinal",
       "division": "N1",
       "slug": "sa-epinal",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://www.footylogos.com/dls/logo/sas-epinal.png",
+      "standard_sha256": "2bd2af0a99c853cc71e9a593546b9078144244c7ab4a9fb42fdb11a087771732",
+      "victory_sha256": "93a5f74b38dbdabb65dd1525ca1527fdfb50759aa79d2942386eaa88af156ddf"
     },
     {
       "team": "Sablé FC",
       "division": "N2",
       "slug": "sable-fc",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Sabl%C3%A9_FC_2012.png/250px-Sabl%C3%A9_FC_2012.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "standard_sha256": "9fd137908becc03c90bf5703ffa61de07b0bd38fffb4c294d5bdcd81689b1ab5",
+      "victory_sha256": "dac523bf62bf4e9c306870b4e94829564fa7f4b6c8232a17d737ee5a0fd57bf0"
     },
     {
       "team": "SAG Cestas",
@@ -796,8 +910,10 @@
       "team": "Saint-Colomban Locminé",
       "division": "N1",
       "slug": "saint-colomban-locmine",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://www.footylogos.com/dls/logo/saint-colomban-locmine.png",
+      "standard_sha256": "8c392493819afd0f2f66100601d2a7bd22fef3a942714fa7be637e886995c1a9",
+      "victory_sha256": "84bce5506df8e7c5c8db0f1fcd4184f728a6ad485efdf7b05c22b1caf6403921"
     },
     {
       "team": "Saint-Pierre Milizac",
@@ -810,8 +926,10 @@
       "team": "Saint-Pryvé Saint-Hilaire FC",
       "division": "N1",
       "slug": "saint-pryve-saint-hilaire-fc",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://www.footylogos.com/dls/logo/saint-pryve-saint-hilaire.png",
+      "standard_sha256": "e450f498d16da4c8350752b0b22950b57a9b6c9504f8390ae9124e7bab0580da",
+      "victory_sha256": "9538793250317f4d7c23ee54aff10a482d385373cac76a355e10b726f20ff7e1"
     },
     {
       "team": "Sainte-Geneviève FC",
@@ -824,8 +942,10 @@
       "team": "SC Bastia II",
       "division": "N2",
       "slug": "sc-bastia-ii",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://www.footylogos.com/dls/logo/sc-bastia.png",
+      "standard_sha256": "b2ef533d98bb280778d771e8b6758cae288f2bc0dfb5da9782ff16b588a4d3d6",
+      "victory_sha256": "99aa235041fbca3a27d4acdc86fedbbda974f42ece57efd2fa411a4cfa6ee2e8"
     },
     {
       "team": "SC Berre",
@@ -838,8 +958,10 @@
       "team": "SC Toulon",
       "division": "N1",
       "slug": "sc-toulon",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://www.footylogos.com/dls/logo/sporting-club-toulon.png",
+      "standard_sha256": "cbf04541f30e4408b5d835afd7547a206fe8b88076b096e1c9e5f2b7d8d40c8b",
+      "victory_sha256": "8d1e2c00618fdc1f16bf178c6372e20872939454ee284a4811188b45f78d4ff1"
     },
     {
       "team": "SFC Neuilly-sur-Marne",
@@ -852,8 +974,10 @@
       "team": "SM Caen II",
       "division": "N2",
       "slug": "sm-caen-ii",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://www.footylogos.com/dls/logo/sm-caen.png",
+      "standard_sha256": "bad2561a4ef9cee6532a14fe1fe771b508282c63b763176a11f89cd110292666",
+      "victory_sha256": "d74b02dc2f70db0bc325519cd3e09c939f291ee66eeaf727994a95c3c7d419a8"
     },
     {
       "team": "Sologne Olympique Romorantin",
@@ -866,8 +990,10 @@
       "team": "SR Colmar",
       "division": "N1",
       "slug": "sr-colmar",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://www.footylogos.com/dls/logo/sr-colmar.png",
+      "standard_sha256": "5707958be6d2e9d83064a21319fc72db25f33d7f1b621240356e05196fccdf07",
+      "victory_sha256": "6410e809edb1ffca0c3a608b73008f987e7f4ab2daa50592edf4ca61d7b801b2"
     },
     {
       "team": "Stade Beaucairois",
@@ -880,15 +1006,19 @@
       "team": "Stade Brestois II",
       "division": "N2",
       "slug": "stade-brestois-ii",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://www.footylogos.com/dls/logo/stade-brestois-29.png",
+      "standard_sha256": "933040506d1772dcc1dc57d2cfe753b1f47d74cecc4144c5aa727964f69fa6de",
+      "victory_sha256": "6c32ab6735a2e1c2cfc3b0913589d438cf26616854763cbb90f72f64dacdf599"
     },
     {
       "team": "Stade Briochin",
       "division": "N1",
       "slug": "stade-briochin",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://www.footylogos.com/dls/logo/stade-briochin.png",
+      "standard_sha256": "fa581c19d746f5c9744b2373b4f324d8185a07b720bde7acbc1f5d75d7f51985",
+      "victory_sha256": "d7166743fba866268f22cb3e72c771984cf967254ce6215bc92deb84c2209d51"
     },
     {
       "team": "Stade Lavallois II",
@@ -901,8 +1031,10 @@
       "team": "Stade Rennais II",
       "division": "N2",
       "slug": "stade-rennais-ii",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://www.footylogos.com/dls/logo/stade-rennais.png",
+      "standard_sha256": "50c771f0da69b8e2f725e878c16c0e539da18fb62446ecb2282c0cc92922b5a0",
+      "victory_sha256": "4b1a813954628c3d944a3e541b225bc285f998dc87b6f8e2ce0dc28a1160b20a"
     },
     {
       "team": "TA Rennes",
@@ -916,9 +1048,9 @@
       "division": "N1",
       "slug": "tarbes-pyrenees-football",
       "status": "WIKIPEDIA_INFOBOX",
-      "source": "https://upload.wikimedia.org/wikipedia/en/a/a3/Logotarbes-pf.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
-      "standard_sha256": "487389b5eae7690b3a6279d32b99b2199cbba367f0b8179fc58d97f5a3fbd9e5",
-      "victory_sha256": "0a45864986b19c6eeae562bb8edfac7c31a4e29412e45205259abf56ebf44069"
+      "source": "https://www.footylogos.com/dls/logo/tarbes-pyrenees-football.png",
+      "standard_sha256": "6a9a37c59e8e81920c6cc094231c9815bf2979d3857f5174ba596c9930cdf783",
+      "victory_sha256": "bacea620ff3f562119e05d301999bc0c08b48a9f4ffa0364fcb8d362dda44520"
     },
     {
       "team": "Thonon Évian Grand Genève FC",
@@ -938,8 +1070,10 @@
       "team": "Toulouse FC II",
       "division": "N2",
       "slug": "toulouse-fc-ii",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://www.footylogos.com/dls/logo/toulouse-fc.png",
+      "standard_sha256": "8113c9e761970677720df885d23d732f05ee4e9b322b8867193417d26e4ccb6a",
+      "victory_sha256": "4f1d9290c9f00af0f40be77814044b849cdff362de368db150c801909d70bf7c"
     },
     {
       "team": "Trélissac FC",
@@ -966,15 +1100,19 @@
       "team": "US Alençon",
       "division": "N2",
       "slug": "us-alencon",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://thumb.wikimedia.org/wikipedia/en/thumb/f/fa/US_Alen%C3%A7on_logo.png/250px-US_Alen%C3%A7on_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "standard_sha256": "48a952dddbf8466dafe1660abe5958162d9530cfbd2833b3a8ab7da4286e1565",
+      "victory_sha256": "35274ccef738134979d5b094215773c0bf30b15ab6ab411f4c34fbc716634aa4"
     },
     {
       "team": "US Avranches",
       "division": "N1",
       "slug": "us-avranches",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://www.footylogos.com/dls/logo/us-avranches.png",
+      "standard_sha256": "a34cd03443c8397eb57b1f821c3691223d2f56e63bb67fc2545261de37779683",
+      "victory_sha256": "5c3004ea2bc2ca31ff7775a884dd1664b026731021c6366fe45c9950a196b368"
     },
     {
       "team": "US Castanet",
@@ -987,15 +1125,19 @@
       "team": "US Chantilly",
       "division": "N1",
       "slug": "us-chantilly",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://www.footylogos.com/dls/logo/us-chantilly.png",
+      "standard_sha256": "0e2759642ab0ef71074ec495c01f5618b567d55d326e3b01216eb80d077df9c8",
+      "victory_sha256": "690f34f00804f5012c350af21e7ad53e054eb13a89aaf0fd67778a9a510c517f"
     },
     {
       "team": "US Chauvigny",
       "division": "N2",
       "slug": "us-chauvigny",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://upload.wikimedia.org/wikipedia/en/7/70/US_Chauvigny_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+      "standard_sha256": "ca12c2a6fef317ef480f6903a63e95185c301f941b5cdb2e8c15f6f546322dce",
+      "victory_sha256": "39684fcd3984024d5c0a4472699d2d669566144fdc9038f67b47e0b4b1895af8"
     },
     {
       "team": "US Colomiers",
@@ -1010,8 +1152,10 @@
       "team": "US Créteil",
       "division": "N1",
       "slug": "us-creteil",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://www.footylogos.com/dls/logo/us-creteil.png",
+      "standard_sha256": "e072ad39df08fd483417b9c7dc315fcb9fff477908e7b28b35c2a5f0380c62cb",
+      "victory_sha256": "21928e68a5d8bb8a985af1b788f448dc1cf8d4ed13153044d00df931b2df7929"
     },
     {
       "team": "US Feurs",
@@ -1024,8 +1168,10 @@
       "team": "US Granville",
       "division": "N1",
       "slug": "us-granville",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://www.footylogos.com/dls/logo/us-granville.png",
+      "standard_sha256": "b393ecb5168a3e95a19cffc97668f1d094cda8d0c524b6cddc0bdc00a93e83a0",
+      "victory_sha256": "058f9d5d4315bb35685bb892a825a0a9123dbb756e6b10c7dd81e9fb93b4d6cf"
     },
     {
       "team": "US Ivry",
@@ -1052,8 +1198,10 @@
       "team": "US Orléans II",
       "division": "N2",
       "slug": "us-orleans-ii",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://www.footylogos.com/dls/logo/us-orleans.png",
+      "standard_sha256": "bb7a4d9766faf310f5385d958dba190fa260bde3e026fb90af13f09f286010b2",
+      "victory_sha256": "8305aee400ca0ec73b9124007efa96609986fc3e6be06f30e2fa5523d338f1ec"
     },
     {
       "team": "US Pays du Valois",
@@ -1066,15 +1214,19 @@
       "team": "US Saint-Malo",
       "division": "N1",
       "slug": "us-saint-malo",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://www.footylogos.com/dls/logo/us-saint-malo.png",
+      "standard_sha256": "5f785d73748d73102e321055c8789e75dc35e4de9ad2cefc58a7de2ed2bc5713",
+      "victory_sha256": "2e054d642ef64da387a3a1dfee4124e9ab59f6da81473586794850f150f98cf4"
     },
     {
       "team": "US Saint-Maur Lusitanos",
       "division": "N1",
       "slug": "us-saint-maur-lusitanos",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://www.footylogos.com/dls/logo/us-saint-maur-lusitanos.png",
+      "standard_sha256": "c48b7cac289f7682ad3dd2e7d14aeff649721b7550d3d101353144d09fd6b559",
+      "victory_sha256": "a9faec96f41257058d5c98bc4d9eb36f68a7bffb8f2c90ec6113dc55e0b7a9fd"
     },
     {
       "team": "US Saint-Philbert-de-Grand-Lieu",
@@ -1087,8 +1239,10 @@
       "team": "US Vimy",
       "division": "N2",
       "slug": "us-vimy",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://thumb.wikimedia.org/wikipedia/en/thumb/e/e4/US_Vimy_logo.png/250px-US_Vimy_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "standard_sha256": "92c61706c3315ea558590ab9ea050861e34a4dd4e636f60e87473d437daf2295",
+      "victory_sha256": "1a91ba28edd62e00b2f6e638817fa8337c1d99ce301572dcb5f4357e14d9eab9"
     },
     {
       "team": "USC Corte",
@@ -1108,15 +1262,19 @@
       "team": "Vannes OC",
       "division": "N2",
       "slug": "vannes-oc",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://www.footylogos.com/dls/logo/vannes-olympique-club.png",
+      "standard_sha256": "062b5cca22b92f5bb132561973f141a27ede06497debeab1309f1fea57609c6c",
+      "victory_sha256": "ce1237f38c8cddac200c2dcd30c041255e8393bb4cb2552e13cb17f93888b4cf"
     },
     {
       "team": "Vendée Fontenay Foot",
       "division": "N2",
       "slug": "vendee-fontenay-foot",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://upload.wikimedia.org/wikipedia/en/2/26/Vend%C3%A9e_Fontenay_Foot_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+      "standard_sha256": "bdf1d9f6e8683f4be13d54808278b88859634b57fcff9a3b1168eb4863e6c10d",
+      "victory_sha256": "c341ad8c1caf52187742320299ffe18c18d0628828e1bbdb8435b4d6899b08e4"
     },
     {
       "team": "Vierzon FC",
@@ -1129,8 +1287,10 @@
       "team": "Voltigeurs de Châteaubriant",
       "division": "N1",
       "slug": "voltigeurs-de-chateaubriant",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://www.footylogos.com/dls/logo/voltigeurs-de-chateaubriant.png",
+      "standard_sha256": "40454687928b7ee830a6468f559e78736ba7bd20f1dee6e50d53ebf07b0ecc9c",
+      "victory_sha256": "231abc6fcc84ff7517c37d4558112394b25fd665b64c36f5dd4ed35a6a24ccbd"
     }
   ]
 }
