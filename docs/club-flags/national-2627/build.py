@@ -309,5 +309,15 @@ for item in results:
  report["unmatched_footmercato_catalogue"][team["name"]]=[
   {"name":pick,"url":FM_INDEX[pick],"ratio":round(SequenceMatcher(None,target,pick).ratio(),3)}
   for pick in picks]
+ if target in FM_INDEX:
+  try:
+   page=S.get(FM_INDEX[target],timeout=7).text
+   logos=[]
+   for i in BeautifulSoup(page,"html.parser").find_all("img"):
+    if not (i.get("alt") or "").lower().startswith("logo "):continue
+    logos.append([i.get("alt"),(i.get("data-src") or i.get("src") or "")[-100:]])
+    if len(logos)>=4:break
+   report["unmatched_footmercato_catalogue"][team["name"]].append({"image_candidates":logos})
+  except Exception:pass
 (BASE/"crest-audit.json").write_text(json.dumps(report,ensure_ascii=False,indent=2),encoding="utf8")
 print("generated",report["generated"],"missing",len(ROSTER)-report["generated"])
