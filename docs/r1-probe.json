@@ -1,0 +1,548 @@
+{
+  "https://statfootballclubfrance.fr/identifiant-championnat.php?id=11&type=regional": {
+    "status": 200,
+    "url": "https://statfootballclubfrance.fr/identifiant-championnat.php?id=11&type=regional",
+    "chars": 7994,
+    "title": "Ligue Grand Est de football - Choix des compétitions et saisons",
+    "headings": [
+      "Choisir un championnat",
+      "Grand Est",
+      "Régional 1 / Division d'honneur",
+      "Régional 2",
+      "Régional 3"
+    ],
+    "links": [
+      [
+        "📅 Championnats nationaux et régionaux - Coupe de France (6è tour) et Coupes régionales Programme et résultats : 20 au 26 octobre 2026",
+        "/match-we.php"
+      ],
+      [
+        "2026-2027",
+        "championnat.php?id=4128"
+      ],
+      [
+        "2025-2026",
+        "championnat.php?id=1668"
+      ],
+      [
+        "2025-2026",
+        "championnat.php?id=1701"
+      ],
+      [
+        "2025-2026",
+        "championnat.php?id=1768"
+      ]
+    ],
+    "tables": 0,
+    "tableSamples": [],
+    "textSample": "Ligue Grand Est de football - Choix des compétitions et saisons StatFootballClubFrance Historique, statistiques et suivi des compétitions des clubs français 🏠 Accueil 🏆 Championnats 🥇 Coupes ⚽ Clubs 🌍 International 📊 Statistiques 📅 Championnats nationaux et régionaux - Coupe de France (6è tour) et Coupes régionales Programme et résultats : 20 au 26 octobre 2026 Choisir un championnat Sélectionnez une compétition puis une saison pour consulter son historique,\nses classements et ses archives. Grand Est Régional 1 / Division d'honneur 2026-2027 2025-2026 2024-2025 2023-2024 2022-2023 2021-2022 2020-2021 2019-2020 2018-2019 2017-2018 2016-2017 2015-2016 2014-2015 2013-2014 2012-2013 2011-2012 2010-2011 2009-2010 2008-2009 2007-2008 2006-2007 2005-2006 2004-2005 2003-2004 2002-2003 2001-2002 20"
+  },
+  "https://www.statfootballclubfrance.fr/championnat.php?id=4130": {
+    "status": 200,
+    "url": "https://www.statfootballclubfrance.fr/championnat.php?id=4130",
+    "chars": 15124,
+    "title": "Régional 1 Grand Est 2026-2027 - Classement et résultats",
+    "headings": [
+      "Régional 1\n: 2026-2027",
+      "Groupe A",
+      "Groupe B",
+      "Groupe C"
+    ],
+    "links": [
+      [
+        "📅 Championnats nationaux et régionaux - Coupe de France (6è tour) et Coupes régionales Programme et résultats : 20 au 26 octobre 2026",
+        "/match-we.php"
+      ],
+      [
+        "← Saison 2025-2026",
+        "championnat.php?id=1670"
+      ]
+    ],
+    "tables": 3,
+    "tableSamples": [
+      [
+        "Rang",
+        "Équipe",
+        "Pts",
+        "J",
+        "G",
+        "N",
+        "P",
+        "BP",
+        "BC",
+        "Diff"
+      ],
+      [
+        "1",
+        "CS Sedan Ardennes",
+        "21",
+        "7",
+        "7",
+        "0",
+        "0",
+        "22",
+        "5",
+        "17"
+      ],
+      [
+        "2",
+        "Stade de Reims (B)",
+        "19",
+        "7",
+        "6",
+        "1",
+        "0",
+        "31",
+        "3",
+        "28"
+      ],
+      [
+        "3",
+        "RC Épernay",
+        "13",
+        "7",
+        "4",
+        "1",
+        "2",
+        "12",
+        "10",
+        "2"
+      ],
+      [
+        "4",
+        "Cormontreuil FC",
+        "12",
+        "7",
+        "4",
+        "0",
+        "3",
+        "16",
+        "12",
+        "4"
+      ],
+      [
+        "5",
+        "USAG Uckange",
+        "11",
+        "7",
+        "3",
+        "2",
+        "2",
+        "9",
+        "5",
+        "4"
+      ],
+      [
+        "6",
+        "Olympique Charleville-Prix AM (B)",
+        "10",
+        "7",
+        "3",
+        "1",
+        "3",
+        "9",
+        "12",
+        "-3"
+      ],
+      [
+        "7",
+        "FC Hettange-Grande",
+        "8",
+        "7",
+        "2",
+        "2",
+        "3",
+        "9",
+        "11",
+        "-2"
+      ],
+      [
+        "8",
+        "CSO Amnéville",
+        "8",
+        "7",
+        "2",
+        "2",
+        "3",
+        "6",
+        "12",
+        "-6"
+      ],
+      [
+        "9",
+        "ES Villerupt-Thil",
+        "7",
+        "7",
+        "1",
+        "4",
+        "2",
+        "6",
+        "7",
+        "-1"
+      ],
+      [
+        "10",
+        "FC Bogny-sur-Meuse",
+        "7",
+        "7",
+        "2",
+        "1",
+        "4",
+        "8",
+        "16",
+        "-8"
+      ],
+      [
+        "11",
+        "FCF La Neuvillette-Jamin",
+        "7",
+        "7",
+        "2",
+        "1",
+        "4",
+        "8",
+        "18",
+        "-10"
+      ]
+    ],
+    "textSample": "Régional 1 Grand Est 2026-2027 - Classement et résultats StatFootballClubFrance Historique, statistiques et suivi des compétitions des clubs français 🏠 Accueil 🏆 Championnats 🥇 Coupes ⚽ Clubs 🌍 International 📊 Statistiques 📅 Championnats nationaux et régionaux - Coupe de France (6è tour) et Coupes régionales Programme et résultats : 20 au 26 octobre 2026 Régional 1\n: 2026-2027 Retrouvez le classement complet du championnat\nRégional 1\npour la saison\n2026-2027,\navec les équipes engagées et les informations historiques. Groupe A Groupe B Groupe C ← Saison 2025-2026 Palmarès Groupe A Calendrier / Résultats Classement groupe A Rang Équipe Pts J G N P BP BC Diff 1 CS Sedan Ardennes 21 7 7 0 0 22 5 17 2 Stade de Reims (B) 19 7 6 1 0 31 3 28 3 RC Épernay 13 7 4 1 2 12 10 2 4 Cormontreuil FC 12 7 4"
+  },
+  "https://statfootballclubfrance.fr/championnat.php?id=4140": {
+    "status": 200,
+    "url": "https://statfootballclubfrance.fr/championnat.php?id=4140",
+    "chars": 11427,
+    "title": "Régional 1 Occitanie 2026-2027 - Classement et résultats",
+    "headings": [
+      "Régional 1\n: 2026-2027",
+      "Groupe A",
+      "Groupe B"
+    ],
+    "links": [
+      [
+        "📅 Championnats nationaux et régionaux - Coupe de France (6è tour) et Coupes régionales Programme et résultats : 20 au 26 octobre 2026",
+        "/match-we.php"
+      ],
+      [
+        "← Saison 2025-2026",
+        "championnat.php?id=2313"
+      ]
+    ],
+    "tables": 2,
+    "tableSamples": [
+      [
+        "Rang",
+        "Équipe",
+        "Pts",
+        "J",
+        "G",
+        "N",
+        "P",
+        "BP",
+        "BC",
+        "Diff"
+      ],
+      [
+        "1",
+        "RCO Agde",
+        "12",
+        "4",
+        "4",
+        "0",
+        "0",
+        "12",
+        "1",
+        "11"
+      ],
+      [
+        "2",
+        "ES Le Grau-du-Roi",
+        "10",
+        "4",
+        "3",
+        "1",
+        "0",
+        "6",
+        "2",
+        "4"
+      ],
+      [
+        "3",
+        "La Clermontaise Football",
+        "7",
+        "3",
+        "2",
+        "1",
+        "0",
+        "10",
+        "4",
+        "6"
+      ],
+      [
+        "4",
+        "USS Aigues-Mortes",
+        "7",
+        "3",
+        "2",
+        "1",
+        "0",
+        "8",
+        "2",
+        "6"
+      ],
+      [
+        "5",
+        "AS Frontignan AC",
+        "7",
+        "4",
+        "2",
+        "1",
+        "1",
+        "5",
+        "6",
+        "-1"
+      ],
+      [
+        "6",
+        "Entente Saint-Clément-Montferrier",
+        "6",
+        "4",
+        "2",
+        "0",
+        "2",
+        "6",
+        "5",
+        "1"
+      ],
+      [
+        "7",
+        "JS Cugnaux",
+        "5",
+        "4",
+        "1",
+        "2",
+        "1",
+        "3",
+        "4",
+        "-1"
+      ],
+      [
+        "8",
+        "Nîmes Olympique (B)",
+        "4",
+        "3",
+        "1",
+        "1",
+        "1",
+        "5",
+        "4",
+        "1"
+      ],
+      [
+        "9",
+        "FC Vauvert",
+        "4",
+        "4",
+        "1",
+        "1",
+        "2",
+        "4",
+        "8",
+        "-4"
+      ],
+      [
+        "10",
+        "GC Lunel",
+        "3",
+        "3",
+        "1",
+        "0",
+        "2",
+        "5",
+        "3",
+        "2"
+      ],
+      [
+        "11",
+        "AS Rousson",
+        "3",
+        "4",
+        "1",
+        "0",
+        "3",
+        "2",
+        "6",
+        "-4"
+      ]
+    ],
+    "textSample": "Régional 1 Occitanie 2026-2027 - Classement et résultats StatFootballClubFrance Historique, statistiques et suivi des compétitions des clubs français 🏠 Accueil 🏆 Championnats 🥇 Coupes ⚽ Clubs 🌍 International 📊 Statistiques 📅 Championnats nationaux et régionaux - Coupe de France (6è tour) et Coupes régionales Programme et résultats : 20 au 26 octobre 2026 Régional 1\n: 2026-2027 Retrouvez le classement complet du championnat\nRégional 1\npour la saison\n2026-2027,\navec les équipes engagées et les informations historiques. Groupe A Groupe B ← Saison 2025-2026 Palmarès Groupe A Calendrier / Résultats Classement groupe A Rang Équipe Pts J G N P BP BC Diff 1 RCO Agde 12 4 4 0 0 12 1 11 2 ES Le Grau-du-Roi 10 4 3 1 0 6 2 4 3 La Clermontaise Football 7 3 2 1 0 10 4 6 4 USS Aigues-Mortes 7 3 2 1 0 8 2"
+  },
+  "https://www.statfootballclubfrance.fr/championnat.php?id=4140": {
+    "status": 200,
+    "url": "https://www.statfootballclubfrance.fr/championnat.php?id=4140",
+    "chars": 11427,
+    "title": "Régional 1 Occitanie 2026-2027 - Classement et résultats",
+    "headings": [
+      "Régional 1\n: 2026-2027",
+      "Groupe A",
+      "Groupe B"
+    ],
+    "links": [
+      [
+        "📅 Championnats nationaux et régionaux - Coupe de France (6è tour) et Coupes régionales Programme et résultats : 20 au 26 octobre 2026",
+        "/match-we.php"
+      ],
+      [
+        "← Saison 2025-2026",
+        "championnat.php?id=2313"
+      ]
+    ],
+    "tables": 2,
+    "tableSamples": [
+      [
+        "Rang",
+        "Équipe",
+        "Pts",
+        "J",
+        "G",
+        "N",
+        "P",
+        "BP",
+        "BC",
+        "Diff"
+      ],
+      [
+        "1",
+        "RCO Agde",
+        "12",
+        "4",
+        "4",
+        "0",
+        "0",
+        "12",
+        "1",
+        "11"
+      ],
+      [
+        "2",
+        "ES Le Grau-du-Roi",
+        "10",
+        "4",
+        "3",
+        "1",
+        "0",
+        "6",
+        "2",
+        "4"
+      ],
+      [
+        "3",
+        "La Clermontaise Football",
+        "7",
+        "3",
+        "2",
+        "1",
+        "0",
+        "10",
+        "4",
+        "6"
+      ],
+      [
+        "4",
+        "USS Aigues-Mortes",
+        "7",
+        "3",
+        "2",
+        "1",
+        "0",
+        "8",
+        "2",
+        "6"
+      ],
+      [
+        "5",
+        "AS Frontignan AC",
+        "7",
+        "4",
+        "2",
+        "1",
+        "1",
+        "5",
+        "6",
+        "-1"
+      ],
+      [
+        "6",
+        "Entente Saint-Clément-Montferrier",
+        "6",
+        "4",
+        "2",
+        "0",
+        "2",
+        "6",
+        "5",
+        "1"
+      ],
+      [
+        "7",
+        "JS Cugnaux",
+        "5",
+        "4",
+        "1",
+        "2",
+        "1",
+        "3",
+        "4",
+        "-1"
+      ],
+      [
+        "8",
+        "Nîmes Olympique (B)",
+        "4",
+        "3",
+        "1",
+        "1",
+        "1",
+        "5",
+        "4",
+        "1"
+      ],
+      [
+        "9",
+        "FC Vauvert",
+        "4",
+        "4",
+        "1",
+        "1",
+        "2",
+        "4",
+        "8",
+        "-4"
+      ],
+      [
+        "10",
+        "GC Lunel",
+        "3",
+        "3",
+        "1",
+        "0",
+        "2",
+        "5",
+        "3",
+        "2"
+      ],
+      [
+        "11",
+        "AS Rousson",
+        "3",
+        "4",
+        "1",
+        "0",
+        "3",
+        "2",
+        "6",
+        "-4"
+      ]
+    ],
+    "textSample": "Régional 1 Occitanie 2026-2027 - Classement et résultats StatFootballClubFrance Historique, statistiques et suivi des compétitions des clubs français 🏠 Accueil 🏆 Championnats 🥇 Coupes ⚽ Clubs 🌍 International 📊 Statistiques 📅 Championnats nationaux et régionaux - Coupe de France (6è tour) et Coupes régionales Programme et résultats : 20 au 26 octobre 2026 Régional 1\n: 2026-2027 Retrouvez le classement complet du championnat\nRégional 1\npour la saison\n2026-2027,\navec les équipes engagées et les informations historiques. Groupe A Groupe B ← Saison 2025-2026 Palmarès Groupe A Calendrier / Résultats Classement groupe A Rang Équipe Pts J G N P BP BC Diff 1 RCO Agde 12 4 4 0 0 12 1 11 2 ES Le Grau-du-Roi 10 4 3 1 0 6 2 4 3 La Clermontaise Football 7 3 2 1 0 10 4 6 4 USS Aigues-Mortes 7 3 2 1 0 8 2"
+  }
+}
