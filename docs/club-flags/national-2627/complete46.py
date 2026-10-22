@@ -47,6 +47,31 @@ MANUAL={
  "FC Bourgoin-Jallieu":"https://images.seeklogo.com/logo-png/55/1/fc-bourgoin-jallieu-logo-png_seeklogo-557074.png",
  "Olympique Alès":"https://images.seeklogo.com/logo-png/55/1/olympique-ales-logo-png_seeklogo-559520.png",
 }
+# Individually matched, independently sourced football-club emblems (not placeholders).
+MANUAL.update({
+  "ASPTT Dijon": "https://www.fcsochaux.fr/upload/team_thumbnail/61e96b249ec80457990111.png",
+  "Blois Foot 41": "https://images.seeklogo.com/logo-png/63/1/blois-football-41-logo-png_seeklogo-632055.png",
+  "ES Fosséenne": "https://d1e67q5w736kt2.cloudfront.net/france/clubs/es-fosseenne.jpg",
+  "ESA Linas-Montlhéry": "https://www.europlan-online.de/files/b3db7211bead9080bfe39d4394f8ad2f.png",
+  "FC Espaly": "https://images.seeklogo.com/logo-png/67/1/football-club-espaly-logo-png_seeklogo-675565.png",
+  "FC Rousset SVO": "https://www.liguesdefoot.fr/images/logo_du_club_de_football_fc-rousset-ste-vict_de_rousset.png",
+  "FC Vesoul": "https://cdn.helloasso.com/img/logos/fc%20vesoul-6e18383c8c8048d2afb9a1a9018a023a.jpg",
+  "IC Croix": "https://images.seeklogo.com/logo-png/61/1/iris-club-de-croix-logo-png_seeklogo-616640.png",
+  "Is-Selongey Foot": "https://www.europlan-online.de/files/97b0dfffe64eee203dfe5c205a865cc5.png",
+  "Montpellier Atlas Paillade": "https://www.liguesdefoot.fr/images/logo_du_club_de_football_mont-atlas-paillade_de_montpellier.png",
+  "OC Cesson": "https://media.letelegramme.fr/api/v1/images/view/687f83c0884401ad430f5e78/keep_ratio/687f83c0884401ad430f5e78.1",
+  "Olympique Charleville Prix-les-Mézières": "https://d1e67q5w736kt2.cloudfront.net/france/clubs/olympique-charleville-prix-ardenne-metropole.jpg",
+  "Saint-Amand FC": "https://r2.thesportsdb.com/images/media/team/badge/uu3bm31763261283.png",
+  "SC Berre": "https://img.besport.com/384/LIndyW7tJ1QEsNXY4kMKRxUFTnw",
+  "SFC Neuilly-sur-Marne": "https://www.europlan-online.de/files/2f172445aed578db01f6b584e1ca5285a.png",
+  "Sologne Olympique Romorantin": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_SF_Romorantin_2026.svg",
+  "Stade Beaucairois": "https://www.ogol.com.br/img/logos/equipas/13173_imgbank_1763647995.png",
+  "Torcy PVM US": "https://s1.static-footeo.com/1200/uploads/torcyfoot/logo__qfrrky.png",
+  "UF Mâcon 71": "https://d1e67q5w736kt2.cloudfront.net/france/clubs/macon-71.jpg",
+  "US Feurs": "https://www.liguesdefoot.fr/images/logo_du_club_de_football_us-feurs_de_feurs.png",
+  "US Mandelieu-la-Napoule": "https://d1e67q5w736kt2.cloudfront.net/france/clubs/us-mandelieu-football.jpg"
+})
+
 INDEX={}
 try:
  page=S.get("https://football-logos.cc/france/",timeout=26); page.raise_for_status()
@@ -141,8 +166,27 @@ def generate(team,img):
     wp[x,y]=(min(255,int(r*f)),min(255,int(g*f)),min(255,int(b*f)),a)
  wave.save(v,optimize=True)
  return True
+
+def apm_metz_logo():
+ for page in ("https://scorenco.com/football/clubs/apm-metz-2qz4","https://www.sportcorico.com/clubs/am-du-personnel-municipal-metz-fc","https://apm-metz.footeo.com/"):
+  try:
+   r=S.get(page,timeout=13);r.raise_for_status()
+   soup=BeautifulSoup(r.text,"html.parser")
+   for tag in soup.find_all("img"):
+    label=(tag.get("alt") or "").lower()
+    if not any(x in label for x in ("apm","personnel municipal","logo du club")):continue
+    u=tag.get("data-src") or tag.get("src")
+    if not u:continue
+    u=urljoin(page,u)
+    if any(x in u.lower() for x in ("placeholder","default","grey","empty")):continue
+    im=load_image(u)
+    if im:return im,u,"verified-club-page",page
+  except Exception:continue
+ return None,None,None,None
+
 def process(t):
  im,source,origin,matched=fetch_site(t)
+ if im is None and t['team']=='APM Metz': im,source,origin,matched=apm_metz_logo()
  if im is None and t["team"] in MANUAL:
   src=MANUAL[t["team"]];im=load_image(src)
   if im is not None:source,origin,matched=src,"curated_external",t["team"]
