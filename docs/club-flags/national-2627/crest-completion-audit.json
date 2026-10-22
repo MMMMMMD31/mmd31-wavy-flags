@@ -1,7 +1,60 @@
 {
+  "berre_debug": [
+    {
+      "page": "https://scorenco.com/football/clubs/berre-sporting-club-2inp",
+      "status": 200,
+      "candidate_count": 6
+    },
+    {
+      "page": "https://www.sportcorico.com/clubs/berre-spc",
+      "status": 200,
+      "candidate_count": 8
+    },
+    {
+      "page": "https://www.besport.com/group/19641",
+      "status": 200,
+      "candidate_count": 8
+    },
+    {
+      "url": "https://img.besport.com/384/LIndyW7tJ1QEsNXY4kMKRxUFTnw",
+      "error": "HTTPSConnectionPool(host='img.besport.com', port=443): Max retries exceeded with url: /384/LIndyW7tJ1QEsNXY4kMKRxUFTnw (Caused by "
+    },
+    {
+      "url": "https://wsrv.nl/?url=img.besport.com/384/LIndyW7tJ1QEsNXY4kMKRxUFTnw",
+      "status": 404,
+      "bytes": 69,
+      "mime": "application/json"
+    },
+    {
+      "url": "https://images.weserv.nl/?url=img.besport.com/384/LIndyW7tJ1QEsNXY4kMKRxUFTnw",
+      "status": 404,
+      "bytes": 69,
+      "mime": "application/json"
+    },
+    {
+      "url": "https://wsrv.nl/?url=https%3A%2F%2Fimg.besport.com%2F384%2FLIndyW7tJ1QEsNXY4kMKRxUFTnw",
+      "status": 404,
+      "bytes": 69,
+      "mime": "application/json"
+    },
+    {
+      "url": "https://img.besport.com/512/LIndyW7tJ1QEsNXY4kMKRxUFTnw",
+      "error": "HTTPSConnectionPool(host='img.besport.com', port=443): Max retries exceeded with url: /512/LIndyW7tJ1QEsNXY4kMKRxUFTnw (Caused by "
+    },
+    {
+      "url": "https://img.besport.com/128/LIndyW7tJ1QEsNXY4kMKRxUFTnw",
+      "error": "HTTPSConnectionPool(host='img.besport.com', port=443): Max retries exceeded with url: /128/LIndyW7tJ1QEsNXY4kMKRxUFTnw (Caused by "
+    },
+    {
+      "url": "https://s3.pub2.infomaniak.cloud/object/v1/AUTH_7caca171fcb14ede88bd14eb36f90e50/sportcorico-media/logos/logo-berre-spc-541775.jpg",
+      "status": 200,
+      "bytes": 7277,
+      "mime": "image/jpeg"
+    }
+  ],
   "initial": 46,
-  "added": 45,
-  "missing": 1,
+  "added": 46,
+  "missing": 0,
   "results": [
     {
       "team": "APM Metz",
@@ -295,9 +348,10 @@
       "team": "SC Berre",
       "division": "N2",
       "slug": "sc-berre",
-      "status": "MISSING",
-      "source": null,
-      "candidates": []
+      "status": "ADDED",
+      "source": "https://s3.pub2.infomaniak.cloud/object/v1/AUTH_7caca171fcb14ede88bd14eb36f90e50/sportcorico-media/logos/logo-berre-spc-541775.jpg",
+      "provider": "verified_berre_club",
+      "matched": "Berre Sporting Club"
     },
     {
       "team": "SFC Neuilly-sur-Marne",
