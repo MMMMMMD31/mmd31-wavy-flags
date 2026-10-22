@@ -198,6 +198,8 @@ def footmercato_logo(t):
   webpage=S.get(url,timeout=8)
   if webpage.status_code!=200:return None,None
   soup=BeautifulSoup(webpage.text,"html.parser")
+  if t["name"]=="US Colomiers":
+   FM_DEBUG["club_sample"]={"status":webpage.status_code,"url":url,"imgs":[dict(alt=i.get("alt"),src=i.get("src"),datasrc=i.get("data-src")) for i in soup.find_all("img")[:12]]}
   for img in soup.find_all("img"):
    alt=(img.get("alt") or "").lower()
    if not alt.startswith("logo "):continue
