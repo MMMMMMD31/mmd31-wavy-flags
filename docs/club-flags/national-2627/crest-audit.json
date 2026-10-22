@@ -1314,6 +1314,72 @@
         "atlas-paillade",
         "https://www.footmercato.net/club/atlas-paillade/"
       ]
-    ]
+    ],
+    "club_sample": {
+      "status": 200,
+      "url": "https://www.footmercato.net/club/us-colomiers-football/",
+      "imgs": [
+        {
+          "alt": "Logo Colomiers",
+          "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%2016'%3E%3C/svg%3E",
+          "datasrc": "https://assets-fr.imgfoot.com/media/cache/150x150/club/colomiers.png"
+        },
+        {
+          "alt": "Logo Colomiers",
+          "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2028%2028'%3E%3C/svg%3E",
+          "datasrc": "https://assets-fr.imgfoot.com/media/cache/150x150/club/colomiers.png"
+        },
+        {
+          "alt": "Logo Castanet",
+          "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2024%2024'%3E%3C/svg%3E",
+          "datasrc": "https://assets-fr.imgfoot.com/media/cache/60x60/castanet.png"
+        },
+        {
+          "alt": "Logo Bassin",
+          "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2024%2024'%3E%3C/svg%3E",
+          "datasrc": "https://assets-fr.imgfoot.com/media/cache/60x60/club/bassin-darcachon-sud.png"
+        },
+        {
+          "alt": "Logo Onet-le-Château",
+          "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2024%2024'%3E%3C/svg%3E",
+          "datasrc": "https://assets-fr.imgfoot.com/media/cache/60x60/onet-le-chateau.png"
+        },
+        {
+          "alt": "Logo Anglet Genets",
+          "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2024%2024'%3E%3C/svg%3E",
+          "datasrc": "https://assets-fr.imgfoot.com/media/cache/60x60/club/les-genets-danglet.png"
+        },
+        {
+          "alt": "Logo Mérignac-Arlac",
+          "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2024%2024'%3E%3C/svg%3E",
+          "datasrc": "https://assets-fr.imgfoot.com/media/cache/60x60/club/merignac-arlac.png"
+        },
+        {
+          "alt": "Logo Colomiers",
+          "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2024%2024'%3E%3C/svg%3E",
+          "datasrc": "https://assets-fr.imgfoot.com/media/cache/60x60/club/colomiers.png"
+        },
+        {
+          "alt": "Logo Toulouse II",
+          "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2024%2024'%3E%3C/svg%3E",
+          "datasrc": "https://assets-fr.imgfoot.com/media/cache/60x60/club/toulouse.png"
+        },
+        {
+          "alt": "Logo Pau II",
+          "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2024%2024'%3E%3C/svg%3E",
+          "datasrc": "https://assets-fr.imgfoot.com/media/cache/60x60/logo-pau-fc.png"
+        },
+        {
+          "alt": "Logo Trélissac",
+          "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2024%2024'%3E%3C/svg%3E",
+          "datasrc": "https://assets-fr.imgfoot.com/media/cache/60x60/club/trelissac.png"
+        },
+        {
+          "alt": "Logo Rodez",
+          "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2024%2024'%3E%3C/svg%3E",
+          "datasrc": "https://assets-fr.imgfoot.com/media/cache/60x60/rodez.png"
+        }
+      ]
+    }
   }
 }
