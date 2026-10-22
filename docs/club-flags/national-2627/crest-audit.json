@@ -1,0 +1,1136 @@
+{
+  "requested": 160,
+  "generated": 5,
+  "results": [
+    {
+      "team": "AF Virois",
+      "division": "N2",
+      "slug": "af-virois",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "AJ Auxerre II",
+      "division": "N2",
+      "slug": "aj-auxerre-ii",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "Andrézieux-Bouthéon FC",
+      "division": "N1",
+      "slug": "andrezieux-boutheon-fc",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "Angoulême Charente FC",
+      "division": "N1",
+      "slug": "angouleme-charente-fc",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "APM Metz",
+      "division": "N2",
+      "slug": "apm-metz",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "AS Furiani-Agliani",
+      "division": "N1",
+      "slug": "as-furiani-agliani",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "AS La Châtaigneraie",
+      "division": "N2",
+      "slug": "as-la-chataigneraie",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "AS Nancy Lorraine II",
+      "division": "N2",
+      "slug": "as-nancy-lorraine-ii",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "AS Panazol",
+      "division": "N2",
+      "slug": "as-panazol",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "AS Saint-Brieuc Ginglin-Cesson",
+      "division": "N2",
+      "slug": "as-saint-brieuc-ginglin-cesson",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "AS Saint-Étienne II",
+      "division": "N2",
+      "slug": "as-saint-etienne-ii",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "AS Saint-Ouen-l'Aumône",
+      "division": "N2",
+      "slug": "as-saint-ouen-l-aumone",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "AS Saint-Priest",
+      "division": "N1",
+      "slug": "as-saint-priest",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "AS Steenvoorde",
+      "division": "N2",
+      "slug": "as-steenvoorde",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "AS Trouville Deauville",
+      "division": "N2",
+      "slug": "as-trouville-deauville",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "AS Vitré",
+      "division": "N2",
+      "slug": "as-vitre",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "ASC Biesheim",
+      "division": "N1",
+      "slug": "asc-biesheim",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "ASM Belfort",
+      "division": "N2",
+      "slug": "asm-belfort",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "ASPTT Caen Football",
+      "division": "N2",
+      "slug": "asptt-caen-football",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "ASPTT Dijon",
+      "division": "N2",
+      "slug": "asptt-dijon",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "Aviron Bayonnais FC",
+      "division": "N1",
+      "slug": "aviron-bayonnais-fc",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "Avoine Olympique Chinon Cinais",
+      "division": "N2",
+      "slug": "avoine-olympique-chinon-cinais",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "Blagnac FC",
+      "division": "N2",
+      "slug": "blagnac-fc",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "Blois Foot 41",
+      "division": "N2",
+      "slug": "blois-foot-41",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "Bourges FC",
+      "division": "N1",
+      "slug": "bourges-fc",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "C'Chartres Football",
+      "division": "N2",
+      "slug": "c-chartres-football",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "CA Pontarlier",
+      "division": "N2",
+      "slug": "ca-pontarlier",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "Canet Roussillon FC",
+      "division": "N1",
+      "slug": "canet-roussillon-fc",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "CMS Oissel",
+      "division": "N2",
+      "slug": "cms-oissel",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "Dijon FCO II",
+      "division": "N2",
+      "slug": "dijon-fco-ii",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "Dinan Léhon FC",
+      "division": "N1",
+      "slug": "dinan-lehon-fc",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "EA Guingamp II",
+      "division": "N2",
+      "slug": "ea-guingamp-ii",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "Entente Feignies Aulnoye",
+      "division": "N1",
+      "slug": "entente-feignies-aulnoye",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "ES Fosséenne",
+      "division": "N2",
+      "slug": "es-fosseenne",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "ES Le Cannet Rocheville",
+      "division": "N2",
+      "slug": "es-le-cannet-rocheville",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "ES Thaon",
+      "division": "N2",
+      "slug": "es-thaon",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "ESA Linas-Montlhéry",
+      "division": "N2",
+      "slug": "esa-linas-montlhery",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "ESTAC Troyes II",
+      "division": "N1",
+      "slug": "estac-troyes-ii",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "Étoile Fréjus Saint-Raphaël",
+      "division": "N1",
+      "slug": "etoile-frejus-saint-raphael",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "FC Annecy II",
+      "division": "N2",
+      "slug": "fc-annecy-ii",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "FC Balagne",
+      "division": "N2",
+      "slug": "fc-balagne",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "FC Bassin d'Arcachon",
+      "division": "N2",
+      "slug": "fc-bassin-d-arcachon",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "FC Borgo",
+      "division": "N1",
+      "slug": "fc-borgo",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "FC Bourgoin-Jallieu",
+      "division": "N2",
+      "slug": "fc-bourgoin-jallieu",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "FC Challans",
+      "division": "N2",
+      "slug": "fc-challans",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "FC Chalon",
+      "division": "N2",
+      "slug": "fc-chalon",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "FC Chamalières",
+      "division": "N2",
+      "slug": "fc-chamalieres",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "FC Chambly Oise",
+      "division": "N1",
+      "slug": "fc-chambly-oise",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "FC Chauray",
+      "division": "N1",
+      "slug": "fc-chauray",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "FC Dieppe",
+      "division": "N1",
+      "slug": "fc-dieppe",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "FC Espaly",
+      "division": "N2",
+      "slug": "fc-espaly",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "FC Limonest Dardilly Saint-Didier",
+      "division": "N1",
+      "slug": "fc-limonest-dardilly-saint-didier",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "FC Lorient II",
+      "division": "N1",
+      "slug": "fc-lorient-ii",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "FC Mérignac Arlac",
+      "division": "N2",
+      "slug": "fc-merignac-arlac",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "FC Metz II",
+      "division": "N2",
+      "slug": "fc-metz-ii",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "FC Montlouis",
+      "division": "N1",
+      "slug": "fc-montlouis",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "FC Mulhouse",
+      "division": "N2",
+      "slug": "fc-mulhouse",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "FC Nantes II",
+      "division": "N2",
+      "slug": "fc-nantes-ii",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "FC Rousset SVO",
+      "division": "N2",
+      "slug": "fc-rousset-svo",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "FC Saint-Jean-le-Blanc",
+      "division": "N2",
+      "slug": "fc-saint-jean-le-blanc",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "FC Saint-Lô Manche",
+      "division": "N2",
+      "slug": "fc-saint-lo-manche",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "FC Sochaux-Montbéliard II",
+      "division": "N2",
+      "slug": "fc-sochaux-montbeliard-ii",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "FC Versailles II",
+      "division": "N2",
+      "slug": "fc-versailles-ii",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "FC Vesoul",
+      "division": "N2",
+      "slug": "fc-vesoul",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "FCM Aubervilliers",
+      "division": "N2",
+      "slug": "fcm-aubervilliers",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "FCS Brétigny",
+      "division": "N2",
+      "slug": "fcs-bretigny",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "FCSR Haguenau",
+      "division": "N1",
+      "slug": "fcsr-haguenau",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "Gallia Lucciana",
+      "division": "N2",
+      "slug": "gallia-lucciana",
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://upload.wikimedia.org/wikipedia/en/e/e7/GC_Lucciana_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+      "standard_sha256": "d9d3f9cbd9e5d9ed4b8c5bba919a934bfaab68c17d725c479bfff64ca7a6d33f",
+      "victory_sha256": "bcc28aaf2cfc1f33036cc166305a77ab7ac275f32e16ede719bec7b2db85f4fb"
+    },
+    {
+      "team": "GFA Rumilly-Vallières",
+      "division": "N1",
+      "slug": "gfa-rumilly-vallieres",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "GFC Ajaccio",
+      "division": "N2",
+      "slug": "gfc-ajaccio",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "GOAL FC",
+      "division": "N1",
+      "slug": "goal-fc",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "GSI Pontivy",
+      "division": "N1",
+      "slug": "gsi-pontivy",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "Hauts Lyonnais",
+      "division": "N1",
+      "slug": "hauts-lyonnais",
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://upload.wikimedia.org/wikipedia/en/f/f6/Hauts_Lyonnais_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+      "standard_sha256": "26d1c5659bf5605706ac3edc55d833343b9b3063dbe0af1382a597074e4df865",
+      "victory_sha256": "83f77636ca3ae2c27766824ce39a96041c762bfe05eb2098ff33005b15afee5f"
+    },
+    {
+      "team": "Hyères FC",
+      "division": "N1",
+      "slug": "hyeres-fc",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "IC Croix",
+      "division": "N2",
+      "slug": "ic-croix",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "Is-Selongey Foot",
+      "division": "N2",
+      "slug": "is-selongey-foot",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "Istres FC",
+      "division": "N1",
+      "slug": "istres-fc",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "JA Drancy",
+      "division": "N2",
+      "slug": "ja-drancy",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "Jura Dolois Football",
+      "division": "N2",
+      "slug": "jura-dolois-football",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "Lannion FC",
+      "division": "N2",
+      "slug": "lannion-fc",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "LB Châteauroux",
+      "division": "N1",
+      "slug": "lb-chateauroux",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "LB Châteauroux II",
+      "division": "N2",
+      "slug": "lb-chateauroux-ii",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "Le Mans FC II",
+      "division": "N2",
+      "slug": "le-mans-fc-ii",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "Le Poiré-sur-Vie VF",
+      "division": "N1",
+      "slug": "le-poire-sur-vie-vf",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "Les Genêts d'Anglet",
+      "division": "N2",
+      "slug": "les-genets-d-anglet",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "Les Herbiers VF",
+      "division": "N1",
+      "slug": "les-herbiers-vf",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "Les Sables Vendée Football",
+      "division": "N2",
+      "slug": "les-sables-vendee-football",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "LOSC Lille II",
+      "division": "N2",
+      "slug": "losc-lille-ii",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "Lyon La Duchère",
+      "division": "N1",
+      "slug": "lyon-la-duchere",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "Montpellier Atlas Paillade",
+      "division": "N2",
+      "slug": "montpellier-atlas-paillade",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "Montpellier HSC II",
+      "division": "N2",
+      "slug": "montpellier-hsc-ii",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "Nîmes Olympique",
+      "division": "N1",
+      "slug": "nimes-olympique",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "OC Cesson",
+      "division": "N2",
+      "slug": "oc-cesson",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "Olympique Alès",
+      "division": "N2",
+      "slug": "olympique-ales",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "Olympique Charleville Prix-les-Mézières",
+      "division": "N2",
+      "slug": "olympique-charleville-prix-les-mezieres",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "Olympique de Marseille II",
+      "division": "N2",
+      "slug": "olympique-de-marseille-ii",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "Olympique Lyonnais II",
+      "division": "N2",
+      "slug": "olympique-lyonnais-ii",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "Olympique Saint-Quentin",
+      "division": "N2",
+      "slug": "olympique-saint-quentin",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "Olympique Saumur FC",
+      "division": "N1",
+      "slug": "olympique-saumur-fc",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "Onet-le-Château Foot",
+      "division": "N2",
+      "slug": "onet-le-chateau-foot",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "Paris FC II",
+      "division": "N2",
+      "slug": "paris-fc-ii",
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Paris_FCLogo_11-24.png/250px-Paris_FCLogo_11-24.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "standard_sha256": "a88dcfdb690909e1a878a915368201451479c25e134b5740c073be7a33115527",
+      "victory_sha256": "53974c2e779395c7fa54782cae3c3b7fed0957accd54095326e0de1718f79082"
+    },
+    {
+      "team": "Pau FC II",
+      "division": "N2",
+      "slug": "pau-fc-ii",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "Racing Besançon",
+      "division": "N2",
+      "slug": "racing-besancon",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "Racing Club de France",
+      "division": "N1",
+      "slug": "racing-club-de-france",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "RC Strasbourg II",
+      "division": "N2",
+      "slug": "rc-strasbourg-ii",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "Red Star FC II",
+      "division": "N2",
+      "slug": "red-star-fc-ii",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "Riviera FC",
+      "division": "N2",
+      "slug": "riviera-fc",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "Rodez AF II",
+      "division": "N2",
+      "slug": "rodez-af-ii",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "SA Épinal",
+      "division": "N1",
+      "slug": "sa-epinal",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "Sablé FC",
+      "division": "N2",
+      "slug": "sable-fc",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "SAG Cestas",
+      "division": "N2",
+      "slug": "sag-cestas",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "Saint-Amand FC",
+      "division": "N2",
+      "slug": "saint-amand-fc",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "Saint-Colomban Locminé",
+      "division": "N1",
+      "slug": "saint-colomban-locmine",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "Saint-Pierre Milizac",
+      "division": "N2",
+      "slug": "saint-pierre-milizac",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "Saint-Pryvé Saint-Hilaire FC",
+      "division": "N1",
+      "slug": "saint-pryve-saint-hilaire-fc",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "Sainte-Geneviève FC",
+      "division": "N2",
+      "slug": "sainte-genevieve-fc",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "SC Bastia II",
+      "division": "N2",
+      "slug": "sc-bastia-ii",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "SC Berre",
+      "division": "N2",
+      "slug": "sc-berre",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "SC Toulon",
+      "division": "N1",
+      "slug": "sc-toulon",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "SFC Neuilly-sur-Marne",
+      "division": "N2",
+      "slug": "sfc-neuilly-sur-marne",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "SM Caen II",
+      "division": "N2",
+      "slug": "sm-caen-ii",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "Sologne Olympique Romorantin",
+      "division": "N2",
+      "slug": "sologne-olympique-romorantin",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "SR Colmar",
+      "division": "N1",
+      "slug": "sr-colmar",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "Stade Beaucairois",
+      "division": "N2",
+      "slug": "stade-beaucairois",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "Stade Brestois II",
+      "division": "N2",
+      "slug": "stade-brestois-ii",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "Stade Briochin",
+      "division": "N1",
+      "slug": "stade-briochin",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "Stade Lavallois II",
+      "division": "N2",
+      "slug": "stade-lavallois-ii",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "Stade Rennais II",
+      "division": "N2",
+      "slug": "stade-rennais-ii",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "TA Rennes",
+      "division": "N2",
+      "slug": "ta-rennes",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "Tarbes Pyrénées Football",
+      "division": "N1",
+      "slug": "tarbes-pyrenees-football",
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://upload.wikimedia.org/wikipedia/en/a/a3/Logotarbes-pf.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+      "standard_sha256": "487389b5eae7690b3a6279d32b99b2199cbba367f0b8179fc58d97f5a3fbd9e5",
+      "victory_sha256": "0a45864986b19c6eeae562bb8edfac7c31a4e29412e45205259abf56ebf44069"
+    },
+    {
+      "team": "Thonon Évian Grand Genève FC",
+      "division": "N2",
+      "slug": "thonon-evian-grand-geneve-fc",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "Torcy PVM US",
+      "division": "N2",
+      "slug": "torcy-pvm-us",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "Toulouse FC II",
+      "division": "N2",
+      "slug": "toulouse-fc-ii",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "Trélissac FC",
+      "division": "N2",
+      "slug": "trelissac-fc",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "UF Mâcon 71",
+      "division": "N2",
+      "slug": "uf-macon-71",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "Union Foot de Touraine",
+      "division": "N2",
+      "slug": "union-foot-de-touraine",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "US Alençon",
+      "division": "N2",
+      "slug": "us-alencon",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "US Avranches",
+      "division": "N1",
+      "slug": "us-avranches",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "US Castanet",
+      "division": "N2",
+      "slug": "us-castanet",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "US Chantilly",
+      "division": "N1",
+      "slug": "us-chantilly",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "US Chauvigny",
+      "division": "N2",
+      "slug": "us-chauvigny",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "US Colomiers",
+      "division": "N2",
+      "slug": "us-colomiers",
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://thumb.wikimedia.org/wikipedia/en/thumb/5/54/Colomiers_rugby_badge.png/250px-Colomiers_rugby_badge.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "standard_sha256": "f7fa4881e1a3210d95db21f4412cac32387511b4b5250a09fa0bf306f5f31634",
+      "victory_sha256": "60f1d2090454554e4e3eba00cb11556ef3763642aa1fc7cfb767b131e1a425d0"
+    },
+    {
+      "team": "US Créteil",
+      "division": "N1",
+      "slug": "us-creteil",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "US Feurs",
+      "division": "N2",
+      "slug": "us-feurs",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "US Granville",
+      "division": "N1",
+      "slug": "us-granville",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "US Ivry",
+      "division": "N2",
+      "slug": "us-ivry",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "US Lège-Cap-Ferret",
+      "division": "N2",
+      "slug": "us-lege-cap-ferret",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "US Mandelieu-la-Napoule",
+      "division": "N2",
+      "slug": "us-mandelieu-la-napoule",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "US Orléans II",
+      "division": "N2",
+      "slug": "us-orleans-ii",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "US Pays du Valois",
+      "division": "N1",
+      "slug": "us-pays-du-valois",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "US Saint-Malo",
+      "division": "N1",
+      "slug": "us-saint-malo",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "US Saint-Maur Lusitanos",
+      "division": "N1",
+      "slug": "us-saint-maur-lusitanos",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "US Saint-Philbert-de-Grand-Lieu",
+      "division": "N2",
+      "slug": "us-saint-philbert-de-grand-lieu",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "US Vimy",
+      "division": "N2",
+      "slug": "us-vimy",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "USC Corte",
+      "division": "N2",
+      "slug": "usc-corte",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "USSA Vertou",
+      "division": "N2",
+      "slug": "ussa-vertou",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "Vannes OC",
+      "division": "N2",
+      "slug": "vannes-oc",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "Vendée Fontenay Foot",
+      "division": "N2",
+      "slug": "vendee-fontenay-foot",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "Vierzon FC",
+      "division": "N2",
+      "slug": "vierzon-fc",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    },
+    {
+      "team": "Voltigeurs de Châteaubriant",
+      "division": "N1",
+      "slug": "voltigeurs-de-chateaubriant",
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
+    }
+  ]
+}
