@@ -115,8 +115,11 @@ def footy_logo(t):
 
 # Local 2026/27 league directory includes many amateur badges not found on Wikipedia.
 FM_INDEX={}
+FM_DEBUG={}
 try:
- page=S.get("https://www.footmercato.net/france/national-2/club",timeout=20).text
+ response=S.get("https://www.footmercato.net/france/national-2/club",timeout=20)
+ page=response.text
+ FM_DEBUG={"status":response.status_code,"bytes":len(page)}
  soup=BeautifulSoup(page,"html.parser")
  for a in soup.find_all("a",href=True):
   target=a["href"]
@@ -125,6 +128,8 @@ try:
   if not label or len(label)>75:continue
   FM_INDEX[slug(label)]=urljoin("https://www.footmercato.net",target)
 except Exception as ex:print("FootMercato catalog warning",repr(ex))
+FM_DEBUG["count"]=len(FM_INDEX)
+FM_DEBUG["first"]=list(FM_INDEX.items())[:5]
 FM_NAME={
  "APM Metz":"apm-metz","AS La Châtaigneraie":"la-chataigneraie",
  "AS Saint-Brieuc Ginglin-Cesson":"ginglin-cesson",
@@ -279,6 +284,6 @@ with concurrent.futures.ThreadPoolExecutor(max_workers=14) as exe:
   try:results.append(f.result())
   except Exception as e:results.append({"status":"ERROR","error":str(e)})
 report={"requested":len(ROSTER),"generated":sum(x["status"]=="WIKIPEDIA_INFOBOX" for x in results),
-        "results":sorted(results,key=lambda x:x.get("slug",""))}
+        "results":sorted(results,key=lambda x:x.get("slug","")),"fm_debug":FM_DEBUG}
 (BASE/"crest-audit.json").write_text(json.dumps(report,ensure_ascii=False,indent=2),encoding="utf8")
 print("generated",report["generated"],"missing",len(ROSTER)-report["generated"])
