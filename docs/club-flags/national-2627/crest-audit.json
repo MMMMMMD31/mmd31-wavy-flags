@@ -1,6 +1,6 @@
 {
   "requested": 160,
-  "generated": 111,
+  "generated": 114,
   "results": [
     {
       "team": "AF Virois",
@@ -299,8 +299,11 @@
       "team": "ES Thaon",
       "division": "N2",
       "slug": "es-thaon",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://upload.wikimedia.org/wikipedia/en/5/57/ES_Thaon_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+      "standard_sha256": "af16a274ba697d9a7e4e56c507496d66507527afc3cfa4c2ce87e32872a66e16",
+      "victory_sha256": "3cafe4223a21716f4edf3ddd361ecaac06e0bd2f38d5456defd1119043f462c0",
+      "assetRestoredFromPriorVerifiedCommit": true
     },
     {
       "team": "ESA Linas-Montlhéry",
@@ -549,8 +552,11 @@
       "team": "FCS Brétigny",
       "division": "N2",
       "slug": "fcs-bretigny",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://assets-fr.imgfoot.com/media/cache/150x150/club/bretigny-foot.png",
+      "standard_sha256": "fb780fb4d8da3610920a16a02bb90563afb89b4c7b8eb0731100912852ffe6f2",
+      "victory_sha256": "e7889364d9cc3cda4e819e9a55b0db7f72090a1c219ee57f7a73fde2402dd4d4",
+      "assetRestoredFromPriorVerifiedCommit": true
     },
     {
       "team": "FCSR Haguenau",
@@ -565,8 +571,11 @@
       "team": "Gallia Lucciana",
       "division": "N2",
       "slug": "gallia-lucciana",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://upload.wikimedia.org/wikipedia/en/e/e7/GC_Lucciana_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+      "standard_sha256": "d9d3f9cbd9e5d9ed4b8c5bba919a934bfaab68c17d725c479bfff64ca7a6d33f",
+      "victory_sha256": "bcc28aaf2cfc1f33036cc166305a77ab7ac275f32e16ede719bec7b2db85f4fb",
+      "assetRestoredFromPriorVerifiedCommit": true
     },
     {
       "team": "GFA Rumilly-Vallières",
@@ -1444,7 +1453,7 @@
       {
         "name": "ginglin-cesson",
         "url": "https://www.footmercato.net/club/as-ginglin-cesson-saint-brieuc/",
-        "ratio": 1.0
+        "ratio": 1
       },
       {
         "name": "cesson",
@@ -1456,7 +1465,7 @@
       {
         "name": "caen-ptt",
         "url": "https://www.footmercato.net/club/asptt-caen/",
-        "ratio": 1.0
+        "ratio": 1
       },
       {
         "name": "caen-ii",
@@ -1468,7 +1477,7 @@
       {
         "name": "ta-rennes",
         "url": "https://www.footmercato.net/club/la-tour-auvergne-rennes/",
-        "ratio": 1.0
+        "ratio": 1
       },
       {
         "name": "stade-rennes-ii",
@@ -1485,7 +1494,7 @@
       {
         "name": "cesson",
         "url": "https://www.footmercato.net/club/oc-cesson-football/",
-        "ratio": 1.0
+        "ratio": 1
       },
       {
         "name": "ginglin-cesson",
@@ -1497,21 +1506,21 @@
       {
         "name": "iris-club-de-croix",
         "url": "https://www.footmercato.net/club/iris-club-de-croix/",
-        "ratio": 1.0
+        "ratio": 1
       }
     ],
     "AS Steenvoorde": [
       {
         "name": "steenvoorde",
         "url": "https://www.footmercato.net/club/as-steenvoorde/",
-        "ratio": 1.0
+        "ratio": 1
       }
     ],
     "AS Saint-Ouen-l'Aumône": [
       {
         "name": "saint-ouen-l-aumone",
         "url": "https://www.footmercato.net/club/st-ouen-laumone-as/",
-        "ratio": 1.0
+        "ratio": 1
       },
       {
         "name": "saint-amand",
@@ -1528,7 +1537,7 @@
       {
         "name": "saint-amand",
         "url": "https://www.footmercato.net/club/fc-saint-amand/",
-        "ratio": 1.0
+        "ratio": 1
       },
       {
         "name": "saint-lo-manche",
@@ -1540,14 +1549,14 @@
       {
         "name": "ocpam",
         "url": "https://www.footmercato.net/club/ocpam/",
-        "ratio": 1.0
+        "ratio": 1
       }
     ],
     "FC Saint-Lô Manche": [
       {
         "name": "saint-lo-manche",
         "url": "https://www.footmercato.net/club/fc-saint-lo-manche/",
-        "ratio": 1.0
+        "ratio": 1
       },
       {
         "name": "saint-amand",
@@ -1569,42 +1578,42 @@
       {
         "name": "neuilly-sur-marne",
         "url": "https://www.footmercato.net/club/neuilly-sur-marne/",
-        "ratio": 1.0
+        "ratio": 1
       }
     ],
     "JA Drancy": [
       {
         "name": "drancy",
         "url": "https://www.footmercato.net/club/jeanne-darc-drancy/",
-        "ratio": 1.0
+        "ratio": 1
       }
     ],
     "C'Chartres Football": [
       {
         "name": "c-chartres",
         "url": "https://www.footmercato.net/club/c-chartres-football/",
-        "ratio": 1.0
+        "ratio": 1
       }
     ],
     "APM Metz": [
       {
         "name": "apm-metz",
         "url": "https://www.footmercato.net/club/apm-metz/",
-        "ratio": 1.0
+        "ratio": 1
       }
     ],
     "ES Thaon": [
       {
         "name": "thaon",
         "url": "https://www.footmercato.net/club/es-thaonnaise/",
-        "ratio": 1.0
+        "ratio": 1
       }
     ],
     "CA Pontarlier": [
       {
         "name": "pontarlier",
         "url": "https://www.footmercato.net/club/ca-pontarlier/",
-        "ratio": 1.0
+        "ratio": 1
       },
       {
         "name": "montpellier-ii",
@@ -1616,49 +1625,49 @@
       {
         "name": "fa-ile-rousse-monticello",
         "url": "https://www.footmercato.net/club/fc-balagne/",
-        "ratio": 1.0
+        "ratio": 1
       }
     ],
     "Torcy PVM US": [
       {
         "name": "torcy",
         "url": "https://www.footmercato.net/club/us-torcy/",
-        "ratio": 1.0
+        "ratio": 1
       }
     ],
     "FC Bourgoin-Jallieu": [
       {
         "name": "bourgoin-jallieu",
         "url": "https://www.footmercato.net/club/fc-bourgoin-jallieu/",
-        "ratio": 1.0
+        "ratio": 1
       }
     ],
     "ASPTT Dijon": [
       {
         "name": "asptt-dijon",
         "url": "https://www.footmercato.net/club/asptt-dijon/",
-        "ratio": 1.0
+        "ratio": 1
       }
     ],
     "FC Chalon": [
       {
         "name": "fc-chalon-sur-saone",
         "url": "https://www.footmercato.net/club/fc-chalon-sur-saone/",
-        "ratio": 1.0
+        "ratio": 1
       }
     ],
     "FCM Aubervilliers": [
       {
         "name": "aubervilliers",
         "url": "https://www.footmercato.net/club/fc-municipal-daubervilliers/",
-        "ratio": 1.0
+        "ratio": 1
       }
     ],
     "FC Vesoul": [
       {
         "name": "vesoul",
         "url": "https://www.footmercato.net/club/vesoul-haute-saone/",
-        "ratio": 1.0
+        "ratio": 1
       },
       {
         "name": "vertou",
@@ -1670,70 +1679,70 @@
       {
         "name": "selongey",
         "url": "https://www.footmercato.net/club/is-selongey-football/",
-        "ratio": 1.0
+        "ratio": 1
       }
     ],
     "UF Mâcon 71": [
       {
         "name": "uf-macon",
         "url": "https://www.footmercato.net/club/uf-maconnais/",
-        "ratio": 1.0
+        "ratio": 1
       }
     ],
     "US Feurs": [
       {
         "name": "feurs",
         "url": "https://www.footmercato.net/club/us-feurs/",
-        "ratio": 1.0
+        "ratio": 1
       }
     ],
     "Jura Dolois Football": [
       {
         "name": "jura-dolois",
         "url": "https://www.footmercato.net/club/jura-dolois-foot/",
-        "ratio": 1.0
+        "ratio": 1
       }
     ],
     "Racing Besançon": [
       {
         "name": "racing-besancon",
         "url": "https://www.footmercato.net/club/racing-besancon/",
-        "ratio": 1.0
+        "ratio": 1
       }
     ],
     "ES Le Cannet Rocheville": [
       {
         "name": "es-le-cannet-rocheville",
         "url": "https://www.footmercato.net/club/entente-sportive-cannet-rocheville/",
-        "ratio": 1.0
+        "ratio": 1
       }
     ],
     "ES Fosséenne": [
       {
         "name": "fos",
         "url": "https://www.footmercato.net/club/es-fosseenne/",
-        "ratio": 1.0
+        "ratio": 1
       }
     ],
     "Stade Beaucairois": [
       {
         "name": "beaucaire",
         "url": "https://www.footmercato.net/club/stade-beaucairois-30/",
-        "ratio": 1.0
+        "ratio": 1
       }
     ],
     "Gallia Lucciana": [
       {
         "name": "gallia-lucciana",
         "url": "https://www.footmercato.net/club/gallia-club-lucciana/",
-        "ratio": 1.0
+        "ratio": 1
       }
     ],
     "FC Espaly": [
       {
         "name": "espaly-saint-marcel",
         "url": "https://www.footmercato.net/club/fc-espaly-saint-marcel/",
-        "ratio": 1.0
+        "ratio": 1
       },
       {
         "name": "saint-lo-manche",
@@ -1745,70 +1754,70 @@
       {
         "name": "rousset-ste-victoire",
         "url": "https://www.footmercato.net/club/fc-rousset-ste-victoire/",
-        "ratio": 1.0
+        "ratio": 1
       }
     ],
     "Montpellier Atlas Paillade": [
       {
         "name": "atlas-paillade",
         "url": "https://www.footmercato.net/club/atlas-paillade/",
-        "ratio": 1.0
+        "ratio": 1
       }
     ],
     "Riviera FC": [
       {
         "name": "riviera",
         "url": "https://www.footmercato.net/club/villefranche-saint-jean-beaulieu-fc/",
-        "ratio": 1.0
+        "ratio": 1
       }
     ],
     "Thonon Évian Grand Genève FC": [
       {
         "name": "thonon-evian",
         "url": "https://www.footmercato.net/club/thonon-evian-fc/",
-        "ratio": 1.0
+        "ratio": 1
       }
     ],
     "SC Berre": [
       {
         "name": "berre",
         "url": "https://www.footmercato.net/club/berre-sp/",
-        "ratio": 1.0
+        "ratio": 1
       }
     ],
     "Blois Foot 41": [
       {
         "name": "blois",
         "url": "https://www.footmercato.net/club/blois-foot-41/",
-        "ratio": 1.0
+        "ratio": 1
       }
     ],
     "US Mandelieu-la-Napoule": [
       {
         "name": "mandelieu-ln",
         "url": "https://www.footmercato.net/club/us-de-mandelieu-la-napoule-football/",
-        "ratio": 1.0
+        "ratio": 1
       }
     ],
     "ESA Linas-Montlhéry": [
       {
         "name": "linas-montlhery",
         "url": "https://www.footmercato.net/club/esa-linas-montlhery/",
-        "ratio": 1.0
+        "ratio": 1
       }
     ],
     "Union Foot de Touraine": [
       {
         "name": "uf-touraine",
         "url": "https://www.footmercato.net/club/uf-touraine/",
-        "ratio": 1.0
+        "ratio": 1
       }
     ],
     "Olympique Alès": [
       {
         "name": "olympique-ales",
         "url": "https://www.footmercato.net/club/olympique-ales-en-cevennes/",
-        "ratio": 1.0
+        "ratio": 1
       },
       {
         "name": "olympique-marseille-ii",
@@ -1830,14 +1839,14 @@
       {
         "name": "bretigny-foot",
         "url": "https://www.footmercato.net/club/bretigny-foot-cs/",
-        "ratio": 1.0
+        "ratio": 1
       }
     ],
     "Sainte-Geneviève FC": [
       {
         "name": "sainte-genevieve",
         "url": "https://www.footmercato.net/club/sainte-genevieve-sports/",
-        "ratio": 1.0
+        "ratio": 1
       },
       {
         "name": "saint-etienne-ii",
@@ -1849,22 +1858,28 @@
       {
         "name": "romorantin",
         "url": "https://www.footmercato.net/club/sologne-olympique-romorantinais/",
-        "ratio": 1.0
+        "ratio": 1
       }
     ],
     "USC Corte": [
       {
         "name": "corte",
         "url": "https://www.footmercato.net/club/usc-cortenais/",
-        "ratio": 1.0
+        "ratio": 1
       }
     ],
     "Vierzon FC": [
       {
         "name": "vierzon-fc",
         "url": "https://www.footmercato.net/club/vierzon-fc/",
-        "ratio": 1.0
+        "ratio": 1
       }
     ]
-  }
+  },
+  "assetSnapshot": "mmd31-n1-n2-verified-flags-20261022",
+  "restoredAfterSourceOutage": [
+    "es-thaon",
+    "fcs-bretigny",
+    "gallia-lucciana"
+  ]
 }
