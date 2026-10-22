@@ -1,0 +1,47 @@
+name: Publish Western Europe ReCup Artwork
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - tools/mmd31_build_recup_art.py
+      - .github/workflows/mmd31-publish-recup.yml
+permissions:
+  contents: write
+jobs:
+  publish-art:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install Pillow
+        run: python -m pip install Pillow
+      - name: Generate ReCup media
+        run: python tools/mmd31_build_recup_art.py
+      - name: Validate dimensions
+        shell: python
+        run: |
+          from PIL import Image
+          from pathlib import Path
+          d=Path("docs/wecr-recup")
+          a=Image.open(d/"Western_Europe_ReCup_Logo_1024x768.png")
+          b=Image.open(d/"Western_Europe_ReCup_Trophy_768x960.png")
+          assert a.format == "PNG" and a.size == (1024,768)
+          assert b.format == "PNG" and b.size == (768,960)
+          print("Checked",a.size,b.size)
+      - name: Commit only ReCup images
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/wecr-recup/
+          if git diff --cached --quiet; then
+            echo "Already published"
+          else
+            git commit -m "Publish Western Europe ReCup logo and trophy PNG"
+            git push
+          fi
