@@ -1,0 +1,28 @@
+name: MMD31 collect R2 R3 research only
+on:
+  push:
+    branches:
+      - mmd31-r1-standard-crests-audit-20261022
+    paths:
+      - 'tools/mmd31_collect_r2_r3_research_only.py'
+      - '.github/workflows/mmd31-research-r2-r3.yml'
+permissions:
+  contents: read
+jobs:
+  research:
+    runs-on: ubuntu-latest
+    timeout-minutes: 55
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: python -m pip install requests beautifulsoup4
+      - name: Collect group rosters and affiliation metadata
+        run: python tools/mmd31_collect_r2_r3_research_only.py
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: mmd31-r2r3-research
+          path: MMD31_RECHERCHE_R2_R3_2026_2027.json
+          if-no-files-found: warn
