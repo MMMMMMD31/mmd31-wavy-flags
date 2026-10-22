@@ -1,0 +1,26 @@
+name: MMD31 fill remaining 46 real National crests
+on:
+  push:
+    branches:
+      - mmd31-national2627-complete-46-20261022
+    paths:
+      - ".github/workflows/mmd31-national26-fill46.yml"
+      - "docs/club-flags/national-2627/complete46.py"
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - run: python -m pip install requests beautifulsoup4 pillow cairosvg
+      - run: python docs/club-flags/national-2627/complete46.py
+      - name: Commit audited standard and victory PNGs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/club-flags/national-2627/n1 docs/club-flags/national-2627/n2 docs/club-flags/national-2627/crest-completion-audit.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Publish sourced missing National 1/2 crest PNG pairs"
+            git push
+          fi
