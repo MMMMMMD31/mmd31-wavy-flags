@@ -1,0 +1,7771 @@
+{
+  "date": "2026-10-22",
+  "source": "statfootballclubfrance.fr 2026-27 regional league results",
+  "regions": [
+    {
+      "index": 6,
+      "title": "Ligue Auvergne-Rhône-Alpes de football - Choix des compétitions et saisons",
+      "headers": [
+        "Choisir un championnat",
+        "Auvergne-Rhône-Alpes"
+      ],
+      "candidates": [
+        "championnat.php?id=4120"
+      ],
+      "url": "https://statfootballclubfrance.fr/championnat.php?id=4120",
+      "urlTitle": "Régional 1 Auvergne-Rhône-Alpes 2026-2027 - Classement et résultats",
+      "status": 200,
+      "groups": [
+        {
+          "group": "A",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "US Villars",
+              "pts": 13,
+              "played": 5,
+              "w": 4,
+              "d": 1,
+              "l": 0,
+              "gf": 10,
+              "ga": 3
+            },
+            {
+              "rank": 2,
+              "name": "US Monsitrol-sur-Loire",
+              "pts": 11,
+              "played": 5,
+              "w": 3,
+              "d": 2,
+              "l": 0,
+              "gf": 10,
+              "ga": 3
+            },
+            {
+              "rank": 3,
+              "name": "RC Vichy",
+              "pts": 11,
+              "played": 5,
+              "w": 3,
+              "d": 2,
+              "l": 0,
+              "gf": 14,
+              "ga": 8
+            },
+            {
+              "rank": 4,
+              "name": "AS Chavanay",
+              "pts": 9,
+              "played": 5,
+              "w": 3,
+              "d": 0,
+              "l": 2,
+              "gf": 10,
+              "ga": 5
+            },
+            {
+              "rank": 5,
+              "name": "FCO Firminy Insesport",
+              "pts": 7,
+              "played": 5,
+              "w": 2,
+              "d": 1,
+              "l": 2,
+              "gf": 9,
+              "ga": 6
+            },
+            {
+              "rank": 6,
+              "name": "US Sucs-et-Lignons",
+              "pts": 7,
+              "played": 5,
+              "w": 1,
+              "d": 4,
+              "l": 0,
+              "gf": 3,
+              "ga": 2
+            },
+            {
+              "rank": 7,
+              "name": "Le Puy-en-Velay F43A (B)",
+              "pts": 7,
+              "played": 5,
+              "w": 2,
+              "d": 1,
+              "l": 2,
+              "gf": 8,
+              "ga": 8
+            },
+            {
+              "rank": 8,
+              "name": "Clermont Foot (B)",
+              "pts": 6,
+              "played": 5,
+              "w": 2,
+              "d": 1,
+              "l": 2,
+              "gf": 7,
+              "ga": 7
+            },
+            {
+              "rank": 9,
+              "name": "Moulins-Yzeure Foot",
+              "pts": 5,
+              "played": 5,
+              "w": 1,
+              "d": 2,
+              "l": 2,
+              "gf": 6,
+              "ga": 8
+            },
+            {
+              "rank": 10,
+              "name": "US Blavozy",
+              "pts": 5,
+              "played": 5,
+              "w": 1,
+              "d": 2,
+              "l": 2,
+              "gf": 6,
+              "ga": 9
+            },
+            {
+              "rank": 11,
+              "name": "Montluçon Football",
+              "pts": 4,
+              "played": 5,
+              "w": 1,
+              "d": 1,
+              "l": 3,
+              "gf": 4,
+              "ga": 10
+            },
+            {
+              "rank": 12,
+              "name": "Aurillac FC",
+              "pts": 3,
+              "played": 5,
+              "w": 0,
+              "d": 3,
+              "l": 2,
+              "gf": 8,
+              "ga": 12
+            },
+            {
+              "rank": 13,
+              "name": "Roannais Foot 42",
+              "pts": 3,
+              "played": 5,
+              "w": 0,
+              "d": 3,
+              "l": 2,
+              "gf": 4,
+              "ga": 9
+            },
+            {
+              "rank": 14,
+              "name": "SA Thiers",
+              "pts": 1,
+              "played": 5,
+              "w": 0,
+              "d": 1,
+              "l": 4,
+              "gf": 1,
+              "ga": 10
+            }
+          ]
+        },
+        {
+          "group": "B",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "Olympique Valence",
+              "pts": 13,
+              "played": 5,
+              "w": 4,
+              "d": 1,
+              "l": 0,
+              "gf": 13,
+              "ga": 5
+            },
+            {
+              "rank": 2,
+              "name": "FC Villefranche Beaujolais (B)",
+              "pts": 11,
+              "played": 5,
+              "w": 3,
+              "d": 2,
+              "l": 0,
+              "gf": 13,
+              "ga": 6
+            },
+            {
+              "rank": 3,
+              "name": "Grenoble F38 (B)",
+              "pts": 8,
+              "played": 5,
+              "w": 2,
+              "d": 2,
+              "l": 1,
+              "gf": 11,
+              "ga": 5
+            },
+            {
+              "rank": 4,
+              "name": "Rhône Vallées FC",
+              "pts": 8,
+              "played": 5,
+              "w": 2,
+              "d": 2,
+              "l": 1,
+              "gf": 9,
+              "ga": 6
+            },
+            {
+              "rank": 5,
+              "name": "Entente Crest-Aouste",
+              "pts": 7,
+              "played": 5,
+              "w": 2,
+              "d": 1,
+              "l": 2,
+              "gf": 11,
+              "ga": 10
+            },
+            {
+              "rank": 6,
+              "name": "Chambéry Savoie Foot",
+              "pts": 7,
+              "played": 5,
+              "w": 1,
+              "d": 4,
+              "l": 0,
+              "gf": 5,
+              "ga": 4
+            },
+            {
+              "rank": 7,
+              "name": "GFA Rumilly-Vallières (B)",
+              "pts": 7,
+              "played": 5,
+              "w": 1,
+              "d": 4,
+              "l": 0,
+              "gf": 5,
+              "ga": 4
+            },
+            {
+              "rank": 8,
+              "name": "AS Misérieux-Trévoux",
+              "pts": 7,
+              "played": 5,
+              "w": 2,
+              "d": 1,
+              "l": 2,
+              "gf": 6,
+              "ga": 6
+            },
+            {
+              "rank": 9,
+              "name": "AS Craponne",
+              "pts": 6,
+              "played": 5,
+              "w": 1,
+              "d": 3,
+              "l": 1,
+              "gf": 10,
+              "ga": 9
+            },
+            {
+              "rank": 10,
+              "name": "FC du Foron",
+              "pts": 6,
+              "played": 5,
+              "w": 2,
+              "d": 0,
+              "l": 3,
+              "gf": 7,
+              "ga": 12
+            },
+            {
+              "rank": 11,
+              "name": "Chassieu-Décines FC",
+              "pts": 5,
+              "played": 5,
+              "w": 1,
+              "d": 2,
+              "l": 2,
+              "gf": 7,
+              "ga": 11
+            },
+            {
+              "rank": 12,
+              "name": "PVFC Oyonnax",
+              "pts": 4,
+              "played": 5,
+              "w": 1,
+              "d": 1,
+              "l": 3,
+              "gf": 5,
+              "ga": 10
+            },
+            {
+              "rank": 13,
+              "name": "GOAL FC (B)",
+              "pts": 3,
+              "played": 5,
+              "w": 1,
+              "d": 0,
+              "l": 4,
+              "gf": 6,
+              "ga": 10
+            },
+            {
+              "rank": 14,
+              "name": "AC Seyssinet-Pariset",
+              "pts": 1,
+              "played": 5,
+              "w": 0,
+              "d": 1,
+              "l": 4,
+              "gf": 3,
+              "ga": 13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "title": "Ligue Bourgogne-Franche-Comté de football - Choix des compétitions et saisons",
+      "headers": [
+        "Choisir un championnat",
+        "Bourgogne-Franche-Comté"
+      ],
+      "candidates": [
+        "championnat.php?id=4122"
+      ],
+      "url": "https://statfootballclubfrance.fr/championnat.php?id=4122",
+      "urlTitle": "Régional 1 Bourgogne-Franche-Comté 2026-2027 - Classement et résultats",
+      "status": 200,
+      "groups": [
+        {
+          "group": "A",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "UCS Cosne-Cours-sur-Loire",
+              "pts": 10,
+              "played": 4,
+              "w": 3,
+              "d": 1,
+              "l": 0,
+              "gf": 10,
+              "ga": 1
+            },
+            {
+              "rank": 2,
+              "name": "FC Montceau Bourgogne",
+              "pts": 9,
+              "played": 4,
+              "w": 3,
+              "d": 0,
+              "l": 1,
+              "gf": 8,
+              "ga": 3
+            },
+            {
+              "rank": 3,
+              "name": "FC Gueugnon",
+              "pts": 7,
+              "played": 4,
+              "w": 2,
+              "d": 1,
+              "l": 1,
+              "gf": 8,
+              "ga": 5
+            },
+            {
+              "rank": 4,
+              "name": "Mâcon 71 (B)",
+              "pts": 7,
+              "played": 4,
+              "w": 2,
+              "d": 1,
+              "l": 1,
+              "gf": 8,
+              "ga": 5
+            },
+            {
+              "rank": 5,
+              "name": "FC Sens",
+              "pts": 7,
+              "played": 4,
+              "w": 2,
+              "d": 1,
+              "l": 1,
+              "gf": 6,
+              "ga": 6
+            },
+            {
+              "rank": 6,
+              "name": "USC Dijon",
+              "pts": 6,
+              "played": 4,
+              "w": 2,
+              "d": 0,
+              "l": 2,
+              "gf": 7,
+              "ga": 7
+            },
+            {
+              "rank": 7,
+              "name": "AS La Chapelle-de-Guinchay",
+              "pts": 5,
+              "played": 4,
+              "w": 1,
+              "d": 2,
+              "l": 1,
+              "gf": 5,
+              "ga": 5
+            },
+            {
+              "rank": 8,
+              "name": "AJ Auxerre (C)",
+              "pts": 3,
+              "played": 4,
+              "w": 0,
+              "d": 3,
+              "l": 1,
+              "gf": 5,
+              "ga": 6
+            },
+            {
+              "rank": 9,
+              "name": "Digoin FCA",
+              "pts": 3,
+              "played": 4,
+              "w": 0,
+              "d": 3,
+              "l": 1,
+              "gf": 6,
+              "ga": 8
+            },
+            {
+              "rank": 10,
+              "name": "Louhans-Cuiseaux FC",
+              "pts": 3,
+              "played": 4,
+              "w": 1,
+              "d": 0,
+              "l": 3,
+              "gf": 3,
+              "ga": 5
+            },
+            {
+              "rank": 11,
+              "name": "Entente Football Villages",
+              "pts": 3,
+              "played": 4,
+              "w": 1,
+              "d": 0,
+              "l": 3,
+              "gf": 2,
+              "ga": 9
+            },
+            {
+              "rank": 12,
+              "name": "ES Fauverney-Rouvres",
+              "pts": 2,
+              "played": 4,
+              "w": 0,
+              "d": 2,
+              "l": 2,
+              "gf": 5,
+              "ga": 13
+            }
+          ]
+        },
+        {
+          "group": "B",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "AS Ornans",
+              "pts": 8,
+              "played": 4,
+              "w": 2,
+              "d": 2,
+              "l": 0,
+              "gf": 5,
+              "ga": 2
+            },
+            {
+              "rank": 2,
+              "name": "ASC Saint-Apollinaire",
+              "pts": 7,
+              "played": 4,
+              "w": 2,
+              "d": 1,
+              "l": 1,
+              "gf": 7,
+              "ga": 4
+            },
+            {
+              "rank": 3,
+              "name": "FC Grandvillars",
+              "pts": 7,
+              "played": 4,
+              "w": 2,
+              "d": 1,
+              "l": 1,
+              "gf": 7,
+              "ga": 5
+            },
+            {
+              "rank": 4,
+              "name": "Jura Sud Foot",
+              "pts": 7,
+              "played": 4,
+              "w": 2,
+              "d": 1,
+              "l": 1,
+              "gf": 7,
+              "ga": 7
+            },
+            {
+              "rank": 5,
+              "name": "Besançon Football",
+              "pts": 7,
+              "played": 4,
+              "w": 2,
+              "d": 1,
+              "l": 1,
+              "gf": 3,
+              "ga": 3
+            },
+            {
+              "rank": 6,
+              "name": "Racing Besançon (B)",
+              "pts": 6,
+              "played": 4,
+              "w": 2,
+              "d": 0,
+              "l": 2,
+              "gf": 6,
+              "ga": 6
+            },
+            {
+              "rank": 7,
+              "name": "CA Pontarlier (B)",
+              "pts": 6,
+              "played": 4,
+              "w": 2,
+              "d": 0,
+              "l": 2,
+              "gf": 7,
+              "ga": 8
+            },
+            {
+              "rank": 8,
+              "name": "Chevigny-Saint-Sauveur Football",
+              "pts": 5,
+              "played": 4,
+              "w": 1,
+              "d": 2,
+              "l": 1,
+              "gf": 4,
+              "ga": 4
+            },
+            {
+              "rank": 9,
+              "name": "US Saint-Vit",
+              "pts": 5,
+              "played": 4,
+              "w": 1,
+              "d": 2,
+              "l": 1,
+              "gf": 4,
+              "ga": 5
+            },
+            {
+              "rank": 10,
+              "name": "FC Morteau-Montlebon",
+              "pts": 4,
+              "played": 4,
+              "w": 1,
+              "d": 1,
+              "l": 2,
+              "gf": 6,
+              "ga": 7
+            },
+            {
+              "rank": 11,
+              "name": "US Coteaux de Seille",
+              "pts": 3,
+              "played": 4,
+              "w": 1,
+              "d": 0,
+              "l": 3,
+              "gf": 5,
+              "ga": 7
+            },
+            {
+              "rank": 12,
+              "name": "US Pont-de-Roide-Vermondans",
+              "pts": 1,
+              "played": 4,
+              "w": 0,
+              "d": 1,
+              "l": 3,
+              "gf": 1,
+              "ga": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "title": "Ligue Bretagne de football - Choix des compétitions et saisons",
+      "headers": [
+        "Choisir un championnat",
+        "Bretagne"
+      ],
+      "candidates": [
+        "championnat.php?id=4124"
+      ],
+      "url": "https://statfootballclubfrance.fr/championnat.php?id=4124",
+      "urlTitle": "Régional 1 Bretagne 2026-2027 - Classement et résultats",
+      "status": 200,
+      "groups": [
+        {
+          "group": "A",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "Kériolets Pluvigner",
+              "pts": 16,
+              "played": 6,
+              "w": 5,
+              "d": 1,
+              "l": 0,
+              "gf": 16,
+              "ga": 3
+            },
+            {
+              "rank": 2,
+              "name": "AG Plouvorn",
+              "pts": 15,
+              "played": 6,
+              "w": 5,
+              "d": 0,
+              "l": 1,
+              "gf": 18,
+              "ga": 7
+            },
+            {
+              "rank": 3,
+              "name": "US Concarneau (B)",
+              "pts": 13,
+              "played": 6,
+              "w": 4,
+              "d": 1,
+              "l": 1,
+              "gf": 7,
+              "ga": 5
+            },
+            {
+              "rank": 4,
+              "name": "SM Douarnenez",
+              "pts": 12,
+              "played": 6,
+              "w": 4,
+              "d": 0,
+              "l": 2,
+              "gf": 8,
+              "ga": 10
+            },
+            {
+              "rank": 5,
+              "name": "COBSP Saint-Brieuc",
+              "pts": 10,
+              "played": 6,
+              "w": 3,
+              "d": 1,
+              "l": 2,
+              "gf": 10,
+              "ga": 6
+            },
+            {
+              "rank": 6,
+              "name": "EA Saint-Renan",
+              "pts": 9,
+              "played": 6,
+              "w": 3,
+              "d": 0,
+              "l": 3,
+              "gf": 10,
+              "ga": 8
+            },
+            {
+              "rank": 7,
+              "name": "Stade Plabennec",
+              "pts": 8,
+              "played": 6,
+              "w": 2,
+              "d": 2,
+              "l": 2,
+              "gf": 11,
+              "ga": 5
+            },
+            {
+              "rank": 8,
+              "name": "Paotred Dispount Ergué-Gabéric",
+              "pts": 7,
+              "played": 6,
+              "w": 2,
+              "d": 1,
+              "l": 3,
+              "gf": 7,
+              "ga": 6
+            },
+            {
+              "rank": 9,
+              "name": "US Montagnarde",
+              "pts": 7,
+              "played": 6,
+              "w": 2,
+              "d": 1,
+              "l": 3,
+              "gf": 7,
+              "ga": 11
+            },
+            {
+              "rank": 10,
+              "name": "Plaintel Sport",
+              "pts": 5,
+              "played": 6,
+              "w": 1,
+              "d": 2,
+              "l": 3,
+              "gf": 13,
+              "ga": 14
+            },
+            {
+              "rank": 11,
+              "name": "Stade Pontivy",
+              "pts": 5,
+              "played": 6,
+              "w": 1,
+              "d": 2,
+              "l": 3,
+              "gf": 2,
+              "ga": 7
+            },
+            {
+              "rank": 12,
+              "name": "GDR Guipavas",
+              "pts": 5,
+              "played": 6,
+              "w": 1,
+              "d": 2,
+              "l": 3,
+              "gf": 7,
+              "ga": 14
+            },
+            {
+              "rank": 13,
+              "name": "Plougastel FC",
+              "pts": 4,
+              "played": 6,
+              "w": 1,
+              "d": 1,
+              "l": 4,
+              "gf": 6,
+              "ga": 15
+            },
+            {
+              "rank": 14,
+              "name": "Saint-Brandan-Quintin FC",
+              "pts": 2,
+              "played": 6,
+              "w": 0,
+              "d": 2,
+              "l": 4,
+              "gf": 4,
+              "ga": 15
+            }
+          ]
+        },
+        {
+          "group": "B",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "FC Dinard",
+              "pts": 15,
+              "played": 6,
+              "w": 5,
+              "d": 0,
+              "l": 1,
+              "gf": 15,
+              "ga": 6
+            },
+            {
+              "rank": 2,
+              "name": "Cadets Bains-sur-Oust",
+              "pts": 13,
+              "played": 6,
+              "w": 4,
+              "d": 1,
+              "l": 1,
+              "gf": 13,
+              "ga": 5
+            },
+            {
+              "rank": 3,
+              "name": "FC Atlantique Vilaine Redon",
+              "pts": 12,
+              "played": 6,
+              "w": 3,
+              "d": 3,
+              "l": 0,
+              "gf": 13,
+              "ga": 6
+            },
+            {
+              "rank": 4,
+              "name": "CPB Bréquigny Rennes",
+              "pts": 11,
+              "played": 6,
+              "w": 3,
+              "d": 2,
+              "l": 1,
+              "gf": 18,
+              "ga": 6
+            },
+            {
+              "rank": 5,
+              "name": "Séné FC",
+              "pts": 10,
+              "played": 6,
+              "w": 3,
+              "d": 1,
+              "l": 2,
+              "gf": 4,
+              "ga": 7
+            },
+            {
+              "rank": 6,
+              "name": "US Fougères",
+              "pts": 9,
+              "played": 6,
+              "w": 3,
+              "d": 0,
+              "l": 3,
+              "gf": 13,
+              "ga": 9
+            },
+            {
+              "rank": 7,
+              "name": "Stade Castelbourgeois",
+              "pts": 9,
+              "played": 6,
+              "w": 2,
+              "d": 3,
+              "l": 1,
+              "gf": 9,
+              "ga": 7
+            },
+            {
+              "rank": 8,
+              "name": "Ploërmel FC",
+              "pts": 8,
+              "played": 6,
+              "w": 2,
+              "d": 2,
+              "l": 2,
+              "gf": 7,
+              "ga": 7
+            },
+            {
+              "rank": 9,
+              "name": "TA Rennes (B)",
+              "pts": 7,
+              "played": 6,
+              "w": 2,
+              "d": 1,
+              "l": 3,
+              "gf": 7,
+              "ga": 7
+            },
+            {
+              "rank": 10,
+              "name": "AS Vignoc-Hédé-Guipel",
+              "pts": 7,
+              "played": 6,
+              "w": 2,
+              "d": 1,
+              "l": 3,
+              "gf": 7,
+              "ga": 16
+            },
+            {
+              "rank": 11,
+              "name": "FC Tinténiac-Saint-Domineuc",
+              "pts": 6,
+              "played": 6,
+              "w": 2,
+              "d": 0,
+              "l": 4,
+              "gf": 9,
+              "ga": 16
+            },
+            {
+              "rank": 12,
+              "name": "SCS Locminé (B)",
+              "pts": 5,
+              "played": 6,
+              "w": 1,
+              "d": 2,
+              "l": 3,
+              "gf": 7,
+              "ga": 10
+            },
+            {
+              "rank": 13,
+              "name": "Lamballe FC",
+              "pts": 5,
+              "played": 6,
+              "w": 1,
+              "d": 2,
+              "l": 3,
+              "gf": 6,
+              "ga": 12
+            },
+            {
+              "rank": 14,
+              "name": "US Quessoy",
+              "pts": 0,
+              "played": 6,
+              "w": 0,
+              "d": 0,
+              "l": 6,
+              "gf": 5,
+              "ga": 19
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "title": "Ligue Centre-Val de Loire de football - Choix des compétitions et saisons",
+      "headers": [
+        "Choisir un championnat",
+        "Centre-Val de Loire"
+      ],
+      "candidates": [
+        "championnat.php?id=4126"
+      ],
+      "url": "https://statfootballclubfrance.fr/championnat.php?id=4126",
+      "urlTitle": "Régional 1 Centre-Val de Loire 2026-2027 - Classement et résultats",
+      "status": 200,
+      "groups": [
+        {
+          "group": "A",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "Bourges FC (B)",
+              "pts": 10,
+              "played": 4,
+              "w": 3,
+              "d": 1,
+              "l": 0,
+              "gf": 7,
+              "ga": 1
+            },
+            {
+              "rank": 2,
+              "name": "Vineuil SF",
+              "pts": 10,
+              "played": 4,
+              "w": 3,
+              "d": 1,
+              "l": 0,
+              "gf": 10,
+              "ga": 5
+            },
+            {
+              "rank": 3,
+              "name": "ES Bourges Moulon",
+              "pts": 9,
+              "played": 4,
+              "w": 3,
+              "d": 0,
+              "l": 1,
+              "gf": 11,
+              "ga": 5
+            },
+            {
+              "rank": 4,
+              "name": "CJF Fleury-les-Aubrais",
+              "pts": 9,
+              "played": 4,
+              "w": 3,
+              "d": 0,
+              "l": 1,
+              "gf": 6,
+              "ga": 4
+            },
+            {
+              "rank": 5,
+              "name": "Saran FC",
+              "pts": 7,
+              "played": 4,
+              "w": 2,
+              "d": 1,
+              "l": 1,
+              "gf": 4,
+              "ga": 4
+            },
+            {
+              "rank": 6,
+              "name": "EB Saint-Cyr-sur-Loire",
+              "pts": 6,
+              "played": 4,
+              "w": 2,
+              "d": 0,
+              "l": 2,
+              "gf": 8,
+              "ga": 5
+            },
+            {
+              "rank": 7,
+              "name": "US Monnaie",
+              "pts": 4,
+              "played": 4,
+              "w": 1,
+              "d": 1,
+              "l": 2,
+              "gf": 5,
+              "ga": 5
+            },
+            {
+              "rank": 8,
+              "name": "US Châteauneuf-sur-Loire",
+              "pts": 4,
+              "played": 4,
+              "w": 1,
+              "d": 1,
+              "l": 2,
+              "gf": 4,
+              "ga": 6
+            },
+            {
+              "rank": 9,
+              "name": "FC Dreux",
+              "pts": 3,
+              "played": 4,
+              "w": 1,
+              "d": 0,
+              "l": 3,
+              "gf": 7,
+              "ga": 11
+            },
+            {
+              "rank": 10,
+              "name": "Union Foot de Touraine (B)",
+              "pts": 2,
+              "played": 4,
+              "w": 0,
+              "d": 2,
+              "l": 2,
+              "gf": 2,
+              "ga": 5
+            },
+            {
+              "rank": 11,
+              "name": "OP Mehunois",
+              "pts": 2,
+              "played": 4,
+              "w": 0,
+              "d": 2,
+              "l": 2,
+              "gf": 3,
+              "ga": 9
+            },
+            {
+              "rank": 12,
+              "name": "SMOC Saint-Jean-de-Braye",
+              "pts": 1,
+              "played": 4,
+              "w": 0,
+              "d": 1,
+              "l": 3,
+              "gf": 2,
+              "ga": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "title": "Ligue Corse de football - Choix des compétitions et saisons",
+      "headers": [
+        "Choisir un championnat",
+        "Corse"
+      ],
+      "candidates": [
+        "championnat.php?id=4127"
+      ],
+      "url": "https://statfootballclubfrance.fr/championnat.php?id=4127",
+      "urlTitle": "Régional 1 Corse 2026-2027 - Classement et résultats",
+      "status": 200,
+      "groups": [
+        {
+          "group": "A",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "SC Bocognano Gravona",
+              "pts": 10,
+              "played": 3,
+              "w": 2,
+              "d": 1,
+              "l": 0,
+              "gf": 11,
+              "ga": 5
+            },
+            {
+              "rank": 2,
+              "name": "Afa FA",
+              "pts": 9,
+              "played": 3,
+              "w": 2,
+              "d": 0,
+              "l": 1,
+              "gf": 7,
+              "ga": 5
+            },
+            {
+              "rank": 3,
+              "name": "FJE Biguglia",
+              "pts": 9,
+              "played": 3,
+              "w": 2,
+              "d": 0,
+              "l": 1,
+              "gf": 7,
+              "ga": 5
+            },
+            {
+              "rank": 4,
+              "name": "AS Porto-Vecchio",
+              "pts": 9,
+              "played": 3,
+              "w": 2,
+              "d": 0,
+              "l": 1,
+              "gf": 5,
+              "ga": 6
+            },
+            {
+              "rank": 5,
+              "name": "AC Ajaccio",
+              "pts": 8,
+              "played": 2,
+              "w": 2,
+              "d": 0,
+              "l": 0,
+              "gf": 10,
+              "ga": 1
+            },
+            {
+              "rank": 6,
+              "name": "FC Borgo (B)",
+              "pts": 7,
+              "played": 3,
+              "w": 1,
+              "d": 1,
+              "l": 1,
+              "gf": 3,
+              "ga": 4
+            },
+            {
+              "rank": 7,
+              "name": "FC Bastelicaccia",
+              "pts": 7,
+              "played": 3,
+              "w": 1,
+              "d": 1,
+              "l": 1,
+              "gf": 7,
+              "ga": 9
+            },
+            {
+              "rank": 8,
+              "name": "Sud FC",
+              "pts": 6,
+              "played": 2,
+              "w": 1,
+              "d": 1,
+              "l": 0,
+              "gf": 5,
+              "ga": 1
+            },
+            {
+              "rank": 9,
+              "name": "GC Lucciana (B)",
+              "pts": 4,
+              "played": 3,
+              "w": 0,
+              "d": 1,
+              "l": 2,
+              "gf": 2,
+              "ga": 6
+            },
+            {
+              "rank": 10,
+              "name": "FC Balagne (B)",
+              "pts": 3,
+              "played": 2,
+              "w": 0,
+              "d": 1,
+              "l": 1,
+              "gf": 2,
+              "ga": 3
+            },
+            {
+              "rank": 11,
+              "name": "AS Casinca",
+              "pts": 3,
+              "played": 3,
+              "w": 0,
+              "d": 0,
+              "l": 3,
+              "gf": 2,
+              "ga": 11
+            },
+            {
+              "rank": 12,
+              "name": "SVARR",
+              "pts": 2,
+              "played": 2,
+              "w": 0,
+              "d": 0,
+              "l": 2,
+              "gf": 2,
+              "ga": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "title": "Ligue Grand Est de football - Choix des compétitions et saisons",
+      "headers": [
+        "Choisir un championnat",
+        "Grand Est"
+      ],
+      "candidates": [
+        "championnat.php?id=4128"
+      ],
+      "url": "https://statfootballclubfrance.fr/championnat.php?id=4128",
+      "urlTitle": "Régional 1 Grand Est 2026-2027 - Classement et résultats",
+      "status": 200,
+      "groups": [
+        {
+          "group": "A",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "CS Sedan Ardennes",
+              "pts": 21,
+              "played": 7,
+              "w": 7,
+              "d": 0,
+              "l": 0,
+              "gf": 22,
+              "ga": 5
+            },
+            {
+              "rank": 2,
+              "name": "Stade de Reims (B)",
+              "pts": 19,
+              "played": 7,
+              "w": 6,
+              "d": 1,
+              "l": 0,
+              "gf": 31,
+              "ga": 3
+            },
+            {
+              "rank": 3,
+              "name": "RC Épernay",
+              "pts": 13,
+              "played": 7,
+              "w": 4,
+              "d": 1,
+              "l": 2,
+              "gf": 12,
+              "ga": 10
+            },
+            {
+              "rank": 4,
+              "name": "Cormontreuil FC",
+              "pts": 12,
+              "played": 7,
+              "w": 4,
+              "d": 0,
+              "l": 3,
+              "gf": 16,
+              "ga": 12
+            },
+            {
+              "rank": 5,
+              "name": "USAG Uckange",
+              "pts": 11,
+              "played": 7,
+              "w": 3,
+              "d": 2,
+              "l": 2,
+              "gf": 9,
+              "ga": 5
+            },
+            {
+              "rank": 6,
+              "name": "Olympique Charleville-Prix AM (B)",
+              "pts": 10,
+              "played": 7,
+              "w": 3,
+              "d": 1,
+              "l": 3,
+              "gf": 9,
+              "ga": 12
+            },
+            {
+              "rank": 7,
+              "name": "FC Hettange-Grande",
+              "pts": 8,
+              "played": 7,
+              "w": 2,
+              "d": 2,
+              "l": 3,
+              "gf": 9,
+              "ga": 11
+            },
+            {
+              "rank": 8,
+              "name": "CSO Amnéville",
+              "pts": 8,
+              "played": 7,
+              "w": 2,
+              "d": 2,
+              "l": 3,
+              "gf": 6,
+              "ga": 12
+            },
+            {
+              "rank": 9,
+              "name": "ES Villerupt-Thil",
+              "pts": 7,
+              "played": 7,
+              "w": 1,
+              "d": 4,
+              "l": 2,
+              "gf": 6,
+              "ga": 7
+            },
+            {
+              "rank": 10,
+              "name": "FC Bogny-sur-Meuse",
+              "pts": 7,
+              "played": 7,
+              "w": 2,
+              "d": 1,
+              "l": 4,
+              "gf": 8,
+              "ga": 16
+            },
+            {
+              "rank": 11,
+              "name": "FCF La Neuvillette-Jamin",
+              "pts": 7,
+              "played": 7,
+              "w": 2,
+              "d": 1,
+              "l": 4,
+              "gf": 8,
+              "ga": 18
+            },
+            {
+              "rank": 12,
+              "name": "SC Marnaval",
+              "pts": 6,
+              "played": 7,
+              "w": 1,
+              "d": 3,
+              "l": 3,
+              "gf": 14,
+              "ga": 18
+            },
+            {
+              "rank": 13,
+              "name": "Thionville FC (B)",
+              "pts": 4,
+              "played": 7,
+              "w": 1,
+              "d": 1,
+              "l": 5,
+              "gf": 10,
+              "ga": 17
+            },
+            {
+              "rank": 14,
+              "name": "FC Saint-Méziéry",
+              "pts": 4,
+              "played": 7,
+              "w": 1,
+              "d": 1,
+              "l": 5,
+              "gf": 5,
+              "ga": 19
+            }
+          ]
+        },
+        {
+          "group": "B",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "US Reipertswiller",
+              "pts": 18,
+              "played": 7,
+              "w": 6,
+              "d": 0,
+              "l": 1,
+              "gf": 19,
+              "ga": 8
+            },
+            {
+              "rank": 2,
+              "name": "US Sarre-Union",
+              "pts": 14,
+              "played": 7,
+              "w": 4,
+              "d": 2,
+              "l": 1,
+              "gf": 10,
+              "ga": 5
+            },
+            {
+              "rank": 3,
+              "name": "FCO Strasbourg Koenigshoffen",
+              "pts": 14,
+              "played": 7,
+              "w": 4,
+              "d": 2,
+              "l": 1,
+              "gf": 11,
+              "ga": 8
+            },
+            {
+              "rank": 4,
+              "name": "SC Schiltigheim",
+              "pts": 12,
+              "played": 7,
+              "w": 4,
+              "d": 0,
+              "l": 3,
+              "gf": 12,
+              "ga": 8
+            },
+            {
+              "rank": 5,
+              "name": "A. Still-Mutzig",
+              "pts": 12,
+              "played": 7,
+              "w": 4,
+              "d": 0,
+              "l": 3,
+              "gf": 11,
+              "ga": 7
+            },
+            {
+              "rank": 6,
+              "name": "CA Boulay",
+              "pts": 12,
+              "played": 7,
+              "w": 3,
+              "d": 3,
+              "l": 1,
+              "gf": 10,
+              "ga": 6
+            },
+            {
+              "rank": 7,
+              "name": "FC Geispolsheim",
+              "pts": 12,
+              "played": 7,
+              "w": 4,
+              "d": 0,
+              "l": 3,
+              "gf": 10,
+              "ga": 8
+            },
+            {
+              "rank": 8,
+              "name": "SS Weyersheim",
+              "pts": 11,
+              "played": 7,
+              "w": 3,
+              "d": 2,
+              "l": 2,
+              "gf": 12,
+              "ga": 10
+            },
+            {
+              "rank": 9,
+              "name": "Sarreguemines FC",
+              "pts": 9,
+              "played": 7,
+              "w": 3,
+              "d": 0,
+              "l": 4,
+              "gf": 11,
+              "ga": 15
+            },
+            {
+              "rank": 10,
+              "name": "US Nousseviller",
+              "pts": 9,
+              "played": 6,
+              "w": 3,
+              "d": 0,
+              "l": 3,
+              "gf": 8,
+              "ga": 12
+            },
+            {
+              "rank": 11,
+              "name": "FA Illkirch-Graffenstaden",
+              "pts": 8,
+              "played": 7,
+              "w": 2,
+              "d": 2,
+              "l": 3,
+              "gf": 10,
+              "ga": 11
+            },
+            {
+              "rank": 12,
+              "name": "FCSR Haguenau (B)",
+              "pts": 4,
+              "played": 6,
+              "w": 1,
+              "d": 1,
+              "l": 4,
+              "gf": 11,
+              "ga": 17
+            },
+            {
+              "rank": 13,
+              "name": "FCE Shirrhein",
+              "pts": 2,
+              "played": 7,
+              "w": 0,
+              "d": 2,
+              "l": 5,
+              "gf": 7,
+              "ga": 15
+            },
+            {
+              "rank": 14,
+              "name": "US Forbach",
+              "pts": 0,
+              "played": 7,
+              "w": 0,
+              "d": 0,
+              "l": 7,
+              "gf": 4,
+              "ga": 16
+            }
+          ]
+        },
+        {
+          "group": "C",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "US Raon-l'Étape",
+              "pts": 16,
+              "played": 7,
+              "w": 5,
+              "d": 1,
+              "l": 1,
+              "gf": 12,
+              "ga": 6
+            },
+            {
+              "rank": 2,
+              "name": "SR Saint-Dié Kellermann",
+              "pts": 15,
+              "played": 7,
+              "w": 5,
+              "d": 1,
+              "l": 1,
+              "gf": 17,
+              "ga": 6
+            },
+            {
+              "rank": 3,
+              "name": "COS Villers-lès-Nancy",
+              "pts": 13,
+              "played": 7,
+              "w": 4,
+              "d": 1,
+              "l": 2,
+              "gf": 12,
+              "ga": 8
+            },
+            {
+              "rank": 4,
+              "name": "FC Saint-Louis-Neuweg",
+              "pts": 12,
+              "played": 7,
+              "w": 4,
+              "d": 0,
+              "l": 3,
+              "gf": 17,
+              "ga": 18
+            },
+            {
+              "rank": 5,
+              "name": "AS Illzach-Modenheim",
+              "pts": 11,
+              "played": 7,
+              "w": 3,
+              "d": 2,
+              "l": 2,
+              "gf": 11,
+              "ga": 9
+            },
+            {
+              "rank": 6,
+              "name": "FC Lunéville",
+              "pts": 11,
+              "played": 7,
+              "w": 3,
+              "d": 2,
+              "l": 2,
+              "gf": 10,
+              "ga": 9
+            },
+            {
+              "rank": 7,
+              "name": "AS Sundhoffen",
+              "pts": 10,
+              "played": 7,
+              "w": 2,
+              "d": 4,
+              "l": 1,
+              "gf": 19,
+              "ga": 15
+            },
+            {
+              "rank": 8,
+              "name": "SR Colmar (B)",
+              "pts": 10,
+              "played": 7,
+              "w": 3,
+              "d": 1,
+              "l": 3,
+              "gf": 10,
+              "ga": 12
+            },
+            {
+              "rank": 9,
+              "name": "ASL Koetzingue",
+              "pts": 9,
+              "played": 7,
+              "w": 3,
+              "d": 0,
+              "l": 4,
+              "gf": 11,
+              "ga": 15
+            },
+            {
+              "rank": 10,
+              "name": "AS Pagny-sur-Moselle",
+              "pts": 8,
+              "played": 7,
+              "w": 2,
+              "d": 2,
+              "l": 3,
+              "gf": 8,
+              "ga": 8
+            },
+            {
+              "rank": 11,
+              "name": "GS Neuves-Maisons",
+              "pts": 7,
+              "played": 7,
+              "w": 2,
+              "d": 1,
+              "l": 4,
+              "gf": 14,
+              "ga": 14
+            },
+            {
+              "rank": 12,
+              "name": "ES Thaon-les-Vosges (B)",
+              "pts": 7,
+              "played": 7,
+              "w": 2,
+              "d": 1,
+              "l": 4,
+              "gf": 12,
+              "ga": 15
+            },
+            {
+              "rank": 13,
+              "name": "ASC Biesheim (B)",
+              "pts": 4,
+              "played": 7,
+              "w": 1,
+              "d": 1,
+              "l": 5,
+              "gf": 5,
+              "ga": 11
+            },
+            {
+              "rank": 14,
+              "name": "Mulhouse FR",
+              "pts": 3,
+              "played": 7,
+              "w": 0,
+              "d": 3,
+              "l": 4,
+              "gf": 5,
+              "ga": 17
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "title": "Ligue Hauts de France de football - Choix des compétitions et saisons",
+      "headers": [
+        "Choisir un championnat",
+        "Hauts de France"
+      ],
+      "candidates": [
+        "championnat.php?id=4131"
+      ],
+      "url": "https://statfootballclubfrance.fr/championnat.php?id=4131",
+      "urlTitle": "Régional 1 Hauts de France 2026-2027 - Classement et résultats",
+      "status": 200,
+      "groups": [
+        {
+          "group": "A",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "SC Hazebrouck",
+              "pts": 13,
+              "played": 6,
+              "w": 4,
+              "d": 1,
+              "l": 1,
+              "gf": 8,
+              "ga": 7
+            },
+            {
+              "rank": 2,
+              "name": "Amiens SC (B)",
+              "pts": 11,
+              "played": 6,
+              "w": 3,
+              "d": 2,
+              "l": 1,
+              "gf": 15,
+              "ga": 11
+            },
+            {
+              "rank": 3,
+              "name": "Soissons IFC",
+              "pts": 10,
+              "played": 6,
+              "w": 2,
+              "d": 4,
+              "l": 0,
+              "gf": 13,
+              "ga": 7
+            },
+            {
+              "rank": 4,
+              "name": "Olympique Grande-Synthe",
+              "pts": 10,
+              "played": 6,
+              "w": 3,
+              "d": 1,
+              "l": 2,
+              "gf": 10,
+              "ga": 6
+            },
+            {
+              "rank": 5,
+              "name": "US Boulogne-sur-Mer (B)",
+              "pts": 10,
+              "played": 6,
+              "w": 3,
+              "d": 1,
+              "l": 2,
+              "gf": 12,
+              "ga": 10
+            },
+            {
+              "rank": 6,
+              "name": "Entente Intancourt-Neuville",
+              "pts": 10,
+              "played": 6,
+              "w": 3,
+              "d": 1,
+              "l": 2,
+              "gf": 11,
+              "ga": 9
+            },
+            {
+              "rank": 7,
+              "name": "AFC Compiègne",
+              "pts": 10,
+              "played": 6,
+              "w": 3,
+              "d": 1,
+              "l": 2,
+              "gf": 9,
+              "ga": 8
+            },
+            {
+              "rank": 8,
+              "name": "FC Bondues",
+              "pts": 9,
+              "played": 6,
+              "w": 2,
+              "d": 3,
+              "l": 1,
+              "gf": 13,
+              "ga": 11
+            },
+            {
+              "rank": 9,
+              "name": "US Gravelines",
+              "pts": 7,
+              "played": 6,
+              "w": 2,
+              "d": 1,
+              "l": 3,
+              "gf": 7,
+              "ga": 7
+            },
+            {
+              "rank": 10,
+              "name": "Stade Béthune FC",
+              "pts": 7,
+              "played": 6,
+              "w": 2,
+              "d": 1,
+              "l": 3,
+              "gf": 7,
+              "ga": 10
+            },
+            {
+              "rank": 11,
+              "name": "FC Chambly Oise (B)",
+              "pts": 5,
+              "played": 6,
+              "w": 1,
+              "d": 2,
+              "l": 3,
+              "gf": 4,
+              "ga": 7
+            },
+            {
+              "rank": 12,
+              "name": "US Maubeuge",
+              "pts": 5,
+              "played": 6,
+              "w": 1,
+              "d": 2,
+              "l": 3,
+              "gf": 4,
+              "ga": 8
+            },
+            {
+              "rank": 13,
+              "name": "Le Touquet AC",
+              "pts": 4,
+              "played": 6,
+              "w": 1,
+              "d": 1,
+              "l": 4,
+              "gf": 5,
+              "ga": 10
+            },
+            {
+              "rank": 14,
+              "name": "Stade Orchies",
+              "pts": 4,
+              "played": 6,
+              "w": 1,
+              "d": 1,
+              "l": 4,
+              "gf": 7,
+              "ga": 14
+            }
+          ]
+        },
+        {
+          "group": "B",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "Olympique Marcquois",
+              "pts": 18,
+              "played": 6,
+              "w": 6,
+              "d": 0,
+              "l": 0,
+              "gf": 17,
+              "ga": 4
+            },
+            {
+              "rank": 2,
+              "name": "RC Calais",
+              "pts": 15,
+              "played": 6,
+              "w": 5,
+              "d": 0,
+              "l": 1,
+              "gf": 19,
+              "ga": 5
+            },
+            {
+              "rank": 3,
+              "name": "Valenciennes FC (B)",
+              "pts": 13,
+              "played": 6,
+              "w": 4,
+              "d": 1,
+              "l": 1,
+              "gf": 18,
+              "ga": 11
+            },
+            {
+              "rank": 4,
+              "name": "US Pays du Valois (B)",
+              "pts": 13,
+              "played": 6,
+              "w": 4,
+              "d": 1,
+              "l": 1,
+              "gf": 8,
+              "ga": 6
+            },
+            {
+              "rank": 5,
+              "name": "ESC Longueau",
+              "pts": 12,
+              "played": 6,
+              "w": 4,
+              "d": 0,
+              "l": 2,
+              "gf": 14,
+              "ga": 9
+            },
+            {
+              "rank": 6,
+              "name": "FC Loon-Plage",
+              "pts": 10,
+              "played": 6,
+              "w": 3,
+              "d": 1,
+              "l": 2,
+              "gf": 11,
+              "ga": 7
+            },
+            {
+              "rank": 7,
+              "name": "USP Saint-Omer",
+              "pts": 7,
+              "played": 6,
+              "w": 2,
+              "d": 1,
+              "l": 3,
+              "gf": 11,
+              "ga": 12
+            },
+            {
+              "rank": 8,
+              "name": "US Camon",
+              "pts": 7,
+              "played": 6,
+              "w": 2,
+              "d": 1,
+              "l": 3,
+              "gf": 9,
+              "ga": 11
+            },
+            {
+              "rank": 9,
+              "name": "USL Dunkerque (B)",
+              "pts": 7,
+              "played": 6,
+              "w": 2,
+              "d": 1,
+              "l": 3,
+              "gf": 9,
+              "ga": 11
+            },
+            {
+              "rank": 10,
+              "name": "Arras FA",
+              "pts": 6,
+              "played": 6,
+              "w": 2,
+              "d": 0,
+              "l": 4,
+              "gf": 8,
+              "ga": 12
+            },
+            {
+              "rank": 11,
+              "name": "US Tourcoing",
+              "pts": 6,
+              "played": 6,
+              "w": 2,
+              "d": 0,
+              "l": 4,
+              "gf": 8,
+              "ga": 14
+            },
+            {
+              "rank": 12,
+              "name": "EFC Feignies-Aulnoye (B)",
+              "pts": 6,
+              "played": 6,
+              "w": 2,
+              "d": 0,
+              "l": 4,
+              "gf": 9,
+              "ga": 17
+            },
+            {
+              "rank": 13,
+              "name": "AC Cambrai",
+              "pts": 3,
+              "played": 6,
+              "w": 1,
+              "d": 0,
+              "l": 5,
+              "gf": 6,
+              "ga": 13
+            },
+            {
+              "rank": 14,
+              "name": "FC Liancourt-Clermont",
+              "pts": 0,
+              "played": 6,
+              "w": 0,
+              "d": 0,
+              "l": 6,
+              "gf": 3,
+              "ga": 18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "title": "Ligue Méditerranée de football - Choix des compétitions et saisons",
+      "headers": [
+        "Choisir un championnat",
+        "Méditerranée"
+      ],
+      "candidates": [
+        "championnat.php?id=4133"
+      ],
+      "url": "https://statfootballclubfrance.fr/championnat.php?id=4133",
+      "urlTitle": "Régional 1 Méditerranée 2026-2027 - Classement et résultats",
+      "status": 200,
+      "groups": [
+        {
+          "group": "A",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "EUGA Ardziv Marseille",
+              "pts": 12,
+              "played": 4,
+              "w": 4,
+              "d": 0,
+              "l": 0,
+              "gf": 17,
+              "ga": 1
+            },
+            {
+              "rank": 2,
+              "name": "Endoume Marseille",
+              "pts": 10,
+              "played": 4,
+              "w": 3,
+              "d": 1,
+              "l": 0,
+              "gf": 10,
+              "ga": 4
+            },
+            {
+              "rank": 3,
+              "name": "AS Cannes (B)",
+              "pts": 9,
+              "played": 4,
+              "w": 3,
+              "d": 0,
+              "l": 1,
+              "gf": 8,
+              "ga": 3
+            },
+            {
+              "rank": 4,
+              "name": "AS Monaco (B)",
+              "pts": 9,
+              "played": 5,
+              "w": 3,
+              "d": 0,
+              "l": 2,
+              "gf": 11,
+              "ga": 7
+            },
+            {
+              "rank": 5,
+              "name": "FC Avignon",
+              "pts": 8,
+              "played": 4,
+              "w": 2,
+              "d": 2,
+              "l": 0,
+              "gf": 9,
+              "ga": 5
+            },
+            {
+              "rank": 6,
+              "name": "EFC Fréjus-Saint-Raphaël (B)",
+              "pts": 8,
+              "played": 5,
+              "w": 2,
+              "d": 2,
+              "l": 1,
+              "gf": 9,
+              "ga": 10
+            },
+            {
+              "rank": 7,
+              "name": "AS Gémenos",
+              "pts": 7,
+              "played": 4,
+              "w": 2,
+              "d": 1,
+              "l": 1,
+              "gf": 5,
+              "ga": 3
+            },
+            {
+              "rank": 8,
+              "name": "USR Pertuis",
+              "pts": 7,
+              "played": 5,
+              "w": 2,
+              "d": 1,
+              "l": 2,
+              "gf": 8,
+              "ga": 8
+            },
+            {
+              "rank": 9,
+              "name": "US Carqueiranne-La Crau",
+              "pts": 7,
+              "played": 4,
+              "w": 2,
+              "d": 1,
+              "l": 1,
+              "gf": 7,
+              "ga": 7
+            },
+            {
+              "rank": 10,
+              "name": "Carnoux FC",
+              "pts": 3,
+              "played": 3,
+              "w": 1,
+              "d": 0,
+              "l": 2,
+              "gf": 4,
+              "ga": 4
+            },
+            {
+              "rank": 11,
+              "name": "Six-Fours-Le Brusc Olympique",
+              "pts": 3,
+              "played": 4,
+              "w": 1,
+              "d": 0,
+              "l": 3,
+              "gf": 3,
+              "ga": 8
+            },
+            {
+              "rank": 12,
+              "name": "AC Le Pontet-Vedène",
+              "pts": 3,
+              "played": 4,
+              "w": 1,
+              "d": 0,
+              "l": 3,
+              "gf": 3,
+              "ga": 10
+            },
+            {
+              "rank": 13,
+              "name": "FCUS Saint-Tropez",
+              "pts": 3,
+              "played": 5,
+              "w": 1,
+              "d": 0,
+              "l": 4,
+              "gf": 3,
+              "ga": 15
+            },
+            {
+              "rank": 14,
+              "name": "AS Cagnes-Le Cros",
+              "pts": 1,
+              "played": 4,
+              "w": 0,
+              "d": 1,
+              "l": 3,
+              "gf": 4,
+              "ga": 8
+            },
+            {
+              "rank": 15,
+              "name": "Luynes Sports",
+              "pts": 1,
+              "played": 5,
+              "w": 0,
+              "d": 1,
+              "l": 4,
+              "gf": 3,
+              "ga": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "title": "Ligue Normandie de football - Choix des compétitions et saisons",
+      "headers": [
+        "Choisir un championnat",
+        "Normandie"
+      ],
+      "candidates": [
+        "championnat.php?id=4134"
+      ],
+      "url": "https://statfootballclubfrance.fr/championnat.php?id=4134",
+      "urlTitle": "Régional 1 Normandie 2026-2027 - Classement et résultats",
+      "status": 200,
+      "groups": [
+        {
+          "group": "A",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "Le Havre AC (B)",
+              "pts": 13,
+              "played": 5,
+              "w": 4,
+              "d": 1,
+              "l": 0,
+              "gf": 13,
+              "ga": 2
+            },
+            {
+              "rank": 2,
+              "name": "US Quevilly RM (B)",
+              "pts": 10,
+              "played": 4,
+              "w": 3,
+              "d": 1,
+              "l": 0,
+              "gf": 9,
+              "ga": 3
+            },
+            {
+              "rank": 3,
+              "name": "FC Rouen (B)",
+              "pts": 9,
+              "played": 4,
+              "w": 3,
+              "d": 0,
+              "l": 1,
+              "gf": 10,
+              "ga": 1
+            },
+            {
+              "rank": 4,
+              "name": "Le Havre Caucriauville",
+              "pts": 9,
+              "played": 5,
+              "w": 3,
+              "d": 0,
+              "l": 2,
+              "gf": 6,
+              "ga": 5
+            },
+            {
+              "rank": 5,
+              "name": "ESM Gonfreville",
+              "pts": 8,
+              "played": 5,
+              "w": 2,
+              "d": 2,
+              "l": 1,
+              "gf": 8,
+              "ga": 3
+            },
+            {
+              "rank": 6,
+              "name": "Bayeux FC",
+              "pts": 7,
+              "played": 4,
+              "w": 2,
+              "d": 1,
+              "l": 1,
+              "gf": 9,
+              "ga": 4
+            },
+            {
+              "rank": 7,
+              "name": "CA Lisieux",
+              "pts": 7,
+              "played": 4,
+              "w": 2,
+              "d": 1,
+              "l": 1,
+              "gf": 7,
+              "ga": 7
+            },
+            {
+              "rank": 8,
+              "name": "Pacy-Ménilles RC",
+              "pts": 5,
+              "played": 4,
+              "w": 1,
+              "d": 2,
+              "l": 1,
+              "gf": 3,
+              "ga": 5
+            },
+            {
+              "rank": 9,
+              "name": "Stade Sotteville CC",
+              "pts": 4,
+              "played": 4,
+              "w": 1,
+              "d": 1,
+              "l": 2,
+              "gf": 8,
+              "ga": 8
+            },
+            {
+              "rank": 10,
+              "name": "AS Tourlaville",
+              "pts": 1,
+              "played": 5,
+              "w": 0,
+              "d": 1,
+              "l": 4,
+              "gf": 4,
+              "ga": 15
+            },
+            {
+              "rank": 11,
+              "name": "Évreux FC 27",
+              "pts": 0,
+              "played": 4,
+              "w": 0,
+              "d": 0,
+              "l": 4,
+              "gf": 1,
+              "ga": 10
+            },
+            {
+              "rank": 12,
+              "name": "FC Serquigny-Nassandres",
+              "pts": 0,
+              "played": 4,
+              "w": 0,
+              "d": 0,
+              "l": 4,
+              "gf": 3,
+              "ga": 18
+            }
+          ]
+        },
+        {
+          "group": "B",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "AG Caennaise",
+              "pts": 12,
+              "played": 4,
+              "w": 4,
+              "d": 0,
+              "l": 0,
+              "gf": 12,
+              "ga": 2
+            },
+            {
+              "rank": 2,
+              "name": "AS Cherbourg",
+              "pts": 12,
+              "played": 5,
+              "w": 4,
+              "d": 0,
+              "l": 1,
+              "gf": 13,
+              "ga": 7
+            },
+            {
+              "rank": 3,
+              "name": "US Avranches (B)",
+              "pts": 9,
+              "played": 3,
+              "w": 3,
+              "d": 0,
+              "l": 0,
+              "gf": 8,
+              "ga": 2
+            },
+            {
+              "rank": 4,
+              "name": "FC Flers",
+              "pts": 9,
+              "played": 5,
+              "w": 3,
+              "d": 0,
+              "l": 2,
+              "gf": 11,
+              "ga": 6
+            },
+            {
+              "rank": 5,
+              "name": "Saint-Marcel Football",
+              "pts": 7,
+              "played": 4,
+              "w": 2,
+              "d": 1,
+              "l": 1,
+              "gf": 7,
+              "ga": 4
+            },
+            {
+              "rank": 6,
+              "name": "Maladrerie OS Caen",
+              "pts": 7,
+              "played": 4,
+              "w": 2,
+              "d": 1,
+              "l": 1,
+              "gf": 3,
+              "ga": 3
+            },
+            {
+              "rank": 7,
+              "name": "SU Dives-Cabourg",
+              "pts": 6,
+              "played": 3,
+              "w": 2,
+              "d": 0,
+              "l": 1,
+              "gf": 9,
+              "ga": 6
+            },
+            {
+              "rank": 8,
+              "name": "FC Neufchâtel-en-Bray",
+              "pts": 6,
+              "played": 5,
+              "w": 2,
+              "d": 0,
+              "l": 3,
+              "gf": 8,
+              "ga": 17
+            },
+            {
+              "rank": 9,
+              "name": "ES Coutances",
+              "pts": 3,
+              "played": 4,
+              "w": 1,
+              "d": 0,
+              "l": 3,
+              "gf": 4,
+              "ga": 7
+            },
+            {
+              "rank": 10,
+              "name": "Grand-Quevilly FC",
+              "pts": 1,
+              "played": 4,
+              "w": 0,
+              "d": 1,
+              "l": 3,
+              "gf": 3,
+              "ga": 7
+            },
+            {
+              "rank": 11,
+              "name": "Jeunesse Fertoise Bagnoles",
+              "pts": 1,
+              "played": 4,
+              "w": 0,
+              "d": 1,
+              "l": 3,
+              "gf": 3,
+              "ga": 9
+            },
+            {
+              "rank": 12,
+              "name": "US Granville (B)",
+              "pts": 0,
+              "played": 5,
+              "w": 0,
+              "d": 0,
+              "l": 5,
+              "gf": 2,
+              "ga": 13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 15,
+      "title": "Ligue Nouvelle Aquitaine de football - Choix des compétitions et saisons",
+      "headers": [
+        "Choisir un championnat",
+        "Nouvelle Aquitaine"
+      ],
+      "candidates": [
+        "championnat.php?id=4138"
+      ],
+      "url": "https://statfootballclubfrance.fr/championnat.php?id=4138",
+      "urlTitle": "Régional 1 Nouvelle Aquitaine 2026-2027 - Classement et résultats",
+      "status": 200,
+      "groups": [
+        {
+          "group": "A",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "Stade Bordelais",
+              "pts": 15,
+              "played": 5,
+              "w": 5,
+              "d": 0,
+              "l": 0,
+              "gf": 9,
+              "ga": 1
+            },
+            {
+              "rank": 2,
+              "name": "ES Buxerolles",
+              "pts": 10,
+              "played": 5,
+              "w": 3,
+              "d": 1,
+              "l": 1,
+              "gf": 13,
+              "ga": 4
+            },
+            {
+              "rank": 3,
+              "name": "Limoges Football",
+              "pts": 10,
+              "played": 5,
+              "w": 3,
+              "d": 1,
+              "l": 1,
+              "gf": 11,
+              "ga": 6
+            },
+            {
+              "rank": 4,
+              "name": "FC Périgny",
+              "pts": 10,
+              "played": 5,
+              "w": 3,
+              "d": 1,
+              "l": 1,
+              "gf": 8,
+              "ga": 5
+            },
+            {
+              "rank": 5,
+              "name": "FC Bressuire",
+              "pts": 9,
+              "played": 4,
+              "w": 3,
+              "d": 0,
+              "l": 1,
+              "gf": 11,
+              "ga": 5
+            },
+            {
+              "rank": 6,
+              "name": "FC Chauray (B)",
+              "pts": 8,
+              "played": 4,
+              "w": 2,
+              "d": 2,
+              "l": 0,
+              "gf": 9,
+              "ga": 5
+            },
+            {
+              "rank": 7,
+              "name": "Angoulême CFC (B)",
+              "pts": 8,
+              "played": 5,
+              "w": 2,
+              "d": 2,
+              "l": 1,
+              "gf": 6,
+              "ga": 4
+            },
+            {
+              "rank": 8,
+              "name": "CS Feytiat",
+              "pts": 6,
+              "played": 5,
+              "w": 2,
+              "d": 0,
+              "l": 3,
+              "gf": 8,
+              "ga": 9
+            },
+            {
+              "rank": 9,
+              "name": "FC Saint-André-de-Cubzac",
+              "pts": 5,
+              "played": 5,
+              "w": 1,
+              "d": 2,
+              "l": 2,
+              "gf": 8,
+              "ga": 10
+            },
+            {
+              "rank": 10,
+              "name": "Thouars Foot 79",
+              "pts": 4,
+              "played": 5,
+              "w": 1,
+              "d": 1,
+              "l": 3,
+              "gf": 5,
+              "ga": 9
+            },
+            {
+              "rank": 11,
+              "name": "FC Nueillaubiers",
+              "pts": 3,
+              "played": 4,
+              "w": 1,
+              "d": 0,
+              "l": 3,
+              "gf": 2,
+              "ga": 9
+            },
+            {
+              "rank": 12,
+              "name": "SO Châtellerault",
+              "pts": 3,
+              "played": 5,
+              "w": 0,
+              "d": 3,
+              "l": 2,
+              "gf": 2,
+              "ga": 12
+            },
+            {
+              "rank": 13,
+              "name": "ESA Brive",
+              "pts": 1,
+              "played": 5,
+              "w": 0,
+              "d": 1,
+              "l": 4,
+              "gf": 1,
+              "ga": 7
+            },
+            {
+              "rank": 14,
+              "name": "RC Parthenay-Viennay",
+              "pts": 0,
+              "played": 4,
+              "w": 0,
+              "d": 0,
+              "l": 4,
+              "gf": 6,
+              "ga": 13
+            }
+          ]
+        },
+        {
+          "group": "B",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "Saint-Paul Sport",
+              "pts": 11,
+              "played": 5,
+              "w": 3,
+              "d": 2,
+              "l": 0,
+              "gf": 6,
+              "ga": 2
+            },
+            {
+              "rank": 2,
+              "name": "Croisés Bayonne",
+              "pts": 10,
+              "played": 5,
+              "w": 3,
+              "d": 1,
+              "l": 1,
+              "gf": 8,
+              "ga": 6
+            },
+            {
+              "rank": 3,
+              "name": "Entente Boé-Bon-Encontre",
+              "pts": 9,
+              "played": 5,
+              "w": 3,
+              "d": 0,
+              "l": 2,
+              "gf": 11,
+              "ga": 6
+            },
+            {
+              "rank": 4,
+              "name": "SA Mérignac",
+              "pts": 9,
+              "played": 4,
+              "w": 3,
+              "d": 0,
+              "l": 1,
+              "gf": 7,
+              "ga": 3
+            },
+            {
+              "rank": 5,
+              "name": "FC Marmande",
+              "pts": 7,
+              "played": 5,
+              "w": 2,
+              "d": 1,
+              "l": 2,
+              "gf": 8,
+              "ga": 7
+            },
+            {
+              "rank": 6,
+              "name": "Stade Montois",
+              "pts": 7,
+              "played": 4,
+              "w": 2,
+              "d": 1,
+              "l": 1,
+              "gf": 7,
+              "ga": 6
+            },
+            {
+              "rank": 7,
+              "name": "AS Mazères-Uzos-Rontignon",
+              "pts": 7,
+              "played": 5,
+              "w": 2,
+              "d": 1,
+              "l": 2,
+              "gf": 6,
+              "ga": 7
+            },
+            {
+              "rank": 8,
+              "name": "US Bouscat",
+              "pts": 7,
+              "played": 5,
+              "w": 2,
+              "d": 1,
+              "l": 2,
+              "gf": 5,
+              "ga": 9
+            },
+            {
+              "rank": 9,
+              "name": "FC Saint-Médard-en-Jalles",
+              "pts": 5,
+              "played": 4,
+              "w": 1,
+              "d": 2,
+              "l": 1,
+              "gf": 4,
+              "ga": 4
+            },
+            {
+              "rank": 10,
+              "name": "Aviron Bayonne (B)",
+              "pts": 4,
+              "played": 5,
+              "w": 1,
+              "d": 1,
+              "l": 3,
+              "gf": 8,
+              "ga": 9
+            },
+            {
+              "rank": 11,
+              "name": "Jeunesse Villenavaise",
+              "pts": 4,
+              "played": 5,
+              "w": 1,
+              "d": 1,
+              "l": 3,
+              "gf": 3,
+              "ga": 6
+            },
+            {
+              "rank": 12,
+              "name": "Girondins Bordeaux",
+              "pts": 3,
+              "played": 1,
+              "w": 1,
+              "d": 0,
+              "l": 0,
+              "gf": 2,
+              "ga": 0
+            },
+            {
+              "rank": 13,
+              "name": "ES Boulazac",
+              "pts": 2,
+              "played": 5,
+              "w": 0,
+              "d": 2,
+              "l": 3,
+              "gf": 5,
+              "ga": 8
+            },
+            {
+              "rank": 14,
+              "name": "Sud Corrèze FC",
+              "pts": 1,
+              "played": 4,
+              "w": 0,
+              "d": 1,
+              "l": 3,
+              "gf": 2,
+              "ga": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 16,
+      "title": "Ligue Occitanie de football - Choix des compétitions et saisons",
+      "headers": [
+        "Choisir un championnat",
+        "Occitanie"
+      ],
+      "candidates": [
+        "championnat.php?id=4140"
+      ],
+      "url": "https://statfootballclubfrance.fr/championnat.php?id=4140",
+      "urlTitle": "Régional 1 Occitanie 2026-2027 - Classement et résultats",
+      "status": 200,
+      "groups": [
+        {
+          "group": "A",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "RCO Agde",
+              "pts": 12,
+              "played": 4,
+              "w": 4,
+              "d": 0,
+              "l": 0,
+              "gf": 12,
+              "ga": 1
+            },
+            {
+              "rank": 2,
+              "name": "ES Le Grau-du-Roi",
+              "pts": 10,
+              "played": 4,
+              "w": 3,
+              "d": 1,
+              "l": 0,
+              "gf": 6,
+              "ga": 2
+            },
+            {
+              "rank": 3,
+              "name": "La Clermontaise Football",
+              "pts": 7,
+              "played": 3,
+              "w": 2,
+              "d": 1,
+              "l": 0,
+              "gf": 10,
+              "ga": 4
+            },
+            {
+              "rank": 4,
+              "name": "USS Aigues-Mortes",
+              "pts": 7,
+              "played": 3,
+              "w": 2,
+              "d": 1,
+              "l": 0,
+              "gf": 8,
+              "ga": 2
+            },
+            {
+              "rank": 5,
+              "name": "AS Frontignan AC",
+              "pts": 7,
+              "played": 4,
+              "w": 2,
+              "d": 1,
+              "l": 1,
+              "gf": 5,
+              "ga": 6
+            },
+            {
+              "rank": 6,
+              "name": "Entente Saint-Clément-Montferrier",
+              "pts": 6,
+              "played": 4,
+              "w": 2,
+              "d": 0,
+              "l": 2,
+              "gf": 6,
+              "ga": 5
+            },
+            {
+              "rank": 7,
+              "name": "JS Cugnaux",
+              "pts": 5,
+              "played": 4,
+              "w": 1,
+              "d": 2,
+              "l": 1,
+              "gf": 3,
+              "ga": 4
+            },
+            {
+              "rank": 8,
+              "name": "Nîmes Olympique (B)",
+              "pts": 4,
+              "played": 3,
+              "w": 1,
+              "d": 1,
+              "l": 1,
+              "gf": 5,
+              "ga": 4
+            },
+            {
+              "rank": 9,
+              "name": "FC Vauvert",
+              "pts": 4,
+              "played": 4,
+              "w": 1,
+              "d": 1,
+              "l": 2,
+              "gf": 4,
+              "ga": 8
+            },
+            {
+              "rank": 10,
+              "name": "GC Lunel",
+              "pts": 3,
+              "played": 3,
+              "w": 1,
+              "d": 0,
+              "l": 2,
+              "gf": 5,
+              "ga": 3
+            },
+            {
+              "rank": 11,
+              "name": "AS Rousson",
+              "pts": 3,
+              "played": 4,
+              "w": 1,
+              "d": 0,
+              "l": 3,
+              "gf": 2,
+              "ga": 6
+            },
+            {
+              "rank": 12,
+              "name": "AS Béziers",
+              "pts": 2,
+              "played": 4,
+              "w": 0,
+              "d": 2,
+              "l": 2,
+              "gf": 2,
+              "ga": 5
+            },
+            {
+              "rank": 13,
+              "name": "SC Sète",
+              "pts": 2,
+              "played": 4,
+              "w": 0,
+              "d": 2,
+              "l": 2,
+              "gf": 3,
+              "ga": 7
+            },
+            {
+              "rank": 14,
+              "name": "US Revel",
+              "pts": 0,
+              "played": 4,
+              "w": 0,
+              "d": 0,
+              "l": 4,
+              "gf": 0,
+              "ga": 14
+            }
+          ]
+        },
+        {
+          "group": "B",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "FC 2 Rives 82",
+              "pts": 9,
+              "played": 4,
+              "w": 3,
+              "d": 0,
+              "l": 1,
+              "gf": 13,
+              "ga": 2
+            },
+            {
+              "rank": 2,
+              "name": "L'Union-Saint-Jean FC",
+              "pts": 9,
+              "played": 4,
+              "w": 3,
+              "d": 0,
+              "l": 1,
+              "gf": 7,
+              "ga": 1
+            },
+            {
+              "rank": 3,
+              "name": "FU Narbonne",
+              "pts": 9,
+              "played": 4,
+              "w": 3,
+              "d": 0,
+              "l": 1,
+              "gf": 6,
+              "ga": 3
+            },
+            {
+              "rank": 4,
+              "name": "FC Albères Argelès",
+              "pts": 8,
+              "played": 4,
+              "w": 2,
+              "d": 2,
+              "l": 0,
+              "gf": 5,
+              "ga": 3
+            },
+            {
+              "rank": 5,
+              "name": "Albi-Marssac Tarn FA",
+              "pts": 7,
+              "played": 4,
+              "w": 2,
+              "d": 1,
+              "l": 1,
+              "gf": 7,
+              "ga": 3
+            },
+            {
+              "rank": 6,
+              "name": "Lavaur FC",
+              "pts": 7,
+              "played": 4,
+              "w": 2,
+              "d": 1,
+              "l": 1,
+              "gf": 5,
+              "ga": 4
+            },
+            {
+              "rank": 7,
+              "name": "AF Biars-Bretenoux",
+              "pts": 7,
+              "played": 4,
+              "w": 2,
+              "d": 1,
+              "l": 1,
+              "gf": 5,
+              "ga": 5
+            },
+            {
+              "rank": 8,
+              "name": "US Castanet (B)",
+              "pts": 6,
+              "played": 4,
+              "w": 2,
+              "d": 0,
+              "l": 2,
+              "gf": 3,
+              "ga": 4
+            },
+            {
+              "rank": 9,
+              "name": "Montauban FC",
+              "pts": 4,
+              "played": 4,
+              "w": 1,
+              "d": 1,
+              "l": 2,
+              "gf": 5,
+              "ga": 6
+            },
+            {
+              "rank": 10,
+              "name": "AS Muret",
+              "pts": 4,
+              "played": 3,
+              "w": 1,
+              "d": 1,
+              "l": 1,
+              "gf": 2,
+              "ga": 3
+            },
+            {
+              "rank": 11,
+              "name": "Balma SC",
+              "pts": 3,
+              "played": 4,
+              "w": 1,
+              "d": 0,
+              "l": 3,
+              "gf": 4,
+              "ga": 6
+            },
+            {
+              "rank": 12,
+              "name": "Auch Football",
+              "pts": 3,
+              "played": 4,
+              "w": 0,
+              "d": 3,
+              "l": 1,
+              "gf": 3,
+              "ga": 5
+            },
+            {
+              "rank": 13,
+              "name": "FC Lourdes",
+              "pts": 0,
+              "played": 3,
+              "w": 0,
+              "d": 0,
+              "l": 3,
+              "gf": 2,
+              "ga": 9
+            },
+            {
+              "rank": 14,
+              "name": "Avenir Fonsorbais",
+              "pts": 0,
+              "played": 4,
+              "w": 0,
+              "d": 0,
+              "l": 4,
+              "gf": 2,
+              "ga": 15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 17,
+      "title": "Ligue Paris-Île-de-France de Football - Choix des compétitions et saisons",
+      "headers": [
+        "Choisir un championnat",
+        "Paris-Île-de-France"
+      ],
+      "candidates": [
+        "championnat.php?id=4142"
+      ],
+      "url": "https://statfootballclubfrance.fr/championnat.php?id=4142",
+      "urlTitle": "Régional 1 Paris-Île-de-France 2026-2027 - Classement et résultats",
+      "status": 200,
+      "groups": [
+        {
+          "group": "A",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "Mitry Compans Goelly",
+              "pts": 9,
+              "played": 4,
+              "w": 3,
+              "d": 0,
+              "l": 1,
+              "gf": 6,
+              "ga": 3
+            },
+            {
+              "rank": 2,
+              "name": "CO Les Ulis",
+              "pts": 8,
+              "played": 4,
+              "w": 2,
+              "d": 2,
+              "l": 0,
+              "gf": 7,
+              "ga": 4
+            },
+            {
+              "rank": 3,
+              "name": "Le Mée SF",
+              "pts": 7,
+              "played": 3,
+              "w": 2,
+              "d": 1,
+              "l": 0,
+              "gf": 7,
+              "ga": 3
+            },
+            {
+              "rank": 4,
+              "name": "Saint-Brice FC",
+              "pts": 6,
+              "played": 3,
+              "w": 2,
+              "d": 0,
+              "l": 1,
+              "gf": 5,
+              "ga": 2
+            },
+            {
+              "rank": 5,
+              "name": "FC Mantois 78",
+              "pts": 4,
+              "played": 4,
+              "w": 1,
+              "d": 1,
+              "l": 2,
+              "gf": 4,
+              "ga": 4
+            },
+            {
+              "rank": 6,
+              "name": "Montreuil FC",
+              "pts": 4,
+              "played": 3,
+              "w": 1,
+              "d": 1,
+              "l": 1,
+              "gf": 3,
+              "ga": 3
+            },
+            {
+              "rank": 7,
+              "name": "FC Saint-Leu 95",
+              "pts": 4,
+              "played": 4,
+              "w": 1,
+              "d": 1,
+              "l": 2,
+              "gf": 5,
+              "ga": 6
+            },
+            {
+              "rank": 8,
+              "name": "Paris 13 Atlético (B)",
+              "pts": 4,
+              "played": 4,
+              "w": 1,
+              "d": 1,
+              "l": 2,
+              "gf": 3,
+              "ga": 5
+            },
+            {
+              "rank": 9,
+              "name": "OFC Les Mureaux",
+              "pts": 3,
+              "played": 3,
+              "w": 0,
+              "d": 3,
+              "l": 0,
+              "gf": 2,
+              "ga": 2
+            },
+            {
+              "rank": 10,
+              "name": "Montrouge FC 92",
+              "pts": 3,
+              "played": 3,
+              "w": 1,
+              "d": 0,
+              "l": 2,
+              "gf": 6,
+              "ga": 9
+            },
+            {
+              "rank": 11,
+              "name": "FC93 Bobigny BG",
+              "pts": 3,
+              "played": 3,
+              "w": 1,
+              "d": 0,
+              "l": 2,
+              "gf": 2,
+              "ga": 5
+            },
+            {
+              "rank": 12,
+              "name": "Espérance Aulnaysienne",
+              "pts": 2,
+              "played": 4,
+              "w": 0,
+              "d": 2,
+              "l": 2,
+              "gf": 1,
+              "ga": 5
+            }
+          ]
+        },
+        {
+          "group": "B",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "Courbevoie SF",
+              "pts": 8,
+              "played": 4,
+              "w": 2,
+              "d": 2,
+              "l": 0,
+              "gf": 8,
+              "ga": 4
+            },
+            {
+              "rank": 2,
+              "name": "Saint-Denis United FC",
+              "pts": 7,
+              "played": 4,
+              "w": 2,
+              "d": 1,
+              "l": 1,
+              "gf": 8,
+              "ga": 6
+            },
+            {
+              "rank": 3,
+              "name": "FC Melun",
+              "pts": 7,
+              "played": 4,
+              "w": 2,
+              "d": 1,
+              "l": 1,
+              "gf": 5,
+              "ga": 4
+            },
+            {
+              "rank": 4,
+              "name": "FC Fleury 91 (B)",
+              "pts": 6,
+              "played": 3,
+              "w": 2,
+              "d": 0,
+              "l": 1,
+              "gf": 8,
+              "ga": 4
+            },
+            {
+              "rank": 5,
+              "name": "US Créteil Football (B)",
+              "pts": 6,
+              "played": 4,
+              "w": 1,
+              "d": 3,
+              "l": 0,
+              "gf": 6,
+              "ga": 5
+            },
+            {
+              "rank": 6,
+              "name": "CSL Aulnay-sous-Bois",
+              "pts": 5,
+              "played": 4,
+              "w": 1,
+              "d": 2,
+              "l": 1,
+              "gf": 8,
+              "ga": 7
+            },
+            {
+              "rank": 7,
+              "name": "Claye-Souilly Sportif",
+              "pts": 5,
+              "played": 4,
+              "w": 1,
+              "d": 2,
+              "l": 1,
+              "gf": 4,
+              "ga": 4
+            },
+            {
+              "rank": 8,
+              "name": "US Villejuif",
+              "pts": 5,
+              "played": 4,
+              "w": 1,
+              "d": 2,
+              "l": 1,
+              "gf": 3,
+              "ga": 4
+            },
+            {
+              "rank": 9,
+              "name": "Élan Chevilly-Larue",
+              "pts": 4,
+              "played": 4,
+              "w": 1,
+              "d": 1,
+              "l": 2,
+              "gf": 4,
+              "ga": 4
+            },
+            {
+              "rank": 10,
+              "name": "Entente Sannois-Saint-Gratien",
+              "pts": 4,
+              "played": 4,
+              "w": 1,
+              "d": 1,
+              "l": 2,
+              "gf": 6,
+              "ga": 9
+            },
+            {
+              "rank": 11,
+              "name": "AS Chatou",
+              "pts": 3,
+              "played": 4,
+              "w": 0,
+              "d": 3,
+              "l": 1,
+              "gf": 3,
+              "ga": 7
+            },
+            {
+              "rank": 12,
+              "name": "Houilles AC",
+              "pts": 0,
+              "played": 3,
+              "w": 0,
+              "d": 0,
+              "l": 3,
+              "gf": 4,
+              "ga": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 18,
+      "title": "Ligue Pays de Loire de football - Choix des compétitions et saisons",
+      "headers": [
+        "Choisir un championnat",
+        "Pays de Loire"
+      ],
+      "candidates": [
+        "championnat.php?id=4144"
+      ],
+      "url": "https://statfootballclubfrance.fr/championnat.php?id=4144",
+      "urlTitle": "Régional 1 Pays de Loire 2026-2027 - Classement et résultats",
+      "status": 200,
+      "groups": [
+        {
+          "group": "A",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "Le Poiré-sur-Vie VF (B)",
+              "pts": 9,
+              "played": 3,
+              "w": 3,
+              "d": 0,
+              "l": 0,
+              "gf": 11,
+              "ga": 0
+            },
+            {
+              "rank": 2,
+              "name": "Ancienne Château-Gontier",
+              "pts": 6,
+              "played": 3,
+              "w": 2,
+              "d": 0,
+              "l": 1,
+              "gf": 7,
+              "ga": 3
+            },
+            {
+              "rank": 3,
+              "name": "Saint-Sébastien-sur-Loire FC",
+              "pts": 6,
+              "played": 3,
+              "w": 2,
+              "d": 0,
+              "l": 1,
+              "gf": 6,
+              "ga": 7
+            },
+            {
+              "rank": 4,
+              "name": "VFC La Roche-sur-Yon (B)",
+              "pts": 5,
+              "played": 3,
+              "w": 1,
+              "d": 2,
+              "l": 0,
+              "gf": 6,
+              "ga": 3
+            },
+            {
+              "rank": 5,
+              "name": "SO Cholet",
+              "pts": 4,
+              "played": 3,
+              "w": 1,
+              "d": 1,
+              "l": 1,
+              "gf": 6,
+              "ga": 5
+            },
+            {
+              "rank": 6,
+              "name": "Saint-Nazaire AF",
+              "pts": 4,
+              "played": 3,
+              "w": 1,
+              "d": 1,
+              "l": 1,
+              "gf": 3,
+              "ga": 3
+            },
+            {
+              "rank": 7,
+              "name": "ES Montilliers",
+              "pts": 4,
+              "played": 3,
+              "w": 1,
+              "d": 1,
+              "l": 1,
+              "gf": 3,
+              "ga": 5
+            },
+            {
+              "rank": 8,
+              "name": "Voltigeurs Châteaubriant (B)",
+              "pts": 4,
+              "played": 3,
+              "w": 1,
+              "d": 1,
+              "l": 1,
+              "gf": 2,
+              "ga": 5
+            },
+            {
+              "rank": 9,
+              "name": "Mareuil-sur-Lay SC",
+              "pts": 2,
+              "played": 3,
+              "w": 0,
+              "d": 2,
+              "l": 1,
+              "gf": 1,
+              "ga": 3
+            },
+            {
+              "rank": 10,
+              "name": "US La Baule-Le Pouliguen",
+              "pts": 2,
+              "played": 3,
+              "w": 0,
+              "d": 2,
+              "l": 1,
+              "gf": 3,
+              "ga": 7
+            },
+            {
+              "rank": 11,
+              "name": "US Changé",
+              "pts": 1,
+              "played": 3,
+              "w": 0,
+              "d": 1,
+              "l": 2,
+              "gf": 3,
+              "ga": 5
+            },
+            {
+              "rank": 12,
+              "name": "ESOF La Roche-sur-Yon",
+              "pts": 1,
+              "played": 3,
+              "w": 0,
+              "d": 1,
+              "l": 2,
+              "gf": 1,
+              "ga": 6
+            }
+          ]
+        },
+        {
+          "group": "B",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "SC Beaucouzé",
+              "pts": 9,
+              "played": 3,
+              "w": 3,
+              "d": 0,
+              "l": 0,
+              "gf": 8,
+              "ga": 2
+            },
+            {
+              "rank": 2,
+              "name": "USSA Vertou (B)",
+              "pts": 6,
+              "played": 3,
+              "w": 2,
+              "d": 0,
+              "l": 1,
+              "gf": 8,
+              "ga": 3
+            },
+            {
+              "rank": 3,
+              "name": "Orvault SF",
+              "pts": 6,
+              "played": 3,
+              "w": 2,
+              "d": 0,
+              "l": 1,
+              "gf": 5,
+              "ga": 2
+            },
+            {
+              "rank": 4,
+              "name": "FC Saint-Julien Divatte",
+              "pts": 6,
+              "played": 3,
+              "w": 2,
+              "d": 0,
+              "l": 1,
+              "gf": 3,
+              "ga": 2
+            },
+            {
+              "rank": 5,
+              "name": "Pouzauges BFC",
+              "pts": 4,
+              "played": 3,
+              "w": 1,
+              "d": 1,
+              "l": 1,
+              "gf": 7,
+              "ga": 3
+            },
+            {
+              "rank": 6,
+              "name": "AS Le Mans Villaret",
+              "pts": 4,
+              "played": 3,
+              "w": 1,
+              "d": 1,
+              "l": 1,
+              "gf": 7,
+              "ga": 5
+            },
+            {
+              "rank": 7,
+              "name": "ES Segré Haut-Anjou",
+              "pts": 4,
+              "played": 3,
+              "w": 1,
+              "d": 1,
+              "l": 1,
+              "gf": 4,
+              "ga": 6
+            },
+            {
+              "rank": 8,
+              "name": "France d'Aizenay",
+              "pts": 4,
+              "played": 3,
+              "w": 1,
+              "d": 1,
+              "l": 1,
+              "gf": 2,
+              "ga": 4
+            },
+            {
+              "rank": 9,
+              "name": "Mouilleron SF",
+              "pts": 3,
+              "played": 3,
+              "w": 1,
+              "d": 0,
+              "l": 2,
+              "gf": 3,
+              "ga": 3
+            },
+            {
+              "rank": 10,
+              "name": "Les Herbiers VF (B)",
+              "pts": 3,
+              "played": 3,
+              "w": 1,
+              "d": 0,
+              "l": 2,
+              "gf": 4,
+              "ga": 5
+            },
+            {
+              "rank": 11,
+              "name": "JS Coulaines",
+              "pts": 3,
+              "played": 3,
+              "w": 1,
+              "d": 0,
+              "l": 2,
+              "gf": 4,
+              "ga": 10
+            },
+            {
+              "rank": 12,
+              "name": "La Suze-Roëzé FC",
+              "pts": 0,
+              "played": 3,
+              "w": 0,
+              "d": 0,
+              "l": 3,
+              "gf": 1,
+              "ga": 11
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "probes": [
+    {
+      "index": 1,
+      "title": "Championnats régionaux français de football - Choix des compétitions et saisons",
+      "headers": [
+        "Choisir un championnat"
+      ],
+      "candidates": []
+    },
+    {
+      "index": 2,
+      "title": "Championnats régionaux français de football - Choix des compétitions et saisons",
+      "headers": [
+        "Choisir un championnat"
+      ],
+      "candidates": []
+    },
+    {
+      "index": 3,
+      "title": "Championnats régionaux français de football - Choix des compétitions et saisons",
+      "headers": [
+        "Choisir un championnat"
+      ],
+      "candidates": []
+    },
+    {
+      "index": 4,
+      "title": "Championnats régionaux français de football - Choix des compétitions et saisons",
+      "headers": [
+        "Choisir un championnat"
+      ],
+      "candidates": []
+    },
+    {
+      "index": 5,
+      "title": "Championnats régionaux français de football - Choix des compétitions et saisons",
+      "headers": [
+        "Choisir un championnat"
+      ],
+      "candidates": []
+    },
+    {
+      "index": 6,
+      "title": "Ligue Auvergne-Rhône-Alpes de football - Choix des compétitions et saisons",
+      "headers": [
+        "Choisir un championnat",
+        "Auvergne-Rhône-Alpes"
+      ],
+      "candidates": [
+        "championnat.php?id=4120"
+      ],
+      "url": "https://statfootballclubfrance.fr/championnat.php?id=4120",
+      "urlTitle": "Régional 1 Auvergne-Rhône-Alpes 2026-2027 - Classement et résultats",
+      "status": 200,
+      "groups": [
+        {
+          "group": "A",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "US Villars",
+              "pts": 13,
+              "played": 5,
+              "w": 4,
+              "d": 1,
+              "l": 0,
+              "gf": 10,
+              "ga": 3
+            },
+            {
+              "rank": 2,
+              "name": "US Monsitrol-sur-Loire",
+              "pts": 11,
+              "played": 5,
+              "w": 3,
+              "d": 2,
+              "l": 0,
+              "gf": 10,
+              "ga": 3
+            },
+            {
+              "rank": 3,
+              "name": "RC Vichy",
+              "pts": 11,
+              "played": 5,
+              "w": 3,
+              "d": 2,
+              "l": 0,
+              "gf": 14,
+              "ga": 8
+            },
+            {
+              "rank": 4,
+              "name": "AS Chavanay",
+              "pts": 9,
+              "played": 5,
+              "w": 3,
+              "d": 0,
+              "l": 2,
+              "gf": 10,
+              "ga": 5
+            },
+            {
+              "rank": 5,
+              "name": "FCO Firminy Insesport",
+              "pts": 7,
+              "played": 5,
+              "w": 2,
+              "d": 1,
+              "l": 2,
+              "gf": 9,
+              "ga": 6
+            },
+            {
+              "rank": 6,
+              "name": "US Sucs-et-Lignons",
+              "pts": 7,
+              "played": 5,
+              "w": 1,
+              "d": 4,
+              "l": 0,
+              "gf": 3,
+              "ga": 2
+            },
+            {
+              "rank": 7,
+              "name": "Le Puy-en-Velay F43A (B)",
+              "pts": 7,
+              "played": 5,
+              "w": 2,
+              "d": 1,
+              "l": 2,
+              "gf": 8,
+              "ga": 8
+            },
+            {
+              "rank": 8,
+              "name": "Clermont Foot (B)",
+              "pts": 6,
+              "played": 5,
+              "w": 2,
+              "d": 1,
+              "l": 2,
+              "gf": 7,
+              "ga": 7
+            },
+            {
+              "rank": 9,
+              "name": "Moulins-Yzeure Foot",
+              "pts": 5,
+              "played": 5,
+              "w": 1,
+              "d": 2,
+              "l": 2,
+              "gf": 6,
+              "ga": 8
+            },
+            {
+              "rank": 10,
+              "name": "US Blavozy",
+              "pts": 5,
+              "played": 5,
+              "w": 1,
+              "d": 2,
+              "l": 2,
+              "gf": 6,
+              "ga": 9
+            },
+            {
+              "rank": 11,
+              "name": "Montluçon Football",
+              "pts": 4,
+              "played": 5,
+              "w": 1,
+              "d": 1,
+              "l": 3,
+              "gf": 4,
+              "ga": 10
+            },
+            {
+              "rank": 12,
+              "name": "Aurillac FC",
+              "pts": 3,
+              "played": 5,
+              "w": 0,
+              "d": 3,
+              "l": 2,
+              "gf": 8,
+              "ga": 12
+            },
+            {
+              "rank": 13,
+              "name": "Roannais Foot 42",
+              "pts": 3,
+              "played": 5,
+              "w": 0,
+              "d": 3,
+              "l": 2,
+              "gf": 4,
+              "ga": 9
+            },
+            {
+              "rank": 14,
+              "name": "SA Thiers",
+              "pts": 1,
+              "played": 5,
+              "w": 0,
+              "d": 1,
+              "l": 4,
+              "gf": 1,
+              "ga": 10
+            }
+          ]
+        },
+        {
+          "group": "B",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "Olympique Valence",
+              "pts": 13,
+              "played": 5,
+              "w": 4,
+              "d": 1,
+              "l": 0,
+              "gf": 13,
+              "ga": 5
+            },
+            {
+              "rank": 2,
+              "name": "FC Villefranche Beaujolais (B)",
+              "pts": 11,
+              "played": 5,
+              "w": 3,
+              "d": 2,
+              "l": 0,
+              "gf": 13,
+              "ga": 6
+            },
+            {
+              "rank": 3,
+              "name": "Grenoble F38 (B)",
+              "pts": 8,
+              "played": 5,
+              "w": 2,
+              "d": 2,
+              "l": 1,
+              "gf": 11,
+              "ga": 5
+            },
+            {
+              "rank": 4,
+              "name": "Rhône Vallées FC",
+              "pts": 8,
+              "played": 5,
+              "w": 2,
+              "d": 2,
+              "l": 1,
+              "gf": 9,
+              "ga": 6
+            },
+            {
+              "rank": 5,
+              "name": "Entente Crest-Aouste",
+              "pts": 7,
+              "played": 5,
+              "w": 2,
+              "d": 1,
+              "l": 2,
+              "gf": 11,
+              "ga": 10
+            },
+            {
+              "rank": 6,
+              "name": "Chambéry Savoie Foot",
+              "pts": 7,
+              "played": 5,
+              "w": 1,
+              "d": 4,
+              "l": 0,
+              "gf": 5,
+              "ga": 4
+            },
+            {
+              "rank": 7,
+              "name": "GFA Rumilly-Vallières (B)",
+              "pts": 7,
+              "played": 5,
+              "w": 1,
+              "d": 4,
+              "l": 0,
+              "gf": 5,
+              "ga": 4
+            },
+            {
+              "rank": 8,
+              "name": "AS Misérieux-Trévoux",
+              "pts": 7,
+              "played": 5,
+              "w": 2,
+              "d": 1,
+              "l": 2,
+              "gf": 6,
+              "ga": 6
+            },
+            {
+              "rank": 9,
+              "name": "AS Craponne",
+              "pts": 6,
+              "played": 5,
+              "w": 1,
+              "d": 3,
+              "l": 1,
+              "gf": 10,
+              "ga": 9
+            },
+            {
+              "rank": 10,
+              "name": "FC du Foron",
+              "pts": 6,
+              "played": 5,
+              "w": 2,
+              "d": 0,
+              "l": 3,
+              "gf": 7,
+              "ga": 12
+            },
+            {
+              "rank": 11,
+              "name": "Chassieu-Décines FC",
+              "pts": 5,
+              "played": 5,
+              "w": 1,
+              "d": 2,
+              "l": 2,
+              "gf": 7,
+              "ga": 11
+            },
+            {
+              "rank": 12,
+              "name": "PVFC Oyonnax",
+              "pts": 4,
+              "played": 5,
+              "w": 1,
+              "d": 1,
+              "l": 3,
+              "gf": 5,
+              "ga": 10
+            },
+            {
+              "rank": 13,
+              "name": "GOAL FC (B)",
+              "pts": 3,
+              "played": 5,
+              "w": 1,
+              "d": 0,
+              "l": 4,
+              "gf": 6,
+              "ga": 10
+            },
+            {
+              "rank": 14,
+              "name": "AC Seyssinet-Pariset",
+              "pts": 1,
+              "played": 5,
+              "w": 0,
+              "d": 1,
+              "l": 4,
+              "gf": 3,
+              "ga": 13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "title": "Ligue Bourgogne-Franche-Comté de football - Choix des compétitions et saisons",
+      "headers": [
+        "Choisir un championnat",
+        "Bourgogne-Franche-Comté"
+      ],
+      "candidates": [
+        "championnat.php?id=4122"
+      ],
+      "url": "https://statfootballclubfrance.fr/championnat.php?id=4122",
+      "urlTitle": "Régional 1 Bourgogne-Franche-Comté 2026-2027 - Classement et résultats",
+      "status": 200,
+      "groups": [
+        {
+          "group": "A",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "UCS Cosne-Cours-sur-Loire",
+              "pts": 10,
+              "played": 4,
+              "w": 3,
+              "d": 1,
+              "l": 0,
+              "gf": 10,
+              "ga": 1
+            },
+            {
+              "rank": 2,
+              "name": "FC Montceau Bourgogne",
+              "pts": 9,
+              "played": 4,
+              "w": 3,
+              "d": 0,
+              "l": 1,
+              "gf": 8,
+              "ga": 3
+            },
+            {
+              "rank": 3,
+              "name": "FC Gueugnon",
+              "pts": 7,
+              "played": 4,
+              "w": 2,
+              "d": 1,
+              "l": 1,
+              "gf": 8,
+              "ga": 5
+            },
+            {
+              "rank": 4,
+              "name": "Mâcon 71 (B)",
+              "pts": 7,
+              "played": 4,
+              "w": 2,
+              "d": 1,
+              "l": 1,
+              "gf": 8,
+              "ga": 5
+            },
+            {
+              "rank": 5,
+              "name": "FC Sens",
+              "pts": 7,
+              "played": 4,
+              "w": 2,
+              "d": 1,
+              "l": 1,
+              "gf": 6,
+              "ga": 6
+            },
+            {
+              "rank": 6,
+              "name": "USC Dijon",
+              "pts": 6,
+              "played": 4,
+              "w": 2,
+              "d": 0,
+              "l": 2,
+              "gf": 7,
+              "ga": 7
+            },
+            {
+              "rank": 7,
+              "name": "AS La Chapelle-de-Guinchay",
+              "pts": 5,
+              "played": 4,
+              "w": 1,
+              "d": 2,
+              "l": 1,
+              "gf": 5,
+              "ga": 5
+            },
+            {
+              "rank": 8,
+              "name": "AJ Auxerre (C)",
+              "pts": 3,
+              "played": 4,
+              "w": 0,
+              "d": 3,
+              "l": 1,
+              "gf": 5,
+              "ga": 6
+            },
+            {
+              "rank": 9,
+              "name": "Digoin FCA",
+              "pts": 3,
+              "played": 4,
+              "w": 0,
+              "d": 3,
+              "l": 1,
+              "gf": 6,
+              "ga": 8
+            },
+            {
+              "rank": 10,
+              "name": "Louhans-Cuiseaux FC",
+              "pts": 3,
+              "played": 4,
+              "w": 1,
+              "d": 0,
+              "l": 3,
+              "gf": 3,
+              "ga": 5
+            },
+            {
+              "rank": 11,
+              "name": "Entente Football Villages",
+              "pts": 3,
+              "played": 4,
+              "w": 1,
+              "d": 0,
+              "l": 3,
+              "gf": 2,
+              "ga": 9
+            },
+            {
+              "rank": 12,
+              "name": "ES Fauverney-Rouvres",
+              "pts": 2,
+              "played": 4,
+              "w": 0,
+              "d": 2,
+              "l": 2,
+              "gf": 5,
+              "ga": 13
+            }
+          ]
+        },
+        {
+          "group": "B",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "AS Ornans",
+              "pts": 8,
+              "played": 4,
+              "w": 2,
+              "d": 2,
+              "l": 0,
+              "gf": 5,
+              "ga": 2
+            },
+            {
+              "rank": 2,
+              "name": "ASC Saint-Apollinaire",
+              "pts": 7,
+              "played": 4,
+              "w": 2,
+              "d": 1,
+              "l": 1,
+              "gf": 7,
+              "ga": 4
+            },
+            {
+              "rank": 3,
+              "name": "FC Grandvillars",
+              "pts": 7,
+              "played": 4,
+              "w": 2,
+              "d": 1,
+              "l": 1,
+              "gf": 7,
+              "ga": 5
+            },
+            {
+              "rank": 4,
+              "name": "Jura Sud Foot",
+              "pts": 7,
+              "played": 4,
+              "w": 2,
+              "d": 1,
+              "l": 1,
+              "gf": 7,
+              "ga": 7
+            },
+            {
+              "rank": 5,
+              "name": "Besançon Football",
+              "pts": 7,
+              "played": 4,
+              "w": 2,
+              "d": 1,
+              "l": 1,
+              "gf": 3,
+              "ga": 3
+            },
+            {
+              "rank": 6,
+              "name": "Racing Besançon (B)",
+              "pts": 6,
+              "played": 4,
+              "w": 2,
+              "d": 0,
+              "l": 2,
+              "gf": 6,
+              "ga": 6
+            },
+            {
+              "rank": 7,
+              "name": "CA Pontarlier (B)",
+              "pts": 6,
+              "played": 4,
+              "w": 2,
+              "d": 0,
+              "l": 2,
+              "gf": 7,
+              "ga": 8
+            },
+            {
+              "rank": 8,
+              "name": "Chevigny-Saint-Sauveur Football",
+              "pts": 5,
+              "played": 4,
+              "w": 1,
+              "d": 2,
+              "l": 1,
+              "gf": 4,
+              "ga": 4
+            },
+            {
+              "rank": 9,
+              "name": "US Saint-Vit",
+              "pts": 5,
+              "played": 4,
+              "w": 1,
+              "d": 2,
+              "l": 1,
+              "gf": 4,
+              "ga": 5
+            },
+            {
+              "rank": 10,
+              "name": "FC Morteau-Montlebon",
+              "pts": 4,
+              "played": 4,
+              "w": 1,
+              "d": 1,
+              "l": 2,
+              "gf": 6,
+              "ga": 7
+            },
+            {
+              "rank": 11,
+              "name": "US Coteaux de Seille",
+              "pts": 3,
+              "played": 4,
+              "w": 1,
+              "d": 0,
+              "l": 3,
+              "gf": 5,
+              "ga": 7
+            },
+            {
+              "rank": 12,
+              "name": "US Pont-de-Roide-Vermondans",
+              "pts": 1,
+              "played": 4,
+              "w": 0,
+              "d": 1,
+              "l": 3,
+              "gf": 1,
+              "ga": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "title": "Ligue Bretagne de football - Choix des compétitions et saisons",
+      "headers": [
+        "Choisir un championnat",
+        "Bretagne"
+      ],
+      "candidates": [
+        "championnat.php?id=4124"
+      ],
+      "url": "https://statfootballclubfrance.fr/championnat.php?id=4124",
+      "urlTitle": "Régional 1 Bretagne 2026-2027 - Classement et résultats",
+      "status": 200,
+      "groups": [
+        {
+          "group": "A",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "Kériolets Pluvigner",
+              "pts": 16,
+              "played": 6,
+              "w": 5,
+              "d": 1,
+              "l": 0,
+              "gf": 16,
+              "ga": 3
+            },
+            {
+              "rank": 2,
+              "name": "AG Plouvorn",
+              "pts": 15,
+              "played": 6,
+              "w": 5,
+              "d": 0,
+              "l": 1,
+              "gf": 18,
+              "ga": 7
+            },
+            {
+              "rank": 3,
+              "name": "US Concarneau (B)",
+              "pts": 13,
+              "played": 6,
+              "w": 4,
+              "d": 1,
+              "l": 1,
+              "gf": 7,
+              "ga": 5
+            },
+            {
+              "rank": 4,
+              "name": "SM Douarnenez",
+              "pts": 12,
+              "played": 6,
+              "w": 4,
+              "d": 0,
+              "l": 2,
+              "gf": 8,
+              "ga": 10
+            },
+            {
+              "rank": 5,
+              "name": "COBSP Saint-Brieuc",
+              "pts": 10,
+              "played": 6,
+              "w": 3,
+              "d": 1,
+              "l": 2,
+              "gf": 10,
+              "ga": 6
+            },
+            {
+              "rank": 6,
+              "name": "EA Saint-Renan",
+              "pts": 9,
+              "played": 6,
+              "w": 3,
+              "d": 0,
+              "l": 3,
+              "gf": 10,
+              "ga": 8
+            },
+            {
+              "rank": 7,
+              "name": "Stade Plabennec",
+              "pts": 8,
+              "played": 6,
+              "w": 2,
+              "d": 2,
+              "l": 2,
+              "gf": 11,
+              "ga": 5
+            },
+            {
+              "rank": 8,
+              "name": "Paotred Dispount Ergué-Gabéric",
+              "pts": 7,
+              "played": 6,
+              "w": 2,
+              "d": 1,
+              "l": 3,
+              "gf": 7,
+              "ga": 6
+            },
+            {
+              "rank": 9,
+              "name": "US Montagnarde",
+              "pts": 7,
+              "played": 6,
+              "w": 2,
+              "d": 1,
+              "l": 3,
+              "gf": 7,
+              "ga": 11
+            },
+            {
+              "rank": 10,
+              "name": "Plaintel Sport",
+              "pts": 5,
+              "played": 6,
+              "w": 1,
+              "d": 2,
+              "l": 3,
+              "gf": 13,
+              "ga": 14
+            },
+            {
+              "rank": 11,
+              "name": "Stade Pontivy",
+              "pts": 5,
+              "played": 6,
+              "w": 1,
+              "d": 2,
+              "l": 3,
+              "gf": 2,
+              "ga": 7
+            },
+            {
+              "rank": 12,
+              "name": "GDR Guipavas",
+              "pts": 5,
+              "played": 6,
+              "w": 1,
+              "d": 2,
+              "l": 3,
+              "gf": 7,
+              "ga": 14
+            },
+            {
+              "rank": 13,
+              "name": "Plougastel FC",
+              "pts": 4,
+              "played": 6,
+              "w": 1,
+              "d": 1,
+              "l": 4,
+              "gf": 6,
+              "ga": 15
+            },
+            {
+              "rank": 14,
+              "name": "Saint-Brandan-Quintin FC",
+              "pts": 2,
+              "played": 6,
+              "w": 0,
+              "d": 2,
+              "l": 4,
+              "gf": 4,
+              "ga": 15
+            }
+          ]
+        },
+        {
+          "group": "B",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "FC Dinard",
+              "pts": 15,
+              "played": 6,
+              "w": 5,
+              "d": 0,
+              "l": 1,
+              "gf": 15,
+              "ga": 6
+            },
+            {
+              "rank": 2,
+              "name": "Cadets Bains-sur-Oust",
+              "pts": 13,
+              "played": 6,
+              "w": 4,
+              "d": 1,
+              "l": 1,
+              "gf": 13,
+              "ga": 5
+            },
+            {
+              "rank": 3,
+              "name": "FC Atlantique Vilaine Redon",
+              "pts": 12,
+              "played": 6,
+              "w": 3,
+              "d": 3,
+              "l": 0,
+              "gf": 13,
+              "ga": 6
+            },
+            {
+              "rank": 4,
+              "name": "CPB Bréquigny Rennes",
+              "pts": 11,
+              "played": 6,
+              "w": 3,
+              "d": 2,
+              "l": 1,
+              "gf": 18,
+              "ga": 6
+            },
+            {
+              "rank": 5,
+              "name": "Séné FC",
+              "pts": 10,
+              "played": 6,
+              "w": 3,
+              "d": 1,
+              "l": 2,
+              "gf": 4,
+              "ga": 7
+            },
+            {
+              "rank": 6,
+              "name": "US Fougères",
+              "pts": 9,
+              "played": 6,
+              "w": 3,
+              "d": 0,
+              "l": 3,
+              "gf": 13,
+              "ga": 9
+            },
+            {
+              "rank": 7,
+              "name": "Stade Castelbourgeois",
+              "pts": 9,
+              "played": 6,
+              "w": 2,
+              "d": 3,
+              "l": 1,
+              "gf": 9,
+              "ga": 7
+            },
+            {
+              "rank": 8,
+              "name": "Ploërmel FC",
+              "pts": 8,
+              "played": 6,
+              "w": 2,
+              "d": 2,
+              "l": 2,
+              "gf": 7,
+              "ga": 7
+            },
+            {
+              "rank": 9,
+              "name": "TA Rennes (B)",
+              "pts": 7,
+              "played": 6,
+              "w": 2,
+              "d": 1,
+              "l": 3,
+              "gf": 7,
+              "ga": 7
+            },
+            {
+              "rank": 10,
+              "name": "AS Vignoc-Hédé-Guipel",
+              "pts": 7,
+              "played": 6,
+              "w": 2,
+              "d": 1,
+              "l": 3,
+              "gf": 7,
+              "ga": 16
+            },
+            {
+              "rank": 11,
+              "name": "FC Tinténiac-Saint-Domineuc",
+              "pts": 6,
+              "played": 6,
+              "w": 2,
+              "d": 0,
+              "l": 4,
+              "gf": 9,
+              "ga": 16
+            },
+            {
+              "rank": 12,
+              "name": "SCS Locminé (B)",
+              "pts": 5,
+              "played": 6,
+              "w": 1,
+              "d": 2,
+              "l": 3,
+              "gf": 7,
+              "ga": 10
+            },
+            {
+              "rank": 13,
+              "name": "Lamballe FC",
+              "pts": 5,
+              "played": 6,
+              "w": 1,
+              "d": 2,
+              "l": 3,
+              "gf": 6,
+              "ga": 12
+            },
+            {
+              "rank": 14,
+              "name": "US Quessoy",
+              "pts": 0,
+              "played": 6,
+              "w": 0,
+              "d": 0,
+              "l": 6,
+              "gf": 5,
+              "ga": 19
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "title": "Ligue Centre-Val de Loire de football - Choix des compétitions et saisons",
+      "headers": [
+        "Choisir un championnat",
+        "Centre-Val de Loire"
+      ],
+      "candidates": [
+        "championnat.php?id=4126"
+      ],
+      "url": "https://statfootballclubfrance.fr/championnat.php?id=4126",
+      "urlTitle": "Régional 1 Centre-Val de Loire 2026-2027 - Classement et résultats",
+      "status": 200,
+      "groups": [
+        {
+          "group": "A",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "Bourges FC (B)",
+              "pts": 10,
+              "played": 4,
+              "w": 3,
+              "d": 1,
+              "l": 0,
+              "gf": 7,
+              "ga": 1
+            },
+            {
+              "rank": 2,
+              "name": "Vineuil SF",
+              "pts": 10,
+              "played": 4,
+              "w": 3,
+              "d": 1,
+              "l": 0,
+              "gf": 10,
+              "ga": 5
+            },
+            {
+              "rank": 3,
+              "name": "ES Bourges Moulon",
+              "pts": 9,
+              "played": 4,
+              "w": 3,
+              "d": 0,
+              "l": 1,
+              "gf": 11,
+              "ga": 5
+            },
+            {
+              "rank": 4,
+              "name": "CJF Fleury-les-Aubrais",
+              "pts": 9,
+              "played": 4,
+              "w": 3,
+              "d": 0,
+              "l": 1,
+              "gf": 6,
+              "ga": 4
+            },
+            {
+              "rank": 5,
+              "name": "Saran FC",
+              "pts": 7,
+              "played": 4,
+              "w": 2,
+              "d": 1,
+              "l": 1,
+              "gf": 4,
+              "ga": 4
+            },
+            {
+              "rank": 6,
+              "name": "EB Saint-Cyr-sur-Loire",
+              "pts": 6,
+              "played": 4,
+              "w": 2,
+              "d": 0,
+              "l": 2,
+              "gf": 8,
+              "ga": 5
+            },
+            {
+              "rank": 7,
+              "name": "US Monnaie",
+              "pts": 4,
+              "played": 4,
+              "w": 1,
+              "d": 1,
+              "l": 2,
+              "gf": 5,
+              "ga": 5
+            },
+            {
+              "rank": 8,
+              "name": "US Châteauneuf-sur-Loire",
+              "pts": 4,
+              "played": 4,
+              "w": 1,
+              "d": 1,
+              "l": 2,
+              "gf": 4,
+              "ga": 6
+            },
+            {
+              "rank": 9,
+              "name": "FC Dreux",
+              "pts": 3,
+              "played": 4,
+              "w": 1,
+              "d": 0,
+              "l": 3,
+              "gf": 7,
+              "ga": 11
+            },
+            {
+              "rank": 10,
+              "name": "Union Foot de Touraine (B)",
+              "pts": 2,
+              "played": 4,
+              "w": 0,
+              "d": 2,
+              "l": 2,
+              "gf": 2,
+              "ga": 5
+            },
+            {
+              "rank": 11,
+              "name": "OP Mehunois",
+              "pts": 2,
+              "played": 4,
+              "w": 0,
+              "d": 2,
+              "l": 2,
+              "gf": 3,
+              "ga": 9
+            },
+            {
+              "rank": 12,
+              "name": "SMOC Saint-Jean-de-Braye",
+              "pts": 1,
+              "played": 4,
+              "w": 0,
+              "d": 1,
+              "l": 3,
+              "gf": 2,
+              "ga": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "title": "Ligue Corse de football - Choix des compétitions et saisons",
+      "headers": [
+        "Choisir un championnat",
+        "Corse"
+      ],
+      "candidates": [
+        "championnat.php?id=4127"
+      ],
+      "url": "https://statfootballclubfrance.fr/championnat.php?id=4127",
+      "urlTitle": "Régional 1 Corse 2026-2027 - Classement et résultats",
+      "status": 200,
+      "groups": [
+        {
+          "group": "A",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "SC Bocognano Gravona",
+              "pts": 10,
+              "played": 3,
+              "w": 2,
+              "d": 1,
+              "l": 0,
+              "gf": 11,
+              "ga": 5
+            },
+            {
+              "rank": 2,
+              "name": "Afa FA",
+              "pts": 9,
+              "played": 3,
+              "w": 2,
+              "d": 0,
+              "l": 1,
+              "gf": 7,
+              "ga": 5
+            },
+            {
+              "rank": 3,
+              "name": "FJE Biguglia",
+              "pts": 9,
+              "played": 3,
+              "w": 2,
+              "d": 0,
+              "l": 1,
+              "gf": 7,
+              "ga": 5
+            },
+            {
+              "rank": 4,
+              "name": "AS Porto-Vecchio",
+              "pts": 9,
+              "played": 3,
+              "w": 2,
+              "d": 0,
+              "l": 1,
+              "gf": 5,
+              "ga": 6
+            },
+            {
+              "rank": 5,
+              "name": "AC Ajaccio",
+              "pts": 8,
+              "played": 2,
+              "w": 2,
+              "d": 0,
+              "l": 0,
+              "gf": 10,
+              "ga": 1
+            },
+            {
+              "rank": 6,
+              "name": "FC Borgo (B)",
+              "pts": 7,
+              "played": 3,
+              "w": 1,
+              "d": 1,
+              "l": 1,
+              "gf": 3,
+              "ga": 4
+            },
+            {
+              "rank": 7,
+              "name": "FC Bastelicaccia",
+              "pts": 7,
+              "played": 3,
+              "w": 1,
+              "d": 1,
+              "l": 1,
+              "gf": 7,
+              "ga": 9
+            },
+            {
+              "rank": 8,
+              "name": "Sud FC",
+              "pts": 6,
+              "played": 2,
+              "w": 1,
+              "d": 1,
+              "l": 0,
+              "gf": 5,
+              "ga": 1
+            },
+            {
+              "rank": 9,
+              "name": "GC Lucciana (B)",
+              "pts": 4,
+              "played": 3,
+              "w": 0,
+              "d": 1,
+              "l": 2,
+              "gf": 2,
+              "ga": 6
+            },
+            {
+              "rank": 10,
+              "name": "FC Balagne (B)",
+              "pts": 3,
+              "played": 2,
+              "w": 0,
+              "d": 1,
+              "l": 1,
+              "gf": 2,
+              "ga": 3
+            },
+            {
+              "rank": 11,
+              "name": "AS Casinca",
+              "pts": 3,
+              "played": 3,
+              "w": 0,
+              "d": 0,
+              "l": 3,
+              "gf": 2,
+              "ga": 11
+            },
+            {
+              "rank": 12,
+              "name": "SVARR",
+              "pts": 2,
+              "played": 2,
+              "w": 0,
+              "d": 0,
+              "l": 2,
+              "gf": 2,
+              "ga": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "title": "Ligue Grand Est de football - Choix des compétitions et saisons",
+      "headers": [
+        "Choisir un championnat",
+        "Grand Est"
+      ],
+      "candidates": [
+        "championnat.php?id=4128"
+      ],
+      "url": "https://statfootballclubfrance.fr/championnat.php?id=4128",
+      "urlTitle": "Régional 1 Grand Est 2026-2027 - Classement et résultats",
+      "status": 200,
+      "groups": [
+        {
+          "group": "A",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "CS Sedan Ardennes",
+              "pts": 21,
+              "played": 7,
+              "w": 7,
+              "d": 0,
+              "l": 0,
+              "gf": 22,
+              "ga": 5
+            },
+            {
+              "rank": 2,
+              "name": "Stade de Reims (B)",
+              "pts": 19,
+              "played": 7,
+              "w": 6,
+              "d": 1,
+              "l": 0,
+              "gf": 31,
+              "ga": 3
+            },
+            {
+              "rank": 3,
+              "name": "RC Épernay",
+              "pts": 13,
+              "played": 7,
+              "w": 4,
+              "d": 1,
+              "l": 2,
+              "gf": 12,
+              "ga": 10
+            },
+            {
+              "rank": 4,
+              "name": "Cormontreuil FC",
+              "pts": 12,
+              "played": 7,
+              "w": 4,
+              "d": 0,
+              "l": 3,
+              "gf": 16,
+              "ga": 12
+            },
+            {
+              "rank": 5,
+              "name": "USAG Uckange",
+              "pts": 11,
+              "played": 7,
+              "w": 3,
+              "d": 2,
+              "l": 2,
+              "gf": 9,
+              "ga": 5
+            },
+            {
+              "rank": 6,
+              "name": "Olympique Charleville-Prix AM (B)",
+              "pts": 10,
+              "played": 7,
+              "w": 3,
+              "d": 1,
+              "l": 3,
+              "gf": 9,
+              "ga": 12
+            },
+            {
+              "rank": 7,
+              "name": "FC Hettange-Grande",
+              "pts": 8,
+              "played": 7,
+              "w": 2,
+              "d": 2,
+              "l": 3,
+              "gf": 9,
+              "ga": 11
+            },
+            {
+              "rank": 8,
+              "name": "CSO Amnéville",
+              "pts": 8,
+              "played": 7,
+              "w": 2,
+              "d": 2,
+              "l": 3,
+              "gf": 6,
+              "ga": 12
+            },
+            {
+              "rank": 9,
+              "name": "ES Villerupt-Thil",
+              "pts": 7,
+              "played": 7,
+              "w": 1,
+              "d": 4,
+              "l": 2,
+              "gf": 6,
+              "ga": 7
+            },
+            {
+              "rank": 10,
+              "name": "FC Bogny-sur-Meuse",
+              "pts": 7,
+              "played": 7,
+              "w": 2,
+              "d": 1,
+              "l": 4,
+              "gf": 8,
+              "ga": 16
+            },
+            {
+              "rank": 11,
+              "name": "FCF La Neuvillette-Jamin",
+              "pts": 7,
+              "played": 7,
+              "w": 2,
+              "d": 1,
+              "l": 4,
+              "gf": 8,
+              "ga": 18
+            },
+            {
+              "rank": 12,
+              "name": "SC Marnaval",
+              "pts": 6,
+              "played": 7,
+              "w": 1,
+              "d": 3,
+              "l": 3,
+              "gf": 14,
+              "ga": 18
+            },
+            {
+              "rank": 13,
+              "name": "Thionville FC (B)",
+              "pts": 4,
+              "played": 7,
+              "w": 1,
+              "d": 1,
+              "l": 5,
+              "gf": 10,
+              "ga": 17
+            },
+            {
+              "rank": 14,
+              "name": "FC Saint-Méziéry",
+              "pts": 4,
+              "played": 7,
+              "w": 1,
+              "d": 1,
+              "l": 5,
+              "gf": 5,
+              "ga": 19
+            }
+          ]
+        },
+        {
+          "group": "B",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "US Reipertswiller",
+              "pts": 18,
+              "played": 7,
+              "w": 6,
+              "d": 0,
+              "l": 1,
+              "gf": 19,
+              "ga": 8
+            },
+            {
+              "rank": 2,
+              "name": "US Sarre-Union",
+              "pts": 14,
+              "played": 7,
+              "w": 4,
+              "d": 2,
+              "l": 1,
+              "gf": 10,
+              "ga": 5
+            },
+            {
+              "rank": 3,
+              "name": "FCO Strasbourg Koenigshoffen",
+              "pts": 14,
+              "played": 7,
+              "w": 4,
+              "d": 2,
+              "l": 1,
+              "gf": 11,
+              "ga": 8
+            },
+            {
+              "rank": 4,
+              "name": "SC Schiltigheim",
+              "pts": 12,
+              "played": 7,
+              "w": 4,
+              "d": 0,
+              "l": 3,
+              "gf": 12,
+              "ga": 8
+            },
+            {
+              "rank": 5,
+              "name": "A. Still-Mutzig",
+              "pts": 12,
+              "played": 7,
+              "w": 4,
+              "d": 0,
+              "l": 3,
+              "gf": 11,
+              "ga": 7
+            },
+            {
+              "rank": 6,
+              "name": "CA Boulay",
+              "pts": 12,
+              "played": 7,
+              "w": 3,
+              "d": 3,
+              "l": 1,
+              "gf": 10,
+              "ga": 6
+            },
+            {
+              "rank": 7,
+              "name": "FC Geispolsheim",
+              "pts": 12,
+              "played": 7,
+              "w": 4,
+              "d": 0,
+              "l": 3,
+              "gf": 10,
+              "ga": 8
+            },
+            {
+              "rank": 8,
+              "name": "SS Weyersheim",
+              "pts": 11,
+              "played": 7,
+              "w": 3,
+              "d": 2,
+              "l": 2,
+              "gf": 12,
+              "ga": 10
+            },
+            {
+              "rank": 9,
+              "name": "Sarreguemines FC",
+              "pts": 9,
+              "played": 7,
+              "w": 3,
+              "d": 0,
+              "l": 4,
+              "gf": 11,
+              "ga": 15
+            },
+            {
+              "rank": 10,
+              "name": "US Nousseviller",
+              "pts": 9,
+              "played": 6,
+              "w": 3,
+              "d": 0,
+              "l": 3,
+              "gf": 8,
+              "ga": 12
+            },
+            {
+              "rank": 11,
+              "name": "FA Illkirch-Graffenstaden",
+              "pts": 8,
+              "played": 7,
+              "w": 2,
+              "d": 2,
+              "l": 3,
+              "gf": 10,
+              "ga": 11
+            },
+            {
+              "rank": 12,
+              "name": "FCSR Haguenau (B)",
+              "pts": 4,
+              "played": 6,
+              "w": 1,
+              "d": 1,
+              "l": 4,
+              "gf": 11,
+              "ga": 17
+            },
+            {
+              "rank": 13,
+              "name": "FCE Shirrhein",
+              "pts": 2,
+              "played": 7,
+              "w": 0,
+              "d": 2,
+              "l": 5,
+              "gf": 7,
+              "ga": 15
+            },
+            {
+              "rank": 14,
+              "name": "US Forbach",
+              "pts": 0,
+              "played": 7,
+              "w": 0,
+              "d": 0,
+              "l": 7,
+              "gf": 4,
+              "ga": 16
+            }
+          ]
+        },
+        {
+          "group": "C",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "US Raon-l'Étape",
+              "pts": 16,
+              "played": 7,
+              "w": 5,
+              "d": 1,
+              "l": 1,
+              "gf": 12,
+              "ga": 6
+            },
+            {
+              "rank": 2,
+              "name": "SR Saint-Dié Kellermann",
+              "pts": 15,
+              "played": 7,
+              "w": 5,
+              "d": 1,
+              "l": 1,
+              "gf": 17,
+              "ga": 6
+            },
+            {
+              "rank": 3,
+              "name": "COS Villers-lès-Nancy",
+              "pts": 13,
+              "played": 7,
+              "w": 4,
+              "d": 1,
+              "l": 2,
+              "gf": 12,
+              "ga": 8
+            },
+            {
+              "rank": 4,
+              "name": "FC Saint-Louis-Neuweg",
+              "pts": 12,
+              "played": 7,
+              "w": 4,
+              "d": 0,
+              "l": 3,
+              "gf": 17,
+              "ga": 18
+            },
+            {
+              "rank": 5,
+              "name": "AS Illzach-Modenheim",
+              "pts": 11,
+              "played": 7,
+              "w": 3,
+              "d": 2,
+              "l": 2,
+              "gf": 11,
+              "ga": 9
+            },
+            {
+              "rank": 6,
+              "name": "FC Lunéville",
+              "pts": 11,
+              "played": 7,
+              "w": 3,
+              "d": 2,
+              "l": 2,
+              "gf": 10,
+              "ga": 9
+            },
+            {
+              "rank": 7,
+              "name": "AS Sundhoffen",
+              "pts": 10,
+              "played": 7,
+              "w": 2,
+              "d": 4,
+              "l": 1,
+              "gf": 19,
+              "ga": 15
+            },
+            {
+              "rank": 8,
+              "name": "SR Colmar (B)",
+              "pts": 10,
+              "played": 7,
+              "w": 3,
+              "d": 1,
+              "l": 3,
+              "gf": 10,
+              "ga": 12
+            },
+            {
+              "rank": 9,
+              "name": "ASL Koetzingue",
+              "pts": 9,
+              "played": 7,
+              "w": 3,
+              "d": 0,
+              "l": 4,
+              "gf": 11,
+              "ga": 15
+            },
+            {
+              "rank": 10,
+              "name": "AS Pagny-sur-Moselle",
+              "pts": 8,
+              "played": 7,
+              "w": 2,
+              "d": 2,
+              "l": 3,
+              "gf": 8,
+              "ga": 8
+            },
+            {
+              "rank": 11,
+              "name": "GS Neuves-Maisons",
+              "pts": 7,
+              "played": 7,
+              "w": 2,
+              "d": 1,
+              "l": 4,
+              "gf": 14,
+              "ga": 14
+            },
+            {
+              "rank": 12,
+              "name": "ES Thaon-les-Vosges (B)",
+              "pts": 7,
+              "played": 7,
+              "w": 2,
+              "d": 1,
+              "l": 4,
+              "gf": 12,
+              "ga": 15
+            },
+            {
+              "rank": 13,
+              "name": "ASC Biesheim (B)",
+              "pts": 4,
+              "played": 7,
+              "w": 1,
+              "d": 1,
+              "l": 5,
+              "gf": 5,
+              "ga": 11
+            },
+            {
+              "rank": 14,
+              "name": "Mulhouse FR",
+              "pts": 3,
+              "played": 7,
+              "w": 0,
+              "d": 3,
+              "l": 4,
+              "gf": 5,
+              "ga": 17
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "title": "Ligue Hauts de France de football - Choix des compétitions et saisons",
+      "headers": [
+        "Choisir un championnat",
+        "Hauts de France"
+      ],
+      "candidates": [
+        "championnat.php?id=4131"
+      ],
+      "url": "https://statfootballclubfrance.fr/championnat.php?id=4131",
+      "urlTitle": "Régional 1 Hauts de France 2026-2027 - Classement et résultats",
+      "status": 200,
+      "groups": [
+        {
+          "group": "A",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "SC Hazebrouck",
+              "pts": 13,
+              "played": 6,
+              "w": 4,
+              "d": 1,
+              "l": 1,
+              "gf": 8,
+              "ga": 7
+            },
+            {
+              "rank": 2,
+              "name": "Amiens SC (B)",
+              "pts": 11,
+              "played": 6,
+              "w": 3,
+              "d": 2,
+              "l": 1,
+              "gf": 15,
+              "ga": 11
+            },
+            {
+              "rank": 3,
+              "name": "Soissons IFC",
+              "pts": 10,
+              "played": 6,
+              "w": 2,
+              "d": 4,
+              "l": 0,
+              "gf": 13,
+              "ga": 7
+            },
+            {
+              "rank": 4,
+              "name": "Olympique Grande-Synthe",
+              "pts": 10,
+              "played": 6,
+              "w": 3,
+              "d": 1,
+              "l": 2,
+              "gf": 10,
+              "ga": 6
+            },
+            {
+              "rank": 5,
+              "name": "US Boulogne-sur-Mer (B)",
+              "pts": 10,
+              "played": 6,
+              "w": 3,
+              "d": 1,
+              "l": 2,
+              "gf": 12,
+              "ga": 10
+            },
+            {
+              "rank": 6,
+              "name": "Entente Intancourt-Neuville",
+              "pts": 10,
+              "played": 6,
+              "w": 3,
+              "d": 1,
+              "l": 2,
+              "gf": 11,
+              "ga": 9
+            },
+            {
+              "rank": 7,
+              "name": "AFC Compiègne",
+              "pts": 10,
+              "played": 6,
+              "w": 3,
+              "d": 1,
+              "l": 2,
+              "gf": 9,
+              "ga": 8
+            },
+            {
+              "rank": 8,
+              "name": "FC Bondues",
+              "pts": 9,
+              "played": 6,
+              "w": 2,
+              "d": 3,
+              "l": 1,
+              "gf": 13,
+              "ga": 11
+            },
+            {
+              "rank": 9,
+              "name": "US Gravelines",
+              "pts": 7,
+              "played": 6,
+              "w": 2,
+              "d": 1,
+              "l": 3,
+              "gf": 7,
+              "ga": 7
+            },
+            {
+              "rank": 10,
+              "name": "Stade Béthune FC",
+              "pts": 7,
+              "played": 6,
+              "w": 2,
+              "d": 1,
+              "l": 3,
+              "gf": 7,
+              "ga": 10
+            },
+            {
+              "rank": 11,
+              "name": "FC Chambly Oise (B)",
+              "pts": 5,
+              "played": 6,
+              "w": 1,
+              "d": 2,
+              "l": 3,
+              "gf": 4,
+              "ga": 7
+            },
+            {
+              "rank": 12,
+              "name": "US Maubeuge",
+              "pts": 5,
+              "played": 6,
+              "w": 1,
+              "d": 2,
+              "l": 3,
+              "gf": 4,
+              "ga": 8
+            },
+            {
+              "rank": 13,
+              "name": "Le Touquet AC",
+              "pts": 4,
+              "played": 6,
+              "w": 1,
+              "d": 1,
+              "l": 4,
+              "gf": 5,
+              "ga": 10
+            },
+            {
+              "rank": 14,
+              "name": "Stade Orchies",
+              "pts": 4,
+              "played": 6,
+              "w": 1,
+              "d": 1,
+              "l": 4,
+              "gf": 7,
+              "ga": 14
+            }
+          ]
+        },
+        {
+          "group": "B",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "Olympique Marcquois",
+              "pts": 18,
+              "played": 6,
+              "w": 6,
+              "d": 0,
+              "l": 0,
+              "gf": 17,
+              "ga": 4
+            },
+            {
+              "rank": 2,
+              "name": "RC Calais",
+              "pts": 15,
+              "played": 6,
+              "w": 5,
+              "d": 0,
+              "l": 1,
+              "gf": 19,
+              "ga": 5
+            },
+            {
+              "rank": 3,
+              "name": "Valenciennes FC (B)",
+              "pts": 13,
+              "played": 6,
+              "w": 4,
+              "d": 1,
+              "l": 1,
+              "gf": 18,
+              "ga": 11
+            },
+            {
+              "rank": 4,
+              "name": "US Pays du Valois (B)",
+              "pts": 13,
+              "played": 6,
+              "w": 4,
+              "d": 1,
+              "l": 1,
+              "gf": 8,
+              "ga": 6
+            },
+            {
+              "rank": 5,
+              "name": "ESC Longueau",
+              "pts": 12,
+              "played": 6,
+              "w": 4,
+              "d": 0,
+              "l": 2,
+              "gf": 14,
+              "ga": 9
+            },
+            {
+              "rank": 6,
+              "name": "FC Loon-Plage",
+              "pts": 10,
+              "played": 6,
+              "w": 3,
+              "d": 1,
+              "l": 2,
+              "gf": 11,
+              "ga": 7
+            },
+            {
+              "rank": 7,
+              "name": "USP Saint-Omer",
+              "pts": 7,
+              "played": 6,
+              "w": 2,
+              "d": 1,
+              "l": 3,
+              "gf": 11,
+              "ga": 12
+            },
+            {
+              "rank": 8,
+              "name": "US Camon",
+              "pts": 7,
+              "played": 6,
+              "w": 2,
+              "d": 1,
+              "l": 3,
+              "gf": 9,
+              "ga": 11
+            },
+            {
+              "rank": 9,
+              "name": "USL Dunkerque (B)",
+              "pts": 7,
+              "played": 6,
+              "w": 2,
+              "d": 1,
+              "l": 3,
+              "gf": 9,
+              "ga": 11
+            },
+            {
+              "rank": 10,
+              "name": "Arras FA",
+              "pts": 6,
+              "played": 6,
+              "w": 2,
+              "d": 0,
+              "l": 4,
+              "gf": 8,
+              "ga": 12
+            },
+            {
+              "rank": 11,
+              "name": "US Tourcoing",
+              "pts": 6,
+              "played": 6,
+              "w": 2,
+              "d": 0,
+              "l": 4,
+              "gf": 8,
+              "ga": 14
+            },
+            {
+              "rank": 12,
+              "name": "EFC Feignies-Aulnoye (B)",
+              "pts": 6,
+              "played": 6,
+              "w": 2,
+              "d": 0,
+              "l": 4,
+              "gf": 9,
+              "ga": 17
+            },
+            {
+              "rank": 13,
+              "name": "AC Cambrai",
+              "pts": 3,
+              "played": 6,
+              "w": 1,
+              "d": 0,
+              "l": 5,
+              "gf": 6,
+              "ga": 13
+            },
+            {
+              "rank": 14,
+              "name": "FC Liancourt-Clermont",
+              "pts": 0,
+              "played": 6,
+              "w": 0,
+              "d": 0,
+              "l": 6,
+              "gf": 3,
+              "ga": 18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "title": "Ligue Méditerranée de football - Choix des compétitions et saisons",
+      "headers": [
+        "Choisir un championnat",
+        "Méditerranée"
+      ],
+      "candidates": [
+        "championnat.php?id=4133"
+      ],
+      "url": "https://statfootballclubfrance.fr/championnat.php?id=4133",
+      "urlTitle": "Régional 1 Méditerranée 2026-2027 - Classement et résultats",
+      "status": 200,
+      "groups": [
+        {
+          "group": "A",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "EUGA Ardziv Marseille",
+              "pts": 12,
+              "played": 4,
+              "w": 4,
+              "d": 0,
+              "l": 0,
+              "gf": 17,
+              "ga": 1
+            },
+            {
+              "rank": 2,
+              "name": "Endoume Marseille",
+              "pts": 10,
+              "played": 4,
+              "w": 3,
+              "d": 1,
+              "l": 0,
+              "gf": 10,
+              "ga": 4
+            },
+            {
+              "rank": 3,
+              "name": "AS Cannes (B)",
+              "pts": 9,
+              "played": 4,
+              "w": 3,
+              "d": 0,
+              "l": 1,
+              "gf": 8,
+              "ga": 3
+            },
+            {
+              "rank": 4,
+              "name": "AS Monaco (B)",
+              "pts": 9,
+              "played": 5,
+              "w": 3,
+              "d": 0,
+              "l": 2,
+              "gf": 11,
+              "ga": 7
+            },
+            {
+              "rank": 5,
+              "name": "FC Avignon",
+              "pts": 8,
+              "played": 4,
+              "w": 2,
+              "d": 2,
+              "l": 0,
+              "gf": 9,
+              "ga": 5
+            },
+            {
+              "rank": 6,
+              "name": "EFC Fréjus-Saint-Raphaël (B)",
+              "pts": 8,
+              "played": 5,
+              "w": 2,
+              "d": 2,
+              "l": 1,
+              "gf": 9,
+              "ga": 10
+            },
+            {
+              "rank": 7,
+              "name": "AS Gémenos",
+              "pts": 7,
+              "played": 4,
+              "w": 2,
+              "d": 1,
+              "l": 1,
+              "gf": 5,
+              "ga": 3
+            },
+            {
+              "rank": 8,
+              "name": "USR Pertuis",
+              "pts": 7,
+              "played": 5,
+              "w": 2,
+              "d": 1,
+              "l": 2,
+              "gf": 8,
+              "ga": 8
+            },
+            {
+              "rank": 9,
+              "name": "US Carqueiranne-La Crau",
+              "pts": 7,
+              "played": 4,
+              "w": 2,
+              "d": 1,
+              "l": 1,
+              "gf": 7,
+              "ga": 7
+            },
+            {
+              "rank": 10,
+              "name": "Carnoux FC",
+              "pts": 3,
+              "played": 3,
+              "w": 1,
+              "d": 0,
+              "l": 2,
+              "gf": 4,
+              "ga": 4
+            },
+            {
+              "rank": 11,
+              "name": "Six-Fours-Le Brusc Olympique",
+              "pts": 3,
+              "played": 4,
+              "w": 1,
+              "d": 0,
+              "l": 3,
+              "gf": 3,
+              "ga": 8
+            },
+            {
+              "rank": 12,
+              "name": "AC Le Pontet-Vedène",
+              "pts": 3,
+              "played": 4,
+              "w": 1,
+              "d": 0,
+              "l": 3,
+              "gf": 3,
+              "ga": 10
+            },
+            {
+              "rank": 13,
+              "name": "FCUS Saint-Tropez",
+              "pts": 3,
+              "played": 5,
+              "w": 1,
+              "d": 0,
+              "l": 4,
+              "gf": 3,
+              "ga": 15
+            },
+            {
+              "rank": 14,
+              "name": "AS Cagnes-Le Cros",
+              "pts": 1,
+              "played": 4,
+              "w": 0,
+              "d": 1,
+              "l": 3,
+              "gf": 4,
+              "ga": 8
+            },
+            {
+              "rank": 15,
+              "name": "Luynes Sports",
+              "pts": 1,
+              "played": 5,
+              "w": 0,
+              "d": 1,
+              "l": 4,
+              "gf": 3,
+              "ga": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "title": "Ligue Normandie de football - Choix des compétitions et saisons",
+      "headers": [
+        "Choisir un championnat",
+        "Normandie"
+      ],
+      "candidates": [
+        "championnat.php?id=4134"
+      ],
+      "url": "https://statfootballclubfrance.fr/championnat.php?id=4134",
+      "urlTitle": "Régional 1 Normandie 2026-2027 - Classement et résultats",
+      "status": 200,
+      "groups": [
+        {
+          "group": "A",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "Le Havre AC (B)",
+              "pts": 13,
+              "played": 5,
+              "w": 4,
+              "d": 1,
+              "l": 0,
+              "gf": 13,
+              "ga": 2
+            },
+            {
+              "rank": 2,
+              "name": "US Quevilly RM (B)",
+              "pts": 10,
+              "played": 4,
+              "w": 3,
+              "d": 1,
+              "l": 0,
+              "gf": 9,
+              "ga": 3
+            },
+            {
+              "rank": 3,
+              "name": "FC Rouen (B)",
+              "pts": 9,
+              "played": 4,
+              "w": 3,
+              "d": 0,
+              "l": 1,
+              "gf": 10,
+              "ga": 1
+            },
+            {
+              "rank": 4,
+              "name": "Le Havre Caucriauville",
+              "pts": 9,
+              "played": 5,
+              "w": 3,
+              "d": 0,
+              "l": 2,
+              "gf": 6,
+              "ga": 5
+            },
+            {
+              "rank": 5,
+              "name": "ESM Gonfreville",
+              "pts": 8,
+              "played": 5,
+              "w": 2,
+              "d": 2,
+              "l": 1,
+              "gf": 8,
+              "ga": 3
+            },
+            {
+              "rank": 6,
+              "name": "Bayeux FC",
+              "pts": 7,
+              "played": 4,
+              "w": 2,
+              "d": 1,
+              "l": 1,
+              "gf": 9,
+              "ga": 4
+            },
+            {
+              "rank": 7,
+              "name": "CA Lisieux",
+              "pts": 7,
+              "played": 4,
+              "w": 2,
+              "d": 1,
+              "l": 1,
+              "gf": 7,
+              "ga": 7
+            },
+            {
+              "rank": 8,
+              "name": "Pacy-Ménilles RC",
+              "pts": 5,
+              "played": 4,
+              "w": 1,
+              "d": 2,
+              "l": 1,
+              "gf": 3,
+              "ga": 5
+            },
+            {
+              "rank": 9,
+              "name": "Stade Sotteville CC",
+              "pts": 4,
+              "played": 4,
+              "w": 1,
+              "d": 1,
+              "l": 2,
+              "gf": 8,
+              "ga": 8
+            },
+            {
+              "rank": 10,
+              "name": "AS Tourlaville",
+              "pts": 1,
+              "played": 5,
+              "w": 0,
+              "d": 1,
+              "l": 4,
+              "gf": 4,
+              "ga": 15
+            },
+            {
+              "rank": 11,
+              "name": "Évreux FC 27",
+              "pts": 0,
+              "played": 4,
+              "w": 0,
+              "d": 0,
+              "l": 4,
+              "gf": 1,
+              "ga": 10
+            },
+            {
+              "rank": 12,
+              "name": "FC Serquigny-Nassandres",
+              "pts": 0,
+              "played": 4,
+              "w": 0,
+              "d": 0,
+              "l": 4,
+              "gf": 3,
+              "ga": 18
+            }
+          ]
+        },
+        {
+          "group": "B",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "AG Caennaise",
+              "pts": 12,
+              "played": 4,
+              "w": 4,
+              "d": 0,
+              "l": 0,
+              "gf": 12,
+              "ga": 2
+            },
+            {
+              "rank": 2,
+              "name": "AS Cherbourg",
+              "pts": 12,
+              "played": 5,
+              "w": 4,
+              "d": 0,
+              "l": 1,
+              "gf": 13,
+              "ga": 7
+            },
+            {
+              "rank": 3,
+              "name": "US Avranches (B)",
+              "pts": 9,
+              "played": 3,
+              "w": 3,
+              "d": 0,
+              "l": 0,
+              "gf": 8,
+              "ga": 2
+            },
+            {
+              "rank": 4,
+              "name": "FC Flers",
+              "pts": 9,
+              "played": 5,
+              "w": 3,
+              "d": 0,
+              "l": 2,
+              "gf": 11,
+              "ga": 6
+            },
+            {
+              "rank": 5,
+              "name": "Saint-Marcel Football",
+              "pts": 7,
+              "played": 4,
+              "w": 2,
+              "d": 1,
+              "l": 1,
+              "gf": 7,
+              "ga": 4
+            },
+            {
+              "rank": 6,
+              "name": "Maladrerie OS Caen",
+              "pts": 7,
+              "played": 4,
+              "w": 2,
+              "d": 1,
+              "l": 1,
+              "gf": 3,
+              "ga": 3
+            },
+            {
+              "rank": 7,
+              "name": "SU Dives-Cabourg",
+              "pts": 6,
+              "played": 3,
+              "w": 2,
+              "d": 0,
+              "l": 1,
+              "gf": 9,
+              "ga": 6
+            },
+            {
+              "rank": 8,
+              "name": "FC Neufchâtel-en-Bray",
+              "pts": 6,
+              "played": 5,
+              "w": 2,
+              "d": 0,
+              "l": 3,
+              "gf": 8,
+              "ga": 17
+            },
+            {
+              "rank": 9,
+              "name": "ES Coutances",
+              "pts": 3,
+              "played": 4,
+              "w": 1,
+              "d": 0,
+              "l": 3,
+              "gf": 4,
+              "ga": 7
+            },
+            {
+              "rank": 10,
+              "name": "Grand-Quevilly FC",
+              "pts": 1,
+              "played": 4,
+              "w": 0,
+              "d": 1,
+              "l": 3,
+              "gf": 3,
+              "ga": 7
+            },
+            {
+              "rank": 11,
+              "name": "Jeunesse Fertoise Bagnoles",
+              "pts": 1,
+              "played": 4,
+              "w": 0,
+              "d": 1,
+              "l": 3,
+              "gf": 3,
+              "ga": 9
+            },
+            {
+              "rank": 12,
+              "name": "US Granville (B)",
+              "pts": 0,
+              "played": 5,
+              "w": 0,
+              "d": 0,
+              "l": 5,
+              "gf": 2,
+              "ga": 13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 15,
+      "title": "Ligue Nouvelle Aquitaine de football - Choix des compétitions et saisons",
+      "headers": [
+        "Choisir un championnat",
+        "Nouvelle Aquitaine"
+      ],
+      "candidates": [
+        "championnat.php?id=4138"
+      ],
+      "url": "https://statfootballclubfrance.fr/championnat.php?id=4138",
+      "urlTitle": "Régional 1 Nouvelle Aquitaine 2026-2027 - Classement et résultats",
+      "status": 200,
+      "groups": [
+        {
+          "group": "A",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "Stade Bordelais",
+              "pts": 15,
+              "played": 5,
+              "w": 5,
+              "d": 0,
+              "l": 0,
+              "gf": 9,
+              "ga": 1
+            },
+            {
+              "rank": 2,
+              "name": "ES Buxerolles",
+              "pts": 10,
+              "played": 5,
+              "w": 3,
+              "d": 1,
+              "l": 1,
+              "gf": 13,
+              "ga": 4
+            },
+            {
+              "rank": 3,
+              "name": "Limoges Football",
+              "pts": 10,
+              "played": 5,
+              "w": 3,
+              "d": 1,
+              "l": 1,
+              "gf": 11,
+              "ga": 6
+            },
+            {
+              "rank": 4,
+              "name": "FC Périgny",
+              "pts": 10,
+              "played": 5,
+              "w": 3,
+              "d": 1,
+              "l": 1,
+              "gf": 8,
+              "ga": 5
+            },
+            {
+              "rank": 5,
+              "name": "FC Bressuire",
+              "pts": 9,
+              "played": 4,
+              "w": 3,
+              "d": 0,
+              "l": 1,
+              "gf": 11,
+              "ga": 5
+            },
+            {
+              "rank": 6,
+              "name": "FC Chauray (B)",
+              "pts": 8,
+              "played": 4,
+              "w": 2,
+              "d": 2,
+              "l": 0,
+              "gf": 9,
+              "ga": 5
+            },
+            {
+              "rank": 7,
+              "name": "Angoulême CFC (B)",
+              "pts": 8,
+              "played": 5,
+              "w": 2,
+              "d": 2,
+              "l": 1,
+              "gf": 6,
+              "ga": 4
+            },
+            {
+              "rank": 8,
+              "name": "CS Feytiat",
+              "pts": 6,
+              "played": 5,
+              "w": 2,
+              "d": 0,
+              "l": 3,
+              "gf": 8,
+              "ga": 9
+            },
+            {
+              "rank": 9,
+              "name": "FC Saint-André-de-Cubzac",
+              "pts": 5,
+              "played": 5,
+              "w": 1,
+              "d": 2,
+              "l": 2,
+              "gf": 8,
+              "ga": 10
+            },
+            {
+              "rank": 10,
+              "name": "Thouars Foot 79",
+              "pts": 4,
+              "played": 5,
+              "w": 1,
+              "d": 1,
+              "l": 3,
+              "gf": 5,
+              "ga": 9
+            },
+            {
+              "rank": 11,
+              "name": "FC Nueillaubiers",
+              "pts": 3,
+              "played": 4,
+              "w": 1,
+              "d": 0,
+              "l": 3,
+              "gf": 2,
+              "ga": 9
+            },
+            {
+              "rank": 12,
+              "name": "SO Châtellerault",
+              "pts": 3,
+              "played": 5,
+              "w": 0,
+              "d": 3,
+              "l": 2,
+              "gf": 2,
+              "ga": 12
+            },
+            {
+              "rank": 13,
+              "name": "ESA Brive",
+              "pts": 1,
+              "played": 5,
+              "w": 0,
+              "d": 1,
+              "l": 4,
+              "gf": 1,
+              "ga": 7
+            },
+            {
+              "rank": 14,
+              "name": "RC Parthenay-Viennay",
+              "pts": 0,
+              "played": 4,
+              "w": 0,
+              "d": 0,
+              "l": 4,
+              "gf": 6,
+              "ga": 13
+            }
+          ]
+        },
+        {
+          "group": "B",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "Saint-Paul Sport",
+              "pts": 11,
+              "played": 5,
+              "w": 3,
+              "d": 2,
+              "l": 0,
+              "gf": 6,
+              "ga": 2
+            },
+            {
+              "rank": 2,
+              "name": "Croisés Bayonne",
+              "pts": 10,
+              "played": 5,
+              "w": 3,
+              "d": 1,
+              "l": 1,
+              "gf": 8,
+              "ga": 6
+            },
+            {
+              "rank": 3,
+              "name": "Entente Boé-Bon-Encontre",
+              "pts": 9,
+              "played": 5,
+              "w": 3,
+              "d": 0,
+              "l": 2,
+              "gf": 11,
+              "ga": 6
+            },
+            {
+              "rank": 4,
+              "name": "SA Mérignac",
+              "pts": 9,
+              "played": 4,
+              "w": 3,
+              "d": 0,
+              "l": 1,
+              "gf": 7,
+              "ga": 3
+            },
+            {
+              "rank": 5,
+              "name": "FC Marmande",
+              "pts": 7,
+              "played": 5,
+              "w": 2,
+              "d": 1,
+              "l": 2,
+              "gf": 8,
+              "ga": 7
+            },
+            {
+              "rank": 6,
+              "name": "Stade Montois",
+              "pts": 7,
+              "played": 4,
+              "w": 2,
+              "d": 1,
+              "l": 1,
+              "gf": 7,
+              "ga": 6
+            },
+            {
+              "rank": 7,
+              "name": "AS Mazères-Uzos-Rontignon",
+              "pts": 7,
+              "played": 5,
+              "w": 2,
+              "d": 1,
+              "l": 2,
+              "gf": 6,
+              "ga": 7
+            },
+            {
+              "rank": 8,
+              "name": "US Bouscat",
+              "pts": 7,
+              "played": 5,
+              "w": 2,
+              "d": 1,
+              "l": 2,
+              "gf": 5,
+              "ga": 9
+            },
+            {
+              "rank": 9,
+              "name": "FC Saint-Médard-en-Jalles",
+              "pts": 5,
+              "played": 4,
+              "w": 1,
+              "d": 2,
+              "l": 1,
+              "gf": 4,
+              "ga": 4
+            },
+            {
+              "rank": 10,
+              "name": "Aviron Bayonne (B)",
+              "pts": 4,
+              "played": 5,
+              "w": 1,
+              "d": 1,
+              "l": 3,
+              "gf": 8,
+              "ga": 9
+            },
+            {
+              "rank": 11,
+              "name": "Jeunesse Villenavaise",
+              "pts": 4,
+              "played": 5,
+              "w": 1,
+              "d": 1,
+              "l": 3,
+              "gf": 3,
+              "ga": 6
+            },
+            {
+              "rank": 12,
+              "name": "Girondins Bordeaux",
+              "pts": 3,
+              "played": 1,
+              "w": 1,
+              "d": 0,
+              "l": 0,
+              "gf": 2,
+              "ga": 0
+            },
+            {
+              "rank": 13,
+              "name": "ES Boulazac",
+              "pts": 2,
+              "played": 5,
+              "w": 0,
+              "d": 2,
+              "l": 3,
+              "gf": 5,
+              "ga": 8
+            },
+            {
+              "rank": 14,
+              "name": "Sud Corrèze FC",
+              "pts": 1,
+              "played": 4,
+              "w": 0,
+              "d": 1,
+              "l": 3,
+              "gf": 2,
+              "ga": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 16,
+      "title": "Ligue Occitanie de football - Choix des compétitions et saisons",
+      "headers": [
+        "Choisir un championnat",
+        "Occitanie"
+      ],
+      "candidates": [
+        "championnat.php?id=4140"
+      ],
+      "url": "https://statfootballclubfrance.fr/championnat.php?id=4140",
+      "urlTitle": "Régional 1 Occitanie 2026-2027 - Classement et résultats",
+      "status": 200,
+      "groups": [
+        {
+          "group": "A",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "RCO Agde",
+              "pts": 12,
+              "played": 4,
+              "w": 4,
+              "d": 0,
+              "l": 0,
+              "gf": 12,
+              "ga": 1
+            },
+            {
+              "rank": 2,
+              "name": "ES Le Grau-du-Roi",
+              "pts": 10,
+              "played": 4,
+              "w": 3,
+              "d": 1,
+              "l": 0,
+              "gf": 6,
+              "ga": 2
+            },
+            {
+              "rank": 3,
+              "name": "La Clermontaise Football",
+              "pts": 7,
+              "played": 3,
+              "w": 2,
+              "d": 1,
+              "l": 0,
+              "gf": 10,
+              "ga": 4
+            },
+            {
+              "rank": 4,
+              "name": "USS Aigues-Mortes",
+              "pts": 7,
+              "played": 3,
+              "w": 2,
+              "d": 1,
+              "l": 0,
+              "gf": 8,
+              "ga": 2
+            },
+            {
+              "rank": 5,
+              "name": "AS Frontignan AC",
+              "pts": 7,
+              "played": 4,
+              "w": 2,
+              "d": 1,
+              "l": 1,
+              "gf": 5,
+              "ga": 6
+            },
+            {
+              "rank": 6,
+              "name": "Entente Saint-Clément-Montferrier",
+              "pts": 6,
+              "played": 4,
+              "w": 2,
+              "d": 0,
+              "l": 2,
+              "gf": 6,
+              "ga": 5
+            },
+            {
+              "rank": 7,
+              "name": "JS Cugnaux",
+              "pts": 5,
+              "played": 4,
+              "w": 1,
+              "d": 2,
+              "l": 1,
+              "gf": 3,
+              "ga": 4
+            },
+            {
+              "rank": 8,
+              "name": "Nîmes Olympique (B)",
+              "pts": 4,
+              "played": 3,
+              "w": 1,
+              "d": 1,
+              "l": 1,
+              "gf": 5,
+              "ga": 4
+            },
+            {
+              "rank": 9,
+              "name": "FC Vauvert",
+              "pts": 4,
+              "played": 4,
+              "w": 1,
+              "d": 1,
+              "l": 2,
+              "gf": 4,
+              "ga": 8
+            },
+            {
+              "rank": 10,
+              "name": "GC Lunel",
+              "pts": 3,
+              "played": 3,
+              "w": 1,
+              "d": 0,
+              "l": 2,
+              "gf": 5,
+              "ga": 3
+            },
+            {
+              "rank": 11,
+              "name": "AS Rousson",
+              "pts": 3,
+              "played": 4,
+              "w": 1,
+              "d": 0,
+              "l": 3,
+              "gf": 2,
+              "ga": 6
+            },
+            {
+              "rank": 12,
+              "name": "AS Béziers",
+              "pts": 2,
+              "played": 4,
+              "w": 0,
+              "d": 2,
+              "l": 2,
+              "gf": 2,
+              "ga": 5
+            },
+            {
+              "rank": 13,
+              "name": "SC Sète",
+              "pts": 2,
+              "played": 4,
+              "w": 0,
+              "d": 2,
+              "l": 2,
+              "gf": 3,
+              "ga": 7
+            },
+            {
+              "rank": 14,
+              "name": "US Revel",
+              "pts": 0,
+              "played": 4,
+              "w": 0,
+              "d": 0,
+              "l": 4,
+              "gf": 0,
+              "ga": 14
+            }
+          ]
+        },
+        {
+          "group": "B",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "FC 2 Rives 82",
+              "pts": 9,
+              "played": 4,
+              "w": 3,
+              "d": 0,
+              "l": 1,
+              "gf": 13,
+              "ga": 2
+            },
+            {
+              "rank": 2,
+              "name": "L'Union-Saint-Jean FC",
+              "pts": 9,
+              "played": 4,
+              "w": 3,
+              "d": 0,
+              "l": 1,
+              "gf": 7,
+              "ga": 1
+            },
+            {
+              "rank": 3,
+              "name": "FU Narbonne",
+              "pts": 9,
+              "played": 4,
+              "w": 3,
+              "d": 0,
+              "l": 1,
+              "gf": 6,
+              "ga": 3
+            },
+            {
+              "rank": 4,
+              "name": "FC Albères Argelès",
+              "pts": 8,
+              "played": 4,
+              "w": 2,
+              "d": 2,
+              "l": 0,
+              "gf": 5,
+              "ga": 3
+            },
+            {
+              "rank": 5,
+              "name": "Albi-Marssac Tarn FA",
+              "pts": 7,
+              "played": 4,
+              "w": 2,
+              "d": 1,
+              "l": 1,
+              "gf": 7,
+              "ga": 3
+            },
+            {
+              "rank": 6,
+              "name": "Lavaur FC",
+              "pts": 7,
+              "played": 4,
+              "w": 2,
+              "d": 1,
+              "l": 1,
+              "gf": 5,
+              "ga": 4
+            },
+            {
+              "rank": 7,
+              "name": "AF Biars-Bretenoux",
+              "pts": 7,
+              "played": 4,
+              "w": 2,
+              "d": 1,
+              "l": 1,
+              "gf": 5,
+              "ga": 5
+            },
+            {
+              "rank": 8,
+              "name": "US Castanet (B)",
+              "pts": 6,
+              "played": 4,
+              "w": 2,
+              "d": 0,
+              "l": 2,
+              "gf": 3,
+              "ga": 4
+            },
+            {
+              "rank": 9,
+              "name": "Montauban FC",
+              "pts": 4,
+              "played": 4,
+              "w": 1,
+              "d": 1,
+              "l": 2,
+              "gf": 5,
+              "ga": 6
+            },
+            {
+              "rank": 10,
+              "name": "AS Muret",
+              "pts": 4,
+              "played": 3,
+              "w": 1,
+              "d": 1,
+              "l": 1,
+              "gf": 2,
+              "ga": 3
+            },
+            {
+              "rank": 11,
+              "name": "Balma SC",
+              "pts": 3,
+              "played": 4,
+              "w": 1,
+              "d": 0,
+              "l": 3,
+              "gf": 4,
+              "ga": 6
+            },
+            {
+              "rank": 12,
+              "name": "Auch Football",
+              "pts": 3,
+              "played": 4,
+              "w": 0,
+              "d": 3,
+              "l": 1,
+              "gf": 3,
+              "ga": 5
+            },
+            {
+              "rank": 13,
+              "name": "FC Lourdes",
+              "pts": 0,
+              "played": 3,
+              "w": 0,
+              "d": 0,
+              "l": 3,
+              "gf": 2,
+              "ga": 9
+            },
+            {
+              "rank": 14,
+              "name": "Avenir Fonsorbais",
+              "pts": 0,
+              "played": 4,
+              "w": 0,
+              "d": 0,
+              "l": 4,
+              "gf": 2,
+              "ga": 15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 17,
+      "title": "Ligue Paris-Île-de-France de Football - Choix des compétitions et saisons",
+      "headers": [
+        "Choisir un championnat",
+        "Paris-Île-de-France"
+      ],
+      "candidates": [
+        "championnat.php?id=4142"
+      ],
+      "url": "https://statfootballclubfrance.fr/championnat.php?id=4142",
+      "urlTitle": "Régional 1 Paris-Île-de-France 2026-2027 - Classement et résultats",
+      "status": 200,
+      "groups": [
+        {
+          "group": "A",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "Mitry Compans Goelly",
+              "pts": 9,
+              "played": 4,
+              "w": 3,
+              "d": 0,
+              "l": 1,
+              "gf": 6,
+              "ga": 3
+            },
+            {
+              "rank": 2,
+              "name": "CO Les Ulis",
+              "pts": 8,
+              "played": 4,
+              "w": 2,
+              "d": 2,
+              "l": 0,
+              "gf": 7,
+              "ga": 4
+            },
+            {
+              "rank": 3,
+              "name": "Le Mée SF",
+              "pts": 7,
+              "played": 3,
+              "w": 2,
+              "d": 1,
+              "l": 0,
+              "gf": 7,
+              "ga": 3
+            },
+            {
+              "rank": 4,
+              "name": "Saint-Brice FC",
+              "pts": 6,
+              "played": 3,
+              "w": 2,
+              "d": 0,
+              "l": 1,
+              "gf": 5,
+              "ga": 2
+            },
+            {
+              "rank": 5,
+              "name": "FC Mantois 78",
+              "pts": 4,
+              "played": 4,
+              "w": 1,
+              "d": 1,
+              "l": 2,
+              "gf": 4,
+              "ga": 4
+            },
+            {
+              "rank": 6,
+              "name": "Montreuil FC",
+              "pts": 4,
+              "played": 3,
+              "w": 1,
+              "d": 1,
+              "l": 1,
+              "gf": 3,
+              "ga": 3
+            },
+            {
+              "rank": 7,
+              "name": "FC Saint-Leu 95",
+              "pts": 4,
+              "played": 4,
+              "w": 1,
+              "d": 1,
+              "l": 2,
+              "gf": 5,
+              "ga": 6
+            },
+            {
+              "rank": 8,
+              "name": "Paris 13 Atlético (B)",
+              "pts": 4,
+              "played": 4,
+              "w": 1,
+              "d": 1,
+              "l": 2,
+              "gf": 3,
+              "ga": 5
+            },
+            {
+              "rank": 9,
+              "name": "OFC Les Mureaux",
+              "pts": 3,
+              "played": 3,
+              "w": 0,
+              "d": 3,
+              "l": 0,
+              "gf": 2,
+              "ga": 2
+            },
+            {
+              "rank": 10,
+              "name": "Montrouge FC 92",
+              "pts": 3,
+              "played": 3,
+              "w": 1,
+              "d": 0,
+              "l": 2,
+              "gf": 6,
+              "ga": 9
+            },
+            {
+              "rank": 11,
+              "name": "FC93 Bobigny BG",
+              "pts": 3,
+              "played": 3,
+              "w": 1,
+              "d": 0,
+              "l": 2,
+              "gf": 2,
+              "ga": 5
+            },
+            {
+              "rank": 12,
+              "name": "Espérance Aulnaysienne",
+              "pts": 2,
+              "played": 4,
+              "w": 0,
+              "d": 2,
+              "l": 2,
+              "gf": 1,
+              "ga": 5
+            }
+          ]
+        },
+        {
+          "group": "B",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "Courbevoie SF",
+              "pts": 8,
+              "played": 4,
+              "w": 2,
+              "d": 2,
+              "l": 0,
+              "gf": 8,
+              "ga": 4
+            },
+            {
+              "rank": 2,
+              "name": "Saint-Denis United FC",
+              "pts": 7,
+              "played": 4,
+              "w": 2,
+              "d": 1,
+              "l": 1,
+              "gf": 8,
+              "ga": 6
+            },
+            {
+              "rank": 3,
+              "name": "FC Melun",
+              "pts": 7,
+              "played": 4,
+              "w": 2,
+              "d": 1,
+              "l": 1,
+              "gf": 5,
+              "ga": 4
+            },
+            {
+              "rank": 4,
+              "name": "FC Fleury 91 (B)",
+              "pts": 6,
+              "played": 3,
+              "w": 2,
+              "d": 0,
+              "l": 1,
+              "gf": 8,
+              "ga": 4
+            },
+            {
+              "rank": 5,
+              "name": "US Créteil Football (B)",
+              "pts": 6,
+              "played": 4,
+              "w": 1,
+              "d": 3,
+              "l": 0,
+              "gf": 6,
+              "ga": 5
+            },
+            {
+              "rank": 6,
+              "name": "CSL Aulnay-sous-Bois",
+              "pts": 5,
+              "played": 4,
+              "w": 1,
+              "d": 2,
+              "l": 1,
+              "gf": 8,
+              "ga": 7
+            },
+            {
+              "rank": 7,
+              "name": "Claye-Souilly Sportif",
+              "pts": 5,
+              "played": 4,
+              "w": 1,
+              "d": 2,
+              "l": 1,
+              "gf": 4,
+              "ga": 4
+            },
+            {
+              "rank": 8,
+              "name": "US Villejuif",
+              "pts": 5,
+              "played": 4,
+              "w": 1,
+              "d": 2,
+              "l": 1,
+              "gf": 3,
+              "ga": 4
+            },
+            {
+              "rank": 9,
+              "name": "Élan Chevilly-Larue",
+              "pts": 4,
+              "played": 4,
+              "w": 1,
+              "d": 1,
+              "l": 2,
+              "gf": 4,
+              "ga": 4
+            },
+            {
+              "rank": 10,
+              "name": "Entente Sannois-Saint-Gratien",
+              "pts": 4,
+              "played": 4,
+              "w": 1,
+              "d": 1,
+              "l": 2,
+              "gf": 6,
+              "ga": 9
+            },
+            {
+              "rank": 11,
+              "name": "AS Chatou",
+              "pts": 3,
+              "played": 4,
+              "w": 0,
+              "d": 3,
+              "l": 1,
+              "gf": 3,
+              "ga": 7
+            },
+            {
+              "rank": 12,
+              "name": "Houilles AC",
+              "pts": 0,
+              "played": 3,
+              "w": 0,
+              "d": 0,
+              "l": 3,
+              "gf": 4,
+              "ga": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 18,
+      "title": "Ligue Pays de Loire de football - Choix des compétitions et saisons",
+      "headers": [
+        "Choisir un championnat",
+        "Pays de Loire"
+      ],
+      "candidates": [
+        "championnat.php?id=4144"
+      ],
+      "url": "https://statfootballclubfrance.fr/championnat.php?id=4144",
+      "urlTitle": "Régional 1 Pays de Loire 2026-2027 - Classement et résultats",
+      "status": 200,
+      "groups": [
+        {
+          "group": "A",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "Le Poiré-sur-Vie VF (B)",
+              "pts": 9,
+              "played": 3,
+              "w": 3,
+              "d": 0,
+              "l": 0,
+              "gf": 11,
+              "ga": 0
+            },
+            {
+              "rank": 2,
+              "name": "Ancienne Château-Gontier",
+              "pts": 6,
+              "played": 3,
+              "w": 2,
+              "d": 0,
+              "l": 1,
+              "gf": 7,
+              "ga": 3
+            },
+            {
+              "rank": 3,
+              "name": "Saint-Sébastien-sur-Loire FC",
+              "pts": 6,
+              "played": 3,
+              "w": 2,
+              "d": 0,
+              "l": 1,
+              "gf": 6,
+              "ga": 7
+            },
+            {
+              "rank": 4,
+              "name": "VFC La Roche-sur-Yon (B)",
+              "pts": 5,
+              "played": 3,
+              "w": 1,
+              "d": 2,
+              "l": 0,
+              "gf": 6,
+              "ga": 3
+            },
+            {
+              "rank": 5,
+              "name": "SO Cholet",
+              "pts": 4,
+              "played": 3,
+              "w": 1,
+              "d": 1,
+              "l": 1,
+              "gf": 6,
+              "ga": 5
+            },
+            {
+              "rank": 6,
+              "name": "Saint-Nazaire AF",
+              "pts": 4,
+              "played": 3,
+              "w": 1,
+              "d": 1,
+              "l": 1,
+              "gf": 3,
+              "ga": 3
+            },
+            {
+              "rank": 7,
+              "name": "ES Montilliers",
+              "pts": 4,
+              "played": 3,
+              "w": 1,
+              "d": 1,
+              "l": 1,
+              "gf": 3,
+              "ga": 5
+            },
+            {
+              "rank": 8,
+              "name": "Voltigeurs Châteaubriant (B)",
+              "pts": 4,
+              "played": 3,
+              "w": 1,
+              "d": 1,
+              "l": 1,
+              "gf": 2,
+              "ga": 5
+            },
+            {
+              "rank": 9,
+              "name": "Mareuil-sur-Lay SC",
+              "pts": 2,
+              "played": 3,
+              "w": 0,
+              "d": 2,
+              "l": 1,
+              "gf": 1,
+              "ga": 3
+            },
+            {
+              "rank": 10,
+              "name": "US La Baule-Le Pouliguen",
+              "pts": 2,
+              "played": 3,
+              "w": 0,
+              "d": 2,
+              "l": 1,
+              "gf": 3,
+              "ga": 7
+            },
+            {
+              "rank": 11,
+              "name": "US Changé",
+              "pts": 1,
+              "played": 3,
+              "w": 0,
+              "d": 1,
+              "l": 2,
+              "gf": 3,
+              "ga": 5
+            },
+            {
+              "rank": 12,
+              "name": "ESOF La Roche-sur-Yon",
+              "pts": 1,
+              "played": 3,
+              "w": 0,
+              "d": 1,
+              "l": 2,
+              "gf": 1,
+              "ga": 6
+            }
+          ]
+        },
+        {
+          "group": "B",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "SC Beaucouzé",
+              "pts": 9,
+              "played": 3,
+              "w": 3,
+              "d": 0,
+              "l": 0,
+              "gf": 8,
+              "ga": 2
+            },
+            {
+              "rank": 2,
+              "name": "USSA Vertou (B)",
+              "pts": 6,
+              "played": 3,
+              "w": 2,
+              "d": 0,
+              "l": 1,
+              "gf": 8,
+              "ga": 3
+            },
+            {
+              "rank": 3,
+              "name": "Orvault SF",
+              "pts": 6,
+              "played": 3,
+              "w": 2,
+              "d": 0,
+              "l": 1,
+              "gf": 5,
+              "ga": 2
+            },
+            {
+              "rank": 4,
+              "name": "FC Saint-Julien Divatte",
+              "pts": 6,
+              "played": 3,
+              "w": 2,
+              "d": 0,
+              "l": 1,
+              "gf": 3,
+              "ga": 2
+            },
+            {
+              "rank": 5,
+              "name": "Pouzauges BFC",
+              "pts": 4,
+              "played": 3,
+              "w": 1,
+              "d": 1,
+              "l": 1,
+              "gf": 7,
+              "ga": 3
+            },
+            {
+              "rank": 6,
+              "name": "AS Le Mans Villaret",
+              "pts": 4,
+              "played": 3,
+              "w": 1,
+              "d": 1,
+              "l": 1,
+              "gf": 7,
+              "ga": 5
+            },
+            {
+              "rank": 7,
+              "name": "ES Segré Haut-Anjou",
+              "pts": 4,
+              "played": 3,
+              "w": 1,
+              "d": 1,
+              "l": 1,
+              "gf": 4,
+              "ga": 6
+            },
+            {
+              "rank": 8,
+              "name": "France d'Aizenay",
+              "pts": 4,
+              "played": 3,
+              "w": 1,
+              "d": 1,
+              "l": 1,
+              "gf": 2,
+              "ga": 4
+            },
+            {
+              "rank": 9,
+              "name": "Mouilleron SF",
+              "pts": 3,
+              "played": 3,
+              "w": 1,
+              "d": 0,
+              "l": 2,
+              "gf": 3,
+              "ga": 3
+            },
+            {
+              "rank": 10,
+              "name": "Les Herbiers VF (B)",
+              "pts": 3,
+              "played": 3,
+              "w": 1,
+              "d": 0,
+              "l": 2,
+              "gf": 4,
+              "ga": 5
+            },
+            {
+              "rank": 11,
+              "name": "JS Coulaines",
+              "pts": 3,
+              "played": 3,
+              "w": 1,
+              "d": 0,
+              "l": 2,
+              "gf": 4,
+              "ga": 10
+            },
+            {
+              "rank": 12,
+              "name": "La Suze-Roëzé FC",
+              "pts": 0,
+              "played": 3,
+              "w": 0,
+              "d": 0,
+              "l": 3,
+              "gf": 1,
+              "ga": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 19,
+      "title": "Championnats régionaux français de football - Choix des compétitions et saisons",
+      "headers": [
+        "Choisir un championnat"
+      ],
+      "candidates": []
+    },
+    {
+      "index": 20,
+      "title": "Championnats régionaux français de football - Choix des compétitions et saisons",
+      "headers": [
+        "Choisir un championnat"
+      ],
+      "candidates": []
+    },
+    {
+      "index": 21,
+      "title": "Championnats régionaux français de football - Choix des compétitions et saisons",
+      "headers": [
+        "Choisir un championnat"
+      ],
+      "candidates": []
+    },
+    {
+      "index": 22,
+      "title": "Championnats régionaux français de football - Choix des compétitions et saisons",
+      "headers": [
+        "Choisir un championnat"
+      ],
+      "candidates": []
+    },
+    {
+      "index": 23,
+      "title": "Championnats régionaux français de football - Choix des compétitions et saisons",
+      "headers": [
+        "Choisir un championnat"
+      ],
+      "candidates": []
+    },
+    {
+      "index": 24,
+      "title": "Championnats régionaux français de football - Choix des compétitions et saisons",
+      "headers": [
+        "Choisir un championnat"
+      ],
+      "candidates": []
+    },
+    {
+      "index": 25,
+      "title": "Championnats régionaux français de football - Choix des compétitions et saisons",
+      "headers": [
+        "Choisir un championnat"
+      ],
+      "candidates": []
+    },
+    {
+      "index": 26,
+      "title": "Championnats régionaux français de football - Choix des compétitions et saisons",
+      "headers": [
+        "Choisir un championnat"
+      ],
+      "candidates": []
+    },
+    {
+      "index": 27,
+      "title": "Championnats régionaux français de football - Choix des compétitions et saisons",
+      "headers": [
+        "Choisir un championnat"
+      ],
+      "candidates": []
+    },
+    {
+      "index": 28,
+      "title": "Championnats régionaux français de football - Choix des compétitions et saisons",
+      "headers": [
+        "Choisir un championnat"
+      ],
+      "candidates": []
+    },
+    {
+      "index": 29,
+      "title": "Championnats régionaux français de football - Choix des compétitions et saisons",
+      "headers": [
+        "Choisir un championnat"
+      ],
+      "candidates": []
+    }
+  ],
+  "summary": {
+    "regions": 13,
+    "groups": 24,
+    "positions": 317
+  }
+}
