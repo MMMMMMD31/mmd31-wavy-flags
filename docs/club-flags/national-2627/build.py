@@ -113,9 +113,104 @@ def footy_logo(t):
  except Exception:pass
  return None,None
 
+# Local 2026/27 league directory includes many amateur badges not found on Wikipedia.
+FM_INDEX={}
+try:
+ page=S.get("https://www.footmercato.net/france/national-2/club",timeout=20).text
+ soup=BeautifulSoup(page,"html.parser")
+ for a in soup.find_all("a",href=True):
+  target=a["href"]
+  if "/club/" not in target:continue
+  label=a.get_text(" ",strip=True)
+  if not label or len(label)>75:continue
+  FM_INDEX[slug(label)]=urljoin("https://www.footmercato.net",target)
+except Exception as ex:print("FootMercato catalog warning",repr(ex))
+FM_NAME={
+ "APM Metz":"apm-metz","AS La Châtaigneraie":"la-chataigneraie",
+ "AS Saint-Brieuc Ginglin-Cesson":"ginglin-cesson",
+ "AS Saint-Ouen-l'Aumône":"saint-ouen-l-aumone",
+ "AS Steenvoorde":"steenvoorde","AS Trouville Deauville":"trouville-deauville",
+ "AS Vitré":"vitre","ASM Belfort":"belfort",
+ "ASPTT Caen Football":"caen-ptt","ASPTT Dijon":"asptt-dijon",
+ "Avoine Olympique Chinon Cinais":"avoine-occ",
+ "Blagnac FC":"blagnac","Blois Foot 41":"blois",
+ "C'Chartres Football":"c-chartres",
+ "CA Pontarlier":"pontarlier","CMS Oissel":"oissel",
+ "ES Fosséenne":"fos","ES Le Cannet Rocheville":"es-le-cannet-rocheville",
+ "ES Thaon":"thaon","ESA Linas-Montlhéry":"linas-montlhery",
+ "FC Balagne":"fa-ile-rousse-monticello",
+ "FC Bourgoin-Jallieu":"bourgoin-jallieu",
+ "FC Challans":"challans","FC Chalon":"fc-chalon-sur-saone",
+ "FC Chamalières":"chamalieres",
+ "FC Espaly":"espaly-saint-marcel",
+ "FC Mérignac Arlac":"merignac-arlac",
+ "FC Rousset SVO":"rousset-ste-victoire",
+ "FC Saint-Jean-le-Blanc":"saint-jean-le-blanc",
+ "FC Saint-Lô Manche":"saint-lo-manche",
+ "FC Sochaux-Montbéliard II":"sochaux-ii",
+ "FC Vesoul":"vesoul",
+ "FCM Aubervilliers":"aubervilliers",
+ "FCS Brétigny":"bretigny-foot",
+ "Gallia Lucciana":"gallia-lucciana",
+ "IC Croix":"iris-club-de-croix",
+ "Is-Selongey Foot":"selongey",
+ "JA Drancy":"drancy","Jura Dolois Football":"jura-dolois",
+ "Lannion FC":"lannion",
+ "Les Genêts d'Anglet":"les-genets-d-anglet",
+ "Les Sables Vendée Football":"les-sables",
+ "Montpellier Atlas Paillade":"atlas-paillade",
+ "OC Cesson":"cesson","Olympique Alès":"olympique-ales",
+ "Olympique Charleville Prix-les-Mézières":"ocpam",
+ "Olympique Saint-Quentin":"olympique-saint-quentin",
+ "Onet-le-Château Foot":"onet-le-chateau",
+ "Racing Besançon":"racing-besancon",
+ "Riviera FC":"riviera","SAG Cestas":"sag-cestas",
+ "Saint-Amand FC":"saint-amand",
+ "Saint-Pierre Milizac":"saint-pierre-milizac",
+ "Sainte-Geneviève FC":"sainte-genevieve",
+ "SC Berre":"berre","SFC Neuilly-sur-Marne":"neuilly-sur-marne",
+ "Sologne Olympique Romorantin":"romorantin",
+ "Stade Beaucairois":"beaucaire",
+ "Stade Lavallois II":"laval-ii","TA Rennes":"ta-rennes",
+ "Thonon Évian Grand Genève FC":"thonon-evian",
+ "Torcy PVM US":"torcy",
+ "Trélissac FC":"trelissac",
+ "UF Mâcon 71":"uf-macon",
+ "Union Foot de Touraine":"uf-touraine",
+ "US Castanet":"castanet","US Colomiers":"colomiers",
+ "US Feurs":"feurs","US Ivry":"ivry",
+ "US Lège-Cap-Ferret":"lege-cap-ferret",
+ "US Mandelieu-la-Napoule":"mandelieu-ln",
+ "US Pays du Valois":"us-pays-du-valois",
+ "US Saint-Philbert-de-Grand-Lieu":"st-philbert-gd-lieu",
+ "USC Corte":"corte","USSA Vertou":"vertou","Vierzon FC":"vierzon-fc"
+}
+def footmercato_logo(t):
+ try:
+  target=FM_NAME.get(t["name"],slug(t["name"]))
+  url=FM_INDEX.get(target)
+  if not url: return None,None
+  webpage=S.get(url,timeout=8)
+  if webpage.status_code!=200:return None,None
+  soup=BeautifulSoup(webpage.text,"html.parser")
+  for img in soup.find_all("img"):
+   alt=(img.get("alt") or "").lower()
+   if not alt.startswith("logo "):continue
+   if any(x in alt for x in ["national 2","national 1"]):continue
+   src=img.get("src") or img.get("data-src")
+   if not src:continue
+   src=("https:"+src) if src.startswith("//") else urljoin(url,src)
+   if "assets" not in src and "imgfoot" not in src:continue
+   im=retrieve(src)
+   if im is not None and im.width>20:return im,src
+ except Exception:return None,None
+ return None,None
 def find_logo(t):
  found,src=footy_logo(t)
  if found is not None:return found,src
+ found,src=footmercato_logo(t)
+ if found is not None:return found,src
+ if t["name"]=="US Colomiers":return None,None
  names=ALIASES.get(t["name"],[])
  names=[t["name"]]+names
  if t["name"].endswith(" II"):names.append(t["name"][:-3])
