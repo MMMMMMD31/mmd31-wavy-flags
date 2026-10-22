@@ -1,0 +1,400 @@
+{
+  "initial": 46,
+  "added": 24,
+  "missing": 22,
+  "results": [
+    {
+      "team": "APM Metz",
+      "division": "N2",
+      "slug": "apm-metz",
+      "status": "MISSING",
+      "source": null,
+      "candidates": []
+    },
+    {
+      "team": "AS Saint-Brieuc Ginglin-Cesson",
+      "division": "N2",
+      "slug": "as-saint-brieuc-ginglin-cesson",
+      "status": "ADDED",
+      "source": "https://media.letelegramme.fr/api/v1/images/view/687f83bd22f9a8f6230f2672/keep_ratio/687f83bd22f9a8f6230f2672.1",
+      "provider": "curated_external",
+      "matched": "AS Saint-Brieuc Ginglin-Cesson"
+    },
+    {
+      "team": "AS Saint-Ouen-l'Aumône",
+      "division": "N2",
+      "slug": "as-saint-ouen-l-aumone",
+      "status": "ADDED",
+      "source": "https://assets.football-logos.cc/logos/france/700x700/as-saint-ouen-l-aumone.f0ef3bf4.png",
+      "provider": "football-logos.cc",
+      "matched": "AS Saint-Ouen-l'Aumône"
+    },
+    {
+      "team": "AS Steenvoorde",
+      "division": "N2",
+      "slug": "as-steenvoorde",
+      "status": "ADDED",
+      "source": "https://www.europlan-online.de/files/ff324fe214ddc522518eaa60d6fc3221.png",
+      "provider": "curated_external",
+      "matched": "AS Steenvoorde"
+    },
+    {
+      "team": "ASPTT Caen Football",
+      "division": "N2",
+      "slug": "asptt-caen-football",
+      "status": "ADDED",
+      "source": "https://assets.football-logos.cc/logos/france/700x700/asptt-caen-football.4a9bd248.png",
+      "provider": "football-logos.cc",
+      "matched": "ASPTT Caen Football"
+    },
+    {
+      "team": "ASPTT Dijon",
+      "division": "N2",
+      "slug": "asptt-dijon",
+      "status": "MISSING",
+      "source": null,
+      "candidates": []
+    },
+    {
+      "team": "Blois Foot 41",
+      "division": "N2",
+      "slug": "blois-foot-41",
+      "status": "MISSING",
+      "source": null,
+      "candidates": []
+    },
+    {
+      "team": "C'Chartres Football",
+      "division": "N2",
+      "slug": "c-chartres-football",
+      "status": "ADDED",
+      "source": "https://assets.football-logos.cc/logos/france/700x700/c-chartres-football.c4805e50.png",
+      "provider": "football-logos.cc",
+      "matched": "C'Chartres Football"
+    },
+    {
+      "team": "CA Pontarlier",
+      "division": "N2",
+      "slug": "ca-pontarlier",
+      "status": "ADDED",
+      "source": "https://assets.football-logos.cc/logos/france/700x700/ca-pontarlier.a90f2cdf.png",
+      "provider": "football-logos.cc",
+      "matched": "CA Pontarlier"
+    },
+    {
+      "team": "ES Fosséenne",
+      "division": "N2",
+      "slug": "es-fosseenne",
+      "status": "MISSING",
+      "source": null,
+      "candidates": []
+    },
+    {
+      "team": "ES Le Cannet Rocheville",
+      "division": "N2",
+      "slug": "es-le-cannet-rocheville",
+      "status": "ADDED",
+      "source": "https://assets.football-logos.cc/logos/france/700x700/es-le-cannet-rocheville.fd622382.png",
+      "provider": "football-logos.cc",
+      "matched": "ES Le Cannet-Rocheville"
+    },
+    {
+      "team": "ESA Linas-Montlhéry",
+      "division": "N2",
+      "slug": "esa-linas-montlhery",
+      "status": "MISSING",
+      "source": null,
+      "candidates": []
+    },
+    {
+      "team": "FC Balagne",
+      "division": "N2",
+      "slug": "fc-balagne",
+      "status": "ADDED",
+      "source": "https://assets.football-logos.cc/logos/france/700x700/fc-balagne.75dbc79f.png",
+      "provider": "football-logos.cc",
+      "matched": "FC Balagne"
+    },
+    {
+      "team": "FC Bourgoin-Jallieu",
+      "division": "N2",
+      "slug": "fc-bourgoin-jallieu",
+      "status": "ADDED",
+      "source": "https://assets.football-logos.cc/logos/france/700x700/fc-bourgoin-jallieu.37b90931.png",
+      "provider": "football-logos.cc",
+      "matched": "FC Bourgoin-Jallieu"
+    },
+    {
+      "team": "FC Chalon",
+      "division": "N2",
+      "slug": "fc-chalon",
+      "status": "ADDED",
+      "source": "https://assets.football-logos.cc/logos/france/700x700/fc-chalon.5eb66136.png",
+      "provider": "football-logos.cc",
+      "matched": "FC Chalon"
+    },
+    {
+      "team": "FC Espaly",
+      "division": "N2",
+      "slug": "fc-espaly",
+      "status": "MISSING",
+      "source": null,
+      "candidates": []
+    },
+    {
+      "team": "FC Rousset SVO",
+      "division": "N2",
+      "slug": "fc-rousset-svo",
+      "status": "MISSING",
+      "source": null,
+      "candidates": []
+    },
+    {
+      "team": "FC Saint-Lô Manche",
+      "division": "N2",
+      "slug": "fc-saint-lo-manche",
+      "status": "ADDED",
+      "source": "https://assets.football-logos.cc/logos/france/700x700/fc-saint-lo-manche.bc378106.png",
+      "provider": "football-logos.cc",
+      "matched": "FC Saint-Lô Manche"
+    },
+    {
+      "team": "FC Vesoul",
+      "division": "N2",
+      "slug": "fc-vesoul",
+      "status": "MISSING",
+      "source": null,
+      "candidates": []
+    },
+    {
+      "team": "FCM Aubervilliers",
+      "division": "N2",
+      "slug": "fcm-aubervilliers",
+      "status": "ADDED",
+      "source": "https://assets.football-logos.cc/logos/france/700x700/fcm-aubervilliers.5a90e827.png",
+      "provider": "football-logos.cc",
+      "matched": "FCM Aubervilliers"
+    },
+    {
+      "team": "IC Croix",
+      "division": "N2",
+      "slug": "ic-croix",
+      "status": "MISSING",
+      "source": null,
+      "candidates": []
+    },
+    {
+      "team": "Is-Selongey Foot",
+      "division": "N2",
+      "slug": "is-selongey-foot",
+      "status": "MISSING",
+      "source": null,
+      "candidates": []
+    },
+    {
+      "team": "JA Drancy",
+      "division": "N2",
+      "slug": "ja-drancy",
+      "status": "ADDED",
+      "source": "https://assets.football-logos.cc/logos/france/700x700/ja-drancy.8d7b2822.png",
+      "provider": "football-logos.cc",
+      "matched": "JA Drancy"
+    },
+    {
+      "team": "Jura Dolois Football",
+      "division": "N2",
+      "slug": "jura-dolois-football",
+      "status": "ADDED",
+      "source": "https://assets.football-logos.cc/logos/france/700x700/jura-dolois-football.dcba162d.png",
+      "provider": "football-logos.cc",
+      "matched": "Jura Dolois Football"
+    },
+    {
+      "team": "Montpellier Atlas Paillade",
+      "division": "N2",
+      "slug": "montpellier-atlas-paillade",
+      "status": "MISSING",
+      "source": null,
+      "candidates": []
+    },
+    {
+      "team": "OC Cesson",
+      "division": "N2",
+      "slug": "oc-cesson",
+      "status": "MISSING",
+      "source": null,
+      "candidates": []
+    },
+    {
+      "team": "Olympique Alès",
+      "division": "N2",
+      "slug": "olympique-ales",
+      "status": "ADDED",
+      "source": "https://assets.football-logos.cc/logos/france/700x700/olympique-ales-cevennes.e188f71f.png",
+      "provider": "football-logos.cc",
+      "matched": "Olympique Alès Cévennes"
+    },
+    {
+      "team": "Olympique Charleville Prix-les-Mézières",
+      "division": "N2",
+      "slug": "olympique-charleville-prix-les-mezieres",
+      "status": "MISSING",
+      "source": null,
+      "candidates": []
+    },
+    {
+      "team": "Racing Besançon",
+      "division": "N2",
+      "slug": "racing-besancon",
+      "status": "ADDED",
+      "source": "https://assets.football-logos.cc/logos/france/700x700/racing-besancon.b2dc2aa9.png",
+      "provider": "football-logos.cc",
+      "matched": "Racing Besançon"
+    },
+    {
+      "team": "Riviera FC",
+      "division": "N2",
+      "slug": "riviera-fc",
+      "status": "ADDED",
+      "source": "https://assets.football-logos.cc/logos/france/700x700/riviera-fc.673dbb91.png",
+      "provider": "football-logos.cc",
+      "matched": "Riviera FC"
+    },
+    {
+      "team": "Saint-Amand FC",
+      "division": "N2",
+      "slug": "saint-amand-fc",
+      "status": "MISSING",
+      "source": null,
+      "candidates": []
+    },
+    {
+      "team": "Sainte-Geneviève FC",
+      "division": "N2",
+      "slug": "sainte-genevieve-fc",
+      "status": "ADDED",
+      "source": "https://assets.football-logos.cc/logos/france/700x700/sainte-genevieve-fc.408fe740.png",
+      "provider": "football-logos.cc",
+      "matched": "Sainte-Geneviève FC"
+    },
+    {
+      "team": "SC Berre",
+      "division": "N2",
+      "slug": "sc-berre",
+      "status": "MISSING",
+      "source": null,
+      "candidates": []
+    },
+    {
+      "team": "SFC Neuilly-sur-Marne",
+      "division": "N2",
+      "slug": "sfc-neuilly-sur-marne",
+      "status": "MISSING",
+      "source": null,
+      "candidates": []
+    },
+    {
+      "team": "Sologne Olympique Romorantin",
+      "division": "N2",
+      "slug": "sologne-olympique-romorantin",
+      "status": "MISSING",
+      "source": null,
+      "candidates": []
+    },
+    {
+      "team": "Stade Beaucairois",
+      "division": "N2",
+      "slug": "stade-beaucairois",
+      "status": "MISSING",
+      "source": null,
+      "candidates": []
+    },
+    {
+      "team": "TA Rennes",
+      "division": "N2",
+      "slug": "ta-rennes",
+      "status": "ADDED",
+      "source": "https://assets.football-logos.cc/logos/france/700x700/ta-rennes.92edaa1e.png",
+      "provider": "football-logos.cc",
+      "matched": "TA Rennes"
+    },
+    {
+      "team": "Thonon Évian Grand Genève FC",
+      "division": "N2",
+      "slug": "thonon-evian-grand-geneve-fc",
+      "status": "ADDED",
+      "source": "https://assets.football-logos.cc/logos/france/700x700/thonon-evian-grand-geneve-fc.954a6938.png",
+      "provider": "football-logos.cc",
+      "matched": "Thonon Évian Grand Genève FC"
+    },
+    {
+      "team": "Torcy PVM US",
+      "division": "N2",
+      "slug": "torcy-pvm-us",
+      "status": "MISSING",
+      "source": null,
+      "candidates": []
+    },
+    {
+      "team": "UF Mâcon 71",
+      "division": "N2",
+      "slug": "uf-macon-71",
+      "status": "MISSING",
+      "source": null,
+      "candidates": []
+    },
+    {
+      "team": "Union Foot de Touraine",
+      "division": "N2",
+      "slug": "union-foot-de-touraine",
+      "status": "ADDED",
+      "source": "https://assets.football-logos.cc/logos/france/700x700/uf-touraine.ecc6a0e1.png",
+      "provider": "football-logos.cc",
+      "matched": "UF Touraine"
+    },
+    {
+      "team": "US Feurs",
+      "division": "N2",
+      "slug": "us-feurs",
+      "status": "MISSING",
+      "source": null,
+      "candidates": []
+    },
+    {
+      "team": "US Mandelieu-la-Napoule",
+      "division": "N2",
+      "slug": "us-mandelieu-la-napoule",
+      "status": "MISSING",
+      "source": null,
+      "candidates": []
+    },
+    {
+      "team": "US Pays du Valois",
+      "division": "N1",
+      "slug": "us-pays-du-valois",
+      "status": "ADDED",
+      "source": "https://assets.football-logos.cc/logos/france/700x700/uslpv.674c4190.png",
+      "provider": "football-logos.cc",
+      "matched": "Union Sportive du Pays du Valois"
+    },
+    {
+      "team": "USC Corte",
+      "division": "N2",
+      "slug": "usc-corte",
+      "status": "ADDED",
+      "source": "https://assets.football-logos.cc/logos/france/700x700/usc-corte.5e32eeea.png",
+      "provider": "football-logos.cc",
+      "matched": "USC Corte"
+    },
+    {
+      "team": "Vierzon FC",
+      "division": "N2",
+      "slug": "vierzon-fc",
+      "status": "ADDED",
+      "source": "https://assets.football-logos.cc/logos/france/700x700/vierzon-fc.2070970e.png",
+      "provider": "football-logos.cc",
+      "matched": "Vierzon FC"
+    }
+  ],
+  "catalogue_count": 327
+}
