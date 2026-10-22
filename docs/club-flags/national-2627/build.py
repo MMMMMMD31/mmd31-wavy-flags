@@ -297,5 +297,17 @@ for div in ("n1","n2"):
    if p.stem not in valid:p.unlink()
 report={"requested":len(ROSTER),"generated":sum(x["status"]=="WIKIPEDIA_INFOBOX" for x in results),
         "results":sorted(results,key=lambda x:x.get("slug","")),"fm_debug":FM_DEBUG}
+# Diagnostic only: never silently pick a similar-name club for a crest.
+from difflib import get_close_matches
+report["unmatched_footmercato_catalogue"]={}
+for item in results:
+ if item.get("source"):continue
+ team=next((t for t in ROSTER if t["slug"]==item.get("slug")),None)
+ if not team:continue
+ target=FM_NAME.get(team["name"],team["slug"])
+ picks=get_close_matches(target, list(FM_INDEX),n=5,cutoff=0.58)
+ report["unmatched_footmercato_catalogue"][team["name"]]=[
+  {"name":pick,"url":FM_INDEX[pick],"ratio":round(SequenceMatcher(None,target,pick).ratio(),3)}
+  for pick in picks]
 (BASE/"crest-audit.json").write_text(json.dumps(report,ensure_ascii=False,indent=2),encoding="utf8")
 print("generated",report["generated"],"missing",len(ROSTER)-report["generated"])
