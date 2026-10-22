@@ -289,6 +289,12 @@ with concurrent.futures.ThreadPoolExecutor(max_workers=14) as exe:
  for f in concurrent.futures.as_completed([exe.submit(render,t) for t in ROSTER]):
   try:results.append(f.result())
   except Exception as e:results.append({"status":"ERROR","error":str(e)})
+# Remove old wrong-source assets no longer verified after source-quality checks.
+valid={x["slug"] for x in results if x.get("status")=="WIKIPEDIA_INFOBOX"}
+for div in ("n1","n2"):
+ for kind in ("standard","victory"):
+  for p in (BASE/div/kind).glob("*.png"):
+   if p.stem not in valid:p.unlink()
 report={"requested":len(ROSTER),"generated":sum(x["status"]=="WIKIPEDIA_INFOBOX" for x in results),
         "results":sorted(results,key=lambda x:x.get("slug","")),"fm_debug":FM_DEBUG}
 (BASE/"crest-audit.json").write_text(json.dumps(report,ensure_ascii=False,indent=2),encoding="utf8")
