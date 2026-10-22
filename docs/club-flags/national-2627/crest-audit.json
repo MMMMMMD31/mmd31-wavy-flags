@@ -1,6 +1,6 @@
 {
   "requested": 160,
-  "generated": 84,
+  "generated": 83,
   "results": [
     {
       "team": "AF Virois",
@@ -333,10 +333,8 @@
       "team": "FC Bassin d'Arcachon",
       "division": "N2",
       "slug": "fc-bassin-d-arcachon",
-      "status": "WIKIPEDIA_INFOBOX",
-      "source": "https://upload.wikimedia.org/wikipedia/en/e/ea/FC_Bassin_d%27Arcachon.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
-      "standard_sha256": "3aa3958a1cd9a98f3859266c6e0663f2bc69db247ef555a0f1df0f7d99182130",
-      "victory_sha256": "569b112a70f551954807ad84b0f17e4f2c962b5a3d332d0f6b2cc6a700d89d73"
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
     },
     {
       "team": "FC Borgo",
@@ -1290,5 +1288,32 @@
       "standard_sha256": "40454687928b7ee830a6468f559e78736ba7bd20f1dee6e50d53ebf07b0ecc9c",
       "victory_sha256": "231abc6fcc84ff7517c37d4558112394b25fd665b64c36f5dd4ed35a6a24ccbd"
     }
-  ]
+  ],
+  "fm_debug": {
+    "status": 200,
+    "bytes": 226955,
+    "count": 112,
+    "first": [
+      [
+        "alencon",
+        "https://www.footmercato.net/club/us-alenconnaise-61/"
+      ],
+      [
+        "annecy-ii",
+        "https://www.footmercato.net/club/annecy-ii/"
+      ],
+      [
+        "apm-metz",
+        "https://www.footmercato.net/club/apm-metz/"
+      ],
+      [
+        "asptt-dijon",
+        "https://www.footmercato.net/club/asptt-dijon/"
+      ],
+      [
+        "atlas-paillade",
+        "https://www.footmercato.net/club/atlas-paillade/"
+      ]
+    ]
+  }
 }
