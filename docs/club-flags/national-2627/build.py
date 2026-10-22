@@ -102,6 +102,7 @@ def footy_logo(t):
    "Vannes OC":"vannes-olympique-club"
   }
   if t["name"] in synonyms:opts.insert(0,synonyms[t["name"]])
+  if t["name"]=="FC Sochaux-Montbéliard II":opts.insert(0,"fc-sochaux")
   scores=sorted(
      [(max(SequenceMatcher(None,o,cand).ratio() for o in opts),cand) for cand in FOOTY_LOGOS],reverse=True)
   if not scores or scores[0][0]<0.83:return None,None
@@ -204,6 +205,9 @@ def footmercato_logo(t):
    alt=(img.get("alt") or "").lower()
    if not alt.startswith("logo "):continue
    if any(x in alt for x in ["national 2","national 1"]):continue
+   # A page also shows its opponent logos: never use an unrelated club crest.
+   alt_slug=slug(alt[5:])
+   if SequenceMatcher(None,alt_slug,target).ratio()<0.76:continue
    src=img.get("data-src") or img.get("src")
    if not src:continue
    src=("https:"+src) if src.startswith("//") else urljoin(url,src)
