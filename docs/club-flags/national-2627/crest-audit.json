@@ -1,6 +1,6 @@
 {
   "requested": 160,
-  "generated": 105,
+  "generated": 110,
   "results": [
     {
       "team": "AF Virois",
@@ -58,8 +58,10 @@
       "team": "AS La Châtaigneraie",
       "division": "N2",
       "slug": "as-la-chataigneraie",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://assets-fr.imgfoot.com/media/cache/150x150/la-chataigneraie-vendee.png",
+      "standard_sha256": "73937101d8d0a556f72896176873efbc39d01648ef34bfaf717639b4324fb0c1",
+      "victory_sha256": "470d951aa24516d0859111c79f3adcc58ed6b22065b955da437edd9666c45a49"
     },
     {
       "team": "AS Nancy Lorraine II",
@@ -149,8 +151,10 @@
       "team": "ASM Belfort",
       "division": "N2",
       "slug": "asm-belfort",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://assets-fr.imgfoot.com/media/cache/150x150/club/belfort.png",
+      "standard_sha256": "6302319da298c03ddc7b61c465ff3e67bd6ae0a8300ca08ac73b62dfee645a9d",
+      "victory_sha256": "a5b5df790bf8903d2f4108522c755755e2eefd20b3ee9eaf30cc8dcc570ee2f3"
     },
     {
       "team": "ASPTT Caen Football",
@@ -497,10 +501,8 @@
       "team": "FC Saint-Jean-le-Blanc",
       "division": "N2",
       "slug": "fc-saint-jean-le-blanc",
-      "status": "WIKIPEDIA_INFOBOX",
-      "source": "https://thumb.wikimedia.org/wikipedia/en/thumb/1/1c/FC_Saint-Jean-le-Blanc_logo.png/250px-FC_Saint-Jean-le-Blanc_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "standard_sha256": "d715be048668dcd4f3ce5a13a92c61558ab9eabce0ccf85b83f68e267cb8ee0e",
-      "victory_sha256": "4de8d3b4593d205972e9fcc5327e4c707e6c4d09284590e98d2a06b8cb9d8ffb"
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
     },
     {
       "team": "FC Saint-Lô Manche",
@@ -813,8 +815,10 @@
       "team": "Olympique Saint-Quentin",
       "division": "N2",
       "slug": "olympique-saint-quentin",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://assets-fr.imgfoot.com/media/cache/150x150/club/olympique-saint-quentin.png",
+      "standard_sha256": "e3189b79d177274da28e545273f08e59b25c6b686a80a4a78dabb3ffb5ce59d3",
+      "victory_sha256": "45d073f9c8ea90f3b249d55c4472e0e7cfa310a53e406e84c83e4743cebe326b"
     },
     {
       "team": "Olympique Saumur FC",
@@ -1056,8 +1060,10 @@
       "team": "Stade Lavallois II",
       "division": "N2",
       "slug": "stade-lavallois-ii",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://assets-fr.imgfoot.com/media/cache/150x150/club/laval.png",
+      "standard_sha256": "e9c156c376f3a7bc9fc09aaa964ec6db550ae21ec7ab8e64175ecb2793793063",
+      "victory_sha256": "0193c025a398af9a83f9d841c9643acade21484cf4bfe49cb5db042051dfdf30"
     },
     {
       "team": "Stade Rennais II",
@@ -1214,9 +1220,9 @@
       "division": "N2",
       "slug": "us-ivry",
       "status": "WIKIPEDIA_INFOBOX",
-      "source": "https://thumb.wikimedia.org/wikipedia/en/thumb/e/e3/US_Ivry_logo.png/250px-US_Ivry_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "standard_sha256": "da7f6a833c9624849018193a552e24c32231edac89ada7f9978733d9c4eca3ad",
-      "victory_sha256": "0aff6fda4e7d08b1ee26f6c7dc485a2d267c66f99a54441ba96b6b3ec08cc8ce"
+      "source": "https://assets-fr.imgfoot.com/media/cache/150x150/club/ivry.png",
+      "standard_sha256": "8b85500037e837df3e38cdf12622eddfc1867dac3312ea5ebd327beda027b53a",
+      "victory_sha256": "22b5bbfa0c5dc622b31701365d5e9b8f29055169efedd4395af84d1b6af4837e"
     },
     {
       "team": "US Lège-Cap-Ferret",
@@ -1272,8 +1278,10 @@
       "team": "US Saint-Philbert-de-Grand-Lieu",
       "division": "N2",
       "slug": "us-saint-philbert-de-grand-lieu",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://assets-fr.imgfoot.com/media/cache/150x150/st-philbert-de-grand-lieu.png",
+      "standard_sha256": "ea70028b980cebe8e8ce25ffe4254adc230c0ee534371f73a7e33314386fa910",
+      "victory_sha256": "ddb9ab1693d2cbc54d921d3a77b11c61d01916a1e303798173943ff44c6c8bf6"
     },
     {
       "team": "US Vimy",
@@ -1295,8 +1303,10 @@
       "team": "USSA Vertou",
       "division": "N2",
       "slug": "ussa-vertou",
-      "status": "NO_AUTHENTIC_CRESt",
-      "source": null
+      "status": "WIKIPEDIA_INFOBOX",
+      "source": "https://assets-fr.imgfoot.com/media/cache/150x150/club/vertou.png",
+      "standard_sha256": "f931bd9e5c10749fe403ff50af380e5d095ab40a4191d4b5e120803a48337331",
+      "victory_sha256": "947448f398f28ad4d08f2e8ff7347882b1b99a9b3e5b6e464bd146c0427957a7"
     },
     {
       "team": "Vannes OC",
