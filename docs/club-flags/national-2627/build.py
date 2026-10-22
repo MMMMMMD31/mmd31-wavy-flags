@@ -66,7 +66,56 @@ def retrieve(url):
   return Image.open(io.BytesIO(resp.content)).convert("RGBA")
  except Exception:return None
 
+# FootyLogos lists official National 1 2026/27 identities; exact matched only.
+from difflib import SequenceMatcher
+FOOTY_LOGOS={}
+try:
+ for location in ("https://www.footylogos.com/competition/national-1","https://www.footylogos.com/country/france"):
+  html=S.get(location,timeout=17).text
+  soup=BeautifulSoup(html,"html.parser")
+  for a in soup.find_all("a",href=True):
+   href=a["href"].split("?")[0]
+   if "/logos/" not in href:continue
+   candidate=href.split("/logos/")[-1].strip("/")
+   if candidate and candidate!="logos":
+    FOOTY_LOGOS[candidate]=urljoin("https://www.footylogos.com",href)
+except Exception as ex:
+ print("logo catalog warning",repr(ex))
+def footy_logo(t):
+ try:
+  opts=[slug(t["name"])]
+  if t["name"].endswith(" II"):
+   opts.extend([slug(t["name"][:-3]),slug(t["name"][:-3])+"-2"])
+  opts.extend(slug(a) for a in ALIASES.get(t["name"],[]))
+  synonyms={
+   "SA Épinal":"sas-epinal",
+   "SC Toulon":"sporting-club-toulon",
+   "US Pays du Valois":"union-sportive-du-pays-du-valois",
+   "Le Poiré-sur-Vie VF":"vendee-poire-sur-vie-football",
+   "FC Lorient II":"fc-lorient-2",
+   "ESTAC Troyes II":"estac-troyes-2",
+   "Entente Feignies Aulnoye":"entente-feignies-aulnoye-fc",
+   "Étoile Fréjus Saint-Raphaël":"etoile-fc-frejus-saint-raphael",
+   "GFA Rumilly-Vallières":"gfa-rumilly-vallieres",
+   "Lyon La Duchère":"lyon-la-duchere",
+   "Stade Lavallois II":"laval-stade-lavallois",
+   "Vannes OC":"vannes-olympique-club"
+  }
+  if t["name"] in synonyms:opts.insert(0,synonyms[t["name"]])
+  scores=sorted(
+     [(max(SequenceMatcher(None,o,cand).ratio() for o in opts),cand) for cand in FOOTY_LOGOS],reverse=True)
+  if not scores or scores[0][0]<0.83:return None,None
+  similarity,key=scores[0]
+  source="https://www.footylogos.com/dls/logo/"+key+".png"
+  img=retrieve(source)
+  if img and img.width>30 and img.height>30:
+   return img,source
+ except Exception:pass
+ return None,None
+
 def find_logo(t):
+ found,src=footy_logo(t)
+ if found is not None:return found,src
  names=ALIASES.get(t["name"],[])
  names=[t["name"]]+names
  if t["name"].endswith(" II"):names.append(t["name"][:-3])
@@ -82,7 +131,7 @@ def find_logo(t):
      imgs=soup.select(selector)
      for el in imgs[:2]:
       alt=(el.get("alt") or "").lower()
-      if any(x in alt for x in ["stade","carte","photo","supporters","localisation","ground","stadium","football player"]):continue
+      if any(x in (alt+" "+loc if "loc" in locals() else alt) for x in ["stade","carte","photo","supporters","localisation","ground","stadium","football player","rugby"]):continue
       loc=el.get("src")
       if not loc:continue
       loc="https:"+loc if loc.startswith("//") else urljoin(uri,loc)
