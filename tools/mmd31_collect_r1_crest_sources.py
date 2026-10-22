@@ -150,7 +150,10 @@ def main():
     BASE.mkdir(parents=True,exist_ok=True);OUT.mkdir(parents=True,exist_ok=True)
     tasks=[]
     for league in LEAGUES:
-        try:tasks.extend(groups_for(league))
+        try:
+            found=groups_for(league)
+            print("LEAGUE",league,"GROUPS",len(found),flush=True)
+            tasks.extend(found)
         except Exception as exc:print("GROUP_LIST_ERROR",league,exc,flush=True)
     print("GROUPS",len(tasks),flush=True)
     # Strictly do not process wrong season or missing groups.
