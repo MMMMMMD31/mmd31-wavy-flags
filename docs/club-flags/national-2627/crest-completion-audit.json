@@ -1,15 +1,16 @@
 {
   "initial": 46,
-  "added": 24,
-  "missing": 22,
+  "added": 45,
+  "missing": 1,
   "results": [
     {
       "team": "APM Metz",
       "division": "N2",
       "slug": "apm-metz",
-      "status": "MISSING",
-      "source": null,
-      "candidates": []
+      "status": "ADDED",
+      "source": "https://s3.pub2.infomaniak.cloud/object/v1/AUTH_7caca171fcb14ede88bd14eb36f90e50/sportcorico-media/logos/logo-metz-apm-fc-511473.jpg",
+      "provider": "verified-club-page",
+      "matched": "https://www.sportcorico.com/clubs/am-du-personnel-municipal-metz-fc"
     },
     {
       "team": "AS Saint-Brieuc Ginglin-Cesson",
@@ -51,17 +52,19 @@
       "team": "ASPTT Dijon",
       "division": "N2",
       "slug": "asptt-dijon",
-      "status": "MISSING",
-      "source": null,
-      "candidates": []
+      "status": "ADDED",
+      "source": "https://www.fcsochaux.fr/upload/team_thumbnail/61e96b249ec80457990111.png",
+      "provider": "curated_external",
+      "matched": "ASPTT Dijon"
     },
     {
       "team": "Blois Foot 41",
       "division": "N2",
       "slug": "blois-foot-41",
-      "status": "MISSING",
-      "source": null,
-      "candidates": []
+      "status": "ADDED",
+      "source": "https://images.seeklogo.com/logo-png/63/1/blois-football-41-logo-png_seeklogo-632055.png",
+      "provider": "curated_external",
+      "matched": "Blois Foot 41"
     },
     {
       "team": "C'Chartres Football",
@@ -85,9 +88,10 @@
       "team": "ES Fosséenne",
       "division": "N2",
       "slug": "es-fosseenne",
-      "status": "MISSING",
-      "source": null,
-      "candidates": []
+      "status": "ADDED",
+      "source": "https://d1e67q5w736kt2.cloudfront.net/france/clubs/es-fosseenne.jpg",
+      "provider": "curated_external",
+      "matched": "ES Fosséenne"
     },
     {
       "team": "ES Le Cannet Rocheville",
@@ -102,9 +106,10 @@
       "team": "ESA Linas-Montlhéry",
       "division": "N2",
       "slug": "esa-linas-montlhery",
-      "status": "MISSING",
-      "source": null,
-      "candidates": []
+      "status": "ADDED",
+      "source": "https://www.europlan-online.de/files/b3db7211bead9080bfe39d4394f8ad2f.png",
+      "provider": "curated_external",
+      "matched": "ESA Linas-Montlhéry"
     },
     {
       "team": "FC Balagne",
@@ -137,17 +142,19 @@
       "team": "FC Espaly",
       "division": "N2",
       "slug": "fc-espaly",
-      "status": "MISSING",
-      "source": null,
-      "candidates": []
+      "status": "ADDED",
+      "source": "https://images.seeklogo.com/logo-png/67/1/football-club-espaly-logo-png_seeklogo-675565.png",
+      "provider": "curated_external",
+      "matched": "FC Espaly"
     },
     {
       "team": "FC Rousset SVO",
       "division": "N2",
       "slug": "fc-rousset-svo",
-      "status": "MISSING",
-      "source": null,
-      "candidates": []
+      "status": "ADDED",
+      "source": "https://www.liguesdefoot.fr/images/logo_du_club_de_football_fc-rousset-ste-vict_de_rousset.png",
+      "provider": "curated_external",
+      "matched": "FC Rousset SVO"
     },
     {
       "team": "FC Saint-Lô Manche",
@@ -162,9 +169,10 @@
       "team": "FC Vesoul",
       "division": "N2",
       "slug": "fc-vesoul",
-      "status": "MISSING",
-      "source": null,
-      "candidates": []
+      "status": "ADDED",
+      "source": "https://cdn.helloasso.com/img/logos/fc%20vesoul-6e18383c8c8048d2afb9a1a9018a023a.jpg",
+      "provider": "curated_external",
+      "matched": "FC Vesoul"
     },
     {
       "team": "FCM Aubervilliers",
@@ -179,17 +187,19 @@
       "team": "IC Croix",
       "division": "N2",
       "slug": "ic-croix",
-      "status": "MISSING",
-      "source": null,
-      "candidates": []
+      "status": "ADDED",
+      "source": "https://images.seeklogo.com/logo-png/61/1/iris-club-de-croix-logo-png_seeklogo-616640.png",
+      "provider": "curated_external",
+      "matched": "IC Croix"
     },
     {
       "team": "Is-Selongey Foot",
       "division": "N2",
       "slug": "is-selongey-foot",
-      "status": "MISSING",
-      "source": null,
-      "candidates": []
+      "status": "ADDED",
+      "source": "https://www.europlan-online.de/files/97b0dfffe64eee203dfe5c205a865cc5.png",
+      "provider": "curated_external",
+      "matched": "Is-Selongey Foot"
     },
     {
       "team": "JA Drancy",
@@ -213,17 +223,19 @@
       "team": "Montpellier Atlas Paillade",
       "division": "N2",
       "slug": "montpellier-atlas-paillade",
-      "status": "MISSING",
-      "source": null,
-      "candidates": []
+      "status": "ADDED",
+      "source": "https://www.liguesdefoot.fr/images/logo_du_club_de_football_mont-atlas-paillade_de_montpellier.png",
+      "provider": "curated_external",
+      "matched": "Montpellier Atlas Paillade"
     },
     {
       "team": "OC Cesson",
       "division": "N2",
       "slug": "oc-cesson",
-      "status": "MISSING",
-      "source": null,
-      "candidates": []
+      "status": "ADDED",
+      "source": "https://media.letelegramme.fr/api/v1/images/view/687f83c0884401ad430f5e78/keep_ratio/687f83c0884401ad430f5e78.1",
+      "provider": "curated_external",
+      "matched": "OC Cesson"
     },
     {
       "team": "Olympique Alès",
@@ -238,9 +250,10 @@
       "team": "Olympique Charleville Prix-les-Mézières",
       "division": "N2",
       "slug": "olympique-charleville-prix-les-mezieres",
-      "status": "MISSING",
-      "source": null,
-      "candidates": []
+      "status": "ADDED",
+      "source": "https://d1e67q5w736kt2.cloudfront.net/france/clubs/olympique-charleville-prix-ardenne-metropole.jpg",
+      "provider": "curated_external",
+      "matched": "Olympique Charleville Prix-les-Mézières"
     },
     {
       "team": "Racing Besançon",
@@ -264,9 +277,10 @@
       "team": "Saint-Amand FC",
       "division": "N2",
       "slug": "saint-amand-fc",
-      "status": "MISSING",
-      "source": null,
-      "candidates": []
+      "status": "ADDED",
+      "source": "https://r2.thesportsdb.com/images/media/team/badge/uu3bm31763261283.png",
+      "provider": "curated_external",
+      "matched": "Saint-Amand FC"
     },
     {
       "team": "Sainte-Geneviève FC",
@@ -289,25 +303,28 @@
       "team": "SFC Neuilly-sur-Marne",
       "division": "N2",
       "slug": "sfc-neuilly-sur-marne",
-      "status": "MISSING",
-      "source": null,
-      "candidates": []
+      "status": "ADDED",
+      "source": "https://www.europlan-online.de/files/2f172445aed578db01f6b584e1ca5285a.png",
+      "provider": "curated_external",
+      "matched": "SFC Neuilly-sur-Marne"
     },
     {
       "team": "Sologne Olympique Romorantin",
       "division": "N2",
       "slug": "sologne-olympique-romorantin",
-      "status": "MISSING",
-      "source": null,
-      "candidates": []
+      "status": "ADDED",
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_SF_Romorantin_2026.svg",
+      "provider": "curated_external",
+      "matched": "Sologne Olympique Romorantin"
     },
     {
       "team": "Stade Beaucairois",
       "division": "N2",
       "slug": "stade-beaucairois",
-      "status": "MISSING",
-      "source": null,
-      "candidates": []
+      "status": "ADDED",
+      "source": "https://www.ogol.com.br/img/logos/equipas/13173_imgbank_1763647995.png",
+      "provider": "curated_external",
+      "matched": "Stade Beaucairois"
     },
     {
       "team": "TA Rennes",
@@ -331,17 +348,19 @@
       "team": "Torcy PVM US",
       "division": "N2",
       "slug": "torcy-pvm-us",
-      "status": "MISSING",
-      "source": null,
-      "candidates": []
+      "status": "ADDED",
+      "source": "https://s1.static-footeo.com/1200/uploads/torcyfoot/logo__qfrrky.png",
+      "provider": "curated_external",
+      "matched": "Torcy PVM US"
     },
     {
       "team": "UF Mâcon 71",
       "division": "N2",
       "slug": "uf-macon-71",
-      "status": "MISSING",
-      "source": null,
-      "candidates": []
+      "status": "ADDED",
+      "source": "https://d1e67q5w736kt2.cloudfront.net/france/clubs/macon-71.jpg",
+      "provider": "curated_external",
+      "matched": "UF Mâcon 71"
     },
     {
       "team": "Union Foot de Touraine",
@@ -356,17 +375,19 @@
       "team": "US Feurs",
       "division": "N2",
       "slug": "us-feurs",
-      "status": "MISSING",
-      "source": null,
-      "candidates": []
+      "status": "ADDED",
+      "source": "https://www.liguesdefoot.fr/images/logo_du_club_de_football_us-feurs_de_feurs.png",
+      "provider": "curated_external",
+      "matched": "US Feurs"
     },
     {
       "team": "US Mandelieu-la-Napoule",
       "division": "N2",
       "slug": "us-mandelieu-la-napoule",
-      "status": "MISSING",
-      "source": null,
-      "candidates": []
+      "status": "ADDED",
+      "source": "https://d1e67q5w736kt2.cloudfront.net/france/clubs/us-mandelieu-football.jpg",
+      "provider": "curated_external",
+      "matched": "US Mandelieu-la-Napoule"
     },
     {
       "team": "US Pays du Valois",
