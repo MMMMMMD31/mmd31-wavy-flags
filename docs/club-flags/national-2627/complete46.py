@@ -184,6 +184,46 @@ def apm_metz_logo():
   except Exception:continue
  return None,None,None,None
 
+# Source-page alternatives for the one remaining sports crest.
+BERRE_DEBUG=[]
+def berre_logo():
+ base="LIndyW7tJ1QEsNXY4kMKRxUFTnw"
+ candidates=[
+  "https://img.besport.com/384/"+base,
+  "https://wsrv.nl/?url=img.besport.com/384/"+base,
+  "https://images.weserv.nl/?url=img.besport.com/384/"+base,
+  "https://wsrv.nl/?url=https%3A%2F%2Fimg.besport.com%2F384%2F"+base,
+  "https://img.besport.com/512/"+base,
+  "https://img.besport.com/128/"+base
+ ]
+ for page in ["https://scorenco.com/football/clubs/berre-sporting-club-2inp",
+              "https://www.sportcorico.com/clubs/berre-spc",
+              "https://www.besport.com/group/19641"]:
+  try:
+   resp=S.get(page,timeout=15); resp.raise_for_status()
+   soup=BeautifulSoup(resp.text,"html.parser")
+   for imgtag in soup.find_all("img"):
+    alt=(imgtag.get("alt") or "").lower()
+    if "berre" not in alt:continue
+    for key in ("data-src","src"):
+     raw=imgtag.get(key)
+     if not raw or raw.startswith("data:"):continue
+     if any(word in raw.lower() for word in ("placeholder","default","blank","grey")):continue
+     candidates.append(urljoin(page,raw))
+   BERRE_DEBUG.append({"page":page,"status":resp.status_code,"candidate_count":len(candidates)})
+  except Exception as ex:BERRE_DEBUG.append({"page":page,"error":str(ex)[:140]})
+ for url in dict.fromkeys(candidates):
+  try:
+   resp=S.get(url,timeout=16)
+   rec={"url":url[:200],"status":resp.status_code,"bytes":len(resp.content),
+        "mime":resp.headers.get("Content-Type","")}
+   BERRE_DEBUG.append(rec)
+   if resp.status_code!=200 or len(resp.content)<900:continue
+   pic=load_image(url)
+   if pic:return pic,url,"verified_berre_club","Berre Sporting Club"
+  except Exception as ex:BERRE_DEBUG.append({"url":url[:150],"error":str(ex)[:130]})
+ return None,None,None,None
+
 def process(t):
  im,source,origin,matched=fetch_site(t)
  if im is None and t['team']=='APM Metz': im,source,origin,matched=apm_metz_logo()
@@ -191,6 +231,7 @@ def process(t):
   src=MANUAL[t["team"]];im=load_image(src)
   if im is not None:source,origin,matched=src,"curated_external",t["team"]
  if im is None: im,source,origin,matched=sportsdb(t)
+ if im is None and t['team']=='SC Berre':im,source,origin,matched=berre_logo()
  if im is not None:
   try:
    generate(t,im)
@@ -202,6 +243,6 @@ def process(t):
 results=[]
 with concurrent.futures.ThreadPoolExecutor(max_workers=10) as pool:
  for obj in pool.map(process,missing):results.append(obj)
-report={"initial":len(missing),"added":sum(x["status"]=="ADDED" for x in results),"missing":sum(x["status"]=="MISSING" for x in results),"results":results,"catalogue_count":len(INDEX)}
+report={"berre_debug":BERRE_DEBUG,"initial":len(missing),"added":sum(x["status"]=="ADDED" for x in results),"missing":sum(x["status"]=="MISSING" for x in results),"results":results,"catalogue_count":len(INDEX)}
 (BASE/"crest-completion-audit.json").write_text(json.dumps(report,ensure_ascii=False,indent=2),encoding="utf-8")
 print("COMPLETION",report["added"],"MISSING",report["missing"],"CATALOGUE",len(INDEX))
