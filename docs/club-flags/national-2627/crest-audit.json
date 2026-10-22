@@ -1,6 +1,6 @@
 {
   "requested": 160,
-  "generated": 85,
+  "generated": 84,
   "results": [
     {
       "team": "AF Virois",
@@ -1143,10 +1143,8 @@
       "team": "US Colomiers",
       "division": "N2",
       "slug": "us-colomiers",
-      "status": "WIKIPEDIA_INFOBOX",
-      "source": "https://thumb.wikimedia.org/wikipedia/en/thumb/5/54/Colomiers_rugby_badge.png/250px-Colomiers_rugby_badge.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "standard_sha256": "f7fa4881e1a3210d95db21f4412cac32387511b4b5250a09fa0bf306f5f31634",
-      "victory_sha256": "60f1d2090454554e4e3eba00cb11556ef3763642aa1fc7cfb767b131e1a425d0"
+      "status": "NO_AUTHENTIC_CRESt",
+      "source": null
     },
     {
       "team": "US Créteil",
