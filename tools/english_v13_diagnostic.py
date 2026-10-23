@@ -20,6 +20,22 @@ for k,url in urls.items():
           "candidate_elo_links":[{"text":x.get_text(" ",strip=True),"url":x.get("href")} for x in links if "elo" in x.get_text(" ",strip=True).lower()][:8],
           "sample_json":r.text[:1500] if k in ("thesportsdb","wikidata") else ""}
  except Exception as e:out[k]={"error":str(e)}
+import urllib.parse
+try:
+ rr=s.get("https://www.nonleaguehq.com/england-elo/",timeout=25)
+ sc=bs4.BeautifulSoup(rr.text,"html.parser")
+ fragments=[]
+ for script in sc.find_all("script"):
+  t=script.get_text(" ",strip=True)
+  if "SUPABASE" not in t and "rest/v1" not in t and "elo" not in t.lower():continue
+  # No auth keys in diagnostics.
+  t=re.sub(r"(?i)(anon_key|supabase_key|apikey|authorization|SUPABASE_ANON_KEY)(\\s*[:=]\\s*)['\\\"][^'\\\"]+['\\\"]",r"\\1\\2'[REDACTED]'",t)
+  lines=t.splitlines()
+  for i,line in enumerate(lines):
+   if re.search(r"elo|rest/v1|supabase|fetch\\(",line,re.I):
+    fragments.append("\\n".join(lines[max(0,i-1):min(len(lines),i+3)])[:850])
+ out["elo_script_refs"]=fragments[:45]
+except Exception as exc:out["elo_script_refs_error"]=str(exc)
 p=Path("docs/english-v13");p.mkdir(parents=True,exist_ok=True)
 (p/"diagnostic.json").write_text(json.dumps(out,indent=2,ensure_ascii=False))
 print(json.dumps(out,ensure_ascii=False)[:12000])
