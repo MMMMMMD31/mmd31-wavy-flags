@@ -1,0 +1,4932 @@
+{
+  "division": 8,
+  "season": "2026-2027",
+  "source": "TheFootData-linked FFF source crest (BC affiliation)",
+  "source_squad_count": 160,
+  "unique_affiliations": 152,
+  "published_affiliations": 152,
+  "unresolved_affiliations": 0,
+  "branch": "mmd31-d8-logos-20261023",
+  "items": {
+    "500119": {
+      "affiliation": "500119",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC500119.jpg",
+      "source_sha256": "48085250ee2564a41a8fea26f2b6193b98fb50c37428aaaaee922b474c32d6b9",
+      "source_dimensions": [
+        98,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "255-SEM-3",
+          "name": "Selestat Sc",
+          "district": "Alsace",
+          "group": "Poule L",
+          "club_url": "https://thefootdata.com/clubs/sc-selestat?equipe=255-SEM-3&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc500119.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc500119.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        225,
+        165,
+        245
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "2f68e145578faca0f4f0aa043d46c812cc681e48e8c93e9d9eeec2b5a1826fdd"
+    },
+    "500199": {
+      "affiliation": "500199",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC500199.jpg",
+      "source_sha256": "e71e9fbc4dab956e8b8208d35843b264c8399ccaab5aa659a8115d4772951692",
+      "source_dimensions": [
+        100,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "328-SEM-1",
+          "name": "Monswiller F.C",
+          "district": "Alsace",
+          "group": "Poule B",
+          "club_url": "https://thefootdata.com/clubs/fc-monswiller?equipe=328-SEM-1&saison=2026"
+        },
+        {
+          "squad_key": "328-SEM-2",
+          "name": "Monswiller F.C",
+          "district": "Alsace",
+          "group": "Poule G",
+          "club_url": "https://thefootdata.com/clubs/fc-monswiller?equipe=328-SEM-2&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc500199.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc500199.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        194,
+        202,
+        212
+      ],
+      "rule": "neutral",
+      "sha256": "26803e927b777aceff146655dac95bd0418c11ac7b7cccd72ffcc5de32b588ad"
+    },
+    "500204": {
+      "affiliation": "500204",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC500204.jpg",
+      "source_sha256": "ceee263addd6d08cd7f6e411ee420d54a7ae4bcc08febb9b137e9ed15f30ca32",
+      "source_dimensions": [
+        100,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "330-SEM-2",
+          "name": "Bischwiller F.C",
+          "district": "Alsace",
+          "group": "Poule C",
+          "club_url": "https://thefootdata.com/clubs/fc-bischwiller?equipe=330-SEM-2&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc500204.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc500204.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        165,
+        205,
+        245
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "35ae58eb2908b7d604703d14f11fd06791e79a4fff77d009c9d48730cc47eb0f"
+    },
+    "500205": {
+      "affiliation": "500205",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC500205.jpg",
+      "source_sha256": "aa122e365dea639559a6625567fd5a799f961038979cee66cf6aca301ac0b0bb",
+      "source_dimensions": [
+        100,
+        80
+      ],
+      "teams": [
+        {
+          "squad_key": "331-SEM-3",
+          "name": "Masevaux F.C.",
+          "district": "Alsace",
+          "group": "Poule P",
+          "club_url": "https://thefootdata.com/clubs/fc-1915-masevaux?equipe=331-SEM-3&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc500205.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc500205.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        165,
+        245,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "a005e1bc27f25e4111f55e2960ea637044b38a85c605f90b36c6c9b1796f61aa"
+    },
+    "502958": {
+      "affiliation": "502958",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC502958.jpg",
+      "source_sha256": "a3dad6757436fd42116029089de3865794ff85111e0f1865b0a0d6bef9cfbce9",
+      "source_dimensions": [
+        100,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "1600-SEM-4",
+          "name": "Fegersheim C.S",
+          "district": "Alsace",
+          "group": "Poule I",
+          "club_url": "https://thefootdata.com/clubs/cercs-fegersheim?equipe=1600-SEM-4&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc502958.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc502958.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        185,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "1a82e3c3f57841ab92386c396fadc862609ed2ef5af72f687afe2df7b16e82b0"
+    },
+    "503933": {
+      "affiliation": "503933",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC503933.jpg",
+      "source_sha256": "9ee1e378cbdbad8a7e0f12bd06c87afce329fc1f6dc846961308cae7701ee0f4",
+      "source_dimensions": [
+        83,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "1948-SEM-3",
+          "name": "Hochstatt A.S",
+          "district": "Alsace",
+          "group": "Poule Q",
+          "club_url": "https://thefootdata.com/clubs/as-hochstatt?equipe=1948-SEM-3&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc503933.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc503933.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        165,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "741fe2cda49f1ff397c476508d730fa6110d23785df8f362d9f97925ccb30836"
+    },
+    "503939": {
+      "affiliation": "503939",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC503939.jpg",
+      "source_sha256": "8392d74127f2b04d6c20dbc93e6f23de5f9492c1b7b49b76e6d8b960ae819b47",
+      "source_dimensions": [
+        84,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "1954-SEM-3",
+          "name": "Mulhouse Etoile",
+          "district": "Alsace",
+          "group": "Poule N",
+          "club_url": "https://thefootdata.com/clubs/etoile-mulhouse?equipe=1954-SEM-3&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc503939.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc503939.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        165,
+        205,
+        245
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "b3e85a030415fc8d44eac91b60bc34ca755844e00487d2c63a1427ae0ff2b965"
+    },
+    "503945": {
+      "affiliation": "503945",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC503945.jpg",
+      "source_sha256": "5750f4e7fe3cc9d6f3cf0e7f0ce00e57d552f8e2e846ec099fd368ef447a17d6",
+      "source_dimensions": [
+        100,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "1959-SEM-1",
+          "name": "Lingolsheim F.C",
+          "district": "Alsace",
+          "group": "Poule H",
+          "club_url": "https://thefootdata.com/clubs/fc-lingolsheim?equipe=1959-SEM-1&saison=2026"
+        },
+        {
+          "squad_key": "1959-SEM-2",
+          "name": "Lingolsheim F.C",
+          "district": "Alsace",
+          "group": "Poule I",
+          "club_url": "https://thefootdata.com/clubs/fc-lingolsheim?equipe=1959-SEM-2&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc503945.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc503945.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        165,
+        205,
+        245
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "3f0ae2069129106e14433c76bf4b1b285aabdd769caa146c4ff43d41279d4545"
+    },
+    "503953": {
+      "affiliation": "503953",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC503953.jpg",
+      "source_sha256": "5f1781d4907bd3da78b8fb63cbce2842157ddd1bd36426d3968995d45ecd9a26",
+      "source_dimensions": [
+        100,
+        98
+      ],
+      "teams": [
+        {
+          "squad_key": "1966-SEM-1",
+          "name": "Bouxwiller U.S.F",
+          "district": "Alsace",
+          "group": "Poule B",
+          "club_url": "https://thefootdata.com/clubs/us-section-f-bouxwiller?equipe=1966-SEM-1&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc503953.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc503953.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        165,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "e7f0051f5e9424ce15a16b1852928afdbe27bce0ed83ebc286d7b64b2674cfc5"
+    },
+    "503954": {
+      "affiliation": "503954",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC503954.jpg",
+      "source_sha256": "8b80e79d4bb57d2719b9c4abbc12ab8ab68c14761681c48ef4f5a3d342e6fcac",
+      "source_dimensions": [
+        99,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "1967-SEM-3",
+          "name": "Strg Robertsau A.S.L",
+          "district": "Alsace",
+          "group": "Poule H",
+          "club_url": "https://thefootdata.com/clubs/asl-robertsau?equipe=1967-SEM-3&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc503954.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc503954.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        165,
+        245,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "9dc7d5510786f9e4fb682703ff56570be8f0cda0006c45140371a48f5565f299"
+    },
+    "503959": {
+      "affiliation": "503959",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC503959.jpg",
+      "source_sha256": "1b3ba2ed05f731cfd05cee82d9865b15793e38b17745d4db423c4db9156cfaa8",
+      "source_dimensions": [
+        87,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "1970-SEM-3",
+          "name": "Hindisheim U.S",
+          "district": "Alsace",
+          "group": "Poule K",
+          "club_url": "https://thefootdata.com/clubs/us-hindisheim?equipe=1970-SEM-3&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc503959.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc503959.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        165,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "1ab2969cd365759c40f0d8b51b5ec7d735853b35debb92d8e0587c2e841a2119"
+    },
+    "503960": {
+      "affiliation": "503960",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC503960.jpg",
+      "source_sha256": "66995da87712dac50dce375d7e5a69e60f403082edfdd173702ab7f7b40b314e",
+      "source_dimensions": [
+        100,
+        95
+      ],
+      "teams": [
+        {
+          "squad_key": "1971-SEM-3",
+          "name": "Steinbourg F.C",
+          "district": "Alsace",
+          "group": "Poule B",
+          "club_url": "https://thefootdata.com/clubs/fc-1924-steinbourg?equipe=1971-SEM-3&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc503960.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc503960.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        245,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "a4a571476174f07264b1e7c39448dc5816708b096b0a9a1b05df914f21888c03"
+    },
+    "503963": {
+      "affiliation": "503963",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC503963.jpg",
+      "source_sha256": "d1c6a1f0c12fe7172b2d256df225e49602a7f648628ccaa5d79d2ca4ee5aed70",
+      "source_dimensions": [
+        99,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "1974-SEM-2",
+          "name": "Bollwiller Fc",
+          "district": "Alsace",
+          "group": "Poule O",
+          "club_url": "https://thefootdata.com/clubs/fc-bollwiller?equipe=1974-SEM-2&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc503963.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc503963.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        165,
+        205,
+        245
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "dbfe237e3c15a2450e9d893f148973fa17a4f364f848765133897acebc2aec0a"
+    },
+    "503964": {
+      "affiliation": "503964",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC503964.jpg",
+      "source_sha256": "ca268eca003658b73d0763243777d73e99bec39406f3fd17650f753387bf66b1",
+      "source_dimensions": [
+        100,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "1975-SEM-3",
+          "name": "Saverne F.C",
+          "district": "Alsace",
+          "group": "Poule B",
+          "club_url": "https://thefootdata.com/clubs/fc-saverne?equipe=1975-SEM-3&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc503964.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc503964.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        245,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "d3ebb0206b44e355cce89c72c8694bf57f134626f4300e9a22ac33c73927116d"
+    },
+    "503971": {
+      "affiliation": "503971",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC503971.jpg",
+      "source_sha256": "0bb0e06265ead2d3c5562dfa9908cc0be0dc9cd361fbe55e4655822a0e4af272",
+      "source_dimensions": [
+        100,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "1981-SEM-3",
+          "name": "Ensisheim F.C.",
+          "district": "Alsace",
+          "group": "Poule O",
+          "club_url": "https://thefootdata.com/clubs/fc-ensisheim?equipe=1981-SEM-3&saison=2026"
+        },
+        {
+          "squad_key": "1981-SEM-4",
+          "name": "Ensisheim F.C.",
+          "district": "Alsace",
+          "group": "Poule P",
+          "club_url": "https://thefootdata.com/clubs/fc-ensisheim?equipe=1981-SEM-4&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc503971.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc503971.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        165,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "775b03465d13b00b68cae84718b5300a6da212e021d21433b50bbc34f00bc94a"
+    },
+    "503973": {
+      "affiliation": "503973",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC503973.jpg",
+      "source_sha256": "b3c4e0bd0bb184e594784c194180e76d613cd58b0161b5bbefa2179760bc541a",
+      "source_dimensions": [
+        89,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "1982-SEM-2",
+          "name": "Mulhouse R.C.",
+          "district": "Alsace",
+          "group": "Poule N",
+          "club_url": "https://thefootdata.com/clubs/rc-mulhouse?equipe=1982-SEM-2&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc503973.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc503973.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        225,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "a21afd7e6e0a31eaf54eb261b6165b04f1b0f58c33b8255d606551e2f3e1adaf"
+    },
+    "503974": {
+      "affiliation": "503974",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC503974.jpg",
+      "source_sha256": "217f7dab45d6519cb32a27c7884df51c466998b428b94ff8668ddfed4adab69d",
+      "source_dimensions": [
+        76,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "1983-SEM-3",
+          "name": "Hilsenheim Fc",
+          "district": "Alsace",
+          "group": "Poule K",
+          "club_url": "https://thefootdata.com/clubs/fc-hilsenheim?equipe=1983-SEM-3&saison=2026"
+        },
+        {
+          "squad_key": "1983-SEM-2",
+          "name": "Hilsenheim F.C",
+          "district": "Alsace",
+          "group": "Poule L",
+          "club_url": "https://thefootdata.com/clubs/fc-hilsenheim?equipe=1983-SEM-2&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc503974.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc503974.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        165,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "6e67e7ed501853640d7ce2fa0502ef750cb171b47d92598a80049ddd115dc9f4"
+    },
+    "503975": {
+      "affiliation": "503975",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC503975.jpg",
+      "source_sha256": "249bf813701f750ffc8b95a5af40e4fc3ac7b15a8661365d18d78a92b46e60e2",
+      "source_dimensions": [
+        78,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "1984-SEM-2",
+          "name": "Kogenheim F.C",
+          "district": "Alsace",
+          "group": "Poule K",
+          "club_url": "https://thefootdata.com/clubs/fc-kogenheim?equipe=1984-SEM-2&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc503975.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc503975.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        165,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "d7cab14d35dde4f3da798b4852429ea26e390aed13f3f79c9d0e42810f1e57df"
+    },
+    "503976": {
+      "affiliation": "503976",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC503976.jpg",
+      "source_sha256": "e99f8f65f1b21e16b617f44444a056d62dc15015b445fc87cd5e421383b7bc20",
+      "source_dimensions": [
+        78,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "1985-SEM-3",
+          "name": "Wolfisheim E.S",
+          "district": "Alsace",
+          "group": "Poule I",
+          "club_url": "https://thefootdata.com/clubs/ets-wolfisheim?equipe=1985-SEM-3&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc503976.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc503976.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        225,
+        245,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "69c221baed14c4220be3cbcfa559d38fa66f78954e5276fcb9faf6b05eb41f84"
+    },
+    "503980": {
+      "affiliation": "503980",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC503980.jpg",
+      "source_sha256": "53e2c9099247050af628c597117f0b17995c8c56f02fa4466d92b03cc484d124",
+      "source_dimensions": [
+        100,
+        89
+      ],
+      "teams": [
+        {
+          "squad_key": "1989-SEM-3",
+          "name": "Oberschaeffolsheim",
+          "district": "Alsace",
+          "group": "Poule I",
+          "club_url": "https://thefootdata.com/clubs/us-oberschaeffolsheim?equipe=1989-SEM-3&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc503980.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc503980.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        165,
+        165,
+        245
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "05cff7d7176b884491f318c193c299aae10b94f44ad3aad22cb6deecda1c22cb"
+    },
+    "503983": {
+      "affiliation": "503983",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC503983.jpg",
+      "source_sha256": "3aab83736c59c2a9434fc9b11971140a7e7c59cf94b332b1f74f8bf4aaffadfd",
+      "source_dimensions": [
+        67,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "1992-SEM-2",
+          "name": "Kertzfeld F.C",
+          "district": "Alsace",
+          "group": "Poule K",
+          "club_url": "https://thefootdata.com/clubs/fc-kertzfeld?equipe=1992-SEM-2&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc503983.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc503983.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        225,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "8e7d883679c4931593641415694bfbc9f7656608f3c4fdabf601c831d5146a0e"
+    },
+    "503992": {
+      "affiliation": "503992",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC503992.jpg",
+      "source_sha256": "6ca5a3653c5282525609f2571ec52a3baff4230d4e1b7639e40c9e8527e534c9",
+      "source_dimensions": [
+        100,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "1998-SEM-4",
+          "name": "Herrlisheim F.C",
+          "district": "Alsace",
+          "group": "Poule F",
+          "club_url": "https://thefootdata.com/clubs/fc-herrlisheim?equipe=1998-SEM-4&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc503992.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc503992.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        165,
+        245,
+        185
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "491895781eaca16e5ef9e9622a4e8a5f4c4f55d77b54cce9bd8b2dc46ee02e2a"
+    },
+    "503993": {
+      "affiliation": "503993",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC503993.jpg",
+      "source_sha256": "f1926c25e7a2e6d11e6437da19f0c2318952d1c5e5fcf54dd4c676e33ecf9760",
+      "source_dimensions": [
+        82,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "1999-SEM-3",
+          "name": "Niedermodern F.C",
+          "district": "Alsace",
+          "group": "Poule C",
+          "club_url": "https://thefootdata.com/clubs/fc-niedermodern?equipe=1999-SEM-3&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc503993.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc503993.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        165,
+        185,
+        245
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "3f5ec05f5fb58db7407c9bccfa04c44afda543185f7f0203bc1cb17de8f2b8f4"
+    },
+    "503996": {
+      "affiliation": "503996",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC503996.jpg",
+      "source_sha256": "c96186033a061f7762bbfab05232322a7595fd534fa0a7670991b89de7219fbc",
+      "source_dimensions": [
+        100,
+        96
+      ],
+      "teams": [
+        {
+          "squad_key": "2002-SEM-2",
+          "name": "Oberhergheim F.C",
+          "district": "Alsace",
+          "group": "Poule O",
+          "club_url": "https://thefootdata.com/clubs/fc-oberhergheim?equipe=2002-SEM-2&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc503996.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc503996.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        165,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "6d46d5f5c60dcc15c4eac5d672c5a03b9b9535f51250c9e145d5f7c359f6af73"
+    },
+    "504006": {
+      "affiliation": "504006",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC504006.jpg",
+      "source_sha256": "df6ccc2b763f5dcd688eb5491d317f977753e4826e63aeb58f0b2d2b2d56273a",
+      "source_dimensions": [
+        94,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "2011-SEM-3",
+          "name": "Rosheim F.C",
+          "district": "Alsace",
+          "group": "Poule J",
+          "club_url": "https://thefootdata.com/clubs/fc-rosheim?equipe=2011-SEM-3&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc504006.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc504006.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        165,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "bc1a5d1ba1f8f3383c24ce6d639d82413e2db853bca84a9aad94587a704fd482"
+    },
+    "504008": {
+      "affiliation": "504008",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC504008.jpg",
+      "source_sha256": "b67aed7ece7ce0b9868897467f3118aa434100a010c75c1c0c749d5073693225",
+      "source_dimensions": [
+        80,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "2013-SEM-3",
+          "name": "Schweighouse F.C",
+          "district": "Alsace",
+          "group": "Poule C",
+          "club_url": "https://thefootdata.com/clubs/fc-1920-schweighouse-s-moder?equipe=2013-SEM-3&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc504008.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc504008.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        165,
+        185
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "98f361cf4c7b2c1fb13ae1ca4b509a1c9d1a5080413e35ad10b4d7fc31225488"
+    },
+    "504019": {
+      "affiliation": "504019",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC504019.jpg",
+      "source_sha256": "05817d869c853dfa838d90953c68c373549a5229b99abbc203bcc087cd0c76ad",
+      "source_dimensions": [
+        100,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "2022-SEM-3",
+          "name": "Lipsheim O.C",
+          "district": "Alsace",
+          "group": "Poule I",
+          "club_url": "https://thefootdata.com/clubs/oc-lipsheim?equipe=2022-SEM-3&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc504019.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc504019.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        165,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "f31e79f33e2c125e2ce420ed7ea8482eea2a4cc1e0a46937e64f5116e0fb8cdb"
+    },
+    "504026": {
+      "affiliation": "504026",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC504026.jpg",
+      "source_sha256": "48f4ee78e65befd001bf6408977e9f5ce7f22efef401f16da958306f0b39fbfa",
+      "source_dimensions": [
+        100,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "2027-SEM-3",
+          "name": "Surbourg U.S",
+          "district": "Alsace",
+          "group": "Poule E",
+          "club_url": "https://thefootdata.com/clubs/us-surbourg?equipe=2027-SEM-3&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc504026.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc504026.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        245,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "588f8dbb203aca12498efef3791957f4f4ff8598b1adc4d8b761376417d53344"
+    },
+    "504031": {
+      "affiliation": "504031",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC504031.jpg",
+      "source_sha256": "44eea83773ef0ff5beda0e6c5bb7fcfc5eb3aff42b4601b65e28d1f5725e4632",
+      "source_dimensions": [
+        100,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "2031-SEM-4",
+          "name": "Habsheim F.C",
+          "district": "Alsace",
+          "group": "Poule N",
+          "club_url": "https://thefootdata.com/clubs/fc-habsheim?equipe=2031-SEM-4&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc504031.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc504031.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        194,
+        202,
+        212
+      ],
+      "rule": "neutral",
+      "sha256": "4ba75e56c55d59ac8f2beb73a273e7baa266bbae752704184752753abf393241"
+    },
+    "504032": {
+      "affiliation": "504032",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC504032.jpg",
+      "source_sha256": "8875b15f1fbb6027fc48f99832584abbc2bf39fc737c97defa0bb86e9fa4cbe7",
+      "source_dimensions": [
+        100,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "2032-SEM-3",
+          "name": "Rountzenheim-Auenhei",
+          "district": "Alsace",
+          "group": "Poule F",
+          "club_url": "https://thefootdata.com/clubs/s-reunis-rountzenheim-auenheim?equipe=2032-SEM-3&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc504032.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc504032.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        165,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "ad56a227d6128cdde2bcd3091b4e72a7a5723eb55c027320fb9aff40bc230ec0"
+    },
+    "504048": {
+      "affiliation": "504048",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC504048.jpg",
+      "source_sha256": "04475480e6f9052f9a77d3ff0a7992ace0d9967052024a685b1707a47988f6a1",
+      "source_dimensions": [
+        100,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "2046-SEM-2",
+          "name": "Wingen Ent. Wimmen.",
+          "district": "Alsace",
+          "group": "Poule A",
+          "club_url": "https://thefootdata.com/clubs/as-wingen-s-moder?equipe=2046-SEM-2&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc504048.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc504048.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        245,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "4df0e67433b42161523d28837e0afef422d6de1dfca727074646d23f5ceedb62"
+    },
+    "504062": {
+      "affiliation": "504062",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC504062.jpg",
+      "source_sha256": "2390006c4b48ead7e1d2e5883e5408b69ec1618cce78a7d10ce8435eb2aa36ef",
+      "source_dimensions": [
+        83,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "2053-SEM-2",
+          "name": "Mommenheim U.S",
+          "district": "Alsace",
+          "group": "Poule C",
+          "club_url": "https://thefootdata.com/clubs/us-mommenheim?equipe=2053-SEM-2&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc504062.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc504062.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        165,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "aeea03bce296aad25755544cd6b21dd1158e411a4971e1a58a1f605344b2543d"
+    },
+    "504064": {
+      "affiliation": "504064",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC504064.jpg",
+      "source_sha256": "80f3bfdad0ce7a46599f5043ebc48c59ce83beb15cd07aba34ee0100e8cc9826",
+      "source_dimensions": [
+        79,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "2055-SEM-3",
+          "name": "Oberhausbergen F.C",
+          "district": "Alsace",
+          "group": "Poule H",
+          "club_url": "https://thefootdata.com/clubs/fc-oberhausbergen?equipe=2055-SEM-3&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc504064.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc504064.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        165,
+        205,
+        245
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "45203822b585bdab0e9cbceab0e348f1248cf2a517e8e137619fca6c2cdb4259"
+    },
+    "504068": {
+      "affiliation": "504068",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC504068.jpg",
+      "source_sha256": "25aef61b020e8be8820e1a8a1b32558b314e338c882d32d8aa015dce9f2f8853",
+      "source_dimensions": [
+        100,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "2059-SEM-3",
+          "name": "Niederbronn Us",
+          "district": "Alsace",
+          "group": "Poule D",
+          "club_url": "https://thefootdata.com/clubs/us-niederbronn-les-bains?equipe=2059-SEM-3&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc504068.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc504068.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        165,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "13ed1ac2a37218bac577e17d617ff0b32dfdf08813895c9d1981ba6336e49975"
+    },
+    "504073": {
+      "affiliation": "504073",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC504073.jpg",
+      "source_sha256": "295e09f6d874b9b1e54ce13de5821d9b9d1012a75463a71b1f94969dd62a1e31",
+      "source_dimensions": [
+        99,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "2062-SEM-2",
+          "name": "Geudertheim F.C",
+          "district": "Alsace",
+          "group": "Poule C",
+          "club_url": "https://thefootdata.com/clubs/fc-geudertheim?equipe=2062-SEM-2&saison=2026"
+        },
+        {
+          "squad_key": "2062-SEM-3",
+          "name": "Geudertheim F.C",
+          "district": "Alsace",
+          "group": "Poule H",
+          "club_url": "https://thefootdata.com/clubs/fc-geudertheim?equipe=2062-SEM-3&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc504073.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc504073.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        194,
+        202,
+        212
+      ],
+      "rule": "neutral",
+      "sha256": "fbaaf5bcd5f9600bb72ad64afaa790683756b7faf2448719bd64a9e4e9301411"
+    },
+    "504075": {
+      "affiliation": "504075",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC504075.jpg",
+      "source_sha256": "20cf0d6a15faec950934c73247dac2a8cceb3b86de812c1038a4b2660ec71cb4",
+      "source_dimensions": [
+        100,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "2064-SEM-3",
+          "name": "Gries F.C",
+          "district": "Alsace",
+          "group": "Poule C",
+          "club_url": "https://thefootdata.com/clubs/fc-gries?equipe=2064-SEM-3&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc504075.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc504075.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        194,
+        202,
+        212
+      ],
+      "rule": "neutral",
+      "sha256": "824f4c14d55837dbb44c8a84fed7ea347fe1a3b4f65a42b1c550769dd69b6ac7"
+    },
+    "504081": {
+      "affiliation": "504081",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC504081.jpg",
+      "source_sha256": "e72ff512233e17a10ea71fd958730d42e79db6ae2949bdcf2d42d8645dd4a262",
+      "source_dimensions": [
+        100,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "2066-SEM-3",
+          "name": "Hirsingue U.S",
+          "district": "Alsace",
+          "group": "Poule Q",
+          "club_url": "https://thefootdata.com/clubs/us-hirsingue?equipe=2066-SEM-3&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc504081.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc504081.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        245,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "ca2c1cefa2e6f4874259fd8beec376e3f5cbb51ec36253f3c9581e8a0c66ba6f"
+    },
+    "504100": {
+      "affiliation": "504100",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC504100.jpg",
+      "source_sha256": "2c9091663cec6139898535171490806ef2bfbbc0ebf3d2771a285c5e31b74eae",
+      "source_dimensions": [
+        100,
+        99
+      ],
+      "teams": [
+        {
+          "squad_key": "2074-SEM-3",
+          "name": "Urmatt Ent Hug",
+          "district": "Alsace",
+          "group": "Poule J",
+          "club_url": "https://thefootdata.com/clubs/spc-urmatt?equipe=2074-SEM-3&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc504100.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc504100.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        194,
+        202,
+        212
+      ],
+      "rule": "neutral",
+      "sha256": "211697f2aad20b094ef4069cb71f581a54e9e7c71d1de8d31607b009dda470fe"
+    },
+    "504115": {
+      "affiliation": "504115",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC504115.jpg",
+      "source_sha256": "08c9bc1d689ee3ee7731021fdd191f3aa18ba6d2947db41bbd1f635a0c9852b6",
+      "source_dimensions": [
+        100,
+        96
+      ],
+      "teams": [
+        {
+          "squad_key": "2082-SEM-4",
+          "name": "Brumath S.S",
+          "district": "Alsace",
+          "group": "Poule H",
+          "club_url": "https://thefootdata.com/clubs/ste-s-brumath?equipe=2082-SEM-4&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc504115.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc504115.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        165,
+        165,
+        245
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "cb442603438b131d0b2751a6484ec17b529e998f8a0d4a9dd6681cc2c194842d"
+    },
+    "504119": {
+      "affiliation": "504119",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC504119.jpg",
+      "source_sha256": "777bcd1b580d65245d826a28524ad9079bc97aaf7fec557e70a9c019d70ee5a5",
+      "source_dimensions": [
+        83,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "2084-SEM-2",
+          "name": "Dalhunden U.S",
+          "district": "Alsace",
+          "group": "Poule F",
+          "club_url": "https://thefootdata.com/clubs/us-dalhunden?equipe=2084-SEM-2&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc504119.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc504119.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        165,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "74cd4caff766d0d47e29bf4bba682d2b57918d763c807a317e3f5f0a1f76da1f"
+    },
+    "504121": {
+      "affiliation": "504121",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC504121.jpg",
+      "source_sha256": "bd8d38dc0cc0bd5fca7b020520810f3be61b5b8b7b7d4539ed43c197208ae13b",
+      "source_dimensions": [
+        100,
+        93
+      ],
+      "teams": [
+        {
+          "squad_key": "2085-SEM-3",
+          "name": "Dinsheim S.C",
+          "district": "Alsace",
+          "group": "Poule J",
+          "club_url": "https://thefootdata.com/clubs/sc-dinsheim?equipe=2085-SEM-3&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc504121.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc504121.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        165,
+        205,
+        245
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "0de7f69339b979a8f79bafd28cf4b6cee72dded5253cacf87b477fafbedeaebf"
+    },
+    "504124": {
+      "affiliation": "504124",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC504124.jpg",
+      "source_sha256": "9b128d7a4ec21fe5a34a08bcebbfbd7fec7fc336aa225d52c53a612d8a2c5b16",
+      "source_dimensions": [
+        100,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "2087-SEM-3",
+          "name": "Duttlenheim A.L.F.C",
+          "district": "Alsace",
+          "group": "Poule K",
+          "club_url": "https://thefootdata.com/clubs/alfc-duttlenheim?equipe=2087-SEM-3&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc504124.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc504124.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        225,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "e3b070c194c5f6b3aa95c75dc8349306771cb4ae33154f0146670dfde6dbdf78"
+    },
+    "504126": {
+      "affiliation": "504126",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC504126.jpg",
+      "source_sha256": "7eb18b4faa3f7b42c5ac716b5b4008aa74e0b58343eb5df2964f14c1aee606a5",
+      "source_dimensions": [
+        69,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "2089-SEM-4",
+          "name": "Mertzwiller As",
+          "district": "Alsace",
+          "group": "Poule D",
+          "club_url": "https://thefootdata.com/clubs/as-mertzwiller?equipe=2089-SEM-4&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc504126.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc504126.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        194,
+        202,
+        212
+      ],
+      "rule": "neutral",
+      "sha256": "0932fa7b5ece475833b34f7db32a39212a7644e2911a5d07ca7d196bf7f2c2c3"
+    },
+    "504133": {
+      "affiliation": "504133",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC504133.jpg",
+      "source_sha256": "fee3946b27f6c156c9174f5304c5564dd213788656ab607b512a3e1131a0eb54",
+      "source_dimensions": [
+        100,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "2093-SEM-2",
+          "name": "Gambsheim A.S",
+          "district": "Alsace",
+          "group": "Poule F",
+          "club_url": "https://thefootdata.com/clubs/as-gambsheim?equipe=2093-SEM-2&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc504133.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc504133.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        245,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "c7166103379a895c524bbb8a15cee12cb05a989cfbe5fb4333920f95ed9448f4"
+    },
+    "504138": {
+      "affiliation": "504138",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC504138.jpg",
+      "source_sha256": "c09216603b40c02eee80a0238e5bf59f63c1b34c3f6f401093e22b45361b7e36",
+      "source_dimensions": [
+        75,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "2097-SEM-3",
+          "name": "Gundolsheim F.C.",
+          "district": "Alsace",
+          "group": "Poule O",
+          "club_url": "https://thefootdata.com/clubs/fc-gundolsheim?equipe=2097-SEM-3&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc504138.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc504138.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        165,
+        245,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "efeb19b447d2c41410e39f51d0f3558fa49adb1e8867b96287433da2d931aabc"
+    },
+    "504145": {
+      "affiliation": "504145",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC504145.jpg",
+      "source_sha256": "8442ec6098cc2861919d9377d8c390c4612d32ea1a071dc852d6ca416566cc9c",
+      "source_dimensions": [
+        79,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "2101-SEM-3",
+          "name": "Herrlis E. Elsbourg",
+          "district": "Alsace",
+          "group": "Poule M",
+          "club_url": "https://thefootdata.com/clubs/as-herrlisheim?equipe=2101-SEM-3&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc504145.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc504145.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        205,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "0d4ad747171bcf3534a7bf5d4f3402c2f247a194983bc10acc963397045fc09e"
+    },
+    "504150": {
+      "affiliation": "504150",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC504150.jpg",
+      "source_sha256": "265ea165e078d36377fa8c53b699d92bd7c2d03ed87e3d127f4c63ae7468fa5f",
+      "source_dimensions": [
+        100,
+        84
+      ],
+      "teams": [
+        {
+          "squad_key": "2104-SEM-4",
+          "name": "Huningue A.S",
+          "district": "Alsace",
+          "group": "Poule N",
+          "club_url": "https://thefootdata.com/clubs/as-1919-huningue?equipe=2104-SEM-4&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc504150.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc504150.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        225,
+        245,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "48edfda87cafe975517b4632989ce5dbb51dcf0e51164fdf162a974fe58b4ff7"
+    },
+    "504151": {
+      "affiliation": "504151",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC504151.jpg",
+      "source_sha256": "b3e9a56bd5bd77ac0e03c694778e60729b8c61d7ce63bde42b05f07527ec2d33",
+      "source_dimensions": [
+        100,
+        97
+      ],
+      "teams": [
+        {
+          "squad_key": "2105-SEM-2",
+          "name": "Huttenheim U.S.",
+          "district": "Alsace",
+          "group": "Poule K",
+          "club_url": "https://thefootdata.com/clubs/us-huttenheim?equipe=2105-SEM-2&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc504151.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc504151.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        194,
+        202,
+        212
+      ],
+      "rule": "neutral",
+      "sha256": "33855bbb118ac6d8678e468a3d0178f773aad0b38e1896b512e85663193e8b8a"
+    },
+    "504163": {
+      "affiliation": "504163",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC504163.jpg",
+      "source_sha256": "bf37385d7d39287bd37ed1d45b897834a0f337ddaf5d2be8293db79d7fb7e16d",
+      "source_dimensions": [
+        100,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "2110-SEM-1",
+          "name": "Mackwiller F.C",
+          "district": "Alsace",
+          "group": "Poule A",
+          "club_url": "https://thefootdata.com/clubs/fc-mackwiller?equipe=2110-SEM-1&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc504163.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc504163.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        165,
+        165,
+        245
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "4dea4bdf3f8128de6d71ea701c9b88338980035e88c64db6f6ccaaf262af9ea1"
+    },
+    "504177": {
+      "affiliation": "504177",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC504177.jpg",
+      "source_sha256": "632d9f40d184a0997be1356c2dd674c3bd42eeb687d99855ebe57653cee5bcc1",
+      "source_dimensions": [
+        100,
+        92
+      ],
+      "teams": [
+        {
+          "squad_key": "2121-SEM-2",
+          "name": "Oberhoffen F.C",
+          "district": "Alsace",
+          "group": "Poule C",
+          "club_url": "https://thefootdata.com/clubs/fc-oberhoffen?equipe=2121-SEM-2&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc504177.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc504177.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        165,
+        165,
+        245
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "089d37487463a44237b7e22f5e96c2abf8dc98c2043d52945703889bc9ce4003"
+    },
+    "504179": {
+      "affiliation": "504179",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC504179.jpg",
+      "source_sha256": "63e25260842eada388759b924991e33bbbbc050bc8a7796fb66557362d67f2ef",
+      "source_dimensions": [
+        100,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "2122-SEM-2",
+          "name": "Oermingen F.C",
+          "district": "Alsace",
+          "group": "Poule A",
+          "club_url": "https://thefootdata.com/clubs/fc-oermingen?equipe=2122-SEM-2&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc504179.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc504179.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        165,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "6759e5d46ff50d855973d9313994e395dab8effa6d1d465d8cf3d4c2a313be9e"
+    },
+    "504184": {
+      "affiliation": "504184",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC504184.jpg",
+      "source_sha256": "a33e7723c513c70fa6bd5b999d09400b11c945ca657cfe7040f0b9e18992a1da",
+      "source_dimensions": [
+        100,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "2126-SEM-3",
+          "name": "Reguisheim F.C.",
+          "district": "Alsace",
+          "group": "Poule O",
+          "club_url": "https://thefootdata.com/clubs/fc-reguisheim?equipe=2126-SEM-3&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc504184.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc504184.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        165,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "6f55184ab599253971bf986db465d47dab8efc64edd1144d26542010781bc734"
+    },
+    "504185": {
+      "affiliation": "504185",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC504185.jpg",
+      "source_sha256": "86f505a5a4bdd953cec58019988c28535459db41cffa213fd64e10368fb89e42",
+      "source_dimensions": [
+        100,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "2127-SEM-2",
+          "name": "Reiningue Blue Star",
+          "district": "Alsace",
+          "group": "Poule P",
+          "club_url": "https://thefootdata.com/clubs/fc-blue-star-reiningue?equipe=2127-SEM-2&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc504185.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc504185.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        165,
+        185,
+        245
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "a786472201f899a0ce70413737f1533529101b07c63266dfd4f6f54f0ad73fbe"
+    },
+    "504192": {
+      "affiliation": "504192",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC504192.jpg",
+      "source_sha256": "94ac6bdde56d0df4d174cf6c0116cacfaf211b8edbdefd69f201a7275e72c9f0",
+      "source_dimensions": [
+        74,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "2133-SEM-3",
+          "name": "Rouffach F.C",
+          "district": "Alsace",
+          "group": "Poule O",
+          "club_url": "https://thefootdata.com/clubs/fc-rouffach?equipe=2133-SEM-3&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc504192.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc504192.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        165,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "bdf4852361410fb12aa1e769582269dbe17cfaaf183d6c7cb491aaba059b7274"
+    },
+    "504203": {
+      "affiliation": "504203",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC504203.jpg",
+      "source_sha256": "46852f271a480e289e1b48c62d5dcd22fcc741dc612714e00df12b5cc1700874",
+      "source_dimensions": [
+        79,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "2141-SEM-2",
+          "name": "Sundhouse U.S",
+          "district": "Alsace",
+          "group": "Poule L",
+          "club_url": "https://thefootdata.com/clubs/us-sundhouse?equipe=2141-SEM-2&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc504203.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc504203.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        245,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "5866e306693df6e49f11ec01c7aab385510a2ccaee6afa683ae2167de51b001b"
+    },
+    "504210": {
+      "affiliation": "504210",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC504210.jpg",
+      "source_sha256": "a5ae2edebdb24dc849083507534fc1a447a03643ebd9a54f522b58bab5e87b82",
+      "source_dimensions": [
+        76,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "2144-SEM-2",
+          "name": "Valff F.C",
+          "district": "Alsace",
+          "group": "Poule K",
+          "club_url": "https://thefootdata.com/clubs/fc-valff?equipe=2144-SEM-2&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc504210.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc504210.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        245,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "8c23959207968601190c748e0b8c62845a090aa9eab92b04cdda75fb32fb3c70"
+    },
+    "504212": {
+      "affiliation": "504212",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC504212.jpg",
+      "source_sha256": "15780caa7e24b329c3e8f23146e75b982ed02b4a64be21d76d98825a24b6fa33",
+      "source_dimensions": [
+        86,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "2145-SEM-2",
+          "name": "Waldhambach C.S",
+          "district": "Alsace",
+          "group": "Poule A",
+          "club_url": "https://thefootdata.com/clubs/cs-waldhambach?equipe=2145-SEM-2&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc504212.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc504212.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        165,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "0d67187abfe282f591801f7613fcffcb48f5a6026aa363ac8264e1ec98a95133"
+    },
+    "504220": {
+      "affiliation": "504220",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC504220.jpg",
+      "source_sha256": "d0e35982b4a77d1f62e6dc49ca2fc03e8d8e2e01783d0de2f648eb17238e3f58",
+      "source_dimensions": [
+        100,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "2151-SEM-2",
+          "name": "Gunsbach U.S.",
+          "district": "Alsace",
+          "group": "Poule M",
+          "club_url": "https://thefootdata.com/clubs/u-s-gunsbach-1946?equipe=2151-SEM-2&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc504220.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc504220.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        165,
+        165,
+        245
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "47a17f7cd91550267a6ac6872f30aaa6cb3c7c234279199080371714deffdbcc"
+    },
+    "508728": {
+      "affiliation": "508728",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC508728.jpg",
+      "source_sha256": "784bf96b1d3b3d4c8bad9897cd08800aa910152ed38a1b56c62e83cad47d09de",
+      "source_dimensions": [
+        100,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "3310-SEM-3",
+          "name": "Reichshoffen F.C",
+          "district": "Alsace",
+          "group": "Poule D",
+          "club_url": "https://thefootdata.com/clubs/fce-reichshoffen?equipe=3310-SEM-3&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc508728.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc508728.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        245,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "a88925fdf32686c82d41e359d33a966e8deb65b033413e6ee87a582efaca8615"
+    },
+    "508785": {
+      "affiliation": "508785",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC508785.jpg",
+      "source_sha256": "73eddfede225c6a2b1f95f22a624af2ee73b865ac51288d4d4ee57da394aa040",
+      "source_dimensions": [
+        96,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "3343-SEM-3",
+          "name": "Imbsheim U.S",
+          "district": "Alsace",
+          "group": "Poule B",
+          "club_url": "https://thefootdata.com/clubs/us-imbsheim?equipe=3343-SEM-3&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc508785.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc508785.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        165,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "1dd40f3cc0ba4dc816640011d4c84df3e2280b0ef1f32d8497ca11bc585349ac"
+    },
+    "508937": {
+      "affiliation": "508937",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC508937.jpg",
+      "source_sha256": "d0f2514e09ed01f0fff2452c3df4e4d2d157ab285a209b68f22c6adeb9d0a5ca",
+      "source_dimensions": [
+        100,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "3367-SEM-3",
+          "name": "Andolsheim A.S.",
+          "district": "Alsace",
+          "group": "Poule M",
+          "club_url": "https://thefootdata.com/clubs/as-andolsheim?equipe=3367-SEM-3&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc508937.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc508937.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        165,
+        245,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "e52427d1535b5e8ba8266a031b555f343a66973802b0a2b77855841fd38016c6"
+    },
+    "509263": {
+      "affiliation": "509263",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC509263.jpg",
+      "source_sha256": "a13608a76b1ea38b0e21d0c156e29f2c0fe6158bdf38112c4624ec4d59023d4a",
+      "source_dimensions": [
+        88,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "3419-SEM-4",
+          "name": "Munchhouse F.C.",
+          "district": "Alsace",
+          "group": "Poule N",
+          "club_url": "https://thefootdata.com/clubs/fc-munchhouse?equipe=3419-SEM-4&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc509263.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc509263.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        165,
+        205,
+        245
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "635fe1f8fadac813841dbcb2983dfe08b2a271325cfb980ce4edfb7b5785325c"
+    },
+    "509457": {
+      "affiliation": "509457",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC509457.jpg",
+      "source_sha256": "8584577c905f8ca6c2a2d6de5f1758618ceae2d1025c28a7e9300b104691530e",
+      "source_dimensions": [
+        70,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "3455-SEM-4",
+          "name": "Mundolsheim A.S",
+          "district": "Alsace",
+          "group": "Poule H",
+          "club_url": "https://thefootdata.com/clubs/as-mundolsheim?equipe=3455-SEM-4&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc509457.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc509457.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        225,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "9ba8d28fa1acb2b38ca350fd2119aabf6b522808ac4ebd258656c14c02f7ad90"
+    },
+    "509637": {
+      "affiliation": "509637",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC509637.jpg",
+      "source_sha256": "25545853263fa347397d90cde9a795f1a1245727d7e700dde4e5a5f6bf9ba811",
+      "source_dimensions": [
+        100,
+        88
+      ],
+      "teams": [
+        {
+          "squad_key": "3486-SEM-3",
+          "name": "Schlierbach A.S.",
+          "district": "Alsace",
+          "group": "Poule Q",
+          "club_url": "https://thefootdata.com/clubs/as-schlierbach?equipe=3486-SEM-3&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc509637.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc509637.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        245,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "2dcdee74a3ad0c1cabf606d3cc159546b5992e69aeab6d8b1a981e918e698377"
+    },
+    "509638": {
+      "affiliation": "509638",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC509638.jpg",
+      "source_sha256": "141a667b08bfbf47f2fed16df3c903b943ed715fc2293f3ce3546b3212132e4f",
+      "source_dimensions": [
+        89,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "3487-SEM-4",
+          "name": "Strg Neudorf As",
+          "district": "Alsace",
+          "group": "Poule K",
+          "club_url": "https://thefootdata.com/clubs/as-neudorf-1925?equipe=3487-SEM-4&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc509638.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc509638.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        165,
+        185,
+        245
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "797b47b635d2baa865013155c3514654c719e5314ebed404cf58847dc5aa32b3"
+    },
+    "509764": {
+      "affiliation": "509764",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC509764.jpg",
+      "source_sha256": "94156e639de040de2902f7076c451359be57780446cf4cdd3992e100a2c1b69f",
+      "source_dimensions": [
+        100,
+        71
+      ],
+      "teams": [
+        {
+          "squad_key": "3509-SEM-3",
+          "name": "Stotzheim E.S",
+          "district": "Alsace",
+          "group": "Poule K",
+          "club_url": "https://thefootdata.com/clubs/es-stotzheim?equipe=3509-SEM-3&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc509764.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc509764.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        165,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "4537914c36e33d86c3a33f03bfe61f5aef77897d2e18bfde88856e3def2da7d3"
+    },
+    "509766": {
+      "affiliation": "509766",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC509766.jpg",
+      "source_sha256": "2fb50e0b470d4ea55c605c04191269c0c12894a8d4f9634480c318131d961c13",
+      "source_dimensions": [
+        100,
+        98
+      ],
+      "teams": [
+        {
+          "squad_key": "3510-SEM-2",
+          "name": "Wolxh. Ent Bergbiet.",
+          "district": "Alsace",
+          "group": "Poule J",
+          "club_url": "https://thefootdata.com/clubs/cercs-st-etienne-wolxheim?equipe=3510-SEM-2&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc509766.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc509766.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        225,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "da2d2c830a6b88e0b8d72f10a0e0896666d9d06b6259bc43f88584585230a9a1"
+    },
+    "510165": {
+      "affiliation": "510165",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC510165.jpg",
+      "source_sha256": "08a3d6fbe7f25b5c4b71a53331850fd91a5d586f4962a813a492cee61757bcc1",
+      "source_dimensions": [
+        100,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "3568-SEM-4",
+          "name": "Ostwald F.C",
+          "district": "Alsace",
+          "group": "Poule I",
+          "club_url": "https://thefootdata.com/clubs/fc-ostwald?equipe=3568-SEM-4&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc510165.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc510165.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        165,
+        245,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "c7af1f80f9bc12787e0a73e7c272a23d03fe4bb53150bdf5823d3e5ca6654e2b"
+    },
+    "510304": {
+      "affiliation": "510304",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC510304.jpg",
+      "source_sha256": "caa4a62b26a07d61eee1560846fbd217ee0c3c89549842373e4547160b1503f8",
+      "source_dimensions": [
+        75,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "3598-SEM-3",
+          "name": "Hatten A.S",
+          "district": "Alsace",
+          "group": "Poule E",
+          "club_url": "https://thefootdata.com/clubs/as-hatten?equipe=3598-SEM-3&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc510304.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc510304.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        245,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "3cdd388ba5899bfad80f319768c19edc162c6d86979e06dced2e708423e95951"
+    },
+    "511368": {
+      "affiliation": "511368",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC511368.jpg",
+      "source_sha256": "89bdb33873103822fd8c3beca114d5ece5174c8f1c93b0881520adf354a9b654",
+      "source_dimensions": [
+        61,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "3774-SEM-3",
+          "name": "Hipsheim Fc",
+          "district": "Alsace",
+          "group": "Poule J",
+          "club_url": "https://thefootdata.com/clubs/fc-hipsheim?equipe=3774-SEM-3&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc511368.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc511368.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        185,
+        245,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "84fc1d223e20c93e86b334a4536cdf7905ea6f4aa5e37447f911f101309b855c"
+    },
+    "511457": {
+      "affiliation": "511457",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC511457.jpg",
+      "source_sha256": "768e2a41c78d8d5e6c332965b9ec2d0b5410abde57d2735faee87b2b02c601b8",
+      "source_dimensions": [
+        100,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "3795-SEM-2",
+          "name": "Ottrott A.S",
+          "district": "Alsace",
+          "group": "Poule J",
+          "club_url": "https://thefootdata.com/clubs/as-ottrott?equipe=3795-SEM-2&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc511457.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc511457.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        165,
+        245,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "3072e0abe00788dbb08d65f4330fb7defb69de2333beab0e38a56667b4ee6316"
+    },
+    "512756": {
+      "affiliation": "512756",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC512756.jpg",
+      "source_sha256": "74cb93411e5788a2d940fdb9446bc5be5f3a821ff852cba22118e10b2fb6036d",
+      "source_dimensions": [
+        100,
+        77
+      ],
+      "teams": [
+        {
+          "squad_key": "4085-SEM-3",
+          "name": "Buhl F.C",
+          "district": "Alsace",
+          "group": "Poule O",
+          "club_url": "https://thefootdata.com/clubs/fc-buhl?equipe=4085-SEM-3&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc512756.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc512756.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        165,
+        185,
+        245
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "7c5834363cf062530e20a97286dc65d8710ab5a8d5f08cbfe9103a07e111ae70"
+    },
+    "512821": {
+      "affiliation": "512821",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC512821.jpg",
+      "source_sha256": "f476a8602bcc356c15fa1fd4ce155c19e6c15096ef0b9ecaa157f4801453c4df",
+      "source_dimensions": [
+        100,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "4096-SEM-3",
+          "name": "Steinseltz F.C",
+          "district": "Alsace",
+          "group": "Poule E",
+          "club_url": "https://thefootdata.com/clubs/fc-steinseltz?equipe=4096-SEM-3&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc512821.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc512821.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        225,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "ca8a784ad96605d37db11f009c0a5569ffaea6a65612713f2df10389858fb59d"
+    },
+    "512862": {
+      "affiliation": "512862",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC512862.jpg",
+      "source_sha256": "5212f11d2b09e06e73f72886799cf1925aea36c948eac3cbe376e925eac022cc",
+      "source_dimensions": [
+        99,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "4106-SEM-1",
+          "name": "Morsbronn Ent Woerth",
+          "district": "Alsace",
+          "group": "Poule D",
+          "club_url": "https://thefootdata.com/clubs/es-morsbronn-les-bains?equipe=4106-SEM-1&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc512862.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc512862.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        165,
+        205,
+        245
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "fe2e8007ba9447122abf7a2297126dfd81eb8ff66271dabf7cd7721a414a6e57"
+    },
+    "513022": {
+      "affiliation": "513022",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC513022.jpg",
+      "source_sha256": "ab444cb40ead8008b1a8c9565bdbd61984662617e8ebfd027cbbd5a57b9b0237",
+      "source_dimensions": [
+        82,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "4136-SEM-3",
+          "name": "Riedseltz F.C",
+          "district": "Alsace",
+          "group": "Poule E",
+          "club_url": "https://thefootdata.com/clubs/fc-riedseltz?equipe=4136-SEM-3&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc513022.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc513022.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        165,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "ef59a266697ddeab953ecefe86f9b0faa5e38a55d2c38239cebc9c8546a19806"
+    },
+    "516915": {
+      "affiliation": "516915",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC516915.jpg",
+      "source_sha256": "d8d8c71c360c33537c29bbda5963a543f4333ae43b30fd34913fc322805f4fbc",
+      "source_dimensions": [
+        75,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "5174-SEM-2",
+          "name": "Leutenheim A.S.S.B.",
+          "district": "Alsace",
+          "group": "Poule F",
+          "club_url": "https://thefootdata.com/clubs/as-st-barthelemy-leutenheim?equipe=5174-SEM-2&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc516915.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc516915.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        165,
+        245,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "6894e1e0cc0a6d05ed60b193f1befffb16ff6c3744e8da8fac5df4db4df85a2b"
+    },
+    "516917": {
+      "affiliation": "516917",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC516917.jpg",
+      "source_sha256": "f9ac06d87ae4d5fd04dfc21b99019a2f4d2c3625c0ac3231df1d0a894f6bfac9",
+      "source_dimensions": [
+        100,
+        97
+      ],
+      "teams": [
+        {
+          "squad_key": "5175-SEM-4",
+          "name": "Vallee Thur U.S.",
+          "district": "Alsace",
+          "group": "Poule P",
+          "club_url": "https://thefootdata.com/clubs/us-vallee-de-la-thur?equipe=5175-SEM-4&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc516917.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc516917.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        165,
+        245,
+        245
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "1a829bf5b0d41912b5c91f9b74a1ef586925dc856786b550f9951e6ff4ea3a29"
+    },
+    "517673": {
+      "affiliation": "517673",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC517673.jpg",
+      "source_sha256": "60a967d6a456b6faa33f9a80d54dbab26d4240c4bbb00ecd5b989bd2cc491926",
+      "source_dimensions": [
+        100,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "5495-SEM-3",
+          "name": "Eschbach F.C",
+          "district": "Alsace",
+          "group": "Poule D",
+          "club_url": "https://thefootdata.com/clubs/fc-eschbach?equipe=5495-SEM-3&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc517673.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc517673.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        165,
+        245,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "422d629887c9856956f9aae36417f6b10b8c4378bb94ca41823cdd9fd78d8f7c"
+    },
+    "517689": {
+      "affiliation": "517689",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC517689.jpg",
+      "source_sha256": "028b6b186681d389f800e85807bad287ceac869fb2b9670d916122a7da220a47",
+      "source_dimensions": [
+        82,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "5503-SEM-2",
+          "name": "Meistratzheim U.S",
+          "district": "Alsace",
+          "group": "Poule J",
+          "club_url": "https://thefootdata.com/clubs/us-meistratzheim?equipe=5503-SEM-2&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc517689.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc517689.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        165,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "8232973b9c6b81edbc7348959eeaee61e2a25deea4a436b6d05e5b9a96f5aebc"
+    },
+    "517956": {
+      "affiliation": "517956",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC517956.jpg",
+      "source_sha256": "a72522c5d7800853bbc09bb06ebde9bb8e7ca48fb8cf8d33fed3f40f402264cc",
+      "source_dimensions": [
+        100,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "5628-SEM-3",
+          "name": "Ettendorf Ent Alteck",
+          "district": "Alsace",
+          "group": "Poule B",
+          "club_url": "https://thefootdata.com/clubs/us-ettendorf?equipe=5628-SEM-3&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc517956.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc517956.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        245,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "5d58ef149f74207f2daa0b1d74303c1eb067fb531c8aae53782a181c755b1408"
+    },
+    "518040": {
+      "affiliation": "518040",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC518040.jpg",
+      "source_sha256": "374c7aa49a48cd4856ab36a478c365c5cdb7790a752e49883ba17ba160502ff7",
+      "source_dimensions": [
+        100,
+        63
+      ],
+      "teams": [
+        {
+          "squad_key": "5676-SEM-3",
+          "name": "Grussenheim F.C.",
+          "district": "Alsace",
+          "group": "Poule L",
+          "club_url": "https://thefootdata.com/clubs/fc-grussenheim?equipe=5676-SEM-3&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc518040.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc518040.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        165,
+        185,
+        245
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "0b8caf095b39b0ba67a29ef9923d18e43ad0495aaa58ef29425797c9fcbe8a1a"
+    },
+    "518257": {
+      "affiliation": "518257",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC518257.jpg",
+      "source_sha256": "8311c87ae68aceb2503c6ed1a76935ea51c7e84bb6432334af582f246968f7c8",
+      "source_dimensions": [
+        86,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "5783-SEM-2",
+          "name": "Mulhausen F.C",
+          "district": "Alsace",
+          "group": "Poule B",
+          "club_url": "https://thefootdata.com/clubs/fc-mulhausen?equipe=5783-SEM-2&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc518257.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc518257.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        225,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "bc607760ac5541fc7695491db673406667453e84f0d095e1c99703d6205950d7"
+    },
+    "518966": {
+      "affiliation": "518966",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC518966.jpg",
+      "source_sha256": "2dbb846212d8533acf3df5b61e10dc097235754df55bea3d7f932f6cd752f8dd",
+      "source_dimensions": [
+        73,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "6112-SEM-2",
+          "name": "Schnersheim F.C",
+          "district": "Alsace",
+          "group": "Poule G",
+          "club_url": "https://thefootdata.com/clubs/fc-schnersheim?equipe=6112-SEM-2&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc518966.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc518966.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        165,
+        185,
+        245
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "d69662e2daa23ef7c68217c24767eab063d1673991566f07ae79510adc161711"
+    },
+    "519489": {
+      "affiliation": "519489",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC519489.jpg",
+      "source_sha256": "2b9ac9ad1ee754bec65f5c58d4c8cca5b77e13477bab269fd159639995e42f26",
+      "source_dimensions": [
+        100,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "6346-SEM-2",
+          "name": "Willgottheim A.S",
+          "district": "Alsace",
+          "group": "Poule G",
+          "club_url": "https://thefootdata.com/clubs/as-willgottheim?equipe=6346-SEM-2&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc519489.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc519489.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        245,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "3bf60a6223692de8d05c63bcfcc09525e9845d3e7fab8b23f53f55f363466ae5"
+    },
+    "519635": {
+      "affiliation": "519635",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC519635.jpg",
+      "source_sha256": "a9d5e0b0b3a7a5c154a32210a96eef461c449ec6db9dee877a5209f5f9295b5d",
+      "source_dimensions": [
+        76,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "6441-SEM-2",
+          "name": "Mothern Ent. Munchh.",
+          "district": "Alsace",
+          "group": "Poule E",
+          "club_url": "https://thefootdata.com/clubs/fc-mothern?equipe=6441-SEM-2&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc519635.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc519635.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        165,
+        205,
+        245
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "2fc0614d092fe790d7b86d144c4294810b1733a6d5111f870903d22bda936abf"
+    },
+    "519857": {
+      "affiliation": "519857",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC519857.jpg",
+      "source_sha256": "abd9b11b4b7332f7ff5ead3ddaca545f3b11cee46d3912df442e7ebff3730ca6",
+      "source_dimensions": [
+        100,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "6577-SEM-3",
+          "name": "Fessenheim F.C",
+          "district": "Alsace",
+          "group": "Poule O",
+          "club_url": "https://thefootdata.com/clubs/fc-fessenheim?equipe=6577-SEM-3&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc519857.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc519857.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        165,
+        205,
+        245
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "0db17895627a20290c36222a83a28836d0ca0cd06df82a263cfaeee22dade2ef"
+    },
+    "520393": {
+      "affiliation": "520393",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC520393.jpg",
+      "source_sha256": "06384f4c9794bafbbc7f2540f88f2816faf47a1cab14da32d7ecd838c59c099f",
+      "source_dimensions": [
+        83,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "6885-SEM-4",
+          "name": "Balschwiller Ehb2016",
+          "district": "Alsace",
+          "group": "Poule Q",
+          "club_url": "https://thefootdata.com/clubs/entente-hagenbach-balschwiller-2016?equipe=6885-SEM-4&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc520393.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc520393.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        205,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "c1bab5ed865bff2c0ce557640cda9b3ee71da1ec7a6ee409c6d49c1149d9b045"
+    },
+    "520912": {
+      "affiliation": "520912",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC520912.jpg",
+      "source_sha256": "d3dfd35b39fdd2e4cb5d1f56b6382fb20ff086f878f755b9643759d229265e3f",
+      "source_dimensions": [
+        100,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "7217-SEM-2",
+          "name": "Sports Reunis Riquewihr",
+          "district": "Alsace",
+          "group": "Poule L",
+          "club_url": "https://thefootdata.com/clubs/sports-reunis-riquewihr?equipe=7217-SEM-2&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc520912.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc520912.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        245,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "3cfe6bc8a797f279a34b8a6fefa1e60fd5fea32e4b13c00c71debf0133cadd70"
+    },
+    "520937": {
+      "affiliation": "520937",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC520937.jpg",
+      "source_sha256": "50cc58eefc71ab1fe28172df1f9c9b67c135c949292fcaf35b7a64bd61aaa641",
+      "source_dimensions": [
+        100,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "7230-SEM-2",
+          "name": "Nordheim Kutt A.S",
+          "district": "Alsace",
+          "group": "Poule G",
+          "club_url": "https://thefootdata.com/clubs/as-nordheim-kuttolsheim?equipe=7230-SEM-2&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc520937.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc520937.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        165,
+        205,
+        245
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "5df3b1b13c701d2f298468f70b4ac0f1955ee0472c8f9efd72d5e3007486bb11"
+    },
+    "520939": {
+      "affiliation": "520939",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC520939.jpg",
+      "source_sha256": "79f9db92ba86d1a80ec210e4568c54d309b819ee5f95d961d7c51dd7baf271be",
+      "source_dimensions": [
+        100,
+        84
+      ],
+      "teams": [
+        {
+          "squad_key": "7232-SEM-2",
+          "name": "Brotsch A.S.C",
+          "district": "Alsace",
+          "group": "Poule B",
+          "club_url": "https://thefootdata.com/clubs/asc-brotsch-haegen-reinhardm?equipe=7232-SEM-2&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc520939.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc520939.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        194,
+        202,
+        212
+      ],
+      "rule": "neutral",
+      "sha256": "1dc8b1689194d7219f6a47a3a530d3d4ff125b839f951f6b0176fd22a7a7be50"
+    },
+    "521063": {
+      "affiliation": "521063",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC521063.jpg",
+      "source_sha256": "90edfa241aa22a4f481856b3e560e3dd014803fe0ff1c03177dbf33ad298a9ac",
+      "source_dimensions": [
+        99,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "7325-SEM-2",
+          "name": "Bettend. Ent. Egb",
+          "district": "Alsace",
+          "group": "Poule Q",
+          "club_url": "https://thefootdata.com/clubs/us-bettendorf?equipe=7325-SEM-2&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc521063.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc521063.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        165,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "6697e63f768a4228368305bea56b14e07bd962454590aa4e3bd2a1dbd0698ccb"
+    },
+    "521155": {
+      "affiliation": "521155",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC521155.jpg",
+      "source_sha256": "cd673b17ae729b9d5daad90f9dc15fe3fe19b85541746562677486e7e3d9a3c2",
+      "source_dimensions": [
+        100,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "7385-SEM-2",
+          "name": "Forst. Ent Neuhaeus.",
+          "district": "Alsace",
+          "group": "Poule F",
+          "club_url": "https://thefootdata.com/clubs/as-forstfeld?equipe=7385-SEM-2&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc521155.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc521155.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        165,
+        185,
+        245
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "5e61589aa2db9de8f8d76bf02758f4a443a94fb6fd6203c2fc0044786689efd0"
+    },
+    "521156": {
+      "affiliation": "521156",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC521156.jpg",
+      "source_sha256": "f65e45c5d56fa7c78738b0b3eb63f0bfc3833dde4ee1387c61d0021a543bada7",
+      "source_dimensions": [
+        100,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "7386-SEM-3",
+          "name": "Oltingue Raedersdorf",
+          "district": "Alsace",
+          "group": "Poule Q",
+          "club_url": "https://thefootdata.com/clubs/fc-oltingue?equipe=7386-SEM-3&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc521156.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc521156.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        165,
+        205,
+        245
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "ab608b4226c2aacbc22d03d72f8d522a77d9aebf5a1d1b75b0e55f9feed306bd"
+    },
+    "521277": {
+      "affiliation": "521277",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC521277.jpg",
+      "source_sha256": "f10e47785b381bf35bc99e6e467badcad59ad8c898afc05ceaaf7eb40e1363d5",
+      "source_dimensions": [
+        92,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "7475-SEM-2",
+          "name": "Kurtzenhouse As",
+          "district": "Alsace",
+          "group": "Poule H",
+          "club_url": "https://thefootdata.com/clubs/as-kurtzenhouse?equipe=7475-SEM-2&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc521277.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc521277.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        165,
+        185
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "525b2266d177534559e4595490d074177e31828527e81040f6222522cb3fb2f8"
+    },
+    "521278": {
+      "affiliation": "521278",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC521278.jpg",
+      "source_sha256": "f58bac1a656a39504c5451b94a0a090f497f78d1a45e47f594ac87b2f3854459",
+      "source_dimensions": [
+        100,
+        98
+      ],
+      "teams": [
+        {
+          "squad_key": "7476-SEM-3",
+          "name": "Niedernai A.S",
+          "district": "Alsace",
+          "group": "Poule K",
+          "club_url": "https://thefootdata.com/clubs/as-niedernai?equipe=7476-SEM-3&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc521278.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc521278.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        194,
+        202,
+        212
+      ],
+      "rule": "neutral",
+      "sha256": "5189941121dd20dc010a6f2531a123e60a3f4fcb3457391227bddf020eacc1a3"
+    },
+    "521282": {
+      "affiliation": "521282",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC521282.jpg",
+      "source_sha256": "c1d84606640416e789862cd883356872dcf1606e85ecf7ff88db259b7f08b614",
+      "source_dimensions": [
+        100,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "7479-SEM-3",
+          "name": "Schleithal Nied. Ent",
+          "district": "Alsace",
+          "group": "Poule E",
+          "club_url": "https://thefootdata.com/clubs/us-schleithal?equipe=7479-SEM-3&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc521282.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc521282.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        245,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "7a828d6c4f3002c53dd9314d3343d7c949912acc00dfe1182df5254a16fe4355"
+    },
+    "521550": {
+      "affiliation": "521550",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC521550.jpg",
+      "source_sha256": "9e0e90b44688604a118c2541fde1748604afac053a982a366260ad893b17f374",
+      "source_dimensions": [
+        73,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "7644-SEM-3",
+          "name": "Pfaffenheim A.S.",
+          "district": "Alsace",
+          "group": "Poule M",
+          "club_url": "https://thefootdata.com/clubs/as-pfaffenheim?equipe=7644-SEM-3&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc521550.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc521550.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        165,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "686eb0954973d8975549ec63bfb936731dbe9f40c422e3ecece323212744331a"
+    },
+    "521633": {
+      "affiliation": "521633",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC521633.jpg",
+      "source_sha256": "f48171cde96fb5004850d8c931eac916a8946442d30c1762fdc46d906b5762b8",
+      "source_dimensions": [
+        67,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "7694-SEM-3",
+          "name": "Avenir Asi",
+          "district": "Alsace",
+          "group": "Poule A",
+          "club_url": "https://thefootdata.com/clubs/asi-avenir-football?equipe=7694-SEM-3&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc521633.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc521633.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        165,
+        205,
+        245
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "f3c7270095466409fb367246bb5e23e34e354512809c2b8b37a0f2858452b53a"
+    },
+    "521646": {
+      "affiliation": "521646",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC521646.jpg",
+      "source_sha256": "67c651f0a86b258c31ba0c5e0495f029ef969e4042b96a6ad39361ba0c415dcf",
+      "source_dimensions": [
+        100,
+        84
+      ],
+      "teams": [
+        {
+          "squad_key": "7703-SEM-3",
+          "name": "Wettolsheim F.C.",
+          "district": "Alsace",
+          "group": "Poule M",
+          "club_url": "https://thefootdata.com/clubs/fc-wettolsheim?equipe=7703-SEM-3&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc521646.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc521646.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        165,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "41ccae1be9f5ee713b7506d48aafb82721979ff07f6f8652259b1870b8d5ec36"
+    },
+    "522272": {
+      "affiliation": "522272",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC522272.jpg",
+      "source_sha256": "cf0b59d566fcd7bda2e3e86426b232c89e35948ee6ede395e1dbb99ed702fb2c",
+      "source_dimensions": [
+        100,
+        97
+      ],
+      "teams": [
+        {
+          "squad_key": "8115-SEM-3",
+          "name": "Schaffhouse F.C",
+          "district": "Alsace",
+          "group": "Poule G",
+          "club_url": "https://thefootdata.com/clubs/fc-schaffhouse-s-zorn?equipe=8115-SEM-3&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc522272.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc522272.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        194,
+        202,
+        212
+      ],
+      "rule": "neutral",
+      "sha256": "ae1cf29f9faf322ae92b686a46d968e74970e05405b6415a9db5ce7b3fe70ff5"
+    },
+    "522299": {
+      "affiliation": "522299",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC522299.jpg",
+      "source_sha256": "c7967c13c5c29830e3b898b2a8c564f8568af07cb3231cff25491bcadbf2af6a",
+      "source_dimensions": [
+        78,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "8129-SEM-1",
+          "name": "Weiterswiller A.S",
+          "district": "Alsace",
+          "group": "Poule B",
+          "club_url": "https://thefootdata.com/clubs/as-weiterswiller?equipe=8129-SEM-1&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc522299.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc522299.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        165,
+        185,
+        245
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "c3c1adce652607060bb2f406f9850f3611533f599293eb6f204a56a9e0642b4a"
+    },
+    "522997": {
+      "affiliation": "522997",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC522997.jpg",
+      "source_sha256": "2604dd983a7b84d6109e4782e841cf63f297220a80d674ae1b54d317e34a0632",
+      "source_dimensions": [
+        100,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "8565-SEM-2",
+          "name": "St Hippolyte A.S.",
+          "district": "Alsace",
+          "group": "Poule L",
+          "club_url": "https://thefootdata.com/clubs/as-st-hippolyte?equipe=8565-SEM-2&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc522997.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc522997.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        165,
+        245,
+        185
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "c6795ef730b9fcca84220198a5264205b70913134434052ecfb02b77f8885b10"
+    },
+    "523451": {
+      "affiliation": "523451",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC523451.jpg",
+      "source_sha256": "65b68b6432713b93e39ed51d09d81896bd1901ef5e88f5b3b1025fa6a503b2b9",
+      "source_dimensions": [
+        100,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "8854-SEM-2",
+          "name": "Maisonsgoutte S.C",
+          "district": "Alsace",
+          "group": "Poule L",
+          "club_url": "https://thefootdata.com/clubs/sc-maisonsgoutte?equipe=8854-SEM-2&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc523451.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc523451.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        165,
+        205,
+        245
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "d8cb607b94ae5a3682d13484a999fa5471be38fb185bbfa11dcefd2f68a8786b"
+    },
+    "523732": {
+      "affiliation": "523732",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC523732.jpg",
+      "source_sha256": "b69cca8072a429444371f07337343b07a942744a2ffc4b16f6a01f86826f9d5b",
+      "source_dimensions": [
+        100,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "9029-SEM-3",
+          "name": "Durlinsdorf A.S",
+          "district": "Alsace",
+          "group": "Poule Q",
+          "club_url": "https://thefootdata.com/clubs/as-durlinsdorf?equipe=9029-SEM-3&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc523732.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc523732.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        225,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "35b398e73268d14b8ff31e52172f44996848b96d69c242f09767ec3e780789a1"
+    },
+    "523901": {
+      "affiliation": "523901",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC523901.jpg",
+      "source_sha256": "d732ba3215ea3a8dc4cfb02cb32308e5a66538df12269cbd71d1ee28cf97daf2",
+      "source_dimensions": [
+        81,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "9136-SEM-2",
+          "name": "Schiltigh Esp",
+          "district": "Alsace",
+          "group": "Poule H",
+          "club_url": "https://thefootdata.com/clubs/as-espagnols-schiltigheim?equipe=9136-SEM-2&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc523901.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc523901.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        165,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "6a6ee52e28d51e84ced813cb63b25cb8011feeb2cbdf021f9cc25f56bebbe7f1"
+    },
+    "524153": {
+      "affiliation": "524153",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC524153.jpg",
+      "source_sha256": "9b80573f4bc09f825b8cf57b0142f340157c75990c689ae6b03a5f4f6adaa674",
+      "source_dimensions": [
+        100,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "9308-SEM-2",
+          "name": "Munchhaus.Ent.Moth.",
+          "district": "Alsace",
+          "group": "Poule F",
+          "club_url": "https://thefootdata.com/clubs/fc-munchhausen?equipe=9308-SEM-2&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc524153.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc524153.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        165,
+        205,
+        245
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "491d62ae9974333ffc570219391889655db01d4cd41cfa6f61215c90165b8812"
+    },
+    "524203": {
+      "affiliation": "524203",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC524203.jpg",
+      "source_sha256": "87f94ea1c15bb0b7cb4b4aa999eeda0572f04a031ae6b8ae52e44b7862424106",
+      "source_dimensions": [
+        100,
+        98
+      ],
+      "teams": [
+        {
+          "squad_key": "9331-SEM-3",
+          "name": "Holtzheim A.S",
+          "district": "Alsace",
+          "group": "Poule I",
+          "club_url": "https://thefootdata.com/clubs/as-holtzheim?equipe=9331-SEM-3&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc524203.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc524203.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        165,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "c5e2b2696484a57120efc0b7292d36b4c216100e2ae3dc6be33c1452577a339e"
+    },
+    "524677": {
+      "affiliation": "524677",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC524677.jpg",
+      "source_sha256": "19f7c379042f4ae821a1f3d60ab2ff303fcb4d6b51038ebe609165d9c1b18ce3",
+      "source_dimensions": [
+        100,
+        99
+      ],
+      "teams": [
+        {
+          "squad_key": "9645-SEM-2",
+          "name": "Oberroed Ent Asa Fch",
+          "district": "Alsace",
+          "group": "Poule F",
+          "club_url": "https://thefootdata.com/clubs/fc-oberroedern?equipe=9645-SEM-2&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc524677.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc524677.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        165,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "c43dd5a9a153901bf15099342034119df1260ec7b428bd3820dddcad921172de"
+    },
+    "524868": {
+      "affiliation": "524868",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC524868.jpg",
+      "source_sha256": "1b151d18f813e561e0fa18c4c0978ad3609cdfa983a3949f713131b440de39e2",
+      "source_dimensions": [
+        99,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "9758-SEM-2",
+          "name": "Wihr Au Val E.S.",
+          "district": "Alsace",
+          "group": "Poule M",
+          "club_url": "https://thefootdata.com/clubs/es-wihr-au-val?equipe=9758-SEM-2&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc524868.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc524868.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        225,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "f769cd5229e5d9651cd445f4686a76a6f3f79c2943896818ccbb3d7a46dc66f2"
+    },
+    "525960": {
+      "affiliation": "525960",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC525960.jpg",
+      "source_sha256": "aefafa2f2b1ebf7f70de4cc872d40bc17ff3193863d46b7b26297e33365abea4",
+      "source_dimensions": [
+        89,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "10534-SEM-1",
+          "name": "Hoffen F.C",
+          "district": "Alsace",
+          "group": "Poule E",
+          "club_url": "https://thefootdata.com/clubs/fc-hoffen?equipe=10534-SEM-1&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc525960.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc525960.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        165,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "69eb36a22efdcb40e41d558d0d9144f3cd860ff61896821136ff66bead8b29db"
+    },
+    "526669": {
+      "affiliation": "526669",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC526669.jpg",
+      "source_sha256": "0f6a68b4d48207342b484973bb9acebbe9648413e3ec09693f3349aa1c51cc36",
+      "source_dimensions": [
+        100,
+        99
+      ],
+      "teams": [
+        {
+          "squad_key": "10988-SEM-2",
+          "name": "Blodelsheim Bantz Us",
+          "district": "Alsace",
+          "group": "Poule N",
+          "club_url": "https://thefootdata.com/clubs/union-sportive-blodelsheim-bantzenheim?equipe=10988-SEM-2&saison=2026"
+        },
+        {
+          "squad_key": "10988-SEM-3",
+          "name": "Blodelsheim Bantz Us",
+          "district": "Alsace",
+          "group": "Poule O",
+          "club_url": "https://thefootdata.com/clubs/union-sportive-blodelsheim-bantzenheim?equipe=10988-SEM-3&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc526669.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc526669.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        165,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "20b3a59e8b1f1f32adc9c9c5fbca8029854da4a5c64ce341393d62724c241112"
+    },
+    "527426": {
+      "affiliation": "527426",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC527426.jpg",
+      "source_sha256": "9b954009f64af83308ae44f18dc2cdd14fa9504fb3db4393c1939d65a00e398f",
+      "source_dimensions": [
+        100,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "11489-SEM-3",
+          "name": "Pfettisheim Epb",
+          "district": "Alsace",
+          "group": "Poule G",
+          "club_url": "https://thefootdata.com/clubs/es-pfettisheim?equipe=11489-SEM-3&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc527426.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc527426.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        165,
+        185,
+        245
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "f102caef560e462a55b6cee5451fe5ced3b2384ece62ec72f25875a775040f48"
+    },
+    "527530": {
+      "affiliation": "527530",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC527530.jpg",
+      "source_sha256": "b1d819082143a9bcf052432cf22e6a94710b166413aa54737f5d7b4dff049389",
+      "source_dimensions": [
+        100,
+        84
+      ],
+      "teams": [
+        {
+          "squad_key": "11561-SEM-2",
+          "name": "Strg Stockfeld",
+          "district": "Alsace",
+          "group": "Poule I",
+          "club_url": "https://thefootdata.com/clubs/fc-stockfeld-colombes?equipe=11561-SEM-2&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc527530.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc527530.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        165,
+        185,
+        245
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "5c39526a865ab88ef1ae5cc8915d0435a93b414da00f4f13d53cfcf3c79556b9"
+    },
+    "529503": {
+      "affiliation": "529503",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC529503.jpg",
+      "source_sha256": "a5b604f82c4ffacb014639500bb9a5d1c7c95df2ccb6d927595d9b5f8b9e24f4",
+      "source_dimensions": [
+        87,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "12894-SEM-3",
+          "name": "Avolsheim F.C",
+          "district": "Alsace",
+          "group": "Poule I",
+          "club_url": "https://thefootdata.com/clubs/fc-avolsheim?equipe=12894-SEM-3&saison=2026"
+        },
+        {
+          "squad_key": "12894-SEM-2",
+          "name": "Avolsheim F.C",
+          "district": "Alsace",
+          "group": "Poule J",
+          "club_url": "https://thefootdata.com/clubs/fc-avolsheim?equipe=12894-SEM-2&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc529503.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc529503.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        165,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "65957d5e962519239e1f0094bf98de4edfd389c48f466cadc8ff0c7b9a25d18d"
+    },
+    "529527": {
+      "affiliation": "529527",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC529527.jpg",
+      "source_sha256": "4a31256b8c4929d1e66aa20c29e29f5c3dc38465e55ad95d89c9c74f0574b40e",
+      "source_dimensions": [
+        73,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "12910-SEM-3",
+          "name": "Wittersdorf Zil Ent.",
+          "district": "Alsace",
+          "group": "Poule Q",
+          "club_url": "https://thefootdata.com/clubs/as-wittersdorf?equipe=12910-SEM-3&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc529527.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc529527.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        165,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "4c96b8985b6fbfe25039987635e24c26e6bfddd9382a9c8ab393d17ea2cffba9"
+    },
+    "529603": {
+      "affiliation": "529603",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC529603.jpg",
+      "source_sha256": "93cdd69806a0f9c36ab533cd69c8737a524fbfaef49b7e2ff8bca996f9d32f5b",
+      "source_dimensions": [
+        100,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "12967-SEM-2",
+          "name": "Wilwish. Ent. Lupst.",
+          "district": "Alsace",
+          "group": "Poule G",
+          "club_url": "https://thefootdata.com/clubs/as-wilwisheim?equipe=12967-SEM-2&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc529603.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc529603.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        165,
+        205,
+        245
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "34f1a97eed7f2bf0b3c863a4f7150ece057fdc73a9bea889224452ed9f874761"
+    },
+    "530582": {
+      "affiliation": "530582",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC530582.jpg",
+      "source_sha256": "86ee72bcfd2bde6269efa7ee547aa54c2d264ec5d0c4da6a7e631cc4488bdb30",
+      "source_dimensions": [
+        87,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "13669-SEM-1",
+          "name": "Mitz. Ent. Hte Thur",
+          "district": "Alsace",
+          "group": "Poule P",
+          "club_url": "https://thefootdata.com/clubs/mitzach-f-77?equipe=13669-SEM-1&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc530582.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc530582.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        205,
+        165,
+        245
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "23ea4b0aefa045e25010361411523cd91e63cfe6640953c64b01fe8bb715cef5"
+    },
+    "530635": {
+      "affiliation": "530635",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC530635.jpg",
+      "source_sha256": "0ed40718a7a0d82f75205cb47ee759cd94e976ecf943de952ded6643ec4b871b",
+      "source_dimensions": [
+        56,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "13700-SEM-3",
+          "name": "Wahlenheim Bern As",
+          "district": "Alsace",
+          "group": "Poule H",
+          "club_url": "https://thefootdata.com/clubs/as-wahlenheim-bernolsheim?equipe=13700-SEM-3&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc530635.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc530635.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        225,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "5844693e36c0e79c687fce4b2e906725faf7d82119ea1dc5ea734bbf9db63459"
+    },
+    "530638": {
+      "affiliation": "530638",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC530638.jpg",
+      "source_sha256": "4636d7aa0094e801625758175e6e9c7063123396e64996ea10666afc793b4e32",
+      "source_dimensions": [
+        100,
+        90
+      ],
+      "teams": [
+        {
+          "squad_key": "13703-SEM-2",
+          "name": "Lixhausen F.C",
+          "district": "Alsace",
+          "group": "Poule B",
+          "club_url": "https://thefootdata.com/clubs/fc-lixhausen?equipe=13703-SEM-2&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc530638.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc530638.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        165,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "57ade9663f93ef480966737631b9cdb506d4f2ca562602124a897fe85c0c7f2b"
+    },
+    "531619": {
+      "affiliation": "531619",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC531619.jpg",
+      "source_sha256": "ea9f132b9c518b4b5c27433c9648566847a112fa3a5e8bc5a4cff80637776cef",
+      "source_dimensions": [
+        85,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "14334-SEM-3",
+          "name": "Kindwiller F.C",
+          "district": "Alsace",
+          "group": "Poule C",
+          "club_url": "https://thefootdata.com/clubs/fc-kindwiller?equipe=14334-SEM-3&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc531619.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc531619.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        205,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "383199f24d5271bc24be7582439f4868f0b6b34c7d884bdfb5bfe491840055d0"
+    },
+    "533177": {
+      "affiliation": "533177",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC533177.jpg",
+      "source_sha256": "ddf11dca0a6a205b35da1dc258b1703e537ae7a85a9b81253b6130aee3e77111",
+      "source_dimensions": [
+        100,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "15388-SEM-3",
+          "name": "Duntzenheim A.S.L",
+          "district": "Alsace",
+          "group": "Poule G",
+          "club_url": "https://thefootdata.com/clubs/asl-duntzenheim?equipe=15388-SEM-3&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc533177.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc533177.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        165,
+        245,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "866d278d1b34161c844122efd7003abbf0d12f20e1953415667a55f9b1c1af4a"
+    },
+    "533179": {
+      "affiliation": "533179",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC533179.jpg",
+      "source_sha256": "27e69768f9bb3ecbaeabd7bd07a76b81e681f7b9fcff3228e9bed62a5d44af84",
+      "source_dimensions": [
+        94,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "15389-SEM-3",
+          "name": "Schoenau A.S",
+          "district": "Alsace",
+          "group": "Poule L",
+          "club_url": "https://thefootdata.com/clubs/as-schoenau?equipe=15389-SEM-3&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc533179.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc533179.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        194,
+        202,
+        212
+      ],
+      "rule": "neutral",
+      "sha256": "9e32fdc353f97c8cdd274709b3b085f7d8158e67c959e2b445c5743def1e0f87"
+    },
+    "534820": {
+      "affiliation": "534820",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC534820.jpg",
+      "source_sha256": "fbc6bc6367164c760a3b027eb972f37b488af4458ea5846d647fa0091eff0cd4",
+      "source_dimensions": [
+        100,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "16425-SEM-3",
+          "name": "Quatz Ent. Furd",
+          "district": "Alsace",
+          "group": "Poule G",
+          "club_url": "https://thefootdata.com/clubs/fc-quatzenheim?equipe=16425-SEM-3&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc534820.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc534820.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        225,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "a4e9feb93b0d8d4b520ed39b48a5b2101a9b035cf757797e1893197f21aa1a4d"
+    },
+    "535011": {
+      "affiliation": "535011",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC535011.jpg",
+      "source_sha256": "00d05c4e904cd9b59596de6305ffe7b5bc53bba00faf2dd38b11056b86b6ea02",
+      "source_dimensions": [
+        97,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "16586-SEM-2",
+          "name": "Bischwihr F.C.",
+          "district": "Alsace",
+          "group": "Poule M",
+          "club_url": "https://thefootdata.com/clubs/fc-bischwihr?equipe=16586-SEM-2&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc535011.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc535011.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        165,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "e224f4d608ebb40108730aa8291b3e3a9624151cb433dd0456ae3013e160a098"
+    },
+    "535588": {
+      "affiliation": "535588",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC535588.jpg",
+      "source_sha256": "568fbafd49273e927331d4cd437ea94319ce0e65d1dd2eeea644e234c1bcd8df",
+      "source_dimensions": [
+        100,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "16970-SEM-2",
+          "name": "Alteckendorf Ent Ett",
+          "district": "Alsace",
+          "group": "Poule C",
+          "club_url": "https://thefootdata.com/clubs/fc-alteckendorf?equipe=16970-SEM-2&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc535588.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc535588.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        185,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "c07f60e50aee5471e922df900296fd68adc884cd29c73f593374d79f2a65b18d"
+    },
+    "535770": {
+      "affiliation": "535770",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC535770.jpg",
+      "source_sha256": "7e55dcf3432601e08970dec25eb70445b0cc058b7f50f6fed43d6fae414835fa",
+      "source_dimensions": [
+        100,
+        60
+      ],
+      "teams": [
+        {
+          "squad_key": "17100-SEM-3",
+          "name": "Feldkirch F.C.",
+          "district": "Alsace",
+          "group": "Poule P",
+          "club_url": "https://thefootdata.com/clubs/fc-feldkirch?equipe=17100-SEM-3&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc535770.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc535770.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        205,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "f4b5f0467ff97a89fffc23934f3b222b11623cad78d0604ba46c470345a81f23"
+    },
+    "536033": {
+      "affiliation": "536033",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC536033.jpg",
+      "source_sha256": "6f0dc497dd672d0fc1f8ac861e61d46fa94803dd202ad7968ffb5320e9b6f31c",
+      "source_dimensions": [
+        68,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "17318-SEM-2",
+          "name": "Strg Robertsau Soas",
+          "district": "Alsace",
+          "group": "Poule H",
+          "club_url": "https://thefootdata.com/clubs/ste-ouvriere-arts-s-robertsau?equipe=17318-SEM-2&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc536033.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc536033.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        165,
+        245,
+        185
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "c5b2a44bf98dc31592ff8e37b8791e578e730056bb30894e8c5ae7902e98b86d"
+    },
+    "537861": {
+      "affiliation": "537861",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC537861.jpg",
+      "source_sha256": "5613f2feb4c2cac2d8bb89bd32c311daa84abdbcf9d11401b3fe0933ccfa9816",
+      "source_dimensions": [
+        100,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "18632-SEM-3",
+          "name": "Hinterfeld A.C",
+          "district": "Alsace",
+          "group": "Poule D",
+          "club_url": "https://thefootdata.com/clubs/a-copains-hinterfeld?equipe=18632-SEM-3&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc537861.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc537861.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        165,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "174d3be6be1d083b0ab29268dccf7cf343d232d4a8c84dc9913b9aa7dca8aa8f"
+    },
+    "539715": {
+      "affiliation": "539715",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC539715.jpg",
+      "source_sha256": "9feef29000311b7b24027f802f69a2a303282d0b133d5af6cf0994642c100a58",
+      "source_dimensions": [
+        87,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "19951-SEM-2",
+          "name": "Strg Red Star",
+          "district": "Alsace",
+          "group": "Poule I",
+          "club_url": "https://thefootdata.com/clubs/spc-red-star-strasbourg?equipe=19951-SEM-2&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc539715.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc539715.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        165,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "55386e5f9b523e106874544c4b74a1bf1ddf6fb7257472d25576ba2763f069e8"
+    },
+    "541409": {
+      "affiliation": "541409",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC541409.jpg",
+      "source_sha256": "44e65e3f2479288d32656de9326501307eb24ea5583606e5aba5183a3b6e640c",
+      "source_dimensions": [
+        78,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "21252-SEM-2",
+          "name": "Haguenau Fatih",
+          "district": "Alsace",
+          "group": "Poule C",
+          "club_url": "https://thefootdata.com/clubs/fatih-sport-de-haguenau?equipe=21252-SEM-2&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc541409.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc541409.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        165,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "618e6c16f4d0f7f3143e6283611fcd8262a4d9968efd8dd37593dad6bec7e2b7"
+    },
+    "544975": {
+      "affiliation": "544975",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC544975.jpg",
+      "source_sha256": "d9db226f6a4ae029de1eeb45e217751970dff2c3309092756b5228bc3590d791",
+      "source_dimensions": [
+        100,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "23067-SEM-2",
+          "name": "Hegeney Ent. Durrenb",
+          "district": "Alsace",
+          "group": "Poule D",
+          "club_url": "https://thefootdata.com/clubs/asl-hegeney?equipe=23067-SEM-2&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc544975.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc544975.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        165,
+        205,
+        245
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "66b078a6fe932c40916ca91058347ef95812d6c2a9e5d5a38854f009c533cf30"
+    },
+    "545464": {
+      "affiliation": "545464",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC545464.jpg",
+      "source_sha256": "01dc21b34a8987c4b55e800c5cad4816d6ced76613c7293d153b7795233f463c",
+      "source_dimensions": [
+        71,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "23371-SEM-2",
+          "name": "Stutzheim F.C",
+          "district": "Alsace",
+          "group": "Poule G",
+          "club_url": "https://thefootdata.com/clubs/fc-stutzheim-offenheim?equipe=23371-SEM-2&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc545464.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc545464.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        165,
+        205,
+        245
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "812ca1be44d93b00e906372c6f88278cca612a5a92dfb45371d6fdd4364f59b8"
+    },
+    "546490": {
+      "affiliation": "546490",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC546490.jpg",
+      "source_sha256": "4bc0c4a002d2ef3a86a570b81f593482af81aa4f20aae4e66157cfa881e65fab",
+      "source_dimensions": [
+        100,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "24108-SEM-2",
+          "name": "Niederlauterbach",
+          "district": "Alsace",
+          "group": "Poule F",
+          "club_url": "https://thefootdata.com/clubs/niederlauterbach-fc?equipe=24108-SEM-2&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc546490.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc546490.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        165,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "3d9da5c6021a3262609ba272c4c22449ccb46eb6f2c8be07666759ecdb535326"
+    },
+    "547426": {
+      "affiliation": "547426",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC547426.jpg",
+      "source_sha256": "08e37891317712c57b039602fbf71626af674bc17441646282fe322fa1572d67",
+      "source_dimensions": [
+        75,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "24740-SEM-2",
+          "name": "Ecrivains E. As 2000",
+          "district": "Alsace",
+          "group": "Poule H",
+          "club_url": "https://thefootdata.com/clubs/fcecrivains-schiltigheim-bisch?equipe=24740-SEM-2&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc547426.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc547426.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        165,
+        245,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "4fbf720758deb607e1e26407c32b75ffadb0ccd6892bb9f0bb242840c9e8629b"
+    },
+    "550781": {
+      "affiliation": "550781",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC550781.jpg",
+      "source_sha256": "d5bf56fc20d360ec01a17ef8a2f1454c82ccf5874ab346b1fdf7c9a3b6e82bb6",
+      "source_dimensions": [
+        100,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "104488-SEM-2",
+          "name": "Lamperts-Merkwiller",
+          "district": "Alsace",
+          "group": "Poule D",
+          "club_url": "https://thefootdata.com/clubs/fc-lampertsloch-merkwiller?equipe=104488-SEM-2&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc550781.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc550781.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        225,
+        245,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "27abe9e17366b7f46172169edee2dda8b4fc39256872714d0af0b1a3c844bb22"
+    },
+    "551780": {
+      "affiliation": "551780",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC551780.jpg",
+      "source_sha256": "d6ef9a2bb95cf2f7215c9a548311fdb5ccc7d025c2f0702ab5a2835167a68858",
+      "source_dimensions": [
+        100,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "162881-SEM-2",
+          "name": "Rumersheim A.L.S.C.",
+          "district": "Alsace",
+          "group": "Poule N",
+          "club_url": "https://thefootdata.com/clubs/as-rumersheim-le-haut?equipe=162881-SEM-2&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc551780.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc551780.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        165,
+        245,
+        185
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "a47cafdce34fc973c9d19b052731c3b501881c61fc92f296f8b2da9ff9b7fd0e"
+    },
+    "551814": {
+      "affiliation": "551814",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC551814.jpg",
+      "source_sha256": "5c66f41586a1ae191ab6e794426a540ba1832cdf8b4b7627e7a0620fa07cc0cb",
+      "source_dimensions": [
+        91,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "162801-SEM-2",
+          "name": "Vallee Noble A.S.",
+          "district": "Alsace",
+          "group": "Poule M",
+          "club_url": "https://thefootdata.com/clubs/a-s-vallee-noble?equipe=162801-SEM-2&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc551814.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc551814.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        165,
+        205,
+        245
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "dd07fc8577c7ab2b72cbae612bc0770f0078ac7866b6046231aea2e9a3d9d739"
+    },
+    "552458": {
+      "affiliation": "552458",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC552458.jpg",
+      "source_sha256": "a640e195453ab659fa62e939dfc16cd448a61a75277d3973ff58565a661ec269",
+      "source_dimensions": [
+        82,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "120899-SEM-4",
+          "name": "Wintzfelden Osenbach",
+          "district": "Alsace",
+          "group": "Poule M",
+          "club_url": "https://thefootdata.com/clubs/fc-wintzfelden-osenbach-06?equipe=120899-SEM-4&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc552458.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc552458.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        194,
+        202,
+        212
+      ],
+      "rule": "neutral",
+      "sha256": "0fa5e8d9ea997f3e68b693315a38ac1ca3642fff4a1ca3dbe4c3759880aff535"
+    },
+    "553558": {
+      "affiliation": "553558",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC553558.jpg",
+      "source_sha256": "3d03783207aae5459285830b7582f9767687e1082653c48c3d3f4c94568b9584",
+      "source_dimensions": [
+        100,
+        98
+      ],
+      "teams": [
+        {
+          "squad_key": "135282-SEM-2",
+          "name": "Sarrewerden A.S",
+          "district": "Alsace",
+          "group": "Poule A",
+          "club_url": "https://thefootdata.com/clubs/as-sarrewerden?equipe=135282-SEM-2&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc553558.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc553558.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        165,
+        205,
+        245
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "c48ef52ec18f88649c31cdb55dc4d5149c82e77bdae89b6e3c1332d765a0c805"
+    },
+    "553663": {
+      "affiliation": "553663",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC553663.jpg",
+      "source_sha256": "f8ac05d76da83398f96521e59fb4226f79dc56fb684c591fe23aa99eb9a12d46",
+      "source_dimensions": [
+        100,
+        99
+      ],
+      "teams": [
+        {
+          "squad_key": "136823-SEM-2",
+          "name": "Ent. Salmbach / Sch2",
+          "district": "Alsace",
+          "group": "Poule E",
+          "club_url": "https://thefootdata.com/clubs/a-s-st-etienne-salmbach?equipe=136823-SEM-2&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc553663.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc553663.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        165,
+        225,
+        245
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "9a019c103d2f5ad29953effbabce5c673161480abf96d14c16c7e4d99f3495ca"
+    },
+    "560186": {
+      "affiliation": "560186",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC560186.jpg",
+      "source_sha256": "e9ffddff9c70e04091ec11caf3d8c7c47d4b8bb4f22f491196f5fffc45c2f138",
+      "source_dimensions": [
+        94,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "194468-SEM-1",
+          "name": "Luemschwiller A.S.",
+          "district": "Alsace",
+          "group": "Poule Q",
+          "club_url": "https://thefootdata.com/clubs/asluemschwiller?equipe=194468-SEM-1&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc560186.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc560186.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        165,
+        245,
+        205
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "3d34b570f2df4f9878879d3b53690e060e5a9177f60038a8715525c60236738c"
+    },
+    "560204": {
+      "affiliation": "560204",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC560204.jpg",
+      "source_sha256": "be9eb5ecee6a760aefff11f389ac8a7e1f8746975997c45abdc99c5ad2680d08",
+      "source_dimensions": [
+        100,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "194506-SEM-3",
+          "name": "Cernay F.C",
+          "district": "Alsace",
+          "group": "Poule P",
+          "club_url": "https://thefootdata.com/clubs/cernay-football-club?equipe=194506-SEM-3&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc560204.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc560204.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        185,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "113e4f91fe5ad9de47c7ff09554215a924fae4d2e03475770c2b7e77b26e939b"
+    },
+    "564791": {
+      "affiliation": "564791",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC564791.jpg",
+      "source_sha256": "c0a08bb150cbaba12ca7c14fe11b611fee1b8b13bcca6ead0184b362798a538a",
+      "source_dimensions": [
+        100,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "202954-SEM-2",
+          "name": "Froesch Ent. Langen",
+          "district": "Alsace",
+          "group": "Poule D",
+          "club_url": "https://thefootdata.com/clubs/red-star-froeschwiller?equipe=202954-SEM-2&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc564791.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc564791.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        165,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "7116525eb9388fa4f6ec46f2d25d6295538ad16566ffb58682d9094854ec9561"
+    },
+    "564792": {
+      "affiliation": "564792",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC564792.jpg",
+      "source_sha256": "110f367ef5fa80ef8e016c9c39414c980150907a6e9e965d7a8bc086fb7bfdd2",
+      "source_dimensions": [
+        100,
+        99
+      ],
+      "teams": [
+        {
+          "squad_key": "202955-SEM-2",
+          "name": "Rosenau F.C.",
+          "district": "Alsace",
+          "group": "Poule N",
+          "club_url": "https://thefootdata.com/clubs/football-club-rosenau-1946?equipe=202955-SEM-2&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc564792.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc564792.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        165,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "cc392cc4060b91fc6b99c9e5154fea17d3a1ace1d5596bd1c039678dba2d1f47"
+    },
+    "565288": {
+      "affiliation": "565288",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC565288.jpg",
+      "source_sha256": "e234c21311f0e5682179b89abd60166cd9446f8628ff2accddc79fceb0b01ca0",
+      "source_dimensions": [
+        100,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "205275-SEM-2",
+          "name": "Rosteig F.C.",
+          "district": "Alsace",
+          "group": "Poule A",
+          "club_url": "https://thefootdata.com/clubs/football-club-de-rosteig?equipe=205275-SEM-2&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc565288.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc565288.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        165,
+        185
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "b816fe7e5d0c918bc4f4597c8a1738bbc76c166ea1ac484497c9482373281198"
+    },
+    "565353": {
+      "affiliation": "565353",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC565353.jpg",
+      "source_sha256": "445dd3a86e1885c35a88117b34458a74244424335d42eb1d606c22e109f8b821",
+      "source_dimensions": [
+        100,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "205444-SEM-2",
+          "name": "Herbitzheim F.C",
+          "district": "Alsace",
+          "group": "Poule A",
+          "club_url": "https://thefootdata.com/clubs/fc-herbitzheim?equipe=205444-SEM-2&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc565353.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc565353.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        205,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "7dd831cb2612325dca439d609d5b142a1381c1cb9fc2daeedb015573e3ba37ee"
+    },
+    "565593": {
+      "affiliation": "565593",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC565593.jpg",
+      "source_sha256": "ae2f00712f9b4584e57ff73ea7e17a94c80d66b2864847f6c301b997e4d9d761",
+      "source_dimensions": [
+        105,
+        108
+      ],
+      "teams": [
+        {
+          "squad_key": "206068-SEM-1",
+          "name": "Trimbach A.S.",
+          "district": "Alsace",
+          "group": "Poule E",
+          "club_url": "https://thefootdata.com/clubs/association-sportive-trimbach?equipe=206068-SEM-1&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc565593.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc565593.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        165,
+        165,
+        245
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "43ba7315de278503d7540467a7505d3d61556a1e919668d80ef8470ac409606a"
+    },
+    "581795": {
+      "affiliation": "581795",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC581795.jpg",
+      "source_sha256": "dcfb6c7a05505fe81e508511708995d85d03fbb33ed279b7e5b5831a14af1b45",
+      "source_dimensions": [
+        100,
+        88
+      ],
+      "teams": [
+        {
+          "squad_key": "186678-SEM-1",
+          "name": "Aspach Le Bas F.C",
+          "district": "Alsace",
+          "group": "Poule P",
+          "club_url": "https://thefootdata.com/clubs/fc-aspach-le-bas?equipe=186678-SEM-1&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc581795.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc581795.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        165,
+        245,
+        205
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "3cdfe136dff207f47836401ed582ad7fbe7369cf62cf21463ccfa3b27aa52ab4"
+    },
+    "582340": {
+      "affiliation": "582340",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC582340.jpg",
+      "source_sha256": "bff9dc114f5bb623487d8b35ff01fd62c5e6c90f3ad5f70edae079ca733947bd",
+      "source_dimensions": [
+        98,
+        100
+      ],
+      "teams": [
+        {
+          "squad_key": "189743-SEM-3",
+          "name": "Wisches Russ A.S",
+          "district": "Alsace",
+          "group": "Poule J",
+          "club_url": "https://thefootdata.com/clubs/as-wisches-russ-lutzelhouse?equipe=189743-SEM-3&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc582340.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc582340.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        194,
+        202,
+        212
+      ],
+      "rule": "neutral",
+      "sha256": "49cb0527711f19bd63f8e6d287f0d77c7a3317a44b34255200f8ae3e4c130f3c"
+    },
+    "582343": {
+      "affiliation": "582343",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC582343.jpg",
+      "source_sha256": "2bf980fe7652d23bb1eb1fa79deaadcb7b3bd6e55df3f8bdcd5a3e2e5dfeea87",
+      "source_dimensions": [
+        100,
+        98
+      ],
+      "teams": [
+        {
+          "squad_key": "189746-SEM-4",
+          "name": "St Pierre Bois/t Asc",
+          "district": "Alsace",
+          "group": "Poule K",
+          "club_url": "https://thefootdata.com/clubs/asc-st-pierre-bois-triembach-au-val?equipe=189746-SEM-4&saison=2026"
+        },
+        {
+          "squad_key": "189746-SEM-3",
+          "name": "St Pierre Bois/t Asc",
+          "district": "Alsace",
+          "group": "Poule L",
+          "club_url": "https://thefootdata.com/clubs/asc-st-pierre-bois-triembach-au-val?equipe=189746-SEM-3&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc582343.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc582343.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        165,
+        185
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "c1a6ebd4ec18fe27aaedff34935f9b1a366ad7fd8ed7e8895074fc748f611c21"
+    },
+    "582349": {
+      "affiliation": "582349",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC582349.jpg",
+      "source_sha256": "d07735d25f808457b269df7bb34996d83846f4fd3920d8db4b7d23ea5e78d8d0",
+      "source_dimensions": [
+        100,
+        80
+      ],
+      "teams": [
+        {
+          "squad_key": "189762-SEM-2",
+          "name": "Batzendorf F.C",
+          "district": "Alsace",
+          "group": "Poule C",
+          "club_url": "https://thefootdata.com/clubs/f-c-batzendorf?equipe=189762-SEM-2&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc582349.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc582349.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        245,
+        165,
+        165
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "624d1ef1c00360804bb4be125c0ac76722d7e5cbb685733292322f0728febe33"
+    },
+    "582629": {
+      "affiliation": "582629",
+      "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC582629.jpg",
+      "source_sha256": "41368f32bcadc36984f28c8df3aea442abc635e30a721ace9ccaa130be0af197",
+      "source_dimensions": [
+        100,
+        87
+      ],
+      "teams": [
+        {
+          "squad_key": "191900-SEM-3",
+          "name": "Schoen/memmel Fr",
+          "district": "Alsace",
+          "group": "Poule E",
+          "club_url": "https://thefootdata.com/clubs/f-reuni-schoenenbourg-memmelshoffen?equipe=191900-SEM-3&saison=2026"
+        }
+      ],
+      "status": "published_candidate",
+      "path": "flags/clubs/standard/d8-2026-27/bc582629.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-d8-logos-20261023/flags/clubs/standard/d8-2026-27/bc582629.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background_rgb": [
+        165,
+        165,
+        245
+      ],
+      "rule": "dominant_hue_lightened",
+      "sha256": "db946147f060927bfd57b7ef1d579def34b6ae8295cb79cf9b95ba698dcb1004"
+    }
+  }
+}
