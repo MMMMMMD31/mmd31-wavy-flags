@@ -82,6 +82,46 @@ NAME_ALIASES.update({
  "1990262000205":["Effort le Morne Vert"],
  "1990262000206":["Racine Club Bokannal"]
 })
+# Reviewed full-name aliases from territory-specific football directories (not other sports).
+NAME_ALIASES.update({
+ "1990262000148":["Olympique Football Entre Deux"],
+ "1990262000157":["FC Parfin de Saint-andre"],
+ "1990262000158":["A.S.ENT Grande Montee"],
+ "1990262000161":["Saint Denis Ecole de Foot A."],
+ "1990262000165":["S.S. Charles de Foucauld"],
+ "1990262000167":["OC St Andre les Leopards"],
+ "1990262000170":["A. ENT. Solidaire de la Convenance"],
+ "1990262000172":["Sporting Club de Bois de Nefles"],
+ "1990262000232":["Academie Jeunesse Sportive Riviere du Mat"],
+ "1990262000241":["JSc. de la Ravine Creuse"],
+ "1990262000247":["Academie S. de la Redoute"],
+ "1990262000248":["Am. Chaloupe St Leu"],
+ "1990262000250":["Ecole de Foot St Gilles les Hauts"],
+ "1990262000257":["US du Tevelave les Avirons"],
+ "1990262000258":["Jean Petit FC St Joseph"],
+ "1990262000262":["A. Sportive et Cult. de Langevin"],
+ "1990262000265":["A. Marmailles Terre Sainte"],
+ "1990262000267":["CS de la Crete"],
+ "1990262000277":["Sporting Club du Sud"],
+ "1990262000278":["Ecole de Foot de Berive"],
+ "1990262000282":["Vaovao Sport et Culture"],
+ "1990262000035":["Assaut St Pierre"],
+ "1990262000039":["Rapid C. le Lorrain"],
+ "1990262000104":["New C. Petit Bourg Riviere Sale"],
+ "1990262000108":["Eclair Riviere Salee"],
+ "1990262000111":["La Famiale de Fond Perez"],
+ "1990262000112":["O. le Marin"],
+ "1990262000120":["Excelsior Fort de France"],
+ "1990262000122":["Oceanic C. le Lorrain"],
+ "1990262000189":["New Star Ducos"],
+ "1990262000190":["Sporting C. Lamentinois"],
+ "1990262000194":["U. des Jeunes de Redoute"],
+ "1990262000195":["Good Luck Fort de France"],
+ "1990262000197":["L'intrepide C. Fort de France"],
+ "1990262000201":["Etendard Bellefontaine"],
+ "1990262000202":["U. des Jeunes de Monnerot"],
+ "1990262000207":["Solidarite de Lestrade"]
+})
 DIRECTORY={}
 def build_index():
  for territory,url in [
