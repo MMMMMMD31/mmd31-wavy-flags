@@ -1,0 +1,51 @@
+name: MMD31 D6 D7 D8 standard crests 2026-27
+on:
+  push:
+    branches: [mmd31-d6d7d8-20261023]
+    paths:
+      - tools/mmd31_build_d678_standard_crests.py
+      - .github/workflows/mmd31-d678-crests.yml
+permissions:
+  contents: write
+  actions: read
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    strategy:
+      fail-fast: false
+      matrix:
+        division: [6,7,8]
+    env:
+      GH_TOKEN: ${{ github.token }}
+      MMD31_DIVISION: ${{ matrix.division }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: python -m pip install pillow requests
+      - name: Download source inventories
+        run: |
+          mkdir -p research-input
+          gh run download 39932095201 -R "${GITHUB_REPOSITORY}" -n "mmd31-d${MMD31_DIVISION}-2026-27-inventory" -D research-input
+          test -s research-input/MMD31_D${MMD31_DIVISION}_2026_2027_PARTICIPANTS_SOURCE.json
+      - name: Generate crest assets
+        run: PYTHONPATH=tools python tools/mmd31_build_d678_standard_crests.py
+      - name: Publish on isolated division branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add "flags/clubs/standard/d${MMD31_DIVISION}-2026-27" "docs/research/mmd31-d${MMD31_DIVISION}-2026-27"
+          if ! git diff --cached --quiet; then
+            git commit -m "MMD31 D${MMD31_DIVISION} standard 120x96 sourced crests [skip ci]"
+            git push origin "HEAD:refs/heads/mmd31-d${MMD31_DIVISION}-logos-20261023"
+          fi
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: mmd31-d${{ matrix.division }}-crest-audit
+          path: docs/research/mmd31-d${{ matrix.division }}-2026-27/
+          if-no-files-found: warn
