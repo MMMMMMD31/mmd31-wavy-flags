@@ -192,11 +192,36 @@ def choose_logo(soup,club):
     candidates.append((score,url,alt))
     break
  return sorted(candidates,reverse=True)
+def style_existing_canvas(target):
+ # The collection-stage neutral canvas is replaced by a color derived from
+ # the actual logo, without inventing shapes or altering IDs.
+ im=Image.open(target).convert("RGB")
+ if im.size!=(120,96) or im.getpixel((0,0))!=(238,238,238):return
+ from collections import Counter
+ counts=Counter()
+ for red,green,blue in im.getdata():
+  if max(abs(red-238),abs(green-238),abs(blue-238))<36:continue
+  import colorsys
+  hue,sat,lum=colorsys.rgb_to_hsv(red/255,green/255,blue/255)
+  if sat<0.28 or lum<0.20 or lum>0.97:continue
+  counts[(red//40,green//40,blue//40)]+=1
+ if counts:
+  key=counts.most_common(1)[0][0]
+  # Lightened variant of a true dominant crest color: still the club's hue
+  out=tuple(min(255,int((k*40+20)*0.56+255*0.44)) for k in key)
+ else:
+  out=(222,222,222)
+ pix=im.load()
+ for y in range(96):
+  for x in range(120):
+   if pix[x,y]==(238,238,238):pix[x,y]=out
+ im.save(target,format="PNG",optimize=True)
 def process(row):
  tid,name=row["team_id"],row["name"]
  territory=row["territory"]
  target=DEST/(tid+".png")
  if target.exists() and target.stat().st_size>300:
+  style_existing_canvas(target)
   previous=PRIOR.get(tid,{})
   return dict(team_id=tid,team=name,territory=territory,status="already_published",page=previous.get("page",""),image=previous.get("image",""),confidence=previous.get("confidence","previously_checked"),reason="previously published")
  if tid in EXCLUDE_RIGHTS_IDS:
