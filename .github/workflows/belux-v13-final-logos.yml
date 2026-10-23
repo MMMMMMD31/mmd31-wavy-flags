@@ -1,0 +1,28 @@
+name: MMD31 Belgian V13 last two real crests
+on:
+  push:
+    branches: [mmd31-belux-v13-d3-assets]
+    paths: 
+      - 'tools/belux_v13_last_two.py'
+      - '.github/workflows/belux-v13-final-logos.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.11'}
+      - run: pip install pillow requests beautifulsoup4
+      - run: python tools/belux_v13_last_two.py
+      - run: |
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git add docs/belgian-d3-clubs-2026-27/v13/
+          if ! git diff --cached --quiet; then
+            git commit -m "Publish last Belgian D3 sourced crest flags"
+            git push origin HEAD:refs/heads/${GITHUB_REF_NAME}
+          fi
