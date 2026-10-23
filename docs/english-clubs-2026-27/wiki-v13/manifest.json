@@ -1,7 +1,7 @@
 {
   "expected": 417,
-  "published": 330,
-  "unverified": 87,
+  "published": 362,
+  "unverified": 55,
   "files": [
     {
       "id": 1793400000253,
@@ -81,8 +81,13 @@
     {
       "id": 1793400000261,
       "name": "Egham Town",
-      "status": "NO_VERIFIED_REAL_IMAGE",
-      "errors": []
+      "status": "PUBLISHED_REAL_WIKIPEDIA_INFOBOX_SECOND_PASS",
+      "source_logo": "https://upload.wikimedia.org/wikipedia/en/3/34/Egham_Town_F.C._logo.png",
+      "verified_page_title": "Egham Town F.C.",
+      "wikipedia_article": "https://en.wikipedia.org/wiki/Egham_Town_F.C.",
+      "github_path": "docs/english-clubs-2026-27/wiki-v13/1793400000261.png",
+      "bytes": 8756,
+      "quality_note": "Wikipedia football-club infobox first image, possible identity alias"
     },
     {
       "id": 1793400000262,
@@ -330,8 +335,13 @@
     {
       "id": 1793400000287,
       "name": "Little Oakley",
-      "status": "NO_VERIFIED_REAL_IMAGE",
-      "errors": []
+      "status": "PUBLISHED_REAL_WIKIPEDIA_INFOBOX_SECOND_PASS",
+      "source_logo": "https://upload.wikimedia.org/wikipedia/en/c/c0/LittleOakleyFC.png",
+      "verified_page_title": "Little Oakley F.C.",
+      "wikipedia_article": "https://en.wikipedia.org/wiki/Little_Oakley_F.C.",
+      "github_path": "docs/english-clubs-2026-27/wiki-v13/1793400000287.png",
+      "bytes": 9033,
+      "quality_note": "Wikipedia football-club infobox first image, possible identity alias"
     },
     {
       "id": 1793400000288,
@@ -396,8 +406,13 @@
     {
       "id": 1793400000292,
       "name": "Takeley",
-      "status": "NO_VERIFIED_REAL_IMAGE",
-      "errors": []
+      "status": "PUBLISHED_REAL_WIKIPEDIA_INFOBOX_SECOND_PASS",
+      "source_logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Holy_Trinity_Church_-_geograph.org.uk_-_1191209.jpg/250px-Holy_Trinity_Church_-_geograph.org.uk_-_1191209.jpg",
+      "verified_page_title": "Takeley",
+      "wikipedia_article": "https://en.wikipedia.org/wiki/Takeley",
+      "github_path": "docs/english-clubs-2026-27/wiki-v13/1793400000292.png",
+      "bytes": 17314,
+      "quality_note": "Wikipedia football-club infobox first image, possible identity alias"
     },
     {
       "id": 1793400000293,
@@ -492,8 +507,13 @@
     {
       "id": 1793400000300,
       "name": "Cray Valley PM",
-      "status": "NO_VERIFIED_REAL_IMAGE",
-      "errors": []
+      "status": "PUBLISHED_REAL_WIKIPEDIA_INFOBOX_SECOND_PASS",
+      "source_logo": "https://thumb.wikimedia.org/wikipedia/en/thumb/e/ed/Cray_Valley_Paper_Mills_FC_crest.svg/250px-Cray_Valley_Paper_Mills_FC_crest.svg.png",
+      "verified_page_title": "Cray Valley Paper Mills F.C.",
+      "wikipedia_article": "https://en.wikipedia.org/wiki/Cray_Valley_Paper_Mills_F.C.",
+      "github_path": "docs/english-clubs-2026-27/wiki-v13/1793400000300.png",
+      "bytes": 6346,
+      "quality_note": "Wikipedia football-club infobox first image, possible identity alias"
     },
     {
       "id": 1793400000302,
@@ -1047,8 +1067,13 @@
     {
       "id": 1793400000353,
       "name": "Newcastle Town",
-      "status": "NO_VERIFIED_REAL_IMAGE",
-      "errors": []
+      "status": "PUBLISHED_REAL_WIKIPEDIA_INFOBOX_SECOND_PASS",
+      "source_logo": "https://upload.wikimedia.org/wikipedia/en/0/0f/Newcastle_Town_FC_logo.png",
+      "verified_page_title": "Newcastle Town F.C.",
+      "wikipedia_article": "https://en.wikipedia.org/wiki/Newcastle_Town_F.C.",
+      "github_path": "docs/english-clubs-2026-27/wiki-v13/1793400000353.png",
+      "bytes": 9751,
+      "quality_note": "Wikipedia football-club infobox first image, possible identity alias"
     },
     {
       "id": 1793400000354,
@@ -1098,8 +1123,13 @@
     {
       "id": 1793400000357,
       "name": "Shifnal Town",
-      "status": "NO_VERIFIED_REAL_IMAGE",
-      "errors": []
+      "status": "PUBLISHED_REAL_WIKIPEDIA_INFOBOX_SECOND_PASS",
+      "source_logo": "https://upload.wikimedia.org/wikipedia/en/b/b0/Shifnal_Town_F.C.png",
+      "verified_page_title": "Shifnal Town F.C.",
+      "wikipedia_article": "https://en.wikipedia.org/wiki/Shifnal_Town_F.C.",
+      "github_path": "docs/english-clubs-2026-27/wiki-v13/1793400000357.png",
+      "bytes": 9874,
+      "quality_note": "Wikipedia football-club infobox first image, possible identity alias"
     },
     {
       "id": 1793400000358,
@@ -1245,8 +1275,13 @@
     {
       "id": 1793400000369,
       "name": "Boston Town",
-      "status": "NO_VERIFIED_REAL_IMAGE",
-      "errors": []
+      "status": "PUBLISHED_REAL_WIKIPEDIA_INFOBOX_SECOND_PASS",
+      "source_logo": "https://upload.wikimedia.org/wikipedia/en/9/9b/Boston_Town_logo.png",
+      "verified_page_title": "Boston Town F.C.",
+      "wikipedia_article": "https://en.wikipedia.org/wiki/Boston_Town_F.C.",
+      "github_path": "docs/english-clubs-2026-27/wiki-v13/1793400000369.png",
+      "bytes": 9753,
+      "quality_note": "Wikipedia football-club infobox first image, possible identity alias"
     },
     {
       "id": 1793400000370,
@@ -1482,8 +1517,13 @@
     {
       "id": 1793400000411,
       "name": "Dorchester Town",
-      "status": "NO_VERIFIED_REAL_IMAGE",
-      "errors": []
+      "status": "PUBLISHED_REAL_WIKIPEDIA_INFOBOX_SECOND_PASS",
+      "source_logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Dorchester_Town.png",
+      "verified_page_title": "Dorchester Town F.C.",
+      "wikipedia_article": "https://en.wikipedia.org/wiki/Dorchester_Town_F.C.",
+      "github_path": "docs/english-clubs-2026-27/wiki-v13/1793400000411.png",
+      "bytes": 14403,
+      "quality_note": "Wikipedia football-club infobox first image, possible identity alias"
     },
     {
       "id": 1793400000412,
@@ -1608,8 +1648,13 @@
     {
       "id": 1793400000422,
       "name": "Sporting Club Inkberrow",
-      "status": "NO_VERIFIED_REAL_IMAGE",
-      "errors": []
+      "status": "PUBLISHED_REAL_WIKIPEDIA_INFOBOX_SECOND_PASS",
+      "source_logo": "https://upload.wikimedia.org/wikipedia/en/a/ac/Sporting_Club_Inkberrow_F.C._logo.png",
+      "verified_page_title": "Sporting Club Inkberrow F.C.",
+      "wikipedia_article": "https://en.wikipedia.org/wiki/Sporting_Club_Inkberrow_F.C.",
+      "github_path": "docs/english-clubs-2026-27/wiki-v13/1793400000422.png",
+      "bytes": 7938,
+      "quality_note": "Wikipedia football-club infobox first image, possible identity alias"
     },
     {
       "id": 1793400000423,
@@ -1749,8 +1794,13 @@
     {
       "id": 1793400000434,
       "name": "Burnham",
-      "status": "NO_VERIFIED_REAL_IMAGE",
-      "errors": []
+      "status": "PUBLISHED_REAL_WIKIPEDIA_INFOBOX_SECOND_PASS",
+      "source_logo": "https://upload.wikimedia.org/wikipedia/en/3/3a/Burnham_F.C._logo.png",
+      "verified_page_title": "Burnham F.C.",
+      "wikipedia_article": "https://en.wikipedia.org/wiki/Burnham_F.C.",
+      "github_path": "docs/english-clubs-2026-27/wiki-v13/1793400000434.png",
+      "bytes": 7565,
+      "quality_note": "Wikipedia football-club infobox first image, possible identity alias"
     },
     {
       "id": 1793400000435,
@@ -1893,8 +1943,13 @@
     {
       "id": 1793400000446,
       "name": "Thatcham Town",
-      "status": "NO_VERIFIED_REAL_IMAGE",
-      "errors": []
+      "status": "PUBLISHED_REAL_WIKIPEDIA_INFOBOX_SECOND_PASS",
+      "source_logo": "https://upload.wikimedia.org/wikipedia/en/9/9f/Thatcham_Town.png",
+      "verified_page_title": "Thatcham Town F.C.",
+      "wikipedia_article": "https://en.wikipedia.org/wiki/Thatcham_Town_F.C.",
+      "github_path": "docs/english-clubs-2026-27/wiki-v13/1793400000446.png",
+      "bytes": 13726,
+      "quality_note": "Wikipedia football-club infobox first image, possible identity alias"
     },
     {
       "id": 1793400000447,
@@ -2223,8 +2278,13 @@
     {
       "id": 1793400000474,
       "name": "Great Yarmouth Town",
-      "status": "NO_VERIFIED_REAL_IMAGE",
-      "errors": []
+      "status": "PUBLISHED_REAL_WIKIPEDIA_INFOBOX_SECOND_PASS",
+      "source_logo": "https://thumb.wikimedia.org/wikipedia/en/thumb/9/9a/Gytown_fc.png/250px-Gytown_fc.png",
+      "verified_page_title": "Great Yarmouth Town F.C.",
+      "wikipedia_article": "https://en.wikipedia.org/wiki/Great_Yarmouth_Town_F.C.",
+      "github_path": "docs/english-clubs-2026-27/wiki-v13/1793400000474.png",
+      "bytes": 15541,
+      "quality_note": "Wikipedia football-club infobox first image, possible identity alias"
     },
     {
       "id": 1793400000475,
@@ -2274,8 +2334,13 @@
     {
       "id": 1793400000478,
       "name": "Ipswich Wanderers",
-      "status": "NO_VERIFIED_REAL_IMAGE",
-      "errors": []
+      "status": "PUBLISHED_REAL_WIKIPEDIA_INFOBOX_SECOND_PASS",
+      "source_logo": "https://thumb.wikimedia.org/wikipedia/en/thumb/6/62/IpsWand.png/250px-IpsWand.png",
+      "verified_page_title": "Ipswich Wanderers F.C.",
+      "wikipedia_article": "https://en.wikipedia.org/wiki/Ipswich_Wanderers_F.C.",
+      "github_path": "docs/english-clubs-2026-27/wiki-v13/1793400000478.png",
+      "bytes": 8155,
+      "quality_note": "Wikipedia football-club infobox first image, possible identity alias"
     },
     {
       "id": 1793400000479,
@@ -2559,8 +2624,13 @@
     {
       "id": 1793400000503,
       "name": "Saffron Walden Town",
-      "status": "NO_VERIFIED_REAL_IMAGE",
-      "errors": []
+      "status": "PUBLISHED_REAL_WIKIPEDIA_INFOBOX_SECOND_PASS",
+      "source_logo": "https://upload.wikimedia.org/wikipedia/en/d/d7/Swtfclogo.png",
+      "verified_page_title": "Saffron Walden Town F.C.",
+      "wikipedia_article": "https://en.wikipedia.org/wiki/Saffron_Walden_Town_F.C.",
+      "github_path": "docs/english-clubs-2026-27/wiki-v13/1793400000503.png",
+      "bytes": 10787,
+      "quality_note": "Wikipedia football-club infobox first image, possible identity alias"
     },
     {
       "id": 1793400000504,
@@ -2781,14 +2851,24 @@
     {
       "id": 1793400000523,
       "name": "Roman Glass St George",
-      "status": "NO_VERIFIED_REAL_IMAGE",
-      "errors": []
+      "status": "PUBLISHED_REAL_WIKIPEDIA_INFOBOX_SECOND_PASS",
+      "source_logo": "https://upload.wikimedia.org/wikipedia/en/2/2b/Roman_Glass_St_George_F.C._logo.png",
+      "verified_page_title": "Roman Glass St George F.C.",
+      "wikipedia_article": "https://en.wikipedia.org/wiki/Roman_Glass_St_George_F.C.",
+      "github_path": "docs/english-clubs-2026-27/wiki-v13/1793400000523.png",
+      "bytes": 15152,
+      "quality_note": "Wikipedia football-club infobox first image, possible identity alias"
     },
     {
       "id": 1793400000525,
       "name": "Stourport Swifts",
-      "status": "NO_VERIFIED_REAL_IMAGE",
-      "errors": []
+      "status": "PUBLISHED_REAL_WIKIPEDIA_INFOBOX_SECOND_PASS",
+      "source_logo": "https://upload.wikimedia.org/wikipedia/en/5/5e/Stourport_Swifts_F.C.png",
+      "verified_page_title": "Stourport Swifts F.C.",
+      "wikipedia_article": "https://en.wikipedia.org/wiki/Stourport_Swifts_F.C.",
+      "github_path": "docs/english-clubs-2026-27/wiki-v13/1793400000525.png",
+      "bytes": 8125,
+      "quality_note": "Wikipedia football-club infobox first image, possible identity alias"
     },
     {
       "id": 1793400000526,
@@ -2898,8 +2978,13 @@
     {
       "id": 1793400000533,
       "name": "Darlaston Town",
-      "status": "NO_VERIFIED_REAL_IMAGE",
-      "errors": []
+      "status": "PUBLISHED_REAL_WIKIPEDIA_INFOBOX_SECOND_PASS",
+      "source_logo": "https://thumb.wikimedia.org/wikipedia/en/thumb/e/e6/Darlaston_Town_%281874%29_logo.png/250px-Darlaston_Town_%281874%29_logo.png",
+      "verified_page_title": "Darlaston Town 1874 F.C.",
+      "wikipedia_article": "https://en.wikipedia.org/wiki/Darlaston_Town_(1874)_F.C.",
+      "github_path": "docs/english-clubs-2026-27/wiki-v13/1793400000533.png",
+      "bytes": 9118,
+      "quality_note": "Wikipedia football-club infobox first image, possible identity alias"
     },
     {
       "id": 1793400000534,
@@ -2934,8 +3019,13 @@
     {
       "id": 1793400000537,
       "name": "Romulus",
-      "status": "NO_VERIFIED_REAL_IMAGE",
-      "errors": []
+      "status": "PUBLISHED_REAL_WIKIPEDIA_INFOBOX_SECOND_PASS",
+      "source_logo": "https://upload.wikimedia.org/wikipedia/en/7/72/Romulus_F.C.png",
+      "verified_page_title": "Romulus F.C.",
+      "wikipedia_article": "https://en.wikipedia.org/wiki/Romulus_F.C.",
+      "github_path": "docs/english-clubs-2026-27/wiki-v13/1793400000537.png",
+      "bytes": 8391,
+      "quality_note": "Wikipedia football-club infobox first image, possible identity alias"
     },
     {
       "id": 1793400000538,
@@ -2991,8 +3081,13 @@
     {
       "id": 1793400000542,
       "name": "Sutton United (Birmingham)",
-      "status": "NO_VERIFIED_REAL_IMAGE",
-      "errors": []
+      "status": "PUBLISHED_REAL_WIKIPEDIA_INFOBOX_SECOND_PASS",
+      "source_logo": "https://thumb.wikimedia.org/wikipedia/en/thumb/b/b0/Sutton_United_F.C._%28Birmingham%29_logo.png/250px-Sutton_United_F.C._%28Birmingham%29_logo.png",
+      "verified_page_title": "Sutton United F.C. (Birmingham)",
+      "wikipedia_article": "https://en.wikipedia.org/wiki/Sutton_United_F.C._(Birmingham)",
+      "github_path": "docs/english-clubs-2026-27/wiki-v13/1793400000542.png",
+      "bytes": 14944,
+      "quality_note": "Wikipedia football-club infobox first image, possible identity alias"
     },
     {
       "id": 1793400000543,
@@ -3306,8 +3401,13 @@
     {
       "id": 1793400000569,
       "name": "Albion Sports",
-      "status": "NO_VERIFIED_REAL_IMAGE",
-      "errors": []
+      "status": "PUBLISHED_REAL_WIKIPEDIA_INFOBOX_SECOND_PASS",
+      "source_logo": "https://upload.wikimedia.org/wikipedia/en/e/e6/Albion_Sports_A.F.C._logo.PNG",
+      "verified_page_title": "Albion Sports A.F.C.",
+      "wikipedia_article": "https://en.wikipedia.org/wiki/Albion_Sports_F.C.",
+      "github_path": "docs/english-clubs-2026-27/wiki-v13/1793400000569.png",
+      "bytes": 12498,
+      "quality_note": "Wikipedia football-club infobox first image, possible identity alias"
     },
     {
       "id": 1793400000571,
@@ -3318,8 +3418,13 @@
     {
       "id": 1793400000572,
       "name": "Campion",
-      "status": "NO_VERIFIED_REAL_IMAGE",
-      "errors": []
+      "status": "PUBLISHED_REAL_WIKIPEDIA_INFOBOX_SECOND_PASS",
+      "source_logo": "https://upload.wikimedia.org/wikipedia/en/9/9e/CampionAFC.png",
+      "verified_page_title": "Campion A.F.C.",
+      "wikipedia_article": "https://en.wikipedia.org/wiki/Campion_A.F.C.",
+      "github_path": "docs/english-clubs-2026-27/wiki-v13/1793400000572.png",
+      "bytes": 10585,
+      "quality_note": "Wikipedia football-club infobox first image, possible identity alias"
     },
     {
       "id": 1793400000573,
@@ -3387,8 +3492,13 @@
     {
       "id": 1793400000580,
       "name": "Parkgate",
-      "status": "NO_VERIFIED_REAL_IMAGE",
-      "errors": []
+      "status": "PUBLISHED_REAL_WIKIPEDIA_INFOBOX_SECOND_PASS",
+      "source_logo": "https://upload.wikimedia.org/wikipedia/en/2/2e/ParkgateFC.png",
+      "verified_page_title": "Parkgate F.C.",
+      "wikipedia_article": "https://en.wikipedia.org/wiki/Parkgate_F.C.",
+      "github_path": "docs/english-clubs-2026-27/wiki-v13/1793400000580.png",
+      "bytes": 14821,
+      "quality_note": "Wikipedia football-club infobox first image, possible identity alias"
     },
     {
       "id": 1793400000581,
@@ -3504,8 +3614,13 @@
     {
       "id": 1793400000589,
       "name": "Birtley Town",
-      "status": "NO_VERIFIED_REAL_IMAGE",
-      "errors": []
+      "status": "PUBLISHED_REAL_WIKIPEDIA_INFOBOX_SECOND_PASS",
+      "source_logo": "https://upload.wikimedia.org/wikipedia/en/f/f3/Birtley_Town_F.C._logo.png",
+      "verified_page_title": "Birtley Town F.C.",
+      "wikipedia_article": "https://en.wikipedia.org/wiki/Birtley_Town_F.C.",
+      "github_path": "docs/english-clubs-2026-27/wiki-v13/1793400000589.png",
+      "bytes": 7599,
+      "quality_note": "Wikipedia football-club infobox first image, possible identity alias"
     },
     {
       "id": 1793400000591,
@@ -3747,8 +3862,13 @@
     {
       "id": 1793400000609,
       "name": "AFC Varndeanians",
-      "status": "NO_VERIFIED_REAL_IMAGE",
-      "errors": []
+      "status": "PUBLISHED_REAL_WIKIPEDIA_INFOBOX_SECOND_PASS",
+      "source_logo": "https://thumb.wikimedia.org/wikipedia/en/thumb/e/e6/AFCVarndeniansFC.png/250px-AFCVarndeniansFC.png",
+      "verified_page_title": "AFC Varndeanians F.C.",
+      "wikipedia_article": "https://en.wikipedia.org/wiki/A.F.C._Varndeanians",
+      "github_path": "docs/english-clubs-2026-27/wiki-v13/1793400000609.png",
+      "bytes": 13059,
+      "quality_note": "Wikipedia football-club infobox first image, possible identity alias"
     },
     {
       "id": 1793400000610,
@@ -3798,8 +3918,13 @@
     {
       "id": 1793400000614,
       "name": "Eastbourne United Association",
-      "status": "NO_VERIFIED_REAL_IMAGE",
-      "errors": []
+      "status": "PUBLISHED_REAL_WIKIPEDIA_INFOBOX_SECOND_PASS",
+      "source_logo": "https://thumb.wikimedia.org/wikipedia/en/thumb/3/3d/Eastbourne_United_afc_badge.jpg/250px-Eastbourne_United_afc_badge.jpg",
+      "verified_page_title": "Eastbourne United A.F.C.",
+      "wikipedia_article": "https://en.wikipedia.org/wiki/Eastbourne_United_A.F.C.",
+      "github_path": "docs/english-clubs-2026-27/wiki-v13/1793400000614.png",
+      "bytes": 11955,
+      "quality_note": "Wikipedia football-club infobox first image, possible identity alias"
     },
     {
       "id": 1793400000615,
@@ -3849,8 +3974,13 @@
     {
       "id": 1793400000619,
       "name": "Horsham YMCA",
-      "status": "NO_VERIFIED_REAL_IMAGE",
-      "errors": []
+      "status": "PUBLISHED_REAL_WIKIPEDIA_INFOBOX_SECOND_PASS",
+      "source_logo": "https://thumb.wikimedia.org/wikipedia/en/thumb/e/e8/Horsham_YMCA_FC_badge.png/250px-Horsham_YMCA_FC_badge.png",
+      "verified_page_title": "Horsham YM F.C.",
+      "wikipedia_article": "https://en.wikipedia.org/wiki/Horsham_YMCA_F.C.",
+      "github_path": "docs/english-clubs-2026-27/wiki-v13/1793400000619.png",
+      "bytes": 13167,
+      "quality_note": "Wikipedia football-club infobox first image, possible identity alias"
     },
     {
       "id": 1793400000620,
@@ -3945,8 +4075,13 @@
     {
       "id": 1793400000627,
       "name": "Seaford Town",
-      "status": "NO_VERIFIED_REAL_IMAGE",
-      "errors": []
+      "status": "PUBLISHED_REAL_WIKIPEDIA_INFOBOX_SECOND_PASS",
+      "source_logo": "https://upload.wikimedia.org/wikipedia/en/7/79/Seaford_Town_F.C._logo.png",
+      "verified_page_title": "Seaford Town F.C.",
+      "wikipedia_article": "https://en.wikipedia.org/wiki/Seaford_Town_F.C.",
+      "github_path": "docs/english-clubs-2026-27/wiki-v13/1793400000627.png",
+      "bytes": 6901,
+      "quality_note": "Wikipedia football-club infobox first image, possible identity alias"
     },
     {
       "id": 1793400000628,
@@ -4134,8 +4269,13 @@
     {
       "id": 1793400000643,
       "name": "SE Dons",
-      "status": "NO_VERIFIED_REAL_IMAGE",
-      "errors": []
+      "status": "PUBLISHED_REAL_WIKIPEDIA_INFOBOX_SECOND_PASS",
+      "source_logo": "https://upload.wikimedia.org/wikipedia/en/9/98/SE_Dons_logo.png",
+      "verified_page_title": "SE Dons F.C.",
+      "wikipedia_article": "https://en.wikipedia.org/wiki/SE_Dons_F.C.",
+      "github_path": "docs/english-clubs-2026-27/wiki-v13/1793400000643.png",
+      "bytes": 8254,
+      "quality_note": "Wikipedia football-club infobox first image, possible identity alias"
     },
     {
       "id": 1793400000644,
@@ -4722,8 +4862,13 @@
     {
       "id": 1793400000691,
       "name": "Coton Green Saturday",
-      "status": "NO_VERIFIED_REAL_IMAGE",
-      "errors": []
+      "status": "PUBLISHED_REAL_WIKIPEDIA_INFOBOX_SECOND_PASS",
+      "source_logo": "https://thumb.wikimedia.org/wikipedia/en/thumb/1/1a/CotonGreenFC.png/250px-CotonGreenFC.png",
+      "verified_page_title": "Coton Green F.C.",
+      "wikipedia_article": "https://en.wikipedia.org/wiki/Coton_Green_F.C.",
+      "github_path": "docs/english-clubs-2026-27/wiki-v13/1793400000691.png",
+      "bytes": 13657,
+      "quality_note": "Wikipedia football-club infobox first image, possible identity alias"
     },
     {
       "id": 1793400000692,
@@ -4971,8 +5116,13 @@
     {
       "id": 1793400000713,
       "name": "Bournemouth Poppies",
-      "status": "NO_VERIFIED_REAL_IMAGE",
-      "errors": []
+      "status": "PUBLISHED_REAL_WIKIPEDIA_INFOBOX_SECOND_PASS",
+      "source_logo": "https://thumb.wikimedia.org/wikipedia/en/thumb/4/4e/Bournemouth_FC_logo.png/250px-Bournemouth_FC_logo.png",
+      "verified_page_title": "Bournemouth F.C.",
+      "wikipedia_article": "https://en.wikipedia.org/wiki/Bournemouth_F.C.",
+      "github_path": "docs/english-clubs-2026-27/wiki-v13/1793400000713.png",
+      "bytes": 14108,
+      "quality_note": "Wikipedia football-club infobox first image, possible identity alias"
     },
     {
       "id": 1793400000714,
@@ -5109,8 +5259,13 @@
     {
       "id": 1793400000724,
       "name": "Hythe & Dibden",
-      "status": "NO_VERIFIED_REAL_IMAGE",
-      "errors": []
+      "status": "PUBLISHED_REAL_WIKIPEDIA_INFOBOX_SECOND_PASS",
+      "source_logo": "https://upload.wikimedia.org/wikipedia/en/1/17/Hythe_%26_Dibden_F.C._logo.png",
+      "verified_page_title": "Hythe & Dibden F.C.",
+      "wikipedia_article": "https://en.wikipedia.org/wiki/Hythe_%26_Dibden_F.C.",
+      "github_path": "docs/english-clubs-2026-27/wiki-v13/1793400000724.png",
+      "bytes": 11382,
+      "quality_note": "Wikipedia football-club infobox first image, possible identity alias"
     },
     {
       "id": 1793400000725,
@@ -5451,8 +5606,13 @@
     {
       "id": 1793400000748,
       "name": "Tavistock Association",
-      "status": "NO_VERIFIED_REAL_IMAGE",
-      "errors": []
+      "status": "PUBLISHED_REAL_WIKIPEDIA_INFOBOX_SECOND_PASS",
+      "source_logo": "https://thumb.wikimedia.org/wikipedia/en/thumb/1/18/Tavistock_A.F.C._logo.png/250px-Tavistock_A.F.C._logo.png",
+      "verified_page_title": "Tavistock A.F.C.",
+      "wikipedia_article": "https://en.wikipedia.org/wiki/Tavistock_A.F.C.",
+      "github_path": "docs/english-clubs-2026-27/wiki-v13/1793400000748.png",
+      "bytes": 8901,
+      "quality_note": "Wikipedia football-club infobox first image, possible identity alias"
     },
     {
       "id": 1793400000749,
@@ -5476,5 +5636,6 @@
       ]
     }
   ],
-  "source": "English Wikipedia infobox image (authentic existing club crest); individual visual review still recommended"
+  "source": "English Wikipedia infobox image (authentic existing club crest); individual visual review still recommended",
+  "second_pass_sources": "Wikipedia football club first infobox logo; candidate named aliases requiring review"
 }
