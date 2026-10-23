@@ -56,8 +56,9 @@ for job in jobs:
       found.append(x)
    # only a single unambiguous actual club logo accepted
    found=list(dict.fromkeys(found))
-   if len(found)!=1:raise ValueError("No unique identity-specific club image "+str(found[:10]))
-   url=found[0]
+   logical=list(dict.fromkeys(re.sub(r"/(?:100|250|500|800)/uploads/", "/SIZE/uploads/", u) for u in found))
+   if len(logical)!=1:raise ValueError("Multiple unrelated images "+str(found[:10]))
+   url=next((u for u in found if "/250/" in u),found[0])
   data=build_png(get(url))
   p.write_bytes(data)
   row.update(status="published",url=url,sha256=hashlib.sha256(data).hexdigest(),bytes=len(data))
