@@ -307,5 +307,155 @@
       "MobileSearch();\n      });\n\n      // close on Escape (even if the input isn't focused)\n      document.addEventListener('keydown', (evt) => {\n        if (evt.key === 'Escape') closeMobileSearch();\n      });\n    }\n\n\n    const CLUBS_URL = 'data/clubs-dev.json';\n    let clubsCache = null;\n    let lastMatches = [];\n    let activeIndex = -1;\n\n    async function loadClubs() {\n      if (clubsCache) return clubsCache;\n      try {\n        const res = await fetch(CLUBS_URL);\n        if (!res.ok) throw new Error(`HTTP ${res.status}`",
       "];\n    let activeIndex = -1;\n\n    async function loadClubs() {\n      if (clubsCache) return clubsCache;\n      try {\n        const res = await fetch(CLUBS_URL);\n        if (!res.ok) throw new Error(`HTTP ${res.status}`);\n        const data = await res.json();\n        clubsCache = Array.isArray(data) ? data : [];\n      } catch (err) {\n        console.error('Error loading clubs for navbar search:', err);\n        clubsCache = [];\n      }\n      return clubsCache;\n    }\n\n    function hideDropdown() {\n      dropdown.classList."
     ]
+  },
+  {
+    "page": "https://www.thenafl.co.uk/data/tables.json",
+    "status": 200,
+    "length": 366738,
+    "shape": "{'NCL Premier': {'table': [{'pos': 1, 'team': 'Portstewart', 'badge': 'comet/d4ba1b8f-c818-49e6-bdc3-df0c7498816a.jpg', 'pld': 7, 'w': 7, 'd': 0, 'l': 0, 'gf': 20, 'ga': 6, 'pts': 21, 'form': ['W', 'W', 'W', 'W', 'W']}, {'pos': 2, 'team': 'St James Swifts', 'badge': 'comet/ac1e2513-ae3f-4e5e-8ff4-e214d8ca8c30.jpg', 'pld': 7, 'w': 4, 'd': 2, 'l': 1, 'gf': 12, 'ga': 6, 'pts': 14, 'form': ['W', 'W', 'L', 'W', 'W']}, {'pos': 3, 'team': 'Dergview', 'badge': 'comet/b58a4fe2-b45f-4eda-a241-d0391e08c1f9.png', 'pld': 7, 'w': 4, 'd': 1, 'l': 2, 'gf': 14, 'ga': 8, 'pts': 13, 'form': ['W', 'L', 'W', 'L', 'D']}, {'pos': 4, 'team': 'Ballyclare Comrades', 'badge': 'comet/ab1b0ad4-591c-4878-9f6c-07cadb9ac541.png', 'pld': 7, 'w': 3, 'd': 3, 'l': 1, 'gf': 12, 'ga': 6, 'pts': 12, 'form': ['D', 'L', 'W', 'W', 'D']}, {'pos': 5, 'team': 'Ballymacash Rangers', 'badge': 'comet/72affd62-f2ae-4737-b474-e18506aabed2.png', 'pld': 7, 'w': 3, 'd': 1, 'l': 3, 'gf': 13, 'ga': 8, 'pts': 10, 'form': ['W', 'D', 'L', 'L', 'W']}, {'pos': 6, 'team': 'Lisburn Distillery', 'badge': 'comet/083ca7db-8531-4201-8f32-7b8244c510c7.png', 'pld': 7, 'w': 3, 'd': 1, 'l': 3, 'gf': 15, 'ga': 14, 'pts': 10, 'form': ['D', 'L', 'W', 'W', 'L']}, {'pos': 7, 'team': 'Dollingstown', 'badge': 'comet/c9581b8d-2e1f-4811-af80-a20d7f3eb011.png', 'pld': 7, 'w': 2, 'd': 3, 'l': 2, 'gf': 10, 'ga': 9, 'pts': 9, 'form': ['D', 'D', 'L', 'W', 'W']}, {'pos': 8, 'team': 'Rosario YC', 'badge': 'comet/5bad3505-10e7-419d-88aa-05848214d476.png', 'pld': 7, 'w': 2, 'd': 2, 'l': 3, 'gf': 12, 'ga': 13, 'pts': 8, 'form': ['L', 'W', 'L', 'L', 'W']}, {'pos': 9, 'team': 'Oxford Sunnyside', 'badge': 'comet/3f87a709-9199-4a83-b9c9-6597c6e7a28f.png', 'pld': 7, 'w': 2, 'd': 2, 'l': 3, 'gf': 11, 'ga': 18, 'pts': 8, 'form': ['D', 'W', 'W', 'D', 'L']}, {'pos': 10, 'team': 'Knockbreda', 'badge': 'comet/8ed1cd9f-223c-402c-b7fe-85e9de7253f0.png', 'pld': 7, 'w': 2, 'd': 1, 'l': 4, 'gf': 11, 'ga': 16, 'pts': 7, 'form': ['L', 'W', 'W', 'L', 'L']}, {'pos': 11, 'team': 'Coagh United', 'badge': 'comet/89400791-d4a6-4b23-a33e-cdf1fe7b5bb8.jpg', 'pld': 7, 'w': 1, 'd': 2, 'l': 4, 'gf': 10, 'ga': 14, 'pts': 5, 'form': ['L', 'L', 'L', 'D', 'L']}, {'pos': 12, 'team': 'Banbridge Town', 'badge': 'comet/031e139b-71c2-4bee-b43f-032922e0449b.png', 'pld': 7, 'w': 0, 'd': 0, 'l': 7, 'gf': 2, 'ga': 24, 'pts': 0, 'form': ['L', 'L', 'L', 'L', 'L']}], 'topScorers': [{'player': 'Dean BROWN', 'team': 'Portstewart', 'badge': 'comet/d4ba1b8f-c818-49e6-bdc3-df0c7498816a.jpg', 'goals': 6}, {'player': 'Adam SALLEY', 'team': 'Oxford Sunnyside', 'badge': 'comet/3f87a709-9199-4a83-b9c9-6597c6e7a28f.png', 'goals': 5}, {'player': 'Dylan RUSSELL', 'team': 'Dergview', 'badge': 'comet/b58a4fe2-b45f-4eda-a241-d0391e08c1f9.png', 'goals': 4}, {'player': 'Jack WATSON', 'team': 'Rosario YC', 'badge': 'comet/5bad3505-10e7-419d-88aa-05848214d476.png', 'goals': 4}, {'player': 'Lewis MEARNS', 'team': 'Ballyclare Comrades', 'badge': 'comet/ab1b0ad4-591c-4878-9f6c-07cadb9ac541.png', 'goals': 4}, {'player': 'Ross HUNTER', 'team': 'Ballymacash Rangers', 'badge': 'comet/72affd62-f2ae-4737-b474-e18506aabed2.png', 'goals': 4}, {'player': 'Ross MURPHY', 'team': 'Knockbreda', 'badge': 'comet/8ed1cd9f-223c-402c-b7fe-85e9de7253f0.png', 'goals': 4}, {'player': 'Andrew MCGRORY', 'team': 'Ballymacash Rangers', 'badge': 'comet/72affd62-f2ae-4737-b474-e18506aabed2.png', 'goals': 3}, {'player': 'Callum DOUGAN', 'team': 'Lisburn Distillery', 'badge': 'comet/083ca7db-8531-4201-8f32-7b8244c510c7.png', 'goals': 3}, {'player': 'Gledis CAKAJ', 'team': 'Ballymacash Rangers', 'badge': 'comet/72affd62-f2ae-4737-b474-e18506aabed2.png', 'goals': 3}, {'player': 'Gary KEANE', 'team': 'Rosario YC', 'badge': 'comet/5bad3505-10e7-419d-88aa-05848214d476.png', 'goals': 3}, {'player': 'Jay BOYD', 'team': 'Knockbreda', 'badge': 'comet/8ed1cd9f-223c-402c-b7fe-85e9de7253f0.png', 'goals': 3}, {'player': 'Jack BOYD', 'team': 'Lisburn Distillery', 'badge': 'comet/083ca7db-8531-4201-8f32-7b8244c510c7.png', 'goals': 3}, {'player': 'Jordan MORRISON', 'team': 'Lisburn Distillery', 'badge': 'comet/083ca7db-8531-4201-8f32-7b8244c510c7.png', 'goals': 3}, {'player': 'Mark HAUGHEY', 'team': 'Ballymacash Rangers', 'badge': 'comet/72affd62-f2ae-4737-b474-e18506aabed2.png', 'goals': 3}, {'player': 'Owen MCKEOWN', 'team': 'St James Swifts', 'badge': 'comet/ac1e2513-ae3f-4e5e-8ff4-e214d8ca8c30.jpg', 'goals': 3}, {'player': 'Samuel COCHRANE', 'team': 'Oxford Sunnyside', 'badge': 'comet/3f87a709-9199-4a83-b9c9-65",
+    "keys": [
+      "NCL Premier",
+      "Premier Division",
+      "Division 1A",
+      "Division 1B",
+      "Division 1C",
+      "Division 2A",
+      "Division 2B",
+      "Division 2C",
+      "Division 2D",
+      "Division 3A",
+      "Division 3B",
+      "Division 3C",
+      "Division 3D",
+      "Division 3E",
+      "Division 3F",
+      "Division 3G",
+      "Division 4",
+      "NCL U21 Development Division"
+    ],
+    "examples": [
+      {
+        "key": "NCL Premier",
+        "type": "dict",
+        "len": 6,
+        "head": "{'table': [{'pos': 1, 'team': 'Portstewart', 'badge': 'comet/d4ba1b8f-c818-49e6-bdc3-df0c7498816a.jpg', 'pld': 7, 'w': 7, 'd': 0, 'l': 0, 'gf': 20, 'ga': 6, 'pts': 21, 'form': ['W', 'W', 'W', 'W', 'W']}, {'pos': 2, 'team': 'St James Swifts', 'badge': 'comet/ac1e2513-ae3f-4e5e-8ff4-e214d8ca8c30.jpg', 'pld': 7, 'w': 4, 'd': 2, 'l': 1, 'gf': 12, 'ga': 6, 'pts': 14, 'form': ['W', 'W', 'L', 'W', 'W']},"
+      },
+      {
+        "key": "Premier Division",
+        "type": "dict",
+        "len": 6,
+        "head": "{'table': [{'pos': 1, 'team': 'Comber Rec', 'badge': 'comet/0545ee20-a536-4369-aebf-32f255b2ff89.png', 'pld': 8, 'w': 5, 'd': 3, 'l': 0, 'gf': 24, 'ga': 14, 'pts': 18, 'form': ['D', 'D', 'W', 'W', 'D']}, {'pos': 2, 'team': 'Derriaghy CC', 'badge': 'comet/286c3a8c-356d-4da9-a4ba-1684c7768690.png', 'pld': 7, 'w': 5, 'd': 1, 'l': 1, 'gf': 22, 'ga': 12, 'pts': 16, 'form': ['D', 'W', 'W', 'L', 'W']}, {"
+      },
+      {
+        "key": "Division 1A",
+        "type": "dict",
+        "len": 6,
+        "head": "{'table': [{'pos': 1, 'team': 'Willowbank', 'badge': 'comet/4d84561c-b57e-4db8-a609-a1bda11a67cd.png', 'pld': 10, 'w': 8, 'd': 0, 'l': 2, 'gf': 28, 'ga': 12, 'pts': 24, 'form': ['W', 'W', 'W', 'W', 'W']}, {'pos': 2, 'team': 'Greenisland', 'badge': 'comet/113997e5-624d-4c45-8b7b-fedade25cdd4.jpg', 'pld': 8, 'w': 5, 'd': 3, 'l': 0, 'gf': 19, 'ga': 9, 'pts': 18, 'form': ['W', 'D', 'D', 'W', 'W']}, {'"
+      },
+      {
+        "key": "Division 1B",
+        "type": "dict",
+        "len": 6,
+        "head": "{'table': [{'pos': 1, 'team': 'Dundonald', 'badge': 'comet/2cb3e604-2a7d-4843-afc9-59920267a08a.jpg', 'pld': 11, 'w': 9, 'd': 0, 'l': 2, 'gf': 29, 'ga': 13, 'pts': 27, 'form': ['L', 'W', 'W', 'W', 'W']}, {'pos': 2, 'team': 'St Matthews', 'badge': 'comet/381f4187-859b-4b41-adca-725c0b7fa37b.jpg', 'pld': 8, 'w': 6, 'd': 1, 'l': 1, 'gf': 25, 'ga': 7, 'pts': 19, 'form': ['W', 'W', 'W', 'D', 'W']}, {'p"
+      },
+      {
+        "key": "Division 1C",
+        "type": "dict",
+        "len": 6,
+        "head": "{'table': [{'pos': 1, 'team': 'Malachians', 'badge': 'comet/15f98899-536a-4837-a15d-c64e8f91c560.jpg', 'pld': 11, 'w': 9, 'd': 1, 'l': 1, 'gf': 41, 'ga': 10, 'pts': 28, 'form': ['W', 'W', 'W', 'L', 'W']}, {'pos': 2, 'team': 'Tullycarnet', 'badge': 'comet/4add4d78-cd31-40b5-8a4c-e9f5cf530bd4.jpg', 'pld': 11, 'w': 7, 'd': 2, 'l': 2, 'gf': 36, 'ga': 10, 'pts': 23, 'form': ['D', 'W', 'W', 'W', 'W']}, "
+      },
+      {
+        "key": "Division 2A",
+        "type": "dict",
+        "len": 6,
+        "head": "{'table': [{'pos': 1, 'team': 'Bangor YM', 'badge': 'comet/eede77b9-94fb-493d-9086-fedccaa35b8b.png', 'pld': 4, 'w': 4, 'd': 0, 'l': 0, 'gf': 13, 'ga': 4, 'pts': 12, 'form': ['W', 'W', 'W', 'W']}, {'pos': 2, 'team': 'Kelvin OB', 'badge': 'comet/da6b5ce7-86df-4417-93b3-dba56f14edd6.png', 'pld': 4, 'w': 3, 'd': 1, 'l': 0, 'gf': 16, 'ga': 6, 'pts': 10, 'form': ['W', 'W', 'D', 'W']}, {'pos': 3, 'team'"
+      },
+      {
+        "key": "Division 2B",
+        "type": "dict",
+        "len": 6,
+        "head": "{'table': [{'pos': 1, 'team': '4th Newtownabbey OB', 'badge': 'comet/2214b565-0dc3-4397-834a-48a783b7c5e2.jpg', 'pld': 5, 'w': 4, 'd': 1, 'l': 0, 'gf': 17, 'ga': 5, 'pts': 13, 'form': ['W', 'W', 'W', 'W', 'D']}, {'pos': 2, 'team': 'Greenwell Star', 'badge': 'comet/965ba321-e5b6-4584-97d3-67e62c5e603e.png', 'pld': 4, 'w': 3, 'd': 1, 'l': 0, 'gf': 14, 'ga': 8, 'pts': 10, 'form': ['W', 'D', 'W', 'W']"
+      },
+      {
+        "key": "Division 2C",
+        "type": "dict",
+        "len": 6,
+        "head": "{'table': [{'pos': 1, 'team': 'Ballysillan Swifts', 'badge': 'comet/bc434fd0-2bf6-4222-b672-a5dbf9ecd6bc.png', 'pld': 6, 'w': 3, 'd': 2, 'l': 1, 'gf': 18, 'ga': 13, 'pts': 11, 'form': ['W', 'W', 'D', 'L', 'W']}, {'pos': 2, 'team': 'Queens University II', 'badge': 'comet/4cadeffc-e483-40db-b084-c5a53afa477d.png', 'pld': 4, 'w': 3, 'd': 0, 'l': 1, 'gf': 12, 'ga': 4, 'pts': 9, 'form': ['L', 'W', 'W',"
+      },
+      {
+        "key": "Division 2D",
+        "type": "dict",
+        "len": 6,
+        "head": "{'table': [{'pos': 1, 'team': 'Belfast United', 'badge': 'comet/a915071e-1532-45dc-9d6e-a47ec9f5940e.jpg', 'pld': 4, 'w': 3, 'd': 0, 'l': 1, 'gf': 19, 'ga': 7, 'pts': 9, 'form': ['W', 'L', 'W', 'W']}, {'pos': 2, 'team': 'Downpatrick', 'badge': 'comet/1dcd663c-cf10-466c-8179-066e580d794f.jpg', 'pld': 3, 'w': 3, 'd': 0, 'l': 0, 'gf': 17, 'ga': 5, 'pts': 9, 'form': ['W', 'W', 'W']}, {'pos': 3, 'team'"
+      },
+      {
+        "key": "Division 3A",
+        "type": "dict",
+        "len": 6,
+        "head": "{'table': [{'pos': 1, 'team': 'Rosario YC II', 'badge': 'comet/5bad3505-10e7-419d-88aa-05848214d476.png', 'pld': 4, 'w': 4, 'd': 0, 'l': 0, 'gf': 15, 'ga': 3, 'pts': 12, 'form': ['W', 'W', 'W', 'W']}, {'pos': 2, 'team': 'Islandmagee II', 'badge': 'comet/e35d378f-09eb-42f2-be52-54fe8e42173a.jpg', 'pld': 5, 'w': 3, 'd': 0, 'l': 2, 'gf': 13, 'ga': 10, 'pts': 9, 'form': ['L', 'W', 'L', 'W', 'W']}, {'p"
+      },
+      {
+        "key": "Division 3B",
+        "type": "dict",
+        "len": 6,
+        "head": "{'table': [{'pos': 1, 'team': 'Albert Foundry II', 'badge': 'comet/ed71e7ca-5fcd-4b56-9fb6-093ab92a9027.png', 'pld': 6, 'w': 3, 'd': 2, 'l': 1, 'gf': 14, 'ga': 7, 'pts': 11, 'form': ['D', 'D', 'W', 'W', 'L']}, {'pos': 2, 'team': 'Dunmurry YM II', 'badge': 'comet/9d23f9bc-1390-4242-95c0-a36e66c1cef5.jpg', 'pld': 4, 'w': 3, 'd': 1, 'l': 0, 'gf': 17, 'ga': 7, 'pts': 10, 'form': ['W', 'D', 'W', 'W']},"
+      },
+      {
+        "key": "Division 3C",
+        "type": "dict",
+        "len": 6,
+        "head": "{'table': [{'pos': 1, 'team': 'Dundonald II', 'badge': 'comet/2cb3e604-2a7d-4843-afc9-59920267a08a.jpg', 'pld': 5, 'w': 5, 'd': 0, 'l': 0, 'gf': 29, 'ga': 5, 'pts': 15, 'form': ['W', 'W', 'W', 'W', 'W']}, {'pos': 2, 'team': 'Rosemount Rec II', 'badge': 'comet/a68e00de-3a9e-44c6-ab8f-ca3c398d3135.jpg', 'pld': 5, 'w': 3, 'd': 1, 'l': 1, 'gf': 20, 'ga': 8, 'pts': 10, 'form': ['W', 'D', 'W', 'W', 'L']"
+      },
+      {
+        "key": "Division 3D",
+        "type": "dict",
+        "len": 6,
+        "head": "{'table': [{'pos': 1, 'team': 'Groomsport II', 'badge': 'comet/a5e7b3a1-ac4a-431b-93e2-1e6b29b8d504.jpg', 'pld': 5, 'w': 4, 'd': 0, 'l': 1, 'gf': 14, 'ga': 2, 'pts': 12, 'form': ['W', 'W', 'L', 'W', 'W']}, {'pos': 2, 'team': 'Clonard II', 'badge': 'comet/cbee508b-7403-4cbc-ba15-c042ccb8015b.png', 'pld': 6, 'w': 4, 'd': 0, 'l': 2, 'gf': 12, 'ga': 11, 'pts': 12, 'form': ['W', 'W', 'W', 'L', 'W']}, {"
+      },
+      {
+        "key": "Division 3E",
+        "type": "dict",
+        "len": 6,
+        "head": "{'table': [{'pos': 1, 'team': 'Kelvin OB II', 'badge': 'comet/da6b5ce7-86df-4417-93b3-dba56f14edd6.png', 'pld': 7, 'w': 7, 'd': 0, 'l': 0, 'gf': 33, 'ga': 7, 'pts': 21, 'form': ['W', 'W', 'W', 'W', 'W']}, {'pos': 2, 'team': 'Civil Service II', 'badge': 'comet/61236efb-566b-47e4-9c4b-947d568069a7.jpg', 'pld': 6, 'w': 3, 'd': 2, 'l': 1, 'gf': 19, 'ga': 10, 'pts': 11, 'form': ['D', 'D', 'W', 'W', 'L'"
+      },
+      {
+        "key": "Division 3F",
+        "type": "dict",
+        "len": 6,
+        "head": "{'table': [{'pos': 1, 'team': 'Bangor YM II', 'badge': 'comet/eede77b9-94fb-493d-9086-fedccaa35b8b.png', 'pld': 6, 'w': 6, 'd': 0, 'l': 0, 'gf': 35, 'ga': 10, 'pts': 18, 'form': ['W', 'W', 'W', 'W', 'W']}, {'pos': 2, 'team': 'St Teresas II', 'badge': 'comet/f60a8c12-3263-4211-a61d-2b8e64c3b567.jpg', 'pld': 5, 'w': 4, 'd': 0, 'l': 1, 'gf': 21, 'ga': 13, 'pts': 12, 'form': ['W', 'L', 'W', 'W', 'W']}"
+      },
+      {
+        "key": "Division 3G",
+        "type": "dict",
+        "len": 6,
+        "head": "{'table': [{'pos': 1, 'team': 'Belfast Celtic YM II', 'badge': 'comet/69cf2bfc-653b-4d64-8eeb-74527c8e4723.jpg', 'pld': 6, 'w': 6, 'd': 0, 'l': 0, 'gf': 25, 'ga': 8, 'pts': 18, 'form': ['W', 'W', 'W', 'W', 'W']}, {'pos': 2, 'team': 'Castle Juniors II', 'badge': 'comet/9c87ce34-ac18-4eb5-bce5-54e3f9a4b21f.jpg', 'pld': 6, 'w': 5, 'd': 0, 'l': 1, 'gf': 22, 'ga': 11, 'pts': 15, 'form': ['W', 'W', 'W',"
+      },
+      {
+        "key": "Division 4",
+        "type": "dict",
+        "len": 6,
+        "head": "{'table': [{'pos': 1, 'team': 'St Marys FC (Newtownabbey) Development Squad', 'badge': 'comet/9822fd23-52bc-4b4d-ab8f-697ef691d4bd.png', 'pld': 7, 'w': 5, 'd': 1, 'l': 1, 'gf': 29, 'ga': 10, 'pts': 16, 'form': ['W', 'L', 'D', 'W', 'W']}, {'pos': 2, 'team': 'Aquinas III', 'badge': 'comet/3309045a-8782-41fe-8aca-3f09b3d39969.png', 'pld': 6, 'w': 4, 'd': 1, 'l': 1, 'gf': 35, 'ga': 10, 'pts': 13, 'for"
+      },
+      {
+        "key": "NCL U21 Development Division",
+        "type": "dict",
+        "len": 6,
+        "head": "{'table': [{'pos': 1, 'team': 'Rosario YC U21', 'badge': 'comet/5bad3505-10e7-419d-88aa-05848214d476.png', 'pld': 5, 'w': 4, 'd': 1, 'l': 0, 'gf': 18, 'ga': 6, 'pts': 13, 'form': ['W', 'W', 'D', 'W', 'W']}, {'pos': 2, 'team': 'Derriaghy CC FC U21s', 'badge': 'comet/286c3a8c-356d-4da9-a4ba-1684c7768690.png', 'pld': 4, 'w': 4, 'd': 0, 'l': 0, 'gf': 18, 'ga': 7, 'pts': 12, 'form': ['W', 'W', 'W', 'W'"
+      }
+    ]
+  },
+  {
+    "page": "https://www.thenafl.co.uk/data/clubs-dev.json",
+    "status": 200,
+    "length": 236105,
+    "shape": "[{'id': 1, 'slug': 'abbey-villa', 'name': 'Abbey Villa', 'shortName': 'Villa', 'badge': 'abbey-villa.png', 'division': 'Premier Division', 'location': 'Millisle', 'founded': 1955, 'ground': 'Adams Park', 'primaryColour': '#800000', 'secondaryColour': '#87CEEB', 'website': None, 'twitter': None, 'facebook': 'Abbey Villa FC', 'instagram': None, 'about': 'In 1955, the late Thomas Waugh, the Bennett brothers (Nelson, Tom, Raymond and Norman), and others formed a village team, Millisle United, in the Cardy League. They soon progressed to the Churches League as Millisle Presbyterian, with a second team in the Belfast Minor League, and finally arrived on the Northern Amateur League scene in 1962.\\n\\nThe club reached the IFA Junior Cup final in 1988 and won the Clarence Cup in 1990/91 while still a Second Division team. The current ground, Adams Park, and the Waugh Pavilion were officially opened in August 1992 when Villa beat Irish League club Ards 2–0, and the club enjoyed a memorable season. Now an intermediate club, Villa won the Border Regiment Cup in 1992, won 1B by an 11-point margin, reached the last 16 of the Irish Cup, and earned the Best Junior Team award.\\n\\nBetween 2008 and 2011, brothers Graham and Mark Bailie led the first team as the club again won the Border Regiment Cup, reached the last 16 of the IFA Irish Challenge Cup, were named ‘Junior Team of the Year’ by the Football Writers Association, and won promotion to the NAFL Premier Division. In 2012, the club opened a 70m x 30m 3G training facility and new changing rooms, supporting major growth in the youth set-up.\\n\\nIn 2024/25, the first team, managed by Scott Collins, won Division 1A to gain promotion to the NAFL Premier Division, while Nikki Caskey’s second team won Division 3B and also lifted the Walter Moore Cup. Former youth player Mason Munn made his debut for Glasgow Rangers in January, and club member Conrad Kirkwood served as Irish FA President from 2021 to 2026.\\n\\nThe club’s motto, “Semper Ad Meliora” (“Always towards better things”), reflects its ambitions on and off the pitch and in the community. The club has continued to improve its facilities, including a covered stand, solar panels, perimeter fencing, and upgrades to the social centre.', 'teams': [{'key': '1st-xi', 'label': '1st XI', 'teamName': 'Abbey Villa', 'division': 'Premier Division'}, {'key': '2nd-xi', 'label': '2nd XI', 'teamName': 'Abbey Villa II', 'division': 'Division 3A'}], 'email': 'abbeyvillafc@hotmail.com', 'showEmail': False, 'affiliation': {'season': '2026-27', 'status': 'Affiliated', 'submitted': 'Jun 10, 2026', 'submittedName': 'Abbey Villa Football Club'}, 'clubColours': {'home': 'Maroon/skyblue'}, 'grounds': [{'name': 'Adams Park', 'primary': True, 'address': '91 Abbey Road Millisle, United Kingdom (+44), BT22 2DG', 'surface': 'Grass'}], 'social': {'facebook': 'Abbey Villa FC'}, 'source': {'lastAffiliationImport': '2026-07-24T10:17:06+00:00', 'affiliationSubmissionDate': 'Jun 10, 2026'}}, {'id': 2, 'slug': 'ards-rangers', 'name': 'Ards Rangers', 'shortName': 'Rangers', 'badge': 'ards-rangers.png', 'division': 'Premier Division', 'location': 'Newtownards', 'founded': 1948, 'ground': 'Drome Park', 'primaryColour': '#0000FF', 'secondaryColour': '#000000', 'website': 'https://ardsrangers.club/', 'twitter': 'https://twitter.com/ArdsRangersFC', 'facebook': 'https://www.facebook.com/ardsrangersfootballclub', 'instagram': 'https://www.instagram.com/ards_rangers_fc', 'about': 'Ards Rangers compete in the NAFL Premier Division. A historic club from Newtownards playing at Drome Park.', 'teams': [{'key': '1st-xi', 'label': '1st XI', 'teamName': 'Ards Rangers', 'division': 'Premier Division'}, {'key': '2nd-xi', 'label': '2nd XI', 'teamName': 'Ards Rangers II', 'division': 'Division 3A'}], 'email': 'ardsrangersfc@sky.com', 'showEmail': False, 'affiliation': {'season': '2026-27', 'status': 'Affiliated', 'submitted': 'Jun 17, 2026', 'submittedName': 'Ards Rangers'}, 'clubColours': {'home': 'Blue'}, 'grounds': [{'name': 'Drome Park', 'primary': True, 'address': '53 Portaferry Road Newtownards, Down, BT23 8SG', 'map': 'https://maps.app.goo.gl/SkULfnGmQGpdPZAD8', 'surface': 'Grass'}, {'name': 'Londonderry Park', 'primary': False, 'address': 'Portaferry Road Newtownards, Down, BT23 8SG', 'usedBy': 'Ards Rangers II'}], 'social': {'website': 'https://ardsrangers.club/', 'facebook': 'https://www.facebook.com/ardsrangersfootballclub', 'instagram': 'https://www.instagram.com/ards_rangers_fc",
+    "keys": null
+  },
+  {
+    "page": "https://www.thenafl.co.uk/data/fixtures.json",
+    "status": 200,
+    "length": 399477,
+    "shape": "[{'id': '48574775', 'date': '2026-08-01', 'time': '14:00', 'division': 'Division 1A', 'season': '2026-27', 'competitionId': 48519208, 'competitionName': 'NAFL Division 1A 26/27', 'competitionType': 'league', 'homeTeam': '18th Newtownabbey OB', 'awayTeam': 'Kilmore Rec', 'venue': '', 'homeGoals': 1, 'awayGoals': 2, 'status': 'played'}, {'id': '48574776', 'date': '2026-08-01', 'time': '14:00', 'division': 'Division 1A', 'season': '2026-27', 'competitionId': 48519208, 'competitionName': 'NAFL Division 1A 26/27', 'competitionType': 'league', 'homeTeam': 'Albert Foundry', 'awayTeam': 'Greenisland', 'venue': '', 'homeGoals': 2, 'awayGoals': 4, 'status': 'played'}, {'id': '48574778', 'date': '2026-08-01', 'time': '14:00', 'division': 'Division 1A', 'season': '2026-27', 'competitionId': 48519208, 'competitionName': 'NAFL Division 1A 26/27', 'competitionType': 'league', 'homeTeam': 'Crumlin United', 'awayTeam': 'St Oliver Plunkett', 'venue': '', 'homeGoals': 0, 'awayGoals': 1, 'status': 'played'}, {'id': '48574779', 'date': '2026-08-01', 'time': '14:00', 'division': 'Division 1A', 'season': '2026-27', 'competitionId': 48519208, 'competitionName': 'NAFL Division 1A 26/27', 'competitionType': 'league', 'homeTeam': 'Finaghy', 'awayTeam': 'Willowbank', 'venue': '', 'homeGoals': 0, 'awayGoals': 1, 'status': 'played'}, {'id': '48574777', 'date': '2026-08-01', 'time': '14:00', 'division': 'Division 1A', 'season': '2026-27', 'competitionId': 48519208, 'competitionName': 'NAFL Division 1A 26/27', 'competitionType': 'league', 'homeTeam': 'Larne Tech OB', 'awayTeam': 'Aquinas', 'venue': '', 'homeGoals': 3, 'awayGoals': 1, 'status': 'played'}, {'id': '48574780', 'date': '2026-08-01', 'time': '14:00', 'division': 'Division 1A', 'season': '2026-27', 'competitionId': 48519208, 'competitionName': 'NAFL Division 1A 26/27', 'competitionType': 'league', 'homeTeam': 'Sirocco Works', 'awayTeam': 'Dunmurry Rec', 'venue': '', 'homeGoals': 3, 'awayGoals': 1, 'status': 'played'}, {'id': '48574944', 'date': '2026-08-01', 'time': '14:00', 'division': 'Division 1B', 'season': '2026-27', 'competitionId': 48529366, 'competitionName': 'NAFL Division 1B 26/27', 'competitionType': 'league', 'homeTeam': 'Bangor Amateurs', 'awayTeam': 'St Lukes', 'venue': '', 'homeGoals': 1, 'awayGoals': 3, 'status': 'played'}, {'id': '48574945', 'date': '2026-08-01', 'time': '14:00', 'division': 'Division 1B', 'season': '2026-27', 'competitionId': 48529366, 'competitionName': 'NAFL Division 1B 26/27', 'competitionType': 'league', 'homeTeam': 'Bryansburn Rangers', 'awayTeam': 'Colin Valley', 'venue': '', 'homeGoals': 2, 'awayGoals': 2, 'status': 'played'}, {'id': '48574946', 'date': '2026-08-01', 'time': '14:00', 'division': 'Division 1B', 'season': '2026-27', 'competitionId': 48529366, 'competitionName': 'NAFL Division 1B 26/27', 'competitionType': 'league', 'homeTeam': 'Downshire YM', 'awayTeam': 'St Marys (Newtownabbey)', 'venue': '', 'homeGoals': 1, 'awayGoals': 1, 'status': 'played'}, {'id': '48574947', 'date': '2026-08-01', 'time': '14:00', 'division': 'Division 1B', 'season': '2026-27', 'competitionId': 48529366, 'competitionName': 'NAFL Division 1B 26/27', 'competitionType': 'league', 'homeTeam': 'Dundonald', 'awayTeam': 'Rosemount Rec', 'venue': '', 'homeGoals': 2, 'awayGoals': 1, 'status': 'played'}, {'id': '48574948', 'date': '2026-08-01', 'time': '14:00', 'division': 'Division 1B', 'season': '2026-27', 'competitionId': 48529366, 'competitionName': 'NAFL Division 1B 26/27', 'competitionType': 'league', 'homeTeam': 'Killyleagh YC', 'awayTeam': 'Woodvale', 'venue': '', 'homeGoals': 4, 'awayGoals': 3, 'status': 'played'}, {'id': '48574949', 'date': '2026-08-01', 'time': '14:00', 'division': 'Division 1B', 'season': '2026-27', 'competitionId': 48529366, 'competitionName': 'NAFL Division 1B 26/27', 'competitionType': 'league', 'homeTeam': 'Shamrock', 'awayTeam': 'St Matthews', 'venue': '', 'homeGoals': 2, 'awayGoals': 3, 'status': 'played'}, {'id': '48575161', 'date': '2026-08-01', 'time': '14:00', 'division': 'Division 1C', 'season': '2026-27', 'competitionId': 48529564, 'competitionName': 'NAFL Division 1C 26/27', 'competitionType': 'league', 'homeTeam': 'Ballynahinch United', 'awayTeam': 'Shorts', 'venue': '', 'homeGoals': 1, 'awayGoals': 6, 'status': 'played'}, {'id': '48575156', 'date': '2026-08-01', 'time': '14:00', 'division': 'Division 1C', 'season': '2026-27', 'competitionId': 48529564, 'competitionName': 'NAFL Division 1C 26/27', 'competitionType': 'league', 'h",
+    "keys": null
   }
 ]
