@@ -1528,5 +1528,12 @@
   {
     "page": "https://38trojansycg.co.uk",
     "error": "HTTPSConnectionPool(host='38trojansycg.co.uk', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='38trojansycg.co.uk', port=443): Fai"
+  },
+  {
+    "page": "https://tamhi.org/sports-club/st-patricks-ym-fc/",
+    "status": 403,
+    "length": 1240,
+    "imgs": [],
+    "meta": []
   }
 ]
