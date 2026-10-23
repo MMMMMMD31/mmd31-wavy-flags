@@ -36,7 +36,17 @@
           }
         ]
       }
-    ]
+    ],
+    "download": {
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/e/ef/AFC_Portchester_logo.png/250px-AFC_Portchester_logo.png",
+      "status": 200,
+      "bytes": 100698,
+      "type": "image/png",
+      "dimensions": [
+        250,
+        319
+      ]
+    }
   },
   {
     "name": "Bedfont Sports",
@@ -44,7 +54,7 @@
       {
         "url": "https://en.wikipedia.org/wiki/Bedfont_Sports_F.C.",
         "status": 200,
-        "length": 174958,
+        "length": 174957,
         "title": "Bedfont Sports F.C. - Wikipedia",
         "first_images": [
           {
@@ -61,7 +71,17 @@
           }
         ]
       }
-    ]
+    ],
+    "download": {
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/a/a9/Bedfont_Sports_F.C._logo.png/250px-Bedfont_Sports_F.C._logo.png",
+      "status": 200,
+      "bytes": 98010,
+      "type": "image/png",
+      "dimensions": [
+        250,
+        251
+      ]
+    }
   },
   {
     "name": "Bognor Regis Town",
@@ -69,7 +89,7 @@
       {
         "url": "https://en.wikipedia.org/wiki/Bognor_Regis_Town_F.C.",
         "status": 200,
-        "length": 246808,
+        "length": 246809,
         "title": "Bognor Regis Town F.C. - Wikipedia",
         "first_images": [
           {
@@ -86,7 +106,17 @@
           }
         ]
       }
-    ]
+    ],
+    "download": {
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/9/9f/Bognorregistownfc.png/250px-Bognorregistownfc.png",
+      "status": 200,
+      "bytes": 70801,
+      "type": "image/png",
+      "dimensions": [
+        250,
+        250
+      ]
+    }
   },
   {
     "name": "Jersey Bulls",
@@ -111,7 +141,17 @@
           }
         ]
       }
-    ]
+    ],
+    "download": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Jersey_Bulls.svg/250px-Jersey_Bulls.svg.png",
+      "status": 200,
+      "bytes": 33086,
+      "type": "image/png",
+      "dimensions": [
+        250,
+        336
+      ]
+    }
   },
   {
     "name": "Bowers & Pitsea",
@@ -119,7 +159,7 @@
       {
         "url": "https://en.wikipedia.org/wiki/Bowers_%26_Pitsea_F.C.",
         "status": 200,
-        "length": 160868,
+        "length": 160869,
         "title": "Bowers & Pitsea F.C. - Wikipedia",
         "first_images": [
           {
@@ -136,7 +176,17 @@
           }
         ]
       }
-    ]
+    ],
+    "download": {
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/6/66/Bowers_%26_Pitsea_logo.png/250px-Bowers_%26_Pitsea_logo.png",
+      "status": 200,
+      "bytes": 52011,
+      "type": "image/png",
+      "dimensions": [
+        250,
+        184
+      ]
+    }
   },
   {
     "name": "Hendon",
@@ -161,7 +211,17 @@
           }
         ]
       }
-    ]
+    ],
+    "download": {
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/4/4b/HendonFcCrest.png/250px-HendonFcCrest.png",
+      "status": 200,
+      "bytes": 79940,
+      "type": "image/png",
+      "dimensions": [
+        250,
+        316
+      ]
+    }
   },
   {
     "name": "Guernsey",
@@ -186,7 +246,17 @@
           }
         ]
       }
-    ]
+    ],
+    "download": {
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/9/99/Guernsey_F.C..svg/250px-Guernsey_F.C..svg.png",
+      "status": 200,
+      "bytes": 31967,
+      "type": "image/png",
+      "dimensions": [
+        250,
+        359
+      ]
+    }
   },
   {
     "name": "Newmarket Town",
@@ -211,7 +281,17 @@
           }
         ]
       }
-    ]
+    ],
+    "download": {
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/2/29/Newmarket_Town_FC.PNG/250px-Newmarket_Town_FC.PNG",
+      "status": 200,
+      "bytes": 59658,
+      "type": "image/png",
+      "dimensions": [
+        250,
+        281
+      ]
+    }
   },
   {
     "name": "Fakenham Town",
@@ -236,7 +316,17 @@
           }
         ]
       }
-    ]
+    ],
+    "download": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/f/ff/Fakenham_Town_FC.PNG",
+      "status": 200,
+      "bytes": 39746,
+      "type": "image/png",
+      "dimensions": [
+        227,
+        321
+      ]
+    }
   },
   {
     "name": "Baffins Milton Rovers",
@@ -244,7 +334,7 @@
       {
         "url": "https://en.wikipedia.org/wiki/Baffins_Milton_Rovers_F.C.",
         "status": 200,
-        "length": 132811,
+        "length": 132810,
         "title": "Baffins Milton Rovers F.C. - Wikipedia",
         "first_images": [
           {
@@ -261,7 +351,17 @@
           }
         ]
       }
-    ]
+    ],
+    "download": {
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/8/88/BaffinsMiltonRoversFC.png/250px-BaffinsMiltonRoversFC.png",
+      "status": 200,
+      "bytes": 66899,
+      "type": "image/png",
+      "dimensions": [
+        250,
+        250
+      ]
+    }
   },
   {
     "name": "AFC Liverpool",
@@ -300,7 +400,17 @@
           }
         ]
       }
-    ]
+    ],
+    "download": {
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/0/0f/AFC_Liverpool_logo.png/250px-AFC_Liverpool_logo.png",
+      "status": 200,
+      "bytes": 86564,
+      "type": "image/png",
+      "dimensions": [
+        250,
+        241
+      ]
+    }
   },
   {
     "name": "AFC Wolverhampton City",
@@ -334,7 +444,7 @@
       {
         "url": "https://en.wikipedia.org/wiki/AFC_Varndeanians_F.C.",
         "status": 200,
-        "length": 151175,
+        "length": 151176,
         "title": "AFC Varndeanians F.C. - Wikipedia",
         "first_images": [
           {
@@ -351,7 +461,17 @@
           }
         ]
       }
-    ]
+    ],
+    "download": {
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/e/e6/AFCVarndeniansFC.png/250px-AFCVarndeniansFC.png",
+      "status": 200,
+      "bytes": 124021,
+      "type": "image/png",
+      "dimensions": [
+        250,
+        249
+      ]
+    }
   },
   {
     "name": "Bracknell Town",
@@ -359,7 +479,7 @@
       {
         "url": "https://en.wikipedia.org/wiki/Bracknell_Town_F.C.",
         "status": 200,
-        "length": 233584,
+        "length": 233583,
         "title": "Bracknell Town F.C. - Wikipedia",
         "first_images": [
           {
@@ -376,6 +496,16 @@
           }
         ]
       }
-    ]
+    ],
+    "download": {
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/1/1f/Bracknell_Town_FC_Badge.png/250px-Bracknell_Town_FC_Badge.png",
+      "status": 200,
+      "bytes": 51774,
+      "type": "image/png",
+      "dimensions": [
+        250,
+        294
+      ]
+    }
   }
 ]
