@@ -17,7 +17,7 @@ def norm(name):
  return s.strip("-")
 def get(url,params=None):
  try:
-  r=S.get(url,params=params,timeout=17)
+  r=S.get(url,params=params,timeout=6)
   return r if r.ok else None
  except Exception:return None
 def espn():
@@ -178,7 +178,7 @@ for i,row in enumerate(rows,1):
  if row['division'] in ('D3','D4','D5E','D5W') and norm(needle) in slflpack:candidates.append(slflpack[norm(needle)])
  if norm(needle) in logos:candidates.append(logos[norm(needle)])
  if norm(needle) in guardian:candidates.append(guardian[norm(needle)])
- for result in (lowland_club_logo(name) if row['division'] in ('D3','D4','D5E','D5W') else None,sportsdb(needle),wikipedia(needle)):
+ for result in (sportsdb(needle) if row['division'] in ('D3','D4') else None,):
   if result:candidates.append(result)
  status={"id":row["club_id"],"club":name,"division":row["division"],"state":"MISSING","source_url":"","source_provider":"","matched_name":"","file":"","dimensions_verified":False,"visual_identity_reviewed":False}
  for url,provider,matched in candidates:
