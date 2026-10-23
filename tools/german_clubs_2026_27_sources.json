@@ -1,0 +1,884 @@
+[
+  {
+    "id": 1898000000001,
+    "name": "FC Bayern München",
+    "source_path": "logos/germany/Bayern_München.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000002,
+    "name": "Borussia Dortmund",
+    "source_path": "logos/germany/Borussia_Dortmund.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000003,
+    "name": "SC Freiburg",
+    "source_path": "logos/germany/Freiburg.svg",
+    "selection": "reviewed_alias"
+  },
+  {
+    "id": 1898000000004,
+    "name": "Bayer 04 Leverkusen",
+    "source_path": "logos/germany/Bayer_Leverkusen.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000005,
+    "name": "1. FSV Mainz 05",
+    "source_path": "logos/germany/Mainz_05.svg",
+    "selection": "reviewed_alias"
+  },
+  {
+    "id": 1898000000006,
+    "name": "SV Elversberg",
+    "source_path": "logos/germany/SV_Elversberg.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000007,
+    "name": "RB Leipzig",
+    "source_path": "logos/germany/RB_Leipzig.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000008,
+    "name": "SV Werder Bremen",
+    "source_path": "logos/germany/Werder_Bremen.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000009,
+    "name": "Hamburger SV",
+    "source_path": "logos/germany/Hamburger_SV.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000010,
+    "name": "FC Augsburg",
+    "source_path": "logos/germany/Augsburg.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000011,
+    "name": "Eintracht Frankfurt",
+    "source_path": "logos/germany/Eintracht_Frankfurt.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000012,
+    "name": "1. FC Köln",
+    "source_path": "logos/germany/Cologne.svg",
+    "selection": "reviewed_alias"
+  },
+  {
+    "id": 1898000000013,
+    "name": "VfB Stuttgart",
+    "source_path": "logos/germany/VfB_Stuttgart.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000014,
+    "name": "TSG Hoffenheim",
+    "source_path": "logos/germany/Hoffenheim.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000015,
+    "name": "FC Schalke 04",
+    "source_path": "logos/germany/Schalke_04.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000016,
+    "name": "SC Paderborn 07",
+    "source_path": "logos/germany/SC_Paderborn.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000017,
+    "name": "1. FC Union Berlin",
+    "source_path": "logos/germany/Union_Berlin.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000018,
+    "name": "Borussia Mönchengladbach",
+    "source_path": "logos/germany/Borussia_Mönchengladbach.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000019,
+    "name": "Hertha BSC",
+    "source_path": "logos/germany/Hertha_BSC.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000020,
+    "name": "1. FC Nürnberg",
+    "source_path": "logos/germany/FC_Nürnberg.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000021,
+    "name": "VfL Wolfsburg",
+    "source_path": "logos/germany/Wolfsburg.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000022,
+    "name": "1. FC Kaiserslautern",
+    "source_path": "logos/germany/FC_Kaiserslautern.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000023,
+    "name": "1. FC Heidenheim 1846",
+    "source_path": "logos/germany/FC_Heidenheim.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000024,
+    "name": "1. FC Magdeburg",
+    "source_path": "logos/germany/1._FC_Magdeburg.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000025,
+    "name": "FC St. Pauli",
+    "source_path": "logos/germany/St_Pauli.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000026,
+    "name": "DSC Arminia Bielefeld",
+    "source_path": "logos/germany/Arminia_Bielefeld.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000027,
+    "name": "FC Energie Cottbus",
+    "source_path": "logos/germany/Energie_Cottbus.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000028,
+    "name": "SpVgg Greuther Fürth",
+    "source_path": "logos/germany/SpVgg_Greuther_Fürth.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000029,
+    "name": "SG Dynamo Dresden",
+    "source_path": "logos/germany/Dynamo_Dresden.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000030,
+    "name": "VfL Osnabrück",
+    "source_path": "logos/germany/Osnabrück.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000031,
+    "name": "Karlsruher SC",
+    "source_path": "logos/germany/Karlsruher_SC.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000032,
+    "name": "Hannover 96",
+    "source_path": "logos/germany/Hannover_96.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000033,
+    "name": "Eintracht Braunschweig",
+    "source_path": "logos/germany/Eintracht_Braunschweig.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000034,
+    "name": "VfL Bochum",
+    "source_path": "logos/germany/VfL_Bochum.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000035,
+    "name": "SV Darmstadt 98",
+    "source_path": "logos/germany/SV_Darmstadt_98.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000036,
+    "name": "Holstein Kiel",
+    "source_path": "logos/germany/Holstein_Kiel.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000037,
+    "name": "MSV Duisburg",
+    "source_path": "logos/germany/MSV_Duisburg.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000038,
+    "name": "FC Viktoria Köln",
+    "source_path": "logos/germany/FC_Viktoria_Köln.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000039,
+    "name": "Rot-Weiss Essen",
+    "source_path": "logos/germany/Essen.svg",
+    "selection": "reviewed_alias"
+  },
+  {
+    "id": 1898000000040,
+    "name": "1. FC Saarbrücken",
+    "source_path": "logos/germany/Saarbrücken.svg",
+    "selection": "reviewed_alias"
+  },
+  {
+    "id": 1898000000041,
+    "name": "TSG Hoffenheim II",
+    "source_path": "logos/germany/Hoffenheim.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000042,
+    "name": "Hansa Rostock",
+    "source_path": "logos/germany/Hansa_Rostock.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000043,
+    "name": "VfB Stuttgart II",
+    "source_path": "logos/germany/VfB_Stuttgart.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000044,
+    "name": "Alemannia Aachen",
+    "source_path": "logos/germany/Alemannia_Aachen.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000045,
+    "name": "FC Ingolstadt 04",
+    "source_path": "logos/germany/Ingolstadt.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000046,
+    "name": "Fortuna Düsseldorf",
+    "source_path": "logos/germany/Fortuna_Düsseldorf.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000047,
+    "name": "SV Waldhof Mannheim",
+    "source_path": "logos/germany/SV_Waldhof_Mannheim.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000048,
+    "name": "SC Preußen Münster",
+    "source_path": "logos/germany/Preußen_Münster.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000049,
+    "name": "SV Wehen Wiesbaden",
+    "source_path": "logos/germany/SV_Wehen_Wiesbaden.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000050,
+    "name": "SC Verl",
+    "source_path": "logos/germany/SC_Verl.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000051,
+    "name": "SG Sonnenhof Großaspach",
+    "source_path": "logos/germany/SG_Sonnenhof_Großaspach.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000052,
+    "name": "FC Würzburger Kickers",
+    "source_path": "logos/germany/Würzburger_Kickers.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000053,
+    "name": "SV Meppen",
+    "source_path": "logos/germany/SV_Meppen.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000054,
+    "name": "SSV Jahn Regensburg",
+    "source_path": "logos/germany/Jahn.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000055,
+    "name": "SC Fortuna Köln",
+    "source_path": "logos/germany/SC_Fortuna_Köln.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000056,
+    "name": "TSV Havelse",
+    "source_path": "logos/germany/TSV_Havelse.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000057,
+    "name": "SC Weiche Flensburg 08",
+    "source_path": "logos/germany/SC_Weiche_Flensburg_08.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000058,
+    "name": "Hannover 96 II",
+    "source_path": "logos/germany/Hannover_96.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000059,
+    "name": "SV Drochtersen/Assel",
+    "source_path": "logos/germany/SV_DrochtersenAssel.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000060,
+    "name": "VfB Oldenburg",
+    "source_path": "logos/germany/VfB_Oldenburg.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000061,
+    "name": "1. FC Phönix Lübeck",
+    "source_path": "logos/germany/1._FC_Phönix_Lübeck.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000062,
+    "name": "FSV Schöningen",
+    "source_path": "logos/germany/FSV_Schöningen_2011.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000063,
+    "name": "SV Atlas Delmenhorst",
+    "source_path": "logos/germany/Atlas_Delmenhorst.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000064,
+    "name": "Kickers Emden",
+    "source_path": "logos/germany/BSV_Kickers_Emden.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000065,
+    "name": "VfB Lübeck",
+    "source_path": "logos/germany/VfB_Lübeck.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000066,
+    "name": "HSC Hannover",
+    "source_path": "logos/germany/HSC_Hannover.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000067,
+    "name": "Eimsbütteler TV",
+    "source_path": "logos/germany/Eimsbütteler_TV.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000068,
+    "name": "Eintracht Norderstedt",
+    "source_path": "logos/germany/FC_Eintracht_Norderstedt.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000069,
+    "name": "Hamburger SV II",
+    "source_path": "logos/germany/Hamburger_SV.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000070,
+    "name": "SSV Jeddeloh II",
+    "source_path": "logos/germany/SSV_Jeddeloh_II.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000071,
+    "name": "SV Werder Bremen II",
+    "source_path": "logos/germany/Werder_Bremen.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000072,
+    "name": "SV Todesfelde",
+    "source_path": "logos/germany/SV_Todesfelde.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000073,
+    "name": "FC St. Pauli II",
+    "source_path": "logos/germany/St_Pauli.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000074,
+    "name": "Bremer SV",
+    "source_path": "logos/germany/Bremer_SV.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000075,
+    "name": "Chemnitzer FC",
+    "source_path": "logos/germany/Chemnitzer_FC.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000076,
+    "name": "FC Rot-Weiß Erfurt",
+    "source_path": "logos/germany/FC_Rot-Weiß_Erfurt.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000077,
+    "name": "Hallescher FC",
+    "source_path": "logos/germany/Hallescher.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000078,
+    "name": "FC Carl Zeiss Jena",
+    "source_path": "logos/germany/Jena.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000079,
+    "name": "BFC Dynamo",
+    "source_path": "logos/germany/BFC_Dynamo.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000080,
+    "name": "VSG Altglienicke",
+    "source_path": "logos/germany/VSG_Altglienicke.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000081,
+    "name": "Greifswalder FC",
+    "source_path": "logos/germany/Greifswalder_FC.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000082,
+    "name": "FC Erzgebirge Aue",
+    "source_path": "logos/germany/Erzgebirge.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000083,
+    "name": "FSV Zwickau",
+    "source_path": "logos/germany/FSV_Zwickau.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000084,
+    "name": "1. FC Lokomotive Leipzig",
+    "source_path": "logos/germany/1._FC_Lokomotive_Leipzig.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000085,
+    "name": "1. FC Magdeburg II",
+    "source_path": "logos/germany/1._FC_Magdeburg.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000086,
+    "name": "SV Babelsberg 03",
+    "source_path": "logos/germany/SV_Babelsberg_03.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000087,
+    "name": "BFC Preussen",
+    "source_path": "logos/germany/BFC_Preussen.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000088,
+    "name": "BSG Chemie Leipzig",
+    "source_path": "logos/germany/BSG_Chemie_Leipzig.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000089,
+    "name": "Hertha BSC II",
+    "source_path": "logos/germany/Hertha_BSC.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000090,
+    "name": "RSV Eintracht 1949",
+    "source_path": "logos/germany/RSV_Eintracht_1949.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000091,
+    "name": "SV Tasmania Berlin",
+    "source_path": "logos/germany/Tasmania_Berlin.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000092,
+    "name": "FSV 63 Luckenwalde",
+    "source_path": "logos/germany/FSV_63_Luckenwalde.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000093,
+    "name": "SC Rot-Weiß Oberhausen",
+    "source_path": "logos/germany/Rot-Weiß_Oberhausen.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000094,
+    "name": "Borussia Dortmund II",
+    "source_path": "logos/germany/Borussia_Dortmund.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000095,
+    "name": "Borussia Mönchengladbach II",
+    "source_path": "logos/germany/Borussia_Mönchengladbach.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000096,
+    "name": "FC Gütersloh",
+    "source_path": "logos/germany/FC_Gütersloh.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000097,
+    "name": "Sportfreunde Siegen",
+    "source_path": "logos/germany/Sportfreunde_Siegen.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000098,
+    "name": "1. FC Köln II",
+    "source_path": "logos/germany/Cologne.svg",
+    "selection": "reviewed_alias"
+  },
+  {
+    "id": 1898000000099,
+    "name": "FC Schalke 04 II",
+    "source_path": "logos/germany/Schalke_04.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000100,
+    "name": "Bonner SC",
+    "source_path": "logos/germany/Bonner_SC.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000101,
+    "name": "SV Westfalia Rhynern",
+    "source_path": "logos/germany/Westfalia_Rhynern.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000102,
+    "name": "VfB 03 Hilden",
+    "source_path": "logos/germany/VfB_Hilden.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000103,
+    "name": "1. FC Bocholt",
+    "source_path": "logos/germany/1._FC_Bocholt.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000104,
+    "name": "SV Bergisch Gladbach 09",
+    "source_path": "logos/germany/Bergisch_Gladbach_09.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000105,
+    "name": "VfL Bochum II",
+    "source_path": "logos/germany/VfL_Bochum.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000106,
+    "name": "SC Paderborn 07 II",
+    "source_path": "logos/germany/SC_Paderborn.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000107,
+    "name": "SG Wattenscheid 09",
+    "source_path": "logos/germany/Wattenscheid_09.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000108,
+    "name": "SV Rödinghausen",
+    "source_path": "logos/germany/SV_Rödinghausen.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000109,
+    "name": "SC Wiedenbrück",
+    "source_path": "logos/germany/SC_Wiedenbrück.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000110,
+    "name": "Sportfreunde Lotte",
+    "source_path": "logos/germany/Sportfreunde_Lotte.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000111,
+    "name": "SGV Freiberg",
+    "source_path": "logos/germany/SGV_Freiberg.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000112,
+    "name": "VfR Aalen",
+    "source_path": "logos/germany/VfR_Aalen.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000113,
+    "name": "VfR Mannheim",
+    "source_path": "logos/germany/VfR_Mannheim.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000114,
+    "name": "Stuttgarter Kickers",
+    "source_path": "logos/germany/Stuttgarter_Kickers.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000115,
+    "name": "Kickers Offenbach",
+    "source_path": "logos/germany/Kickers_Offenbach.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000116,
+    "name": "FC 08 Homburg",
+    "source_path": "logos/germany/FC_08_Homburg.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000117,
+    "name": "SV Sandhausen",
+    "source_path": "logos/germany/SV_Sandhausen.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000118,
+    "name": "SV Eintracht Trier 05",
+    "source_path": "logos/germany/SV_Eintracht_Trier_05.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000119,
+    "name": "SC Freiburg II",
+    "source_path": "logos/germany/Freiburg.svg",
+    "selection": "reviewed_alias"
+  },
+  {
+    "id": 1898000000120,
+    "name": "TSV Steinbach Haiger",
+    "source_path": "logos/germany/TSV_Steinbach_Haiger.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000121,
+    "name": "KSV Hessen Kassel",
+    "source_path": "logos/germany/KSV_Hessen_Kassel.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000122,
+    "name": "FSV Frankfurt",
+    "source_path": "logos/germany/FSV_Frankfurt.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000123,
+    "name": "Eintracht Frankfurt II",
+    "source_path": "logos/germany/Eintracht_Frankfurt.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000124,
+    "name": "1. FSV Mainz 05 II",
+    "source_path": "logos/germany/Mainz_05.svg",
+    "selection": "reviewed_alias"
+  },
+  {
+    "id": 1898000000125,
+    "name": "FC-Astoria Walldorf",
+    "source_path": "logos/germany/FC_Astoria_Walldorf.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000126,
+    "name": "1. FC Kaiserslautern II",
+    "source_path": "logos/germany/FC_Kaiserslautern.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000127,
+    "name": "SSV Ulm 1846",
+    "source_path": "logos/germany/SSV_Ulm_1846_Fußball.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000128,
+    "name": "SG Barockstadt Fulda-Lehnerz",
+    "source_path": "logos/germany/SG_Barockstadt_Fulda-Lehnerz.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000129,
+    "name": "FC Memmingen",
+    "source_path": "logos/germany/FC_Memmingen.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000130,
+    "name": "TSV Buchbach",
+    "source_path": "logos/germany/TSV_Buchbach.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000131,
+    "name": "SpVgg Unterhaching",
+    "source_path": "logos/germany/SpVgg_Unterhaching.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000132,
+    "name": "TSV 1860 München",
+    "source_path": "logos/germany/TSV_1860_München.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000133,
+    "name": "FV Illertissen",
+    "source_path": "logos/germany/FV_Illertissen.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000134,
+    "name": "SpVgg Bayreuth",
+    "source_path": "logos/germany/SpVgg_Bayreuth.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000135,
+    "name": "DJK Vilzing",
+    "source_path": "logos/germany/DJK_Vilzing.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000136,
+    "name": "FC Augsburg II",
+    "source_path": "logos/germany/Augsburg.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000137,
+    "name": "VfB Eichstätt",
+    "source_path": "logos/germany/VfB_Eichstätt.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000138,
+    "name": "SV Wacker Burghausen",
+    "source_path": "logos/germany/Wacker_Burghausen.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000139,
+    "name": "1. FC Nürnberg II",
+    "source_path": "logos/germany/FC_Nürnberg.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000140,
+    "name": "FC Bayern München II",
+    "source_path": "logos/germany/Bayern_München.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000141,
+    "name": "SC Eltersdorf",
+    "source_path": "logos/germany/SC_Eltersdorf.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000142,
+    "name": "TSV Schwaben Augsburg",
+    "source_path": "logos/germany/TSV_Schwaben_Augsburg.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000143,
+    "name": "1. FC Schweinfurt 05",
+    "source_path": "logos/germany/1._FC_Schweinfurt_05.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000144,
+    "name": "SpVgg Greuther Fürth II",
+    "source_path": "logos/germany/SpVgg_Greuther_Fürth.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000145,
+    "name": "SpVgg Ansbach",
+    "source_path": "logos/germany/SpVgg_Ansbach_09.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000146,
+    "name": "TSV Aubstadt",
+    "source_path": "logos/germany/TSV_Aubstadt.svg",
+    "selection": "match"
+  },
+  {
+    "id": 1898000000147,
+    "name": "TSV 1882 Landsberg",
+    "source_path": "logos/germany/TSV_Landsberg.svg",
+    "selection": "match"
+  }
+]
