@@ -1,0 +1,722 @@
+[
+  {
+    "id": 1898200000001,
+    "name": "1. FC Phönix Lübeck II",
+    "source_path": "logos/germany/1._FC_Phönix_Lübeck.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000002,
+    "name": "Holstein Kiel II",
+    "source_path": "logos/germany/Holstein_Kiel.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000016,
+    "name": "VfB Lübeck II",
+    "source_path": "logos/germany/VfB_Lübeck.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000018,
+    "name": "SV Hemelingen",
+    "source_path": "logos/germany/SV_Hemelingen.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000019,
+    "name": "OSC Bremerhaven",
+    "source_path": "logos/germany/OSC_Bremerhaven.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000024,
+    "name": "SV Werder Bremen III",
+    "source_path": "logos/germany/Werder_Bremen.svg",
+    "mapping": "prefix"
+  },
+  {
+    "id": 1898200000027,
+    "name": "Leher TS Bremerhaven",
+    "source_path": "logos/germany/Leher_Turnerschaft.svg",
+    "mapping": "manual_alias"
+  },
+  {
+    "id": 1898200000033,
+    "name": "Eintracht Norderstedt II",
+    "source_path": "logos/germany/FC_Eintracht_Norderstedt.svg",
+    "mapping": "prefix"
+  },
+  {
+    "id": 1898200000034,
+    "name": "Altona 93",
+    "source_path": "logos/germany/Altonaer_FC_93.svg",
+    "mapping": "manual_alias"
+  },
+  {
+    "id": 1898200000036,
+    "name": "TuS Dassendorf",
+    "source_path": "logos/germany/TuS_Dassendorf.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000037,
+    "name": "SC Victoria Hamburg",
+    "source_path": "logos/germany/SC_Victoria_Hamburg.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000040,
+    "name": "FC Teutonia 05 Ottensen",
+    "source_path": "logos/germany/FC_Teutonia_05_Ottensen.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000043,
+    "name": "TSV Sasel",
+    "source_path": "logos/germany/TSV_Sasel.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000046,
+    "name": "HEBC Hamburg",
+    "source_path": "logos/germany/HEBC.svg",
+    "mapping": "manual_alias"
+  },
+  {
+    "id": 1898200000051,
+    "name": "Blau-Weiß Lohne",
+    "source_path": "logos/germany/Blau-Weiß_Lohne.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000052,
+    "name": "Eintracht Braunschweig II",
+    "source_path": "logos/germany/Eintracht_Braunschweig.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000056,
+    "name": "Lüneburger SK Hansa",
+    "source_path": "logos/germany/Lüneburger_SK_Hansa.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000061,
+    "name": "SV Drochtersen/Assel II",
+    "source_path": "logos/germany/SV_DrochtersenAssel.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000062,
+    "name": "SV Meppen II",
+    "source_path": "logos/germany/SV_Meppen.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000065,
+    "name": "TuS Bersenbrück",
+    "source_path": "logos/germany/TuS_Bersenbrück.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000067,
+    "name": "FC Hertha 03 Zehlendorf",
+    "source_path": "logos/germany/FC_Hertha_03_Zehlendorf.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000068,
+    "name": "SV Lichtenberg 47",
+    "source_path": "logos/germany/SV_Lichtenberg_47.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000069,
+    "name": "Hansa Rostock II",
+    "source_path": "logos/germany/Hansa_Rostock.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000080,
+    "name": "1. FC Lok Stendal",
+    "source_path": "logos/germany/1._FC_Lok_Stendal.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000083,
+    "name": "FC Eilenburg",
+    "source_path": "logos/germany/FC_Eilenburg.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000085,
+    "name": "ZFC Meuselwitz",
+    "source_path": "logos/germany/ZFC_Meuselwitz.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000088,
+    "name": "VfB Auerbach",
+    "source_path": "logos/germany/VfB_Auerbach.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000092,
+    "name": "VfB 1921 Krieschow",
+    "source_path": "logos/germany/VfB_1921_Krieschow.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000094,
+    "name": "FC Einheit Wernigerode",
+    "source_path": "logos/germany/FC_Einheit_Wernigerode.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000097,
+    "name": "SG Dynamo Dresden II",
+    "source_path": "logos/germany/Dynamo_Dresden.svg",
+    "mapping": "prefix"
+  },
+  {
+    "id": 1898200000099,
+    "name": "Fortuna Düsseldorf II",
+    "source_path": "logos/germany/Fortuna_Düsseldorf.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000100,
+    "name": "Wuppertaler SV",
+    "source_path": "logos/germany/Wuppertaler_SV.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000103,
+    "name": "KFC Uerdingen 05",
+    "source_path": "logos/germany/KFC_Uerdingen_05.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000113,
+    "name": "FC Büderich",
+    "source_path": "logos/germany/FC_Büderich.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000117,
+    "name": "SV Eintracht Hohkeppel",
+    "source_path": "logos/germany/SV_Eintracht_Hohkeppel.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000124,
+    "name": "SC Fortuna Köln II",
+    "source_path": "logos/germany/SC_Fortuna_Köln.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000126,
+    "name": "1. FC Düren",
+    "source_path": "logos/germany/1._FC_Düren.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000134,
+    "name": "ASC 09 Dortmund",
+    "source_path": "logos/germany/ASC_09_Dortmund.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000136,
+    "name": "Arminia Bielefeld II",
+    "source_path": "logos/germany/Arminia_Bielefeld.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000137,
+    "name": "FC Eintracht Rheine",
+    "source_path": "logos/germany/FC_Eintracht_Rheine.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000138,
+    "name": "Preußen Münster II",
+    "source_path": "logos/germany/Preußen_Münster.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000140,
+    "name": "SC Verl II",
+    "source_path": "logos/germany/SC_Verl.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000144,
+    "name": "SpVgg Vreden",
+    "source_path": "logos/germany/SpVgg_Vreden.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000146,
+    "name": "SV Lippstadt 08",
+    "source_path": "logos/germany/SV_Lippstadt_08.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000147,
+    "name": "TSG Sprockhövel",
+    "source_path": "logos/germany/TSG_Sprockhövel.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000151,
+    "name": "TSV Schott Mainz",
+    "source_path": "logos/germany/TSV_Schott_Mainz.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000152,
+    "name": "SV Elversberg II",
+    "source_path": "logos/germany/SV_Elversberg.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000162,
+    "name": "SV Gonsenheim",
+    "source_path": "logos/germany/SV_Gonsenheim.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000169,
+    "name": "Bahlinger SC",
+    "source_path": "logos/germany/Bahlinger_SC.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000170,
+    "name": "Karlsruher SC II",
+    "source_path": "logos/germany/Karlsruher_SC.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000171,
+    "name": "TSG Balingen",
+    "source_path": "logos/germany/TSG_Balingen.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000173,
+    "name": "FV Ravensburg",
+    "source_path": "logos/germany/FV_Ravensburg.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000175,
+    "name": "SV Oberachern",
+    "source_path": "logos/germany/SV_Oberachern.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000176,
+    "name": "1. CfR Pforzheim",
+    "source_path": "logos/germany/1._CfR_Pforzheim.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000178,
+    "name": "FC 08 Villingen",
+    "source_path": "logos/germany/FC_08_Villingen.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000187,
+    "name": "SV Darmstadt 98 II",
+    "source_path": "logos/germany/SV_Darmstadt_98.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000188,
+    "name": "FC Bayern Alzenau",
+    "source_path": "logos/germany/FC_Bayern_Alzenau.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000195,
+    "name": "Hünfelder SV",
+    "source_path": "logos/germany/Hünfelder_SV.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000201,
+    "name": "CSC 03 Kassel",
+    "source_path": "logos/germany/CSC_03_Kassel.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000202,
+    "name": "KSV Hessen Kassel II",
+    "source_path": "logos/germany/KSV_Hessen_Kassel.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000203,
+    "name": "SV Rot-Weiß Hadamar",
+    "source_path": "logos/germany/SV_Rot-Weiß_Hadamar.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000205,
+    "name": "ASV Cham",
+    "source_path": "logos/germany/ASV_Cham.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000210,
+    "name": "FC Eintracht Bamberg",
+    "source_path": "logos/germany/FC_Eintracht_Bamberg.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000215,
+    "name": "SV Viktoria Aschaffenburg",
+    "source_path": "logos/germany/Viktoria_Aschaffenburg.svg",
+    "mapping": "prefix"
+  },
+  {
+    "id": 1898200000219,
+    "name": "TSV Großbardorf",
+    "source_path": "logos/germany/TSV_Großbardorf.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000230,
+    "name": "SV Heimstetten",
+    "source_path": "logos/germany/SV_Heimstetten.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000232,
+    "name": "SV Schalding-Heining",
+    "source_path": "logos/germany/SV_Schalding-Heining.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000233,
+    "name": "SpVgg Hankofen-Hailing",
+    "source_path": "logos/germany/SpVgg_Hankofen-Hailing.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000235,
+    "name": "TSV 1860 München II",
+    "source_path": "logos/germany/TSV_1860_München.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000236,
+    "name": "TSV 1860 Rosenheim",
+    "source_path": "logos/germany/TSV_1860_Rosenheim.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000243,
+    "name": "ASV Burglengenfeld",
+    "source_path": "logos/germany/ASV_Burglengenfeld.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000259,
+    "name": "1. FC Herzogenaurach",
+    "source_path": "logos/germany/ASV_Herzogenaurach.svg",
+    "mapping": "prefix"
+  },
+  {
+    "id": 1898200000261,
+    "name": "1. SC Feucht",
+    "source_path": "logos/germany/1._SC_Feucht.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000270,
+    "name": "SpVgg Bayreuth II",
+    "source_path": "logos/germany/SpVgg_Bayreuth.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000287,
+    "name": "TSV Aubstadt II",
+    "source_path": "logos/germany/TSV_Aubstadt.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000302,
+    "name": "SpVgg Unterhaching II",
+    "source_path": "logos/germany/SpVgg_Unterhaching.svg",
+    "mapping": "manual_alias"
+  },
+  {
+    "id": 1898200000310,
+    "name": "Türkgücü München",
+    "source_path": "logos/germany/Türkgücü_München.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000315,
+    "name": "FC Memmingen II",
+    "source_path": "logos/germany/FC_Memmingen.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000317,
+    "name": "FV Illertissen II",
+    "source_path": "logos/germany/FV_Illertissen.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000336,
+    "name": "SC 07 Idar-Oberstein",
+    "source_path": "logos/germany/SC_07_Idar-Oberstein.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000352,
+    "name": "SC Union Nettetal",
+    "source_path": "logos/germany/SC_Union_Nettetal.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000384,
+    "name": "SV Dessau 05",
+    "source_path": "logos/germany/SV_Dessau_05.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000386,
+    "name": "SV Fortuna Magdeburg",
+    "source_path": "logos/germany/SV_Fortuna_Magdeburg.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000389,
+    "name": "SV Blau-Weiß Zorbau",
+    "source_path": "logos/germany/SV_Blau-Weiß_Zorbau.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000411,
+    "name": "SC Rheinbach",
+    "source_path": "logos/germany/VfL_Rheinbach.svg",
+    "mapping": "prefix"
+  },
+  {
+    "id": 1898200000414,
+    "name": "1. FC Spich",
+    "source_path": "logos/germany/1._FC_Spich.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000417,
+    "name": "SV Breinig",
+    "source_path": "logos/germany/SV_Breinig.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000422,
+    "name": "SV 1914 Eilendorf",
+    "source_path": "logos/germany/SV_1914_Eilendorf.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000434,
+    "name": "1. FC Saarbrücken II",
+    "source_path": "logos/germany/Saarbrücken.svg",
+    "mapping": "prefix"
+  },
+  {
+    "id": 1898200000465,
+    "name": "FSV 63 Luckenwalde II",
+    "source_path": "logos/germany/FSV_63_Luckenwalde.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000466,
+    "name": "SD Croatia Berlin",
+    "source_path": "logos/germany/SD_Croatia_Berlin.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000467,
+    "name": "FC Viktoria 1889 Berlin",
+    "source_path": "logos/germany/FC_Viktoria_1889_Berlin.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000479,
+    "name": "SFC Stern 1900",
+    "source_path": "logos/germany/SFC_Stern_1900.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000502,
+    "name": "Bischofswerdaer FV 08",
+    "source_path": "logos/germany/Bischofswerdaer_FV_08.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000509,
+    "name": "SC Borea Dresden",
+    "source_path": "logos/germany/SC_Borea_Dresden.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000511,
+    "name": "SSV Markranstädt",
+    "source_path": "logos/germany/SSV_Markranstädt.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000521,
+    "name": "SV Rödinghausen II",
+    "source_path": "logos/germany/SV_Rödinghausen.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000537,
+    "name": "TuS Erndtebrück",
+    "source_path": "logos/germany/TuS_Erndtebrück.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000549,
+    "name": "TSG Balingen II",
+    "source_path": "logos/germany/TSG_Balingen.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000550,
+    "name": "1. Göppinger SV",
+    "source_path": "logos/germany/1._Göppinger_SV.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000552,
+    "name": "FSV 08 Bietigheim-Bissingen",
+    "source_path": "logos/germany/FSV_08_Bietigheim-Bissingen.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000558,
+    "name": "SV Fellbach",
+    "source_path": "logos/germany/SV_Fellbach.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000565,
+    "name": "FC-Astoria Walldorf II",
+    "source_path": "logos/germany/FC_Astoria_Walldorf.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000568,
+    "name": "VfB Eppingen",
+    "source_path": "logos/germany/VfB_Eppingen.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000573,
+    "name": "SV Waldhof Mannheim U21",
+    "source_path": "logos/germany/SV_Waldhof_Mannheim.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000575,
+    "name": "TSG Weinheim",
+    "source_path": "logos/germany/TSG_Weinheim.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000578,
+    "name": "VfR Mannheim II",
+    "source_path": "logos/germany/VfR_Mannheim.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000587,
+    "name": "SC Pfullendorf",
+    "source_path": "logos/germany/SC_Pfullendorf.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000588,
+    "name": "SV Linx",
+    "source_path": "logos/germany/SV_Linx.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000596,
+    "name": "SG Dynamo Schwerin",
+    "source_path": "logos/germany/SG_Dynamo_Schwerin.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000604,
+    "name": "Greifswalder FC II",
+    "source_path": "logos/germany/Greifswalder_FC.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000619,
+    "name": "SG Barockstadt Fulda-Lehnerz II",
+    "source_path": "logos/germany/SG_Barockstadt_Fulda-Lehnerz.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000622,
+    "name": "SV Buchonia Flieden",
+    "source_path": "logos/germany/SV_Buchonia_Flieden.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000632,
+    "name": "TSV Steinbach Haiger II",
+    "source_path": "logos/germany/TSV_Steinbach_Haiger.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000654,
+    "name": "Kickers Offenbach II",
+    "source_path": "logos/germany/Kickers_Offenbach.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000665,
+    "name": "FC St. Pauli III",
+    "source_path": "logos/germany/St_Pauli.svg",
+    "mapping": "prefix"
+  },
+  {
+    "id": 1898200000666,
+    "name": "SV Rugenbergen",
+    "source_path": "logos/germany/SV_Rugenbergen.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000673,
+    "name": "Eimsbütteler TV II",
+    "source_path": "logos/germany/Eimsbütteler_TV.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000679,
+    "name": "SV Curslack-Neuengamme",
+    "source_path": "logos/germany/SV_Curslack-Neuengamme.svg",
+    "mapping": "exact"
+  },
+  {
+    "id": 1898200000682,
+    "name": "SC Condor",
+    "source_path": "logos/germany/SC_Condor_Hamburg.svg",
+    "mapping": "manual_alias"
+  }
+]
