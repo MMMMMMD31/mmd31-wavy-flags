@@ -1,0 +1,32 @@
+name: MMD31 Overseas Crests - Reunion and Martinique
+on:
+  push:
+    branches:
+      - mmd31-outremer-ecussons-20261023
+    paths:
+      - 'scripts/outremer/collect_reunion_martinique.py'
+      - '.github/workflows/mmd31-reunion-martinique-crests.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 28
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: python -m pip install requests beautifulsoup4 pillow
+      - name: Collect candidate club crests and write audit
+        run: python scripts/outremer/collect_reunion_martinique.py
+      - name: Commit verified artwork and audit
+        run: |
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git add audit/outremer-2026-27/reunion_martinique_crest_audit.csv flags/clubs/standard/outremer-2026-27/
+          if ! git diff --cached --quiet; then
+            git commit -m "Publish validated Réunion and Martinique crest batch and audit"
+            git push
+          fi
