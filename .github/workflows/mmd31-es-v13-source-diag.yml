@@ -1,0 +1,18 @@
+name: Spain D5 official crest candidate diagnostics
+on:
+  push:
+    branches: [mmd31-es-v13-crests-20261023]
+    paths:
+      - 'tools/mmd31_es_v13_source_diagnostics.py'
+      - '.github/workflows/mmd31-es-v13-source-diag.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  inspect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 7
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install requests beautifulsoup4
+      - run: python tools/mmd31_es_v13_source_diagnostics.py
