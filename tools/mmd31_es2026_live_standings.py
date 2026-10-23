@@ -24,9 +24,9 @@ for division,slug,count in [(3,"primera-rfef",2),(4,"segunda-rfef",5),(5,"tercer
      if len(cells)<9: continue
      values=[x.get_text(" ",strip=True) for x in cells]
      try:
-      idx=int(re.search(r"\\d+",values[0]).group())
+      idx=int(re.search(r"\d+",values[0]).group())
       name=values[1]
-      nums=[int(re.search(r"-?\\d+",v.replace("−","-")).group()) for v in values[2:9]]
+      nums=[int(re.search(r"-?\d+",v.replace("−","-")).group()) for v in values[2:9]]
       if 1<=idx<=22 and len(name)>=2:
        rows.append({"rank":idx,"name":name,"pts":nums[0],"played":nums[1],"won":nums[2],"drawn":nums[3],"lost":nums[4],"gf":nums[5],"ga":nums[6]})
      except Exception:
@@ -43,6 +43,6 @@ for division,slug,count in [(3,"primera-rfef",2),(4,"segunda-rfef",5),(5,"tercer
   time.sleep(.12)
 p=Path("data/mmd31_es2026_live_standings.json")
 p.parent.mkdir(exist_ok=True)
-p.write_text(json.dumps({"source":"resultadosrfef.es (unofficial match data)","snapshot_date":"2026-10-23","groups":output,"errors":errors},ensure_ascii=False,indent=2)+"\\n",encoding="utf-8")
+p.write_text(json.dumps({"source":"resultadosrfef.es (unofficial match data)","snapshot_date":"2026-10-23","groups":output,"errors":errors},ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
 assert not errors,f"Only {len(output)}/25 groups loaded"
 print("SUCCESS: 25 full tables, 454 entries.",flush=True)
