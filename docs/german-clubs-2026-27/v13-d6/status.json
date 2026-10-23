@@ -1,0 +1,110 @@
+{
+  "count": 7,
+  "expected": 7,
+  "canvas": [
+    120,
+    96
+  ],
+  "source_repository": "JoseArroyave/football-logos",
+  "victory_flags_created": 0,
+  "assets": [
+    {
+      "id": 1898200000697,
+      "name": "Inter Türkspor Kiel",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/Inter_T%C3%BCrkspor_Kiel.svg",
+      "source_sha256": "e0597b960d67e74a8ab334aa01856d96ab5a79bdd18c985fa4aa09bb661417d2",
+      "github_path": "docs/german-clubs-2026-27/v13-d6/1898200000697.png",
+      "background_rgb": [
+        68,
+        143,
+        218
+      ],
+      "png_sha256": "57e8425c4e7cea798a08f17201c29ec8c7ddf0829d58bfa9be74faa220831e95",
+      "png_bytes": 8931
+    },
+    {
+      "id": 1898200000707,
+      "name": "SC Weiche Flensburg 08 II",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/SC_Weiche_Flensburg_08.svg",
+      "source_sha256": "e8c86e51d24b5c452adeb32387a9ef078f594d0772955dafd485aa50ade2fab2",
+      "github_path": "docs/german-clubs-2026-27/v13-d6/1898200000707.png",
+      "background_rgb": [
+        193,
+        68,
+        93
+      ],
+      "png_sha256": "227a81ffe22c7c74ad78ad180f9b9c5b21af808aeac4e44d4135819bdc9fb286",
+      "png_bytes": 10182
+    },
+    {
+      "id": 1898200000723,
+      "name": "SV Todesfelde II",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/SV_Todesfelde.svg",
+      "source_sha256": "e6a65c0ae727778afddf89e1146e939dfae681bf7362b815727da1a0d45ed93c",
+      "github_path": "docs/german-clubs-2026-27/v13-d6/1898200000723.png",
+      "background_rgb": [
+        68,
+        143,
+        193
+      ],
+      "png_sha256": "4c5fd2e461b9999e36a0113465c9729b277915dd28c4a636ff9a7bb15c18d8e7",
+      "png_bytes": 9795
+    },
+    {
+      "id": 1898200000777,
+      "name": "SV Bevern",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/SV_Bevern.svg",
+      "source_sha256": "7c2fad65c18357b74308c7110839b0b40f02b50a721f64b5789af6367ad32d01",
+      "github_path": "docs/german-clubs-2026-27/v13-d6/1898200000777.png",
+      "background_rgb": [
+        243,
+        218,
+        68
+      ],
+      "png_sha256": "bb642ab3fbed7d45a1d616a9c840f1e8b3deeb7ba2d20f8d1119fd53a748c0a9",
+      "png_bytes": 9784
+    },
+    {
+      "id": 1898200000783,
+      "name": "VfL Oldenburg",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/VfL_Oldenburg.svg",
+      "source_sha256": "d67b592c1137c07bcefaa902b26b31286dd35d101ff2f9db6d0d1817c9b9942d",
+      "github_path": "docs/german-clubs-2026-27/v13-d6/1898200000783.png",
+      "background_rgb": [
+        68,
+        168,
+        93
+      ],
+      "png_sha256": "dc3ad86db3c95f4d1e344787f956c529f2a12525d735ae07481d4a0e703a69b8",
+      "png_bytes": 11711
+    },
+    {
+      "id": 1898200000811,
+      "name": "SV Eintracht Trier 05 II",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/SV_Eintracht_Trier_05.svg",
+      "source_sha256": "d5b8c230e19bdc34d276498fd1948644c864a0629297c2d741e91f893c38af8b",
+      "github_path": "docs/german-clubs-2026-27/v13-d6/1898200000811.png",
+      "background_rgb": [
+        243,
+        218,
+        118
+      ],
+      "png_sha256": "7f046109520094a0a7a3118efe90c6ed5f8c8c67572b9ba352735a35bd12f7ee",
+      "png_bytes": 8642
+    },
+    {
+      "id": 1898200000816,
+      "name": "SpVgg EGC Wirges",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/SpVgg_EGC_Wirges.svg",
+      "source_sha256": "335d8b387b90f91180e33adfab3124ff87062268d53c6ab4d6d47303bb55eae5",
+      "github_path": "docs/german-clubs-2026-27/v13-d6/1898200000816.png",
+      "background_rgb": [
+        68,
+        118,
+        168
+      ],
+      "png_sha256": "d7da3cebdeff6c8c7df70cd298c4e381a60577f32b74b52b999b4cd260e0acca",
+      "png_bytes": 10293
+    }
+  ]
+}
