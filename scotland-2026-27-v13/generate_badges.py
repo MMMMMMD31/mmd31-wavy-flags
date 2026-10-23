@@ -128,9 +128,13 @@ def wikipedia(name):
   except Exception:pass
  return None
 def process(url):
- r=get(url)
- if not r:return None
- content=r.content
+ if url.startswith('slflpack://'):
+  content=SLFL_ZIP_BYTES.get(url[len('slflpack://'):])
+  if not content:return None
+ else:
+  r=get(url)
+  if not r:return None
+  content=r.content
  if urlparse(url).path.lower().endswith(".svg") or b"<svg" in content[:512]:
   try:
    import cairosvg
@@ -154,6 +158,32 @@ def plate(crest):
  tile=Image.new("RGBA",(120,96),bg+(255,))
  tile.alpha_composite(crest,((120-crest.width)//2,(96-crest.height)//2))
  return tile.convert("RGB")
+
+SLFL_ZIP_SOURCE="https://slfl.co.uk/wp-content/uploads/2026/06/SLFL-Badges-2026-27-2.zip"
+SLFL_ZIP_BYTES={}
+def load_official_slfl_zip():
+ import zipfile
+ r=get(SLFL_ZIP_SOURCE)
+ if not r:return {}
+ try:
+  with zipfile.ZipFile(io.BytesIO(r.content)) as arc:
+   paths=[p for p in arc.namelist() if p.lower().endswith((".png",".svg",".webp",".jpg",".jpeg")) and not p.endswith("/")]
+   indexed={}
+   for p in paths:
+    base=p.split("/")[-1].rsplit(".",1)[0]
+    normalized=norm(base)
+    for suffix in ("badge","crest","logo","team"):
+     if normalized.endswith(suffix):normalized=normalized[:-len(suffix)]
+    # use club names exactly; do not accept broad substring matches
+    if not normalized:continue
+    SLFL_ZIP_BYTES[p]=arc.read(p)
+    indexed.setdefault(normalized,("slflpack://"+p,"Official SLFL crest pack 2026-27",base))
+   (ROOT/"scotland-2026-27-v13/slfl-archive-inventory.json").write_text(json.dumps({"source":SLFL_ZIP_SOURCE,"image_files":paths,"matched_basenames":list(indexed.keys())},ensure_ascii=False,indent=2))
+   return indexed
+ except Exception as e:
+  (ROOT/"scotland-2026-27-v13/slfl-archive-inventory.json").write_text(json.dumps({"source":SLFL_ZIP_SOURCE,"error":str(e)},ensure_ascii=False,indent=2))
+  return {}
+
 rows=list(csv.DictReader(open(ROOT/"scotland-2026-27-v13/clubs.csv",encoding="utf-8")))
 assert len(rows)==93
 
@@ -171,12 +201,14 @@ try:
   (ROOT/"scotland-2026-27-v13/slfl-debug.json").write_text(json.dumps(examples[:100],ensure_ascii=False,indent=2))
 except Exception:pass
 
+slflpack=load_official_slfl_zip()
 logos=espn()
 guardian=guardian_catalog()
 statuses=[]
 for i,row in enumerate(rows,1):
  name=row["club"];needle=ALIASES.get(name,name)
  candidates=[]
+ if row['division'] in ('D3','D4','D5E','D5W') and norm(needle) in slflpack:candidates.append(slflpack[norm(needle)])
  if norm(needle) in logos:candidates.append(logos[norm(needle)])
  if norm(needle) in guardian:candidates.append(guardian[norm(needle)])
  for result in (lowland_club_logo(name) if row['division'] in ('D3','D4','D5E','D5W') else None,sportsdb(needle),wikipedia(needle)):
@@ -189,7 +221,7 @@ for i,row in enumerate(rows,1):
   output.parent.mkdir(parents=True,exist_ok=True)
   plate(im).save(output,"PNG")
   with Image.open(output) as check:assert check.size==(120,96) and check.format=="PNG"
-  status.update({"state":"SOURCE_FOUND_VISUAL_REVIEW_PENDING","source_url":url,"source_provider":provider,"matched_name":matched,"file":str(output.relative_to(ROOT)),"dimensions_verified":True})
+  status.update({"state":"SOURCE_FOUND_VISUAL_REVIEW_PENDING","source_url":SLFL_ZIP_SOURCE+"#"+url[len("slflpack://"):] if url.startswith("slflpack://") else url,"source_provider":provider,"matched_name":matched,"file":str(output.relative_to(ROOT)),"dimensions_verified":True})
   break
  statuses.append(status)
  print(i,name,status["state"],flush=True)
