@@ -36,6 +36,13 @@ try:
     fragments.append("\\n".join(lines[max(0,i-1):min(len(lines),i+3)])[:850])
  out["elo_script_refs"]=fragments[:45]
 except Exception as exc:out["elo_script_refs_error"]=str(exc)
+try:
+ all_scripts="\n".join(t.get_text() for t in bs4.BeautifulSoup(s.get("https://www.nonleaguehq.com/england-elo/",timeout=25).text,"html.parser").select("script"))
+ out["rpc_names"]=sorted(set(re.findall(r"rest/v1/rpc/([a-z0-9_]+)",all_scripts)))
+ out["selectable_tables"]=sorted(set(re.findall(r"rest/v1/([a-z0-9_]+)",all_scripts)))
+ out["supabase_tables"]=sorted(set(re.findall(r"\\.from\\(['\\\"]([^'\\\"]+)",all_scripts)))
+ out["elo_terms"]=sorted(set(re.findall(r"get_[a-z0-9_]*elo[a-z0-9_]*",all_scripts,re.I)))
+except Exception as e:out["scan_error"]=str(e)
 p=Path("docs/english-v13");p.mkdir(parents=True,exist_ok=True)
 (p/"diagnostic.json").write_text(json.dumps(out,indent=2,ensure_ascii=False))
 print(json.dumps(out,ensure_ascii=False)[:12000])
