@@ -18,6 +18,8 @@ assert 0<len(missing)<=66,len(missing)
 ALIASES={
 "1990262000064":["US Bénédictine"],
 "1990262000117":["Reveil S.","Réveil Sportif"],
+"1990262000021":["Grand Santi"],
+"1990262000164":["Rivière des Galets","Riviere des Galets"],
 "1990262000298":["Papara"],
 "1990262000297":["Manu-Ura","Manu Ura"],
 "1990262000301":["Papenoo"],
@@ -47,7 +49,13 @@ SPECIAL={
 "1990262000320":["https://www.footballlogosandkits.com/M%26LOGOS%2BNEW%20CALEDONIA"],
 "1990262000326":["https://www.footballlogosandkits.com/M%26LOGOS%2BNEW%20CALEDONIA","https://www.bibliotecariodelfutbol.com/team/mont-dore"],
 }
-RIGHTS_BLOCK={"1990262000029"} # Golden Lion publication not authorised per previous research
+RIGHTS_BLOCK={"1990262000029"}
+SKIP_GENERIC={"1990262000203","1990262000220"} # both identical auto-identified FFF/generic badge
+DIRECT={
+"1990262000318":"https://escudosfc.com.br/images/gaitcha_cal.png",
+"1990262000323":"https://escudosfc.com.br/images/ne_drehu_cal.png",
+"1990262000325":"https://escudosfc.com.br/images/horizon_cal.png",
+} # Golden Lion publication not authorised per previous research
 HEAD={"User-Agent":"Mozilla/5.0 MMD31/1.0 ClubCrestResearch"}
 def norm(x):
  x=unicodedata.normalize("NFKD",x or "")
@@ -69,6 +77,8 @@ def urls(r):
  if t=="Nouvelle-Calédonie":out.extend(["https://escudosfc.com.br/cal.htm","https://www.footballlogosandkits.com/M%26LOGOS%2BNEW%20CALEDONIA"])
  if t=="Polynésie française":out.append("https://escudosfc.com.br/tahi.htm")
  if t=="Martinique":out.append("https://escudosfc.com.br/mart.htm")
+ if t=="Guyane":out.append("https://escudosfc.com.br/fguy.htm")
+ if t=="La Réunion":out.append("https://escudosfc.com.br/reu.htm")
  if t in ("Polynésie française","Nouvelle-Calédonie","Saint-Pierre-et-Miquelon"):
   for n in names[:2]:
    out += ["https://"+lang+".wikipedia.org/wiki/"+quote(n.replace(" ","_")) for lang in ("en","fr")]
@@ -135,6 +145,18 @@ def process(r):
  row={"team_id":tid,"club":name,"territory":r["territory"],"status":"not_verified","source":"","image_url":"","reason":""}
  if tid in RIGHTS_BLOCK:
   row["status"]="rights_not_cleared";return row
+ if tid in SKIP_GENERIC:
+  row["status"]="generic_quarantined";row["reason"]="Previous identical crest under unrelated club identities";return row
+ if tid in DIRECT:
+  try:
+   img=render(load(DIRECT[tid]).content)
+   if any(imagehash.phash(img)-h<=6 for h in BAD):raise ValueError("quarantined generic")
+   b=io.BytesIO();img.save(b,format="PNG",optimize=True)
+   if len(b.getvalue())<950:raise ValueError("flat/blank")
+   (ROOT/(tid+".png")).write_bytes(b.getvalue())
+   row.update(status="published",source="https://escudosfc.com.br/cal.htm",image_url=DIRECT[tid],reason="Manual source match, 2026 Caledonia league crest",sha256=hashlib.sha256(b.getvalue()).hexdigest())
+   return row
+  except Exception as e:row["reason"]="direct_source:"+str(e)[:100]
  errors=[]
  for url in urls(r):
   try:
