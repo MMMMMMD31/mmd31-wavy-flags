@@ -8,7 +8,7 @@ from bs4 import BeautifulSoup
 
 def normalize(s):
  s=unicodedata.normalize("NFKD",s).lower().replace("’","'").replace("&"," and ")
- s=re.sub(r"\\b(f\\.?c\\.?|a\\.?f\\.?c\\.?|football club)\\b","",s)
+ s=re.sub(r"\b(f\.?c\.?|a\.?f\.?c\.?|football club)\b","",s)
  s=re.sub(r"[^a-z0-9]+","",s)
  return s
 
@@ -173,11 +173,11 @@ def parse_wiki(html):
         for tr in table.select("tr"):
             els=tr.find_all(["th","td"],recursive=False)
             vals=[e.get_text(" ",strip=True) for e in els]
-            if len(vals)<10 or not re.match(r"^\\s*\\d{1,2}\\b",vals[0]):continue
+            if len(vals)<10 or not re.match(r"^\s*\d{1,2}\b",vals[0]):continue
             try:
-                pos=int(re.search(r"\\d+",vals[0]).group())
-                name=re.sub(r"\\[[^]]*\\]","",vals[1]).strip()
-                a=[int(re.search(r"-?\\d+",v.replace("−","-")).group()) for v in vals[2:10]]
+                pos=int(re.search(r"\d+",vals[0]).group())
+                name=re.sub(r"\[[^]]*\]","",vals[1]).strip()
+                a=[int(re.search(r"-?\d+",v.replace("−","-")).group()) for v in vals[2:10]]
                 p,w,d,l,gf,ga,gd,points=a
                 if p<=0 or p!=w+d+l or gf-ga!=gd:continue
                 parsed.append({"name":name,"rank":pos,"played":p,"points":points,"gd":gd,"gf":gf,"ga":ga})
