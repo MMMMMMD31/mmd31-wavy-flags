@@ -7,13 +7,20 @@
       "id": 1884500100371,
       "name": "Añaza",
       "group": 12,
-      "status": "ÉCUSSON_RÉEL_NON_VÉRIFIÉ",
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
       "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-12/clasificacion",
       "source_club": "Anaza (Esp)",
-      "source_image": "/crests/anaza-esp-af43745.png",
+      "source_image": "https://www.resultadosrfef.es/crests/anaza-esp-af43745.png",
       "source_team_page": "https://www.resultadosrfef.es/equipo/anaza-esp-af43745",
       "match_score": 100,
-      "reason": "Invalid URL '/crests/anaza-esp-af43745.png': No scheme supplied. Perhaps you meant https:///crests/anaza-esp-af43745.png?"
+      "background_rgb": [
+        223,
+        180,
+        158
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100371.png",
+      "source_sha256": "d1c6a62b4a0db9e2a1d8f774c53862cb2dbd2ab9758daba54265caf7ea565c4f",
+      "image_sha256": "b48fc9969927eec2119cc80de3f88d10aeae72e5f7a602311faf3d1d1d415cec"
     },
     {
       "id": 1884500100372,
@@ -46,13 +53,20 @@
       "id": 1884500100374,
       "name": "Lanzarote",
       "group": 12,
-      "status": "ÉCUSSON_RÉEL_NON_VÉRIFIÉ",
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
       "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-12/clasificacion",
       "source_club": "Lanzarote",
-      "source_image": "/crests/lanzarote-af7139.png",
+      "source_image": "https://www.resultadosrfef.es/crests/lanzarote-af7139.png",
       "source_team_page": "https://www.resultadosrfef.es/equipo/lanzarote-af7139",
       "match_score": 100,
-      "reason": "Invalid URL '/crests/lanzarote-af7139.png': No scheme supplied. Perhaps you meant https:///crests/lanzarote-af7139.png?"
+      "background_rgb": [
+        245,
+        201,
+        92
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100374.png",
+      "source_sha256": "ec5ff9887afd581e3ba091af31c9d4223cde9fd5df252e082d200d29b30fadc8",
+      "image_sha256": "5c29490f9edbc5437bf56d0b850d121b25c79da3b80c472be12b31bf3f0b1d12"
     },
     {
       "id": 1884500100375,
@@ -96,13 +110,20 @@
       "id": 1884500100377,
       "name": "Marino",
       "group": 12,
-      "status": "ÉCUSSON_RÉEL_NON_VÉRIFIÉ",
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
       "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-12/clasificacion",
       "source_club": "CD Marino",
-      "source_image": "/crests/cd-marino-af7167.png",
+      "source_image": "https://www.resultadosrfef.es/crests/cd-marino-af7167.png",
       "source_team_page": "https://www.resultadosrfef.es/equipo/cd-marino-af7167",
       "match_score": 100,
-      "reason": "Invalid URL '/crests/cd-marino-af7167.png': No scheme supplied. Perhaps you meant https:///crests/cd-marino-af7167.png?"
+      "background_rgb": [
+        180,
+        180,
+        223
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100377.png",
+      "source_sha256": "736dec4eab057f7c9adf35cc5937ea8d3fb472f5c57534fe53e1ea099785067b",
+      "image_sha256": "02293f6246ed3112fb32e3d599cfd5589d8eac41fe00e42c105d035828623a59"
     },
     {
       "id": 1884500100378,
@@ -241,13 +262,20 @@
       "id": 1884500100385,
       "name": "Tenerife C",
       "group": 12,
-      "status": "ÉCUSSON_RÉEL_NON_VÉRIFIÉ",
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
       "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-12/clasificacion",
       "source_club": "Tenerife C",
-      "source_image": "/crests/tenerife-c-af40664.png",
+      "source_image": "https://www.resultadosrfef.es/crests/tenerife-c-af40664.png",
       "source_team_page": "https://www.resultadosrfef.es/equipo/tenerife-c-af40664",
       "match_score": 100,
-      "reason": "Invalid URL '/crests/tenerife-c-af40664.png': No scheme supplied. Perhaps you meant https:///crests/tenerife-c-af40664.png?"
+      "background_rgb": [
+        114,
+        114,
+        201
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100385.png",
+      "source_sha256": "d7dd830ebac28bb4ae554237208d5db25cd35c0f632e0740d024f7f2e625a1bb",
+      "image_sha256": "94189bb0d0ba9db108bb483dadf6574801e6a3c4f56e35b53668eb10fe4ddab4"
     },
     {
       "id": 1884500100386,
@@ -291,13 +319,20 @@
       "id": 1884500100388,
       "name": "Villaverde Norte",
       "group": 12,
-      "status": "ÉCUSSON_RÉEL_NON_VÉRIFIÉ",
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
       "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-12/clasificacion",
       "source_club": "Villaverde Norte",
-      "source_image": "/crests/villaverde-norte-af44169.png",
+      "source_image": "https://www.resultadosrfef.es/crests/villaverde-norte-af44169.png",
       "source_team_page": "https://www.resultadosrfef.es/equipo/villaverde-norte-af44169",
       "match_score": 100,
-      "reason": "Invalid URL '/crests/villaverde-norte-af44169.png': No scheme supplied. Perhaps you meant https:///crests/villaverde-norte-af44169.png?"
+      "background_rgb": [
+        92,
+        180,
+        223
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100388.png",
+      "source_sha256": "6dc9d0d3cc957aad6f68b070e7ead25fc048861918a5dbb620f0fe3d6b801ba4",
+      "image_sha256": "d3dfbdbe94682a09262c0365a64c99ab810effc35a178e0b2e20a1f080b9cd69"
     }
   ]
 }

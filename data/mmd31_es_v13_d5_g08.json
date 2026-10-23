@@ -45,9 +45,20 @@
       "id": 1884500100301,
       "name": "Atlético Bembibre",
       "group": 8,
-      "status": "ÉCUSSON_RÉEL_NON_VÉRIFIÉ",
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
       "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-8/clasificacion",
-      "reason": "image missing or name not confidently matched"
+      "source_club": "Bembibre",
+      "source_image": "https://apiv3.apifootball.com/badges/7096_bembibre.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/bembibre-af7096",
+      "match_score": 100,
+      "background_rgb": [
+        223,
+        114,
+        114
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100301.png",
+      "source_sha256": "d57eab3a5d36c7c346cbb20ec1b4b9fc51124ff29c3b1b06ebdd92752a53e11f",
+      "image_sha256": "a800b2d3856baac6e8dff70af917eaabbb035f938e5462436154e224b3a8b1be"
     },
     {
       "id": 1884500100302,
@@ -91,13 +102,20 @@
       "id": 1884500100304,
       "name": "Calasanz",
       "group": 8,
-      "status": "ÉCUSSON_RÉEL_NON_VÉRIFIÉ",
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
       "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-8/clasificacion",
       "source_club": "Calasanz de Soria",
-      "source_image": "/crests/calasanz-de-soria-af44049.png",
+      "source_image": "https://www.resultadosrfef.es/crests/calasanz-de-soria-af44049.png",
       "source_team_page": "https://www.resultadosrfef.es/equipo/calasanz-de-soria-af44049",
       "match_score": 100,
-      "reason": "Invalid URL '/crests/calasanz-de-soria-af44049.png': No scheme supplied. Perhaps you meant https:///crests/calasanz-de-soria-af44049.png?"
+      "background_rgb": [
+        92,
+        136,
+        201
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100304.png",
+      "source_sha256": "d523eb1ae81ee3fbb439f772ad6022cb0e53f1dc98651224b597370cb5e73431",
+      "image_sha256": "f6273c08df545d2deecac0ac06c4dc8a413fbdacbeb10169d583a6da81158f64"
     },
     {
       "id": 1884500100305,
@@ -293,13 +311,20 @@
       "id": 1884500100315,
       "name": "Unionistas B",
       "group": 8,
-      "status": "ÉCUSSON_RÉEL_NON_VÉRIFIÉ",
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
       "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-8/clasificacion",
       "source_club": "Unionistas Salamanca B",
-      "source_image": "/crests/unionistas-salamanca-ii-af40757.png",
+      "source_image": "https://www.resultadosrfef.es/crests/unionistas-salamanca-ii-af40757.png",
       "source_team_page": "https://www.resultadosrfef.es/equipo/unionistas-salamanca-ii-af40757",
       "match_score": 100,
-      "reason": "Invalid URL '/crests/unionistas-salamanca-ii-af40757.png': No scheme supplied. Perhaps you meant https:///crests/unionistas-salamanca-ii-af40757.png?"
+      "background_rgb": [
+        136,
+        136,
+        92
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100315.png",
+      "source_sha256": "f98a552d56e5c7eb802ed9920060b2bfcd38be721363790f0128ff9fa52ab7fa",
+      "image_sha256": "7080c3d219c9d8fd5b55309cf3d669f2f914654513207d13a8e5aea9a5a11619"
     },
     {
       "id": 1884500100316,

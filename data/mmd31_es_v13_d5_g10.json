@@ -7,25 +7,39 @@
       "id": 1884500100335,
       "name": "Atlético Onubense",
       "group": 10,
-      "status": "ÉCUSSON_RÉEL_NON_VÉRIFIÉ",
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
       "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-10/clasificacion",
       "source_club": "Atl. Onubense",
-      "source_image": "/crests/atl-onubense-af37667.png",
+      "source_image": "https://www.resultadosrfef.es/crests/atl-onubense-af37667.png",
       "source_team_page": "https://www.resultadosrfef.es/equipo/atl-onubense-af37667",
       "match_score": 100,
-      "reason": "Invalid URL '/crests/atl-onubense-af37667.png': No scheme supplied. Perhaps you meant https:///crests/atl-onubense-af37667.png?"
+      "background_rgb": [
+        92,
+        114,
+        201
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100335.png",
+      "source_sha256": "c7f07a31ba0987c980fc8a7646f8dd72cbd7a8bd9cacf4f61f385657cbc7df89",
+      "image_sha256": "70ded583b3a37279a909a7c9566d10aeb44ae7ef8d3e7cd57427ea4745512c38"
     },
     {
       "id": 1884500100336,
       "name": "Betis C",
       "group": 10,
-      "status": "ÉCUSSON_RÉEL_NON_VÉRIFIÉ",
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
       "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-10/clasificacion",
       "source_club": "Betis C",
-      "source_image": "/crests/betis-c-af44083.png",
+      "source_image": "https://www.resultadosrfef.es/crests/betis-c-af44083.png",
       "source_team_page": "https://www.resultadosrfef.es/equipo/betis-c-af44083",
       "match_score": 100,
-      "reason": "Invalid URL '/crests/betis-c-af44083.png': No scheme supplied. Perhaps you meant https:///crests/betis-c-af44083.png?"
+      "background_rgb": [
+        245,
+        180,
+        92
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100336.png",
+      "source_sha256": "ab483bca4c3551e6824caffc0733fc74c25f7f1f030f551f9a79ac47d13ac074",
+      "image_sha256": "832732b21ef2b3ed07781256159bfe73fc12f2200227828ede5eb19ea355c172"
     },
     {
       "id": 1884500100337,
@@ -145,25 +159,39 @@
       "id": 1884500100343,
       "name": "Dos Hermanas",
       "group": 10,
-      "status": "ÉCUSSON_RÉEL_NON_VÉRIFIÉ",
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
       "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-10/clasificacion",
       "source_club": "Dos Hermanas 1971",
-      "source_image": "/crests/dos-hermanas-1971-af40361.png",
+      "source_image": "https://www.resultadosrfef.es/crests/dos-hermanas-1971-af40361.png",
       "source_team_page": "https://www.resultadosrfef.es/equipo/dos-hermanas-1971-af40361",
       "match_score": 100,
-      "reason": "Invalid URL '/crests/dos-hermanas-1971-af40361.png': No scheme supplied. Perhaps you meant https:///crests/dos-hermanas-1971-af40361.png?"
+      "background_rgb": [
+        114,
+        114,
+        201
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100343.png",
+      "source_sha256": "0ea4978f5340120cb87e663b34e115e228cc4d8c0e4f0e9fcaed40b83ada263b",
+      "image_sha256": "e23dcfb14e91b29042cf5a05844e3ef068a6f972757ec06c0f477044abedf4a8"
     },
     {
       "id": 1884500100344,
       "name": "Egabrense",
       "group": 10,
-      "status": "ÉCUSSON_RÉEL_NON_VÉRIFIÉ",
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
       "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-10/clasificacion",
       "source_club": "Egabrense",
-      "source_image": "/crests/egabrense-af44084.png",
+      "source_image": "https://www.resultadosrfef.es/crests/egabrense-af44084.png",
       "source_team_page": "https://www.resultadosrfef.es/equipo/egabrense-af44084",
       "match_score": 100,
-      "reason": "Invalid URL '/crests/egabrense-af44084.png': No scheme supplied. Perhaps you meant https:///crests/egabrense-af44084.png?"
+      "background_rgb": [
+        245,
+        92,
+        92
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100344.png",
+      "source_sha256": "8199bf2e39216f1e3dbd7cff9e92f871e24309c2d99ec2f1fccf620aa8c4c180",
+      "image_sha256": "d0db0d59e4c39d243e5ba254dc112101a02170b743a5c7517452243e3f583cb0"
     },
     {
       "id": 1884500100345,

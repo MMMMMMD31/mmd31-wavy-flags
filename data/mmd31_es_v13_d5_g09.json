@@ -64,9 +64,20 @@
       "id": 1884500100320,
       "name": "Atlético Malagueño",
       "group": 9,
-      "status": "ÉCUSSON_RÉEL_NON_VÉRIFIÉ",
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
       "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-9/clasificacion",
-      "reason": "image missing or name not confidently matched"
+      "source_club": "At. Malagueño",
+      "source_image": "https://cdn.sportmonks.com/images/soccer/teams/26/13338.png",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/at-malagueno-13338",
+      "match_score": 100,
+      "background_rgb": [
+        92,
+        158,
+        201
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100320.png",
+      "source_sha256": "0c79e063642ddc62f981f9d2a8e47672682fe6807ee66eaa2b9808d011faabbe",
+      "image_sha256": "40c05efe7d82ed15d7249d726d15a2955fa8ea9ce39deb59844d718bfaee749f"
     },
     {
       "id": 1884500100321,
@@ -80,9 +91,20 @@
       "id": 1884500100322,
       "name": "Atlético Mancha Real",
       "group": 9,
-      "status": "ÉCUSSON_RÉEL_NON_VÉRIFIÉ",
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
       "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-9/clasificacion",
-      "reason": "image missing or name not confidently matched"
+      "source_club": "Mancha Real",
+      "source_image": "https://apiv3.apifootball.com/badges/7114_mancha-real.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/mancha-real-af7114",
+      "match_score": 100,
+      "background_rgb": [
+        92,
+        180,
+        92
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100322.png",
+      "source_sha256": "4ca97d28782349364cf9115d9eec0152646b3909686213e651c6aa0096f30315",
+      "image_sha256": "c687ac0cfa714848afdfbbdd6079abf96d9b9db3838339977c7ae32633a9f0d6"
     },
     {
       "id": 1884500100323,
@@ -107,25 +129,39 @@
       "id": 1884500100324,
       "name": "Cantoria",
       "group": 9,
-      "status": "ÉCUSSON_RÉEL_NON_VÉRIFIÉ",
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
       "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-9/clasificacion",
       "source_club": "Cantoria",
-      "source_image": "/crests/cantoria-af44082.png",
+      "source_image": "https://www.resultadosrfef.es/crests/cantoria-af44082.png",
       "source_team_page": "https://www.resultadosrfef.es/equipo/cantoria-af44082",
       "match_score": 100,
-      "reason": "Invalid URL '/crests/cantoria-af44082.png': No scheme supplied. Perhaps you meant https:///crests/cantoria-af44082.png?"
+      "background_rgb": [
+        245,
+        223,
+        92
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100324.png",
+      "source_sha256": "92b10c0757f6eba1bb917bed7f34dc8912d3907b15116b7fc8cf898e7bcf72ca",
+      "image_sha256": "5c01f134716a08249244267926fbc83d34524a5975600c26f12bcfe321792aee"
     },
     {
       "id": 1884500100325,
       "name": "Churriana",
       "group": 9,
-      "status": "ÉCUSSON_RÉEL_NON_VÉRIFIÉ",
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
       "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-9/clasificacion",
       "source_club": "Churriana de la Vega",
-      "source_image": "/crests/churriana-de-la-vega-af40759.png",
+      "source_image": "https://www.resultadosrfef.es/crests/churriana-de-la-vega-af40759.png",
       "source_team_page": "https://www.resultadosrfef.es/equipo/churriana-de-la-vega-af40759",
       "match_score": 100,
-      "reason": "Invalid URL '/crests/churriana-de-la-vega-af40759.png': No scheme supplied. Perhaps you meant https:///crests/churriana-de-la-vega-af40759.png?"
+      "background_rgb": [
+        114,
+        114,
+        158
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100325.png",
+      "source_sha256": "4531ed416c83664a2a49abd839106c8dcce422865a033cfba60c1d4b41ac8799",
+      "image_sha256": "6e4ef2a2c2a7d1de0bc84524e875ce8bfa03e8a7e7c5bf47a9f0318b775aa525"
     },
     {
       "id": 1884500100326,

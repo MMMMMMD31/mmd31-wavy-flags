@@ -330,13 +330,20 @@
       "id": 1884500100370,
       "name": "Sineu",
       "group": 11,
-      "status": "ÉCUSSON_RÉEL_NON_VÉRIFIÉ",
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
       "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-11/clasificacion",
       "source_club": "Sineu",
-      "source_image": "/crests/sineu-af44019.png",
+      "source_image": "https://www.resultadosrfef.es/crests/sineu-af44019.png",
       "source_team_page": "https://www.resultadosrfef.es/equipo/sineu-af44019",
       "match_score": 100,
-      "reason": "Invalid URL '/crests/sineu-af44019.png': No scheme supplied. Perhaps you meant https:///crests/sineu-af44019.png?"
+      "background_rgb": [
+        245,
+        245,
+        92
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100370.png",
+      "source_sha256": "5f85889ccea36ae316bc1f6f6a4def717a43910956adbbf369fad7a934fa6bee",
+      "image_sha256": "3d14a2922397be091f55218bd1d7f97b6241500ceb2528de34b29aff5c7fc329"
     }
   ]
 }

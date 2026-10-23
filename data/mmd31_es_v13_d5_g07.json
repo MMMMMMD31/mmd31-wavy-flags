@@ -197,13 +197,20 @@
       "id": 1884500100291,
       "name": "Rayo Ciudad Alcobendas",
       "group": 7,
-      "status": "ÉCUSSON_RÉEL_NON_VÉRIFIÉ",
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
       "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-7/clasificacion",
       "source_club": "RC Alcobendas",
-      "source_image": "/crests/rc-alcobendas-af43995.png",
+      "source_image": "https://www.resultadosrfef.es/crests/rc-alcobendas-af43995.png",
       "source_team_page": "https://www.resultadosrfef.es/equipo/rc-alcobendas-af43995",
       "match_score": 100,
-      "reason": "Invalid URL '/crests/rc-alcobendas-af43995.png': No scheme supplied. Perhaps you meant https:///crests/rc-alcobendas-af43995.png?"
+      "background_rgb": [
+        136,
+        158,
+        114
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100291.png",
+      "source_sha256": "8d6cfc892c1f2c5922fb4e87053207269fea7488623a2c4b3bdbbb4cd390d188",
+      "image_sha256": "c748fa573d3d12f938da864844595fc37a3aaa8dff1e267d5ca81e1497eace8d"
     },
     {
       "id": 1884500100292,
@@ -247,13 +254,20 @@
       "id": 1884500100294,
       "name": "San Sebastián de los Reyes B",
       "group": 7,
-      "status": "ÉCUSSON_RÉEL_NON_VÉRIFIÉ",
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
       "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-7/clasificacion",
       "source_club": "UD Sanse B",
-      "source_image": "/crests/ss-reyes-ii-af40754.png",
+      "source_image": "https://www.resultadosrfef.es/crests/ss-reyes-ii-af40754.png",
       "source_team_page": "https://www.resultadosrfef.es/equipo/ss-reyes-ii-af40754",
       "match_score": 100,
-      "reason": "Invalid URL '/crests/ss-reyes-ii-af40754.png': No scheme supplied. Perhaps you meant https:///crests/ss-reyes-ii-af40754.png?"
+      "background_rgb": [
+        245,
+        92,
+        92
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100294.png",
+      "source_sha256": "2d5b37f8aede67c488d08919b55c6c34cb8e9f6cdcc69c3383dbfc120ac70cb6",
+      "image_sha256": "a4a0e5b5f0434703a8c7ca44acb29721e0c8885aacd2e69302369d1f0e2aaec0"
     },
     {
       "id": 1884500100295,
