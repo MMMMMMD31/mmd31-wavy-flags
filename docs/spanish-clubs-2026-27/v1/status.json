@@ -1,0 +1,2592 @@
+{
+  "count": 172,
+  "size": [
+    120,
+    96
+  ],
+  "assets": [
+    {
+      "id": 1884500100001,
+      "source_path": "logos/spain/Barcelona.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Barcelona.svg",
+      "source_sha256": "af65ab7d0636939f1574980e047e497a28d2140d7d02ef2e8ea989b8450376ca",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100001.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100001-victory.png",
+      "background_rgb": [
+        235,
+        215,
+        97
+      ],
+      "flag_sha256": "73509391dece083888f0e7454a458165104b8a333fb9ca5fc0defe757a504434",
+      "victory_sha256": "8ba3d3c546f57f673220e03b4d87e4ff1e73e4f40df7366dd29274fcbcee4767"
+    },
+    {
+      "id": 1884500100002,
+      "source_path": "logos/spain/Atletico_Madrid.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Atletico_Madrid.svg",
+      "source_sha256": "9c8c77476ac539d8a627026f71739fa9551ddc962b8d763bff4e35c113670c48",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100002.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100002-victory.png",
+      "background_rgb": [
+        116,
+        116,
+        156
+      ],
+      "flag_sha256": "08c7b3a6f2f73e12bc0d81f972d3a7b67e1d8aee38694534f6efc93c54d3e134",
+      "victory_sha256": "a9541dff31a534f217aae56a3b9f52b2b0e7a231809543ae1c212bf8b592c3d1"
+    },
+    {
+      "id": 1884500100003,
+      "source_path": "logos/spain/Real_Madrid.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Real_Madrid.svg",
+      "source_sha256": "6e2f0c526a731e44a1d29c342006590c0baf5ae28a457f50ef3733dda5cc96c9",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100003.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100003-victory.png",
+      "background_rgb": [
+        255,
+        215,
+        97
+      ],
+      "flag_sha256": "33be4c9852f4fc75010f7b6e5abf0bc3e4916652ba9ad354ee45702a1b85c7fd",
+      "victory_sha256": "735b38a3a05abe38ae3fb97287e4a2de3a84599cd24b0f769be92813f8c71523"
+    },
+    {
+      "id": 1884500100004,
+      "source_path": "logos/spain/Real_Betis.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Real_Betis.svg",
+      "source_sha256": "299b7eaff6479143ecf0a1a82ccc630e1e8bd1fa29fac3f5884d5b30d4197c99",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100004.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100004-victory.png",
+      "background_rgb": [
+        97,
+        176,
+        136
+      ],
+      "flag_sha256": "823f86e4c0fae4c6fc8d973b2f2ca2e069dde30f060d287eaa4edf6a2b52fc68",
+      "victory_sha256": "979ef60aed5aa52eddb795e4bcd9fb9d378fb97e696864290d91748d82a71408"
+    },
+    {
+      "id": 1884500100005,
+      "source_path": "logos/spain/Real_Sociedad.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Real_Sociedad.svg",
+      "source_sha256": "db73fe57ea02714a69b38d8b66aebfd37b312beab96c11b0cc1576c8ad0dd172",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100005.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100005-victory.png",
+      "background_rgb": [
+        235,
+        196,
+        97
+      ],
+      "flag_sha256": "8f7836202f65f034f8f172108f659a2d371f7478d6040bcb21750886c09c5719",
+      "victory_sha256": "dff6d0c2a5edcb42062462fdd43bc3d99c2863f8886c275aeb249ac4f96e14da"
+    },
+    {
+      "id": 1884500100006,
+      "source_path": "logos/spain/Sevilla.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Sevilla.svg",
+      "source_sha256": "13cca138624c34227712b658e98f4b0906fc11b4ca9e09dfc3400dbc41a5ebdd",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100006.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100006-victory.png",
+      "background_rgb": [
+        235,
+        97,
+        116
+      ],
+      "flag_sha256": "f2b6da20bc71aef73257834e7d80bba76d502309593f74e7a12c793d6d3d899d",
+      "victory_sha256": "a8b4de0e4f166cd4ff07a5c9c94960c6080e3a86789b99d527c843b09e553f51"
+    },
+    {
+      "id": 1884500100007,
+      "source_path": "logos/spain/Deportivo_Alavés.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Deportivo_Alav%C3%A9s.svg",
+      "source_sha256": "93d96d69f48677855c1309b22a15751f8c85eb40db681de633cfa6db87df6f64",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100007.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100007-victory.png",
+      "background_rgb": [
+        97,
+        116,
+        196
+      ],
+      "flag_sha256": "1bb87981a1afd1d975d1a45cac7b5031e7c8054d88589a772a561ec3545eb200",
+      "victory_sha256": "777b163f686cdc0ada806a8c3a0a46eb96d5f6c119d78d0f635a0588921cfba7"
+    },
+    {
+      "id": 1884500100008,
+      "source_path": "logos/spain/Celta.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Celta.svg",
+      "source_sha256": "f2d07a8f8dbf122f6f607a780db4b9c203dbdbb7f2c2f72da960c005b77cb6ff",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100008.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100008-victory.png",
+      "background_rgb": [
+        235,
+        97,
+        116
+      ],
+      "flag_sha256": "b6112a9f54427de6bcf5aba47a7ac6bb4c9b6c9a032c85e5751b3053a808c1e2",
+      "victory_sha256": "66583c286b7d4237308e31b9a3fa7148f6288c2b1065f36b5ac53f2782f20aed"
+    },
+    {
+      "id": 1884500100009,
+      "source_path": "logos/spain/Deportivo_La_Coruña.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Deportivo_La_Coru%C3%B1a.svg",
+      "source_sha256": "7e9d5fb59d32400d76efadd8c973988823c6b43f2a15afa208c463bd90da452b",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100009.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100009-victory.png",
+      "background_rgb": [
+        136,
+        97,
+        156
+      ],
+      "flag_sha256": "bbd5d564dcfa40464533955127ba2173e8f4ce51d389c253f259f8dfeac61c27",
+      "victory_sha256": "4a1c11e65a7be07fe497010b2b34ce823cc716328ef0af59f3e4aaf8ee7eb288"
+    },
+    {
+      "id": 1884500100010,
+      "source_path": "logos/spain/Osasuna.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Osasuna.svg",
+      "source_sha256": "b896105b8ec10132de9d5cdc007338f2316cf9e5144abb8ecbc85cc38180e253",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100010.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100010-victory.png",
+      "background_rgb": [
+        196,
+        176,
+        116
+      ],
+      "flag_sha256": "1806fd7ff48603f48ee8ed9302b4c663948735acd97375667dbc9e821d33f595",
+      "victory_sha256": "25c3e4c3758ec76c8c78f652f8ac9d46128b9301c0887f7c246691cc40e1be48"
+    },
+    {
+      "id": 1884500100011,
+      "source_path": "logos/spain/Levante.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Levante.svg",
+      "source_sha256": "dc0b8ff8778de33027e66828ce887aaa0ee3a2cc63e56fb435332363f82256c9",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100011.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100011-victory.png",
+      "background_rgb": [
+        215,
+        97,
+        136
+      ],
+      "flag_sha256": "17f5742ebfffbc05de2fb9438f270d18017c5898debf67d2f7737f1e42a4a167",
+      "victory_sha256": "9494da953beb2244c09e6e957b71ff188581a7a293c4dc5029b15c24ca96b9b7"
+    },
+    {
+      "id": 1884500100012,
+      "source_path": "logos/spain/Villarreal.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Villarreal.svg",
+      "source_sha256": "9782a7e1e529d2dd8bd62e61ff34c26d4b7edb0f9e7b1643f352c33bc53da46f",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100012.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100012-victory.png",
+      "background_rgb": [
+        97,
+        116,
+        136
+      ],
+      "flag_sha256": "6492aa619591388cf7d9669e9425e81cbe59b9e4e7770e732ea9c129caa07fcd",
+      "victory_sha256": "b78b8eb707fca17ffb27c3de1c7981a67373aeb750da5774a44da6e75ac272b8"
+    },
+    {
+      "id": 1884500100013,
+      "source_path": "logos/spain/Athletic_Club_Bilbao.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Athletic_Club_Bilbao.svg",
+      "source_sha256": "251e668c87ae454affdf80cdba8b96060c7d4d585e170ee9983d102fc29b1e94",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100013.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100013-victory.png",
+      "background_rgb": [
+        235,
+        116,
+        116
+      ],
+      "flag_sha256": "388ff72804e75260149a5bda6c9539e276719711677a2b8fd3ca7f6ca19f1920",
+      "victory_sha256": "de721371e4214708aa41684b2d2342e187b889f44159bb0aa9e03ee8d8302320"
+    },
+    {
+      "id": 1884500100014,
+      "source_path": "logos/spain/Rayo_Vallecano.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Rayo_Vallecano.svg",
+      "source_sha256": "b791db866a97ec4acf01ae76353ac547060f5cecf24b19d8456c2f7cbe072d35",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100014.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100014-victory.png",
+      "background_rgb": [
+        215,
+        196,
+        116
+      ],
+      "flag_sha256": "37ae48b693327fdaf3070274c7d963971bb40bddabdb639e04500bcf8cd000b1",
+      "victory_sha256": "2c5fd81bb429ad0c7b2eadb1593aa49e9fc0ba683e83db282d00ac137730658a"
+    },
+    {
+      "id": 1884500100015,
+      "source_path": "logos/spain/Getafe.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Getafe.svg",
+      "source_sha256": "3f6c57e80241d3c599642b94c360c1335ee5725b2689af5db787c3e68cb12baa",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100015.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100015-victory.png",
+      "background_rgb": [
+        97,
+        176,
+        215
+      ],
+      "flag_sha256": "3fbf1aef2d96244dbe61e3adf28bb15712503f9de908f450b17551ccac59c5d7",
+      "victory_sha256": "c384231fbbc5f9a5a037c0bf51024fd8613d38adda31b2f582bca768ef340045"
+    },
+    {
+      "id": 1884500100016,
+      "source_path": "logos/spain/Espanyol.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Espanyol.svg",
+      "source_sha256": "b194abb840881890202f2f3f2d2e934e384362eef25e3627b564a2fceb3d9c99",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100016.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100016-victory.png",
+      "background_rgb": [
+        235,
+        97,
+        97
+      ],
+      "flag_sha256": "91fefabce692df219084abbbe878388efb9b74e3cd7f46c4bed529984a5bcc5c",
+      "victory_sha256": "5502406984bc4b013e529c495162063a211e1d0b197d83b3b960dc725f678b1c"
+    },
+    {
+      "id": 1884500100017,
+      "source_path": "logos/spain/Racing_Santander.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Racing_Santander.svg",
+      "source_sha256": "61af8cf4d5c77b6ccf1cf09ab0d2fee4147a71ce3c5a6ea0824a2cd251828aca",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100017.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100017-victory.png",
+      "background_rgb": [
+        116,
+        196,
+        116
+      ],
+      "flag_sha256": "e1f796f124a2d59fed90bd8643c003b8d9d3566b77988f407ccd3285b1c1c0ce",
+      "victory_sha256": "767e629e4efe8a2529bc342c1abc5ff7f17159c0849b0edd1b14141d526c22d5"
+    },
+    {
+      "id": 1884500100018,
+      "source_path": "logos/spain/Elche.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Elche.svg",
+      "source_sha256": "a05717f464852036b2962c51f229d6a466b554703712a8369de3983a9ee1abdc",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100018.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100018-victory.png",
+      "background_rgb": [
+        235,
+        215,
+        156
+      ],
+      "flag_sha256": "9b3a2cf4d4eb2d56bbda3c6a76ce3462e3ab82751f19c7cb5d9bca72bae8eaad",
+      "victory_sha256": "71fe12538aa0d9d10d1719efff711c797427ca1c187769aad731a03b0d6b1ded"
+    },
+    {
+      "id": 1884500100019,
+      "source_path": "logos/spain/Valencia.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Valencia.svg",
+      "source_sha256": "ea32c0c0e2891020677082e9b25ac33808d97eb1d85a8f4ea8a81323e50aa85d",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100019.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100019-victory.png",
+      "background_rgb": [
+        255,
+        235,
+        116
+      ],
+      "flag_sha256": "dc81ddbbc5ddce33fd4ae9d33144aa8d4186fb6b4dff9b1ed17e7f727ac44101",
+      "victory_sha256": "87914e48d9cc625aeb8e27efc45164d4bee2ef3f9d94931b1062797fa2407036"
+    },
+    {
+      "id": 1884500100020,
+      "source_path": "logos/spain/Málaga.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/M%C3%A1laga.svg",
+      "source_sha256": "c9f9ca0bf457f0e8da61410790720cbd0e2bdd456172716d0e85d1cc20391477",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100020.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100020-victory.png",
+      "background_rgb": [
+        97,
+        136,
+        196
+      ],
+      "flag_sha256": "3049f45542376b7455a9d4573fe4ae6ad63065cf256b5e2d048fcf1e8cd3242e",
+      "victory_sha256": "fc1bebcfe5556658a4c5f91c782b62c32ab9f421cb73850102532aec04593189"
+    },
+    {
+      "id": 1884500100021,
+      "source_path": "logos/spain/Almería.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Almer%C3%ADa.svg",
+      "source_sha256": "b6318b1f9d90deda29875de440fe475f7a87116a863e98e978be751c2d8957fb",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100021.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100021-victory.png",
+      "background_rgb": [
+        255,
+        235,
+        97
+      ],
+      "flag_sha256": "d9f7244fde2ff3baeae77c77d3d4a6d89f2a5d32363004fc1ae39ae4361467b4",
+      "victory_sha256": "963eb8ee468ca6f10c183146428cd32e74a96bde11a16eb2c0210ddf14bd9565"
+    },
+    {
+      "id": 1884500100022,
+      "source_path": "logos/spain/Burgos_CF.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Burgos_CF.svg",
+      "source_sha256": "6cea38ef30f3fecbd9341a003748d14a0d37333bd1646585ae97b0d7804c9d4d",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100022.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100022-victory.png",
+      "background_rgb": [
+        97,
+        176,
+        116
+      ],
+      "flag_sha256": "9974dc7952067082ca5efe637c6bcf545614ac52aa08289a34d712fed8b5baca",
+      "victory_sha256": "da0f498409ddc5e5fbc787f726baef68e0539f921bc4243d4dc4d43362722568"
+    },
+    {
+      "id": 1884500100023,
+      "source_path": "logos/spain/Mallorca.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Mallorca.svg",
+      "source_sha256": "db68b1d862b8213d71c8e8d6add8732d51083d5d55bc1e19e4ec1eb24852ef9d",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100023.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100023-victory.png",
+      "background_rgb": [
+        235,
+        97,
+        97
+      ],
+      "flag_sha256": "37f0790e0e5ce86cfc12b89a0b173c763621aa87487c24cde1b5ac531069463f",
+      "victory_sha256": "f4677a191ff31ce85e243ebafbe604a888abf4a199e0a3dc00b2cc96c81f96d3"
+    },
+    {
+      "id": 1884500100024,
+      "source_path": "logos/spain/Girona.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Girona.svg",
+      "source_sha256": "13d230d35e24c59035cb54333b57dd0c279ae4eb9b1c5ba0552ed26182d330c5",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100024.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100024-victory.png",
+      "background_rgb": [
+        215,
+        97,
+        116
+      ],
+      "flag_sha256": "f1354b89487aa85e63589b8560046ae59a91a4611ddc7a9ce61f4f139418a297",
+      "victory_sha256": "91e2b3b62b4a671f485bc9f7d680590413e741a10b0c0d724aeb4f1a8eff4df3"
+    },
+    {
+      "id": 1884500100025,
+      "source_path": "logos/spain/Sabadell.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Sabadell.svg",
+      "source_sha256": "df5ab156b16198400c790b000d889dc60a1fa72f1955c7c6a2e4b01f9e3831cc",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100025.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100025-victory.png",
+      "background_rgb": [
+        116,
+        136,
+        196
+      ],
+      "flag_sha256": "0ac7498b8e5bf1aef5760033822debd8c88e5452bfcbc979301505cd158f2e8b",
+      "victory_sha256": "90bd4405da6a2230e96082ce6defa95fe13abbda7bf1a39f6235374962354f13"
+    },
+    {
+      "id": 1884500100026,
+      "source_path": "logos/spain/Eibar.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Eibar.svg",
+      "source_sha256": "4e37114933369c77ba357bc10bca6146bfc9c2435dc87359587f7cf32fd0c5f4",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100026.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100026-victory.png",
+      "background_rgb": [
+        97,
+        116,
+        156
+      ],
+      "flag_sha256": "c88c7910b3d7cc71c4adb9c6c41f192a7a2b18485cbe20f8790fda0d88c5d393",
+      "victory_sha256": "ecc720893d3d47306485583c3d5a21130346fdd7329927d5644d21708fcf320a"
+    },
+    {
+      "id": 1884500100027,
+      "source_path": "logos/spain/Sporting_Gijón.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Sporting_Gij%C3%B3n.svg",
+      "source_sha256": "31141fdaf98cd09d7dbbdd40dd3e4b814704821b94a134038a1078e3d196837f",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100027.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100027-victory.png",
+      "background_rgb": [
+        235,
+        97,
+        97
+      ],
+      "flag_sha256": "c8eea788e2d9dd86612ec7474063f909e48489292289cc891fcd38e56f041aa0",
+      "victory_sha256": "ed93e04e19e93eba8e05f71b1b81345350b4e302382e7f0c5fd94f95a5e5d889"
+    },
+    {
+      "id": 1884500100028,
+      "source_path": "logos/spain/Real_Valladolid.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Real_Valladolid.svg",
+      "source_sha256": "ea90cbf22f547dcd52a3ac25a9f0a576b57f179b66240a700e8576683b7d38e4",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100028.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100028-victory.png",
+      "background_rgb": [
+        116,
+        156,
+        136
+      ],
+      "flag_sha256": "95a8125b52b506c1d8cc5f851f0ecba0f99311029facc839e58d85f891bec724",
+      "victory_sha256": "2af880e2e384675cd275e3e5ccb92810768ac75029ddb7bcbf1030a2418a6f3f"
+    },
+    {
+      "id": 1884500100029,
+      "source_path": "logos/spain/Castellón.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Castell%C3%B3n.svg",
+      "source_sha256": "3e89ee8ef0b1e8a5f3eda61be73454de8c8657d567f1d0a6ff330643078c09f1",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100029.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100029-victory.png",
+      "background_rgb": [
+        215,
+        116,
+        116
+      ],
+      "flag_sha256": "25b00cf27bd8263cae56c17c195140bed92e1fdeeca75b1b2f5a10144be7c3f8",
+      "victory_sha256": "34d1698be57c469b0294cd89413a070e2b4503067e15bb651f3dd901da91f47b"
+    },
+    {
+      "id": 1884500100030,
+      "source_path": "logos/spain/CD_Eldense.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/CD_Eldense.svg",
+      "source_sha256": "d7d0e2491cf95f1bd41e59778af753dd7644c0ca7b8b861b62fb129626c14314",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100030.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100030-victory.png",
+      "background_rgb": [
+        215,
+        97,
+        97
+      ],
+      "flag_sha256": "df11af89ceeb00d5738d323d0b3592a1d6e0e51f79c36ae092e835997c0192f0",
+      "victory_sha256": "6b9cbfba4b6677ca440345405d39ad925b1616d92c1307de619ee33d98bf293a"
+    },
+    {
+      "id": 1884500100031,
+      "source_path": "logos/spain/Oviedo.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Oviedo.svg",
+      "source_sha256": "b78c2aba5ea94bab7c7fa6ec8ebaebcdf0937b01bdb2f871e9086d65374ad875",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100031.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100031-victory.png",
+      "background_rgb": [
+        255,
+        235,
+        97
+      ],
+      "flag_sha256": "6d230993ac80bf937be9429637dd8f5fc59b9f6db5473e24ef67b66844b6a245",
+      "victory_sha256": "23bca6d624f06510e6b7b44d031f1898035a7a4008acc75d209cbfb9c35d59b4"
+    },
+    {
+      "id": 1884500100032,
+      "source_path": "logos/spain/Tenerife.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Tenerife.svg",
+      "source_sha256": "0b08a96e2d116e8b0ce2f1747ee0801fcb44e59b4a5bcb0406792ee04626a5df",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100032.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100032-victory.png",
+      "background_rgb": [
+        116,
+        116,
+        196
+      ],
+      "flag_sha256": "1a2b5b4d4ed87c2dcc2aec0e606c599ac46fc2fb038fa71a95ca8dbf092ffd93",
+      "victory_sha256": "b4ff55843e6c9324d83ee3bb5915b75034c0e0be20a1c15f8f33aeac364eb239"
+    },
+    {
+      "id": 1884500100033,
+      "source_path": "logos/spain/Celta.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Celta.svg",
+      "source_sha256": "f2d07a8f8dbf122f6f607a780db4b9c203dbdbb7f2c2f72da960c005b77cb6ff",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100033.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100033-victory.png",
+      "background_rgb": [
+        235,
+        97,
+        116
+      ],
+      "flag_sha256": "b6112a9f54427de6bcf5aba47a7ac6bb4c9b6c9a032c85e5751b3053a808c1e2",
+      "victory_sha256": "66583c286b7d4237308e31b9a3fa7148f6288c2b1065f36b5ac53f2782f20aed"
+    },
+    {
+      "id": 1884500100034,
+      "source_path": "logos/spain/Granada.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Granada.svg",
+      "source_sha256": "c004a50ad88d3a82f4248c3aa78fe954d4fa3706acac272c8ad1e9c9dc18ef9a",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100034.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100034-victory.png",
+      "background_rgb": [
+        215,
+        97,
+        116
+      ],
+      "flag_sha256": "ae643a98872b8a8b5b6e1ad0734dc9261df84dc332716f75bb6ebea214740014",
+      "victory_sha256": "9824ae6927722a44e1f974577a01da1a3133b59451da807e3bd7c3f991e36687"
+    },
+    {
+      "id": 1884500100035,
+      "source_path": "logos/spain/FC_Andorra.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/FC_Andorra.svg",
+      "source_sha256": "b4f103ab4b471de9363be7e12871eb4b13332dec902351f2e32199663c4bbad6",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100035.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100035-victory.png",
+      "background_rgb": [
+        97,
+        97,
+        176
+      ],
+      "flag_sha256": "9fc25fac1a7e11561402fbf0ff5f4498283078dbc46a9e371947f63ef744e0e0",
+      "victory_sha256": "4a8be83f4f583704f916379775633a070e39139e2e5e6ea3fbe11bcaf0c8f716"
+    },
+    {
+      "id": 1884500100036,
+      "source_path": "logos/spain/Leganés.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Legan%C3%A9s.svg",
+      "source_sha256": "51652ce49adba52c53d671774e5ec31db777e113aa294d5ff816dfa546635a7f",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100036.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100036-victory.png",
+      "background_rgb": [
+        97,
+        196,
+        116
+      ],
+      "flag_sha256": "05f56894843afe1c651dd0504017e771f3a4e74539c82b3461bfde0541f7d954",
+      "victory_sha256": "4a494ecf14f43dd75a087aab06284e470b129fff19ebeeccfd279fc9ca761628"
+    },
+    {
+      "id": 1884500100037,
+      "source_path": "logos/spain/Córdoba.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/C%C3%B3rdoba.svg",
+      "source_sha256": "5e92c2ab92f1e5df797c47eda5a069f2f55818d0dce0a11a267ca429851cbdfe",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100037.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100037-victory.png",
+      "background_rgb": [
+        235,
+        196,
+        97
+      ],
+      "flag_sha256": "64729c17b9715f98b97ed98f4b9d32d74a5e9a7a62240973a7ffaced3c2b8208",
+      "victory_sha256": "3c5eb6bd80b07dfeb443cd6f28a713179f7d633a5b22ca4565750f381e64bf40"
+    },
+    {
+      "id": 1884500100038,
+      "source_path": "logos/spain/Cádiz_CF.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/C%C3%A1diz_CF.svg",
+      "source_sha256": "c8efd1e9f1a7c747ceb21a41d31d29cd527b38551734842218f7104cdea44278",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100038.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100038-victory.png",
+      "background_rgb": [
+        255,
+        235,
+        97
+      ],
+      "flag_sha256": "fd7d0f01ee90c739af6d2824adc6dac48fe98d6a7078ea4658122afd759a84d6",
+      "victory_sha256": "d3326742783442067e492377fb98f3de60e3134f6cedd9aa9b962a3105c11af7"
+    },
+    {
+      "id": 1884500100039,
+      "source_path": "logos/spain/Las_Palmas.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Las_Palmas.svg",
+      "source_sha256": "164c28adf3ec5c59fac49b751e789b859e0895a70db0c4efa9c9c02e91b4a1a9",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100039.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100039-victory.png",
+      "background_rgb": [
+        97,
+        136,
+        196
+      ],
+      "flag_sha256": "f4272b3bb25804b6adfb3f49775583258117d83398c1c6942b93d83203896e31",
+      "victory_sha256": "05b11351669dedd1714ae3bff1e19903f91cfffe46fb1b90942993f706a3a395"
+    },
+    {
+      "id": 1884500100040,
+      "source_path": "logos/spain/Ceuta.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Ceuta.svg",
+      "source_sha256": "dd3cdf288f385919231b2ad6d3cf1a3f1e93d3026e5e684b585b27af3edf7a5b",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100040.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100040-victory.png",
+      "background_rgb": [
+        255,
+        97,
+        97
+      ],
+      "flag_sha256": "ada62b81fb7eeb1ad83d6d6d637281e7902b40258467736d694629ac23c306d6",
+      "victory_sha256": "ad2c42bba3dc87c2f5ca41fa42b66a878e65ced3699b7d29e255bf6e8a18a1dc"
+    },
+    {
+      "id": 1884500100041,
+      "source_path": "logos/spain/Real_Sociedad.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Real_Sociedad.svg",
+      "source_sha256": "db73fe57ea02714a69b38d8b66aebfd37b312beab96c11b0cc1576c8ad0dd172",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100041.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100041-victory.png",
+      "background_rgb": [
+        235,
+        196,
+        97
+      ],
+      "flag_sha256": "8f7836202f65f034f8f172108f659a2d371f7478d6040bcb21750886c09c5719",
+      "victory_sha256": "dff6d0c2a5edcb42062462fdd43bc3d99c2863f8886c275aeb249ac4f96e14da"
+    },
+    {
+      "id": 1884500100042,
+      "source_path": "logos/spain/Albacete.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Albacete.svg",
+      "source_sha256": "1bcc6c7b94134a26f1f006088aa95c0feea114d35eac5633b4360de3efa03ba4",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100042.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100042-victory.png",
+      "background_rgb": [
+        196,
+        97,
+        116
+      ],
+      "flag_sha256": "927e08954d05239e49ee758dfc256b7aec79572ad646a94efab4cb1445f71241",
+      "victory_sha256": "e8501fbfd53b6366d3c64ce427c811628ec4162899842376a677ccab3bf71764"
+    },
+    {
+      "id": 1884500100043,
+      "source_path": "logos/spain/AD_Mérida.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/AD_M%C3%A9rida.svg",
+      "source_sha256": "b99e1de2a70b8fd3a8f36a824641256c017ff22708e01712539486fa23167e96",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100043.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100043-victory.png",
+      "background_rgb": [
+        235,
+        116,
+        136
+      ],
+      "flag_sha256": "1995b03a41336f18e3d8534164d90746f0fae0d786da12081f02c3bd42adeb0c",
+      "victory_sha256": "ad10007e9fd4329e7d6cbc316fb69a091d10c055be7b716ca618ae499284c1de"
+    },
+    {
+      "id": 1884500100044,
+      "source_path": "logos/spain/Arenas_Club.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Arenas_Club.svg",
+      "source_sha256": "c3dfa4c9d1a8c71c17380ebf5e7dfecf14dc77b0d37b9f5bf6d1f7ac934b6233",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100044.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100044-victory.png",
+      "background_rgb": [
+        235,
+        97,
+        97
+      ],
+      "flag_sha256": "f63cbc0be4b13f38fd8958b610d9bd05553369f03955790297a021b76081af10",
+      "victory_sha256": "a750a57a68a896c1c9d8fa12bf90ba4ef925a409f502fa23dfb3f225da3a7085"
+    },
+    {
+      "id": 1884500100045,
+      "source_path": "logos/spain/Athletic_Club_Bilbao.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Athletic_Club_Bilbao.svg",
+      "source_sha256": "251e668c87ae454affdf80cdba8b96060c7d4d585e170ee9983d102fc29b1e94",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100045.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100045-victory.png",
+      "background_rgb": [
+        235,
+        116,
+        116
+      ],
+      "flag_sha256": "388ff72804e75260149a5bda6c9539e276719711677a2b8fd3ca7f6ca19f1920",
+      "victory_sha256": "de721371e4214708aa41684b2d2342e187b889f44159bb0aa9e03ee8d8302320"
+    },
+    {
+      "id": 1884500100046,
+      "source_path": "logos/spain/Barakaldo.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Barakaldo.svg",
+      "source_sha256": "b1f7235cdcf90e10549f968394bfe1376304afcb9104d7f016d6efd00eda77b7",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100046.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100046-victory.png",
+      "background_rgb": [
+        255,
+        235,
+        97
+      ],
+      "flag_sha256": "561192aed2e0203f073524749a47d3d998552b144102db4f5a113dbff61883e5",
+      "victory_sha256": "b33cd62e8d91adb1fcd7d7b1e183e5b5267353400eb393999c1719fc6a081362"
+    },
+    {
+      "id": 1884500100047,
+      "source_path": "logos/spain/CD_Coria.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/CD_Coria.svg",
+      "source_sha256": "25ddb05d4f84e20830e2cb459b5d550cb1e52d6f2d89f705c8edb9370a681a2f",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100047.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100047-victory.png",
+      "background_rgb": [
+        97,
+        215,
+        255
+      ],
+      "flag_sha256": "cef90c24871c5f640fcc65b29cb9fcd9d5643bf84554463e82ea46034c9ba225",
+      "victory_sha256": "3cd25523af3c53d6e8524c4ffd18aa2a9fad7d122699e187d25df57edf7b8300"
+    },
+    {
+      "id": 1884500100048,
+      "source_path": "logos/spain/CD_Extremadura.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/CD_Extremadura.svg",
+      "source_sha256": "eb2b0a5d765a52a7734c7b6d366fcd5cabc2096c86672b449e702fbd35e6ca51",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100048.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100048-victory.png",
+      "background_rgb": [
+        97,
+        97,
+        136
+      ],
+      "flag_sha256": "eedebbe5367ef3f9880a91c628640a2c2b547e7c87262b0635cdbd542d746a53",
+      "victory_sha256": "21266f0677f7fe09056c515f92c3f76114c39d915dd5423c389eacaefd1bec65"
+    },
+    {
+      "id": 1884500100049,
+      "source_path": "logos/spain/Lugo.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Lugo.svg",
+      "source_sha256": "732b1d81de7fba27ac066ae03dfad2f952ed62d7d9f92f08c116d3820396f4e5",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100049.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100049-victory.png",
+      "background_rgb": [
+        97,
+        196,
+        235
+      ],
+      "flag_sha256": "4fec13c3b3e1888fa07330ae25f08dbf090671a3452ca4b4a49df6b712eb943b",
+      "victory_sha256": "f5be42500d5587f387ae23e4cfcb86cdc9a62dd6cb2af76238c2d5acae172bd5"
+    },
+    {
+      "id": 1884500100050,
+      "source_path": "logos/spain/Mirandés.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Mirand%C3%A9s.svg",
+      "source_sha256": "1122d8f71f35ea0bf7a3a31d5b08d87ae1b041f7ffe8d1fafdf2180c29e93e8c",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100050.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100050-victory.png",
+      "background_rgb": [
+        235,
+        97,
+        97
+      ],
+      "flag_sha256": "2f89bc72fa8d6bcc2412c751d064b923e420b921f3c5e41315b651c345acf011",
+      "victory_sha256": "8facaf1556bc07b0155c3b99ff9175a446f157815672bb199c653e47c4b5165b"
+    },
+    {
+      "id": 1884500100051,
+      "source_path": "logos/spain/Cacereño.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Cacere%C3%B1o.svg",
+      "source_sha256": "60aa35bd54d512f6e103595ecf544a4d8ea854370d54d578ca93c3b4e251fb3f",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100051.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100051-victory.png",
+      "background_rgb": [
+        97,
+        176,
+        136
+      ],
+      "flag_sha256": "dbef20b8753aa17bb049c0504a8f17862f4b1216d3285d1625dd4b20033a8c2a",
+      "victory_sha256": "a3ca072715649ee38de6522a3816496580d0cc46f9043d4a2fd121c23a078d28"
+    },
+    {
+      "id": 1884500100052,
+      "source_path": "logos/spain/Cultural_Leonesa.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Cultural_Leonesa.svg",
+      "source_sha256": "199b4ffa739a6332379cfa9fb51ff28aeddaef0c6fad8056c6bc261387c11189",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100052.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100052-victory.png",
+      "background_rgb": [
+        235,
+        97,
+        116
+      ],
+      "flag_sha256": "522cd1b7e18b3c25646750a64b12ac39c283f85d4700473cd15a0e1a5013b1ef",
+      "victory_sha256": "8efeba636a062720316479a679dcdff236866f04c90b7c434d4eadce34dc6d45"
+    },
+    {
+      "id": 1884500100053,
+      "source_path": "logos/spain/Pontevedra_CF.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Pontevedra_CF.svg",
+      "source_sha256": "3567a6bed95528f0f428afcf2676a3f21ed1efc129770038e3323f5a5c915826",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100053.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100053-victory.png",
+      "background_rgb": [
+        235,
+        196,
+        156
+      ],
+      "flag_sha256": "adf0420bf8d5a75ad7795d83cbbd25d597d597fef640f21a11b86113423e338a",
+      "victory_sha256": "f89d6822b4f7771c1b9ccbd41e46bd744550ac722431d2dd5086b5bc5d4a41d8"
+    },
+    {
+      "id": 1884500100054,
+      "source_path": "logos/spain/Racing_Club_Ferrol.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Racing_Club_Ferrol.svg",
+      "source_sha256": "085d0ba425ca422cdd34bbf4ff351f93fc45da411ec73556cdb8aeb0572e4f7c",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100054.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100054-victory.png",
+      "background_rgb": [
+        215,
+        97,
+        116
+      ],
+      "flag_sha256": "df29dd3781f9af9ab6a80665d1f496dcd9fa96e204486d5660d0915dc9f603a1",
+      "victory_sha256": "1780867a3438e9d471031799f389760bd5d9a1041b464315818e106956638720"
+    },
+    {
+      "id": 1884500100055,
+      "source_path": "logos/spain/Deportivo_La_Coruña.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Deportivo_La_Coru%C3%B1a.svg",
+      "source_sha256": "7e9d5fb59d32400d76efadd8c973988823c6b43f2a15afa208c463bd90da452b",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100055.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100055-victory.png",
+      "background_rgb": [
+        136,
+        97,
+        156
+      ],
+      "flag_sha256": "bbd5d564dcfa40464533955127ba2173e8f4ce51d389c253f259f8dfeac61c27",
+      "victory_sha256": "4a1c11e65a7be07fe497010b2b34ce823cc716328ef0af59f3e4aaf8ee7eb288"
+    },
+    {
+      "id": 1884500100056,
+      "source_path": "logos/spain/Real_Avilés_Industrial.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Real_Avil%C3%A9s_Industrial.svg",
+      "source_sha256": "189a84df87c7f4bb7c93b6a609f2c88bb1c1d61426de36491437ed32811fd4e2",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100056.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100056-victory.png",
+      "background_rgb": [
+        176,
+        97,
+        97
+      ],
+      "flag_sha256": "3502434fed959921301dbae7633e57458f0ee8eb9bbe340110f9f9f0dbd4002e",
+      "victory_sha256": "fe64d34bb79189b00896f787f24992855fbd7ccaa0ff78925e807337dfd6d276"
+    },
+    {
+      "id": 1884500100057,
+      "source_path": "logos/spain/Real_Unión.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Real_Uni%C3%B3n.svg",
+      "source_sha256": "d8729bfe9a9a3c02dd3a5f80ec491800fccfac87c08bf581eec37fa142251803",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100057.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100057-victory.png",
+      "background_rgb": [
+        235,
+        196,
+        116
+      ],
+      "flag_sha256": "10fb5142d5c36319ed1d7d4af5ca74dcce9b54bc2646db6c3f0a48bc20b3229d",
+      "victory_sha256": "bb5c73e5c2a29921525439d9dceb9286123cbf529619ff705cc688c7856be550"
+    },
+    {
+      "id": 1884500100058,
+      "source_path": "logos/spain/Ponferradina.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Ponferradina.svg",
+      "source_sha256": "cea1674badd43a10eb40fad100d70576c22b367c8269bf85fde35f12f678fe7d",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100058.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100058-victory.png",
+      "background_rgb": [
+        235,
+        215,
+        116
+      ],
+      "flag_sha256": "04699d30944dfc0aeabdf1930df0eb5da40f847e6acc5a46532b74ec01e096c0",
+      "victory_sha256": "e599aa1bd6ebb60402df7956e5aff768d4df61f9bfb55d25d347c6f845e35e7e"
+    },
+    {
+      "id": 1884500100059,
+      "source_path": "logos/spain/UD_Logroñés.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/UD_Logro%C3%B1%C3%A9s.svg",
+      "source_sha256": "96e04f16301fb67192273199a787d244fd1390a08893a820fdc81d867963f7d8",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100059.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100059-victory.png",
+      "background_rgb": [
+        215,
+        97,
+        97
+      ],
+      "flag_sha256": "4bcff69414767a2797849a23bf01fa0e8a609c27330f9383d718f24b87619a2e",
+      "victory_sha256": "87da03b742d5a8924109a454af20b2878c9d788a421847efc66b3c81a550323b"
+    },
+    {
+      "id": 1884500100060,
+      "source_path": "logos/spain/UD_Ourense.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/UD_Ourense.svg",
+      "source_sha256": "58b8d033792024372a29dd8bdf013bde94e7bdbda7f214edf2d6962a30488ba2",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100060.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100060-victory.png",
+      "background_rgb": [
+        215,
+        97,
+        97
+      ],
+      "flag_sha256": "1c8783c8620769d1c5b6fd8069570bac73da6f50ba9d58aa130333158938643b",
+      "victory_sha256": "187f76d3ae60e5bd239e901ff7765a7e13586984ff1693fe7207ea4c9b31694f"
+    },
+    {
+      "id": 1884500100061,
+      "source_path": "logos/spain/Unionistas_de_Salamanca_CF.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Unionistas_de_Salamanca_CF.svg",
+      "source_sha256": "485fd25dc2a1217c427e1b5fe1ac2f6ebc94ea5de4c2fa3e7213d10a5596a860",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100061.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100061-victory.png",
+      "background_rgb": [
+        136,
+        136,
+        97
+      ],
+      "flag_sha256": "30cd7511ac428a9147916866fcfcc235116e9ec1a752f5421349e959f8ba74e1",
+      "victory_sha256": "cbf4d3e6721ab6277a6a1e1de6c835389fdd1bc6f53de2c0ca5af4b61778cf45"
+    },
+    {
+      "id": 1884500100062,
+      "source_path": "logos/spain/Zamora.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Zamora.svg",
+      "source_sha256": "5b38e8a64b66026dc1553a540c61fc23466e83ab88fb9b3b3b98d62c995479b3",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100062.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100062-victory.png",
+      "background_rgb": [
+        215,
+        116,
+        116
+      ],
+      "flag_sha256": "c5118ba8ffa8d39294dad58da5a75603c63ee3ecbaa5a0535832e1e802c1133a",
+      "victory_sha256": "62cca4a80c93a89f9f0ce7ce511c41060321ce481ba8c6c4c1fcaf08d7314919"
+    },
+    {
+      "id": 1884500100063,
+      "source_path": "logos/spain/Alcorcón.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Alcorc%C3%B3n.svg",
+      "source_sha256": "73a912798a2d7049d6c7c4b5adc01a738739180a1e155bbb3b8eb6babf128b54",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100063.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100063-victory.png",
+      "background_rgb": [
+        116,
+        116,
+        156
+      ],
+      "flag_sha256": "35c1a7beb737ffeac4a434b09789c35d710d6557fc96698a99785b7ecb788cd5",
+      "victory_sha256": "2e25cc700d59e372fb93ef18a39ea0037c64f62671f1b97858683c535e45f21e"
+    },
+    {
+      "id": 1884500100064,
+      "source_path": "logos/spain/Águilas_FC.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/%C3%81guilas_FC.svg",
+      "source_sha256": "856c076a721e9e566bc2c3a18270a1ef09cfec49c6ab727e1029094900701a84",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100064.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100064-victory.png",
+      "background_rgb": [
+        215,
+        176,
+        116
+      ],
+      "flag_sha256": "68b8812cc4bdf73dde09e460b1a9f1c90b8200742d4163156a8c80238db27c3c",
+      "victory_sha256": "930548975759119fcfbc542e3e84bc9f58fe0e0059c6dcf6631be0efdd8ddee3"
+    },
+    {
+      "id": 1884500100065,
+      "source_path": "logos/spain/Algeciras.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Algeciras.svg",
+      "source_sha256": "684db9c7c2fa0f6e9d9a2e153ce97be6123bfb9b1e5b54554f437cc53fe3560a",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100065.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100065-victory.png",
+      "background_rgb": [
+        235,
+        196,
+        116
+      ],
+      "flag_sha256": "250ba95c2f5c313217e0c399d07df4b5e3020f3bca0e074f3bd7864312118265",
+      "victory_sha256": "1cdf81fa7f8c4bdc76d62f2d9ba96f1fe6a652f5d14654987de8b0c7d2448cdd"
+    },
+    {
+      "id": 1884500100066,
+      "source_path": "logos/spain/Antequera.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Antequera.svg",
+      "source_sha256": "904524ad11f807cc581c283ca76d3429fbbf35a3cea4b632f6bdd8c0911f2e0d",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100066.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100066-victory.png",
+      "background_rgb": [
+        97,
+        176,
+        116
+      ],
+      "flag_sha256": "7a183f71acafd08758bae6a0d435f2d5223cdcc037d0de50e1b9c526efd70944",
+      "victory_sha256": "e6c5c0f2deb98e449020f9bb4db34be5ea2fdd5e44aecf00522d89731deeb3cf"
+    },
+    {
+      "id": 1884500100067,
+      "source_path": "logos/spain/Atletico_Madrid.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Atletico_Madrid.svg",
+      "source_sha256": "9c8c77476ac539d8a627026f71739fa9551ddc962b8d763bff4e35c113670c48",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100067.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100067-victory.png",
+      "background_rgb": [
+        116,
+        116,
+        156
+      ],
+      "flag_sha256": "08c7b3a6f2f73e12bc0d81f972d3a7b67e1d8aee38694534f6efc93c54d3e134",
+      "victory_sha256": "a9541dff31a534f217aae56a3b9f52b2b0e7a231809543ae1c212bf8b592c3d1"
+    },
+    {
+      "id": 1884500100068,
+      "source_path": "logos/spain/Teruel.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Teruel.svg",
+      "source_sha256": "2f8616cd71005d8e8c6d6658b3d77d605c102f446c5594b94562dbe303005766",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100068.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100068-victory.png",
+      "background_rgb": [
+        97,
+        116,
+        255
+      ],
+      "flag_sha256": "a8c269a66fef65ada24b70ee24d2c3cbd39c45f4f848028346c42d4da47c512b",
+      "victory_sha256": "531c9abc7ac2fb753128a8fee043d3e01f25024dab4237379fe27cb49949a7a2"
+    },
+    {
+      "id": 1884500100069,
+      "source_path": "logos/spain/CE_Europa.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/CE_Europa.svg",
+      "source_sha256": "5eff6fdcd9cea549265e263a4d7dfe2f4ff95503e7b72bb463d47aedd212a8c9",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100069.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100069-victory.png",
+      "background_rgb": [
+        116,
+        156,
+        176
+      ],
+      "flag_sha256": "9d3ca2ec2bda1b5146a311098e4c1a9ce888b65dc0bbf6afff3d360112e7c21a",
+      "victory_sha256": "64861f19e31b05bc92c933303ac5330bcbe617eacc0254d628282771267e8845"
+    },
+    {
+      "id": 1884500100070,
+      "source_path": "logos/spain/Rayo_Majadahonda.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Rayo_Majadahonda.svg",
+      "source_sha256": "4d97d25396cf40330dcae72ce28d0f798ca09c48499aae247cbd8d2d82a5e513",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100070.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100070-victory.png",
+      "background_rgb": [
+        255,
+        97,
+        97
+      ],
+      "flag_sha256": "12c7e6639d56932bffe816873ccc8d72df2799fe05f01e074ee95fa850acc717",
+      "victory_sha256": "ddf9bfffa2c7e2da9729f66894ff9e44532a70582bfc02addae56572eb6c59ea"
+    },
+    {
+      "id": 1884500100071,
+      "source_path": "logos/spain/FC_Cartagena.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/FC_Cartagena.svg",
+      "source_sha256": "dab530047b0b1ea83977f91dc9589942c2e1e6e2ddefa87abdd3a2bb8f4ff05e",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100071.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100071-victory.png",
+      "background_rgb": [
+        235,
+        97,
+        116
+      ],
+      "flag_sha256": "4cd2154bafd30111a317b136cd2f6b5d878039f887eaeefd4f3abcc636b04207",
+      "victory_sha256": "e10dc8c2c8f07b94aa264005f9a2680a24a294ff404afa7d5c07931f61a77584"
+    },
+    {
+      "id": 1884500100072,
+      "source_path": "logos/spain/Gimnàstic_de_Tarragona.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Gimn%C3%A0stic_de_Tarragona.svg",
+      "source_sha256": "296d0f5113a839c8d574c6a6d5705b963c5ffd316376037a88780bb7fc9517bd",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100072.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100072-victory.png",
+      "background_rgb": [
+        235,
+        116,
+        116
+      ],
+      "flag_sha256": "95b9d66cad4e3b5a55bdedb0134805e65bb51e244574d4b681d78619611bdb13",
+      "victory_sha256": "af4e86860b3e17b65a6c64a21fea8ea8b3996f09163c1e464a0b73c92780b521"
+    },
+    {
+      "id": 1884500100073,
+      "source_path": "logos/spain/Hércules.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/H%C3%A9rcules.svg",
+      "source_sha256": "b080569d88073ccf4361bbe390eb453f4c8f3aa42d7e5d5d65982b466797b641",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100073.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100073-victory.png",
+      "background_rgb": [
+        196,
+        176,
+        116
+      ],
+      "flag_sha256": "892281668d18d428a404361c2c91fb5806951e112c0a0e1c8092438046761231",
+      "victory_sha256": "894779e490c954e5038c5d36e37690ec3b853407252f139e549c45d1d2ec461a"
+    },
+    {
+      "id": 1884500100074,
+      "source_path": "logos/spain/Juventud_Torremolinos.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Juventud_Torremolinos.svg",
+      "source_sha256": "97150c084f5b0dd39229342219d355ac0d2f2028933e18c922875c8e96ffa463",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100074.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100074-victory.png",
+      "background_rgb": [
+        116,
+        176,
+        136
+      ],
+      "flag_sha256": "62e43efbd1d4384926c577943783ec15dd7966d7c7ccf9fd6aae0a64a9b0c316",
+      "victory_sha256": "0612f116cd01627b0ecbc397b6aa076844bbbfdcab070b2edd067650bfe850af"
+    },
+    {
+      "id": 1884500100075,
+      "source_path": "logos/spain/Real_Jaén_CF.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Real_Ja%C3%A9n_CF.svg",
+      "source_sha256": "3f99cf23192201fed883a1f795e68b244340f4c8483b853045f59451856ffe42",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100075.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100075-victory.png",
+      "background_rgb": [
+        156,
+        116,
+        176
+      ],
+      "flag_sha256": "03c9ddb0856d3c9fd88fe4c5d487c4ecc805f93d55bfb9f718b6f2b768ca72b4",
+      "victory_sha256": "bac1737b92da103c136a8067791d98bce48702d2f55b6f108b76e6e94bebfe5f"
+    },
+    {
+      "id": 1884500100076,
+      "source_path": "logos/spain/Real_Madrid.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Real_Madrid.svg",
+      "source_sha256": "6e2f0c526a731e44a1d29c342006590c0baf5ae28a457f50ef3733dda5cc96c9",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100076.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100076-victory.png",
+      "background_rgb": [
+        255,
+        215,
+        97
+      ],
+      "flag_sha256": "33be4c9852f4fc75010f7b6e5abf0bc3e4916652ba9ad354ee45702a1b85c7fd",
+      "victory_sha256": "735b38a3a05abe38ae3fb97287e4a2de3a84599cd24b0f769be92813f8c71523"
+    },
+    {
+      "id": 1884500100077,
+      "source_path": "logos/spain/Real_Murcia.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Real_Murcia.svg",
+      "source_sha256": "b96b41922c86f287f79f4275e7c5b865cb9337435d2cda90d73195d99d01581c",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100077.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100077-victory.png",
+      "background_rgb": [
+        235,
+        196,
+        116
+      ],
+      "flag_sha256": "28f0b43b337cb8d3313ac76e4d81247772674fb43c478bf62d3f1e5b8284724d",
+      "victory_sha256": "c369a938b3bc8dce4c1af8afee3c18eaacadec4f645884a6d2c5fcec64152b6d"
+    },
+    {
+      "id": 1884500100078,
+      "source_path": "logos/spain/Real_Zaragoza.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Real_Zaragoza.svg",
+      "source_sha256": "941bf45742c348ab2798b9df45b9d91de293c8764b7b030d7a6aa478572190a0",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100078.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100078-victory.png",
+      "background_rgb": [
+        255,
+        97,
+        97
+      ],
+      "flag_sha256": "47882b3e4ed0642cabcedff2dbf19243b5b2a0103342bcaf46bde34915ac3f86",
+      "victory_sha256": "a0ca49bea432ab71cb1692cc443e72b8f4a950c9a9086f9440a71f08610f2803"
+    },
+    {
+      "id": 1884500100079,
+      "source_path": "logos/spain/Huesca.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Huesca.svg",
+      "source_sha256": "f59fecc93bb78caef3ecb74b697dd106d73dcdd7bbc4cbe0327dc2ae49510622",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100079.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100079-victory.png",
+      "background_rgb": [
+        116,
+        116,
+        176
+      ],
+      "flag_sha256": "f745c46b4bf9b79ebb07b54626bfb37e8671d5fee96f96a8e96269b181005ba1",
+      "victory_sha256": "734ab8065f54f647d836738ff63ea7ee451b42c8f2aeeac37b48462bac8ea68b"
+    },
+    {
+      "id": 1884500100080,
+      "source_path": "logos/spain/UD_Ibiza.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/UD_Ibiza.svg",
+      "source_sha256": "318f69751f01a770052005bda6c3ac10ac1e52b95b6d4d87875167f9c19d86e9",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100080.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100080-victory.png",
+      "background_rgb": [
+        176,
+        215,
+        235
+      ],
+      "flag_sha256": "ff4d17fe78251edea41cba32e6fc9ac9e64e82a379d529914e763946f3941ab6",
+      "victory_sha256": "93ce8b257995841ac3922c5b305eccc5fa73e664d365217700cf63e540c8dfa1"
+    },
+    {
+      "id": 1884500100081,
+      "source_path": "logos/spain/UE_Sant_Andreu.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/UE_Sant_Andreu.svg",
+      "source_sha256": "1c711cc8547827b3dc13b26a5970f8cba0d816f8439e05fdc882cb90bc477b11",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100081.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100081-victory.png",
+      "background_rgb": [
+        116,
+        116,
+        196
+      ],
+      "flag_sha256": "11af8a858d10e60b480fe12665c38bbf4eb72ef860de7dc30348fff7816ab6fb",
+      "victory_sha256": "d85941b209fc675deeeb11dd6125b324479a759d119768dd891fea01d4c7712f"
+    },
+    {
+      "id": 1884500100082,
+      "source_path": "logos/spain/Villarreal.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Villarreal.svg",
+      "source_sha256": "9782a7e1e529d2dd8bd62e61ff34c26d4b7edb0f9e7b1643f352c33bc53da46f",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100082.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100082-victory.png",
+      "background_rgb": [
+        97,
+        116,
+        136
+      ],
+      "flag_sha256": "6492aa619591388cf7d9669e9425e81cbe59b9e4e7770e732ea9c129caa07fcd",
+      "victory_sha256": "b78b8eb707fca17ffb27c3de1c7981a67373aeb750da5774a44da6e75ac272b8"
+    },
+    {
+      "id": 1884500100083,
+      "source_path": "logos/spain/Arosa_SC.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Arosa_SC.svg",
+      "source_sha256": "faed2a0dac64e18d3838ebf8e06fc71fbc2d56fb7049648136b50620ec26d57d",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100083.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100083-victory.png",
+      "background_rgb": [
+        215,
+        97,
+        116
+      ],
+      "flag_sha256": "b0ace44bf6a090154ebcafc48a5c29c4bb7299556a57567cc458be8a4cc40027",
+      "victory_sha256": "17cc8f9f153412cc50653a19f6bf6281825df61fb9cce358a43ec5f18a3b36ce"
+    },
+    {
+      "id": 1884500100084,
+      "source_path": "logos/spain/Atlético_Astorga.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Atl%C3%A9tico_Astorga.svg",
+      "source_sha256": "3b194df5861653ec486e3045f07bb22617440a985b1fc978acae15f5fdac4ae3",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100084.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100084-victory.png",
+      "background_rgb": [
+        97,
+        156,
+        136
+      ],
+      "flag_sha256": "afcea2d1c1cf1bf69fcf2fc549017aae33884a2bf0480d1844deed17c1c2da20",
+      "victory_sha256": "99622624a43bcfaafcfb1eec3baaf2e6b4e460ad8114b53d9d41e0793afa145d"
+    },
+    {
+      "id": 1884500100085,
+      "source_path": "logos/spain/Bergantiños_CF.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Berganti%C3%B1os_CF.svg",
+      "source_sha256": "1673458098d607fa46b98aec7b61cc407ee45fb086ed1e25c300749ade8638c7",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100085.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100085-victory.png",
+      "background_rgb": [
+        116,
+        176,
+        215
+      ],
+      "flag_sha256": "ca086287133c47ad6b83ff7d0ac68ef06d918c7ca4d15ad4560a75896e8fdc6e",
+      "victory_sha256": "6c4e08a3a4f659663cf554cff3c46a7c3ddd814a4c8c0f94f86f34d4b0dd43df"
+    },
+    {
+      "id": 1884500100086,
+      "source_path": "logos/spain/CD_Basconia.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/CD_Basconia.svg",
+      "source_sha256": "17bcaae09bd5df62eb3604aeec71032e3c69654ca2291802f8bedc69fec3fb2d",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100086.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100086-victory.png",
+      "background_rgb": [
+        255,
+        235,
+        97
+      ],
+      "flag_sha256": "8ad80525e0527a2fe3e37b575a54148731610ce9c1d445c1f70e9ed3ee9ab649",
+      "victory_sha256": "a32a98bd781d8982b9d8d943a00f8423ac94137352a4599790cefd76291f79aa"
+    },
+    {
+      "id": 1884500100087,
+      "source_path": "logos/spain/Coruxo.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Coruxo.svg",
+      "source_sha256": "98f4c13b657c02448f86977d8fc407e8603921b0aaa85e667c793861ea6cccb9",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100087.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100087-victory.png",
+      "background_rgb": [
+        235,
+        215,
+        97
+      ],
+      "flag_sha256": "9e4614e3e8199839df4dee07f1f1340984e958e82d770098891e325a4b638545",
+      "victory_sha256": "30b74ba681f4dc9541f82172021e89a9715382ca0ba75e6bf029c48030be264d"
+    },
+    {
+      "id": 1884500100088,
+      "source_path": "logos/spain/Deportivo_Alavés.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Deportivo_Alav%C3%A9s.svg",
+      "source_sha256": "93d96d69f48677855c1309b22a15751f8c85eb40db681de633cfa6db87df6f64",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100088.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100088-victory.png",
+      "background_rgb": [
+        97,
+        116,
+        196
+      ],
+      "flag_sha256": "1bb87981a1afd1d975d1a45cac7b5031e7c8054d88589a772a561ec3545eb200",
+      "victory_sha256": "777b163f686cdc0ada806a8c3a0a46eb96d5f6c119d78d0f635a0588921cfba7"
+    },
+    {
+      "id": 1884500100089,
+      "source_path": "logos/spain/Eibar.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Eibar.svg",
+      "source_sha256": "4e37114933369c77ba357bc10bca6146bfc9c2435dc87359587f7cf32fd0c5f4",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100089.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100089-victory.png",
+      "background_rgb": [
+        97,
+        116,
+        156
+      ],
+      "flag_sha256": "c88c7910b3d7cc71c4adb9c6c41f192a7a2b18485cbe20f8790fda0d88c5d393",
+      "victory_sha256": "ecc720893d3d47306485583c3d5a21130346fdd7329927d5644d21708fcf320a"
+    },
+    {
+      "id": 1884500100090,
+      "source_path": "logos/spain/Gimnástica_Torrelavega.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Gimn%C3%A1stica_Torrelavega.svg",
+      "source_sha256": "78bc532f32e769fcec4d8e41bbce427155b1890b2ffbf1b5443d2b63cf1627f6",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100090.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100090-victory.png",
+      "background_rgb": [
+        215,
+        97,
+        116
+      ],
+      "flag_sha256": "27bef7900ad627ffcf1d92222b9532697744d896fef63799c12c9e93eb99e014",
+      "victory_sha256": "a995e1530b96e6b57ddd04ca11b692fad35ba7ead037ddf568a788d44c469fd6"
+    },
+    {
+      "id": 1884500100091,
+      "source_path": "logos/spain/Marino_de_Luanco.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Marino_de_Luanco.svg",
+      "source_sha256": "6a323cbb83207f3ee773e1cc410f47b83110d7511cceaba7502f2fed89c54d6e",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100091.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100091-victory.png",
+      "background_rgb": [
+        97,
+        97,
+        176
+      ],
+      "flag_sha256": "b676689b15ed2f43e1139ae88306298e41cf5894e577da907a5ff0eb23dee111",
+      "victory_sha256": "50f56bde2fe4a43a51c7aaf1e27d5b98e20a41d00f1be37493a79f45a6394ed8"
+    },
+    {
+      "id": 1884500100092,
+      "source_path": "logos/spain/Ourense_CF.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Ourense_CF.svg",
+      "source_sha256": "b6d54631f7cbf1cc8c8a7504b09bc1e652ebea5f852cb059bb1d2da25a5a176f",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100092.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100092-victory.png",
+      "background_rgb": [
+        97,
+        136,
+        235
+      ],
+      "flag_sha256": "ada64c13a093023bd546b9ade5042ecc2b485c9cc3656390b4c6b0d1783c0d0e",
+      "victory_sha256": "e21e041f89ee52bb5bf6b4bcbc0258ec2b3df4e44b0ab8e8f03f5b13f54a6d4b"
+    },
+    {
+      "id": 1884500100093,
+      "source_path": "logos/spain/Portugalete.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Portugalete.svg",
+      "source_sha256": "3ba3a9f2f76771ffc909efa9e1bb1a79e8d5fbb7ca9a3bdcf8f758b7fc03f9f6",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100093.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100093-victory.png",
+      "background_rgb": [
+        255,
+        235,
+        97
+      ],
+      "flag_sha256": "33b70cf680eb6fd2f39c0ab7c1d5bcd08cb37746e482f3ff5a1b9976052b59a9",
+      "victory_sha256": "94c0120f1909fca2818615f000cc396d6c1d9b72206ccea1481ac8e451dfa59e"
+    },
+    {
+      "id": 1884500100094,
+      "source_path": "logos/spain/Racing_Santander.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Racing_Santander.svg",
+      "source_sha256": "61af8cf4d5c77b6ccf1cf09ab0d2fee4147a71ce3c5a6ea0824a2cd251828aca",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100094.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100094-victory.png",
+      "background_rgb": [
+        116,
+        196,
+        116
+      ],
+      "flag_sha256": "e1f796f124a2d59fed90bd8643c003b8d9d3566b77988f407ccd3285b1c1c0ce",
+      "victory_sha256": "767e629e4efe8a2529bc342c1abc5ff7f17159c0849b0edd1b14141d526c22d5"
+    },
+    {
+      "id": 1884500100095,
+      "source_path": "logos/spain/Oviedo.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Oviedo.svg",
+      "source_sha256": "b78c2aba5ea94bab7c7fa6ec8ebaebcdf0937b01bdb2f871e9086d65374ad875",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100095.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100095-victory.png",
+      "background_rgb": [
+        255,
+        235,
+        97
+      ],
+      "flag_sha256": "6d230993ac80bf937be9429637dd8f5fc59b9f6db5473e24ef67b66844b6a245",
+      "victory_sha256": "23bca6d624f06510e6b7b44d031f1898035a7a4008acc75d209cbfb9c35d59b4"
+    },
+    {
+      "id": 1884500100096,
+      "source_path": "logos/spain/Amorebieta.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Amorebieta.svg",
+      "source_sha256": "a36b0564557f770d765c8882a557fc3e1c974b17176ddfb203ee80ad4ac736f6",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100096.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100096-victory.png",
+      "background_rgb": [
+        97,
+        136,
+        215
+      ],
+      "flag_sha256": "37c61baf9bad2ef0335f2aa57674d55655cd6cb3b010196bbbc26efcd686607c",
+      "victory_sha256": "b51f9096bc125763def20ac0a7c99505b1a35e5bc71e2920dbfd89abfe6beced"
+    },
+    {
+      "id": 1884500100097,
+      "source_path": "logos/spain/SD_Compostela.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/SD_Compostela.svg",
+      "source_sha256": "8330d9274336d816dbd70c3d1d578f109b3999cf21a6a0dd56a55a7ee75c7e49",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100097.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100097-victory.png",
+      "background_rgb": [
+        255,
+        215,
+        97
+      ],
+      "flag_sha256": "3083465fd4125eb9d7b31d221fa59edb0405fb3b9269c682ad6a330df146d99e",
+      "victory_sha256": "6affe1703633cbd97c97256ab58cd02c5f077caf6c810498a5ff4752cab2853b"
+    },
+    {
+      "id": 1884500100098,
+      "source_path": "logos/spain/SD_Gernika.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/SD_Gernika.svg",
+      "source_sha256": "c2c7afd2c4036277c3880f563ea00984a3b085b6f74621e84e7a009d94d9b970",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100098.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100098-victory.png",
+      "background_rgb": [
+        176,
+        235,
+        116
+      ],
+      "flag_sha256": "1e1414dc390bf1aa944e383be796dcb28e1931223e00bc6748984a1ae9508db0",
+      "victory_sha256": "fec1529f624b1f909293038273bcb145b81b908532c778cedd661e755078a0c5"
+    },
+    {
+      "id": 1884500100099,
+      "source_path": "logos/spain/Sestao_River.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Sestao_River.svg",
+      "source_sha256": "8f6369d5ddbe7ca2a0afbf9b4870723e0eb6d4ccee9af711537c583a97c5d9aa",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100099.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100099-victory.png",
+      "background_rgb": [
+        116,
+        156,
+        116
+      ],
+      "flag_sha256": "5ae3ea43fe36336d1059d83dc8fe6652adc4c0cbe4cf742a582608ff63d58451",
+      "victory_sha256": "7379a0953b6e9f6465cba292f951d64c10690b7720fafd9c2e76629a11a3ca7b"
+    },
+    {
+      "id": 1884500100100,
+      "source_path": "logos/spain/UD_Llanera.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/UD_Llanera.svg",
+      "source_sha256": "ca46ebbb514e3a9a52de6c017c0ac081a336d887b3b6b693da36a1adcd148ecf",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100100.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100100-victory.png",
+      "background_rgb": [
+        97,
+        156,
+        215
+      ],
+      "flag_sha256": "36bb324f707b68283f123f7db8e6a7249a3b2f3e607b036898c2076fcf92c532",
+      "victory_sha256": "885a7223e378142a851ea223186dffce2164ca891d1bdbb4ef50768f17320755"
+    },
+    {
+      "id": 1884500100101,
+      "source_path": "logos/spain/Arnedo.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Arnedo.svg",
+      "source_sha256": "e1595be30da4727b438c675300d7b6dac382e32d01053fad34f327da0df6f559",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100101.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100101-victory.png",
+      "background_rgb": [
+        235,
+        116,
+        116
+      ],
+      "flag_sha256": "01d8110444d9ebfb6f5138a4e794ea89083d4a820f23265085ba32797f3c6efb",
+      "victory_sha256": "b6f1041cb40a27b0f4b99cbfd8a6ea7df2448c39d19a3b318fd161680c9f257c"
+    },
+    {
+      "id": 1884500100102,
+      "source_path": "logos/spain/Barbastro.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Barbastro.svg",
+      "source_sha256": "37ae955a4f90f973a4d0988d37dae4e9cc052374fa27f5903460829f13dfae8e",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100102.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100102-victory.png",
+      "background_rgb": [
+        235,
+        116,
+        97
+      ],
+      "flag_sha256": "7339a148c6e26e42efe475a28533a9314939fc02681df254376a3e6b9112fbb6",
+      "victory_sha256": "da8f5aabc0780f22d9b4aa1a7a2b0b7afb3dce9d3265cfddc231f0fc788ae6f6"
+    },
+    {
+      "id": 1884500100103,
+      "source_path": "logos/spain/Barcelona.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Barcelona.svg",
+      "source_sha256": "af65ab7d0636939f1574980e047e497a28d2140d7d02ef2e8ea989b8450376ca",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100103.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100103-victory.png",
+      "background_rgb": [
+        235,
+        215,
+        97
+      ],
+      "flag_sha256": "73509391dece083888f0e7454a458165104b8a333fb9ca5fc0defe757a504434",
+      "victory_sha256": "8ba3d3c546f57f673220e03b4d87e4ff1e73e4f40df7366dd29274fcbcee4767"
+    },
+    {
+      "id": 1884500100104,
+      "source_path": "logos/spain/CF_Calamocha.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/CF_Calamocha.svg",
+      "source_sha256": "3d93ea0f7a2f54524fc181b5878c2f9df1b4b770fe92645bfbc53ad30690e58f",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100104.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100104-victory.png",
+      "background_rgb": [
+        215,
+        116,
+        97
+      ],
+      "flag_sha256": "407050e56935d06bc766dcbdbc225b68a33816b175f004db9a8da395577b6251",
+      "victory_sha256": "1e0f6ed4a92274c1abe7089e4999191251108bd786cb7006fa7ccf4863a7d963"
+    },
+    {
+      "id": 1884500100105,
+      "source_path": "logos/spain/CD_Ebro.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/CD_Ebro.svg",
+      "source_sha256": "7b689a48b37ca29ef224e1abb7d0f3ac384cbe8d7bef5a758a6e344bd72596a8",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100105.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100105-victory.png",
+      "background_rgb": [
+        97,
+        156,
+        196
+      ],
+      "flag_sha256": "035db89a63019a99d3504d1477a5ca47493f1c3362c59678bcc43630d1d8bf38",
+      "victory_sha256": "f831d786b887c64282d016f5a2f585d6cf2308d184bbe4ae42664934c5200855"
+    },
+    {
+      "id": 1884500100106,
+      "source_path": "logos/spain/Manresa.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Manresa.svg",
+      "source_sha256": "2847434f1093a0913ba67b0fca5925f01246f876ae0c518cc32581b668fc8bac",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100106.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100106-victory.png",
+      "background_rgb": [
+        215,
+        116,
+        97
+      ],
+      "flag_sha256": "68084281aab8d54df375f6471c7595b5bc06ea05697ae357fdb4138e9f25d230",
+      "victory_sha256": "4500bc8415522b55d4dcba7db089fb3251407fa343ff0a7e4e3610a6a01c675c"
+    },
+    {
+      "id": 1884500100107,
+      "source_path": "logos/spain/Espanyol.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Espanyol.svg",
+      "source_sha256": "b194abb840881890202f2f3f2d2e934e384362eef25e3627b564a2fceb3d9c99",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100107.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100107-victory.png",
+      "background_rgb": [
+        235,
+        97,
+        97
+      ],
+      "flag_sha256": "91fefabce692df219084abbbe878388efb9b74e3cd7f46c4bed529984a5bcc5c",
+      "victory_sha256": "5502406984bc4b013e529c495162063a211e1d0b197d83b3b960dc725f678b1c"
+    },
+    {
+      "id": 1884500100108,
+      "source_path": "logos/spain/Girona.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Girona.svg",
+      "source_sha256": "13d230d35e24c59035cb54333b57dd0c279ae4eb9b1c5ba0552ed26182d330c5",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100108.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100108-victory.png",
+      "background_rgb": [
+        215,
+        97,
+        116
+      ],
+      "flag_sha256": "f1354b89487aa85e63589b8560046ae59a91a4611ddc7a9ce61f4f139418a297",
+      "victory_sha256": "91e2b3b62b4a671f485bc9f7d680590413e741a10b0c0d724aeb4f1a8eff4df3"
+    },
+    {
+      "id": 1884500100109,
+      "source_path": "logos/spain/Náxara_CD.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/N%C3%A1xara_CD.svg",
+      "source_sha256": "9a953325167797ac17ba589aead9518c5a56744b3adc73f1ac78e5b238fba395",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100109.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100109-victory.png",
+      "background_rgb": [
+        196,
+        215,
+        235
+      ],
+      "flag_sha256": "fded87004cfbff80bedbe2d3e6a782df03f8a611d27c3b3b9a44602e1083becf",
+      "victory_sha256": "5002d7d951e9c50a97417a5eb46dde4c72957aef01efa4004bc02f743123f8e5"
+    },
+    {
+      "id": 1884500100110,
+      "source_path": "logos/spain/Osasuna.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Osasuna.svg",
+      "source_sha256": "b896105b8ec10132de9d5cdc007338f2316cf9e5144abb8ecbc85cc38180e253",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100110.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100110-victory.png",
+      "background_rgb": [
+        196,
+        176,
+        116
+      ],
+      "flag_sha256": "1806fd7ff48603f48ee8ed9302b4c663948735acd97375667dbc9e821d33f595",
+      "victory_sha256": "25c3e4c3758ec76c8c78f652f8ac9d46128b9301c0887f7c246691cc40e1be48"
+    },
+    {
+      "id": 1884500100111,
+      "source_path": "logos/spain/Peña_Sport.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Pe%C3%B1a_Sport.svg",
+      "source_sha256": "070fe75c3920db7a67f160399c9e4bab108ef6f4ad7bd3aa29f8bbaff452654d",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100111.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100111-victory.png",
+      "background_rgb": [
+        235,
+        116,
+        97
+      ],
+      "flag_sha256": "53620547930a1c28ffb5df2b4037f508d8ea112b8598fe7d5c7679f139dc78f3",
+      "victory_sha256": "efd190f36ba8da8c3348f2e4373610bebab6329bd729843417c0445c803dd639"
+    },
+    {
+      "id": 1884500100112,
+      "source_path": "logos/spain/Reus_FC_Reddis.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Reus_FC_Reddis.svg",
+      "source_sha256": "b6eb6697cd03083d6ab2d2701a6a73c8a57b9191e20749d10be467c07a5dbdaa",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100112.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100112-victory.png",
+      "background_rgb": [
+        235,
+        97,
+        97
+      ],
+      "flag_sha256": "2c6ddac8cad6d12c3f9561f85ede450e3f0445ecb54ba43b83477c1654f7498a",
+      "victory_sha256": "0885c0ec88d532b87c3fa7ea7d4c77ddc6db9fd7de7e9461042b45608bf7954e"
+    },
+    {
+      "id": 1884500100113,
+      "source_path": "logos/spain/SD_Logroñés.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/SD_Logro%C3%B1%C3%A9s.svg",
+      "source_sha256": "a985f39d298a3fb6092c60900250607ef17cbb1dca74304fa8e77098f4f167b6",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100113.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100113-victory.png",
+      "background_rgb": [
+        215,
+        97,
+        97
+      ],
+      "flag_sha256": "9148e82ef982c9945163cd107b97b9f6bb174ef26f550cfb65b23aa1770a34c5",
+      "victory_sha256": "a45caf917b2bcc7b49466928987c6948ba1b2d79807f957ad21dc4edcbffbd7f"
+    },
+    {
+      "id": 1884500100114,
+      "source_path": "logos/spain/Terrassa.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Terrassa.svg",
+      "source_sha256": "152748c0b3957b03cce69ce6c84c64fc9978fc3388ccc3564b18f021f1243d13",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100114.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100114-victory.png",
+      "background_rgb": [
+        215,
+        116,
+        116
+      ],
+      "flag_sha256": "d0eb24e900179e232d61dad66ec585d8573d155fb8d3de1c0c7ed8306ee12968",
+      "victory_sha256": "f5b69a02f732d4c686336c7e72eca9cee9b63160af96e19ed3678d8bf36ea858"
+    },
+    {
+      "id": 1884500100115,
+      "source_path": "logos/spain/CD_Tudelano.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/CD_Tudelano.svg",
+      "source_sha256": "55d985d5764dbc8b626ec333909a4da12e8ca9a652b77b3eccf8c3095a5ef9d2",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100115.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100115-victory.png",
+      "background_rgb": [
+        255,
+        215,
+        116
+      ],
+      "flag_sha256": "9a18b5eed648e7954bfc1d4a86029824535a3d1af94490271ea4c5df34b479af",
+      "victory_sha256": "c2b0f98113614ea8548d234ad40577130ab487fe40a8dc8ad1471e019fafaa7e"
+    },
+    {
+      "id": 1884500100116,
+      "source_path": "logos/spain/UD_Logroñés.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/UD_Logro%C3%B1%C3%A9s.svg",
+      "source_sha256": "96e04f16301fb67192273199a787d244fd1390a08893a820fdc81d867963f7d8",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100116.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100116-victory.png",
+      "background_rgb": [
+        215,
+        97,
+        97
+      ],
+      "flag_sha256": "4bcff69414767a2797849a23bf01fa0e8a609c27330f9383d718f24b87619a2e",
+      "victory_sha256": "87da03b742d5a8924109a454af20b2878c9d788a421847efc66b3c81a550323b"
+    },
+    {
+      "id": 1884500100117,
+      "source_path": "logos/spain/Olot.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Olot.svg",
+      "source_sha256": "40ca0ff0c21a4873cd98a6ac9211fce0f86fad632bea93445778e177d3233e1f",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100117.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100117-victory.png",
+      "background_rgb": [
+        255,
+        116,
+        116
+      ],
+      "flag_sha256": "0e54a13acd06b55b28605b2e0f7b952744c9610cafa8142e872b7b9bbcfbc17a",
+      "victory_sha256": "ff86720a1718190c7e9bd822886a4981097d08de5d6abfb9f46cc7190b47a027"
+    },
+    {
+      "id": 1884500100118,
+      "source_path": "logos/spain/Utebo.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Utebo.svg",
+      "source_sha256": "ffa152a2e306cca5fe7f7b73c2da7f3feef2c0e44fbc1f055e07dc418b48a82e",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100118.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100118-victory.png",
+      "background_rgb": [
+        116,
+        116,
+        176
+      ],
+      "flag_sha256": "6f5d696569f55c464d4e3e40a887556a47e2adba546a9ce3913005cf868ce860",
+      "victory_sha256": "c0e43bb80bbd6d202c968a8dff14d0231b3d11670ae6bb9a875f10c70e3e452b"
+    },
+    {
+      "id": 1884500100119,
+      "source_path": "logos/spain/Alcoyano.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Alcoyano.svg",
+      "source_sha256": "7651e8a329066a43784e56684b950e6142fd51000ae9cca3bca21f2775190d75",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100119.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100119-victory.png",
+      "background_rgb": [
+        97,
+        136,
+        196
+      ],
+      "flag_sha256": "dd3817dc583976403e6e34ca4a26f4f33035d2fef4c9802c5a36b51a063a1b02",
+      "victory_sha256": "28989d0068733ef11d6028532100ba839fdc5ef6216a3b9221612bddf1dec8f5"
+    },
+    {
+      "id": 1884500100120,
+      "source_path": "logos/spain/Atlético_Baleares.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Atl%C3%A9tico_Baleares.svg",
+      "source_sha256": "0b9cd62d61c2cb024d356dfcb61dfe7c9ba7cb45ac143609b9bd675c30e10ee4",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100120.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100120-victory.png",
+      "background_rgb": [
+        97,
+        116,
+        136
+      ],
+      "flag_sha256": "7c46ca6b6258a93c412e23bc5d6a96e3ca8d910297c499a457428d41fcbb16b4",
+      "victory_sha256": "d4d0059380e7343224329a58a40d09e258eef53ece601b6ba03e45892cb1ae66"
+    },
+    {
+      "id": 1884500100121,
+      "source_path": "logos/spain/CD_Cieza.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/CD_Cieza.svg",
+      "source_sha256": "0fecfba1810f915f50e827641297fc6dfa1f128fb7096372dcf30a277bdc740b",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100121.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100121-victory.png",
+      "background_rgb": [
+        215,
+        97,
+        97
+      ],
+      "flag_sha256": "cfb7cd7935c8e9476a311bea6d353f15469078616913c6230d3f2d3f6a8e17da",
+      "victory_sha256": "4d6afe7a3f3cf00e31fa03ae04fe8645adeb09867f422b59577338708c966333"
+    },
+    {
+      "id": 1884500100122,
+      "source_path": "logos/spain/CF_Intercity.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/CF_Intercity.svg",
+      "source_sha256": "4f07046ab73e2a6d60458fcf2e95ba4e2dbc18e044d82a58c86c6af9a215e2d5",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100122.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100122-victory.png",
+      "background_rgb": [
+        196,
+        196,
+        156
+      ],
+      "flag_sha256": "6291b1b924ada4ec2ef1a284ec8f1b9c770e324f1e3a3a02f25765fd253401d6",
+      "victory_sha256": "24371dbeac89db687c628ebec30088324066f87bfe2e3046608b0ae542a799a0"
+    },
+    {
+      "id": 1884500100123,
+      "source_path": "logos/spain/La_Nucía.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/La_Nuc%C3%ADa.svg",
+      "source_sha256": "9cba9dd9812bd09f3986e774d8a9a362a2b6b20b872473941e32b69abbcedfa7",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100123.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100123-victory.png",
+      "background_rgb": [
+        235,
+        116,
+        116
+      ],
+      "flag_sha256": "8e40d5c735f276506cb24fb677e3bf1f1bf6ff912e1c8537e87218a1fc2dc835",
+      "victory_sha256": "77ceb7d8a63558c92a5da5585f651685073790fefb0f7de290cd627fd5f9a595"
+    },
+    {
+      "id": 1884500100124,
+      "source_path": "logos/spain/Deportiva_Minera.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Deportiva_Minera.svg",
+      "source_sha256": "012300bcd0b5ef796c40ca607c26bd1956a2bdef2e1a6d2bedf696f22972d8e9",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100124.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100124-victory.png",
+      "background_rgb": [
+        235,
+        97,
+        97
+      ],
+      "flag_sha256": "4e2fd8dc34e8bc0d8923f62fca20bc126cc4ec7ac27eba6c6d358de58f979371",
+      "victory_sha256": "38415883a819ecac486dab0851620fd6617dc1c83822ca29fc32e0de7ed6ff85"
+    },
+    {
+      "id": 1884500100125,
+      "source_path": "logos/spain/Elche.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Elche.svg",
+      "source_sha256": "a05717f464852036b2962c51f229d6a466b554703712a8369de3983a9ee1abdc",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100125.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100125-victory.png",
+      "background_rgb": [
+        235,
+        215,
+        156
+      ],
+      "flag_sha256": "9b3a2cf4d4eb2d56bbda3c6a76ce3462e3ab82751f19c7cb5d9bca72bae8eaad",
+      "victory_sha256": "71fe12538aa0d9d10d1719efff711c797427ca1c187769aad731a03b0d6b1ded"
+    },
+    {
+      "id": 1884500100126,
+      "source_path": "logos/spain/Lorca_Deportiva.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Lorca_Deportiva.svg",
+      "source_sha256": "a9130dbc72e384fc6979e9c4cec9688fd399fc15168a10e89defe662fb9f49c9",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100126.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100126-victory.png",
+      "background_rgb": [
+        116,
+        196,
+        235
+      ],
+      "flag_sha256": "9bf6b74f13a4d48cf227f1de77f01b3163c420ae788dd4bd81b088ef11d6b1bc",
+      "victory_sha256": "a01664e3896d49884ad2605904f17f1c8412dbc8c2465c6fafb170c889821455"
+    },
+    {
+      "id": 1884500100127,
+      "source_path": "logos/spain/Mallorca.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Mallorca.svg",
+      "source_sha256": "db68b1d862b8213d71c8e8d6add8732d51083d5d55bc1e19e4ec1eb24852ef9d",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100127.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100127-victory.png",
+      "background_rgb": [
+        235,
+        97,
+        97
+      ],
+      "flag_sha256": "37f0790e0e5ce86cfc12b89a0b173c763621aa87487c24cde1b5ac531069463f",
+      "victory_sha256": "f4677a191ff31ce85e243ebafbe604a888abf4a199e0a3dc00b2cc96c81f96d3"
+    },
+    {
+      "id": 1884500100128,
+      "source_path": "logos/spain/Orihuela_CF.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Orihuela_CF.svg",
+      "source_sha256": "b9fb39e723473ec038e7b16c121c43d0052124c0358d5a65d18ac336c6b9c8f0",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100128.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100128-victory.png",
+      "background_rgb": [
+        97,
+        116,
+        215
+      ],
+      "flag_sha256": "18a25b0728e314b735cde31518da68e88a023ef0d9b87da9e0dc450636e78af8",
+      "victory_sha256": "9834bc8e826ede4a83a1e564c6cc8febf4a255da6e52f93fbd240329684d5576"
+    },
+    {
+      "id": 1884500100129,
+      "source_path": "logos/spain/Peña_Deportiva.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Pe%C3%B1a_Deportiva.svg",
+      "source_sha256": "903286706c7dc19577fad92aa2edc0895e0ef6015cb6da3d83a715e8cb0dff42",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100129.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100129-victory.png",
+      "background_rgb": [
+        255,
+        235,
+        196
+      ],
+      "flag_sha256": "9dd17fe4d97c4eb97b2b2235e10cdedc02f7d04d0646496c64ade6cf61580786",
+      "victory_sha256": "e52a564da07b1c78e6c80709be514967e9a3dcde40df009a9654e6cd8cb10422"
+    },
+    {
+      "id": 1884500100130,
+      "source_path": "logos/spain/Poblense.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Poblense.svg",
+      "source_sha256": "659c577abe470dc2ab8e6e7fd1f0a054e826330d8d42fc02813c20893217e66f",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100130.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100130-victory.png",
+      "background_rgb": [
+        97,
+        97,
+        176
+      ],
+      "flag_sha256": "68bc79907a9b3e0e1e261d301646aad287d1c622769840a9813b2231539582b5",
+      "victory_sha256": "e619cb23d2c8ec4055e3d1d289ca1f24317f45950086ec5b20aeb7f8f1417c71"
+    },
+    {
+      "id": 1884500100131,
+      "source_path": "logos/spain/Real_Murcia.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Real_Murcia.svg",
+      "source_sha256": "b96b41922c86f287f79f4275e7c5b865cb9337435d2cda90d73195d99d01581c",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100131.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100131-victory.png",
+      "background_rgb": [
+        235,
+        196,
+        116
+      ],
+      "flag_sha256": "28f0b43b337cb8d3313ac76e4d81247772674fb43c478bf62d3f1e5b8284724d",
+      "victory_sha256": "c369a938b3bc8dce4c1af8afee3c18eaacadec4f645884a6d2c5fcec64152b6d"
+    },
+    {
+      "id": 1884500100132,
+      "source_path": "logos/spain/Castellón.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Castell%C3%B3n.svg",
+      "source_sha256": "3e89ee8ef0b1e8a5f3eda61be73454de8c8657d567f1d0a6ff330643078c09f1",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100132.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100132-victory.png",
+      "background_rgb": [
+        215,
+        116,
+        116
+      ],
+      "flag_sha256": "25b00cf27bd8263cae56c17c195140bed92e1fdeeca75b1b2f5a10144be7c3f8",
+      "victory_sha256": "34d1698be57c469b0294cd89413a070e2b4503067e15bb651f3dd901da91f47b"
+    },
+    {
+      "id": 1884500100133,
+      "source_path": "logos/spain/UCAM_Murcia.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/UCAM_Murcia.svg",
+      "source_sha256": "0202c6dd968c366c414f27be4f6f0eab1023afec2b78f15f72d41775e24a155b",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100133.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100133-victory.png",
+      "background_rgb": [
+        235,
+        235,
+        136
+      ],
+      "flag_sha256": "b20d3f472d4f4ee2750b6346a4b2d58de948806f018b773473030a592ab74d49",
+      "victory_sha256": "362e1c44b85916882611e8f48871bd2fa4cf4ee7dbc228bd0ecd1df34b22d3af"
+    },
+    {
+      "id": 1884500100134,
+      "source_path": "logos/spain/Castellonense.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Castellonense.svg",
+      "source_sha256": "3db73045cb5c0979ae3c01fffea32cbb64c9dd22c8e67ea6b33528bb88cdff5c",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100134.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100134-victory.png",
+      "background_rgb": [
+        255,
+        215,
+        97
+      ],
+      "flag_sha256": "478347836cf3ad3ab4d51210aee6830150e4647b8a955387b8e36276fd36e0d8",
+      "victory_sha256": "a952014db0672c44367ebb962fc561b6f2d69fbd01250e264d966159a6cffa87"
+    },
+    {
+      "id": 1884500100135,
+      "source_path": "logos/spain/Valencia.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Valencia.svg",
+      "source_sha256": "ea32c0c0e2891020677082e9b25ac33808d97eb1d85a8f4ea8a81323e50aa85d",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100135.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100135-victory.png",
+      "background_rgb": [
+        255,
+        235,
+        116
+      ],
+      "flag_sha256": "dc81ddbbc5ddce33fd4ae9d33144aa8d4186fb6b4dff9b1ed17e7f727ac44101",
+      "victory_sha256": "87914e48d9cc625aeb8e27efc45164d4bee2ef3f9d94931b1062797fa2407036"
+    },
+    {
+      "id": 1884500100136,
+      "source_path": "logos/spain/Yeclano.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Yeclano.svg",
+      "source_sha256": "85a48b2109c284d2ac53d9b5108e9c89e634e7d4f554c08e4a2aee2fdf394c55",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100136.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100136-victory.png",
+      "background_rgb": [
+        255,
+        235,
+        116
+      ],
+      "flag_sha256": "1b3dc4dc7520e652a06ddf81f0f48377ab53a9c3f6cfbc5ff1ed30f423c4a111",
+      "victory_sha256": "835b516af4c3bbfddfa1f30c9f77689148176f1a8c9b968776f40e60b6f724b3"
+    },
+    {
+      "id": 1884500100137,
+      "source_path": "logos/spain/Atlético_Sanluqueño.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Atl%C3%A9tico_Sanluque%C3%B1o.svg",
+      "source_sha256": "c7d5a7c5fc222d25ef527f1affb4a012febd883af5d4ec38003287dc1e2a29ad",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100137.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100137-victory.png",
+      "background_rgb": [
+        215,
+        97,
+        116
+      ],
+      "flag_sha256": "18c0725b3d9043a646ad4cff595a93e50baf66a2196b811a814f0cc7b3de17c0",
+      "victory_sha256": "10e2a25ec9e6d1731172d3935ebe14949c6a8958acdb46ae6b92d372448aa8f0"
+    },
+    {
+      "id": 1884500100138,
+      "source_path": "logos/spain/Atlético_Antoniano.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Atl%C3%A9tico_Antoniano.svg",
+      "source_sha256": "d2fccdc1ad10b370e33c848ca3e490a1b05fcbad365c5a01b75ae3c2a8141c40",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100138.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100138-victory.png",
+      "background_rgb": [
+        156,
+        97,
+        97
+      ],
+      "flag_sha256": "cf214382e00a508f41385cf1c12d2fe88efdfa5f0dfa097b071a19f8e8107cf0",
+      "victory_sha256": "4688bf72829d03742daeef190edbc7fbd84071d954e681d1512e1fcbe40a0209"
+    },
+    {
+      "id": 1884500100139,
+      "source_path": "logos/spain/Real_Betis.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Real_Betis.svg",
+      "source_sha256": "299b7eaff6479143ecf0a1a82ccc630e1e8bd1fa29fac3f5884d5b30d4197c99",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100139.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100139-victory.png",
+      "background_rgb": [
+        97,
+        176,
+        136
+      ],
+      "flag_sha256": "823f86e4c0fae4c6fc8d973b2f2ca2e069dde30f060d287eaa4edf6a2b52fc68",
+      "victory_sha256": "979ef60aed5aa52eddb795e4bcd9fb9d378fb97e696864290d91748d82a71408"
+    },
+    {
+      "id": 1884500100140,
+      "source_path": "logos/spain/Puente_Genil.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Puente_Genil.svg",
+      "source_sha256": "5d1a04810a08f8633cb117f6d4246a23cfe95a712a9458ef8ed77f0911279367",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100140.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100140-victory.png",
+      "background_rgb": [
+        156,
+        97,
+        97
+      ],
+      "flag_sha256": "88804be93252ae7bb59d6786fe25ce4c4c52c77d381295ccb81356203dd3ecc8",
+      "victory_sha256": "5d7ca5d75b1476627c26b5874f54f865076fa05f8a2625720f8421c2cd801d96"
+    },
+    {
+      "id": 1884500100141,
+      "source_path": "logos/spain/CD_Badajoz.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/CD_Badajoz.svg",
+      "source_sha256": "a04197b8bc88a7ff907b8c9c8c14ed79e9305f2e5b4e746247b9995b01021037",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100141.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100141-victory.png",
+      "background_rgb": [
+        97,
+        97,
+        255
+      ],
+      "flag_sha256": "99b2ce9faecdcf2ed8044abe9f54a52137bef0aad6873675668f82c7131358c8",
+      "victory_sha256": "81b785e1f09070a4fd6f60420f7775a2b5ae26a37d6d777a508f3472d027497b"
+    },
+    {
+      "id": 1884500100142,
+      "source_path": "logos/spain/CD_Don_Benito.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/CD_Don_Benito.svg",
+      "source_sha256": "f932d372c61ffcc7dab7a612e6c9ffddcced162ed3e50756e857c6c8db7704e0",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100142.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100142-victory.png",
+      "background_rgb": [
+        97,
+        136,
+        235
+      ],
+      "flag_sha256": "7e2487cb93e87f86fd5290ac7526faf5d917e1853d8502def979c0d536de97fe",
+      "victory_sha256": "082ffea2431b8fadc3a4b5c1420a561d3a9fe8c60f51ebff3e8718face9c5acb"
+    },
+    {
+      "id": 1884500100143,
+      "source_path": "logos/spain/CD_Estepona.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/CD_Estepona.svg",
+      "source_sha256": "7ae22e2156a1efd211dfc3e36f68b7e7f9099f168b89c2cda2f5ee12f3259486",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100143.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100143-victory.png",
+      "background_rgb": [
+        97,
+        156,
+        196
+      ],
+      "flag_sha256": "c72441292422f939a3425933ed7c47ecbba6b7d3bea297f990d2ef8cd455e523",
+      "victory_sha256": "d30ddd051c555ffa812f4e5dd54d833e6720217759a00387ad53aa03b1be0cc1"
+    },
+    {
+      "id": 1884500100144,
+      "source_path": "logos/spain/CD_Ciudad_de_Lucena.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/CD_Ciudad_de_Lucena.svg",
+      "source_sha256": "94e8d479bd16e79186da2acfe68120f0cacbf7057bbc81837aed3d51cf4b4fe4",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100144.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100144-victory.png",
+      "background_rgb": [
+        97,
+        176,
+        136
+      ],
+      "flag_sha256": "e53775113f977efba36ff22370fe77ada53324934c0089f9e68d3e5b10c2e17e",
+      "victory_sha256": "209c92313cab32638b3a44438adec83e2b04782f69780bc69167b68d2faa8c56"
+    },
+    {
+      "id": 1884500100145,
+      "source_path": "logos/spain/Atlético_Central.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Atl%C3%A9tico_Central.svg",
+      "source_sha256": "ade9aee8ea99ff74189e09c46c0795ee72c869092f5961ca0493f17548abff21",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100145.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100145-victory.png",
+      "background_rgb": [
+        255,
+        176,
+        97
+      ],
+      "flag_sha256": "0db2647cbf0d8a4de0bf70d18b4b747b6abd9fc23aaf0d15bc8484b37170d2f8",
+      "victory_sha256": "052500998ca0a31aa97f2b0e749af714af46bc866a44ceedc4412e0665691be8"
+    },
+    {
+      "id": 1884500100146,
+      "source_path": "logos/spain/Mijas-Las_Lagunas.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Mijas-Las_Lagunas.svg",
+      "source_sha256": "0bd201c5a59745d608c223867ed1ff7db9bb14dea509898f37b133f96e6f11d2",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100146.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100146-victory.png",
+      "background_rgb": [
+        97,
+        156,
+        215
+      ],
+      "flag_sha256": "d4646d4220490e3733901e4a173cc240c77f64bbc6a28d3c3e92df3c84c8dacd",
+      "victory_sha256": "de1f7525a64c65ebb710edd1c879a549b42872532ab1ba6d6112c0bc977994d5"
+    },
+    {
+      "id": 1884500100147,
+      "source_path": "logos/spain/Las_Palmas.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Las_Palmas.svg",
+      "source_sha256": "164c28adf3ec5c59fac49b751e789b859e0895a70db0c4efa9c9c02e91b4a1a9",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100147.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100147-victory.png",
+      "background_rgb": [
+        97,
+        136,
+        196
+      ],
+      "flag_sha256": "f4272b3bb25804b6adfb3f49775583258117d83398c1c6942b93d83203896e31",
+      "victory_sha256": "05b11351669dedd1714ae3bff1e19903f91cfffe46fb1b90942993f706a3a395"
+    },
+    {
+      "id": 1884500100148,
+      "source_path": "logos/spain/Linares_Deportivo.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Linares_Deportivo.svg",
+      "source_sha256": "77b690a1288f69a14e6a9bc3534a4bdc1dab8819666f04d3d6736febf32b36ec",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100148.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100148-victory.png",
+      "background_rgb": [
+        255,
+        235,
+        196
+      ],
+      "flag_sha256": "dc39b64aca7bb23efdbe85546453f6058034e092b9d2b86633371b3639840998",
+      "victory_sha256": "1501d04b63bf7806cfb1935f70c544e256e889288152376ea64c4ed16e098ff6"
+    },
+    {
+      "id": 1884500100149,
+      "source_path": "logos/spain/UD_Marbella.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/UD_Marbella.svg",
+      "source_sha256": "3c8f0a0f30a21a86424a80abfe5779bcb40b157bc5c2ae1713a2cb83694caaa3",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100149.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100149-victory.png",
+      "background_rgb": [
+        97,
+        116,
+        136
+      ],
+      "flag_sha256": "68c07444dc2be4a91038e552544e0d6b5adb6bc3feba10291b4f8ffe0783b17b",
+      "victory_sha256": "f116732f9a468efffb5fcd1c3cfaac34b5c090458339017a1f96975ff534d838"
+    },
+    {
+      "id": 1884500100150,
+      "source_path": "logos/spain/Recreativo_de_Huelva.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Recreativo_de_Huelva.svg",
+      "source_sha256": "a1ed30b04ca787758e9531eb034b23fadc9403545c22164e3ba4a4525481c0da",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100150.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100150-victory.png",
+      "background_rgb": [
+        97,
+        116,
+        176
+      ],
+      "flag_sha256": "2a40fb56dd123fafe5241737d225967fcec58092be9fbba2072bd45e0ecd619c",
+      "victory_sha256": "ca1cc46c70f95a7ebf3c85c15dac6689c1acfb77f5e6927f13b0251a2b1fc4b9"
+    },
+    {
+      "id": 1884500100151,
+      "source_path": "logos/spain/Sevilla_Atletico.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Sevilla_Atletico.svg",
+      "source_sha256": "c525d55326c5cfc53df0c56f547f7b3c87016817bdba398c8a7ffe44f9e8f170",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100151.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100151-victory.png",
+      "background_rgb": [
+        235,
+        116,
+        116
+      ],
+      "flag_sha256": "77c2ce39d85c47d49985e0fb966ee059e159695dd4c8ae949cb5a744350c0030",
+      "victory_sha256": "4a8974899eaad45725ee59d87d25c1e75f10676f1f8b94802ee82acd5d968906"
+    },
+    {
+      "id": 1884500100152,
+      "source_path": "logos/spain/UD_Tamaraceite.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/UD_Tamaraceite.svg",
+      "source_sha256": "3d2781c05a992c87753b0d10b43d77b469f16ea73f82b50e7bcf6d28f939a2c3",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100152.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100152-victory.png",
+      "background_rgb": [
+        116,
+        97,
+        176
+      ],
+      "flag_sha256": "b9d37fa040d81139cc0b634074b40577a4157c8aad6bc214004b805cfca17a96",
+      "victory_sha256": "0606d0ffbe1556a2ed586cb1b3d50f6c376170588800dd26fe8fb64e850129e4"
+    },
+    {
+      "id": 1884500100153,
+      "source_path": "logos/spain/Tenerife.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Tenerife.svg",
+      "source_sha256": "0b08a96e2d116e8b0ce2f1747ee0801fcb44e59b4a5bcb0406792ee04626a5df",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100153.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100153-victory.png",
+      "background_rgb": [
+        116,
+        116,
+        196
+      ],
+      "flag_sha256": "1a2b5b4d4ed87c2dcc2aec0e606c599ac46fc2fb038fa71a95ca8dbf092ffd93",
+      "victory_sha256": "b4ff55843e6c9324d83ee3bb5915b75034c0e0be20a1c15f8f33aeac364eb239"
+    },
+    {
+      "id": 1884500100154,
+      "source_path": "logos/spain/Xerez_CD.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Xerez_CD.svg",
+      "source_sha256": "b075996fdbc6b6b68dfec4022ed4634da6f85c780371ca3ea93fc64f8731f6e0",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100154.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100154-victory.png",
+      "background_rgb": [
+        97,
+        176,
+        215
+      ],
+      "flag_sha256": "b6d057dbb3e4cdf3faeca19b7f4ccf3a2644f6d8ae24d1494eff9377bd03caf3",
+      "victory_sha256": "cda21bc058406da1308610a8182f024396a21c804ea8ab05d73128a91df5caf1"
+    },
+    {
+      "id": 1884500100155,
+      "source_path": "logos/spain/Albacete.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Albacete.svg",
+      "source_sha256": "1bcc6c7b94134a26f1f006088aa95c0feea114d35eac5633b4360de3efa03ba4",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100155.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100155-victory.png",
+      "background_rgb": [
+        196,
+        97,
+        116
+      ],
+      "flag_sha256": "927e08954d05239e49ee758dfc256b7aec79572ad646a94efab4cb1445f71241",
+      "victory_sha256": "e8501fbfd53b6366d3c64ce427c811628ec4162899842376a677ccab3bf71764"
+    },
+    {
+      "id": 1884500100156,
+      "source_path": "logos/spain/Atletico_Madrid.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Atletico_Madrid.svg",
+      "source_sha256": "9c8c77476ac539d8a627026f71739fa9551ddc962b8d763bff4e35c113670c48",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100156.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100156-victory.png",
+      "background_rgb": [
+        116,
+        116,
+        156
+      ],
+      "flag_sha256": "08c7b3a6f2f73e12bc0d81f972d3a7b67e1d8aee38694534f6efc93c54d3e134",
+      "victory_sha256": "a9541dff31a534f217aae56a3b9f52b2b0e7a231809543ae1c212bf8b592c3d1"
+    },
+    {
+      "id": 1884500100157,
+      "source_path": "logos/spain/Atlético_Tordesillas.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Atl%C3%A9tico_Tordesillas.svg",
+      "source_sha256": "893213208196b616c83556a4a119eb4f7db9940ac0b2aaf7f1fa7b1cb33c10e5",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100157.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100157-victory.png",
+      "background_rgb": [
+        255,
+        215,
+        97
+      ],
+      "flag_sha256": "569658c36116cbbe75d16e25473962b1c8d25b614817394058335af6bece4993",
+      "victory_sha256": "8a4024ff048e5caa312ce744d53e1ddf86bd10952f11c5b78bad2e8f5a3ba1e1"
+    },
+    {
+      "id": 1884500100158,
+      "source_path": "logos/spain/CD_Atlético_Paso.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/CD_Atl%C3%A9tico_Paso.svg",
+      "source_sha256": "b8353b9888e3a46689f6e35535bdb1c38b798107e3fe90c0e959baa11d87f3e7",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100158.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100158-victory.png",
+      "background_rgb": [
+        97,
+        176,
+        136
+      ],
+      "flag_sha256": "e9b0661c9a962a447e8ab5ad4d4bba70326c45479ba90b2129da3a610427df9d",
+      "victory_sha256": "e65317b23ba4115c94be54a811704b4043c8f63322305baf84e12d2c9c385ff6"
+    },
+    {
+      "id": 1884500100159,
+      "source_path": "logos/spain/CD_Guadalajara.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/CD_Guadalajara.svg",
+      "source_sha256": "6e2b648e7e297b9f66582f1774f299e57504d0ed63d53acfdc3ab68bcd56d591",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100159.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100159-victory.png",
+      "background_rgb": [
+        136,
+        116,
+        196
+      ],
+      "flag_sha256": "b2e8a76361c521e4e4c86f2e2eecb0c70b996f992e3fa1412fe3857c60959aeb",
+      "victory_sha256": "70560207fdd42239a2eef17bef8ab24600baf5143ff39ab15170d9d4a04176b9"
+    },
+    {
+      "id": 1884500100160,
+      "source_path": "logos/spain/CDA_Navalcarnero.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/CDA_Navalcarnero.svg",
+      "source_sha256": "b05f5a36c145011001e4889cc24f22fcf29a8c7015176fb641dae650561a7223",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100160.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100160-victory.png",
+      "background_rgb": [
+        136,
+        136,
+        196
+      ],
+      "flag_sha256": "13f0cb0cc9b3b724778f525b41ceaa0a84f3df6b72f195d7b05253cd93e6c245",
+      "victory_sha256": "8e741cdb0954ba12d7b936a436d929b7f382349636b7bba82d9556247f9c4c61"
+    },
+    {
+      "id": 1884500100161,
+      "source_path": "logos/spain/CF_Talavera_de_la_Reina.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/CF_Talavera_de_la_Reina.svg",
+      "source_sha256": "f98a1f2410b8a6b2987f2c0f1bb1a911a1d49c5c1a85c8de1e833941e90a4ba3",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100161.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100161-victory.png",
+      "background_rgb": [
+        97,
+        215,
+        235
+      ],
+      "flag_sha256": "4ee9af2b3794b10feef5fc88db554e6b8d167d239b7914e8ce4925b0e3b89b12",
+      "victory_sha256": "b5ed4d6c0f2c98539990eddafa685e2104d6dddd5f3c05df3c6a1d9fdd785f07"
+    },
+    {
+      "id": 1884500100162,
+      "source_path": "logos/spain/Calvo_Sotelo_Puertollano_CF.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Calvo_Sotelo_Puertollano_CF.svg",
+      "source_sha256": "fd4c4229deed55ff9e87329d3873db541d16ebaf0eb8a67645b78ddc779fb0ed",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100162.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100162-victory.png",
+      "background_rgb": [
+        97,
+        97,
+        156
+      ],
+      "flag_sha256": "8ee5d42736117078598ae787ed149aafc2da55e673a0a730022c42f19851262f",
+      "victory_sha256": "41cb0339539fa2499cc951fd1ef0ee8704bcf91d46b1ba164aaf19ff6c04249d"
+    },
+    {
+      "id": 1884500100163,
+      "source_path": "logos/spain/Getafe.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Getafe.svg",
+      "source_sha256": "3f6c57e80241d3c599642b94c360c1335ee5725b2689af5db787c3e68cb12baa",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100163.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100163-victory.png",
+      "background_rgb": [
+        97,
+        176,
+        215
+      ],
+      "flag_sha256": "3fbf1aef2d96244dbe61e3adf28bb15712503f9de908f450b17551ccac59c5d7",
+      "victory_sha256": "c384231fbbc5f9a5a037c0bf51024fd8613d38adda31b2f582bca768ef340045"
+    },
+    {
+      "id": 1884500100164,
+      "source_path": "logos/spain/Gimnástica_Segoviana.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Gimn%C3%A1stica_Segoviana.svg",
+      "source_sha256": "c12a4765af567997063d51ee85c332dba5ac2c6728c481a212c57219ca0fe824",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100164.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100164-victory.png",
+      "background_rgb": [
+        97,
+        97,
+        156
+      ],
+      "flag_sha256": "8e60aa89a73d083e5b5a1446d63997d116cce31a80d76ae21d55c5a616683b90",
+      "victory_sha256": "651f39cc4bd22c6455d380f1efa9a06723752b11ec3f4011648a9f39d1bf0d19"
+    },
+    {
+      "id": 1884500100165,
+      "source_path": "logos/spain/Numancia.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Numancia.svg",
+      "source_sha256": "ede52d7dae8cd441e9689ea69a0bcc404d71e9c0222dd09411d281772828ebd2",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100165.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100165-victory.png",
+      "background_rgb": [
+        235,
+        97,
+        97
+      ],
+      "flag_sha256": "d6df9736e7872ce747ed7504eae0039aabdc3cb970e4ad2d6cac064c91d188c2",
+      "victory_sha256": "ea9aa5e7b72723ec8d459b38b20013f2c7a812a9096f83a5926b3c641f3b7d3d"
+    },
+    {
+      "id": 1884500100166,
+      "source_path": "logos/spain/Real_Ávila.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Real_%C3%81vila.svg",
+      "source_sha256": "f3747c566168b8c6ecfd445a9a697537e08baf76b29ed232fe7923efe6b36fbb",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100166.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100166-victory.png",
+      "background_rgb": [
+        116,
+        116,
+        136
+      ],
+      "flag_sha256": "3cc9027f998b27e0b3a90de8bcbd494cc28b5929e3e64e52ab9385c938a76dc7",
+      "victory_sha256": "e4079454fedc9b14dfce41aac1f941ef3da063fe7859cb4d1870937f34eb4108"
+    },
+    {
+      "id": 1884500100167,
+      "source_path": "logos/spain/Real_Madrid.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Real_Madrid.svg",
+      "source_sha256": "6e2f0c526a731e44a1d29c342006590c0baf5ae28a457f50ef3733dda5cc96c9",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100167.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100167-victory.png",
+      "background_rgb": [
+        255,
+        215,
+        97
+      ],
+      "flag_sha256": "33be4c9852f4fc75010f7b6e5abf0bc3e4916652ba9ad354ee45702a1b85c7fd",
+      "victory_sha256": "735b38a3a05abe38ae3fb97287e4a2de3a84599cd24b0f769be92813f8c71523"
+    },
+    {
+      "id": 1884500100168,
+      "source_path": "logos/spain/Real_Valladolid.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Real_Valladolid.svg",
+      "source_sha256": "ea90cbf22f547dcd52a3ac25a9f0a576b57f179b66240a700e8576683b7d38e4",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100168.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100168-victory.png",
+      "background_rgb": [
+        116,
+        156,
+        136
+      ],
+      "flag_sha256": "95a8125b52b506c1d8cc5f851f0ecba0f99311029facc839e58d85f891bec724",
+      "victory_sha256": "2af880e2e384675cd275e3e5ccb92810768ac75029ddb7bcbf1030a2418a6f3f"
+    },
+    {
+      "id": 1884500100169,
+      "source_path": "logos/spain/RSD_Alcalá.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/RSD_Alcal%C3%A1.svg",
+      "source_sha256": "4985909bac7d8dfc8a795ea7091c6f0a08291efcefb97e6629d0852e00727ca7",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100169.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100169-victory.png",
+      "background_rgb": [
+        235,
+        97,
+        97
+      ],
+      "flag_sha256": "3d6214a2bbecf74ff6c63458a7922e0fdc2652375e86780b8b3bd47f8158baa5",
+      "victory_sha256": "03ac2c80101ba1e4e69ac76bd73ca584c9f928fcccae9495d7b8d43e1f885b28"
+    },
+    {
+      "id": 1884500100170,
+      "source_path": "logos/spain/Salamanca_CF_UDS_B.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/Salamanca_CF_UDS_B.svg",
+      "source_sha256": "857982f0d707776fe428e50ca2fbc855b25bfae6cad3cd2eecd63d3e18e7e6b7",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100170.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100170-victory.png",
+      "background_rgb": [
+        235,
+        215,
+        176
+      ],
+      "flag_sha256": "348046c9377f3975085840ef3ba1269b749100c5206aa1a3ab0086e40d225b93",
+      "victory_sha256": "cbb7fe4398144e8ecb8fb762408aa5f6e9383d9aa54df76ed78fdc15060a3700"
+    },
+    {
+      "id": 1884500100171,
+      "source_path": "logos/spain/UB_Conquense.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/UB_Conquense.svg",
+      "source_sha256": "865926ec82bc429f2113236293b2f12e39edd45b0d024db1ba62fe430d77f2ee",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100171.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100171-victory.png",
+      "background_rgb": [
+        196,
+        176,
+        116
+      ],
+      "flag_sha256": "cab262d59403619dd01b76c18edb463bcfb725860b7921929b35656918ba2844",
+      "victory_sha256": "5da710379aef8e07ae71c9543bc0f272a830b65747cefc9de8fa4b1160ac04aa"
+    },
+    {
+      "id": 1884500100172,
+      "source_path": "logos/spain/UD_San_Sebastián_de_los_Reyes.svg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/spain/UD_San_Sebasti%C3%A1n_de_los_Reyes.svg",
+      "source_sha256": "5e47940bd84d7dbffa608d8d152fc655cca29eaae361b1daaafe36498bcb0905",
+      "flag_path": "docs/spanish-clubs-2026-27/v1/1884500100172.png",
+      "victory_flag_path": "docs/spanish-clubs-2026-27/v1/1884500100172-victory.png",
+      "background_rgb": [
+        215,
+        97,
+        97
+      ],
+      "flag_sha256": "5e177d62f3932ad9cccb6135941a7809f4a306b94f6a18fef3e4e0f89c8487cc",
+      "victory_sha256": "2cc5f65f726d1885f36d6c8f58f0d49226c5f4e66da7b340999652b73e965fb3"
+    }
+  ],
+  "upstream": "JoseArroyave/football-logos",
+  "rights_note": "Club emblems are third-party trademarks; used for personal simulator fan project.",
+  "source_handling": "Reserve teams may intentionally inherit the parent-club emblem; review before using as unique academy logo."
+}
