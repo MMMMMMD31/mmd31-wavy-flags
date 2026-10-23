@@ -4,6 +4,7 @@ on:
     branches: [mmd31-scotland-2627-v13-badges]
     paths:
       - .github/workflows/mmd31-scotland-v13-badges.yml
+      - scotland-2026-27-v13/generate_badges.py
   workflow_dispatch:
 permissions:
   contents: write
