@@ -56,7 +56,7 @@ for job in jobs:
       found.append(x)
    # only a single unambiguous actual club logo accepted
    found=list(dict.fromkeys(found))
-   logical=list(dict.fromkeys(re.sub(r"/(?:100|250|500|800)/uploads/", "/SIZE/uploads/", u) for u in found))
+   logical=list(dict.fromkeys(re.sub(r"/(?:100|250|500|800)/uploads/", "/SIZE/uploads/", re.sub(r"https://s\\d+\\.static-footeo\\.com", "https://static-footeo.com", u)) for u in found))
    if len(logical)!=1:raise ValueError("Multiple unrelated images "+str(found[:10]))
    url=next((u for u in found if "/250/" in u),found[0])
   data=build_png(get(url))
