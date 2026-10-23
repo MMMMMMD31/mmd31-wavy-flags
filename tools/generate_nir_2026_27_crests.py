@@ -17,11 +17,18 @@ def norm(s):
     for t in (" football club"," fc"," afc"):s=s.replace(t,"")
     return re.sub("[^a-z0-9]","",s.replace("&","and"))
 
-def download(url,timeout=19):
-    r=requests.get(url,timeout=timeout,headers={"User-Agent":"MMD31ClubCrestAudit/1.0"})
-    r.raise_for_status()
-    if not 200<len(r.content)<7000000:raise ValueError("Invalid image size")
-    return r.content
+def download(url,timeout=27):
+    last=None
+    for i in range(3):
+        try:
+            r=requests.get(url,timeout=timeout,headers={"User-Agent":"MMD31ClubCrestAudit/1.0"})
+            r.raise_for_status()
+            if not 200<len(r.content)<7000000:raise ValueError("Invalid image size")
+            return r.content
+        except requests.exceptions.Timeout as e:
+            last=e
+            time.sleep(i+1)
+    raise last
 
 def load(blob,url):
     if url.split("?")[0].lower().endswith(".svg"):
@@ -46,6 +53,12 @@ def source(c):
     if c.get("svg"):
         url="https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/northern-ireland/"+quote(c["svg"])
         return load(download(url),url),url,"public_svg"
+    if c["division"] in ("D4_MUFL","D5_MUFL"):
+        url="https://www.midulsterfootballleague.co.uk/img/badges/"+norm(c["name"])+".jpg"
+        try:
+            return load(download(url,timeout=12),url),url,"official_midulster_filename_candidate"
+        except Exception:
+            pass
     url="https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t="+quote(c["name"])
     data=json.loads(download(url,timeout=12))
     hits=[]

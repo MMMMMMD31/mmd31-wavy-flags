@@ -242,7 +242,8 @@
   {
     "id": 1900231300041,
     "name": "Comber Recreation",
-    "division": "D4_NAFL"
+    "division": "D4_NAFL",
+    "direct_url": "https://blackwatergraphics.com/cdn/shop/files/STICKER_9b44c532-fe0e-48d0-bc42-270171b75e3b_1200x1200.jpg?v=1733402567"
   },
   {
     "id": 1900231300042,
@@ -272,7 +273,8 @@
   {
     "id": 1900231300047,
     "name": "Crumlin Star",
-    "division": "D4_NAFL"
+    "division": "D4_NAFL",
+    "direct_url": "https://pbs.twimg.com/profile_images/860772527051821057/Z_csLyU0.jpg"
   },
   {
     "id": 1900231300048,
@@ -297,12 +299,14 @@
   {
     "id": 1900231300052,
     "name": "Abbey Villa",
-    "division": "D4_NAFL"
+    "division": "D4_NAFL",
+    "direct_url": "https://www.portavogierangers.com/uploads/1784176294773-8d9853ea.png"
   },
   {
     "id": 1900231300053,
     "name": "East Belfast",
-    "division": "D4_NAFL"
+    "division": "D4_NAFL",
+    "direct_url": "https://images.seeklogo.com/logo-png/63/1/east-belfast-fc-logo-png_seeklogo-634050.png"
   },
   {
     "id": 1900231300054,
@@ -312,7 +316,8 @@
   {
     "id": 1900231300055,
     "name": "Banbridge Rangers",
-    "division": "D4_MUFL"
+    "division": "D4_MUFL",
+    "direct_url": "https://www.europlan-online.de/files/afe5fabbecaca2895ff386a6ca15ca60.jpg"
   },
   {
     "id": 1900231300056,
@@ -332,7 +337,8 @@
   {
     "id": 1900231300059,
     "name": "Fivemiletown United",
-    "division": "D4_MUFL"
+    "division": "D4_MUFL",
+    "direct_url": "https://www.midulsterfootballleague.co.uk/img/badges/fivemiletownunited.jpg"
   },
   {
     "id": 1900231300060,
@@ -407,12 +413,14 @@
   {
     "id": 1900231300074,
     "name": "Donegal Celtic",
-    "division": "D4_BPFL"
+    "division": "D4_BPFL",
+    "direct_url": "https://images.seeklogo.com/logo-png/4/1/donegal-celtic-fc-logo-png_seeklogo-43065.png"
   },
   {
     "id": 1900231300075,
     "name": "Ballymoney United",
-    "division": "D4_BPFL"
+    "division": "D4_BPFL",
+    "direct_url": "https://images.seeklogo.com/logo-png/63/1/ballymoney-united-football-club-logo-png_seeklogo-634116.png"
   },
   {
     "id": 1900231300076,
@@ -422,7 +430,8 @@
   {
     "id": 1900231300077,
     "name": "Glebe Rangers",
-    "division": "D4_BPFL"
+    "division": "D4_BPFL",
+    "direct_url": "https://teams.ctsports.co.uk/cdn/shop/collections/Glebe_Rangers_Crest_PNG_1080x.png?v=1696152994"
   },
   {
     "id": 1900231300078,
@@ -487,7 +496,8 @@
   {
     "id": 1900231300090,
     "name": "Crumlin United",
-    "division": "D5_NAFL"
+    "division": "D5_NAFL",
+    "direct_url": "https://www.logotypes101.com/logos/544/EE230931FA99E01C1BD8C9B0A1550BC0/Crumlin_United_FC.png"
   },
   {
     "id": 1900231300091,
@@ -727,12 +737,14 @@
   {
     "id": 1900231300138,
     "name": "Chimney Corner",
-    "division": "D5_BPFL"
+    "division": "D5_BPFL",
+    "direct_url": "https://images.seeklogo.com/logo-png/63/1/chimney-corner-football-club-logo-png_seeklogo-634106.png"
   },
   {
     "id": 1900231300139,
     "name": "Brantwood",
-    "division": "D5_BPFL"
+    "division": "D5_BPFL",
+    "direct_url": "https://images.seeklogo.com/logo-png/63/1/brantwood-football-club-logo-png_seeklogo-634112.png"
   },
   {
     "id": 1900231300140,
@@ -747,6 +759,7 @@
   {
     "id": 1900231300142,
     "name": "Tobermore United",
-    "division": "D5_BPFL"
+    "division": "D5_BPFL",
+    "direct_url": "https://images.seeklogo.com/logo-png/14/1/tobermore-united-fc-logo-png_seeklogo-140553.png"
   }
 ]
