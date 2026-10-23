@@ -20,7 +20,7 @@ for title,url,terms in SITES:
    match=re.search(re.escape(term),raw,re.I)
    if match:
     snippets.append({"term":term,"context":raw[max(0,match.start()-1250):min(len(raw),match.end()+1300)]})
-  images=re.findall(r"<(?:img|meta|source)\\b[^>]+>",raw,re.I)
+  images=re.findall(r"<(?:img|meta|source)\b[^>]+>",raw,re.I)
   out.append({"title":title,"url":url,"status":r.status_code,"images_n":len(images),"head_html":raw[:500],"matches":snippets[:6],"images":images[:250]})
  except Exception as e:out.append({"title":title,"url":url,"error":str(e)})
 Path('docs/portugal-gibraltar-clubs-2026-27/v1/probe-alternative-sources.json').write_text(json.dumps(out,ensure_ascii=False,indent=2),encoding="utf-8")
