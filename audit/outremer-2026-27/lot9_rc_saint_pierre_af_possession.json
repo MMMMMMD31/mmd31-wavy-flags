@@ -3,7 +3,9 @@
     "id": "1990262000163",
     "name": "Af Possession",
     "source": "https://afpossession.footeo.com/",
-    "status": "not_verified",
-    "error": "Multiple unrelated images ['https://s2.static-footeo.com/100/uploads/afpossession/logo__76a9t25cl.png', 'https://s1.static-footeo.com/250/uploads/afpossession/logo__76a9t25cl.png']"
+    "status": "published",
+    "url": "https://s1.static-footeo.com/250/uploads/afpossession/logo__76a9t25cl.png",
+    "sha256": "56f77f24d199b009d6ac44bedbe1581a1061e7bf2525bf301f173608448fc5a1",
+    "bytes": 11841
   }
 ]
