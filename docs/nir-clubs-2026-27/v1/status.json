@@ -1,7 +1,7 @@
 {
-  "created": 141,
+  "created": 142,
   "expected": 142,
-  "missing_count": 1,
+  "missing_count": 0,
   "size": [
     120,
     96
@@ -949,7 +949,8 @@
         92
       ],
       "path": "docs/nir-clubs-2026-27/v1/1900231300059.png",
-      "sha256": "d3d2e517ca4865f87bd577eb647a7a8cd2ff3ab2d123a93d29217de13b11455e"
+      "sha256": "d3d2e517ca4865f87bd577eb647a7a8cd2ff3ab2d123a93d29217de13b11455e",
+      "preserved_existing": true
     },
     {
       "id": 1900231300060,
@@ -1044,7 +1045,8 @@
         92
       ],
       "path": "docs/nir-clubs-2026-27/v1/1900231300065.png",
-      "sha256": "9a002d9307157c7ec36d436ece0539d1b06100c49e4154f4608e23ae909a16c8"
+      "sha256": "9a002d9307157c7ec36d436ece0539d1b06100c49e4154f4608e23ae909a16c8",
+      "preserved_existing": true
     },
     {
       "id": 1900231300066,
@@ -1107,7 +1109,8 @@
         92
       ],
       "path": "docs/nir-clubs-2026-27/v1/1900231300069.png",
-      "sha256": "c6f95bcee10e6a2c8dfb807c82f71bbe34dc03c3bf1df854bcfe79e3e652aae2"
+      "sha256": "c6f95bcee10e6a2c8dfb807c82f71bbe34dc03c3bf1df854bcfe79e3e652aae2",
+      "preserved_existing": true
     },
     {
       "id": 1900231300070,
@@ -1122,7 +1125,8 @@
         201
       ],
       "path": "docs/nir-clubs-2026-27/v1/1900231300070.png",
-      "sha256": "1336bb5acc8b00b93235098d718d92fe3be264fe5cbb31c8d4d6f9830ec50d56"
+      "sha256": "1336bb5acc8b00b93235098d718d92fe3be264fe5cbb31c8d4d6f9830ec50d56",
+      "preserved_existing": true
     },
     {
       "id": 1900231300071,
@@ -1137,7 +1141,8 @@
         157
       ],
       "path": "docs/nir-clubs-2026-27/v1/1900231300071.png",
-      "sha256": "1fa0040f428e312392c36346d9a9442a73ea5194b811dca3ff7ddd2f596d327d"
+      "sha256": "1fa0040f428e312392c36346d9a9442a73ea5194b811dca3ff7ddd2f596d327d",
+      "preserved_existing": true
     },
     {
       "id": 1900231300072,
@@ -1152,7 +1157,8 @@
         136
       ],
       "path": "docs/nir-clubs-2026-27/v1/1900231300072.png",
-      "sha256": "a4b55d8521d2babc655857e2acbc420dc3f964d61411225acfd779f427ca827f"
+      "sha256": "a4b55d8521d2babc655857e2acbc420dc3f964d61411225acfd779f427ca827f",
+      "preserved_existing": true
     },
     {
       "id": 1900231300073,
@@ -1167,7 +1173,8 @@
         223
       ],
       "path": "docs/nir-clubs-2026-27/v1/1900231300073.png",
-      "sha256": "fa2390f3883d716136f96edc6eec8786e8ae84c6593db24ee9b2c027ab4cfef8"
+      "sha256": "fa2390f3883d716136f96edc6eec8786e8ae84c6593db24ee9b2c027ab4cfef8",
+      "preserved_existing": true
     },
     {
       "id": 1900231300074,
@@ -1214,7 +1221,8 @@
         114
       ],
       "path": "docs/nir-clubs-2026-27/v1/1900231300076.png",
-      "sha256": "349695b869c439673ffcf59409f5f780404dc2b5732285820b3c5422fbc71a0f"
+      "sha256": "349695b869c439673ffcf59409f5f780404dc2b5732285820b3c5422fbc71a0f",
+      "preserved_existing": true
     },
     {
       "id": 1900231300077,
@@ -2157,14 +2165,23 @@
         136
       ],
       "path": "docs/nir-clubs-2026-27/v1/1900231300135.png",
-      "sha256": "c60ff3bb3edac538bba41749e7f04cc23797e041c8cd395656a90789b60d3bcf"
+      "sha256": "c60ff3bb3edac538bba41749e7f04cc23797e041c8cd395656a90789b60d3bcf",
+      "preserved_existing": true
     },
     {
       "id": 1900231300136,
       "name": "Trojans YCG",
       "division": "D5_BPFL",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Trojans%20YCG"
+      "status": "created",
+      "source_url": "https://img-res.pitchero.com/?url=images.pitchero.com%2Fclub_logos%2F73051%2Fclublogo_58f3dcf90586c.png&bg=null&h=360&w=360&t=absolute&q=null",
+      "source_kind": "trojans_official_pitchero_club_badge",
+      "background_rgb": [
+        92,
+        92,
+        244
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300136.png",
+      "sha256": "f32b9996c2ab534c3ade521b3e48b9253d48bea6cd7328cfa10b812c6e0822fb"
     },
     {
       "id": 1900231300137,
@@ -2179,7 +2196,8 @@
         114
       ],
       "path": "docs/nir-clubs-2026-27/v1/1900231300137.png",
-      "sha256": "783048f8dd29f74969a62813af37a4b66c8f12c0f8cd79afb3071bebaa9b2e80"
+      "sha256": "783048f8dd29f74969a62813af37a4b66c8f12c0f8cd79afb3071bebaa9b2e80",
+      "preserved_existing": true
     },
     {
       "id": 1900231300138,
@@ -2226,7 +2244,8 @@
         223
       ],
       "path": "docs/nir-clubs-2026-27/v1/1900231300140.png",
-      "sha256": "64320d8efccbcbc445b9d45f85fc3696b8f752be38a6526399169b39c15f11b8"
+      "sha256": "64320d8efccbcbc445b9d45f85fc3696b8f752be38a6526399169b39c15f11b8",
+      "preserved_existing": true
     },
     {
       "id": 1900231300141,
@@ -2241,7 +2260,8 @@
         114
       ],
       "path": "docs/nir-clubs-2026-27/v1/1900231300141.png",
-      "sha256": "40e1666b9316c989518cb64e5d54e18c76b92a7636ea8db5703f8f20292e0336"
+      "sha256": "40e1666b9316c989518cb64e5d54e18c76b92a7636ea8db5703f8f20292e0336",
+      "preserved_existing": true
     },
     {
       "id": 1900231300142,
