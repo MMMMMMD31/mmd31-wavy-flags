@@ -22,7 +22,7 @@ ALIASES={
 "6|Atlético Saguntino":"Saguntino",
 "8|Atlético Bembibre":"Bembibre",
 "9|Atlético Malagueño":"At. Malagueño",
-"9|Atlético Marbella":"AD Atletico de Marbella",
+"9|Atlético Marbella":"ADAtletico de Marbella",
 "9|Atlético Mancha Real":"Mancha Real",
 "16|Haro":"Haro Deportivo",
 "2|Sporting Atlético":"Sporting Gijón B",
@@ -39,7 +39,8 @@ ALIASES={
 "10|Atlético Onubense":"Atl. Onubense","10|Cádiz Mirandilla":"Cádiz B","10|Dos Hermanas":"Dos Hermanas 1971",
 "12|Añaza":"Anaza (Esp)","12|Los Llanos de Aridane":"Los Llanos",
 "13|Minerva":"SFC Minerva","15|Avance":"Avance Ezcabarte",
-"17|Tamarite":"CDJ Tamarite","17|Deportivo Aragón":"RZ Deportivo Aragón"
+"17|Tamarite":"CDJ Tamarite","17|Deportivo Aragón":"RZ Deportivo Aragón",
+"17|Internacional Huesca":"CD Sietamo"
 }
 def norm(s):
  s=unicodedata.normalize("NFKD",s).encode("ASCII","ignore").decode().lower()
