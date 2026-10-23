@@ -17,6 +17,24 @@ def check(name):
   except Exception as e:res.setdefault("errors",[]).append(str(e)[:120])
  return res
 with concurrent.futures.ThreadPoolExecutor(max_workers=3) as ex: out=list(ex.map(check,names))
+
+# Pilot exact badge download (not published to production)
+import io
+from PIL import Image
+from urllib.parse import urlsplit,urlunsplit
+for r in out:
+ good=next((t for t in r.get("tries",[]) if t.get("status")==200 and t.get("first_images")),None)
+ if not good:continue
+ url=good["first_images"][0]["src"]
+ if url.startswith("//"):url="https:"+url
+ url=url.split("?")[0]
+ try:
+  p=s.get(url,timeout=23)
+  r["download"]={"url":url,"status":p.status_code,"bytes":len(p.content),"type":p.headers.get("content-type")}
+  if p.status_code==200:
+   img=Image.open(io.BytesIO(p.content));r["download"]["dimensions"]=list(img.size)
+ except Exception as e:r["download"]={"error":str(e)[:120]}
+
 p=Path("docs/english-v13");p.mkdir(parents=True,exist_ok=True)
 (p/"wikipedia_pilot.json").write_text(json.dumps(out,indent=2,ensure_ascii=False))
 print(json.dumps(out,ensure_ascii=False)[:10000])
