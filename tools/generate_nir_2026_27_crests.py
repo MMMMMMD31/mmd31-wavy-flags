@@ -35,7 +35,7 @@ def load(blob,url):
         blob=cairosvg.svg2png(bytestring=blob,output_width=480)
     im=Image.open(io.BytesIO(blob))
     im.load()
-    if min(im.size)<50 or max(im.size)>6000:raise ValueError("Invalid dimensions")
+    if min(im.size)<24 or max(im.size)>6000:raise ValueError("Invalid dimensions")
     im=im.convert("RGBA")
     # Remove only the border-connected near-white source background.
     from PIL import ImageDraw
@@ -84,7 +84,31 @@ NAFL_ALIASES={
 MUFL_SOURCE_OVERRIDE={
     "St Mary’s YC":"stmarys",
 }
+EUROPLAN={
+"Fivemiletown United":"8ffcfc7accf484c83020df676e501145.png",
+"Richhill AFC":"2e345d7bdd99c23688929967e57d27da.png",
+"Newtowne":"60b6b69b88e1a80c68209657c382fe16.png",
+"Desertmartin":"5292b6012bf24f2cfb1bd89135d2b58e.png",
+"Heights FC":"45b955641e85c8f0a2da517e3ec302f7.png",
+"Wellington Recreation":"70eb1589506dacf7cb501c35b70425c7.png",
+"Newbuildings United":"534394d9a63c2675809fa163cac18693.png",
+"Belfast Celtic":"45c37000f60e449f258e628e88db893b.png",
+"Maiden City":"932aaf418d4fba1a4388537cebed84fd.png"
+}
+SEEKLOGO={
+"Cookstown Youth":"https://images.seeklogo.com/logo-png/63/1/cookstown-youth-football-club-logo-png_seeklogo-634100.png",
+"Killymoon Rangers":"https://images.seeklogo.com/logo-png/20/1/killymoon-rangers-fc-logo-png_seeklogo-208144.png",
+"Inspired Talents":"https://images.seeklogo.com/logo-png/63/1/inspired-talents-fc-logo-png_seeklogo-634041.png"
+}
 def source(c):
+    if c["name"] in EUROPLAN:
+        url="https://www.europlan-online.de/files/"+EUROPLAN[c["name"]]
+        try:return load(download(url,timeout=25),url),url,"europlan_verified_named_club"
+        except Exception as e:print("EUROPLAN FAILURE",c["name"],str(e)[:100],flush=True)
+    if c["name"] in SEEKLOGO:
+        url=SEEKLOGO[c["name"]]
+        try:return load(download(url,timeout=25),url),url,"seeklogo_exact_identified_club"
+        except Exception as e:print("SEEKLOGO FAILURE",c["name"],str(e)[:100],flush=True)
     if c.get("direct_url"):
         url=c["direct_url"]
         return load(download(url),url),url,"visually_checked_2026_crest"
