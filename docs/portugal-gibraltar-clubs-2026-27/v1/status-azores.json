@@ -1,0 +1,216 @@
+{
+  "expected": 17,
+  "created": 13,
+  "missing_count": 4,
+  "assets": [
+    {
+      "id": 1905100000401,
+      "name": "União Micaelense",
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Emblema_C._Uni%C3%A3o_Micaelense.png",
+      "path": "docs/portugal-gibraltar-clubs-2026-27/v1/1905100000401.png",
+      "background": [
+        211,
+        121,
+        121
+      ],
+      "background_basis": "source logo pixels",
+      "sha256": "ba76f6a0f553ac6a84160676c8baea8bacb8eebdc016891ac910a49ea782dac9",
+      "original_sha256": "a44b868336680994f82ca54166429fd9e3945ec9b57e4d2653cca959ad4e23f1"
+    },
+    {
+      "id": 1905100000402,
+      "name": "Benfica Águia",
+      "source": "https://www.leballonrond.fr/img/logos/equipas/4704_imgbank_1699892955.png",
+      "path": "docs/portugal-gibraltar-clubs-2026-27/v1/1905100000402.png",
+      "background": [
+        197,
+        176,
+        70
+      ],
+      "background_basis": "source logo pixels",
+      "sha256": "89d1c6fefb165487f512fa553ea0547837241b69c7b69b0e6240d92d4307b3ae",
+      "original_sha256": "b12f317813cf30f6bcbb2983ff6950e1d92ba419ec5e270d22267d2016c96763"
+    },
+    {
+      "id": 1905100000403,
+      "name": "Vale Formoso",
+      "source": "https://images.seeklogo.com/logo-png/64/1/futebol-clube-vale-formoso-logo-png_seeklogo-640385.png",
+      "path": "docs/portugal-gibraltar-clubs-2026-27/v1/1905100000403.png",
+      "background": [
+        197,
+        176,
+        70
+      ],
+      "background_basis": "source logo pixels",
+      "sha256": "6bd18a30b538c0dcccc554fad0054d3a9392e489dd78e6046534a32b28f8655d",
+      "original_sha256": "1c22c9ad952652111a7c3a5b9c8abdf0073060b1c2f82f69dfa2f569957b7086"
+    },
+    {
+      "id": 1905100000406,
+      "name": "SC Ideal",
+      "source": "https://images.seeklogo.com/logo-png/34/1/sporting-clube-ideal-logo-png_seeklogo-347250.png",
+      "path": "docs/portugal-gibraltar-clubs-2026-27/v1/1905100000406.png",
+      "background": [
+        151,
+        196,
+        151
+      ],
+      "background_basis": "source logo pixels",
+      "sha256": "a330db518e3df5bbc059ddfc64697e13d2fd420aec47f8ba916ccdad81020cfc",
+      "original_sha256": "1bb4f2b2f68c2f1191f05385055c1166122978efe12e3c2379763a9f58d539c5"
+    },
+    {
+      "id": 1905100000408,
+      "name": "Santiago",
+      "source": "https://www.zerozero.pt/img/logos/equipas/3707_imgbank_1705071859.png",
+      "path": "docs/portugal-gibraltar-clubs-2026-27/v1/1905100000408.png",
+      "background": [
+        121,
+        166,
+        166
+      ],
+      "background_basis": "source logo pixels",
+      "sha256": "cc283c4a4df186370d76ae9504f0633407ad8357720420cff5e411082885e41d",
+      "original_sha256": "410c34f2bcb1335b53b28397cb21c6483d0a63302fba0cb9c81532ad5fc64779"
+    },
+    {
+      "id": 1905100000409,
+      "name": "Os Oliveirenses",
+      "source": "https://cdn-img.zerozero.pt/img/logos/equipas/4708_imgbank_1707323232.png",
+      "path": "docs/portugal-gibraltar-clubs-2026-27/v1/1905100000409.png",
+      "background": [
+        242,
+        121,
+        121
+      ],
+      "background_basis": "source logo pixels",
+      "sha256": "cf771c3c8b08af5984fe7ccc6a1a0f4d5a21dd9950c1a8bc525b32eb7080c10d",
+      "original_sha256": "463ef38bdac49241683e0afd3f21f195fa7a89f798e023a00661f5be4967e612"
+    },
+    {
+      "id": 1905100000410,
+      "name": "São Roque (Açores)",
+      "source": "https://www.zerozero.pt/img/logos/equipas/12521_imgbank.png",
+      "path": "docs/portugal-gibraltar-clubs-2026-27/v1/1905100000410.png",
+      "background": [
+        70,
+        155,
+        197
+      ],
+      "background_basis": "source logo pixels",
+      "sha256": "117b2fe0a9635db38a2b77fb954c1f316f78dce3062e29bc93d4506e4d831fb0",
+      "original_sha256": "d734e99654135c14c98977f339060b9d6fa26c7c7808a39f0e7d12905bd1b393"
+    },
+    {
+      "id": 1905100000411,
+      "name": "Operário Lagoa",
+      "source": "https://r2.thesportsdb.com/images/media/team/badge/xod53f1732658001.png",
+      "path": "docs/portugal-gibraltar-clubs-2026-27/v1/1905100000411.png",
+      "background": [
+        121,
+        121,
+        166
+      ],
+      "background_basis": "source logo pixels",
+      "sha256": "a5b3137c3680a44d844c82288661044b9838f2d71b6454dbb856ed47a249a3a2",
+      "original_sha256": "032b76d1142e16ab9d653b194f57c3571666342fcb447dc7862c2d8308069457"
+    },
+    {
+      "id": 1905100000413,
+      "name": "Madalena",
+      "source": "https://images.seeklogo.com/logo-png/18/1/fc-madalena-logo-png_seeklogo-185854.png",
+      "path": "docs/portugal-gibraltar-clubs-2026-27/v1/1905100000413.png",
+      "background": [
+        219,
+        91,
+        112
+      ],
+      "background_basis": "source logo pixels",
+      "sha256": "9db284f3a39d02cefb6b6f6a118e32affb29ed4fa9c9623fb9fe5e9c111afa9a",
+      "original_sha256": "0951d62d1d90784fa53fb556bee9141f0fb6988c207ded237736b9cfecc1eece"
+    },
+    {
+      "id": 1905100000414,
+      "name": "SC Lusitânia",
+      "source": "https://images.seeklogo.com/logo-png/57/1/sc-lusitania-dos-acores-logo-png_seeklogo-571282.png",
+      "path": "docs/portugal-gibraltar-clubs-2026-27/v1/1905100000414.png",
+      "background": [
+        121,
+        181,
+        151
+      ],
+      "background_basis": "source logo pixels",
+      "sha256": "81e329f11b8da2b336946ee5321cc6a233231a6f4c0854fbcea39b8a9945c35c",
+      "original_sha256": "806c092b79d68c8b405164fa15cdbdd61a6fe517f2c0366d26cab4cb272b9f7c"
+    },
+    {
+      "id": 1905100000415,
+      "name": "Angrense",
+      "source": "https://r2.thesportsdb.com/images/media/team/badge/blc2eg1756945261.png",
+      "path": "docs/portugal-gibraltar-clubs-2026-27/v1/1905100000415.png",
+      "background": [
+        227,
+        121,
+        121
+      ],
+      "background_basis": "source logo pixels",
+      "sha256": "51625fca51e4836f0fdceacbdcfaca129cf6cf1020c6c39382d6323f5d297425",
+      "original_sha256": "c7916f0c445788bb68ea0f682ef488232f797bfe21d02701e1a2e429d13134a5"
+    },
+    {
+      "id": 1905100000416,
+      "name": "SC Praiense",
+      "source": "https://i.pinimg.com/736x/cb/2d/ae/cb2daeebaa0a7381df97066580b781cd.jpg",
+      "path": "docs/portugal-gibraltar-clubs-2026-27/v1/1905100000416.png",
+      "background": [
+        251,
+        121,
+        121
+      ],
+      "background_basis": "source logo pixels",
+      "sha256": "cc8c696b761d9ca1438a8127b8708c3d4dea727fe833d7f530394520b2f500fb",
+      "original_sha256": "caf331e2e6c2e9d6344c0b3fca1fb82abf61a9e4107590e26479448a2580bb61"
+    },
+    {
+      "id": 1905100000417,
+      "name": "SC Barreiro",
+      "source": "https://images.seeklogo.com/logo-png/64/1/sport-club-barreiro-logo-png_seeklogo-640411.png",
+      "path": "docs/portugal-gibraltar-clubs-2026-27/v1/1905100000417.png",
+      "background": [
+        166,
+        136,
+        121
+      ],
+      "background_basis": "source logo pixels",
+      "sha256": "e9a9a1404e6488ee2f44b99f1047eb42ad30a32c6de11306b11935b1992580ab",
+      "original_sha256": "2beebe6c608bcadc2a7cc83ba38a1cf9eabd5e6477238ee447a641d79e3eab26"
+    }
+  ],
+  "missing": [
+    {
+      "id": 1905100000404,
+      "name": "Vitória Pico da Pedra",
+      "source": "https://vemjogar.fpf.pt/filemanager/media/file?guid=eea1fd6d-c5a3-4e5b-9584-4c38717026d0",
+      "error": "403 Client Error: Forbidden for url: https://vemjogar.fpf.pt/filemanager/media/file?guid=eea1fd6d-c5a3-4e5b-9584-4c38717026d0"
+    },
+    {
+      "id": 1905100000405,
+      "name": "CD Santo António",
+      "source": "https://www.zerozero.pt/img/logos/equipas/3650_imgbank_1712928682.png",
+      "error": "403 Client Error: Forbidden for url: https://www.zerozero.pt/cookie_check.php"
+    },
+    {
+      "id": 1905100000407,
+      "name": "Rabo de Peixe",
+      "source": "https://imagehandler.fpf.pt/ScoreImageHandler.ashx?id=2524&type=Organization",
+      "error": "403 Client Error: Forbidden for url: https://imagehandler.fpf.pt/ScoreImageHandler.ashx?id=2524&type=Organization"
+    },
+    {
+      "id": 1905100000412,
+      "name": "Bota Fogo",
+      "source": "https://www.zerozero.pt/img/logos/equipas/4714_imgbank.png",
+      "error": "403 Client Error: Forbidden for url: https://www.zerozero.pt/cookie_check.php"
+    }
+  ],
+  "note": "True logos only; source identification pending per-club review"
+}
