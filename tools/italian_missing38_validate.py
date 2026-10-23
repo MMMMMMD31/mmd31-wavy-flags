@@ -24,6 +24,24 @@ OVERRIDES={
  "Flegrea Puteolana":["https://img.datasport.it/img/logos/squadre/puteolana.png"],
  "Pietralunghese":["https://img.datasport.it/img/logos/squadre/pietralunghese.png"],
 }
+ALT_SLUGS={
+"Pavonese":["pavonese-cigolese","calcio-pavonese"],
+"Tritium":["tritium-calcio-1908"],
+"Sandonà":["sandona-1922","sandona-calcio"],
+"Schio":["calcio-schio"],
+"Montecchio Gallo":["k-sport-montecchio-gallo","k-sport-montecchio"],
+"Città di Lanciano":["lanciano-fc","lanciano-1920","citta-di-lanciano-fc"],
+"Santegidiese":["nuova-santegidiese-1948"],
+"Angelana":["asd-angelana","angelana-1930"],
+"Pietralunghese":["pol-pietralunghese"],
+"Ossese":["polisportiva-ossese"],
+"Certosa V. Campagnano":["certosa-vigor-campagnano","certosa"],
+"Venafro":["us-venafro"],
+"Brindisi":["brindisi-football-club"],
+"Real Forio":["real-forio-2014"],
+"Licata":["licata-calcio"],
+"Modica":["new-modica-calcio"],
+}
 def fetch_row(args):
     name,url=args
     d={"name":name,"url":url}
@@ -58,7 +76,7 @@ for name in NAMES:
         if item["name"]!=name or item.get("status")!=200:continue
         source_urls.extend([x["src"] for x in item.get("images",[]) if x.get("alt","").lower().startswith("logo ") and ("datasport" not in x.get("alt","").lower()) and "img.datasport.it" in x.get("src","")])
     source_urls.extend(OVERRIDES.get(name,[]))
-    for s in [slug(name),slug(name).replace("-",""),slug(name).replace("citta-di-",""),slug(name).replace("digiesse-",""),slug(name).replace("virtus-",""),slug(name).replace("flegrea-","")]:
+    for s in [slug(name),slug(name).replace("-",""),slug(name).replace("citta-di-",""),slug(name).replace("digiesse-",""),slug(name).replace("virtus-",""),slug(name).replace("flegrea-","")]+ALT_SLUGS.get(name,[]):
         source_urls.append("https://img.datasport.it/img/logos/squadre/"+s+".png")
     seen=set()
     for url in source_urls:
