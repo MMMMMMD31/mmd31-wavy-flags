@@ -1,0 +1,40 @@
+name: German D5-D6 club crests 2026-27 (MMD31)
+on:
+  push:
+    branches:
+      - mmd31-germany-d5-d6-crests-20261023
+    paths:
+      - 'tools/german_d5_d6_2026_27_verified_crests.json'
+      - 'tools/generate_german_d5_d6_crests.py'
+      - '.github/workflows/mmd31-german-d5d6-crests.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: python -m pip install --disable-pip-version-check pillow cairosvg requests
+      - name: Render 120 authentic sourced German D5/D6 badges
+        run: python tools/generate_german_d5_d6_crests.py
+      - name: Commit D5 D6 sourced crests only to isolated branch
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/german-clubs-2026-27/d5d6/
+          if git diff --cached --quiet; then
+            echo "All existing badges"
+          else
+            git commit -m "Publish 120 German D5-D6 real club crest PNGs"
+            git pull --rebase origin mmd31-germany-d5-d6-crests-20261023
+            git push origin HEAD:mmd31-germany-d5-d6-crests-20261023
+          fi
