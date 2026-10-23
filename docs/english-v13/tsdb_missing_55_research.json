@@ -1,0 +1,401 @@
+{
+  "total": 55,
+  "with_badge": 8,
+  "records": [
+    {
+      "id": 1793400000272,
+      "name": "Westfield",
+      "tsdb": []
+    },
+    {
+      "id": 1793400000274,
+      "name": "Windsor & Eton",
+      "tsdb": [
+        {
+          "name": "Windsor and Eton",
+          "id": "152757",
+          "sport": "Soccer",
+          "league": "English Isthmian League South Central Division",
+          "gender": "Male",
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/2zdytg1754330059.png",
+          "source": "https://www.thesportsdb.com/api/v1/json/123/searchteams.php?t=Windsor%20%26%20Eton",
+          "image_ok": true,
+          "original_dimensions": [
+            512,
+            512
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1793400000282,
+      "name": "Fakenham Town",
+      "tsdb": [
+        {
+          "name": "Fakenham Town",
+          "id": "148813",
+          "sport": "Soccer",
+          "league": "England Non League Div One Isthmian North",
+          "gender": "Male",
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/mnzd651731974817.png",
+          "source": "https://www.thesportsdb.com/api/v1/json/123/searchteams.php?t=Fakenham%20Town",
+          "image_ok": true,
+          "original_dimensions": [
+            512,
+            512
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1793400000316,
+      "name": "South Park (Reigate)",
+      "tsdb": []
+    },
+    {
+      "id": 1793400000317,
+      "name": "Steyning Town",
+      "tsdb": [
+        {
+          "name": "Steyning Town",
+          "id": "148967",
+          "sport": "Soccer",
+          "league": "English Isthmian League South East Division",
+          "gender": "Male",
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/l1mlqi1720833525.png",
+          "source": "https://www.thesportsdb.com/api/v1/json/123/searchteams.php?t=Steyning%20Town",
+          "image_ok": true,
+          "original_dimensions": [
+            512,
+            512
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1793400000320,
+      "name": "Beverley Town",
+      "tsdb": [
+        {
+          "name": "Beverley Town",
+          "id": "148749",
+          "sport": "Soccer",
+          "league": "English Northern Premier League Division One East",
+          "gender": "Male",
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/vvichc1720762211.png",
+          "source": "https://www.thesportsdb.com/api/v1/json/123/searchteams.php?t=Beverley%20Town",
+          "image_ok": true,
+          "original_dimensions": [
+            512,
+            512
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1793400000337,
+      "name": "Pontefract Collieries",
+      "tsdb": [
+        {
+          "name": "Pontefract Collieries",
+          "id": "145149",
+          "sport": "Soccer",
+          "league": "English Northern Premier League Division One East",
+          "gender": "Male",
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/k6c3iy1745194741.png",
+          "source": "https://www.thesportsdb.com/api/v1/json/123/searchteams.php?t=Pontefract%20Collieries",
+          "image_ok": true,
+          "original_dimensions": [
+            512,
+            512
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1793400000368,
+      "name": "Boldmere St Michael's",
+      "tsdb": [
+        {
+          "name": "Boldmere St Michaels",
+          "id": "146601",
+          "sport": "Soccer",
+          "league": "English Northern Premier League Division One Midlands",
+          "gender": "Male",
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/p2gdyi1701146435.png",
+          "source": "https://www.thesportsdb.com/api/v1/json/123/searchteams.php?t=Boldmere%20St%20Michael%27s",
+          "image_ok": true,
+          "original_dimensions": [
+            512,
+            512
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1793400000372,
+      "name": "Coleshill Town",
+      "tsdb": [
+        {
+          "name": "Coleshill Town",
+          "id": "145183",
+          "sport": "Soccer",
+          "league": "English Northern Premier League Division One Midlands",
+          "gender": "Male",
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/sdv3m51726379839.png",
+          "source": "https://www.thesportsdb.com/api/v1/json/123/searchteams.php?t=Coleshill%20Town",
+          "image_ok": true,
+          "original_dimensions": [
+            512,
+            512
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1793400000435,
+      "name": "Easington Sports",
+      "tsdb": [
+        {
+          "name": "Easington Sports",
+          "id": "148801",
+          "sport": "Soccer",
+          "league": "_No League Soccer",
+          "gender": "Male",
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/et380q1722147984.png",
+          "source": "https://www.thesportsdb.com/api/v1/json/123/searchteams.php?t=Easington%20Sports",
+          "image_ok": true,
+          "original_dimensions": [
+            512,
+            512
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1793400000442,
+      "name": "Northwood",
+      "tsdb": []
+    },
+    {
+      "id": 1793400000443,
+      "name": "Penn & Tylers Green",
+      "tsdb": []
+    },
+    {
+      "id": 1793400000465,
+      "name": "Tadley Calleva",
+      "tsdb": []
+    },
+    {
+      "id": 1793400000468,
+      "name": "Yateley United",
+      "tsdb": []
+    },
+    {
+      "id": 1793400000469,
+      "name": "Brantham Athletic",
+      "tsdb": []
+    },
+    {
+      "id": 1793400000473,
+      "name": "Ely City",
+      "tsdb": []
+    },
+    {
+      "id": 1793400000479,
+      "name": "Kirkley & Pakefield",
+      "tsdb": []
+    },
+    {
+      "id": 1793400000485,
+      "name": "Thetford Town",
+      "tsdb": []
+    },
+    {
+      "id": 1793400000493,
+      "name": "Frenford",
+      "tsdb": []
+    },
+    {
+      "id": 1793400000496,
+      "name": "Halstead Town",
+      "tsdb": []
+    },
+    {
+      "id": 1793400000509,
+      "name": "Cinderford Town",
+      "tsdb": []
+    },
+    {
+      "id": 1793400000511,
+      "name": "Corsham Town",
+      "tsdb": []
+    },
+    {
+      "id": 1793400000517,
+      "name": "Hereford Pegasus",
+      "tsdb": []
+    },
+    {
+      "id": 1793400000520,
+      "name": "Malmesbury Victoria",
+      "tsdb": []
+    },
+    {
+      "id": 1793400000521,
+      "name": "Mangotsfield United",
+      "tsdb": []
+    },
+    {
+      "id": 1793400000522,
+      "name": "Pershore Town 88",
+      "tsdb": []
+    },
+    {
+      "id": 1793400000538,
+      "name": "Runcorn Town",
+      "tsdb": []
+    },
+    {
+      "id": 1793400000544,
+      "name": "Uttoxeter Town",
+      "tsdb": []
+    },
+    {
+      "id": 1793400000547,
+      "name": "Winsford United",
+      "tsdb": []
+    },
+    {
+      "id": 1793400000557,
+      "name": "Euxton Villa",
+      "tsdb": []
+    },
+    {
+      "id": 1793400000567,
+      "name": "South Liverpool",
+      "tsdb": []
+    },
+    {
+      "id": 1793400000571,
+      "name": "Bottesford Town",
+      "tsdb": []
+    },
+    {
+      "id": 1793400000577,
+      "name": "Horbury Town",
+      "tsdb": []
+    },
+    {
+      "id": 1793400000578,
+      "name": "Keighley Town",
+      "tsdb": []
+    },
+    {
+      "id": 1793400000579,
+      "name": "Knaresborough Town",
+      "tsdb": []
+    },
+    {
+      "id": 1793400000587,
+      "name": "Thackley Association",
+      "tsdb": []
+    },
+    {
+      "id": 1793400000594,
+      "name": "Crook Town",
+      "tsdb": []
+    },
+    {
+      "id": 1793400000603,
+      "name": "Northallerton Town",
+      "tsdb": []
+    },
+    {
+      "id": 1793400000637,
+      "name": "Hollands & Blair",
+      "tsdb": []
+    },
+    {
+      "id": 1793400000638,
+      "name": "Holmesdale",
+      "tsdb": []
+    },
+    {
+      "id": 1793400000640,
+      "name": "Larkfield & New Hythe",
+      "tsdb": []
+    },
+    {
+      "id": 1793400000645,
+      "name": "Sutton Athletic",
+      "tsdb": []
+    },
+    {
+      "id": 1793400000656,
+      "name": "Everett Rovers",
+      "tsdb": []
+    },
+    {
+      "id": 1793400000665,
+      "name": "Tring Athletic",
+      "tsdb": []
+    },
+    {
+      "id": 1793400000668,
+      "name": "Ashby Ivanhoe",
+      "tsdb": []
+    },
+    {
+      "id": 1793400000674,
+      "name": "Eastwood Community",
+      "tsdb": []
+    },
+    {
+      "id": 1793400000688,
+      "name": "West Bridgford Colts",
+      "tsdb": []
+    },
+    {
+      "id": 1793400000690,
+      "name": "Bugbrooke St Michael",
+      "tsdb": []
+    },
+    {
+      "id": 1793400000693,
+      "name": "Daventry Town",
+      "tsdb": []
+    },
+    {
+      "id": 1793400000702,
+      "name": "Lutterworth Town",
+      "tsdb": []
+    },
+    {
+      "id": 1793400000703,
+      "name": "Moulton",
+      "tsdb": []
+    },
+    {
+      "id": 1793400000717,
+      "name": "Downton",
+      "tsdb": []
+    },
+    {
+      "id": 1793400000718,
+      "name": "East Cowes Victoria Athletic",
+      "tsdb": []
+    },
+    {
+      "id": 1793400000745,
+      "name": "Sidmouth Town",
+      "tsdb": []
+    },
+    {
+      "id": 1793400000749,
+      "name": "Torpoint Athletic",
+      "tsdb": []
+    }
+  ]
+}
