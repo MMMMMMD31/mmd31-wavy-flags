@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
-"""Strict integrity check for all published PNGs. Never creates imagery."""
+"""Strict integrity check for all published PNGs. Never creates imagery.
+Run after false FFF logo quarantine; preserve missing teams with no invented crest.
+"""
 import csv, json,hashlib,collections
 from pathlib import Path
 from PIL import Image
