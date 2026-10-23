@@ -101,6 +101,15 @@ SEEKLOGO={
 "Inspired Talents":"https://images.seeklogo.com/logo-png/63/1/inspired-talents-fc-logo-png_seeklogo-634041.png"
 }
 def source(c):
+    if c["name"]=="Trojans YCG":
+        # The original crest from the club's own Pitchero page (club ID 73051).
+        sources=[
+            ("https://img-res.pitchero.com/?url=images.pitchero.com%2Fclub_logos%2F73051%2Fclublogo_58f3dcf90586c.png&bg=null&h=360&w=360&t=absolute&q=null","trojans_official_pitchero_club_badge"),
+            ("https://cfkzqicresplbojnqrej.supabase.co/storage/v1/object/public/partner-images/clubs/cmobp00gs005dpu1vn4kn2iuc.png","trojans_identified_junior_grassroots_hub"),
+        ]
+        for url,kind in sources:
+            try:return load(download(url,timeout=25),url),url,kind
+            except Exception as e:print("TROJANS BADGE SOURCE ERROR",str(e)[:120],flush=True)
     if c["name"] in EUROPLAN:
         url="https://www.europlan-online.de/files/"+EUROPLAN[c["name"]]
         try:return load(download(url,timeout=25),url),url,"europlan_verified_named_club"
