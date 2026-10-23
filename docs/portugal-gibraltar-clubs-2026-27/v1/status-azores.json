@@ -1,7 +1,7 @@
 {
   "expected": 17,
-  "created": 14,
-  "missing_count": 3,
+  "created": 16,
+  "missing_count": 1,
   "assets": [
     {
       "id": 1905100000401,
@@ -46,6 +46,20 @@
       "original_sha256": "1c22c9ad952652111a7c3a5b9c8abdf0073060b1c2f82f69dfa2f569957b7086"
     },
     {
+      "id": 1905100000405,
+      "name": "CD Santo António",
+      "source": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFtLWNHa1UyIH0xQJC8PUB6-ZeKKWvO0Ap9ATF26VHzA7pvqzkwkrFet4-6DuyJ6iwa18uQ6ZvmoNVk5q4p0yFLn48zpfxe-gNYYjpBzf5uc6RW_l2jOpSstlZKfWTdH1W4D2Xfxjm-8b2/s1600/CD+Santo+Antonio.png",
+      "path": "docs/portugal-gibraltar-clubs-2026-27/v1/1905100000405.png",
+      "background": [
+        70,
+        91,
+        253
+      ],
+      "background_basis": "source logo pixels",
+      "sha256": "daacea50fef203162d8af67c7dec023ca5a758a750af92703f88c792fabe4e6c",
+      "original_sha256": "ee2a401dd2b71fadcdf8e7be6125346b32910589f983fc4246805cef1f1c858c"
+    },
+    {
       "id": 1905100000406,
       "name": "SC Ideal",
       "source": "https://images.seeklogo.com/logo-png/34/1/sporting-clube-ideal-logo-png_seeklogo-347250.png",
@@ -85,7 +99,7 @@
       ],
       "background_basis": "source logo pixels",
       "sha256": "cc283c4a4df186370d76ae9504f0633407ad8357720420cff5e411082885e41d",
-      "original_sha256": "410c34f2bcb1335b53b28397cb21c6483d0a63302fba0cb9c81532ad5fc64779"
+      "original_sha256": "15b3270bf30823ffd450147301b7061310422a54e869fd1c41450dd30d0010ea"
     },
     {
       "id": 1905100000409,
@@ -128,6 +142,20 @@
       "background_basis": "source logo pixels",
       "sha256": "a5b3137c3680a44d844c82288661044b9838f2d71b6454dbb856ed47a249a3a2",
       "original_sha256": "032b76d1142e16ab9d653b194f57c3571666342fcb447dc7862c2d8308069457"
+    },
+    {
+      "id": 1905100000412,
+      "name": "Bota Fogo",
+      "source": "https://aatletismosmiguel.pt/wp-content/uploads/2024/12/Bota-Fogo-2-150x150-1.jpg",
+      "path": "docs/portugal-gibraltar-clubs-2026-27/v1/1905100000412.png",
+      "background": [
+        166,
+        136,
+        136
+      ],
+      "background_basis": "source logo pixels",
+      "sha256": "53379209bbac96cd321adc7cd7d25571cf3a9caf55b7e2d1c1a49e98a4033721",
+      "original_sha256": "8232aee450d1afc3acb13f93629a66592232a4ea23be87cabfa7b1ba9d4744bf"
     },
     {
       "id": 1905100000413,
@@ -206,18 +234,6 @@
       "name": "Vitória Pico da Pedra",
       "source": "https://wsrv.nl/?url=vemjogar.fpf.pt%2Ffilemanager%2Fmedia%2Ffile%3Fguid%3Deea1fd6d-c5a3-4e5b-9584-4c38717026d0",
       "error": "404 Client Error: Not Found for url: https://wsrv.nl/?url=vemjogar.fpf.pt%2Ffilemanager%2Fmedia%2Ffile%3Fguid%3Deea1fd6d-c5a3-4e5b-9584-4c38717026d0"
-    },
-    {
-      "id": 1905100000405,
-      "name": "CD Santo António",
-      "source": "https://wsrv.nl/?url=www.zerozero.pt%2Fimg%2Flogos%2Fequipas%2F3650_imgbank_1712928682.png",
-      "error": "404 Client Error: Not Found for url: https://wsrv.nl/?url=www.zerozero.pt%2Fimg%2Flogos%2Fequipas%2F3650_imgbank_1712928682.png"
-    },
-    {
-      "id": 1905100000412,
-      "name": "Bota Fogo",
-      "source": "https://wsrv.nl/?url=www.zerozero.pt%2Fimg%2Flogos%2Fequipas%2F4714_imgbank.png",
-      "error": "404 Client Error: Not Found for url: https://wsrv.nl/?url=www.zerozero.pt%2Fimg%2Flogos%2Fequipas%2F4714_imgbank.png"
     }
   ],
   "note": "True logos only; source identification pending per-club review"
