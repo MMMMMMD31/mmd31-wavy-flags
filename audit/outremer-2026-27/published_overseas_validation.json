@@ -2,7 +2,7 @@
   "total": 326,
   "published": 260,
   "invalid": 0,
-  "missing": 64,
+  "missing": 66,
   "by_territory": {
     "Guadeloupe": 40,
     "Guyane": 32,
@@ -14,12 +14,7 @@
     "Polynésie française": 3,
     "Nouvelle-Calédonie": 3
   },
-  "duplicate_sha256": {
-    "023794465ccf6604b4469de1daba5c78432f05354782d140618583df93f1c7d7": [
-      "1990262000093",
-      "1990262000220"
-    ]
-  },
+  "duplicate_sha256": {},
   "placeholder_count": 0,
   "unresolved": [
     {
@@ -47,8 +42,8 @@
       "team_id": "1990262000093",
       "club": "A.O.M",
       "territory": "Guyane",
-      "status": "unverified_duplicate",
-      "reason": "same PNG for several team IDs; no documented parent affiliation"
+      "status": "missing",
+      "reason": ""
     },
     {
       "team_id": "1990262000111",
@@ -166,8 +161,8 @@
       "team_id": "1990262000220",
       "club": "Asj Moinatrindri",
       "territory": "Mayotte",
-      "status": "unverified_duplicate",
-      "reason": "same PNG for several team IDs; no documented parent affiliation"
+      "status": "missing",
+      "reason": ""
     },
     {
       "team_id": "1990262000236",
