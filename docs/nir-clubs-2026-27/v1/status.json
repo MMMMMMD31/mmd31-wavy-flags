@@ -1,7 +1,7 @@
 {
-  "created": 38,
+  "created": 52,
   "expected": 142,
-  "missing_count": 104,
+  "missing_count": 90,
   "size": [
     120,
     96
@@ -237,8 +237,16 @@
       "id": 1900231300016,
       "name": "Rathfriland Rangers",
       "division": "D2",
-      "status": "missing",
-      "error": "HTTPSConnectionPool(host='images.seeklogo.com', port=443): Read timed out."
+      "status": "created",
+      "source_url": "https://images.seeklogo.com/logo-png/63/1/rathfriland-rangers-football-club-logo-png_seeklogo-634089.png",
+      "source_kind": "visually_checked_2026_crest",
+      "background_rgb": [
+        129,
+        149,
+        190
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300016.png",
+      "sha256": "74221b3fce3506894dc7f0d277c3d923b47ada85f446c840bfcaa09e8239a436"
     },
     {
       "id": 1900231300017,
@@ -379,8 +387,16 @@
       "id": 1900231300026,
       "name": "Armagh City",
       "division": "D2",
-      "status": "missing",
-      "error": "HTTPSConnectionPool(host='images.seeklogo.com', port=443): Read timed out. (read timeout=19)"
+      "status": "created",
+      "source_url": "https://images.seeklogo.com/logo-png/1/1/armagh-city-fc-logo-png_seeklogo-10898.png",
+      "source_kind": "visually_checked_2026_crest",
+      "background_rgb": [
+        179,
+        201,
+        223
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300026.png",
+      "sha256": "b90405c2ff44cbe83720b09254c1ee3e11ebb06f4790465682dd91be17305dff"
     },
     {
       "id": 1900231300027,
@@ -596,8 +612,16 @@
       "id": 1900231300041,
       "name": "Comber Recreation",
       "division": "D4_NAFL",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Comber%20Recreation"
+      "status": "created",
+      "source_url": "https://blackwatergraphics.com/cdn/shop/files/STICKER_9b44c532-fe0e-48d0-bc42-270171b75e3b_1200x1200.jpg?v=1733402567",
+      "source_kind": "visually_checked_2026_crest",
+      "background_rgb": [
+        244,
+        244,
+        92
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300041.png",
+      "sha256": "d642887f458f567d388ed94b2b3241965d93202ac9b5f1e6aec953d5a7ac8de0"
     },
     {
       "id": 1900231300042,
@@ -638,8 +662,16 @@
       "id": 1900231300047,
       "name": "Crumlin Star",
       "division": "D4_NAFL",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Crumlin%20Star"
+      "status": "created",
+      "source_url": "https://pbs.twimg.com/profile_images/860772527051821057/Z_csLyU0.jpg",
+      "source_kind": "visually_checked_2026_crest",
+      "background_rgb": [
+        92,
+        136,
+        92
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300047.png",
+      "sha256": "f151710769d45dac623d9f3e06c1d2f14a2889b26b3961d3723f20e6af4cb7e7"
     },
     {
       "id": 1900231300048,
@@ -673,15 +705,31 @@
       "id": 1900231300052,
       "name": "Abbey Villa",
       "division": "D4_NAFL",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Abbey%20Villa"
+      "status": "created",
+      "source_url": "https://www.portavogierangers.com/uploads/1784176294773-8d9853ea.png",
+      "source_kind": "visually_checked_2026_crest",
+      "background_rgb": [
+        179,
+        201,
+        244
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300052.png",
+      "sha256": "8c937a420f483cea2a827dd4702b7888d4693f0a8ab0ab3cd12e2ff76ce5a8dd"
     },
     {
       "id": 1900231300053,
       "name": "East Belfast",
       "division": "D4_NAFL",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=East%20Belfast"
+      "status": "created",
+      "source_url": "https://images.seeklogo.com/logo-png/63/1/east-belfast-fc-logo-png_seeklogo-634050.png",
+      "source_kind": "visually_checked_2026_crest",
+      "background_rgb": [
+        244,
+        114,
+        114
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300053.png",
+      "sha256": "a4fe4a0e9dc3792f588fefbb1d290857ec3ba582874237901997bc283b2a7014"
     },
     {
       "id": 1900231300054,
@@ -694,8 +742,16 @@
       "id": 1900231300055,
       "name": "Banbridge Rangers",
       "division": "D4_MUFL",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Banbridge%20Rangers"
+      "status": "created",
+      "source_url": "https://www.europlan-online.de/files/afe5fabbecaca2895ff386a6ca15ca60.jpg",
+      "source_kind": "visually_checked_2026_crest",
+      "background_rgb": [
+        92,
+        92,
+        179
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300055.png",
+      "sha256": "a8e312ed40f6bd60ad45e86d07af4c2b96f3a221b57d6cae09df292a0fbb952b"
     },
     {
       "id": 1900231300056,
@@ -723,7 +779,7 @@
       "name": "Fivemiletown United",
       "division": "D4_MUFL",
       "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Fivemiletown%20United"
+      "error": "404 Client Error: Not Found for url: https://midulsterfootballleague.co.uk/img/badges/fivemiletownunited.jpg"
     },
     {
       "id": 1900231300060,
@@ -827,15 +883,31 @@
       "id": 1900231300074,
       "name": "Donegal Celtic",
       "division": "D4_BPFL",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Donegal%20Celtic"
+      "status": "created",
+      "source_url": "https://images.seeklogo.com/logo-png/4/1/donegal-celtic-fc-logo-png_seeklogo-43065.png",
+      "source_kind": "visually_checked_2026_crest",
+      "background_rgb": [
+        114,
+        157,
+        136
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300074.png",
+      "sha256": "1c2bf460390c11c05076f2f58b2bc5fb397e8b73032b29bbda7c3b244c2db32e"
     },
     {
       "id": 1900231300075,
       "name": "Ballymoney United",
       "division": "D4_BPFL",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Ballymoney%20United"
+      "status": "created",
+      "source_url": "https://images.seeklogo.com/logo-png/63/1/ballymoney-united-football-club-logo-png_seeklogo-634116.png",
+      "source_kind": "visually_checked_2026_crest",
+      "background_rgb": [
+        92,
+        92,
+        179
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300075.png",
+      "sha256": "dc57337bb4fe3ae0db5b06cd56d26490136a9a44c47f522fb0ec37848ba225d0"
     },
     {
       "id": 1900231300076,
@@ -848,8 +920,16 @@
       "id": 1900231300077,
       "name": "Glebe Rangers",
       "division": "D4_BPFL",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Glebe%20Rangers"
+      "status": "created",
+      "source_url": "https://teams.ctsports.co.uk/cdn/shop/collections/Glebe_Rangers_Crest_PNG_1080x.png?v=1696152994",
+      "source_kind": "visually_checked_2026_crest",
+      "background_rgb": [
+        244,
+        223,
+        92
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300077.png",
+      "sha256": "e3f2fbc8a74b4c9591964c928d0573b8cdabfc3b1aedce237f5bd5a4dfe83f5a"
     },
     {
       "id": 1900231300078,
@@ -939,8 +1019,16 @@
       "id": 1900231300090,
       "name": "Crumlin United",
       "division": "D5_NAFL",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Crumlin%20United"
+      "status": "created",
+      "source_url": "https://www.logotypes101.com/logos/544/EE230931FA99E01C1BD8C9B0A1550BC0/Crumlin_United_FC.png",
+      "source_kind": "visually_checked_2026_crest",
+      "background_rgb": [
+        114,
+        114,
+        179
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300090.png",
+      "sha256": "02e15abe0f439cfabbcef128306c850fe705a02be543f93840101357f8661042"
     },
     {
       "id": 1900231300091,
@@ -1275,15 +1363,31 @@
       "id": 1900231300138,
       "name": "Chimney Corner",
       "division": "D5_BPFL",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Chimney%20Corner"
+      "status": "created",
+      "source_url": "https://images.seeklogo.com/logo-png/63/1/chimney-corner-football-club-logo-png_seeklogo-634106.png",
+      "source_kind": "visually_checked_2026_crest",
+      "background_rgb": [
+        201,
+        92,
+        92
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300138.png",
+      "sha256": "b1d37ae19b6c31e4e26b6e3aecd2a66873127e17841cba6009bdfe8d5185727c"
     },
     {
       "id": 1900231300139,
       "name": "Brantwood",
       "division": "D5_BPFL",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Brantwood"
+      "status": "created",
+      "source_url": "https://images.seeklogo.com/logo-png/63/1/brantwood-football-club-logo-png_seeklogo-634112.png",
+      "source_kind": "visually_checked_2026_crest",
+      "background_rgb": [
+        92,
+        92,
+        244
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300139.png",
+      "sha256": "2b8be2f3fdf30ee16f825637e418c8b19e2da7e5c2214f41ab9e1d4e2a4bfe26"
     },
     {
       "id": 1900231300140,
@@ -1303,8 +1407,16 @@
       "id": 1900231300142,
       "name": "Tobermore United",
       "division": "D5_BPFL",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Tobermore%20United"
+      "status": "created",
+      "source_url": "https://images.seeklogo.com/logo-png/14/1/tobermore-united-fc-logo-png_seeklogo-140553.png",
+      "source_kind": "visually_checked_2026_crest",
+      "background_rgb": [
+        114,
+        201,
+        136
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300142.png",
+      "sha256": "b106f6020ee5dff21f37739f1696d1b875eb202e2f6344c63b5ea932b68a8b5d"
     }
   ]
 }
