@@ -43,6 +43,22 @@ def sportsdb(name):
    if u and u.startswith("https://"):return(u,"TheSportsDB",t["strTeam"])
  except Exception:pass
  return None
+
+def guardian_catalog():
+ raw=get("https://raw.githubusercontent.com/guardian/football-assets/main/source/crests/crests.json")
+ if not raw:return {}
+ try:
+  entries=raw.json()["crests"]
+  result={}
+  for row in entries:
+   name=row.get("team","")
+   if not name:continue
+   key=norm(name)
+   url="https://raw.githubusercontent.com/guardian/football-assets/main/source/crests/"+row["filename"]
+   result.setdefault(key,(url,"Guardian football-assets",name))
+  return result
+ except Exception:return {}
+
 def wikipedia(name):
  for title in (name+" F.C.",name+" football club"):
   r=get("https://en.wikipedia.org/w/api.php",{"action":"query","format":"json","generator":"search","gsrsearch":"intitle:"+title,"gsrlimit":5,"prop":"pageimages","piprop":"original"})
@@ -87,11 +103,13 @@ def plate(crest):
 rows=list(csv.DictReader(open(ROOT/"scotland-2026-27-v13/clubs.csv",encoding="utf-8")))
 assert len(rows)==93
 logos=espn()
+guardian=guardian_catalog()
 statuses=[]
 for i,row in enumerate(rows,1):
  name=row["club"];needle=ALIASES.get(name,name)
  candidates=[]
  if norm(needle) in logos:candidates.append(logos[norm(needle)])
+ if norm(needle) in guardian:candidates.append(guardian[norm(needle)])
  for result in (sportsdb(needle),wikipedia(needle)):
   if result:candidates.append(result)
  status={"id":row["club_id"],"club":name,"division":row["division"],"state":"MISSING","source_url":"","source_provider":"","matched_name":"","file":"","dimensions_verified":False,"visual_identity_reviewed":False}
