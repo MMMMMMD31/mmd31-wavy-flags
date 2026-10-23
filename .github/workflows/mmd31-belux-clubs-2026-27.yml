@@ -5,6 +5,7 @@ on:
       - mmd31-belux-crests-test-2026
     paths:
       - 'tools/generate_belux_clubs_2026_27.py'
+      - 'tools/finish_belux_club_crests.py'
       - '.github/workflows/mmd31-belux-clubs-2026-27.yml'
   workflow_dispatch:
 permissions:
@@ -22,7 +23,7 @@ jobs:
           python-version: '3.11'
       - run: python -m pip install --disable-pip-version-check pillow cairosvg requests beautifulsoup4
       - name: Generate real club-logo centered flags 120x96
-        run: python tools/generate_belux_clubs_2026_27.py
+        run: python tools/finish_belux_club_crests.py
       - name: Commit verified PNGs and manifest on isolated test branch
         shell: bash
         run: |
