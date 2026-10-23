@@ -1,0 +1,17 @@
+name: MMD31 ES V13 crest diagnostic
+on:
+  push:
+    branches: [mmd31-es-v13-crests-20261023]
+    paths:
+      - 'tools/mmd31_es_v13_crest_diagnostic.py'
+      - '.github/workflows/mmd31-es-v13-crest-diag.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  diagnostic:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install --disable-pip-version-check requests beautifulsoup4
+      - run: python tools/mmd31_es_v13_crest_diagnostic.py
