@@ -5,13 +5,20 @@ Run after false FFF logo quarantine; preserve missing teams with no invented cre
 import csv, json,hashlib,collections
 from pathlib import Path
 from PIL import Image
+import imagehash
+FFF_HASHES=[]
+for _tid in (1990262000021,1990262000111):
+ _p=Path('audit/outremer-2026-27/quarantine')/(str(_tid)+'.png')
+ if _p.exists():
+  with Image.open(_p) as _im:
+   FFF_HASHES.append(imagehash.phash(_im.convert('RGB').crop((10,5,110,94))))
 ROOT=Path("flags/clubs/standard/outremer-2026-27")
 ROSTER=Path("audit/outremer-2026-27/roster_326.csv")
 AUDIT_DIR=Path("audit/outremer-2026-27")
 BRANCH="mmd31-outremer-ecussons-20261023"
 URL="https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/"+BRANCH+"/flags/clubs/standard/outremer-2026-27/"
 references={}
-for filename in ("reunion_martinique_crest_audit.csv","guadeloupe_guyane_crest_audit.csv"):
+for filename in ("reunion_martinique_crest_audit.csv","guadeloupe_guyane_crest_audit.csv","mayotte_crest_audit.csv","saintmartin_crest_audit.csv"):
  p=AUDIT_DIR/filename
  if p.exists():
   for row in csv.DictReader(p.open(encoding="utf8")):
@@ -20,6 +27,16 @@ p=AUDIT_DIR/"martinique_last3_audit.csv"
 if p.exists():
  for row in csv.DictReader(p.open(encoding="utf8")):
   references[row["team_id"]]={"source_page":row.get("source_page",""),"source_image":row.get("image_url",""),"status":row.get("status","")}
+for filename in ("lot6_pacific_saintmartin_spm_audit.csv",):
+ p=AUDIT_DIR/filename
+ if p.exists():
+  for row in csv.DictReader(p.open(encoding="utf8")):
+   references[row["team_id"]]={"source_page":row.get("source_page",""),"source_image":row.get("image_url",""),"status":row.get("status","")}
+p=AUDIT_DIR/"duplicate_club_resolution.csv"
+if p.exists():
+ for row in csv.DictReader(p.open(encoding="utf8")):
+  if row["status"] in ("restored_original_verified_logo","new_unique_club_logo"):
+   references[row["team_id"]]={"source_page":row.get("check_page",""),"source_image":row.get("source",""),"status":row.get("status","")}
 rows=list(csv.DictReader(ROSTER.open(encoding="utf8")))
 assert len(rows)==326,len(rows)
 assert len(set(row["team_id"] for row in rows))==326
@@ -37,6 +54,11 @@ for row in rows:
    if len(data)<400:raise ValueError("unusually small")
    sha=hashlib.sha256(data).hexdigest()
    bytesize=len(data);status="ok"
+   if FFF_HASHES:
+    with Image.open(p) as _im:
+     _hash=imagehash.phash(_im.convert("RGB").crop((10,5,110,94)))
+    if any(_hash-h<=7 for h in FFF_HASHES):
+     status="generic_not_club_crest";reason="FFF placeholder, not a team crest"
   except Exception as err:
    status="invalid";reason=str(err)
  ref=references.get(cid,{})
@@ -50,6 +72,12 @@ duplicates={key:ids for key,ids in group.items() if len(ids)>1}
 if duplicates:
  for r in checks:
   if r["sha256"] in duplicates:r["reason"]="Possible identical logo for IDs: "+",".join(duplicates[r["sha256"]])
+if duplicates:
+ for entry in checks:
+  if entry["sha256"] in duplicates:
+   entry["status"]="unverified_duplicate"
+   entry["flagUrl"]=""
+   entry["reason"]="same PNG for several team IDs; no documented parent affiliation"
 for r in rows:
  check=next(c for c in checks if c["team_id"]==r["team_id"])
  if check["status"]=="ok":
@@ -66,7 +94,7 @@ out=AUDIT_DIR/"published_overseas_manifest.csv"
 with out.open("w",encoding="utf8",newline="") as f:
  w=csv.DictWriter(f,fieldnames=list(checks[0]));w.writeheader();w.writerows(checks)
 counts={k:collections.Counter(c["territory"] for c in checks if c["status"]==k) for k in ["ok","invalid","missing"]}
-report={"total":len(checks),"published":sum(c["status"]=="ok" for c in checks),"invalid":sum(c["status"]=="invalid" for c in checks),"missing":sum(c["status"]=="missing" for c in checks),"by_territory":dict(counts["ok"]),"duplicate_sha256":duplicates,"unresolved":[{k:v for k,v in c.items() if k in ("team_id","club","territory","status","reason")} for c in checks if c["status"]!="ok"]}
+report={"total":len(checks),"published":sum(c["status"]=="ok" for c in checks),"invalid":sum(c["status"]=="invalid" for c in checks),"missing":sum(c["status"]=="missing" for c in checks),"by_territory":dict(counts["ok"]),"duplicate_sha256":duplicates,"placeholder_count":sum(c["status"]=="generic_not_club_crest" for c in checks),"unresolved":[{k:v for k,v in c.items() if k in ("team_id","club","territory","status","reason")} for c in checks if c["status"]!="ok"]}
 (AUDIT_DIR/"published_overseas_validation.json").write_text(json.dumps(report,ensure_ascii=False,indent=2),encoding="utf8")
 print(json.dumps({k:v for k,v in report.items() if k!="unresolved"},ensure_ascii=False,indent=2))
 if report["invalid"]:raise SystemExit("Invalid PNG artwork detected, inspect report")
