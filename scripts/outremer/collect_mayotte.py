@@ -2,7 +2,7 @@
 """Find authentic club crests for Mayotte from matching SportCorico club pages.
 NEVER use a site logo, placeholder, homonym, wrong territory or invent a crest.
 Writes auditable statuses; auto-accepted images require a matching club title and territory.
-Read extra 2026 identity aliases for Sporting B/M, COSMA Foot and EJ Balate.
+Use verified 2026 Mayotte club aliases.
 """
 import csv, re, io, os, hashlib, unicodedata, time
 from pathlib import Path
@@ -12,6 +12,12 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 import requests
 from bs4 import BeautifulSoup
 from PIL import Image
+import imagehash
+FFF_TEMPLATES=[]
+for _id in (1990262000021,1990262000111):
+ _p=Path("audit/outremer-2026-27/quarantine")/(str(_id)+".png")
+ if _p.exists():
+  with Image.open(_p) as _im: FFF_TEMPLATES.append(imagehash.phash(_im.convert("RGB").crop((10,5,110,94))))
 
 ROSTER=Path("audit/outremer-2026-27/roster_326.csv")
 DEST=Path("flags/clubs/standard/outremer-2026-27")
