@@ -18,6 +18,11 @@ jobs:
           python-version: '3.11'
       - run: pip install requests beautifulsoup4 pillow
       - run: python tools/nir_v13_official_data.py
+      - name: Upload source snapshot for cross-check
+        uses: actions/upload-artifact@v4
+        with:
+          name: nir-v13-official-snapshot
+          path: docs/nir-clubs-2026-27/v13-extension/official_snapshot.json
       - name: Publish source-labelled club inventories and badges
         run: |
           git config user.name "github-actions[bot]"
