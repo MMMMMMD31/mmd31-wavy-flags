@@ -58,6 +58,16 @@ for url in ["https://www.pitchero.com/clubs/trojansyouthcommunitygroup","https:/
         item["imgs"]=[{"alt":i.get("alt",""),"src":i.get("src"),"data_src":i.get("data-src"),"srcset":(i.get("srcset") or "")[:150]} for i in soup.select("img")][:50]
     except Exception as e:item["error"]=str(e)[:180]
     results.append(item)
+for url in ["https://tamhi.org/sports-club/st-patricks-ym-fc/"]:
+    item={"page":url}
+    try:
+        r=requests.get(url,timeout=20,headers={"User-Agent":"Mozilla/5.0"})
+        item["status"]=r.status_code;item["length"]=len(r.content)
+        soup=bs4.BeautifulSoup(r.text,"html.parser")
+        item["imgs"]=[{"alt":i.get("alt",""),"src":i.get("src"),"data_src":i.get("data-src"),"parent":i.parent.get_text(" ",strip=True)[:60] if i.parent else ""} for i in soup.select("img")][:200]
+        item["meta"]=[{"key":m.get("property") or m.get("name"),"value":m.get("content","")} for m in soup.select("meta") if "image" in str(m).lower()][:20]
+    except Exception as e:item["error"]=str(e)[:160]
+    results.append(item)
 out=ROOT/"nafl_probe.json"
 out.write_text(json.dumps(results,ensure_ascii=False,indent=2))
 for x in results:print(x["page"],x.get("status"),x.get("length"),len(x.get("imgs",[])),x.get("error",""))
