@@ -168,6 +168,22 @@ try:
   (ROOT/"scotland-2026-27-v13/slfl-debug.json").write_text(json.dumps(examples[:100],ensure_ascii=False,indent=2))
 except Exception:pass
 
+
+# Alias verified against the official 2026/27 SLFL badge archive filenames.
+SLFL_ARCHIVE_ALIASES={
+ "Linlithgow Rose":"linlithgow",
+ "Hill of Beath Hawthorn":"hillofbeathhawthorn-",
+ "Broxburn Athletic":"broxburn",
+ "Bo'ness United":"boness",
+ "Musselburgh Athletic":"musselburgh",
+ "University of Stirling":"stirling-uni-green",
+ "Pollok":"pollokfc",
+ "Johnstone Burgh":"johnstone-burgh-fc-",
+ "Cumnock Juniors":"cumnock-juniors-fc-",
+ "Cumbernauld Colts":"cumbernauld",
+ "Newton Stewart":"newton-stewart-f-c-",
+}
+
 slflpack=load_official_slfl_zip()
 logos=espn()
 guardian=guardian_catalog()
@@ -175,7 +191,8 @@ statuses=[]
 for i,row in enumerate(rows,1):
  name=row["club"];needle=ALIASES.get(name,name)
  candidates=[]
- if row['division'] in ('D3','D4','D5E','D5W') and norm(needle) in slflpack:candidates.append(slflpack[norm(needle)])
+ slflkey=SLFL_ARCHIVE_ALIASES.get(name,norm(needle))
+ if row['division'] in ('D3','D4','D5E','D5W') and slflkey in slflpack:candidates.append(slflpack[slflkey])
  if norm(needle) in logos:candidates.append(logos[norm(needle)])
  if norm(needle) in guardian:candidates.append(guardian[norm(needle)])
  for result in (sportsdb(needle) if row['division'] in ('D3','D4') else None,):
