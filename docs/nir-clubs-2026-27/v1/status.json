@@ -1,0 +1,1142 @@
+{
+  "created": 17,
+  "expected": 142,
+  "missing_count": 125,
+  "size": [
+    120,
+    96
+  ],
+  "victory_flags_created": 0,
+  "crests": [
+    {
+      "id": 1900231300001,
+      "name": "Ballymena United",
+      "division": "D1",
+      "status": "created",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/northern-ireland/Ballymena_United.svg",
+      "source_kind": "public_svg",
+      "background_rgb": [
+        136,
+        201,
+        244
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300001.png",
+      "sha256": "e584c8f9e1a1453f661895c105cd48d329e0fd97ff0e9bbe6596808917395508"
+    },
+    {
+      "id": 1900231300002,
+      "name": "Bangor",
+      "division": "D1",
+      "status": "created",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/northern-ireland/Bangor.svg",
+      "source_kind": "public_svg",
+      "background_rgb": [
+        92,
+        157,
+        201
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300002.png",
+      "sha256": "cd0cc8a095fbb1f87a313fc77d31afa2a67925a84a2310d651f1aa91ce5cf994"
+    },
+    {
+      "id": 1900231300003,
+      "name": "Carrick Rangers",
+      "division": "D1",
+      "status": "created",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/northern-ireland/Carrick_Rangers.svg",
+      "source_kind": "public_svg",
+      "background_rgb": [
+        244,
+        201,
+        114
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300003.png",
+      "sha256": "8ef540be4080bcd408b36013fdaee28270e57c0725c6f8a0143aed28e27f4169"
+    },
+    {
+      "id": 1900231300004,
+      "name": "Cliftonville",
+      "division": "D1",
+      "status": "created",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/northern-ireland/Cliftonville.svg",
+      "source_kind": "public_svg",
+      "background_rgb": [
+        114,
+        157,
+        114
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300004.png",
+      "sha256": "e8b58a1b0ca5dc96f1f980465f23a2ae4122129c8be329898cddf6c52966c981"
+    },
+    {
+      "id": 1900231300005,
+      "name": "Coleraine",
+      "division": "D1",
+      "status": "created",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/northern-ireland/Coleraine.svg",
+      "source_kind": "public_svg",
+      "background_rgb": [
+        114,
+        114,
+        179
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300005.png",
+      "sha256": "955fdd70d88753603aa75604f26af09454552a94287cc60902a2f79b50733f38"
+    },
+    {
+      "id": 1900231300006,
+      "name": "Crusaders",
+      "division": "D1",
+      "status": "created",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/northern-ireland/Crusaders.svg",
+      "source_kind": "public_svg",
+      "background_rgb": [
+        244,
+        114,
+        114
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300006.png",
+      "sha256": "eedaa6d30ea70e8fbaf5b44205a2347178791a2bc52259cc89d0644021327786"
+    },
+    {
+      "id": 1900231300007,
+      "name": "Dungannon Swifts",
+      "division": "D1",
+      "status": "created",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/northern-ireland/Dungannon.svg",
+      "source_kind": "public_svg",
+      "background_rgb": [
+        114,
+        136,
+        201
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300007.png",
+      "sha256": "3661ed68f577d02b1b894c9455d31efd918a0dcd56ff9d0f5f5749b75badbf9c"
+    },
+    {
+      "id": 1900231300008,
+      "name": "Glentoran",
+      "division": "D1",
+      "status": "created",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/northern-ireland/Glentoran.svg",
+      "source_kind": "public_svg",
+      "background_rgb": [
+        92,
+        136,
+        92
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300008.png",
+      "sha256": "08d28a8253f7561c7a94ab7c0e4d1b5da7989eeab4298c4a56d6bf22a599e549"
+    },
+    {
+      "id": 1900231300009,
+      "name": "Limavady United",
+      "division": "D1",
+      "status": "created",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/northern-ireland/Limavady_United.svg",
+      "source_kind": "public_svg",
+      "background_rgb": [
+        92,
+        92,
+        157
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300009.png",
+      "sha256": "17ba8736120c73deb8c5979bb5bda5fd6f63f870bdc9a78169973f7bc452abef"
+    },
+    {
+      "id": 1900231300010,
+      "name": "Larne",
+      "division": "D1",
+      "status": "created",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/northern-ireland/Larne.svg",
+      "source_kind": "public_svg",
+      "background_rgb": [
+        223,
+        92,
+        114
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300010.png",
+      "sha256": "ae66fd8e982e0cd916630551a1c00b105d9f472a701b270f4449e12ccc7d8aee"
+    },
+    {
+      "id": 1900231300011,
+      "name": "Linfield",
+      "division": "D1",
+      "status": "created",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/northern-ireland/Linfield.svg",
+      "source_kind": "public_svg",
+      "background_rgb": [
+        244,
+        244,
+        92
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300011.png",
+      "sha256": "5a35c11b755d48c26ee25d5436138a86c1e2e5d20e13bcf764375d9eb2167f59"
+    },
+    {
+      "id": 1900231300012,
+      "name": "Portadown",
+      "division": "D1",
+      "status": "created",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/northern-ireland/Portadown.svg",
+      "source_kind": "public_svg",
+      "background_rgb": [
+        223,
+        92,
+        114
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300012.png",
+      "sha256": "ade09b5711bebab72e68fc942450b991380fb311c2d90b590ade491852119092"
+    },
+    {
+      "id": 1900231300013,
+      "name": "Glenavon",
+      "division": "D2",
+      "status": "created",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/northern-ireland/Glenavon.svg",
+      "source_kind": "public_svg",
+      "background_rgb": [
+        114,
+        157,
+        223
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300013.png",
+      "sha256": "15efe104df7843349d16b2cabc955f3b38b3bfccfc1f131c49be3039d3a33ca0"
+    },
+    {
+      "id": 1900231300014,
+      "name": "Moyola Park",
+      "division": "D2",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Moyola%20Park"
+    },
+    {
+      "id": 1900231300015,
+      "name": "Strabane Athletic",
+      "division": "D2",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Strabane%20Athletic"
+    },
+    {
+      "id": 1900231300016,
+      "name": "Rathfriland Rangers",
+      "division": "D2",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Rathfriland%20Rangers"
+    },
+    {
+      "id": 1900231300017,
+      "name": "Newry City",
+      "division": "D2",
+      "status": "created",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/northern-ireland/Newry_City.svg",
+      "source_kind": "public_svg",
+      "background_rgb": [
+        92,
+        114,
+        157
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300017.png",
+      "sha256": "dfdbae0544c2c229d59af734658a2988953b7018ede38738127fa846e441a9b4"
+    },
+    {
+      "id": 1900231300018,
+      "name": "Annagh United",
+      "division": "D2",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Annagh%20United"
+    },
+    {
+      "id": 1900231300019,
+      "name": "Loughgall",
+      "division": "D2",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Loughgall"
+    },
+    {
+      "id": 1900231300020,
+      "name": "Harland & Wolff Welders",
+      "division": "D2",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Harland%20%26%20Wolff%20Welders"
+    },
+    {
+      "id": 1900231300021,
+      "name": "Institute",
+      "division": "D2",
+      "status": "created",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/northern-ireland/Institute.svg",
+      "source_kind": "public_svg",
+      "background_rgb": [
+        179,
+        92,
+        114
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300021.png",
+      "sha256": "c4b8c28f7cb85d2bcfc4283322d61915b8e9aea346ba12fee7241947af0c16e4"
+    },
+    {
+      "id": 1900231300022,
+      "name": "Queen’s University",
+      "division": "D2",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Queen%E2%80%99s%20University"
+    },
+    {
+      "id": 1900231300023,
+      "name": "Newington",
+      "division": "D2",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Newington"
+    },
+    {
+      "id": 1900231300024,
+      "name": "Ards",
+      "division": "D2",
+      "status": "created",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/northern-ireland/Ards.svg",
+      "source_kind": "public_svg",
+      "background_rgb": [
+        92,
+        136,
+        179
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300024.png",
+      "sha256": "3bc5f76788d9163e591a4742e1e63648cd413a19d7cfd99fa1a46aab9a27a5f8"
+    },
+    {
+      "id": 1900231300025,
+      "name": "Warrenpoint Town",
+      "division": "D2",
+      "status": "created",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/northern-ireland/Warrenpoint_Town.svg",
+      "source_kind": "public_svg",
+      "background_rgb": [
+        92,
+        92,
+        136
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300025.png",
+      "sha256": "4574e3fdbafea905703debb25cdfdb3a710ce867f1b1fc45df30a6d914debdd6"
+    },
+    {
+      "id": 1900231300026,
+      "name": "Armagh City",
+      "division": "D2",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Armagh%20City"
+    },
+    {
+      "id": 1900231300027,
+      "name": "Dundela",
+      "division": "D2",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Dundela"
+    },
+    {
+      "id": 1900231300028,
+      "name": "Ballinamallard United",
+      "division": "D2",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Ballinamallard%20United"
+    },
+    {
+      "id": 1900231300029,
+      "name": "Portstewart",
+      "division": "D3",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Portstewart"
+    },
+    {
+      "id": 1900231300030,
+      "name": "St James Swifts",
+      "division": "D3",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=St%20James%20Swifts"
+    },
+    {
+      "id": 1900231300031,
+      "name": "Dergview",
+      "division": "D3",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Dergview"
+    },
+    {
+      "id": 1900231300032,
+      "name": "Ballyclare Comrades",
+      "division": "D3",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Ballyclare%20Comrades"
+    },
+    {
+      "id": 1900231300033,
+      "name": "Ballymacash Rangers",
+      "division": "D3",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Ballymacash%20Rangers"
+    },
+    {
+      "id": 1900231300034,
+      "name": "Lisburn Distillery",
+      "division": "D3",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Lisburn%20Distillery"
+    },
+    {
+      "id": 1900231300035,
+      "name": "Dollingstown",
+      "division": "D3",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Dollingstown"
+    },
+    {
+      "id": 1900231300036,
+      "name": "Rosario Youth",
+      "division": "D3",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Rosario%20Youth"
+    },
+    {
+      "id": 1900231300037,
+      "name": "Oxford Sunnyside",
+      "division": "D3",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Oxford%20Sunnyside"
+    },
+    {
+      "id": 1900231300038,
+      "name": "Knockbreda",
+      "division": "D3",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Knockbreda"
+    },
+    {
+      "id": 1900231300039,
+      "name": "Coagh United",
+      "division": "D3",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Coagh%20United"
+    },
+    {
+      "id": 1900231300040,
+      "name": "Banbridge Town",
+      "division": "D3",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Banbridge%20Town"
+    },
+    {
+      "id": 1900231300041,
+      "name": "Comber Recreation",
+      "division": "D4_NAFL",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Comber%20Recreation"
+    },
+    {
+      "id": 1900231300042,
+      "name": "Dunmurry Young Men",
+      "division": "D4_NAFL",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Dunmurry%20Young%20Men"
+    },
+    {
+      "id": 1900231300043,
+      "name": "Derriaghy Cricket Club",
+      "division": "D4_NAFL",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Derriaghy%20Cricket%20Club"
+    },
+    {
+      "id": 1900231300044,
+      "name": "Lisburn Rangers",
+      "division": "D4_NAFL",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Lisburn%20Rangers"
+    },
+    {
+      "id": 1900231300045,
+      "name": "Ards Rangers",
+      "division": "D4_NAFL",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Ards%20Rangers"
+    },
+    {
+      "id": 1900231300046,
+      "name": "Dromara Village",
+      "division": "D4_NAFL",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Dromara%20Village"
+    },
+    {
+      "id": 1900231300047,
+      "name": "Crumlin Star",
+      "division": "D4_NAFL",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Crumlin%20Star"
+    },
+    {
+      "id": 1900231300048,
+      "name": "Holywood",
+      "division": "D4_NAFL",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Holywood"
+    },
+    {
+      "id": 1900231300049,
+      "name": "Islandmagee",
+      "division": "D4_NAFL",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Islandmagee"
+    },
+    {
+      "id": 1900231300050,
+      "name": "Immaculata",
+      "division": "D4_NAFL",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Immaculata"
+    },
+    {
+      "id": 1900231300051,
+      "name": "Drumaness Mills",
+      "division": "D4_NAFL",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Drumaness%20Mills"
+    },
+    {
+      "id": 1900231300052,
+      "name": "Abbey Villa",
+      "division": "D4_NAFL",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Abbey%20Villa"
+    },
+    {
+      "id": 1900231300053,
+      "name": "East Belfast",
+      "division": "D4_NAFL",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=East%20Belfast"
+    },
+    {
+      "id": 1900231300054,
+      "name": "Mossley",
+      "division": "D4_NAFL",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Mossley"
+    },
+    {
+      "id": 1900231300055,
+      "name": "Banbridge Rangers",
+      "division": "D4_MUFL",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Banbridge%20Rangers"
+    },
+    {
+      "id": 1900231300056,
+      "name": "Bourneview Mill",
+      "division": "D4_MUFL",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Bourneview%20Mill"
+    },
+    {
+      "id": 1900231300057,
+      "name": "Crewe United",
+      "division": "D4_MUFL",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Crewe%20United"
+    },
+    {
+      "id": 1900231300058,
+      "name": "FC Mindwell",
+      "division": "D4_MUFL",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=FC%20Mindwell"
+    },
+    {
+      "id": 1900231300059,
+      "name": "Fivemiletown United",
+      "division": "D4_MUFL",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Fivemiletown%20United"
+    },
+    {
+      "id": 1900231300060,
+      "name": "Laurelvale",
+      "division": "D4_MUFL",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Laurelvale"
+    },
+    {
+      "id": 1900231300061,
+      "name": "Lower Maze",
+      "division": "D4_MUFL",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Lower%20Maze"
+    },
+    {
+      "id": 1900231300062,
+      "name": "Lurgan Town",
+      "division": "D4_MUFL",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Lurgan%20Town"
+    },
+    {
+      "id": 1900231300063,
+      "name": "Moneyslane",
+      "division": "D4_MUFL",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Moneyslane"
+    },
+    {
+      "id": 1900231300064,
+      "name": "Newmills",
+      "division": "D4_MUFL",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Newmills"
+    },
+    {
+      "id": 1900231300065,
+      "name": "Richhill AFC",
+      "division": "D4_MUFL",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Richhill%20AFC"
+    },
+    {
+      "id": 1900231300066,
+      "name": "Tandragee Rovers",
+      "division": "D4_MUFL",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Tandragee%20Rovers"
+    },
+    {
+      "id": 1900231300067,
+      "name": "Valley Rangers",
+      "division": "D4_MUFL",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Valley%20Rangers"
+    },
+    {
+      "id": 1900231300068,
+      "name": "Windmill Stars",
+      "division": "D4_MUFL",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Windmill%20Stars"
+    },
+    {
+      "id": 1900231300069,
+      "name": "Newtowne",
+      "division": "D4_BPFL",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Newtowne"
+    },
+    {
+      "id": 1900231300070,
+      "name": "Desertmartin",
+      "division": "D4_BPFL",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Desertmartin"
+    },
+    {
+      "id": 1900231300071,
+      "name": "Heights FC",
+      "division": "D4_BPFL",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Heights%20FC"
+    },
+    {
+      "id": 1900231300072,
+      "name": "Wellington Recreation",
+      "division": "D4_BPFL",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Wellington%20Recreation"
+    },
+    {
+      "id": 1900231300073,
+      "name": "Newbuildings United",
+      "division": "D4_BPFL",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Newbuildings%20United"
+    },
+    {
+      "id": 1900231300074,
+      "name": "Donegal Celtic",
+      "division": "D4_BPFL",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Donegal%20Celtic"
+    },
+    {
+      "id": 1900231300075,
+      "name": "Ballymoney United",
+      "division": "D4_BPFL",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Ballymoney%20United"
+    },
+    {
+      "id": 1900231300076,
+      "name": "Belfast Celtic",
+      "division": "D4_BPFL",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Belfast%20Celtic"
+    },
+    {
+      "id": 1900231300077,
+      "name": "Glebe Rangers",
+      "division": "D4_BPFL",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Glebe%20Rangers"
+    },
+    {
+      "id": 1900231300078,
+      "name": "Willowbank",
+      "division": "D5_NAFL",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Willowbank"
+    },
+    {
+      "id": 1900231300079,
+      "name": "St Oliver Plunkett",
+      "division": "D5_NAFL",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=St%20Oliver%20Plunkett"
+    },
+    {
+      "id": 1900231300080,
+      "name": "Sirocco Works",
+      "division": "D5_NAFL",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Sirocco%20Works"
+    },
+    {
+      "id": 1900231300081,
+      "name": "Greenisland",
+      "division": "D5_NAFL",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Greenisland"
+    },
+    {
+      "id": 1900231300082,
+      "name": "Larne Technical Old Boys",
+      "division": "D5_NAFL",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Larne%20Technical%20Old%20Boys"
+    },
+    {
+      "id": 1900231300083,
+      "name": "1st Bangor Old Boys",
+      "division": "D5_NAFL",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=1st%20Bangor%20Old%20Boys"
+    },
+    {
+      "id": 1900231300084,
+      "name": "Albert Foundry",
+      "division": "D5_NAFL",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Albert%20Foundry"
+    },
+    {
+      "id": 1900231300085,
+      "name": "Shankill United",
+      "division": "D5_NAFL",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Shankill%20United"
+    },
+    {
+      "id": 1900231300086,
+      "name": "Kilmore Recreation",
+      "division": "D5_NAFL",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Kilmore%20Recreation"
+    },
+    {
+      "id": 1900231300087,
+      "name": "Finaghy",
+      "division": "D5_NAFL",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Finaghy"
+    },
+    {
+      "id": 1900231300088,
+      "name": "Aquinas",
+      "division": "D5_NAFL",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Aquinas"
+    },
+    {
+      "id": 1900231300089,
+      "name": "18th Newtownabbey Old Boys",
+      "division": "D5_NAFL",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=18th%20Newtownabbey%20Old%20Boys"
+    },
+    {
+      "id": 1900231300090,
+      "name": "Crumlin United",
+      "division": "D5_NAFL",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Crumlin%20United"
+    },
+    {
+      "id": 1900231300091,
+      "name": "Dunmurry Recreation",
+      "division": "D5_NAFL",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Dunmurry%20Recreation"
+    },
+    {
+      "id": 1900231300092,
+      "name": "AFC Craigavon",
+      "division": "D5_MUFL",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=AFC%20Craigavon"
+    },
+    {
+      "id": 1900231300093,
+      "name": "Ambassadors",
+      "division": "D5_MUFL",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Ambassadors"
+    },
+    {
+      "id": 1900231300094,
+      "name": "Bessbrook United",
+      "division": "D5_MUFL",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Bessbrook%20United"
+    },
+    {
+      "id": 1900231300095,
+      "name": "Camlough Rovers",
+      "division": "D5_MUFL",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Camlough%20Rovers"
+    },
+    {
+      "id": 1900231300096,
+      "name": "Craigavon City",
+      "division": "D5_MUFL",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Craigavon%20City"
+    },
+    {
+      "id": 1900231300097,
+      "name": "Dromore Amateurs",
+      "division": "D5_MUFL",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Dromore%20Amateurs"
+    },
+    {
+      "id": 1900231300098,
+      "name": "Dungannon Tigers",
+      "division": "D5_MUFL",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Dungannon%20Tigers"
+    },
+    {
+      "id": 1900231300099,
+      "name": "Hanover",
+      "division": "D5_MUFL",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Hanover"
+    },
+    {
+      "id": 1900231300100,
+      "name": "Lurgan Celtic",
+      "division": "D5_MUFL",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Lurgan%20Celtic"
+    },
+    {
+      "id": 1900231300101,
+      "name": "Markethill Swifts",
+      "division": "D5_MUFL",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Markethill%20Swifts"
+    },
+    {
+      "id": 1900231300102,
+      "name": "Portadown BBOB",
+      "division": "D5_MUFL",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Portadown%20BBOB"
+    },
+    {
+      "id": 1900231300103,
+      "name": "PSNI",
+      "division": "D5_MUFL",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=PSNI"
+    },
+    {
+      "id": 1900231300104,
+      "name": "Seagoe",
+      "division": "D5_MUFL",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Seagoe"
+    },
+    {
+      "id": 1900231300105,
+      "name": "Seapatrick",
+      "division": "D5_MUFL",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Seapatrick"
+    },
+    {
+      "id": 1900231300106,
+      "name": "St Mary’s YC",
+      "division": "D5_MUFL",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=St%20Mary%E2%80%99s%20YC"
+    },
+    {
+      "id": 1900231300107,
+      "name": "Tullyvallen",
+      "division": "D5_MUFL",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Tullyvallen"
+    },
+    {
+      "id": 1900231300108,
+      "name": "Dundonald",
+      "division": "D6_NAFL_1B",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Dundonald"
+    },
+    {
+      "id": 1900231300109,
+      "name": "Rosemount Rec",
+      "division": "D6_NAFL_1B",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Rosemount%20Rec"
+    },
+    {
+      "id": 1900231300110,
+      "name": "St Matthews",
+      "division": "D6_NAFL_1B",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=St%20Matthews"
+    },
+    {
+      "id": 1900231300111,
+      "name": "Ballynahinch Olympic",
+      "division": "D6_NAFL_1B",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Ballynahinch%20Olympic"
+    },
+    {
+      "id": 1900231300112,
+      "name": "Bryansburn Rangers",
+      "division": "D6_NAFL_1B",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Bryansburn%20Rangers"
+    },
+    {
+      "id": 1900231300113,
+      "name": "Killyleagh YC",
+      "division": "D6_NAFL_1B",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Killyleagh%20YC"
+    },
+    {
+      "id": 1900231300114,
+      "name": "Shamrock",
+      "division": "D6_NAFL_1B",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Shamrock"
+    },
+    {
+      "id": 1900231300115,
+      "name": "Woodvale",
+      "division": "D6_NAFL_1B",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Woodvale"
+    },
+    {
+      "id": 1900231300116,
+      "name": "Newcastle Town",
+      "division": "D6_NAFL_1B",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Newcastle%20Town"
+    },
+    {
+      "id": 1900231300117,
+      "name": "Downshire YM",
+      "division": "D6_NAFL_1B",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Downshire%20YM"
+    },
+    {
+      "id": 1900231300118,
+      "name": "St Lukes",
+      "division": "D6_NAFL_1B",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=St%20Lukes"
+    },
+    {
+      "id": 1900231300119,
+      "name": "St Marys (Newtownabbey)",
+      "division": "D6_NAFL_1B",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=St%20Marys%20%28Newtownabbey%29"
+    },
+    {
+      "id": 1900231300120,
+      "name": "Colin Valley",
+      "division": "D6_NAFL_1B",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Colin%20Valley"
+    },
+    {
+      "id": 1900231300121,
+      "name": "Bangor Amateurs",
+      "division": "D6_NAFL_1B",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Bangor%20Amateurs"
+    },
+    {
+      "id": 1900231300122,
+      "name": "Malachians",
+      "division": "D7_NAFL_1C",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Malachians"
+    },
+    {
+      "id": 1900231300123,
+      "name": "Tullycarnet",
+      "division": "D7_NAFL_1C",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Tullycarnet"
+    },
+    {
+      "id": 1900231300124,
+      "name": "Castlewellan Town",
+      "division": "D7_NAFL_1C",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Castlewellan%20Town"
+    },
+    {
+      "id": 1900231300125,
+      "name": "Saintfield United",
+      "division": "D7_NAFL_1C",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Saintfield%20United"
+    },
+    {
+      "id": 1900231300126,
+      "name": "Shorts",
+      "division": "D7_NAFL_1C",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Shorts"
+    },
+    {
+      "id": 1900231300127,
+      "name": "Suffolk",
+      "division": "D7_NAFL_1C",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Suffolk"
+    },
+    {
+      "id": 1900231300128,
+      "name": "Bloomfield",
+      "division": "D7_NAFL_1C",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Bloomfield"
+    },
+    {
+      "id": 1900231300129,
+      "name": "Portaferry Rovers",
+      "division": "D7_NAFL_1C",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Portaferry%20Rovers"
+    },
+    {
+      "id": 1900231300130,
+      "name": "Grove United",
+      "division": "D7_NAFL_1C",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Grove%20United"
+    },
+    {
+      "id": 1900231300131,
+      "name": "Portavogie Rangers",
+      "division": "D7_NAFL_1C",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Portavogie%20Rangers"
+    },
+    {
+      "id": 1900231300132,
+      "name": "Ballynahinch United",
+      "division": "D7_NAFL_1C",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Ballynahinch%20United"
+    },
+    {
+      "id": 1900231300133,
+      "name": "Orangefield OB",
+      "division": "D7_NAFL_1C",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Orangefield%20OB"
+    },
+    {
+      "id": 1900231300134,
+      "name": "Ballywalter Rec",
+      "division": "D7_NAFL_1C",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Ballywalter%20Rec"
+    },
+    {
+      "id": 1900231300135,
+      "name": "Cookstown Youth",
+      "division": "D5_BPFL",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Cookstown%20Youth"
+    },
+    {
+      "id": 1900231300136,
+      "name": "Trojans YCG",
+      "division": "D5_BPFL",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Trojans%20YCG"
+    },
+    {
+      "id": 1900231300137,
+      "name": "Maiden City",
+      "division": "D5_BPFL",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Maiden%20City"
+    },
+    {
+      "id": 1900231300138,
+      "name": "Chimney Corner",
+      "division": "D5_BPFL",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Chimney%20Corner"
+    },
+    {
+      "id": 1900231300139,
+      "name": "Brantwood",
+      "division": "D5_BPFL",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Brantwood"
+    },
+    {
+      "id": 1900231300140,
+      "name": "Killymoon Rangers",
+      "division": "D5_BPFL",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Killymoon%20Rangers"
+    },
+    {
+      "id": 1900231300141,
+      "name": "Inspired Talents",
+      "division": "D5_BPFL",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Inspired%20Talents"
+    },
+    {
+      "id": 1900231300142,
+      "name": "Tobermore United",
+      "division": "D5_BPFL",
+      "status": "missing",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Tobermore%20United"
+    }
+  ]
+}
