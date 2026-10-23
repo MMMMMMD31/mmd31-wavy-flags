@@ -31,10 +31,29 @@ def probe(args):
         data["og_images"]=[urljoin(resp.url,m.get("content")) for m in doc.select('meta[property="og:image"]') if m.get("content")]
     except Exception as e:data["error"]=str(e)[:160]
     return data
+ALT_SLUGS={
+"Pavonese":["pavonese-cigolese","calcio-pavonese"],
+"Tritium":["tritium-calcio-1908"],
+"Sandonà":["sandona-1922","sandona-calcio"],
+"Schio":["calcio-schio"],
+"Montecchio Gallo":["k-sport-montecchio-gallo","k-sport-montecchio"],
+"Città di Lanciano":["lanciano-fc","lanciano-1920","citta-di-lanciano-fc"],
+"Santegidiese":["nuova-santegidiese-1948"],
+"Angelana":["asd-angelana","angelana-1930"],
+"Pietralunghese":["pol-pietralunghese"],
+"Ossese":["polisportiva-ossese"],
+"Certosa V. Campagnano":["certosa-vigor-campagnano","certosa"],
+"Venafro":["us-venafro"],
+"Brindisi":["brindisi-football-club"],
+"Real Forio":["real-forio-2014"],
+"Licata":["licata-calcio"],
+"Modica":["new-modica-calcio"],
+}
 tasks=[]
 for name in NAMES:
     tasks.append((name,"https://www.datasport.it/calcio/squadra/"+slug(name)+".html"))
     tasks.append((name,"https://www.datasport.it/calcio/squadra/"+slug(name).replace("-","")+".html"))
+    for alias in ALT_SLUGS.get(name,[]): tasks.append((name,"https://www.datasport.it/calcio/squadra/"+alias+".html"))
 tasks.extend([
  ("special LME","https://www.datasport.it/calcio/squadra/lme.html"),
  ("official Lascaris","https://www.lascaris.it"),
