@@ -1,0 +1,1404 @@
+{
+  "count": 116,
+  "expected": 116,
+  "size": [
+    120,
+    96
+  ],
+  "source_repository": "JoseArroyave/football-logos",
+  "victory_flags_created": 0,
+  "assets": [
+    {
+      "id": 1793400000001,
+      "name": "Manchester City",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Manchester_City.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000001.png",
+      "background_rgb": [
+        73,
+        97,
+        122
+      ],
+      "bytes": 13209
+    },
+    {
+      "id": 1793400000002,
+      "name": "Arsenal",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Arsenal.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000002.png",
+      "background_rgb": [
+        219,
+        73,
+        73
+      ],
+      "bytes": 9632
+    },
+    {
+      "id": 1793400000003,
+      "name": "Brighton & Hove Albion",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Brighton.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000003.png",
+      "background_rgb": [
+        73,
+        122,
+        194
+      ],
+      "bytes": 9371
+    },
+    {
+      "id": 1793400000004,
+      "name": "Chelsea",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Chelsea.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000004.png",
+      "background_rgb": [
+        73,
+        73,
+        170
+      ],
+      "bytes": 13256
+    },
+    {
+      "id": 1793400000005,
+      "name": "Liverpool",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Liverpool_FC.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000005.png",
+      "background_rgb": [
+        243,
+        73,
+        97
+      ],
+      "bytes": 5052
+    },
+    {
+      "id": 1793400000006,
+      "name": "Brentford",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Brentford.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000006.png",
+      "background_rgb": [
+        243,
+        73,
+        73
+      ],
+      "bytes": 13774
+    },
+    {
+      "id": 1793400000007,
+      "name": "Leeds United",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Leeds_United.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000007.png",
+      "background_rgb": [
+        243,
+        219,
+        73
+      ],
+      "bytes": 9246
+    },
+    {
+      "id": 1793400000008,
+      "name": "Everton",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Everton.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000008.png",
+      "background_rgb": [
+        73,
+        73,
+        170
+      ],
+      "bytes": 11115
+    },
+    {
+      "id": 1793400000009,
+      "name": "Hull City",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Hull_City.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000009.png",
+      "background_rgb": [
+        243,
+        170,
+        73
+      ],
+      "bytes": 11062
+    },
+    {
+      "id": 1793400000010,
+      "name": "Ipswich Town",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Ipswich.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000010.png",
+      "background_rgb": [
+        97,
+        146,
+        194
+      ],
+      "bytes": 9005
+    },
+    {
+      "id": 1793400000011,
+      "name": "Newcastle United",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Newcastle_United.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000011.png",
+      "background_rgb": [
+        73,
+        219,
+        243
+      ],
+      "bytes": 11649
+    },
+    {
+      "id": 1793400000012,
+      "name": "Aston Villa",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Aston_Villa.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000012.png",
+      "background_rgb": [
+        170,
+        194,
+        243
+      ],
+      "bytes": 8708
+    },
+    {
+      "id": 1793400000013,
+      "name": "Manchester United",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Manchester_United.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000013.png",
+      "background_rgb": [
+        219,
+        73,
+        73
+      ],
+      "bytes": 11738
+    },
+    {
+      "id": 1793400000014,
+      "name": "Crystal Palace",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Crystal_Palace.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000014.png",
+      "background_rgb": [
+        73,
+        122,
+        194
+      ],
+      "bytes": 9813
+    },
+    {
+      "id": 1793400000015,
+      "name": "AFC Bournemouth",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Bournemouth.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000015.png",
+      "background_rgb": [
+        219,
+        73,
+        73
+      ],
+      "bytes": 8086
+    },
+    {
+      "id": 1793400000016,
+      "name": "Tottenham Hotspur",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Tottenham.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000016.png",
+      "background_rgb": [
+        73,
+        73,
+        97
+      ],
+      "bytes": 3145
+    },
+    {
+      "id": 1793400000017,
+      "name": "Coventry City",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Coventry_City.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000017.png",
+      "background_rgb": [
+        146,
+        122,
+        73
+      ],
+      "bytes": 12940
+    },
+    {
+      "id": 1793400000018,
+      "name": "Fulham",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Fulham.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000018.png",
+      "background_rgb": [
+        219,
+        73,
+        73
+      ],
+      "bytes": 5989
+    },
+    {
+      "id": 1793400000019,
+      "name": "Nottingham Forest",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Nottingham_Forest.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000019.png",
+      "background_rgb": [
+        219,
+        73,
+        73
+      ],
+      "bytes": 4535
+    },
+    {
+      "id": 1793400000020,
+      "name": "Sunderland",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Sunderland.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000020.png",
+      "background_rgb": [
+        243,
+        73,
+        97
+      ],
+      "bytes": 11758
+    },
+    {
+      "id": 1793400000021,
+      "name": "Swansea City",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Swansea_City.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000021.png",
+      "background_rgb": [
+        99,
+        114,
+        137
+      ],
+      "bytes": 6553
+    },
+    {
+      "id": 1793400000022,
+      "name": "West Ham United",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/West_Ham.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000022.png",
+      "background_rgb": [
+        146,
+        97,
+        97
+      ],
+      "bytes": 8939
+    },
+    {
+      "id": 1793400000023,
+      "name": "Middlesbrough",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Middlesbrough.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000023.png",
+      "background_rgb": [
+        219,
+        73,
+        97
+      ],
+      "bytes": 13960
+    },
+    {
+      "id": 1793400000024,
+      "name": "Southampton",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Southampton.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000024.png",
+      "background_rgb": [
+        243,
+        73,
+        97
+      ],
+      "bytes": 10355
+    },
+    {
+      "id": 1793400000025,
+      "name": "Birmingham City",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Birmingham_City.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000025.png",
+      "background_rgb": [
+        73,
+        97,
+        170
+      ],
+      "bytes": 9915
+    },
+    {
+      "id": 1793400000026,
+      "name": "West Bromwich Albion",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/West_Bromwich_Albion.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000026.png",
+      "background_rgb": [
+        73,
+        73,
+        122
+      ],
+      "bytes": 10396
+    },
+    {
+      "id": 1793400000027,
+      "name": "Stoke City",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Stoke_City.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000027.png",
+      "background_rgb": [
+        219,
+        73,
+        97
+      ],
+      "bytes": 7014
+    },
+    {
+      "id": 1793400000028,
+      "name": "Wolverhampton Wanderers",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Wolverhampton_Wanderers.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000028.png",
+      "background_rgb": [
+        243,
+        194,
+        73
+      ],
+      "bytes": 7602
+    },
+    {
+      "id": 1793400000029,
+      "name": "Queens Park Rangers",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Queens_Park_Rangers.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000029.png",
+      "background_rgb": [
+        73,
+        122,
+        194
+      ],
+      "bytes": 12536
+    },
+    {
+      "id": 1793400000030,
+      "name": "Blackburn Rovers",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Blackburn_Rovers.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000030.png",
+      "background_rgb": [
+        73,
+        170,
+        243
+      ],
+      "bytes": 14677
+    },
+    {
+      "id": 1793400000031,
+      "name": "Sheffield United",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Sheffield_United.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000031.png",
+      "background_rgb": [
+        243,
+        97,
+        97
+      ],
+      "bytes": 11890
+    },
+    {
+      "id": 1793400000032,
+      "name": "Millwall",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Millwall.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000032.png",
+      "background_rgb": [
+        73,
+        97,
+        146
+      ],
+      "bytes": 10864
+    },
+    {
+      "id": 1793400000033,
+      "name": "Portsmouth",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Portsmouth.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000033.png",
+      "background_rgb": [
+        97,
+        97,
+        170
+      ],
+      "bytes": 13359
+    },
+    {
+      "id": 1793400000034,
+      "name": "Wrexham",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Wrexham_AFC.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000034.png",
+      "background_rgb": [
+        73,
+        146,
+        122
+      ],
+      "bytes": 10784
+    },
+    {
+      "id": 1793400000035,
+      "name": "Bolton Wanderers",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Bolton_Wanderers.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000035.png",
+      "background_rgb": [
+        97,
+        97,
+        146
+      ],
+      "bytes": 6222
+    },
+    {
+      "id": 1793400000036,
+      "name": "Bristol City",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Bristol_City.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000036.png",
+      "background_rgb": [
+        243,
+        73,
+        97
+      ],
+      "bytes": 10750
+    },
+    {
+      "id": 1793400000037,
+      "name": "Charlton Athletic",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Charlton_Athletic.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000037.png",
+      "background_rgb": [
+        219,
+        97,
+        97
+      ],
+      "bytes": 11432
+    },
+    {
+      "id": 1793400000038,
+      "name": "Lincoln City",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Lincoln_City.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000038.png",
+      "background_rgb": [
+        243,
+        97,
+        97
+      ],
+      "bytes": 5302
+    },
+    {
+      "id": 1793400000039,
+      "name": "Cardiff City",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Cardiff_City.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000039.png",
+      "background_rgb": [
+        97,
+        122,
+        194
+      ],
+      "bytes": 11563
+    },
+    {
+      "id": 1793400000040,
+      "name": "Watford",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Watford.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000040.png",
+      "background_rgb": [
+        243,
+        97,
+        97
+      ],
+      "bytes": 7488
+    },
+    {
+      "id": 1793400000041,
+      "name": "Norwich City",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Norwich_City.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000041.png",
+      "background_rgb": [
+        73,
+        170,
+        122
+      ],
+      "bytes": 7691
+    },
+    {
+      "id": 1793400000042,
+      "name": "Burnley",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Burnley.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000042.png",
+      "background_rgb": [
+        122,
+        73,
+        122
+      ],
+      "bytes": 8775
+    },
+    {
+      "id": 1793400000043,
+      "name": "Derby County",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Derby_County.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000043.png",
+      "background_rgb": [
+        99,
+        114,
+        137
+      ],
+      "bytes": 6567
+    },
+    {
+      "id": 1793400000044,
+      "name": "Preston North End",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Preston_North_End.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000044.png",
+      "background_rgb": [
+        73,
+        73,
+        122
+      ],
+      "bytes": 12148
+    },
+    {
+      "id": 1793400000045,
+      "name": "Bradford City",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Bradford_City.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000045.png",
+      "background_rgb": [
+        243,
+        194,
+        97
+      ],
+      "bytes": 7282
+    },
+    {
+      "id": 1793400000046,
+      "name": "Stockport County",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Stockport_County.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000046.png",
+      "background_rgb": [
+        73,
+        122,
+        170
+      ],
+      "bytes": 14014
+    },
+    {
+      "id": 1793400000047,
+      "name": "Huddersfield Town",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Huddersfield_Town.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000047.png",
+      "background_rgb": [
+        73,
+        122,
+        170
+      ],
+      "bytes": 10362
+    },
+    {
+      "id": 1793400000048,
+      "name": "Plymouth Argyle",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Plymouth_Argyle.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000048.png",
+      "background_rgb": [
+        99,
+        114,
+        137
+      ],
+      "bytes": 12423
+    },
+    {
+      "id": 1793400000049,
+      "name": "Cambridge United",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Cambridge_United.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000049.png",
+      "background_rgb": [
+        243,
+        170,
+        73
+      ],
+      "bytes": 6095
+    },
+    {
+      "id": 1793400000050,
+      "name": "Sheffield Wednesday",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Sheffield_Wednesday.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000050.png",
+      "background_rgb": [
+        73,
+        97,
+        194
+      ],
+      "bytes": 6801
+    },
+    {
+      "id": 1793400000051,
+      "name": "Reading",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Reading.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000051.png",
+      "background_rgb": [
+        219,
+        73,
+        122
+      ],
+      "bytes": 12075
+    },
+    {
+      "id": 1793400000052,
+      "name": "Oxford United",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Oxford_United.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000052.png",
+      "background_rgb": [
+        243,
+        243,
+        73
+      ],
+      "bytes": 9689
+    },
+    {
+      "id": 1793400000053,
+      "name": "Leyton Orient",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Leyton_Orient.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000053.png",
+      "background_rgb": [
+        243,
+        73,
+        73
+      ],
+      "bytes": 13592
+    },
+    {
+      "id": 1793400000054,
+      "name": "Mansfield Town",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Mansfield_Town.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000054.png",
+      "background_rgb": [
+        97,
+        122,
+        170
+      ],
+      "bytes": 6257
+    },
+    {
+      "id": 1793400000055,
+      "name": "Wycombe Wanderers",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Wycombe_Wanderers.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000055.png",
+      "background_rgb": [
+        73,
+        97,
+        122
+      ],
+      "bytes": 11595
+    },
+    {
+      "id": 1793400000056,
+      "name": "Burton Albion",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Burton_Albion.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000056.png",
+      "background_rgb": [
+        194,
+        170,
+        122
+      ],
+      "bytes": 11878
+    },
+    {
+      "id": 1793400000057,
+      "name": "Stevenage",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Stevenage.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000057.png",
+      "background_rgb": [
+        194,
+        73,
+        97
+      ],
+      "bytes": 13098
+    },
+    {
+      "id": 1793400000058,
+      "name": "Leicester City",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Leicester.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000058.png",
+      "background_rgb": [
+        73,
+        122,
+        194
+      ],
+      "bytes": 14761
+    },
+    {
+      "id": 1793400000059,
+      "name": "AFC Wimbledon",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/AFC_Wimbledon.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000059.png",
+      "background_rgb": [
+        243,
+        73,
+        73
+      ],
+      "bytes": 9627
+    },
+    {
+      "id": 1793400000060,
+      "name": "Luton Town",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Luton_Town.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000060.png",
+      "background_rgb": [
+        73,
+        97,
+        146
+      ],
+      "bytes": 10141
+    },
+    {
+      "id": 1793400000061,
+      "name": "Milton Keynes Dons",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Milton_Keynes_Dons.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000061.png",
+      "background_rgb": [
+        219,
+        194,
+        170
+      ],
+      "bytes": 11311
+    },
+    {
+      "id": 1793400000062,
+      "name": "Peterborough United",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Peterborough_United.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000062.png",
+      "background_rgb": [
+        73,
+        97,
+        170
+      ],
+      "bytes": 7405
+    },
+    {
+      "id": 1793400000063,
+      "name": "Doncaster Rovers",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Doncaster_Rovers.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000063.png",
+      "background_rgb": [
+        170,
+        170,
+        122
+      ],
+      "bytes": 10759
+    },
+    {
+      "id": 1793400000064,
+      "name": "Blackpool",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Blackpool.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000064.png",
+      "background_rgb": [
+        243,
+        170,
+        73
+      ],
+      "bytes": 10320
+    },
+    {
+      "id": 1793400000065,
+      "name": "Notts County",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Notts_County.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000065.png",
+      "background_rgb": [
+        194,
+        170,
+        122
+      ],
+      "bytes": 7462
+    },
+    {
+      "id": 1793400000066,
+      "name": "Barnsley",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Barnsley.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000066.png",
+      "background_rgb": [
+        194,
+        73,
+        73
+      ],
+      "bytes": 12884
+    },
+    {
+      "id": 1793400000067,
+      "name": "Bromley",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Bromley.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000067.png",
+      "background_rgb": [
+        194,
+        170,
+        146
+      ],
+      "bytes": 13120
+    },
+    {
+      "id": 1793400000068,
+      "name": "Wigan Athletic",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Wigan_Athletic.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000068.png",
+      "background_rgb": [
+        73,
+        122,
+        194
+      ],
+      "bytes": 12178
+    },
+    {
+      "id": 1793400000069,
+      "name": "Salford City",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Salford_City.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000069.png",
+      "background_rgb": [
+        243,
+        122,
+        73
+      ],
+      "bytes": 12255
+    },
+    {
+      "id": 1793400000070,
+      "name": "Barnet",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Barnet.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000070.png",
+      "background_rgb": [
+        73,
+        194,
+        146
+      ],
+      "bytes": 11440
+    },
+    {
+      "id": 1793400000071,
+      "name": "Crewe Alexandra",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Crewe_Alexandra.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000071.png",
+      "background_rgb": [
+        194,
+        73,
+        73
+      ],
+      "bytes": 10477
+    },
+    {
+      "id": 1793400000072,
+      "name": "Walsall",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Walsall.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000072.png",
+      "background_rgb": [
+        243,
+        73,
+        97
+      ],
+      "bytes": 10876
+    },
+    {
+      "id": 1793400000073,
+      "name": "York City",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/York_City.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000073.png",
+      "background_rgb": [
+        73,
+        97,
+        146
+      ],
+      "bytes": 8816
+    },
+    {
+      "id": 1793400000074,
+      "name": "Gillingham",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Gillingham.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000074.png",
+      "background_rgb": [
+        73,
+        122,
+        194
+      ],
+      "bytes": 6728
+    },
+    {
+      "id": 1793400000075,
+      "name": "Chesterfield",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Chesterfield.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000075.png",
+      "background_rgb": [
+        73,
+        122,
+        170
+      ],
+      "bytes": 9932
+    },
+    {
+      "id": 1793400000076,
+      "name": "Cheltenham Town",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Cheltenham_Town.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000076.png",
+      "background_rgb": [
+        219,
+        97,
+        97
+      ],
+      "bytes": 5505
+    },
+    {
+      "id": 1793400000077,
+      "name": "Bristol Rovers",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Bristol_Rovers.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000077.png",
+      "background_rgb": [
+        73,
+        122,
+        170
+      ],
+      "bytes": 9587
+    },
+    {
+      "id": 1793400000078,
+      "name": "Accrington Stanley",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Accrington_Stanley.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000078.png",
+      "background_rgb": [
+        194,
+        97,
+        73
+      ],
+      "bytes": 14314
+    },
+    {
+      "id": 1793400000079,
+      "name": "Newport County",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Newport_County.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000079.png",
+      "background_rgb": [
+        243,
+        194,
+        73
+      ],
+      "bytes": 11736
+    },
+    {
+      "id": 1793400000080,
+      "name": "Fleetwood Town",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Fleetwood_Town.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000080.png",
+      "background_rgb": [
+        219,
+        73,
+        97
+      ],
+      "bytes": 10505
+    },
+    {
+      "id": 1793400000081,
+      "name": "Rochdale",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Rochdale.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000081.png",
+      "background_rgb": [
+        97,
+        97,
+        170
+      ],
+      "bytes": 12872
+    },
+    {
+      "id": 1793400000082,
+      "name": "Shrewsbury Town",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Shrewsbury_Town.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000082.png",
+      "background_rgb": [
+        73,
+        122,
+        170
+      ],
+      "bytes": 14439
+    },
+    {
+      "id": 1793400000083,
+      "name": "Grimsby Town",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Grimsby_Town.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000083.png",
+      "background_rgb": [
+        170,
+        73,
+        73
+      ],
+      "bytes": 9110
+    },
+    {
+      "id": 1793400000084,
+      "name": "Exeter City",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Exeter_City.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000084.png",
+      "background_rgb": [
+        243,
+        73,
+        122
+      ],
+      "bytes": 12359
+    },
+    {
+      "id": 1793400000085,
+      "name": "Tranmere Rovers",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Tranmere_Rovers.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000085.png",
+      "background_rgb": [
+        219,
+        73,
+        97
+      ],
+      "bytes": 10896
+    },
+    {
+      "id": 1793400000086,
+      "name": "Swindon Town",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Swindon_Town.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000086.png",
+      "background_rgb": [
+        219,
+        73,
+        73
+      ],
+      "bytes": 10854
+    },
+    {
+      "id": 1793400000087,
+      "name": "Oldham Athletic",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Oldham_Athletic.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000087.png",
+      "background_rgb": [
+        73,
+        122,
+        170
+      ],
+      "bytes": 5760
+    },
+    {
+      "id": 1793400000088,
+      "name": "Colchester United",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Colchester_United.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000088.png",
+      "background_rgb": [
+        73,
+        146,
+        194
+      ],
+      "bytes": 9105
+    },
+    {
+      "id": 1793400000089,
+      "name": "Port Vale",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Port_Vale_FC.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000089.png",
+      "background_rgb": [
+        219,
+        170,
+        73
+      ],
+      "bytes": 10711
+    },
+    {
+      "id": 1793400000090,
+      "name": "Northampton Town",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Northampton_Town.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000090.png",
+      "background_rgb": [
+        170,
+        97,
+        122
+      ],
+      "bytes": 10449
+    },
+    {
+      "id": 1793400000091,
+      "name": "Rotherham United",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Rotherham_United.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000091.png",
+      "background_rgb": [
+        243,
+        73,
+        97
+      ],
+      "bytes": 9818
+    },
+    {
+      "id": 1793400000092,
+      "name": "Crawley Town",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Crawley_Town.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000092.png",
+      "background_rgb": [
+        219,
+        73,
+        97
+      ],
+      "bytes": 10838
+    },
+    {
+      "id": 1793400000093,
+      "name": "Boreham Wood",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Boreham_Wood.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000093.png",
+      "background_rgb": [
+        99,
+        114,
+        137
+      ],
+      "bytes": 10223
+    },
+    {
+      "id": 1793400000094,
+      "name": "Harrogate Town",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Harrogate_Town.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000094.png",
+      "background_rgb": [
+        243,
+        219,
+        73
+      ],
+      "bytes": 11183
+    },
+    {
+      "id": 1793400000095,
+      "name": "Southend United",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Southend_United.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000095.png",
+      "background_rgb": [
+        73,
+        97,
+        146
+      ],
+      "bytes": 12257
+    },
+    {
+      "id": 1793400000096,
+      "name": "Altrincham",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Altrincham_FC.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000096.png",
+      "background_rgb": [
+        194,
+        146,
+        122
+      ],
+      "bytes": 11811
+    },
+    {
+      "id": 1793400000097,
+      "name": "AFC Fylde",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/AFC_Fylde.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000097.png",
+      "background_rgb": [
+        243,
+        97,
+        97
+      ],
+      "bytes": 14243
+    },
+    {
+      "id": 1793400000098,
+      "name": "Yeovil Town",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Yeovil_Town.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000098.png",
+      "background_rgb": [
+        97,
+        170,
+        97
+      ],
+      "bytes": 12022
+    },
+    {
+      "id": 1793400000099,
+      "name": "Aldershot Town",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Aldershot_Town.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000099.png",
+      "background_rgb": [
+        73,
+        73,
+        170
+      ],
+      "bytes": 13878
+    },
+    {
+      "id": 1793400000100,
+      "name": "Worthing",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Worthing.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000100.png",
+      "background_rgb": [
+        243,
+        97,
+        97
+      ],
+      "bytes": 13086
+    },
+    {
+      "id": 1793400000101,
+      "name": "Kidderminster Harriers",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Kidderminster_Harriers.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000101.png",
+      "background_rgb": [
+        243,
+        97,
+        97
+      ],
+      "bytes": 6519
+    },
+    {
+      "id": 1793400000102,
+      "name": "Hornchurch",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Hornchurch.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000102.png",
+      "background_rgb": [
+        243,
+        219,
+        97
+      ],
+      "bytes": 10921
+    },
+    {
+      "id": 1793400000103,
+      "name": "Sutton United",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Sutton_United.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000103.png",
+      "background_rgb": [
+        73,
+        146,
+        170
+      ],
+      "bytes": 10834
+    },
+    {
+      "id": 1793400000104,
+      "name": "Forest Green Rovers",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Forest_Green_Rovers.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000104.png",
+      "background_rgb": [
+        194,
+        219,
+        73
+      ],
+      "bytes": 13050
+    },
+    {
+      "id": 1793400000105,
+      "name": "Barrow",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Barrow_AFC.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000105.png",
+      "background_rgb": [
+        97,
+        97,
+        146
+      ],
+      "bytes": 8711
+    },
+    {
+      "id": 1793400000106,
+      "name": "Eastleigh",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Eastleigh.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000106.png",
+      "background_rgb": [
+        97,
+        97,
+        146
+      ],
+      "bytes": 12976
+    },
+    {
+      "id": 1793400000107,
+      "name": "FC Halifax Town",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/FC_Halifax_Town.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000107.png",
+      "background_rgb": [
+        73,
+        97,
+        122
+      ],
+      "bytes": 12231
+    },
+    {
+      "id": 1793400000108,
+      "name": "Carlisle United",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Carlisle_United.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000108.png",
+      "background_rgb": [
+        97,
+        146,
+        194
+      ],
+      "bytes": 13707
+    },
+    {
+      "id": 1793400000109,
+      "name": "Wealdstone",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Wealdstone.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000109.png",
+      "background_rgb": [
+        73,
+        146,
+        194
+      ],
+      "bytes": 10523
+    },
+    {
+      "id": 1793400000110,
+      "name": "Woking",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Woking_FC.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000110.png",
+      "background_rgb": [
+        194,
+        73,
+        97
+      ],
+      "bytes": 12132
+    },
+    {
+      "id": 1793400000111,
+      "name": "Boston United",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Boston_United.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000111.png",
+      "background_rgb": [
+        243,
+        219,
+        73
+      ],
+      "bytes": 13729
+    },
+    {
+      "id": 1793400000112,
+      "name": "Scunthorpe United",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Scunthorpe_United.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000112.png",
+      "background_rgb": [
+        194,
+        97,
+        122
+      ],
+      "bytes": 10983
+    },
+    {
+      "id": 1793400000113,
+      "name": "Tamworth",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Tamworth.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000113.png",
+      "background_rgb": [
+        122,
+        122,
+        194
+      ],
+      "bytes": 10377
+    },
+    {
+      "id": 1793400000114,
+      "name": "Hartlepool United",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Hartlepool_United.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000114.png",
+      "background_rgb": [
+        97,
+        122,
+        170
+      ],
+      "bytes": 6744
+    },
+    {
+      "id": 1793400000115,
+      "name": "Solihull Moors",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Solihull_Moors.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000115.png",
+      "background_rgb": [
+        73,
+        97,
+        122
+      ],
+      "bytes": 11208
+    },
+    {
+      "id": 1793400000116,
+      "name": "Gateshead",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/england/Gateshead_FC.svg",
+      "github_path": "docs/english-clubs-2026-27/v1/1793400000116.png",
+      "background_rgb": [
+        99,
+        114,
+        137
+      ],
+      "bytes": 11408
+    }
+  ]
+}
