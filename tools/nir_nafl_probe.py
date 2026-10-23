@@ -25,6 +25,19 @@ for url in ["https://www.thenafl.co.uk/script.js","https://www.thenafl.co.uk/div
         item["src"]=[txt[max(0,m.start()-250):m.end()+270] for m in list(re.finditer("badge|logo|\\.json|api/|team_image",txt,re.I))[:50]]
     except Exception as e:item["error"]=str(e)[:200]
     results.append(item)
+for url in ["https://www.thenafl.co.uk/data/tables.json","https://www.thenafl.co.uk/data/clubs-dev.json","https://www.thenafl.co.uk/data/fixtures.json"]:
+    item={"page":url}
+    try:
+        r=requests.get(url,timeout=25,headers={"User-Agent":"Mozilla/5.0"})
+        item["status"]=r.status_code;item["length"]=len(r.content)
+        obj=r.json()
+        item["shape"]=str(obj)[:4500]
+        item["keys"]=list(obj.keys()) if isinstance(obj,dict) else None
+        if isinstance(obj,dict):
+            for key,val in obj.items():
+                item.setdefault("examples",[]).append({"key":key,"type":type(val).__name__,"len":len(val) if hasattr(val,"__len__") else None,"head":str(val)[:400]})
+    except Exception as e:item["error"]=str(e)[:200]
+    results.append(item)
 out=ROOT/"nafl_probe.json"
 out.write_text(json.dumps(results,ensure_ascii=False,indent=2))
 for x in results:print(x["page"],x.get("status"),x.get("length"),len(x.get("imgs",[])),x.get("error",""))
