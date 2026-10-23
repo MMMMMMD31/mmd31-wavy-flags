@@ -57,7 +57,16 @@ ALIASES={
 "Flaminia Civitacastellana":"Flaminia_Civita_Castellana",
 "Cjarlins Muzane":"ASD_Cjarlins_Muzane",
 "Brian Lignano":"Brian_Lignano_Calcio",
-"LME":"", "FC_Foo":""
+
+"Monza":"Monza","Roma":"Roma","Treviso":"Treviso_FBC_1993",
+"Palazzolo":"FC_Pro_Palazzolo",
+"Scanzorosciate":"USD_Scanzorosciate_Calcio",
+"La Rocca Altavilla":"Unione_La_Rocca_Altavilla",
+"Castellanzese":"USD_Castellanzese_1921",
+"Casatese Merate":"USD_Casatese_Merate",
+"Oltrepò":"Oltrepò_FBC","Gelbison":"Gelbison_Cilento",
+"Gravina":"FBC_Gravina",
+"LME":""
 }
 def resolve(name):
     selected=ALIASES.get(name)
