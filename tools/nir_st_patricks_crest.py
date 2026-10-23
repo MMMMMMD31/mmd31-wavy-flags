@@ -11,9 +11,17 @@ matches=[x for x in teams.json() if x.get("name")=="St Patricks Y.M. F.C." and x
 assert len(matches)==1, f"Expected one distinct club identity, got {len(matches)}"
 club=matches[0]
 assert club.get("badge")=="st-patricks-ym.png",club
-logo_url="https://www.thenafl.co.uk/images/badges/"+club["badge"]
+# NAFL confirms identity and colours, but its local badge path currently serves HTML.
+# TAMHI's club-specific page embeds a real "St-Patrick-YM.png" image.
+club_profile="https://tamhi.org/sports-club/st-patricks-ym-fc/"
+from bs4 import BeautifulSoup
+page=s.get(club_profile,timeout=25);page.raise_for_status()
+soup=BeautifulSoup(page.text,"html.parser")
+candidate="https://tamhi.org/wp-content/uploads/2024/05/St-Patrick-YM.png"
+assert any(tag.get("src")==candidate for tag in soup.select("img")), "Source badge not attached to exact club page"
+logo_url=candidate
 r=s.get(logo_url,timeout=25);r.raise_for_status()
-assert "image" in r.headers.get("content-type",""),r.headers.get("content-type")
+assert "image" in r.headers.get("content-type",""),(r.status_code,r.headers.get("content-type"),r.url)
 src=Image.open(io.BytesIO(r.content));src.load()
 assert src.size[0]>=40 and src.size[1]>=40,src.size
 src=src.convert("RGBA")
@@ -33,7 +41,7 @@ for team_id in (1900231300166,1900231300255):
     rgb.save(path,format="PNG",optimize=True)
     with Image.open(path) as check:
         assert check.format=="PNG" and check.size==(120,96)
-    output.append({"id":team_id,"path":str(path),"sha256":hashlib.sha256(path.read_bytes()).hexdigest(),"source":logo_url,"dimensions":[120,96],"identity":"St Patricks Y.M. F.C.","status":"PUBLIE","review":"official NAFL catalogue name slug badge exact"})
-status={"catalogue":catalogue,"name":club.get("name"),"slug":club.get("slug"),"club_id":club.get("id"),"official_badge":club.get("badge"),"source":logo_url,"original_dimensions":list(Image.open(io.BytesIO(r.content)).size),"image_sha256":hashlib.sha256(r.content).hexdigest(),"output":output}
+    output.append({"id":team_id,"path":str(path),"sha256":hashlib.sha256(path.read_bytes()).hexdigest(),"source":logo_url,"dimensions":[120,96],"identity":"St Patricks Y.M. F.C.","status":"PUBLIE","review":"official NAFL club identity and colors; TAMHI page explicit club image (visual identity check required)"})
+status={"catalogue":catalogue,"name":club.get("name"),"slug":club.get("slug"),"club_id":club.get("id"),"official_badge":club.get("badge"),"source":logo_url,"source_club_page":club_profile,"original_dimensions":list(Image.open(io.BytesIO(r.content)).size),"image_sha256":hashlib.sha256(r.content).hexdigest(),"output":output}
 (out/"st_patricks_ym_badges_audit.json").write_text(json.dumps(status,ensure_ascii=False,indent=2)+"\n")
 print(json.dumps(status,ensure_ascii=False))
