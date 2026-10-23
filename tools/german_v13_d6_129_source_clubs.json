@@ -1,0 +1,647 @@
+[
+  {
+    "id": 1898200000695,
+    "group": "Landesliga Schleswig",
+    "name": "TuS Nortorf"
+  },
+  {
+    "id": 1898200000696,
+    "group": "Landesliga Schleswig",
+    "name": "Heikendorfer SV"
+  },
+  {
+    "id": 1898200000697,
+    "group": "Landesliga Schleswig",
+    "name": "Inter Türkspor Kiel"
+  },
+  {
+    "id": 1898200000698,
+    "group": "Landesliga Schleswig",
+    "name": "SpVg Eidertal Molfsee"
+  },
+  {
+    "id": 1898200000699,
+    "group": "Landesliga Schleswig",
+    "name": "SSG Rot-Schwarz Kiel"
+  },
+  {
+    "id": 1898200000700,
+    "group": "Landesliga Schleswig",
+    "name": "TSV Klausdorf"
+  },
+  {
+    "id": 1898200000701,
+    "group": "Landesliga Schleswig",
+    "name": "TSV Kronshagen"
+  },
+  {
+    "id": 1898200000702,
+    "group": "Landesliga Schleswig",
+    "name": "Husumer SV"
+  },
+  {
+    "id": 1898200000703,
+    "group": "Landesliga Schleswig",
+    "name": "SV Dörpum"
+  },
+  {
+    "id": 1898200000704,
+    "group": "Landesliga Schleswig",
+    "name": "SV Frisia 03 Risum-Lindholm"
+  },
+  {
+    "id": 1898200000705,
+    "group": "Landesliga Schleswig",
+    "name": "TSV Hattstedt"
+  },
+  {
+    "id": 1898200000706,
+    "group": "Landesliga Schleswig",
+    "name": "TSV Rantrum"
+  },
+  {
+    "id": 1898200000707,
+    "group": "Landesliga Schleswig",
+    "name": "SC Weiche Flensburg 08 II"
+  },
+  {
+    "id": 1898200000708,
+    "group": "Landesliga Schleswig",
+    "name": "TSV Friedrichsberg-Busdorf"
+  },
+  {
+    "id": 1898200000709,
+    "group": "Landesliga Schleswig",
+    "name": "TSV Kropp"
+  },
+  {
+    "id": 1898200000710,
+    "group": "Landesliga Schleswig",
+    "name": "TSV Heiligenstedten"
+  },
+  {
+    "id": 1898200000711,
+    "group": "Landesliga Holstein",
+    "name": "Eichholzer SV"
+  },
+  {
+    "id": 1898200000712,
+    "group": "Landesliga Holstein",
+    "name": "FC Dornbreite Lübeck"
+  },
+  {
+    "id": 1898200000713,
+    "group": "Landesliga Holstein",
+    "name": "SV Azadi Lübeck"
+  },
+  {
+    "id": 1898200000714,
+    "group": "Landesliga Holstein",
+    "name": "TSV 1982 Lübeck"
+  },
+  {
+    "id": 1898200000715,
+    "group": "Landesliga Holstein",
+    "name": "SSC Hagen Ahrensburg"
+  },
+  {
+    "id": 1898200000716,
+    "group": "Landesliga Holstein",
+    "name": "SV Preußen 09 Reinfeld"
+  },
+  {
+    "id": 1898200000717,
+    "group": "Landesliga Holstein",
+    "name": "SVT Bad Oldesloe"
+  },
+  {
+    "id": 1898200000718,
+    "group": "Landesliga Holstein",
+    "name": "TSV Bargteheide"
+  },
+  {
+    "id": 1898200000719,
+    "group": "Landesliga Holstein",
+    "name": "Eutiner SV 08"
+  },
+  {
+    "id": 1898200000720,
+    "group": "Landesliga Holstein",
+    "name": "SVG Pönitz"
+  },
+  {
+    "id": 1898200000721,
+    "group": "Landesliga Holstein",
+    "name": "TSV Pansdorf"
+  },
+  {
+    "id": 1898200000722,
+    "group": "Landesliga Holstein",
+    "name": "SC Rönnau 74"
+  },
+  {
+    "id": 1898200000723,
+    "group": "Landesliga Holstein",
+    "name": "SV Todesfelde II"
+  },
+  {
+    "id": 1898200000724,
+    "group": "Landesliga Holstein",
+    "name": "TuS Hartenholm"
+  },
+  {
+    "id": 1898200000725,
+    "group": "Landesliga Holstein",
+    "name": "TSV Lägerdorf"
+  },
+  {
+    "id": 1898200000726,
+    "group": "Landesliga Holstein",
+    "name": "VfR Horst"
+  },
+  {
+    "id": 1898200000727,
+    "group": "Landesliga Niedersachsen Braunschweig",
+    "name": "1. SC Göttingen 05"
+  },
+  {
+    "id": 1898200000728,
+    "group": "Landesliga Niedersachsen Braunschweig",
+    "name": "MTV Wolfenbüttel"
+  },
+  {
+    "id": 1898200000729,
+    "group": "Landesliga Niedersachsen Braunschweig",
+    "name": "SSV Kästorf"
+  },
+  {
+    "id": 1898200000730,
+    "group": "Landesliga Niedersachsen Braunschweig",
+    "name": "U.S.I. Lupo Martini Wolfsburg"
+  },
+  {
+    "id": 1898200000731,
+    "group": "Landesliga Niedersachsen Braunschweig",
+    "name": "Bovender SV"
+  },
+  {
+    "id": 1898200000732,
+    "group": "Landesliga Niedersachsen Braunschweig",
+    "name": "FC Germania Bleckenstedt"
+  },
+  {
+    "id": 1898200000733,
+    "group": "Landesliga Niedersachsen Braunschweig",
+    "name": "FT Braunschweig"
+  },
+  {
+    "id": 1898200000734,
+    "group": "Landesliga Niedersachsen Braunschweig",
+    "name": "Eintracht Northeim"
+  },
+  {
+    "id": 1898200000735,
+    "group": "Landesliga Niedersachsen Braunschweig",
+    "name": "SC Rot-Weiß Volkmarode"
+  },
+  {
+    "id": 1898200000736,
+    "group": "Landesliga Niedersachsen Braunschweig",
+    "name": "MTV Gifhorn"
+  },
+  {
+    "id": 1898200000737,
+    "group": "Landesliga Niedersachsen Braunschweig",
+    "name": "SVG Göttingen"
+  },
+  {
+    "id": 1898200000738,
+    "group": "Landesliga Niedersachsen Braunschweig",
+    "name": "SG Landolfshausen/Seulingen"
+  },
+  {
+    "id": 1898200000739,
+    "group": "Landesliga Niedersachsen Braunschweig",
+    "name": "VfB Fallersleben"
+  },
+  {
+    "id": 1898200000740,
+    "group": "Landesliga Niedersachsen Braunschweig",
+    "name": "Lehndorfer TSV"
+  },
+  {
+    "id": 1898200000741,
+    "group": "Landesliga Niedersachsen Braunschweig",
+    "name": "SSV Vorsfelde II"
+  },
+  {
+    "id": 1898200000742,
+    "group": "Landesliga Niedersachsen Braunschweig",
+    "name": "TSG Bad Harzburg"
+  },
+  {
+    "id": 1898200000743,
+    "group": "Landesliga Niedersachsen Hannover",
+    "name": "SSG Halvestorf-Herkendorf"
+  },
+  {
+    "id": 1898200000744,
+    "group": "Landesliga Niedersachsen Hannover",
+    "name": "SV Ramlingen-Ehlershausen"
+  },
+  {
+    "id": 1898200000745,
+    "group": "Landesliga Niedersachsen Hannover",
+    "name": "TSV Krähenwinkel-Kaltenweide"
+  },
+  {
+    "id": 1898200000746,
+    "group": "Landesliga Niedersachsen Hannover",
+    "name": "SV Arminia Hannover"
+  },
+  {
+    "id": 1898200000747,
+    "group": "Landesliga Niedersachsen Hannover",
+    "name": "VfR Evesen"
+  },
+  {
+    "id": 1898200000748,
+    "group": "Landesliga Niedersachsen Hannover",
+    "name": "SV Bavenstedt"
+  },
+  {
+    "id": 1898200000749,
+    "group": "Landesliga Niedersachsen Hannover",
+    "name": "SV Iraklis Hellas"
+  },
+  {
+    "id": 1898200000750,
+    "group": "Landesliga Niedersachsen Hannover",
+    "name": "TSV Pattensen"
+  },
+  {
+    "id": 1898200000751,
+    "group": "Landesliga Niedersachsen Hannover",
+    "name": "TSV Wetschen"
+  },
+  {
+    "id": 1898200000752,
+    "group": "Landesliga Niedersachsen Hannover",
+    "name": "TSV Mühlenfeld"
+  },
+  {
+    "id": 1898200000753,
+    "group": "Landesliga Niedersachsen Hannover",
+    "name": "1. FC Wunstorf"
+  },
+  {
+    "id": 1898200000754,
+    "group": "Landesliga Niedersachsen Hannover",
+    "name": "OSV Hannover"
+  },
+  {
+    "id": 1898200000755,
+    "group": "Landesliga Niedersachsen Hannover",
+    "name": "SV Blau-Weiß Neuhof"
+  },
+  {
+    "id": 1898200000756,
+    "group": "Landesliga Niedersachsen Hannover",
+    "name": "SG Hannover 1874"
+  },
+  {
+    "id": 1898200000757,
+    "group": "Landesliga Niedersachsen Hannover",
+    "name": "TSV Godshorn"
+  },
+  {
+    "id": 1898200000758,
+    "group": "Landesliga Niedersachsen Lüneburg",
+    "name": "MTV Eintracht Celle"
+  },
+  {
+    "id": 1898200000759,
+    "group": "Landesliga Niedersachsen Lüneburg",
+    "name": "SV Blau-Weiß Bornreihe"
+  },
+  {
+    "id": 1898200000760,
+    "group": "Landesliga Niedersachsen Lüneburg",
+    "name": "SV Lindwedel-Hope"
+  },
+  {
+    "id": 1898200000761,
+    "group": "Landesliga Niedersachsen Lüneburg",
+    "name": "SV Ahlerstedt/Ottendorf"
+  },
+  {
+    "id": 1898200000762,
+    "group": "Landesliga Niedersachsen Lüneburg",
+    "name": "FC Hagen/Uthlede"
+  },
+  {
+    "id": 1898200000763,
+    "group": "Landesliga Niedersachsen Lüneburg",
+    "name": "Rotenburger SV"
+  },
+  {
+    "id": 1898200000764,
+    "group": "Landesliga Niedersachsen Lüneburg",
+    "name": "SV Scharmbeck-Pattensen-Axstedt"
+  },
+  {
+    "id": 1898200000765,
+    "group": "Landesliga Niedersachsen Lüneburg",
+    "name": "TSV Elstorf"
+  },
+  {
+    "id": 1898200000766,
+    "group": "Landesliga Niedersachsen Lüneburg",
+    "name": "MTV Treubund Lüneburg"
+  },
+  {
+    "id": 1898200000767,
+    "group": "Landesliga Niedersachsen Lüneburg",
+    "name": "TV Jahn Schneverdingen"
+  },
+  {
+    "id": 1898200000768,
+    "group": "Landesliga Niedersachsen Lüneburg",
+    "name": "TuS Harsefeld"
+  },
+  {
+    "id": 1898200000769,
+    "group": "Landesliga Niedersachsen Lüneburg",
+    "name": "VSK Osterholz-Scharmbeck"
+  },
+  {
+    "id": 1898200000770,
+    "group": "Landesliga Niedersachsen Lüneburg",
+    "name": "MTV Römstedt"
+  },
+  {
+    "id": 1898200000771,
+    "group": "Landesliga Niedersachsen Lüneburg",
+    "name": "SV Vorwärts Hülsen"
+  },
+  {
+    "id": 1898200000772,
+    "group": "Landesliga Niedersachsen Lüneburg",
+    "name": "TSV Etelsen"
+  },
+  {
+    "id": 1898200000773,
+    "group": "Landesliga Niedersachsen Lüneburg",
+    "name": "FC Cuxhaven"
+  },
+  {
+    "id": 1898200000774,
+    "group": "Landesliga Niedersachsen Weser-Ems",
+    "name": "SV Eintracht Nordhorn"
+  },
+  {
+    "id": 1898200000775,
+    "group": "Landesliga Niedersachsen Weser-Ems",
+    "name": "SV Grün-Weiß Mühlen"
+  },
+  {
+    "id": 1898200000776,
+    "group": "Landesliga Niedersachsen Weser-Ems",
+    "name": "BV Garrel"
+  },
+  {
+    "id": 1898200000777,
+    "group": "Landesliga Niedersachsen Weser-Ems",
+    "name": "SV Bevern"
+  },
+  {
+    "id": 1898200000778,
+    "group": "Landesliga Niedersachsen Weser-Ems",
+    "name": "SC Melle 03"
+  },
+  {
+    "id": 1898200000779,
+    "group": "Landesliga Niedersachsen Weser-Ems",
+    "name": "FC Schüttorf 09"
+  },
+  {
+    "id": 1898200000780,
+    "group": "Landesliga Niedersachsen Weser-Ems",
+    "name": "TV Dinklage"
+  },
+  {
+    "id": 1898200000781,
+    "group": "Landesliga Niedersachsen Weser-Ems",
+    "name": "SC Blau-Weiß 94 Papenburg"
+  },
+  {
+    "id": 1898200000782,
+    "group": "Landesliga Niedersachsen Weser-Ems",
+    "name": "TuS Pewsum"
+  },
+  {
+    "id": 1898200000783,
+    "group": "Landesliga Niedersachsen Weser-Ems",
+    "name": "VfL Oldenburg"
+  },
+  {
+    "id": 1898200000784,
+    "group": "Landesliga Niedersachsen Weser-Ems",
+    "name": "SV Union Lohne 1920"
+  },
+  {
+    "id": 1898200000785,
+    "group": "Landesliga Niedersachsen Weser-Ems",
+    "name": "SV Altenoythe"
+  },
+  {
+    "id": 1898200000786,
+    "group": "Landesliga Niedersachsen Weser-Ems",
+    "name": "TuS Blau-Weiß Lohne II"
+  },
+  {
+    "id": 1898200000787,
+    "group": "Landesliga Niedersachsen Weser-Ems",
+    "name": "SV Holthausen-Biene"
+  },
+  {
+    "id": 1898200000788,
+    "group": "Landesliga Niedersachsen Weser-Ems",
+    "name": "Blau-Weiß Hollage"
+  },
+  {
+    "id": 1898200000789,
+    "group": "Landesliga Niedersachsen Weser-Ems",
+    "name": "VfL Wildeshausen"
+  },
+  {
+    "id": 1898200000790,
+    "group": "Landesliga Bremen",
+    "name": "Bremen United"
+  },
+  {
+    "id": 1898200000791,
+    "group": "Landesliga Bremen",
+    "name": "SC Borgfeld"
+  },
+  {
+    "id": 1898200000792,
+    "group": "Landesliga Bremen",
+    "name": "ATS Buntentor"
+  },
+  {
+    "id": 1898200000793,
+    "group": "Landesliga Bremen",
+    "name": "Tura Bremen"
+  },
+  {
+    "id": 1898200000794,
+    "group": "Landesliga Bremen",
+    "name": "FC Sparta Bremerhaven"
+  },
+  {
+    "id": 1898200000795,
+    "group": "Landesliga Bremen",
+    "name": "BSC Hastedt"
+  },
+  {
+    "id": 1898200000796,
+    "group": "Landesliga Bremen",
+    "name": "SG Findorff"
+  },
+  {
+    "id": 1898200000797,
+    "group": "Landesliga Bremen",
+    "name": "TuSpo Surheide"
+  },
+  {
+    "id": 1898200000798,
+    "group": "Landesliga Bremen",
+    "name": "FC Huchting"
+  },
+  {
+    "id": 1898200000799,
+    "group": "Landesliga Bremen",
+    "name": "Habenhauser FV"
+  },
+  {
+    "id": 1898200000800,
+    "group": "Landesliga Bremen",
+    "name": "1. FC Burg"
+  },
+  {
+    "id": 1898200000801,
+    "group": "Landesliga Bremen",
+    "name": "TuS Komet Arsten"
+  },
+  {
+    "id": 1898200000802,
+    "group": "Landesliga Bremen",
+    "name": "SC Vahr Blockdiek"
+  },
+  {
+    "id": 1898200000803,
+    "group": "Landesliga Bremen",
+    "name": "TSV Hasenbüren"
+  },
+  {
+    "id": 1898200000804,
+    "group": "Landesliga Bremen",
+    "name": "VfL 07 Bremen"
+  },
+  {
+    "id": 1898200000805,
+    "group": "Landesliga Bremen",
+    "name": "ATSV Sebaldsbrück"
+  },
+  {
+    "id": 1898200000806,
+    "group": "Rheinlandliga",
+    "name": "SG 2000 Mülheim-Kärlich"
+  },
+  {
+    "id": 1898200000807,
+    "group": "Rheinlandliga",
+    "name": "SG Hochwald 2023"
+  },
+  {
+    "id": 1898200000808,
+    "group": "Rheinlandliga",
+    "name": "TuS Immendorf"
+  },
+  {
+    "id": 1898200000809,
+    "group": "Rheinlandliga",
+    "name": "FV Hunsrückhöhe Morbach"
+  },
+  {
+    "id": 1898200000810,
+    "group": "Rheinlandliga",
+    "name": "FC Bitburg"
+  },
+  {
+    "id": 1898200000811,
+    "group": "Rheinlandliga",
+    "name": "SV Eintracht Trier 05 II"
+  },
+  {
+    "id": 1898200000812,
+    "group": "Rheinlandliga",
+    "name": "SV Laubach"
+  },
+  {
+    "id": 1898200000813,
+    "group": "Rheinlandliga",
+    "name": "FSV Trier-Tarforst"
+  },
+  {
+    "id": 1898200000814,
+    "group": "Rheinlandliga",
+    "name": "SG Schneifel 2006"
+  },
+  {
+    "id": 1898200000815,
+    "group": "Rheinlandliga",
+    "name": "SG 99 Andernach"
+  },
+  {
+    "id": 1898200000816,
+    "group": "Rheinlandliga",
+    "name": "SpVgg EGC Wirges"
+  },
+  {
+    "id": 1898200000817,
+    "group": "Rheinlandliga",
+    "name": "TuS Mosella Schweich"
+  },
+  {
+    "id": 1898200000818,
+    "group": "Rheinlandliga",
+    "name": "SG 06 Betzdorf"
+  },
+  {
+    "id": 1898200000819,
+    "group": "Rheinlandliga",
+    "name": "SG Malberg"
+  },
+  {
+    "id": 1898200000820,
+    "group": "Rheinlandliga",
+    "name": "SV Untermosel Kobern-Gondorf"
+  },
+  {
+    "id": 1898200000821,
+    "group": "Rheinlandliga",
+    "name": "VfB Linz"
+  },
+  {
+    "id": 1898200000822,
+    "group": "Rheinlandliga",
+    "name": "TuS Kirchberg"
+  },
+  {
+    "id": 1898200000823,
+    "group": "Rheinlandliga",
+    "name": "TuS Mayen"
+  }
+]
