@@ -130,7 +130,10 @@ SLFL_ZIP_SOURCE="https://slfl.co.uk/wp-content/uploads/2026/06/SLFL-Badges-2026-
 SLFL_ZIP_BYTES={}
 def load_official_slfl_zip():
  import zipfile
- r=get(SLFL_ZIP_SOURCE)
+ try:
+  r=S.get(SLFL_ZIP_SOURCE,timeout=45)
+  if not r.ok:return {}
+ except Exception:return {}
  if not r:return {}
  try:
   with zipfile.ZipFile(io.BytesIO(r.content)) as arc:
@@ -187,6 +190,11 @@ SLFL_ARCHIVE_ALIASES={
 slflpack=load_official_slfl_zip()
 logos=espn()
 guardian=guardian_catalog()
+prior={}
+try:
+ report=json.loads((ROOT/"scotland-2026-27-v13/badge-build-report.json").read_text())
+ prior={str(z["id"]):z for z in report.get("records",[]) if z.get("dimensions_verified")}
+except Exception:pass
 statuses=[]
 for i,row in enumerate(rows,1):
  name=row["club"];needle=ALIASES.get(name,name)
@@ -207,6 +215,14 @@ for i,row in enumerate(rows,1):
   with Image.open(output) as check:assert check.size==(120,96) and check.format=="PNG"
   status.update({"state":"SOURCE_FOUND_VISUAL_REVIEW_PENDING","source_url":SLFL_ZIP_SOURCE+"#"+url[len("slflpack://"):] if url.startswith("slflpack://") else url,"source_provider":provider,"matched_name":matched,"file":str(output.relative_to(ROOT)),"dimensions_verified":True})
   break
+ if not status["dimensions_verified"] and row["club_id"] in prior:
+  old=prior[row["club_id"]]
+  old_path=ROOT/old["file"]
+  if old_path.is_file():
+   try:
+    with Image.open(old_path) as old_image:
+     if old_image.size==(120,96) and old_image.format=="PNG":status=old
+   except Exception:pass
  statuses.append(status)
  print(i,name,status["state"],flush=True)
 out=ROOT/"scotland-2026-27-v13"/"badge-build-report.json"
