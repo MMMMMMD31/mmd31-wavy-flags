@@ -4,6 +4,7 @@ on:
     branches: [mmd31-ptgi-logos-20261023-test]
     paths:
       - '.github/workflows/mmd31-probe-ptgi-missing3.yml'
+      - 'tools/probe_ptgi_missing3.py'
   workflow_dispatch:
 permissions:
   contents: write
