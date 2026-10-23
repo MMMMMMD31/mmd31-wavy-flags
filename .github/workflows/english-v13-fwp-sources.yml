@@ -1,0 +1,22 @@
+name: MMD31 EN find real club crests from Football Web Pages
+on:
+  push:
+    paths:
+      - .github/workflows/english-v13-fwp-sources.yml
+permissions:
+  contents: write
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.11' }
+      - run: python -m pip install requests beautifulsoup4
+      - run: python tools/english_v13_fwp_research.py
+      - run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add docs/english-v13/footballwebpages_missing_55_images.json
+          git diff --cached --quiet || (git commit -m 'Audit real crest images from Football Web Pages by exact club match' && git push origin HEAD)
