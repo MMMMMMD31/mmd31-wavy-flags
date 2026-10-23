@@ -1,0 +1,729 @@
+[
+  {
+    "id": 1900231300001,
+    "name": "Ballymena United",
+    "division": "D1",
+    "svg": "Ballymena_United.svg"
+  },
+  {
+    "id": 1900231300002,
+    "name": "Bangor",
+    "division": "D1",
+    "svg": "Bangor.svg"
+  },
+  {
+    "id": 1900231300003,
+    "name": "Carrick Rangers",
+    "division": "D1",
+    "svg": "Carrick_Rangers.svg"
+  },
+  {
+    "id": 1900231300004,
+    "name": "Cliftonville",
+    "division": "D1",
+    "svg": "Cliftonville.svg"
+  },
+  {
+    "id": 1900231300005,
+    "name": "Coleraine",
+    "division": "D1",
+    "svg": "Coleraine.svg"
+  },
+  {
+    "id": 1900231300006,
+    "name": "Crusaders",
+    "division": "D1",
+    "svg": "Crusaders.svg"
+  },
+  {
+    "id": 1900231300007,
+    "name": "Dungannon Swifts",
+    "division": "D1",
+    "svg": "Dungannon.svg"
+  },
+  {
+    "id": 1900231300008,
+    "name": "Glentoran",
+    "division": "D1",
+    "svg": "Glentoran.svg"
+  },
+  {
+    "id": 1900231300009,
+    "name": "Limavady United",
+    "division": "D1",
+    "svg": "Limavady_United.svg"
+  },
+  {
+    "id": 1900231300010,
+    "name": "Larne",
+    "division": "D1",
+    "svg": "Larne.svg"
+  },
+  {
+    "id": 1900231300011,
+    "name": "Linfield",
+    "division": "D1",
+    "svg": "Linfield.svg"
+  },
+  {
+    "id": 1900231300012,
+    "name": "Portadown",
+    "division": "D1",
+    "svg": "Portadown.svg"
+  },
+  {
+    "id": 1900231300013,
+    "name": "Glenavon",
+    "division": "D2",
+    "svg": "Glenavon.svg"
+  },
+  {
+    "id": 1900231300014,
+    "name": "Moyola Park",
+    "division": "D2"
+  },
+  {
+    "id": 1900231300015,
+    "name": "Strabane Athletic",
+    "division": "D2"
+  },
+  {
+    "id": 1900231300016,
+    "name": "Rathfriland Rangers",
+    "division": "D2"
+  },
+  {
+    "id": 1900231300017,
+    "name": "Newry City",
+    "division": "D2",
+    "svg": "Newry_City.svg"
+  },
+  {
+    "id": 1900231300018,
+    "name": "Annagh United",
+    "division": "D2"
+  },
+  {
+    "id": 1900231300019,
+    "name": "Loughgall",
+    "division": "D2"
+  },
+  {
+    "id": 1900231300020,
+    "name": "Harland & Wolff Welders",
+    "division": "D2"
+  },
+  {
+    "id": 1900231300021,
+    "name": "Institute",
+    "division": "D2",
+    "svg": "Institute.svg"
+  },
+  {
+    "id": 1900231300022,
+    "name": "Queen’s University",
+    "division": "D2"
+  },
+  {
+    "id": 1900231300023,
+    "name": "Newington",
+    "division": "D2"
+  },
+  {
+    "id": 1900231300024,
+    "name": "Ards",
+    "division": "D2",
+    "svg": "Ards.svg"
+  },
+  {
+    "id": 1900231300025,
+    "name": "Warrenpoint Town",
+    "division": "D2",
+    "svg": "Warrenpoint_Town.svg"
+  },
+  {
+    "id": 1900231300026,
+    "name": "Armagh City",
+    "division": "D2"
+  },
+  {
+    "id": 1900231300027,
+    "name": "Dundela",
+    "division": "D2"
+  },
+  {
+    "id": 1900231300028,
+    "name": "Ballinamallard United",
+    "division": "D2"
+  },
+  {
+    "id": 1900231300029,
+    "name": "Portstewart",
+    "division": "D3"
+  },
+  {
+    "id": 1900231300030,
+    "name": "St James Swifts",
+    "division": "D3"
+  },
+  {
+    "id": 1900231300031,
+    "name": "Dergview",
+    "division": "D3"
+  },
+  {
+    "id": 1900231300032,
+    "name": "Ballyclare Comrades",
+    "division": "D3"
+  },
+  {
+    "id": 1900231300033,
+    "name": "Ballymacash Rangers",
+    "division": "D3"
+  },
+  {
+    "id": 1900231300034,
+    "name": "Lisburn Distillery",
+    "division": "D3"
+  },
+  {
+    "id": 1900231300035,
+    "name": "Dollingstown",
+    "division": "D3"
+  },
+  {
+    "id": 1900231300036,
+    "name": "Rosario Youth",
+    "division": "D3"
+  },
+  {
+    "id": 1900231300037,
+    "name": "Oxford Sunnyside",
+    "division": "D3"
+  },
+  {
+    "id": 1900231300038,
+    "name": "Knockbreda",
+    "division": "D3"
+  },
+  {
+    "id": 1900231300039,
+    "name": "Coagh United",
+    "division": "D3"
+  },
+  {
+    "id": 1900231300040,
+    "name": "Banbridge Town",
+    "division": "D3"
+  },
+  {
+    "id": 1900231300041,
+    "name": "Comber Recreation",
+    "division": "D4_NAFL"
+  },
+  {
+    "id": 1900231300042,
+    "name": "Dunmurry Young Men",
+    "division": "D4_NAFL"
+  },
+  {
+    "id": 1900231300043,
+    "name": "Derriaghy Cricket Club",
+    "division": "D4_NAFL"
+  },
+  {
+    "id": 1900231300044,
+    "name": "Lisburn Rangers",
+    "division": "D4_NAFL"
+  },
+  {
+    "id": 1900231300045,
+    "name": "Ards Rangers",
+    "division": "D4_NAFL"
+  },
+  {
+    "id": 1900231300046,
+    "name": "Dromara Village",
+    "division": "D4_NAFL"
+  },
+  {
+    "id": 1900231300047,
+    "name": "Crumlin Star",
+    "division": "D4_NAFL"
+  },
+  {
+    "id": 1900231300048,
+    "name": "Holywood",
+    "division": "D4_NAFL"
+  },
+  {
+    "id": 1900231300049,
+    "name": "Islandmagee",
+    "division": "D4_NAFL"
+  },
+  {
+    "id": 1900231300050,
+    "name": "Immaculata",
+    "division": "D4_NAFL"
+  },
+  {
+    "id": 1900231300051,
+    "name": "Drumaness Mills",
+    "division": "D4_NAFL"
+  },
+  {
+    "id": 1900231300052,
+    "name": "Abbey Villa",
+    "division": "D4_NAFL"
+  },
+  {
+    "id": 1900231300053,
+    "name": "East Belfast",
+    "division": "D4_NAFL"
+  },
+  {
+    "id": 1900231300054,
+    "name": "Mossley",
+    "division": "D4_NAFL"
+  },
+  {
+    "id": 1900231300055,
+    "name": "Banbridge Rangers",
+    "division": "D4_MUFL"
+  },
+  {
+    "id": 1900231300056,
+    "name": "Bourneview Mill",
+    "division": "D4_MUFL"
+  },
+  {
+    "id": 1900231300057,
+    "name": "Crewe United",
+    "division": "D4_MUFL"
+  },
+  {
+    "id": 1900231300058,
+    "name": "FC Mindwell",
+    "division": "D4_MUFL"
+  },
+  {
+    "id": 1900231300059,
+    "name": "Fivemiletown United",
+    "division": "D4_MUFL"
+  },
+  {
+    "id": 1900231300060,
+    "name": "Laurelvale",
+    "division": "D4_MUFL"
+  },
+  {
+    "id": 1900231300061,
+    "name": "Lower Maze",
+    "division": "D4_MUFL"
+  },
+  {
+    "id": 1900231300062,
+    "name": "Lurgan Town",
+    "division": "D4_MUFL"
+  },
+  {
+    "id": 1900231300063,
+    "name": "Moneyslane",
+    "division": "D4_MUFL"
+  },
+  {
+    "id": 1900231300064,
+    "name": "Newmills",
+    "division": "D4_MUFL"
+  },
+  {
+    "id": 1900231300065,
+    "name": "Richhill AFC",
+    "division": "D4_MUFL"
+  },
+  {
+    "id": 1900231300066,
+    "name": "Tandragee Rovers",
+    "division": "D4_MUFL"
+  },
+  {
+    "id": 1900231300067,
+    "name": "Valley Rangers",
+    "division": "D4_MUFL"
+  },
+  {
+    "id": 1900231300068,
+    "name": "Windmill Stars",
+    "division": "D4_MUFL"
+  },
+  {
+    "id": 1900231300069,
+    "name": "Newtowne",
+    "division": "D4_BPFL"
+  },
+  {
+    "id": 1900231300070,
+    "name": "Desertmartin",
+    "division": "D4_BPFL"
+  },
+  {
+    "id": 1900231300071,
+    "name": "Heights FC",
+    "division": "D4_BPFL"
+  },
+  {
+    "id": 1900231300072,
+    "name": "Wellington Recreation",
+    "division": "D4_BPFL"
+  },
+  {
+    "id": 1900231300073,
+    "name": "Newbuildings United",
+    "division": "D4_BPFL"
+  },
+  {
+    "id": 1900231300074,
+    "name": "Donegal Celtic",
+    "division": "D4_BPFL"
+  },
+  {
+    "id": 1900231300075,
+    "name": "Ballymoney United",
+    "division": "D4_BPFL"
+  },
+  {
+    "id": 1900231300076,
+    "name": "Belfast Celtic",
+    "division": "D4_BPFL"
+  },
+  {
+    "id": 1900231300077,
+    "name": "Glebe Rangers",
+    "division": "D4_BPFL"
+  },
+  {
+    "id": 1900231300078,
+    "name": "Willowbank",
+    "division": "D5_NAFL"
+  },
+  {
+    "id": 1900231300079,
+    "name": "St Oliver Plunkett",
+    "division": "D5_NAFL"
+  },
+  {
+    "id": 1900231300080,
+    "name": "Sirocco Works",
+    "division": "D5_NAFL"
+  },
+  {
+    "id": 1900231300081,
+    "name": "Greenisland",
+    "division": "D5_NAFL"
+  },
+  {
+    "id": 1900231300082,
+    "name": "Larne Technical Old Boys",
+    "division": "D5_NAFL"
+  },
+  {
+    "id": 1900231300083,
+    "name": "1st Bangor Old Boys",
+    "division": "D5_NAFL"
+  },
+  {
+    "id": 1900231300084,
+    "name": "Albert Foundry",
+    "division": "D5_NAFL"
+  },
+  {
+    "id": 1900231300085,
+    "name": "Shankill United",
+    "division": "D5_NAFL"
+  },
+  {
+    "id": 1900231300086,
+    "name": "Kilmore Recreation",
+    "division": "D5_NAFL"
+  },
+  {
+    "id": 1900231300087,
+    "name": "Finaghy",
+    "division": "D5_NAFL"
+  },
+  {
+    "id": 1900231300088,
+    "name": "Aquinas",
+    "division": "D5_NAFL"
+  },
+  {
+    "id": 1900231300089,
+    "name": "18th Newtownabbey Old Boys",
+    "division": "D5_NAFL"
+  },
+  {
+    "id": 1900231300090,
+    "name": "Crumlin United",
+    "division": "D5_NAFL"
+  },
+  {
+    "id": 1900231300091,
+    "name": "Dunmurry Recreation",
+    "division": "D5_NAFL"
+  },
+  {
+    "id": 1900231300092,
+    "name": "AFC Craigavon",
+    "division": "D5_MUFL"
+  },
+  {
+    "id": 1900231300093,
+    "name": "Ambassadors",
+    "division": "D5_MUFL"
+  },
+  {
+    "id": 1900231300094,
+    "name": "Bessbrook United",
+    "division": "D5_MUFL"
+  },
+  {
+    "id": 1900231300095,
+    "name": "Camlough Rovers",
+    "division": "D5_MUFL"
+  },
+  {
+    "id": 1900231300096,
+    "name": "Craigavon City",
+    "division": "D5_MUFL"
+  },
+  {
+    "id": 1900231300097,
+    "name": "Dromore Amateurs",
+    "division": "D5_MUFL"
+  },
+  {
+    "id": 1900231300098,
+    "name": "Dungannon Tigers",
+    "division": "D5_MUFL"
+  },
+  {
+    "id": 1900231300099,
+    "name": "Hanover",
+    "division": "D5_MUFL"
+  },
+  {
+    "id": 1900231300100,
+    "name": "Lurgan Celtic",
+    "division": "D5_MUFL"
+  },
+  {
+    "id": 1900231300101,
+    "name": "Markethill Swifts",
+    "division": "D5_MUFL"
+  },
+  {
+    "id": 1900231300102,
+    "name": "Portadown BBOB",
+    "division": "D5_MUFL"
+  },
+  {
+    "id": 1900231300103,
+    "name": "PSNI",
+    "division": "D5_MUFL"
+  },
+  {
+    "id": 1900231300104,
+    "name": "Seagoe",
+    "division": "D5_MUFL"
+  },
+  {
+    "id": 1900231300105,
+    "name": "Seapatrick",
+    "division": "D5_MUFL"
+  },
+  {
+    "id": 1900231300106,
+    "name": "St Mary’s YC",
+    "division": "D5_MUFL"
+  },
+  {
+    "id": 1900231300107,
+    "name": "Tullyvallen",
+    "division": "D5_MUFL"
+  },
+  {
+    "id": 1900231300108,
+    "name": "Dundonald",
+    "division": "D6_NAFL_1B"
+  },
+  {
+    "id": 1900231300109,
+    "name": "Rosemount Rec",
+    "division": "D6_NAFL_1B"
+  },
+  {
+    "id": 1900231300110,
+    "name": "St Matthews",
+    "division": "D6_NAFL_1B"
+  },
+  {
+    "id": 1900231300111,
+    "name": "Ballynahinch Olympic",
+    "division": "D6_NAFL_1B"
+  },
+  {
+    "id": 1900231300112,
+    "name": "Bryansburn Rangers",
+    "division": "D6_NAFL_1B"
+  },
+  {
+    "id": 1900231300113,
+    "name": "Killyleagh YC",
+    "division": "D6_NAFL_1B"
+  },
+  {
+    "id": 1900231300114,
+    "name": "Shamrock",
+    "division": "D6_NAFL_1B"
+  },
+  {
+    "id": 1900231300115,
+    "name": "Woodvale",
+    "division": "D6_NAFL_1B"
+  },
+  {
+    "id": 1900231300116,
+    "name": "Newcastle Town",
+    "division": "D6_NAFL_1B"
+  },
+  {
+    "id": 1900231300117,
+    "name": "Downshire YM",
+    "division": "D6_NAFL_1B"
+  },
+  {
+    "id": 1900231300118,
+    "name": "St Lukes",
+    "division": "D6_NAFL_1B"
+  },
+  {
+    "id": 1900231300119,
+    "name": "St Marys (Newtownabbey)",
+    "division": "D6_NAFL_1B"
+  },
+  {
+    "id": 1900231300120,
+    "name": "Colin Valley",
+    "division": "D6_NAFL_1B"
+  },
+  {
+    "id": 1900231300121,
+    "name": "Bangor Amateurs",
+    "division": "D6_NAFL_1B"
+  },
+  {
+    "id": 1900231300122,
+    "name": "Malachians",
+    "division": "D7_NAFL_1C"
+  },
+  {
+    "id": 1900231300123,
+    "name": "Tullycarnet",
+    "division": "D7_NAFL_1C"
+  },
+  {
+    "id": 1900231300124,
+    "name": "Castlewellan Town",
+    "division": "D7_NAFL_1C"
+  },
+  {
+    "id": 1900231300125,
+    "name": "Saintfield United",
+    "division": "D7_NAFL_1C"
+  },
+  {
+    "id": 1900231300126,
+    "name": "Shorts",
+    "division": "D7_NAFL_1C"
+  },
+  {
+    "id": 1900231300127,
+    "name": "Suffolk",
+    "division": "D7_NAFL_1C"
+  },
+  {
+    "id": 1900231300128,
+    "name": "Bloomfield",
+    "division": "D7_NAFL_1C"
+  },
+  {
+    "id": 1900231300129,
+    "name": "Portaferry Rovers",
+    "division": "D7_NAFL_1C"
+  },
+  {
+    "id": 1900231300130,
+    "name": "Grove United",
+    "division": "D7_NAFL_1C"
+  },
+  {
+    "id": 1900231300131,
+    "name": "Portavogie Rangers",
+    "division": "D7_NAFL_1C"
+  },
+  {
+    "id": 1900231300132,
+    "name": "Ballynahinch United",
+    "division": "D7_NAFL_1C"
+  },
+  {
+    "id": 1900231300133,
+    "name": "Orangefield OB",
+    "division": "D7_NAFL_1C"
+  },
+  {
+    "id": 1900231300134,
+    "name": "Ballywalter Rec",
+    "division": "D7_NAFL_1C"
+  },
+  {
+    "id": 1900231300135,
+    "name": "Cookstown Youth",
+    "division": "D5_BPFL"
+  },
+  {
+    "id": 1900231300136,
+    "name": "Trojans YCG",
+    "division": "D5_BPFL"
+  },
+  {
+    "id": 1900231300137,
+    "name": "Maiden City",
+    "division": "D5_BPFL"
+  },
+  {
+    "id": 1900231300138,
+    "name": "Chimney Corner",
+    "division": "D5_BPFL"
+  },
+  {
+    "id": 1900231300139,
+    "name": "Brantwood",
+    "division": "D5_BPFL"
+  },
+  {
+    "id": 1900231300140,
+    "name": "Killymoon Rangers",
+    "division": "D5_BPFL"
+  },
+  {
+    "id": 1900231300141,
+    "name": "Inspired Talents",
+    "division": "D5_BPFL"
+  },
+  {
+    "id": 1900231300142,
+    "name": "Tobermore United",
+    "division": "D5_BPFL"
+  }
+]
