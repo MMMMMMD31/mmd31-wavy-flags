@@ -1,0 +1,28 @@
+name: MMD31 - Lot 6 Pacific SPM Saint Martin crests
+on:
+  push:
+    branches: [mmd31-outremer-ecussons-20261023]
+    paths: ['scripts/outremer/collect_lot6_pacific_spm_saintmartin.py','.github/workflows/mmd31-lot6-overseas-crests.yml']
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.11'}
+      - run: python -m pip install requests beautifulsoup4 pillow imagehash numpy
+      - run: python scripts/outremer/collect_lot6_pacific_spm_saintmartin.py
+      - name: Publish identity-verified crests
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add flags/clubs/standard/outremer-2026-27/ audit/outremer-2026-27/lot6_pacific_saintmartin_spm_audit.csv
+          if ! git diff --cached --quiet; then
+            git commit -m "Publish verified club crests for Pacific and Saint Martin SPM"
+            git pull --rebase
+            git push
+          fi
