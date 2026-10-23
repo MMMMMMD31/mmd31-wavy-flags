@@ -1,0 +1,24 @@
+name: MMD31 Additional FFF quarantine
+on:
+  push:
+    branches: [mmd31-outremer-ecussons-20261023]
+    paths: ['scripts/outremer/quarantine_two_more_fff.py','.github/workflows/mmd31-quarantine-extra-fff.yml']
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  repair:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python scripts/outremer/quarantine_two_more_fff.py
+      - name: Publish quarantine update
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A flags/clubs/standard/outremer-2026-27 audit/outremer-2026-27/quarantine
+          if ! git diff --cached --quiet; then
+            git commit -m "Quarantine two extra FFF template images"
+            git pull --rebase
+            git push
+          fi
