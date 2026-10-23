@@ -1,0 +1,910 @@
+{
+  "nonleagueranking_club": {
+    "url": "https://www.nonleagueranking.com/clubpage.php?Club=485",
+    "status": 200,
+    "length": 83235,
+    "title": "Windsor &amp; Eton | Non-League Ranking",
+    "images": [
+      {
+        "alt": "Windsor & Eton crest",
+        "src": "Logo/485.png",
+        "data-src": null,
+        "class": null
+      }
+    ],
+    "club_links": [
+      {
+        "name": "Overview",
+        "href": "clubpage.php?Club=485"
+      },
+      {
+        "name": "Results",
+        "href": "clubpage_Matches.php?Club=485&Type=%27*%27"
+      },
+      {
+        "name": "Fixtures",
+        "href": "clubpage_Fixtures.php?Club=485"
+      },
+      {
+        "name": "Opponents",
+        "href": "clubpage_Opponents.php?Club=485"
+      },
+      {
+        "name": "Seasons",
+        "href": "clubpage_Seasons.php?Club=485"
+      },
+      {
+        "name": "Cobham",
+        "href": "clubpage.php?Club=486"
+      },
+      {
+        "name": "Hartley Wintney",
+        "href": "clubpage.php?Club=304"
+      },
+      {
+        "name": "Jersey Bulls",
+        "href": "clubpage.php?Club=484"
+      },
+      {
+        "name": "Hayes & Yeading United",
+        "href": "clubpage.php?Club=129"
+      },
+      {
+        "name": "Winchester City",
+        "href": "clubpage.php?Club=266"
+      },
+      {
+        "name": "AFC Stoneham",
+        "href": "clubpage.php?Club=499"
+      },
+      {
+        "name": "Kingstonian",
+        "href": "clubpage.php?Club=147"
+      },
+      {
+        "name": "Eastbourne Borough",
+        "href": "clubpage.php?Club=89"
+      },
+      {
+        "name": "AFC Portchester",
+        "href": "clubpage.php?Club=479"
+      },
+      {
+        "name": "Raynes Park Vale",
+        "href": "clubpage.php?Club=407"
+      },
+      {
+        "name": "Bedfont Sports FC",
+        "href": "clubpage.php?Club=326"
+      },
+      {
+        "name": "Bognor Regis Town",
+        "href": "clubpage.php?Club=35"
+      },
+      {
+        "name": "Harrow Borough",
+        "href": "clubpage.php?Club=126"
+      },
+      {
+        "name": "AFC Stoneham",
+        "href": "clubpage.php?Club=499"
+      },
+      {
+        "name": "Egham Town",
+        "href": "clubpage.php?Club=92"
+      },
+      {
+        "name": "Raynes Park Vale",
+        "href": "clubpage.php?Club=407"
+      },
+      {
+        "name": "⚽ Results",
+        "href": "clubpage_Matches.php?Club=485&Type=%27*%27"
+      },
+      {
+        "name": "📅 Fixtures",
+        "href": "clubpage_Fixtures.php?Club=485"
+      },
+      {
+        "name": "👥 Opponents",
+        "href": "clubpage_Opponents.php?Club=485"
+      },
+      {
+        "name": "🏆 Seasons",
+        "href": "clubpage_Seasons.php?Club=485"
+      }
+    ],
+    "sample": ""
+  },
+  "nonleagueranking_home": {
+    "url": "https://www.nonleagueranking.com/",
+    "status": 200,
+    "length": 118921,
+    "title": "Non-League Ranking | ELO-Based English Football Rankings",
+    "images": [],
+    "club_links": [
+      {
+        "name": "Boreham Wood",
+        "href": "clubpage.php?Club=36"
+      },
+      {
+        "name": "Didcot Town",
+        "href": "clubpage.php?Club=80"
+      },
+      {
+        "name": "Didcot Town",
+        "href": "clubpage.php?Club=80"
+      },
+      {
+        "name": "Congleton Town",
+        "href": "clubpage.php?Club=436"
+      },
+      {
+        "name": "Margate",
+        "href": "clubpage.php?Club=165"
+      },
+      {
+        "name": "Boreham Wood",
+        "href": "clubpage.php?Club=36"
+      },
+      {
+        "name": "Southend United",
+        "href": "clubpage.php?Club=360"
+      },
+      {
+        "name": "Carlisle United",
+        "href": "clubpage.php?Club=457"
+      },
+      {
+        "name": "Forest Green Rovers",
+        "href": "clubpage.php?Club=102"
+      },
+      {
+        "name": "Harrogate Town",
+        "href": "clubpage.php?Club=125"
+      },
+      {
+        "name": "FC Halifax Town",
+        "href": "clubpage.php?Club=98"
+      },
+      {
+        "name": "Altrincham",
+        "href": "clubpage.php?Club=9"
+      },
+      {
+        "name": "Barrow",
+        "href": "clubpage.php?Club=18"
+      },
+      {
+        "name": "Scunthorpe United",
+        "href": "clubpage.php?Club=382"
+      },
+      {
+        "name": "Kidderminster Harriers",
+        "href": "clubpage.php?Club=143"
+      },
+      {
+        "name": "Woking",
+        "href": "clubpage.php?Club=270"
+      },
+      {
+        "name": "AFC Fylde",
+        "href": "clubpage.php?Club=1"
+      },
+      {
+        "name": "Tamworth",
+        "href": "clubpage.php?Club=235"
+      },
+      {
+        "name": "Boston United",
+        "href": "clubpage.php?Club=37"
+      },
+      {
+        "name": "Wealdstone",
+        "href": "clubpage.php?Club=257"
+      },
+      {
+        "name": "Yeovil Town",
+        "href": "clubpage.php?Club=349"
+      },
+      {
+        "name": "Hartlepool United",
+        "href": "clubpage.php?Club=292"
+      },
+      {
+        "name": "Worthing",
+        "href": "clubpage.php?Club=273"
+      },
+      {
+        "name": "Sutton United",
+        "href": "clubpage.php?Club=233"
+      },
+      {
+        "name": "Aldershot Town",
+        "href": "clubpage.php?Club=7"
+      },
+      {
+        "name": "Eastleigh",
+        "href": "clubpage.php?Club=90"
+      },
+      {
+        "name": "Solihull Moors",
+        "href": "clubpage.php?Club=216"
+      },
+      {
+        "name": "Hornchurch FC",
+        "href": "clubpage.php?Club=2"
+      },
+      {
+        "name": "Macclesfield",
+        "href": "clubpage.php?Club=391"
+      },
+      {
+        "name": "Gateshead",
+        "href": "clubpage.php?Club=106"
+      }
+    ],
+    "sample": ""
+  },
+  "nonleagueranking_clubs": {
+    "url": "https://www.nonleagueranking.com/ranking.php",
+    "status": 404,
+    "length": 236,
+    "title": "404 Not Found",
+    "images": [],
+    "club_links": [],
+    "sample": ""
+  },
+  "tsdb_fakenham": {
+    "url": "https://www.thesportsdb.com/api/v1/json/123/searchteams.php?t=Fakenham%20Town",
+    "status": 200,
+    "length": 1658,
+    "title": null,
+    "images": [],
+    "club_links": [],
+    "sample": "{\"teams\":[{\"idTeam\":\"148813\",\"idESPN\":\"0\",\"idAPIfootball\":\"8781\",\"intLoved\":null,\"strTeam\":\"Fakenham Town\",\"strTeamAlternate\":\"Fakenham Town Football Club\",\"strTeamShort\":\"\",\"intFormedYear\":\"1884\",\"strSport\":\"Soccer\",\"strLeague\":\"England Non League Div One Isthmian North\",\"idLeague\":\"5225\",\"strLeague2\":\"FA Cup\",\"idLeague2\":\"4482\",\"strLeague3\":\"FA T"
+  },
+  "tsdb_winsford": {
+    "url": "https://www.thesportsdb.com/api/v1/json/123/searchteams.php?t=Winsford%20United",
+    "status": 200,
+    "length": 1637,
+    "title": null,
+    "images": [],
+    "club_links": [],
+    "sample": "{\"teams\":[{\"idTeam\":\"152758\",\"idESPN\":\"0\",\"idAPIfootball\":\"9003\",\"intLoved\":null,\"strTeam\":\"Winsford United\",\"strTeamAlternate\":\"Winsford United Football Club\",\"strTeamShort\":\"\",\"intFormedYear\":\"1883\",\"strSport\":\"Soccer\",\"strLeague\":\"_No League Soccer\",\"idLeague\":\"4834\",\"strLeague2\":\"\",\"idLeague2\":null,\"strLeague3\":\"\",\"idLeague3\":null,\"strLeague4\":"
+  },
+  "footballwebpages": {
+    "url": "https://www.footballwebpages.co.uk/combined-counties-league-premier-division-north/league-table",
+    "status": 200,
+    "length": 57989,
+    "title": "Combined Counties League Premier Division North | League Table | 2026-2027 | Football Web Pages",
+    "images": [
+      {
+        "alt": "",
+        "src": "graphics/logo-56.png?1550082093",
+        "data-src": null,
+        "class": null
+      },
+      {
+        "alt": "",
+        "src": "graphics/logo-32.png?1551220618",
+        "data-src": null,
+        "class": null
+      },
+      {
+        "alt": "Abingdon United badge",
+        "src": "graphics/teams/48/abingdon-united.png?1784538318",
+        "data-src": null,
+        "class": null
+      },
+      {
+        "alt": "Amersham Town badge",
+        "src": "graphics/teams/48/amersham-town.png?1784538304",
+        "data-src": null,
+        "class": null
+      },
+      {
+        "alt": "Ardley United badge",
+        "src": "graphics/teams/48/ardley-united.png?1784538323",
+        "data-src": null,
+        "class": null
+      },
+      {
+        "alt": "Bedfont badge",
+        "src": "graphics/teams/48/bedfont.png?1784538282",
+        "data-src": null,
+        "class": null
+      },
+      {
+        "alt": "Broadfields United badge",
+        "src": "graphics/teams/48/broadfields-united.png?1784538295",
+        "data-src": null,
+        "class": null
+      },
+      {
+        "alt": "Burnham badge",
+        "src": "graphics/teams/48/burnham.png?1784538296",
+        "data-src": null,
+        "class": null
+      },
+      {
+        "alt": "Easington Sports badge",
+        "src": "graphics/teams/48/easington-sports.png?1784538292",
+        "data-src": null,
+        "class": null
+      },
+      {
+        "alt": "Harefield United badge",
+        "src": "graphics/teams/48/harefield-united.png?1784538324",
+        "data-src": null,
+        "class": null
+      },
+      {
+        "alt": "Hilltop badge",
+        "src": "graphics/teams/48/hilltop.png?1784538304",
+        "data-src": null,
+        "class": null
+      },
+      {
+        "alt": "Holyport badge",
+        "src": "graphics/teams/48/holyport.png?1784538286",
+        "data-src": null,
+        "class": null
+      },
+      {
+        "alt": "Kidlington badge",
+        "src": "graphics/teams/48/kidlington.png?1784538325",
+        "data-src": null,
+        "class": null
+      },
+      {
+        "alt": "North Greenford United badge",
+        "src": "graphics/teams/48/north-greenford-united.png?1784538320",
+        "data-src": null,
+        "class": null
+      },
+      {
+        "alt": "North Leigh badge",
+        "src": "graphics/teams/48/north-leigh.png?1784538326",
+        "data-src": null,
+        "class": null
+      },
+      {
+        "alt": "Northwood badge",
+        "src": "graphics/teams/48/northwood.png?1784538301",
+        "data-src": null,
+        "class": null
+      },
+      {
+        "alt": "Penn & Tylers Green badge",
+        "src": "graphics/teams/48/penn-and-tylers-green.png?1784538306",
+        "data-src": null,
+        "class": null
+      },
+      {
+        "alt": "Rayners Lane badge",
+        "src": "graphics/teams/48/rayners-lane.png?1784538304",
+        "data-src": null,
+        "class": null
+      },
+      {
+        "alt": "Reading City badge",
+        "src": "graphics/teams/48/reading-city.png?1785158386",
+        "data-src": null,
+        "class": null
+      },
+      {
+        "alt": "Thatcham Town badge",
+        "src": "graphics/teams/48/thatcham-town.png?1784538318",
+        "data-src": null,
+        "class": null
+      },
+      {
+        "alt": "Wallingford & Crowmarsh badge",
+        "src": "graphics/teams/48/wallingford-and-crowmarsh.png?1784538310",
+        "data-src": null,
+        "class": null
+      },
+      {
+        "alt": "Wokingham Town badge",
+        "src": "graphics/teams/48/wokingham-town.png?1784542949",
+        "data-src": null,
+        "class": null
+      },
+      {
+        "alt": "North Greenford United badge",
+        "src": "graphics/teams/24/north-greenford-united.png?1784537946",
+        "data-src": null,
+        "class": null
+      },
+      {
+        "alt": "Broadfields United badge",
+        "src": "graphics/teams/24/broadfields-united.png?1784537923",
+        "data-src": null,
+        "class": null
+      },
+      {
+        "alt": "Ardley United badge",
+        "src": "graphics/teams/24/ardley-united.png?1784537948",
+        "data-src": null,
+        "class": null
+      },
+      {
+        "alt": "Burnham badge",
+        "src": "graphics/teams/24/burnham.png?1784537924",
+        "data-src": null,
+        "class": null
+      },
+      {
+        "alt": "Kidlington badge",
+        "src": "graphics/teams/24/kidlington.png?1784537950",
+        "data-src": null,
+        "class": null
+      },
+      {
+        "alt": "Wokingham Town badge",
+        "src": "graphics/teams/24/wokingham-town.png?1784542949",
+        "data-src": null,
+        "class": null
+      },
+      {
+        "alt": "Reading City badge",
+        "src": "graphics/teams/24/reading-city.png?1785158386",
+        "data-src": null,
+        "class": null
+      },
+      {
+        "alt": "Wallingford & Crowmarsh badge",
+        "src": "graphics/teams/24/wallingford-and-crowmarsh.png?1784537937",
+        "data-src": null,
+        "class": null
+      },
+      {
+        "alt": "Bedfont badge",
+        "src": "graphics/teams/24/bedfont.png?1784537912",
+        "data-src": null,
+        "class": null
+      },
+      {
+        "alt": "Easington Sports badge",
+        "src": "graphics/teams/24/easington-sports.png?1784537920",
+        "data-src": null,
+        "class": null
+      },
+      {
+        "alt": "Hilltop badge",
+        "src": "graphics/teams/24/hilltop.png?1784537931",
+        "data-src": null,
+        "class": null
+      },
+      {
+        "alt": "Abingdon United badge",
+        "src": "graphics/teams/24/abingdon-united.png?1784537944",
+        "data-src": null,
+        "class": null
+      },
+      {
+        "alt": "Harefield United badge",
+        "src": "graphics/teams/24/harefield-united.png?1784537949",
+        "data-src": null,
+        "class": null
+      }
+    ],
+    "club_links": [
+      {
+        "name": "Teams",
+        "href": "combined-counties-league-premier-division-north/teams"
+      }
+    ],
+    "sample": ""
+  },
+  "globalsports": {
+    "url": "https://globalsportsarchive.com/en/soccer/team/windsor--eton-fc/70752/",
+    "status": 200,
+    "length": 123901,
+    "title": "View Windsor & Eton FC full team profile on Global Sports Archive: squad, fixtures, results, stats, standings, history and achievements",
+    "images": [
+      {
+        "alt": "Global Sports Archive Logo",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/logo.svg?v=1732708957",
+        "data-src": null,
+        "class": [
+          "gsa-header__banner-menu__logo",
+          "gsa-flex-center",
+          "gsa-mr-lg-3",
+          "gsa-mr-10"
+        ]
+      },
+      {
+        "alt": "star",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/icons/star.svg?v=1732708957",
+        "data-src": null,
+        "class": [
+          "gsa-pr-1"
+        ]
+      },
+      {
+        "alt": "logo",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/countries/usa.svg?v=1732708957",
+        "data-src": null,
+        "class": [
+          "gsa-shrink-0",
+          "gsa-w-20"
+        ]
+      },
+      {
+        "alt": "logo",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/countries/usa.svg?v=1732708957",
+        "data-src": null,
+        "class": [
+          "gsa-shrink-0",
+          "gsa-w-20"
+        ]
+      },
+      {
+        "alt": "avatar",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/icons/grey-person.svg?v=1732708957",
+        "data-src": null,
+        "class": [
+          "gsa-pr-1"
+        ]
+      },
+      {
+        "alt": "search",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/icons/search.svg?v=1732708957",
+        "data-src": null,
+        "class": [
+          "gsa-cursor-pointer",
+          "gsa-ml-3",
+          "gsa-pr-3"
+        ]
+      },
+      {
+        "alt": "menu",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/icons/menu.svg?v=1732708957",
+        "data-src": null,
+        "class": [
+          "gsa-cursor-pointer",
+          "gsa-flex",
+          "gsa-mx-3"
+        ]
+      },
+      {
+        "alt": "close",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/icons/close.svg?v=1732708957",
+        "data-src": null,
+        "class": [
+          "gsa-cursor-pointer",
+          "gsa-mx-3",
+          "gsa-d-none"
+        ]
+      },
+      {
+        "alt": "avatar",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/icons/person.svg?v=1732708957",
+        "data-src": null,
+        "class": [
+          "gsa-header__banner-dropdown__user-avatar",
+          "gsa-pr-2"
+        ]
+      },
+      {
+        "alt": "logo",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/countries/usa.svg?v=1732708957",
+        "data-src": null,
+        "class": [
+          "gsa-shrink-0",
+          "gsa-w-20"
+        ]
+      },
+      {
+        "alt": "logo",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/countries/usa.svg?v=1732708957",
+        "data-src": null,
+        "class": [
+          "gsa-shrink-0",
+          "gsa-w-20"
+        ]
+      },
+      {
+        "alt": "Soccer",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/soccer.svg?v=1732708957",
+        "data-src": null,
+        "class": [
+          "gsa-w-full"
+        ]
+      },
+      {
+        "alt": "Tennis",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/tennis.svg?v=1732708957",
+        "data-src": null,
+        "class": [
+          "gsa-w-full"
+        ]
+      },
+      {
+        "alt": "Table Tennis",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/table-tennis.svg?v=1736326195",
+        "data-src": null,
+        "class": [
+          "gsa-w-full"
+        ]
+      },
+      {
+        "alt": "Alpine Skiing",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/alpine-skiing.svg?v=1732708957",
+        "data-src": null,
+        "class": [
+          "gsa-w-full"
+        ]
+      },
+      {
+        "alt": "American Football",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/american-football.svg?v=1732708957",
+        "data-src": null,
+        "class": [
+          "gsa-w-full"
+        ]
+      },
+      {
+        "alt": "Artistic Swimming",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/artistic-swimming.svg?v=1732708957",
+        "data-src": null,
+        "class": [
+          "gsa-w-full"
+        ]
+      },
+      {
+        "alt": "Australian Football",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/australian-football.svg?v=1732708957",
+        "data-src": null,
+        "class": [
+          "gsa-w-full"
+        ]
+      },
+      {
+        "alt": "Baseball",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/baseball.svg?v=1732708957",
+        "data-src": null,
+        "class": [
+          "gsa-w-full"
+        ]
+      },
+      {
+        "alt": "Alpine Skiing",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/alpine-skiing.svg?v=1732708957",
+        "data-src": null,
+        "class": [
+          "gsa-w-full"
+        ]
+      },
+      {
+        "alt": "American Football",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/american-football.svg?v=1732708957",
+        "data-src": null,
+        "class": [
+          "gsa-w-full"
+        ]
+      },
+      {
+        "alt": "Artistic Swimming",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/artistic-swimming.svg?v=1732708957",
+        "data-src": null,
+        "class": [
+          "gsa-w-full"
+        ]
+      },
+      {
+        "alt": "Australian Football",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/australian-football.svg?v=1732708957",
+        "data-src": null,
+        "class": [
+          "gsa-w-full"
+        ]
+      },
+      {
+        "alt": "Baseball",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/baseball.svg?v=1732708957",
+        "data-src": null,
+        "class": [
+          "gsa-w-full"
+        ]
+      },
+      {
+        "alt": "Basketball",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/basketball.svg?v=1732708957",
+        "data-src": null,
+        "class": [
+          "gsa-w-full"
+        ]
+      },
+      {
+        "alt": "Biathlon",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/biathlon.svg?v=1732708957",
+        "data-src": null,
+        "class": [
+          "gsa-w-full"
+        ]
+      },
+      {
+        "alt": "Bobsledding",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/bobsledding.svg?v=1732708957",
+        "data-src": null,
+        "class": [
+          "gsa-w-full"
+        ]
+      },
+      {
+        "alt": "Canoeing",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/canoeing.svg?v=1732708957",
+        "data-src": null,
+        "class": [
+          "gsa-w-full"
+        ]
+      },
+      {
+        "alt": "Counter Strike 2",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/counterstrikego.svg?v=1732708957",
+        "data-src": null,
+        "class": [
+          "gsa-w-full"
+        ]
+      },
+      {
+        "alt": "Cricket",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/cricket.svg?v=1732708957",
+        "data-src": null,
+        "class": [
+          "gsa-w-full"
+        ]
+      },
+      {
+        "alt": "Cross-country skiing",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/cross-country-skiing.svg?v=1732708957",
+        "data-src": null,
+        "class": [
+          "gsa-w-full"
+        ]
+      },
+      {
+        "alt": "Diving",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/diving.svg?v=1732708957",
+        "data-src": null,
+        "class": [
+          "gsa-w-full"
+        ]
+      },
+      {
+        "alt": "Field Hockey",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/field-hockey.svg?v=1732708957",
+        "data-src": null,
+        "class": [
+          "gsa-w-full"
+        ]
+      },
+      {
+        "alt": "Figure Skating",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/figure-skating.svg?v=1732708957",
+        "data-src": null,
+        "class": [
+          "gsa-w-full"
+        ]
+      },
+      {
+        "alt": "Floorball",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/floorball.svg?v=1732708957",
+        "data-src": null,
+        "class": [
+          "gsa-w-full"
+        ]
+      }
+    ],
+    "club_links": [
+      {
+        "name": "Overview",
+        "href": "https://globalsportsarchive.com/en/soccer/team/windsor--eton-fc/70752/overview"
+      },
+      {
+        "name": "Squad",
+        "href": "https://globalsportsarchive.com/en/soccer/team/windsor--eton-fc/70752/squad"
+      },
+      {
+        "name": "Matches",
+        "href": "https://globalsportsarchive.com/en/soccer/team/windsor--eton-fc/70752/matches"
+      },
+      {
+        "name": "Head to head",
+        "href": "https://globalsportsarchive.com/en/soccer/team/windsor--eton-fc/70752/head-to-head"
+      },
+      {
+        "name": "Bognor Regis Town FC Bognor Regis",
+        "href": "https://globalsportsarchive.com/en/soccer/team/bognor-regis-town-fc/26787/"
+      },
+      {
+        "name": "Jersey Bulls FC Jersey Bulls",
+        "href": "https://globalsportsarchive.com/en/soccer/team/jersey-bulls-fc/44735/"
+      },
+      {
+        "name": "Winchester City FC Winchester",
+        "href": "https://globalsportsarchive.com/en/soccer/team/winchester-city-fc/28645/"
+      },
+      {
+        "name": "Egham Town FC Egham",
+        "href": "https://globalsportsarchive.com/en/soccer/team/egham-town-fc/28619/"
+      },
+      {
+        "name": "Raynes Park Vale FC Raynes Park",
+        "href": "https://globalsportsarchive.com/en/soccer/team/raynes-park-vale-fc/32474/"
+      },
+      {
+        "name": "Moneyfields FC Moneyfields",
+        "href": "https://globalsportsarchive.com/en/soccer/team/moneyfields-fc/32587/"
+      },
+      {
+        "name": "Ashford Town FC Ashford",
+        "href": "https://globalsportsarchive.com/en/soccer/team/ashford-town-fc/28621/"
+      },
+      {
+        "name": "Westfield FC Westfield",
+        "href": "https://globalsportsarchive.com/en/soccer/team/westfield-fc/32522/"
+      },
+      {
+        "name": "Hendon FC Hendon",
+        "href": "https://globalsportsarchive.com/en/soccer/team/hendon-fc/26800/"
+      },
+      {
+        "name": "Southall FC Southall",
+        "href": "https://globalsportsarchive.com/en/soccer/team/southall-fc/32225/"
+      },
+      {
+        "name": "AFC Portchester Portchester",
+        "href": "https://globalsportsarchive.com/en/soccer/team/afc-portchester/21318/"
+      },
+      {
+        "name": "Windsor & Eton FC Windsor",
+        "href": "https://globalsportsarchive.com/en/soccer/team/windsor--eton-fc/70752/"
+      },
+      {
+        "name": "Kingstonian FC Kingstonian",
+        "href": "https://globalsportsarchive.com/en/soccer/team/kingstonian-fc/26789/"
+      },
+      {
+        "name": "Hartley Wintney FC Hartley",
+        "href": "https://globalsportsarchive.com/en/soccer/team/hartley-wintney-fc/19034/"
+      },
+      {
+        "name": "Bedfont Sports FC Bedfont",
+        "href": "https://globalsportsarchive.com/en/soccer/team/bedfont-sports-fc/32488/"
+      },
+      {
+        "name": "Hayes & Yeading United FC Hayes/Yeading",
+        "href": "https://globalsportsarchive.com/en/soccer/team/hayes--yeading-united-fc/19855/"
+      },
+      {
+        "name": "Harrow Borough FC Harrow",
+        "href": "https://globalsportsarchive.com/en/soccer/team/harrow-borough-fc/26801/"
+      },
+      {
+        "name": "Cobham FC Cobham",
+        "href": "https://globalsportsarchive.com/en/soccer/team/cobham-fc/36929/"
+      },
+      {
+        "name": "Ascot United FC Ascot",
+        "href": "https://globalsportsarchive.com/en/soccer/team/ascot-united-fc/32513/"
+      },
+      {
+        "name": "Littlehampton Town FC Littlehampton",
+        "href": "https://globalsportsarchive.com/en/soccer/team/littlehampton-town-fc/32481/"
+      },
+      {
+        "name": "AFC Stoneham Stoneham",
+        "href": "https://globalsportsarchive.com/en/soccer/team/afc-stoneham/2051/"
+      },
+      {
+        "name": "Binfield FC Binfield",
+        "href": "https://globalsportsarchive.com/en/soccer/team/binfield-fc/32569/"
+      }
+    ],
+    "sample": ""
+  }
+}
