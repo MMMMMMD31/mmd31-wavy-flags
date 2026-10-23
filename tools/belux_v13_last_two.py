@@ -42,8 +42,6 @@ def official_urls():
     if e.get(k):res.append(urljoin(r.url,e.get(k)))
    if e.get("srcset"):
     res+= [urljoin(r.url,z.strip().split(" ")[0]) for z in str(e.get("srcset")).split(",") if z.strip()]
- for match in re.finditer(r'(?:https?://[^\\\"\\' <>]+|/media/[^\\\"\\' <>]+)[^\\\"\\' <>]*(?:belisia|logo)[^\\\"\\' <>]*\\.(?:png|webp|jpg|jpeg)',r.text,re.I):
-  res.append(urljoin(r.url,match.group(0)))
  print("OFFICIAL_CANDIDATES",res[:25],flush=True)
  return res
 rows=[]
