@@ -1,7 +1,7 @@
 {
   "expected": 17,
-  "created": 17,
-  "missing_count": 0,
+  "created": 16,
+  "missing_count": 1,
   "assets": [
     {
       "id": 1905100000401,
@@ -44,20 +44,6 @@
       "background_basis": "source logo pixels",
       "sha256": "6bd18a30b538c0dcccc554fad0054d3a9392e489dd78e6046534a32b28f8655d",
       "original_sha256": "1c22c9ad952652111a7c3a5b9c8abdf0073060b1c2f82f69dfa2f569957b7086"
-    },
-    {
-      "id": 1905100000404,
-      "name": "Vitória Pico da Pedra",
-      "source": "https://vitoriacpp.footeo.com/uploads/vitoriacpp/shield.png",
-      "path": "docs/portugal-gibraltar-clubs-2026-27/v1/1905100000404.png",
-      "background": [
-        136,
-        196,
-        136
-      ],
-      "background_basis": "source logo pixels",
-      "sha256": "d2c1c1b625c6e1faf8c8fe3300237645f26f12df68ba1496f639ae05b1c825e7",
-      "original_sha256": "962fc18c8b382886aed5b115f1a1036c75323e066fa0ae6462fa4cc5044cca98"
     },
     {
       "id": 1905100000405,
@@ -242,6 +228,14 @@
       "original_sha256": "2beebe6c608bcadc2a7cc83ba38a1cf9eabd5e6477238ee447a641d79e3eab26"
     }
   ],
-  "missing": [],
-  "note": "True logos only; source identification pending per-club review"
+  "missing": [
+    {
+      "id": 1905100000404,
+      "name": "Vitória Pico da Pedra",
+      "source": "https://vemjogar.fpf.pt/filemanager/media/file?guid=eea1fd6d-c5a3-4e5b-9584-4c38717026d0",
+      "error": "Authentic FPF crest visible, but download blocked. Generic Footeo shield rejected after visual inspection and deleted."
+    }
+  ],
+  "note": "True logos only; source identification pending per-club review",
+  "manual_visual_audit_note": "2026-10-23: rejected Footeo generic shield for Vitória Pico da Pedra; deleted corresponding PNG; 16 authentic/sourced Azores PNG remain."
 }
