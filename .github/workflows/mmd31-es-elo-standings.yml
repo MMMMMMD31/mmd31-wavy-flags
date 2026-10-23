@@ -1,0 +1,32 @@
+name: Spain October 2026 standings audit
+on:
+  push:
+    branches: [mmd31-es-elo-audit-20261023]
+    paths:
+      - 'tools/mmd31_es2026_live_standings.py'
+      - '.github/workflows/mmd31-es-elo-standings.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install --disable-pip-version-check requests beautifulsoup4
+      - run: python tools/mmd31_es2026_live_standings.py
+      - name: Publish auditable data snapshot to branch
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/mmd31_es2026_live_standings.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Snapshot Spain D3-D5 results by group (Oct 2026)"
+            git pull --rebase origin mmd31-es-elo-audit-20261023
+            git push origin HEAD:mmd31-es-elo-audit-20261023
+          fi
