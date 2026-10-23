@@ -1,0 +1,164 @@
+{
+  "20190-SEM-2": {
+    "name": "Sud Fc",
+    "squad_key": "20190-SEM-2",
+    "affiliation": "539991",
+    "source_url": "https://thefootdata.com/clubs/sud-fc?equipe=20190-SEM-2&saison=2026",
+    "status": "published",
+    "flag_url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-v12-french-system-final-audit-20261023/flags/clubs/standard/r4-corse-2026-27/bc539991.png",
+    "sha256": "407d3f45659048731e9a7e4cbb253049ddd9416f2cdb5af0409a52f28c082a9c",
+    "size": [
+      120,
+      96
+    ],
+    "background_rgb": [
+      165,
+      225,
+      245
+    ]
+  },
+  "200919-SEM-1": {
+    "name": "Rocca Taravu",
+    "squad_key": "200919-SEM-1",
+    "affiliation": "661189",
+    "source_url": "https://thefootdata.com/clubs/associu-spurtivu-rocca-taravu?equipe=200919-SEM-1&saison=2026",
+    "status": "published",
+    "flag_url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-v12-french-system-final-audit-20261023/flags/clubs/standard/r4-corse-2026-27/bc661189.png",
+    "sha256": "496ed601bcbb06641a18d19b2e4d6f6bbd2a7b83d0d337124d318dc58c3f90ee",
+    "size": [
+      120,
+      96
+    ],
+    "background_rgb": [
+      165,
+      205,
+      245
+    ]
+  },
+  "205137-SEM-1": {
+    "name": "Bigode Fc",
+    "squad_key": "205137-SEM-1",
+    "affiliation": "565202",
+    "source_url": "https://thefootdata.com/clubs/bigode-football-club?equipe=205137-SEM-1&saison=2026",
+    "status": "published",
+    "flag_url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-v12-french-system-final-audit-20261023/flags/clubs/standard/r4-corse-2026-27/bc565202.png",
+    "sha256": "1172aae89413050de3a3bcd6c5121bf8edbc97b9f423ba930e37f71726378458",
+    "size": [
+      120,
+      96
+    ],
+    "background_rgb": [
+      165,
+      185,
+      245
+    ]
+  },
+  "10908-SEM-2": {
+    "name": "Fje Biguglia",
+    "squad_key": "10908-SEM-2",
+    "affiliation": "526535",
+    "source_url": "https://thefootdata.com/clubs/football-jeunesse-etoile-biguglia?equipe=10908-SEM-2&saison=2026",
+    "status": "published",
+    "flag_url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-v12-french-system-final-audit-20261023/flags/clubs/standard/r4-corse-2026-27/bc526535.png",
+    "sha256": "abdd2e87e09dfee3e3bcded251a212a002917e25e9a46e41f49f972520e079e9",
+    "size": [
+      120,
+      96
+    ],
+    "background_rgb": [
+      165,
+      205,
+      245
+    ]
+  },
+  "205768-SEM-1": {
+    "name": "Ajaccien Fc",
+    "squad_key": "205768-SEM-1",
+    "affiliation": "565392",
+    "source_url": "https://thefootdata.com/clubs/ajaccien-football-club?equipe=205768-SEM-1&saison=2026",
+    "status": "published",
+    "flag_url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-v12-french-system-final-audit-20261023/flags/clubs/standard/r4-corse-2026-27/bc565392.png",
+    "sha256": "43ba7315de278503d7540467a7505d3d61556a1e919668d80ef8470ac409606a",
+    "size": [
+      120,
+      96
+    ],
+    "background_rgb": [
+      165,
+      165,
+      245
+    ]
+  },
+  "24521-SEM-2": {
+    "name": "Svarr",
+    "squad_key": "24521-SEM-2",
+    "affiliation": "547073",
+    "source_url": "https://thefootdata.com/clubs/squadra-valincu-alta-rocca-rizzanese?equipe=24521-SEM-2&saison=2026",
+    "status": "published",
+    "flag_url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-v12-french-system-final-audit-20261023/flags/clubs/standard/r4-corse-2026-27/bc547073.png",
+    "sha256": "7432d3803e228230dab9c0066412709cb507cf8d728a20a22e32e07a39c5ad8d",
+    "size": [
+      120,
+      96
+    ],
+    "background_rgb": [
+      245,
+      225,
+      165
+    ]
+  },
+  "176259-SEM-2": {
+    "name": "Capicorsu",
+    "squad_key": "176259-SEM-2",
+    "affiliation": "550421",
+    "source_url": "https://thefootdata.com/clubs/associu-sportivu-capicorsu?equipe=176259-SEM-2&saison=2026",
+    "status": "published",
+    "flag_url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-v12-french-system-final-audit-20261023/flags/clubs/standard/r4-corse-2026-27/bc550421.png",
+    "sha256": "189c58f75889af5eca26779ac3f5088f430d106282c4e40eef4e7d6adfaae8e5",
+    "size": [
+      120,
+      96
+    ],
+    "background_rgb": [
+      245,
+      245,
+      165
+    ]
+  },
+  "202274-SEM-1": {
+    "name": "Sotta",
+    "squad_key": "202274-SEM-1",
+    "affiliation": "564688",
+    "source_url": "https://thefootdata.com/clubs/fc-sotta?equipe=202274-SEM-1&saison=2026",
+    "status": "published",
+    "flag_url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-v12-french-system-final-audit-20261023/flags/clubs/standard/r4-corse-2026-27/bc564688.png",
+    "sha256": "6a1748f8ee581485567ecf8275ca4c69cb24eedc1cdf4ad3f20a76789064c2cb",
+    "size": [
+      120,
+      96
+    ],
+    "background_rgb": [
+      245,
+      225,
+      165
+    ]
+  },
+  "206558-SEM-1": {
+    "name": "Calenzana",
+    "squad_key": "206558-SEM-1",
+    "affiliation": "566004",
+    "source_url": "https://thefootdata.com/clubs/association-sportive-club-calenzana?equipe=206558-SEM-1&saison=2026",
+    "status": "published",
+    "flag_url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-v12-french-system-final-audit-20261023/flags/clubs/standard/r4-corse-2026-27/bc566004.png",
+    "sha256": "09a94e050cf6778d15bf2432f9bc00a7a3745f960e7e0d51620846b299312426",
+    "size": [
+      120,
+      96
+    ],
+    "background_rgb": [
+      245,
+      165,
+      165
+    ]
+  }
+}
