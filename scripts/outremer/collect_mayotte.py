@@ -136,8 +136,7 @@ def process(row):
    h1=soup.find("h1")
    title=h1.get_text(" ",strip=True) if h1 else ""
    body=soup.get_text(" ",strip=True)
-   if territory=="Guadeloupe" and not re.search(r"(?:District|Ligue)\s+(?:de\s+|d\x27)?Guadeloupe",body,re.I): raise ValueError("territory_not_confirmed")
-   if territory=="Guyane" and not re.search(r"(?:District|Ligue)\s+(?:de\s+|d\x27)?Guyane",body,re.I): raise ValueError("territory_not_confirmed")
+   if territory=="Mayotte" and not re.search(r"(?:District|Ligue)\\s+(?:de\\s+|d\\x27)?Mayotte",body,re.I): raise ValueError("territory_not_confirmed")
    scores=[(similarity(title,n),n) for n in [name]+NAME_ALIASES.get(tid,[])]
    top_score,matched=max(scores)
    if top_score < 0.77: raise ValueError("club_identity_mismatch:"+str(round(top_score,2))+"/"+title)
