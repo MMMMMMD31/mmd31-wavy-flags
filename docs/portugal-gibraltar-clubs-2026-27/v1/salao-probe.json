@@ -1,0 +1,20 @@
+[
+  {
+    "url": "https://www.europlan-online.de/waldsportplatz/stadion-83647.html",
+    "status": 200,
+    "chars": 66975,
+    "candidates": []
+  },
+  {
+    "url": "https://www.zerozero.pt/equipa/salao/12292",
+    "status": 403,
+    "chars": 5586,
+    "candidates": []
+  },
+  {
+    "url": "https://www.zerozero.pt/equipa/salao/12292?redirm=1",
+    "status": 403,
+    "chars": 5650,
+    "candidates": []
+  }
+]
