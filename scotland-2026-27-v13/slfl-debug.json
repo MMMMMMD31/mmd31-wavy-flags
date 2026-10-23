@@ -1,0 +1,605 @@
+[
+  {
+    "href": "https://slfl.co.uk/clubs/",
+    "text": "Clubs",
+    "images": [],
+    "parent_text": "Clubs"
+  },
+  {
+    "href": "https://slfl.co.uk/clubs/",
+    "text": "Clubs",
+    "images": [],
+    "parent_text": "Clubs"
+  },
+  {
+    "href": "https://slfl.co.uk/clubs/albion-rovers/",
+    "text": "Albion Rovers Reigart Stadium",
+    "images": [
+      {
+        "alt": "Albion Rovers Crest",
+        "src": "https://slfl.co.uk/wp-content/uploads/2026/07/albion.png"
+      },
+      {
+        "alt": "Reigart Stadium",
+        "src": "https://slfl.co.uk/wp-content/uploads/2026/07/Cliftonhill_Albion_Rovers.jpg"
+      }
+    ],
+    "parent_text": "Albion Rovers Reigart Stadium"
+  },
+  {
+    "href": "https://slfl.co.uk/clubs/auchinleck-talbot/",
+    "text": "Auchinleck Talbot Beechwood Park",
+    "images": [
+      {
+        "alt": "Auchinleck Talbot Crest",
+        "src": "https://slfl.co.uk/wp-content/uploads/2026/07/auchinleck.png"
+      },
+      {
+        "alt": "Beechwood Park",
+        "src": "https://slfl.co.uk/wp-content/uploads/2026/07/Auchinleck-Talbot-Beechwood-Park.jpeg"
+      }
+    ],
+    "parent_text": "Auchinleck Talbot Beechwood Park"
+  },
+  {
+    "href": "https://slfl.co.uk/clubs/beith-juniors/",
+    "text": "Beith Juniors Bellsdale Park",
+    "images": [
+      {
+        "alt": "Beith Juniors Crest",
+        "src": "https://slfl.co.uk/wp-content/uploads/2026/07/beith-juniors.png"
+      },
+      {
+        "alt": "Bellsdale Park",
+        "src": "/wp-content/themes/website-slfl/static/assets/stadium-fallback.jpg"
+      }
+    ],
+    "parent_text": "Beith Juniors Bellsdale Park"
+  },
+  {
+    "href": "https://slfl.co.uk/clubs/berwick-rangers/",
+    "text": "Berwick Rangers Shielfield Park Stadium",
+    "images": [
+      {
+        "alt": "Berwick Rangers Crest",
+        "src": "https://slfl.co.uk/wp-content/uploads/2026/07/berwick-rangers.png"
+      },
+      {
+        "alt": "Shielfield Park Stadium",
+        "src": "https://slfl.co.uk/wp-content/uploads/2026/07/Berwick_Rangers_Shielfield_Park_02.jpeg"
+      }
+    ],
+    "parent_text": "Berwick Rangers Shielfield Park Stadium"
+  },
+  {
+    "href": "https://slfl.co.uk/clubs/bo-ness-united/",
+    "text": "Bo’ness United Newtown Park",
+    "images": [
+      {
+        "alt": "Bo’ness United Crest",
+        "src": "https://slfl.co.uk/wp-content/uploads/2026/07/Boness-300x300.png"
+      },
+      {
+        "alt": "Newtown Park",
+        "src": "/wp-content/themes/website-slfl/static/assets/stadium-fallback.jpg"
+      }
+    ],
+    "parent_text": "Bo’ness United Newtown Park"
+  },
+  {
+    "href": "https://slfl.co.uk/clubs/bonnyrigg-rose/",
+    "text": "Bonnyrigg Rose New Dundas Park",
+    "images": [
+      {
+        "alt": "Bonnyrigg Rose Crest",
+        "src": "https://slfl.co.uk/wp-content/uploads/2026/07/bonnyrigg-rose-fc.png"
+      },
+      {
+        "alt": "New Dundas Park",
+        "src": "https://slfl.co.uk/wp-content/uploads/2026/07/Bonnyrigg_Rose_New_Dundas_Park_01.jpg"
+      }
+    ],
+    "parent_text": "Bonnyrigg Rose New Dundas Park"
+  },
+  {
+    "href": "https://slfl.co.uk/clubs/brechin-city/",
+    "text": "Brechin City Glebe Park",
+    "images": [
+      {
+        "alt": "Brechin City Crest",
+        "src": "https://slfl.co.uk/wp-content/uploads/2026/07/brechin-city.png"
+      },
+      {
+        "alt": "Glebe Park",
+        "src": "https://slfl.co.uk/wp-content/uploads/2026/07/Brechin-City-Glebe-Park.jpeg"
+      }
+    ],
+    "parent_text": "Brechin City Glebe Park"
+  },
+  {
+    "href": "https://slfl.co.uk/clubs/broxburn-athletic/",
+    "text": "Broxburn Athletic Albyn Park",
+    "images": [
+      {
+        "alt": "Broxburn Athletic Crest",
+        "src": "https://slfl.co.uk/wp-content/uploads/2026/07/broxburn.png"
+      },
+      {
+        "alt": "Albyn Park",
+        "src": "/wp-content/themes/website-slfl/static/assets/stadium-fallback.jpg"
+      }
+    ],
+    "parent_text": "Broxburn Athletic Albyn Park"
+  },
+  {
+    "href": "https://slfl.co.uk/clubs/caledonian-braves/",
+    "text": "Caledonian Braves Alliance Park, Strathclyde Country Park",
+    "images": [
+      {
+        "alt": "Caledonian Braves Crest",
+        "src": "https://slfl.co.uk/wp-content/uploads/2026/07/caledonian-braves.png"
+      },
+      {
+        "alt": "Alliance Park, Strathclyde Country Park",
+        "src": "/wp-content/themes/website-slfl/static/assets/stadium-fallback.jpg"
+      }
+    ],
+    "parent_text": "Caledonian Braves Alliance Park, Strathclyde Country Park"
+  },
+  {
+    "href": "https://slfl.co.uk/clubs/celtic-b/",
+    "text": "Celtic B Celtic Park",
+    "images": [
+      {
+        "alt": "Celtic B Crest",
+        "src": "https://slfl.co.uk/wp-content/uploads/2026/07/celtic-fc.png"
+      },
+      {
+        "alt": "Celtic Park",
+        "src": "/wp-content/themes/website-slfl/static/assets/stadium-fallback.jpg"
+      }
+    ],
+    "parent_text": "Celtic B Celtic Park"
+  },
+  {
+    "href": "https://slfl.co.uk/clubs/civil-service-strollers/",
+    "text": "Civil Service Strollers Christie Gillies Park",
+    "images": [
+      {
+        "alt": "Civil Service Strollers Crest",
+        "src": "https://slfl.co.uk/wp-content/uploads/2026/07/civil-service-strollers.png"
+      },
+      {
+        "alt": "Christie Gillies Park",
+        "src": "/wp-content/themes/website-slfl/static/assets/stadium-fallback.jpg"
+      }
+    ],
+    "parent_text": "Civil Service Strollers Christie Gillies Park"
+  },
+  {
+    "href": "https://slfl.co.uk/clubs/clydebank/",
+    "text": "Clydebank Holm Park Community Football Club",
+    "images": [
+      {
+        "alt": "Clydebank Crest",
+        "src": "https://slfl.co.uk/wp-content/uploads/2026/07/clydebank-300x300.png"
+      },
+      {
+        "alt": "Holm Park Community Football Club",
+        "src": "https://slfl.co.uk/wp-content/uploads/2026/07/Clydebank-FC-Holm-Park-McHarg.jpg"
+      }
+    ],
+    "parent_text": "Clydebank Holm Park Community Football Club"
+  },
+  {
+    "href": "https://slfl.co.uk/clubs/cowdenbeath/",
+    "text": "Cowdenbeath Central Park",
+    "images": [
+      {
+        "alt": "Cowdenbeath Crest",
+        "src": "https://slfl.co.uk/wp-content/uploads/2026/07/cowdenbeath.png"
+      },
+      {
+        "alt": "Central Park",
+        "src": "/wp-content/themes/website-slfl/static/assets/stadium-fallback.jpg"
+      }
+    ],
+    "parent_text": "Cowdenbeath Central Park"
+  },
+  {
+    "href": "https://slfl.co.uk/clubs/cumbernauld-colts/",
+    "text": "Cumbernauld Colts NL Leisure Broadwood Stadium",
+    "images": [
+      {
+        "alt": "Cumbernauld Colts Crest",
+        "src": "https://slfl.co.uk/wp-content/uploads/2026/07/cumbernauld.png"
+      },
+      {
+        "alt": "NL Leisure Broadwood Stadium",
+        "src": "/wp-content/themes/website-slfl/static/assets/stadium-fallback.jpg"
+      }
+    ],
+    "parent_text": "Cumbernauld Colts NL Leisure Broadwood Stadium"
+  },
+  {
+    "href": "https://slfl.co.uk/clubs/cumnock-juniors/",
+    "text": "Cumnock Juniors Townhead Park",
+    "images": [
+      {
+        "alt": "Cumnock Juniors Crest",
+        "src": "https://slfl.co.uk/wp-content/uploads/2026/07/Cumnock_Juniors_FC_crest-300x300.png"
+      },
+      {
+        "alt": "Townhead Park",
+        "src": "/wp-content/themes/website-slfl/static/assets/stadium-fallback.jpg"
+      }
+    ],
+    "parent_text": "Cumnock Juniors Townhead Park"
+  },
+  {
+    "href": "https://slfl.co.uk/clubs/dalbeattie-star/",
+    "text": "Dalbeattie Star Islecroft Stadium",
+    "images": [
+      {
+        "alt": "Dalbeattie Star Crest",
+        "src": "https://slfl.co.uk/wp-content/uploads/2026/07/Dalbeattie_Star-267x300.png"
+      },
+      {
+        "alt": "Islecroft Stadium",
+        "src": "/wp-content/themes/website-slfl/static/assets/stadium-fallback.jpg"
+      }
+    ],
+    "parent_text": "Dalbeattie Star Islecroft Stadium"
+  },
+  {
+    "href": "https://slfl.co.uk/clubs/dumbarton/",
+    "text": "Dumbarton The Rock",
+    "images": [
+      {
+        "alt": "Dumbarton Crest",
+        "src": "https://slfl.co.uk/wp-content/uploads/2026/07/Dumbarton_FC_logo_2026-300x300.png"
+      },
+      {
+        "alt": "The Rock",
+        "src": "/wp-content/themes/website-slfl/static/assets/stadium-fallback.jpg"
+      }
+    ],
+    "parent_text": "Dumbarton The Rock"
+  },
+  {
+    "href": "https://slfl.co.uk/clubs/dunipace/",
+    "text": "Dunipace Westfield Park",
+    "images": [
+      {
+        "alt": "Dunipace Crest",
+        "src": "https://slfl.co.uk/wp-content/uploads/2026/07/dunipace.png"
+      },
+      {
+        "alt": "Westfield Park",
+        "src": "/wp-content/themes/website-slfl/static/assets/stadium-fallback.jpg"
+      }
+    ],
+    "parent_text": "Dunipace Westfield Park"
+  },
+  {
+    "href": "https://slfl.co.uk/clubs/east-fife/",
+    "text": "East Fife Bayview Stadium",
+    "images": [
+      {
+        "alt": "East Fife Crest",
+        "src": "https://slfl.co.uk/wp-content/uploads/2026/07/East_Fife_FC_logo.svg_-262x300.webp"
+      },
+      {
+        "alt": "Bayview Stadium",
+        "src": "/wp-content/themes/website-slfl/static/assets/stadium-fallback.jpg"
+      }
+    ],
+    "parent_text": "East Fife Bayview Stadium"
+  },
+  {
+    "href": "https://slfl.co.uk/clubs/east-kilbride/",
+    "text": "East Kilbride K-Park Training Academy",
+    "images": [
+      {
+        "alt": "East Kilbride Crest",
+        "src": "https://slfl.co.uk/wp-content/uploads/2026/07/East_Kilbride_FC_crest.svg_-234x300.webp"
+      },
+      {
+        "alt": "K-Park Training Academy",
+        "src": "/wp-content/themes/website-slfl/static/assets/stadium-fallback.jpg"
+      }
+    ],
+    "parent_text": "East Kilbride K-Park Training Academy"
+  },
+  {
+    "href": "https://slfl.co.uk/clubs/east-stirlingshire/",
+    "text": "East Stirlingshire Ochilview Stadium",
+    "images": [
+      {
+        "alt": "East Stirlingshire Crest",
+        "src": "https://slfl.co.uk/wp-content/uploads/2026/07/east-stirlingshire.png"
+      },
+      {
+        "alt": "Ochilview Stadium",
+        "src": "/wp-content/themes/website-slfl/static/assets/stadium-fallback.jpg"
+      }
+    ],
+    "parent_text": "East Stirlingshire Ochilview Stadium"
+  },
+  {
+    "href": "https://slfl.co.uk/clubs/edinburgh-city/",
+    "text": "Edinburgh City Meadowbank Stadium",
+    "images": [
+      {
+        "alt": "Edinburgh City Crest",
+        "src": "https://slfl.co.uk/wp-content/uploads/2026/07/EdinburghCityClubCrest-300x300.png"
+      },
+      {
+        "alt": "Meadowbank Stadium",
+        "src": "/wp-content/themes/website-slfl/static/assets/stadium-fallback.jpg"
+      }
+    ],
+    "parent_text": "Edinburgh City Meadowbank Stadium"
+  },
+  {
+    "href": "https://slfl.co.uk/clubs/gala-fairydean-rovers/",
+    "text": "Gala Fairydean Rovers 3G Arena Netherdale",
+    "images": [
+      {
+        "alt": "Gala Fairydean Rovers Crest",
+        "src": "https://slfl.co.uk/wp-content/uploads/2026/07/gala-fairydean.png"
+      },
+      {
+        "alt": "3G Arena Netherdale",
+        "src": "/wp-content/themes/website-slfl/static/assets/stadium-fallback.jpg"
+      }
+    ],
+    "parent_text": "Gala Fairydean Rovers 3G Arena Netherdale"
+  },
+  {
+    "href": "https://slfl.co.uk/clubs/gretna-2008/",
+    "text": "Gretna 2008 Raydale Park",
+    "images": [
+      {
+        "alt": "Gretna 2008 Crest",
+        "src": "https://slfl.co.uk/wp-content/uploads/2026/07/gretna-fc.png"
+      },
+      {
+        "alt": "Raydale Park",
+        "src": "/wp-content/themes/website-slfl/static/assets/stadium-fallback.jpg"
+      }
+    ],
+    "parent_text": "Gretna 2008 Raydale Park"
+  },
+  {
+    "href": "https://slfl.co.uk/clubs/hill-of-beath-hawthorn/",
+    "text": "Hill of Beath Hawthorn Keirs Park",
+    "images": [
+      {
+        "alt": "Hill of Beath Hawthorn Crest",
+        "src": "https://slfl.co.uk/wp-content/uploads/2026/07/hill-of-beath.png"
+      },
+      {
+        "alt": "Keirs Park",
+        "src": "/wp-content/themes/website-slfl/static/assets/stadium-fallback.jpg"
+      }
+    ],
+    "parent_text": "Hill of Beath Hawthorn Keirs Park"
+  },
+  {
+    "href": "https://slfl.co.uk/clubs/johnstone-burgh/",
+    "text": "Johnstone Burgh James Y. Keanie Park",
+    "images": [
+      {
+        "alt": "Johnstone Burgh Crest",
+        "src": "https://slfl.co.uk/wp-content/uploads/2026/07/Johnstone_Burgh_FC_logo-300x300.png"
+      },
+      {
+        "alt": "James Y. Keanie Park",
+        "src": "https://slfl.co.uk/wp-content/uploads/2026/07/Johnstone_Burgh_Keanie_Park.jpeg"
+      }
+    ],
+    "parent_text": "Johnstone Burgh James Y. Keanie Park"
+  },
+  {
+    "href": "https://slfl.co.uk/clubs/kilwinning-rangers/",
+    "text": "Kilwinning Rangers Buffs Park",
+    "images": [
+      {
+        "alt": "Kilwinning Rangers Crest",
+        "src": "https://slfl.co.uk/wp-content/uploads/2026/07/Kilwinning_Rangers_F.C.png"
+      },
+      {
+        "alt": "Buffs Park",
+        "src": "https://slfl.co.uk/wp-content/uploads/2026/07/Kilwinning_Rangers_Buffs_Park_1.jpeg"
+      }
+    ],
+    "parent_text": "Kilwinning Rangers Buffs Park"
+  },
+  {
+    "href": "https://slfl.co.uk/clubs/largs-thistle/",
+    "text": "Largs Thistle Barrfields Stadium",
+    "images": [
+      {
+        "alt": "Largs Thistle Crest",
+        "src": "https://slfl.co.uk/wp-content/uploads/2026/07/Largs_Thistle_F.C-300x300.png"
+      },
+      {
+        "alt": "Barrfields Stadium",
+        "src": "/wp-content/themes/website-slfl/static/assets/stadium-fallback.jpg"
+      }
+    ],
+    "parent_text": "Largs Thistle Barrfields Stadium"
+  },
+  {
+    "href": "https://slfl.co.uk/clubs/linlithgow-rose/",
+    "text": "Linlithgow Rose Prestonfield",
+    "images": [
+      {
+        "alt": "Linlithgow Rose Crest",
+        "src": "https://slfl.co.uk/wp-content/uploads/2026/07/linlinthgow.png"
+      },
+      {
+        "alt": "Prestonfield",
+        "src": "/wp-content/themes/website-slfl/static/assets/stadium-fallback.jpg"
+      }
+    ],
+    "parent_text": "Linlithgow Rose Prestonfield"
+  },
+  {
+    "href": "https://slfl.co.uk/clubs/lochee-united/",
+    "text": "Lochee United Thomson Park",
+    "images": [
+      {
+        "alt": "Lochee United Crest",
+        "src": "https://slfl.co.uk/wp-content/uploads/2026/07/lochee.png"
+      },
+      {
+        "alt": "Thomson Park",
+        "src": "/wp-content/themes/website-slfl/static/assets/stadium-fallback.jpg"
+      }
+    ],
+    "parent_text": "Lochee United Thomson Park"
+  },
+  {
+    "href": "https://slfl.co.uk/clubs/musselburgh-athletic/",
+    "text": "Musselburgh Athletic Olivebank Stadium",
+    "images": [
+      {
+        "alt": "Musselburgh Athletic Crest",
+        "src": "https://slfl.co.uk/wp-content/uploads/2026/07/musselburgh.png"
+      },
+      {
+        "alt": "Olivebank Stadium",
+        "src": "/wp-content/themes/website-slfl/static/assets/stadium-fallback.jpg"
+      }
+    ],
+    "parent_text": "Musselburgh Athletic Olivebank Stadium"
+  },
+  {
+    "href": "https://slfl.co.uk/clubs/newton-stewart/",
+    "text": "Newton Stewart Blairmount Park",
+    "images": [
+      {
+        "alt": "Newton Stewart Crest",
+        "src": "https://slfl.co.uk/wp-content/uploads/2026/07/Newton_Stewart_F.C._logo-300x300.png"
+      },
+      {
+        "alt": "Blairmount Park",
+        "src": "https://slfl.co.uk/wp-content/uploads/2026/07/Newton_Stewart_Blairmount_Park.jpg"
+      }
+    ],
+    "parent_text": "Newton Stewart Blairmount Park"
+  },
+  {
+    "href": "https://slfl.co.uk/clubs/pollok/",
+    "text": "Pollok Newlandsfield Park",
+    "images": [
+      {
+        "alt": "Pollok Crest",
+        "src": "https://slfl.co.uk/wp-content/uploads/2026/07/PollokFC-300x283.png"
+      },
+      {
+        "alt": "Newlandsfield Park",
+        "src": "/wp-content/themes/website-slfl/static/assets/stadium-fallback.jpg"
+      }
+    ],
+    "parent_text": "Pollok Newlandsfield Park"
+  },
+  {
+    "href": "https://slfl.co.uk/clubs/renfrew/",
+    "text": "Renfrew New Western Park",
+    "images": [
+      {
+        "alt": "Renfrew Crest",
+        "src": "https://slfl.co.uk/wp-content/uploads/2026/07/Renfrew-300x300.png"
+      },
+      {
+        "alt": "New Western Park",
+        "src": "/wp-content/themes/website-slfl/static/assets/stadium-fallback.jpg"
+      }
+    ],
+    "parent_text": "Renfrew New Western Park"
+  },
+  {
+    "href": "https://slfl.co.uk/clubs/stirling-albion/",
+    "text": "Stirling Albion Forthbank Stadium",
+    "images": [
+      {
+        "alt": "Stirling Albion Crest",
+        "src": "https://slfl.co.uk/wp-content/uploads/2026/07/Stirling_Albion_FC_crest.svg_-300x300.webp"
+      },
+      {
+        "alt": "Forthbank Stadium",
+        "src": "/wp-content/themes/website-slfl/static/assets/stadium-fallback.jpg"
+      }
+    ],
+    "parent_text": "Stirling Albion Forthbank Stadium"
+  },
+  {
+    "href": "https://slfl.co.uk/clubs/the-spartans/",
+    "text": "The Spartans Ainslie Park",
+    "images": [
+      {
+        "alt": "The Spartans Crest",
+        "src": "https://slfl.co.uk/wp-content/uploads/2026/07/The_Spartans_F.C._logo.svg_-300x300.webp"
+      },
+      {
+        "alt": "Ainslie Park",
+        "src": "/wp-content/themes/website-slfl/static/assets/stadium-fallback.jpg"
+      }
+    ],
+    "parent_text": "The Spartans Ainslie Park"
+  },
+  {
+    "href": "https://slfl.co.uk/clubs/tranent/",
+    "text": "Tranent Foresters Park",
+    "images": [
+      {
+        "alt": "Tranent Crest",
+        "src": "https://slfl.co.uk/wp-content/uploads/2026/07/Tranent.png"
+      },
+      {
+        "alt": "Foresters Park",
+        "src": "/wp-content/themes/website-slfl/static/assets/stadium-fallback.jpg"
+      }
+    ],
+    "parent_text": "Tranent Foresters Park"
+  },
+  {
+    "href": "https://slfl.co.uk/clubs/troon/",
+    "text": "Troon Portland Park",
+    "images": [
+      {
+        "alt": "Troon Crest",
+        "src": "https://slfl.co.uk/wp-content/uploads/2026/07/troon-fc.png"
+      },
+      {
+        "alt": "Portland Park",
+        "src": "/wp-content/themes/website-slfl/static/assets/stadium-fallback.jpg"
+      }
+    ],
+    "parent_text": "Troon Portland Park"
+  },
+  {
+    "href": "https://slfl.co.uk/clubs/university-of-stirling/",
+    "text": "University of Stirling Forthbank Stadium",
+    "images": [
+      {
+        "alt": "University of Stirling Crest",
+        "src": "https://slfl.co.uk/wp-content/uploads/2026/07/stirling-uni.png"
+      },
+      {
+        "alt": "Forthbank Stadium",
+        "src": "/wp-content/themes/website-slfl/static/assets/stadium-fallback.jpg"
+      }
+    ],
+    "parent_text": "University of Stirling Forthbank Stadium"
+  },
+  {
+    "href": "https://slfl.co.uk/clubs/",
+    "text": "Clubs",
+    "images": [],
+    "parent_text": "Clubs"
+  }
+]
