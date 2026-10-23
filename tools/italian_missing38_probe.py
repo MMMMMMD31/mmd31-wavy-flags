@@ -56,6 +56,7 @@ for name in NAMES:
     for alias in ALT_SLUGS.get(name,[]): tasks.append((name,"https://www.datasport.it/calcio/squadra/"+alias+".html"))
 tasks.extend([
  ("special LME","https://www.datasport.it/calcio/squadra/lme.html"),
+ ("Certosa V. Campagnano","https://www.tuttoseried.com/squadre/certosa-vigor-campagnano/"),
  ("official Lascaris","https://www.lascaris.it"),
  ("official Borgosesia","https://www.borgosesiacalcio.com"),
  ("2026 Serie D squads","https://www.tuttocampo.it/2026-27/Italia/SerieD/GironeH/Squadre"),
