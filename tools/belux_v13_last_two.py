@@ -68,6 +68,19 @@ for z in entries:
   if im is None:
    z["status"]="SOURCE_NOT_RETRIEVED";rows.append(z);continue
   # preserve genuinely sourced crest on flat coloured background
+  # The Belisia official site uses a horizontal crest+wordmark lockup.
+  # Extract the actual left-side circular emblem; avoid an illegible horizontal wordmark.
+  if z["id"]==1900262702013 and im.width > im.height*1.6:
+   im=im.crop((0,0,min(im.height,im.width),im.height))
+   im=im.crop(im.getchannel("A").getbbox() or (0,0,im.width,im.height))
+  # The documented 2020 Union Rochefortoise photo has a square matte.
+  # Crop to its circular badge without changing the real logo artwork.
+  if z["id"]==1900262702102:
+   from PIL import ImageDraw
+   m=Image.new("L",im.size,0)
+   d=ImageDraw.Draw(m)
+   d.ellipse((2,2,im.width-3,im.height-3),fill=255)
+   im.putalpha(m)
   im.thumbnail((97,82),Image.Resampling.LANCZOS)
   if im.mode!="RGBA":im=im.convert("RGBA")
   # white outer matte only when image touches image border in large quantities
