@@ -12,6 +12,9 @@ import requests
 from bs4 import BeautifulSoup
 from PIL import Image, ImageOps
 CLUBS=[
+ (1990262000001,"C.S.M","https://seeklogo.com/vector-logo/653708/club-sportif-moulien","#9DCDF4"),
+ (1990262000003,"Siroco Les Abymes","https://seeklogo.com/vector-logo/653704/asc-siroco-les-abymes","#D7F0E3"),
+ (1990262000293,"Tefana","https://www.leballonrond.fr/equipe/as-tefana/33778","#E8DE62"),
  (1990262000028,"C. Franciscain","https://club-franciscain.footeo.com/actualite.html","#338657"),
  (1990262000032,"C. Colonial","https://club-colonial.footeo.com/page/histoire-palmares.html","#4B4B4B"),
  (1990262000054,"As Excelsior","https://fr.wikipedia.org/wiki/Association_sportive_Excelsior_(Saint-Joseph)","#F2992E"),
@@ -20,6 +23,11 @@ CLUBS=[
  (1990262000319,"Tiga Sports","https://tigasport.footeo.com/","#F6D3D8"),
  (1990262000321,"Hienghène Sport","https://hienghene-sport.footeo.com/","#69C5DE"),
 ]
+DIRECT_ASSETS={
+ 1990262000001:"https://images.seeklogo.com/logo-png/65/1/club-sportif-moulien-logo-png_seeklogo-653708.png",
+ 1990262000003:"https://images.seeklogo.com/logo-png/65/1/asc-siroco-les-abymes-logo-png_seeklogo-653704.png",
+ 1990262000293:"https://cdn-img.zerozero.pt/img/logos/equipas/33778_imgbank_1746811699.png",
+}
 DIR=Path("flags/clubs/standard/outremer-2026-27"); DIR.mkdir(parents=True,exist_ok=True)
 def fetch(url):
     resp=requests.get(url,timeout=25,headers={"User-Agent":"Mozilla/5.0 (compatible; MMD31LogoVerification/1.0)"})
@@ -48,7 +56,7 @@ def get_url(page):
 results=[]
 for cid,name,source,bg in CLUBS:
     try:
-        asset_url = ("https://cdn.resfu.com/img_data/equipos/61880.png" if cid==1990262000061 else get_url(source))
+        asset_url = DIRECT_ASSETS.get(cid) or ("https://cdn.resfu.com/img_data/equipos/61880.png" if cid==1990262000061 else get_url(source))
         raw=fetch(asset_url)
         im=Image.open(io.BytesIO(raw))
         im.verify()
