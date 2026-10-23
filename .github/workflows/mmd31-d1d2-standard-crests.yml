@@ -24,9 +24,11 @@ jobs:
       - run: python -m pip install pillow requests
       - name: Download source-based D1 and D2 squads
         run: |
-          mkdir -p research-input
-          gh run download 39854539920 -R "${GITHUB_REPOSITORY}" -n mmd31-district-d1-d8-roster-research -D research-input
-          gh run download 39920173770 -R "${GITHUB_REPOSITORY}" -n mmd31-d2-2026-27-sourced-rosters -D research-input
+          mkdir -p research-input/d1 research-input/d2
+          gh run download 39854539920 -R "${GITHUB_REPOSITORY}" -n mmd31-district-d1-d8-roster-research -D research-input/d1
+          gh run download 39920173770 -R "${GITHUB_REPOSITORY}" -n mmd31-d2-2026-27-sourced-rosters -D research-input/d2
+          cp research-input/d1/MMD31_D1_2026_2027_PARTICIPANTS_SOURCE.json research-input/
+          cp research-input/d2/MMD31_D2_2026_2027_PARTICIPANTS_SOURCE.json research-input/
           test -s research-input/MMD31_D1_2026_2027_PARTICIPANTS_SOURCE.json
           test -s research-input/MMD31_D2_2026_2027_PARTICIPANTS_SOURCE.json
       - name: Generate 120x96 logos by affiliation
