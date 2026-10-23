@@ -25,7 +25,7 @@ for r in rows:
    if not bbox:raise ValueError('empty alpha')
    im=im.crop(bbox)
    # Background for genuine identified club emblem, not generated emblem.
-   background=(225,232,228) if r['id']==1895100000069 else (230,218,199)
+   background=(112,191,188) if r['id']==1895100000069 else (117,166,224)
    canvas=Image.new('RGBA',(120,96),background+(255,))
    im.thumbnail((98,82),Image.Resampling.LANCZOS)
    canvas.alpha_composite(im,((120-im.width)//2,(96-im.height)//2))
