@@ -1,0 +1,33 @@
+{
+  "count": 3,
+  "assets": [
+    {
+      "team_id": "1990262000153",
+      "club": "Jcv -Saint Pierre",
+      "file": "flags/clubs/standard/outremer-2026-27/1990262000153.png",
+      "source": "https://www.saintpierre.re/sites/default/files/2024-12/JCV%20Club%20Foot%20accede%202e%20division.jpg",
+      "provenance": "https://www.saintpierre.re/sport-et-loisirs/foot-la-jcv-saint-pierre-monte-en-deuxieme-division",
+      "sha256": "2c706fe54e82ea11c4d6e07067496287e9029ac350169f77e32d604013079ea8",
+      "bytes": 14477
+    },
+    {
+      "team_id": "1990262000220",
+      "club": "Asj Moinatrindri",
+      "file": "flags/clubs/standard/outremer-2026-27/1990262000220.png",
+      "source": "https://images.seeklogo.com/logo-png/63/1/association-sportive-des-jeunes-de-moinatrindri-logo-png_seeklogo-638187.png",
+      "provenance": "https://seeklogo.com/vector-logo/638187/association-sportive-des-jeunes-de-moinatrindri",
+      "sha256": "57af69fba9bc6d891e3d65290eac0ea96b4dbeb40260a17a3ca20a22768f3c51",
+      "bytes": 8490
+    },
+    {
+      "team_id": "1990262000284",
+      "club": "A.S. Ilienne Amateurs",
+      "file": "flags/clubs/standard/outremer-2026-27/1990262000284.png",
+      "source": "https://images.seeklogo.com/logo-png/62/1/association-sportive-ilienne-amateurs-logo-png_seeklogo-626069.png",
+      "provenance": "https://seeklogo.com/vector-logo/626069/association-sportive-ilienne-amateurs",
+      "sha256": "e6c26a3dda4f3c43d2ae6ac783fcd637ca9acc50856329dbe6e8037dec20af13",
+      "bytes": 9759
+    }
+  ],
+  "validation": "club-identical external pages; no generic FFF placeholders"
+}
