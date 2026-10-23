@@ -4,6 +4,7 @@ on:
     branches: [mmd31-ptgi-logos-20261023-test]
     paths:
       - '.github/workflows/mmd31-probe-salao.yml'
+      - 'tools/probe_ptgi_salao.py'
   workflow_dispatch:
 permissions:
   contents: write
