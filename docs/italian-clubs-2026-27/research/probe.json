@@ -562,6 +562,67 @@
     "final_url": "https://www.datasport.it/calcio/squadra/pavonese.html"
   },
   {
+    "name": "Pavonese",
+    "url": "https://www.datasport.it/calcio/squadra/pavonese-cigolese.html",
+    "status": 200,
+    "final_url": "https://www.datasport.it/calcio/squadra/pavonese-cigolese.html",
+    "title": "Calcio | Pavonese | datasport.it",
+    "headings": [],
+    "images": [
+      {
+        "alt": "Logo DataSport",
+        "src": "https://www.datasport.it/theme/p-ds/img/logo_2.png",
+        "width": "50px",
+        "height": null
+      },
+      {
+        "alt": "Logo DataSport",
+        "src": "https://www.datasport.it/theme/p-ds/img/logo.png",
+        "width": null,
+        "height": null
+      },
+      {
+        "alt": "Logo DataSport",
+        "src": "https://www.datasport.it/theme/p-ds/img/logo.png",
+        "width": null,
+        "height": null
+      },
+      {
+        "alt": "Logo DataSport",
+        "src": "https://www.datasport.it/theme/p-ds/img/logo_2.png",
+        "width": null,
+        "height": null
+      },
+      {
+        "alt": "",
+        "src": "https://www.datasport.it/media/BannerHomeYearbook20_21_2.jpg",
+        "width": null,
+        "height": "1800"
+      },
+      {
+        "alt": "Logo Pavonese",
+        "src": "https://img.datasport.it/img/logos/squadre/pavonese-cigolese.png",
+        "width": null,
+        "height": null
+      },
+      {
+        "alt": "Logo footer",
+        "src": "https://www.datasport.it/theme/p-ds/img/logo.png",
+        "width": "280",
+        "height": "25"
+      }
+    ],
+    "og_images": [
+      "https://img.datasport.it/img/logo_datasport.jpeg"
+    ]
+  },
+  {
+    "name": "Pavonese",
+    "url": "https://www.datasport.it/calcio/squadra/calcio-pavonese.html",
+    "status": 404,
+    "final_url": "https://www.datasport.it/calcio/squadra/calcio-pavonese.html"
+  },
+  {
     "name": "Tritium",
     "url": "https://www.datasport.it/calcio/squadra/tritium.html",
     "status": 404,
@@ -572,6 +633,61 @@
     "url": "https://www.datasport.it/calcio/squadra/tritium.html",
     "status": 404,
     "final_url": "https://www.datasport.it/calcio/squadra/tritium.html"
+  },
+  {
+    "name": "Tritium",
+    "url": "https://www.datasport.it/calcio/squadra/tritium-calcio-1908.html",
+    "status": 200,
+    "final_url": "https://www.datasport.it/calcio/squadra/tritium-calcio-1908.html",
+    "title": "Calcio | Tritium | datasport.it",
+    "headings": [],
+    "images": [
+      {
+        "alt": "Logo DataSport",
+        "src": "https://www.datasport.it/theme/p-ds/img/logo_2.png",
+        "width": "50px",
+        "height": null
+      },
+      {
+        "alt": "Logo DataSport",
+        "src": "https://www.datasport.it/theme/p-ds/img/logo.png",
+        "width": null,
+        "height": null
+      },
+      {
+        "alt": "Logo DataSport",
+        "src": "https://www.datasport.it/theme/p-ds/img/logo.png",
+        "width": null,
+        "height": null
+      },
+      {
+        "alt": "Logo DataSport",
+        "src": "https://www.datasport.it/theme/p-ds/img/logo_2.png",
+        "width": null,
+        "height": null
+      },
+      {
+        "alt": "",
+        "src": "https://www.datasport.it/media/BannerHomeYearbook20_21_2.jpg",
+        "width": null,
+        "height": "1800"
+      },
+      {
+        "alt": "Logo Tritium",
+        "src": "https://img.datasport.it/img/logos/squadre/tritium-calcio-1908.png",
+        "width": null,
+        "height": null
+      },
+      {
+        "alt": "Logo footer",
+        "src": "https://www.datasport.it/theme/p-ds/img/logo.png",
+        "width": "280",
+        "height": "25"
+      }
+    ],
+    "og_images": [
+      "https://img.datasport.it/img/logo_datasport.jpeg"
+    ]
   },
   {
     "name": "Fiorenzuola",
@@ -928,6 +1044,67 @@
     "final_url": "https://www.datasport.it/calcio/squadra/sandona.html"
   },
   {
+    "name": "Sandonà",
+    "url": "https://www.datasport.it/calcio/squadra/sandona-1922.html",
+    "status": 200,
+    "final_url": "https://www.datasport.it/calcio/squadra/sandona-1922.html",
+    "title": "Calcio | Sandonà | datasport.it",
+    "headings": [],
+    "images": [
+      {
+        "alt": "Logo DataSport",
+        "src": "https://www.datasport.it/theme/p-ds/img/logo_2.png",
+        "width": "50px",
+        "height": null
+      },
+      {
+        "alt": "Logo DataSport",
+        "src": "https://www.datasport.it/theme/p-ds/img/logo.png",
+        "width": null,
+        "height": null
+      },
+      {
+        "alt": "Logo DataSport",
+        "src": "https://www.datasport.it/theme/p-ds/img/logo.png",
+        "width": null,
+        "height": null
+      },
+      {
+        "alt": "Logo DataSport",
+        "src": "https://www.datasport.it/theme/p-ds/img/logo_2.png",
+        "width": null,
+        "height": null
+      },
+      {
+        "alt": "",
+        "src": "https://www.datasport.it/media/BannerHomeYearbook20_21_2.jpg",
+        "width": null,
+        "height": "1800"
+      },
+      {
+        "alt": "Logo Sandonà",
+        "src": "https://img.datasport.it/img/logos/squadre/sandona-1922.png",
+        "width": null,
+        "height": null
+      },
+      {
+        "alt": "Logo footer",
+        "src": "https://www.datasport.it/theme/p-ds/img/logo.png",
+        "width": "280",
+        "height": "25"
+      }
+    ],
+    "og_images": [
+      "https://img.datasport.it/img/logo_datasport.jpeg"
+    ]
+  },
+  {
+    "name": "Sandonà",
+    "url": "https://www.datasport.it/calcio/squadra/sandona-calcio.html",
+    "status": 404,
+    "final_url": "https://www.datasport.it/calcio/squadra/sandona-calcio.html"
+  },
+  {
     "name": "Schio",
     "url": "https://www.datasport.it/calcio/squadra/schio.html",
     "status": 404,
@@ -938,6 +1115,61 @@
     "url": "https://www.datasport.it/calcio/squadra/schio.html",
     "status": 404,
     "final_url": "https://www.datasport.it/calcio/squadra/schio.html"
+  },
+  {
+    "name": "Schio",
+    "url": "https://www.datasport.it/calcio/squadra/calcio-schio.html",
+    "status": 200,
+    "final_url": "https://www.datasport.it/calcio/squadra/calcio-schio.html",
+    "title": "Calcio | Schio | datasport.it",
+    "headings": [],
+    "images": [
+      {
+        "alt": "Logo DataSport",
+        "src": "https://www.datasport.it/theme/p-ds/img/logo_2.png",
+        "width": "50px",
+        "height": null
+      },
+      {
+        "alt": "Logo DataSport",
+        "src": "https://www.datasport.it/theme/p-ds/img/logo.png",
+        "width": null,
+        "height": null
+      },
+      {
+        "alt": "Logo DataSport",
+        "src": "https://www.datasport.it/theme/p-ds/img/logo.png",
+        "width": null,
+        "height": null
+      },
+      {
+        "alt": "Logo DataSport",
+        "src": "https://www.datasport.it/theme/p-ds/img/logo_2.png",
+        "width": null,
+        "height": null
+      },
+      {
+        "alt": "",
+        "src": "https://www.datasport.it/media/BannerHomeYearbook20_21_2.jpg",
+        "width": null,
+        "height": "1800"
+      },
+      {
+        "alt": "Logo Schio",
+        "src": "https://img.datasport.it/img/logos/squadre/calcio-schio.png",
+        "width": null,
+        "height": null
+      },
+      {
+        "alt": "Logo footer",
+        "src": "https://www.datasport.it/theme/p-ds/img/logo.png",
+        "width": "280",
+        "height": "25"
+      }
+    ],
+    "og_images": [
+      "https://img.datasport.it/img/logo_datasport.jpeg"
+    ]
   },
   {
     "name": "Arconatese",
@@ -1453,6 +1685,67 @@
     "final_url": "https://www.datasport.it/calcio/squadra/montecchiogallo.html"
   },
   {
+    "name": "Montecchio Gallo",
+    "url": "https://www.datasport.it/calcio/squadra/k-sport-montecchio-gallo.html",
+    "status": 200,
+    "final_url": "https://www.datasport.it/calcio/squadra/k-sport-montecchio-gallo.html",
+    "title": "Calcio | K Sport Montecchio Gallo | datasport.it",
+    "headings": [],
+    "images": [
+      {
+        "alt": "Logo DataSport",
+        "src": "https://www.datasport.it/theme/p-ds/img/logo_2.png",
+        "width": "50px",
+        "height": null
+      },
+      {
+        "alt": "Logo DataSport",
+        "src": "https://www.datasport.it/theme/p-ds/img/logo.png",
+        "width": null,
+        "height": null
+      },
+      {
+        "alt": "Logo DataSport",
+        "src": "https://www.datasport.it/theme/p-ds/img/logo.png",
+        "width": null,
+        "height": null
+      },
+      {
+        "alt": "Logo DataSport",
+        "src": "https://www.datasport.it/theme/p-ds/img/logo_2.png",
+        "width": null,
+        "height": null
+      },
+      {
+        "alt": "",
+        "src": "https://www.datasport.it/media/BannerHomeYearbook20_21_2.jpg",
+        "width": null,
+        "height": "1800"
+      },
+      {
+        "alt": "Logo K Sport Montecchio Gallo",
+        "src": "https://img.datasport.it/img/logos/squadre/k-sport-montecchio-gallo.png",
+        "width": null,
+        "height": null
+      },
+      {
+        "alt": "Logo footer",
+        "src": "https://www.datasport.it/theme/p-ds/img/logo.png",
+        "width": "280",
+        "height": "25"
+      }
+    ],
+    "og_images": [
+      "https://img.datasport.it/img/logo_datasport.jpeg"
+    ]
+  },
+  {
+    "name": "Montecchio Gallo",
+    "url": "https://www.datasport.it/calcio/squadra/k-sport-montecchio.html",
+    "status": 404,
+    "final_url": "https://www.datasport.it/calcio/squadra/k-sport-montecchio.html"
+  },
+  {
     "name": "Città di Lanciano",
     "url": "https://www.datasport.it/calcio/squadra/citta-di-lanciano.html",
     "status": 404,
@@ -1465,6 +1758,73 @@
     "final_url": "https://www.datasport.it/calcio/squadra/cittadilanciano.html"
   },
   {
+    "name": "Città di Lanciano",
+    "url": "https://www.datasport.it/calcio/squadra/lanciano-fc.html",
+    "status": 404,
+    "final_url": "https://www.datasport.it/calcio/squadra/lanciano-fc.html"
+  },
+  {
+    "name": "Città di Lanciano",
+    "url": "https://www.datasport.it/calcio/squadra/lanciano-1920.html",
+    "status": 200,
+    "final_url": "https://www.datasport.it/calcio/squadra/lanciano-1920.html",
+    "title": "Calcio | Lanciano | datasport.it",
+    "headings": [],
+    "images": [
+      {
+        "alt": "Logo DataSport",
+        "src": "https://www.datasport.it/theme/p-ds/img/logo_2.png",
+        "width": "50px",
+        "height": null
+      },
+      {
+        "alt": "Logo DataSport",
+        "src": "https://www.datasport.it/theme/p-ds/img/logo.png",
+        "width": null,
+        "height": null
+      },
+      {
+        "alt": "Logo DataSport",
+        "src": "https://www.datasport.it/theme/p-ds/img/logo.png",
+        "width": null,
+        "height": null
+      },
+      {
+        "alt": "Logo DataSport",
+        "src": "https://www.datasport.it/theme/p-ds/img/logo_2.png",
+        "width": null,
+        "height": null
+      },
+      {
+        "alt": "",
+        "src": "https://www.datasport.it/media/BannerHomeYearbook20_21_2.jpg",
+        "width": null,
+        "height": "1800"
+      },
+      {
+        "alt": "Logo Lanciano",
+        "src": "https://img.datasport.it/img/logos/squadre/lanciano-1920.png",
+        "width": null,
+        "height": null
+      },
+      {
+        "alt": "Logo footer",
+        "src": "https://www.datasport.it/theme/p-ds/img/logo.png",
+        "width": "280",
+        "height": "25"
+      }
+    ],
+    "og_images": [
+      "https://img.datasport.it/img/logo_datasport.jpeg"
+    ]
+  },
+  {
+    "name": "Città di Lanciano",
+    "url": "https://www.datasport.it/calcio/squadra/citta-di-lanciano-fc.html",
+    "status": 404,
+    "final_url": "https://www.datasport.it/calcio/squadra/citta-di-lanciano-fc.html"
+  },
+  {
     "name": "Santegidiese",
     "url": "https://www.datasport.it/calcio/squadra/santegidiese.html",
     "status": 404,
@@ -1475,6 +1835,61 @@
     "url": "https://www.datasport.it/calcio/squadra/santegidiese.html",
     "status": 404,
     "final_url": "https://www.datasport.it/calcio/squadra/santegidiese.html"
+  },
+  {
+    "name": "Santegidiese",
+    "url": "https://www.datasport.it/calcio/squadra/nuova-santegidiese-1948.html",
+    "status": 200,
+    "final_url": "https://www.datasport.it/calcio/squadra/nuova-santegidiese-1948.html",
+    "title": "Calcio | Santegidiese | datasport.it",
+    "headings": [],
+    "images": [
+      {
+        "alt": "Logo DataSport",
+        "src": "https://www.datasport.it/theme/p-ds/img/logo_2.png",
+        "width": "50px",
+        "height": null
+      },
+      {
+        "alt": "Logo DataSport",
+        "src": "https://www.datasport.it/theme/p-ds/img/logo.png",
+        "width": null,
+        "height": null
+      },
+      {
+        "alt": "Logo DataSport",
+        "src": "https://www.datasport.it/theme/p-ds/img/logo.png",
+        "width": null,
+        "height": null
+      },
+      {
+        "alt": "Logo DataSport",
+        "src": "https://www.datasport.it/theme/p-ds/img/logo_2.png",
+        "width": null,
+        "height": null
+      },
+      {
+        "alt": "",
+        "src": "https://www.datasport.it/media/BannerHomeYearbook20_21_2.jpg",
+        "width": null,
+        "height": "1800"
+      },
+      {
+        "alt": "Logo Santegidiese",
+        "src": "https://img.datasport.it/img/logos/squadre/nuova-santegidiese-1948.png",
+        "width": null,
+        "height": null
+      },
+      {
+        "alt": "Logo footer",
+        "src": "https://www.datasport.it/theme/p-ds/img/logo.png",
+        "width": "280",
+        "height": "25"
+      }
+    ],
+    "og_images": [
+      "https://img.datasport.it/img/logo_datasport.jpeg"
+    ]
   },
   {
     "name": "Angelana",
@@ -1489,6 +1904,67 @@
     "final_url": "https://www.datasport.it/calcio/squadra/angelana.html"
   },
   {
+    "name": "Angelana",
+    "url": "https://www.datasport.it/calcio/squadra/asd-angelana.html",
+    "status": 404,
+    "final_url": "https://www.datasport.it/calcio/squadra/asd-angelana.html"
+  },
+  {
+    "name": "Angelana",
+    "url": "https://www.datasport.it/calcio/squadra/angelana-1930.html",
+    "status": 200,
+    "final_url": "https://www.datasport.it/calcio/squadra/angelana-1930.html",
+    "title": "Calcio | Angelana | datasport.it",
+    "headings": [],
+    "images": [
+      {
+        "alt": "Logo DataSport",
+        "src": "https://www.datasport.it/theme/p-ds/img/logo_2.png",
+        "width": "50px",
+        "height": null
+      },
+      {
+        "alt": "Logo DataSport",
+        "src": "https://www.datasport.it/theme/p-ds/img/logo.png",
+        "width": null,
+        "height": null
+      },
+      {
+        "alt": "Logo DataSport",
+        "src": "https://www.datasport.it/theme/p-ds/img/logo.png",
+        "width": null,
+        "height": null
+      },
+      {
+        "alt": "Logo DataSport",
+        "src": "https://www.datasport.it/theme/p-ds/img/logo_2.png",
+        "width": null,
+        "height": null
+      },
+      {
+        "alt": "",
+        "src": "https://www.datasport.it/media/BannerHomeYearbook20_21_2.jpg",
+        "width": null,
+        "height": "1800"
+      },
+      {
+        "alt": "Logo Angelana",
+        "src": "https://img.datasport.it/img/logos/squadre/angelana-1930.png",
+        "width": null,
+        "height": null
+      },
+      {
+        "alt": "Logo footer",
+        "src": "https://www.datasport.it/theme/p-ds/img/logo.png",
+        "width": "280",
+        "height": "25"
+      }
+    ],
+    "og_images": [
+      "https://img.datasport.it/img/logo_datasport.jpeg"
+    ]
+  },
+  {
     "name": "Pietralunghese",
     "url": "https://www.datasport.it/calcio/squadra/pietralunghese.html",
     "status": 404,
@@ -1499,6 +1975,61 @@
     "url": "https://www.datasport.it/calcio/squadra/pietralunghese.html",
     "status": 404,
     "final_url": "https://www.datasport.it/calcio/squadra/pietralunghese.html"
+  },
+  {
+    "name": "Pietralunghese",
+    "url": "https://www.datasport.it/calcio/squadra/pol-pietralunghese.html",
+    "status": 200,
+    "final_url": "https://www.datasport.it/calcio/squadra/pol-pietralunghese.html",
+    "title": "Calcio | Pol. Pietralunghese | datasport.it",
+    "headings": [],
+    "images": [
+      {
+        "alt": "Logo DataSport",
+        "src": "https://www.datasport.it/theme/p-ds/img/logo_2.png",
+        "width": "50px",
+        "height": null
+      },
+      {
+        "alt": "Logo DataSport",
+        "src": "https://www.datasport.it/theme/p-ds/img/logo.png",
+        "width": null,
+        "height": null
+      },
+      {
+        "alt": "Logo DataSport",
+        "src": "https://www.datasport.it/theme/p-ds/img/logo.png",
+        "width": null,
+        "height": null
+      },
+      {
+        "alt": "Logo DataSport",
+        "src": "https://www.datasport.it/theme/p-ds/img/logo_2.png",
+        "width": null,
+        "height": null
+      },
+      {
+        "alt": "",
+        "src": "https://www.datasport.it/media/BannerHomeYearbook20_21_2.jpg",
+        "width": null,
+        "height": "1800"
+      },
+      {
+        "alt": "Logo Pol. Pietralunghese",
+        "src": "https://img.datasport.it/img/logos/squadre/pol-pietralunghese.png",
+        "width": null,
+        "height": null
+      },
+      {
+        "alt": "Logo footer",
+        "src": "https://www.datasport.it/theme/p-ds/img/logo.png",
+        "width": "280",
+        "height": "25"
+      }
+    ],
+    "og_images": [
+      "https://img.datasport.it/img/logo_datasport.jpeg"
+    ]
   },
   {
     "name": "Ossese",
@@ -1511,6 +2042,61 @@
     "url": "https://www.datasport.it/calcio/squadra/ossese.html",
     "status": 404,
     "final_url": "https://www.datasport.it/calcio/squadra/ossese.html"
+  },
+  {
+    "name": "Ossese",
+    "url": "https://www.datasport.it/calcio/squadra/polisportiva-ossese.html",
+    "status": 200,
+    "final_url": "https://www.datasport.it/calcio/squadra/polisportiva-ossese.html",
+    "title": "Calcio | Ossese | datasport.it",
+    "headings": [],
+    "images": [
+      {
+        "alt": "Logo DataSport",
+        "src": "https://www.datasport.it/theme/p-ds/img/logo_2.png",
+        "width": "50px",
+        "height": null
+      },
+      {
+        "alt": "Logo DataSport",
+        "src": "https://www.datasport.it/theme/p-ds/img/logo.png",
+        "width": null,
+        "height": null
+      },
+      {
+        "alt": "Logo DataSport",
+        "src": "https://www.datasport.it/theme/p-ds/img/logo.png",
+        "width": null,
+        "height": null
+      },
+      {
+        "alt": "Logo DataSport",
+        "src": "https://www.datasport.it/theme/p-ds/img/logo_2.png",
+        "width": null,
+        "height": null
+      },
+      {
+        "alt": "",
+        "src": "https://www.datasport.it/media/BannerHomeYearbook20_21_2.jpg",
+        "width": null,
+        "height": "1800"
+      },
+      {
+        "alt": "Logo Ossese",
+        "src": "https://img.datasport.it/img/logos/squadre/polisportiva-ossese.png",
+        "width": null,
+        "height": null
+      },
+      {
+        "alt": "Logo footer",
+        "src": "https://www.datasport.it/theme/p-ds/img/logo.png",
+        "width": "280",
+        "height": "25"
+      }
+    ],
+    "og_images": [
+      "https://img.datasport.it/img/logo_datasport.jpeg"
+    ]
   },
   {
     "name": "Albalonga",
@@ -1745,6 +2331,18 @@
     "final_url": "https://www.datasport.it/calcio/squadra/certosavcampagnano.html"
   },
   {
+    "name": "Certosa V. Campagnano",
+    "url": "https://www.datasport.it/calcio/squadra/certosa-vigor-campagnano.html",
+    "status": 404,
+    "final_url": "https://www.datasport.it/calcio/squadra/certosa-vigor-campagnano.html"
+  },
+  {
+    "name": "Certosa V. Campagnano",
+    "url": "https://www.datasport.it/calcio/squadra/certosa.html",
+    "status": 404,
+    "final_url": "https://www.datasport.it/calcio/squadra/certosa.html"
+  },
+  {
     "name": "Città di Anagni",
     "url": "https://www.datasport.it/calcio/squadra/citta-di-anagni.html",
     "status": 200,
@@ -1818,6 +2416,61 @@
     "final_url": "https://www.datasport.it/calcio/squadra/venafro.html"
   },
   {
+    "name": "Venafro",
+    "url": "https://www.datasport.it/calcio/squadra/us-venafro.html",
+    "status": 200,
+    "final_url": "https://www.datasport.it/calcio/squadra/us-venafro.html",
+    "title": "Calcio | Venafro | datasport.it",
+    "headings": [],
+    "images": [
+      {
+        "alt": "Logo DataSport",
+        "src": "https://www.datasport.it/theme/p-ds/img/logo_2.png",
+        "width": "50px",
+        "height": null
+      },
+      {
+        "alt": "Logo DataSport",
+        "src": "https://www.datasport.it/theme/p-ds/img/logo.png",
+        "width": null,
+        "height": null
+      },
+      {
+        "alt": "Logo DataSport",
+        "src": "https://www.datasport.it/theme/p-ds/img/logo.png",
+        "width": null,
+        "height": null
+      },
+      {
+        "alt": "Logo DataSport",
+        "src": "https://www.datasport.it/theme/p-ds/img/logo_2.png",
+        "width": null,
+        "height": null
+      },
+      {
+        "alt": "",
+        "src": "https://www.datasport.it/media/BannerHomeYearbook20_21_2.jpg",
+        "width": null,
+        "height": "1800"
+      },
+      {
+        "alt": "Logo Venafro",
+        "src": "https://img.datasport.it/img/logos/squadre/us-venafro.png",
+        "width": null,
+        "height": null
+      },
+      {
+        "alt": "Logo footer",
+        "src": "https://www.datasport.it/theme/p-ds/img/logo.png",
+        "width": "280",
+        "height": "25"
+      }
+    ],
+    "og_images": [
+      "https://img.datasport.it/img/logo_datasport.jpeg"
+    ]
+  },
+  {
     "name": "Bisceglie",
     "url": "https://www.datasport.it/calcio/squadra/bisceglie.html",
     "status": 200,
@@ -1938,6 +2591,61 @@
     "url": "https://www.datasport.it/calcio/squadra/brindisi.html",
     "status": 404,
     "final_url": "https://www.datasport.it/calcio/squadra/brindisi.html"
+  },
+  {
+    "name": "Brindisi",
+    "url": "https://www.datasport.it/calcio/squadra/brindisi-football-club.html",
+    "status": 200,
+    "final_url": "https://www.datasport.it/calcio/squadra/brindisi-football-club.html",
+    "title": "Calcio | Brindisi | datasport.it",
+    "headings": [],
+    "images": [
+      {
+        "alt": "Logo DataSport",
+        "src": "https://www.datasport.it/theme/p-ds/img/logo_2.png",
+        "width": "50px",
+        "height": null
+      },
+      {
+        "alt": "Logo DataSport",
+        "src": "https://www.datasport.it/theme/p-ds/img/logo.png",
+        "width": null,
+        "height": null
+      },
+      {
+        "alt": "Logo DataSport",
+        "src": "https://www.datasport.it/theme/p-ds/img/logo.png",
+        "width": null,
+        "height": null
+      },
+      {
+        "alt": "Logo DataSport",
+        "src": "https://www.datasport.it/theme/p-ds/img/logo_2.png",
+        "width": null,
+        "height": null
+      },
+      {
+        "alt": "",
+        "src": "https://www.datasport.it/media/BannerHomeYearbook20_21_2.jpg",
+        "width": null,
+        "height": "1800"
+      },
+      {
+        "alt": "Logo Brindisi",
+        "src": "https://img.datasport.it/img/logos/squadre/brindisi-football-club.png",
+        "width": null,
+        "height": null
+      },
+      {
+        "alt": "Logo footer",
+        "src": "https://www.datasport.it/theme/p-ds/img/logo.png",
+        "width": "280",
+        "height": "25"
+      }
+    ],
+    "og_images": [
+      "https://img.datasport.it/img/logo_datasport.jpeg"
+    ]
   },
   {
     "name": "Flegrea Puteolana",
@@ -2013,6 +2721,61 @@
     "final_url": "https://www.datasport.it/calcio/squadra/realforio.html"
   },
   {
+    "name": "Real Forio",
+    "url": "https://www.datasport.it/calcio/squadra/real-forio-2014.html",
+    "status": 200,
+    "final_url": "https://www.datasport.it/calcio/squadra/real-forio-2014.html",
+    "title": "Calcio | Real Forio | datasport.it",
+    "headings": [],
+    "images": [
+      {
+        "alt": "Logo DataSport",
+        "src": "https://www.datasport.it/theme/p-ds/img/logo_2.png",
+        "width": "50px",
+        "height": null
+      },
+      {
+        "alt": "Logo DataSport",
+        "src": "https://www.datasport.it/theme/p-ds/img/logo.png",
+        "width": null,
+        "height": null
+      },
+      {
+        "alt": "Logo DataSport",
+        "src": "https://www.datasport.it/theme/p-ds/img/logo.png",
+        "width": null,
+        "height": null
+      },
+      {
+        "alt": "Logo DataSport",
+        "src": "https://www.datasport.it/theme/p-ds/img/logo_2.png",
+        "width": null,
+        "height": null
+      },
+      {
+        "alt": "",
+        "src": "https://www.datasport.it/media/BannerHomeYearbook20_21_2.jpg",
+        "width": null,
+        "height": "1800"
+      },
+      {
+        "alt": "Logo Real Forio",
+        "src": "https://img.datasport.it/img/logos/squadre/real-forio-2014.png",
+        "width": null,
+        "height": null
+      },
+      {
+        "alt": "Logo footer",
+        "src": "https://www.datasport.it/theme/p-ds/img/logo.png",
+        "width": "280",
+        "height": "25"
+      }
+    ],
+    "og_images": [
+      "https://img.datasport.it/img/logo_datasport.jpeg"
+    ]
+  },
+  {
     "name": "Ebolitana",
     "url": "https://www.datasport.it/calcio/squadra/ebolitana.html",
     "status": 200,
@@ -2245,6 +3008,61 @@
     "final_url": "https://www.datasport.it/calcio/squadra/licata.html"
   },
   {
+    "name": "Licata",
+    "url": "https://www.datasport.it/calcio/squadra/licata-calcio.html",
+    "status": 200,
+    "final_url": "https://www.datasport.it/calcio/squadra/licata-calcio.html",
+    "title": "Calcio | Licata | datasport.it",
+    "headings": [],
+    "images": [
+      {
+        "alt": "Logo DataSport",
+        "src": "https://www.datasport.it/theme/p-ds/img/logo_2.png",
+        "width": "50px",
+        "height": null
+      },
+      {
+        "alt": "Logo DataSport",
+        "src": "https://www.datasport.it/theme/p-ds/img/logo.png",
+        "width": null,
+        "height": null
+      },
+      {
+        "alt": "Logo DataSport",
+        "src": "https://www.datasport.it/theme/p-ds/img/logo.png",
+        "width": null,
+        "height": null
+      },
+      {
+        "alt": "Logo DataSport",
+        "src": "https://www.datasport.it/theme/p-ds/img/logo_2.png",
+        "width": null,
+        "height": null
+      },
+      {
+        "alt": "",
+        "src": "https://www.datasport.it/media/BannerHomeYearbook20_21_2.jpg",
+        "width": null,
+        "height": "1800"
+      },
+      {
+        "alt": "Logo Licata",
+        "src": "https://img.datasport.it/img/logos/squadre/licata-calcio.png",
+        "width": null,
+        "height": null
+      },
+      {
+        "alt": "Logo footer",
+        "src": "https://www.datasport.it/theme/p-ds/img/logo.png",
+        "width": "280",
+        "height": "25"
+      }
+    ],
+    "og_images": [
+      "https://img.datasport.it/img/logo_datasport.jpeg"
+    ]
+  },
+  {
     "name": "Modica",
     "url": "https://www.datasport.it/calcio/squadra/modica.html",
     "status": 404,
@@ -2255,6 +3073,61 @@
     "url": "https://www.datasport.it/calcio/squadra/modica.html",
     "status": 404,
     "final_url": "https://www.datasport.it/calcio/squadra/modica.html"
+  },
+  {
+    "name": "Modica",
+    "url": "https://www.datasport.it/calcio/squadra/new-modica-calcio.html",
+    "status": 200,
+    "final_url": "https://www.datasport.it/calcio/squadra/new-modica-calcio.html",
+    "title": "Calcio | Modica | datasport.it",
+    "headings": [],
+    "images": [
+      {
+        "alt": "Logo DataSport",
+        "src": "https://www.datasport.it/theme/p-ds/img/logo_2.png",
+        "width": "50px",
+        "height": null
+      },
+      {
+        "alt": "Logo DataSport",
+        "src": "https://www.datasport.it/theme/p-ds/img/logo.png",
+        "width": null,
+        "height": null
+      },
+      {
+        "alt": "Logo DataSport",
+        "src": "https://www.datasport.it/theme/p-ds/img/logo.png",
+        "width": null,
+        "height": null
+      },
+      {
+        "alt": "Logo DataSport",
+        "src": "https://www.datasport.it/theme/p-ds/img/logo_2.png",
+        "width": null,
+        "height": null
+      },
+      {
+        "alt": "",
+        "src": "https://www.datasport.it/media/BannerHomeYearbook20_21_2.jpg",
+        "width": null,
+        "height": "1800"
+      },
+      {
+        "alt": "Logo Modica",
+        "src": "https://img.datasport.it/img/logos/squadre/new-modica-calcio.png",
+        "width": null,
+        "height": null
+      },
+      {
+        "alt": "Logo footer",
+        "src": "https://www.datasport.it/theme/p-ds/img/logo.png",
+        "width": "280",
+        "height": "25"
+      }
+    ],
+    "og_images": [
+      "https://img.datasport.it/img/logo_datasport.jpeg"
+    ]
   },
   {
     "name": "Digiesse Praiatortora",
