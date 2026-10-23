@@ -652,6 +652,23 @@
   },
   {
     "name": "Certosa V. Campagnano",
+    "url": "https://img.a.transfermarkt.technology/wappen/head/22294.png?lm=4711",
+    "status": 200,
+    "final_url": "https://img.a.transfermarkt.technology/wappen/head/22294.png?lm=4711",
+    "size_bytes": 47153,
+    "format": "PNG",
+    "original_size": [
+      139,
+      181
+    ],
+    "unique_colors": 835,
+    "dominant_pixel_fraction": 0.277,
+    "sha256": "2aa4a75de2d59df54bb6f31b84ae4ec783ab3526628183f22061cfc406e8ae52",
+    "alpha_opaque_fraction": 0.619,
+    "preview_path": "docs/italian-clubs-2026-27/research/candidate-previews/certosa-v-campagnano-2aa4a75de2.png"
+  },
+  {
+    "name": "Certosa V. Campagnano",
     "url": "https://img.datasport.it/img/logos/squadre/certosa-v-campagnano.png",
     "status": 404,
     "final_url": "https://img.datasport.it/img/logos/squadre/certosa-v-campagnano.png",
