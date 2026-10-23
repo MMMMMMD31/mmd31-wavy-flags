@@ -1,0 +1,25 @@
+name: MMD31 probe GD Salao crest URL
+on:
+  push:
+    branches: [mmd31-ptgi-logos-20261023-test]
+    paths:
+      - '.github/workflows/mmd31-probe-salao.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 6
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install requests
+      - run: python tools/probe_ptgi_salao.py
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/portugal-gibraltar-clubs-2026-27/v1/salao-probe.json
+          git commit -m "Record GD Salao logo candidates" && git push origin HEAD:refs/heads/${GITHUB_REF_NAME}
