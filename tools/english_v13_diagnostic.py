@@ -29,10 +29,10 @@ try:
   t=script.get_text(" ",strip=True)
   if "SUPABASE" not in t and "rest/v1" not in t and "elo" not in t.lower():continue
   # No auth keys in diagnostics.
-  t=re.sub(r"(?i)(anon_key|supabase_key|apikey|authorization|SUPABASE_ANON_KEY)(\\s*[:=]\\s*)['\\\"][^'\\\"]+['\\\"]",r"\\1\\2'[REDACTED]'",t)
+  t=t.replace("apikey:","api_key_redacted:").replace("Authorization:","Authorization_Redacted:")
   lines=t.splitlines()
   for i,line in enumerate(lines):
-   if re.search(r"elo|rest/v1|supabase|fetch\\(",line,re.I):
+   if any(word in line.lower() for word in ("elo","rest/v1","supabase","fetch(")):
     fragments.append("\\n".join(lines[max(0,i-1):min(len(lines),i+3)])[:850])
  out["elo_script_refs"]=fragments[:45]
 except Exception as exc:out["elo_script_refs_error"]=str(exc)
