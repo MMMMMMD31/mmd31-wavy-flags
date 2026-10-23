@@ -1,0 +1,38 @@
+name: Generate English club crest flags 2026-27 (MMD31)
+on:
+  push:
+    paths:
+      - 'tools/english_clubs_2026_27_sources.json'
+      - 'tools/generate_english_clubs_2026_27.py'
+      - '.github/workflows/mmd31-english-clubs-2026-27.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: python -m pip install --disable-pip-version-check pillow cairosvg requests
+      - name: Render and validate 116 authentic SVG-based crests (120x96)
+        run: python tools/generate_english_clubs_2026_27.py
+      - name: Commit English club PNG assets only
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/english-clubs-2026-27/v1/
+          if git diff --cached --quiet; then
+            echo "All club badges already present"
+          else
+            git commit -m "Publish 116 English 120x96 real club crest flags"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
