@@ -1,0 +1,29 @@
+name: Extract official Northern Ireland 2026-27 teams and crests
+on:
+  push:
+    paths:
+      - 'tools/nir_v13_official_data.py'
+      - '.github/workflows/mmd31-nir-v13-extension.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install requests beautifulsoup4 pillow
+      - run: python tools/nir_v13_official_data.py
+      - name: Publish source-labelled club inventories and badges
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/nir-clubs-2026-27/v13-extension/
+          if ! git diff --cached --quiet; then
+            git commit -m "Publish official 2026/27 Northern Irish extended league and club-badge inventory"
+            git push origin HEAD:refs/heads/${GITHUB_REF_NAME}
+          fi
