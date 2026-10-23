@@ -48,6 +48,16 @@ for url in ["https://www.europlan-online.de/index.php?id=2675&s=liga","https://w
         item["imgs"]=[{"alt":i.get("alt",""),"src":i.get("src"),"data_src":i.get("data-src"),"parent":i.parent.parent.get_text(" ",strip=True)[:150] if i.parent and i.parent.parent else ""} for i in tags if i.get("alt") or i.get("src")][:140]
     except Exception as e:item["error"]=str(e)[:180]
     results.append(item)
+for url in ["https://www.pitchero.com/clubs/trojansyouthcommunitygroup","https://www.teamstats.net/team/football/trojans-ycg-derry","https://www.juniorgrassrootshub.com/clubs/trojans-ycg-colts-u11-d-and-d","https://38trojansycg.co.uk"]:
+    item={"page":url}
+    try:
+        r=requests.get(url,timeout=20,headers={"User-Agent":"Mozilla/5.0"})
+        item["status"]=r.status_code;item["length"]=len(r.content)
+        soup=bs4.BeautifulSoup(r.text,"html.parser")
+        item["meta"]=[{"key":m.get("property") or m.get("name"),"value":m.get("content","")[:240]} for m in soup.select("meta") if any(w in str(m).lower() for w in ("image","logo","twitter:"))][:18]
+        item["imgs"]=[{"alt":i.get("alt",""),"src":i.get("src"),"data_src":i.get("data-src"),"srcset":(i.get("srcset") or "")[:150]} for i in soup.select("img")][:50]
+    except Exception as e:item["error"]=str(e)[:180]
+    results.append(item)
 out=ROOT/"nafl_probe.json"
 out.write_text(json.dumps(results,ensure_ascii=False,indent=2))
 for x in results:print(x["page"],x.get("status"),x.get("length"),len(x.get("imgs",[])),x.get("error",""))
