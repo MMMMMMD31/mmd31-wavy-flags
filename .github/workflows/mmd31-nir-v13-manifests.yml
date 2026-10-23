@@ -1,0 +1,19 @@
+name: Package Northern Irish crest source manifests
+on:
+  push:
+    paths:
+      - '.github/workflows/mmd31-nir-v13-manifests.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  manifest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/upload-artifact@v4
+        with:
+          name: nir-v13-crest-provenance
+          path: |
+            docs/nir-clubs-2026-27/v1/status.json
+            docs/nir-clubs-2026-27/v13-extension/official_snapshot.json
