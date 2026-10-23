@@ -83,9 +83,20 @@
       "id": 1884500100321,
       "name": "Atlético Marbella",
       "group": 9,
-      "status": "ÉCUSSON_RÉEL_NON_VÉRIFIÉ",
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
       "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-9/clasificacion",
-      "reason": "image missing or name not confidently matched"
+      "source_image": "https://futbolme.com/static/img/club/escudo16450.png",
+      "source_team_page": "https://futbolme.com/resultados-directo/equipo/atletico-de-marbella-balompie/38387/calendario",
+      "source_club": "Atlético Marbella",
+      "source_sha256": "4da02e4f98ce5f82b3c85086ad05d2ca35a0e0478fb84c0bb0858148747411ae",
+      "background_rgb": [
+        201,
+        180,
+        92
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100321.png",
+      "image_sha256": "34ee04f52f12866e248f0327c431625795a70419e73918fcf2d0a417d826ea8c",
+      "match_score": 100
     },
     {
       "id": 1884500100322,

@@ -45,9 +45,20 @@
       "id": 1884500100373,
       "name": "Laguna",
       "group": 12,
-      "status": "ÉCUSSON_RÉEL_NON_VÉRIFIÉ",
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
       "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-12/clasificacion",
-      "reason": "image missing or name not confidently matched"
+      "source_image": "https://futbolme.com/static/img/club/escudo4601.png",
+      "source_team_page": "https://futbolme.com/resultados-directo/partido/cd-laguna-ud-san-fernando/1356966",
+      "source_club": "Laguna",
+      "source_sha256": "abe84856f5203be733c122fb59577448f62b477997101fa634b8c2e2e798a799",
+      "background_rgb": [
+        158,
+        136,
+        201
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100373.png",
+      "image_sha256": "54a171d28e06a1b1fc15c7d234c7b6026a4f375ea85297a7e3ce286c869105a3",
+      "match_score": 100
     },
     {
       "id": 1884500100374,
