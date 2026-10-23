@@ -76,6 +76,10 @@ for name in NAMES:
         if item["name"]!=name or item.get("status")!=200:continue
         source_urls.extend([x["src"] for x in item.get("images",[]) if x.get("alt","").lower().startswith("logo ") and ("datasport" not in x.get("alt","").lower()) and "img.datasport.it" in x.get("src","")])
     source_urls.extend(OVERRIDES.get(name,[]))
+    if name=="Certosa V. Campagnano":
+        for item in PROBE:
+            if item["name"]!=name or item.get("status")!=200 or "tuttoseried.com" not in item.get("url",""):continue
+            source_urls.extend(x["src"] for x in item.get("images",[]) if "certosa" in x.get("alt","").lower() and "logo" in x.get("alt","").lower())
     for s in [slug(name),slug(name).replace("-",""),slug(name).replace("citta-di-",""),slug(name).replace("digiesse-",""),slug(name).replace("virtus-",""),slug(name).replace("flegrea-","")]+ALT_SLUGS.get(name,[]):
         source_urls.append("https://img.datasport.it/img/logos/squadre/"+s+".png")
     seen=set()
