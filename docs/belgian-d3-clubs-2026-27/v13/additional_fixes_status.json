@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "id": 1900262702002,
+      "name": "Racing Club Harelbeke",
+      "source": "https://logowik.com/content/uploads/images/krc-harelbeke8953.logowik.com.webp",
+      "status": "SOURCE_IMAGE_PUBLISHED_IDENTITY_CANDIDATE",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-v13-d3-assets/docs/belgian-d3-clubs-2026-27/v13/1900262702002.png",
+      "sha256": "79aca6cfbe075db0df438dd4a0f86ebb52959a5007b1de3fa940207a241ab4d3"
+    },
+    {
+      "id": 1900262702010,
+      "name": "KFC Merelbeke",
+      "source": "https://www.voetbalinbelgie.be/images/club_logo_van_voetbalvereniging_merelbeke-kfc_uit_merelbeke.png",
+      "status": "SOURCE_IMAGE_PUBLISHED_IDENTITY_CANDIDATE",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-v13-d3-assets/docs/belgian-d3-clubs-2026-27/v13/1900262702010.png",
+      "sha256": "d6a13a1419cd87a642e48bcd5e18ef362cce02928e237d4b619c6d0b440e4b45"
+    },
+    {
+      "id": 1900262702013,
+      "name": "Belisia Bilzen",
+      "source": "https://belisiasv.be/media/5j5ar0n4/belisia_logo_small.png",
+      "status": "FAILED",
+      "error": "404 Client Error: Not Found for url: https://www.belisiasv.be/media/5j5ar0n4/belisia_logo_small.png"
+    }
+  ]
+}
