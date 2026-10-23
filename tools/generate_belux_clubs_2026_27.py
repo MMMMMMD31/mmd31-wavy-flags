@@ -40,7 +40,7 @@ for country in ["belgium","luxembourg"]:
  print("REPO",country,len(repo[country]),flush=True)
 # No club-badge substitutions from unrelated clubs.
 explicit={
-"Cercle Brugge":"Cercle Brugge KSV","OH Leuven":"Oud-Heverlee Leuven",
+"Club Brugge KV":"Club Brugge","Cercle Brugge":"Cercle Brugge KSV","OH Leuven":"Oud-Heverlee Leuven",
 "RAAL La Louvière":"RAAL La Louvière","Royale Union Saint-Gilloise":"Union Saint-Gilloise",
 "SK Beveren":"S.K. Beveren","Sporting Charleroi":"Royal Charleroi S.C.",
 "KSC Lokeren":"KSC Lokeren-Temse","K. Beerschot VA":"Beerschot",
