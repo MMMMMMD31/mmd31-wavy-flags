@@ -2,7 +2,7 @@
 """Find authentic club crests for Mayotte from matching SportCorico club pages.
 NEVER use a site logo, placeholder, homonym, wrong territory or invent a crest.
 Writes auditable statuses; auto-accepted images require a matching club title and territory.
-Use verified 2026 Mayotte club aliases.
+Use verified 2026 Mayotte club aliases, including Foudre Sport Dzoumogne.
 """
 import csv, re, io, os, hashlib, unicodedata, time
 from pathlib import Path
