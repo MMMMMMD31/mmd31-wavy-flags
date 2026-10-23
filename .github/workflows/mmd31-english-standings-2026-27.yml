@@ -1,0 +1,23 @@
+name: Research observed English 2026-27 league performances
+on:
+  push:
+    paths: [ 'tools/mmd31_english_standings_2026_27.py', '.github/workflows/mmd31-english-standings-2026-27.yml' ]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  tables:
+    runs-on: ubuntu-latest
+    timeout-minutes: 14
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.11' }
+      - run: python -m pip install requests beautifulsoup4
+      - run: python tools/mmd31_english_standings_2026_27.py
+      - name: Save data on research branch only
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/english-ratings-research/standings_2026_10_23.json docs/english-ratings-research/coverage_2026_10_23.json
+          git diff --cached --quiet || (git commit -m "Record English league 2026-27 observed results for Elo research" && git push)
