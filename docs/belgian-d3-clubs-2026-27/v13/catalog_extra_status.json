@@ -1,0 +1,299 @@
+{
+  "count": 19,
+  "ok": 16,
+  "assets": [
+    {
+      "id": 1900262702000,
+      "name": "KSK Heist",
+      "source": "https://primary.jwwb.nl/public/u/p/j/temp-bpazrmsmlmyifrylaudz/k-sk_-heist-transparant-high.png?enable=upscale&enable-io=true&fit=bounds&width=1200",
+      "status": "SOURCE_IMAGE_PUBLISHED_IDENTITY_CANDIDATE",
+      "source_dimensions": [
+        1200,
+        1201
+      ],
+      "background": [
+        167,
+        193,
+        231
+      ],
+      "sha256": "b5ca4de8ae3de92155001dbf98b92784e7f1b15b548274d644dd17801283c6f6",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-v13-d3-assets/docs/belgian-d3-clubs-2026-27/v13/1900262702000.png"
+    },
+    {
+      "id": 1900262702001,
+      "name": "FC Mandel United",
+      "source": "https://www.codecblend.com/v3/images/stories/virtuemart/product/resized/royal-fc-mandel-united-thumbnail_640x640.jpg",
+      "status": "SOURCE_IMAGE_PUBLISHED_IDENTITY_CANDIDATE",
+      "source_dimensions": [
+        640,
+        639
+      ],
+      "background": [
+        232,
+        185,
+        190
+      ],
+      "sha256": "cb5d52055251e082bd772eb40523193a7165cb31a775d90f3050c6afed9b6335",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-v13-d3-assets/docs/belgian-d3-clubs-2026-27/v13/1900262702001.png"
+    },
+    {
+      "id": 1900262702002,
+      "name": "Racing Club Harelbeke",
+      "source": "https://www.krcgent.be/sites/krcgent.be/files/styles/og/public/images/opponents/logo_krc_harelbeke.png?itok=f3RzNpDF",
+      "status": "FAILED",
+      "error": "404 Client Error: Not Found for url: https://www.krcgent.be/sites/krcgent.be/files/styles/og/public/images/opponents/logo_krc_harelbeke.png?itok=f3RzNpDF"
+    },
+    {
+      "id": 1900262702004,
+      "name": "K Lyra-Lierse",
+      "source": "https://logowik.com/content/uploads/images/k-lyra-lierse-berlaar.jpg",
+      "status": "SOURCE_IMAGE_PUBLISHED_IDENTITY_CANDIDATE",
+      "source_dimensions": [
+        866,
+        650
+      ],
+      "background": [
+        245,
+        226,
+        164
+      ],
+      "sha256": "a8ff35ea1050f3066b42922668a41cbd42e9c93f12519775012a8004c4bd0c39",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-v13-d3-assets/docs/belgian-d3-clubs-2026-27/v13/1900262702004.png"
+    },
+    {
+      "id": 1900262702005,
+      "name": "Royal Knokke FC",
+      "source": "https://vormeracademy.com/assets/logo-knokke-fc-6OCfFPyI.png",
+      "status": "SOURCE_IMAGE_PUBLISHED_IDENTITY_CANDIDATE",
+      "source_dimensions": [
+        1024,
+        1024
+      ],
+      "background": [
+        185,
+        220,
+        241
+      ],
+      "sha256": "554e9fa1fab5e95a2bf311bc6a0a682dc7361378067bebd8912cfb2e48b277ac",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-v13-d3-assets/docs/belgian-d3-clubs-2026-27/v13/1900262702005.png"
+    },
+    {
+      "id": 1900262702007,
+      "name": "Hoogstraten VV",
+      "source": "https://images.seeklogo.com/logo-png/29/1/hoogstraten-vv-logo-png_seeklogo-295040.png",
+      "status": "SOURCE_IMAGE_PUBLISHED_IDENTITY_CANDIDATE",
+      "source_dimensions": [
+        600,
+        600
+      ],
+      "background": [
+        242,
+        192,
+        192
+      ],
+      "sha256": "c14216f64f729f270d015f4655a9263a1caf603990455da7a7710adee907f29a",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-v13-d3-assets/docs/belgian-d3-clubs-2026-27/v13/1900262702007.png"
+    },
+    {
+      "id": 1900262702008,
+      "name": "KVK Tienen",
+      "source": "https://www.logotypes101.com/logos/7/0C0BA148AC27973B4DEE646DABD90FC1/KVK_Tienen.png",
+      "status": "SOURCE_IMAGE_PUBLISHED_IDENTITY_CANDIDATE",
+      "source_dimensions": [
+        1024,
+        1024
+      ],
+      "background": [
+        193,
+        222,
+        220
+      ],
+      "sha256": "8a25cae9874063d2945f3c8e9bdce865ac938da1ab873c0673a11ad6c61de2c9",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-v13-d3-assets/docs/belgian-d3-clubs-2026-27/v13/1900262702008.png"
+    },
+    {
+      "id": 1900262702010,
+      "name": "KFC Merelbeke",
+      "source": "https://files.tips.gg/static/image/teams/merelbeke-football.png",
+      "status": "FAILED",
+      "error": "403 Client Error: Forbidden for url: https://files.tips.gg/static/image/teams/merelbeke-football.png"
+    },
+    {
+      "id": 1900262702011,
+      "name": "Thes Sport",
+      "source": "https://www.voetbalinbelgie.be/images/club_logo_van_voetbalvereniging_thes-sport-tessenderlo-kvv_uit_tessenderlo.png",
+      "status": "SOURCE_IMAGE_PUBLISHED_IDENTITY_CANDIDATE",
+      "source_dimensions": [
+        900,
+        900
+      ],
+      "background": [
+        245,
+        225,
+        147
+      ],
+      "sha256": "d444735c521c9c8c0ecb73f205fb253b2af2a00c29cbe47b4a6ac35a98638f24",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-v13-d3-assets/docs/belgian-d3-clubs-2026-27/v13/1900262702011.png"
+    },
+    {
+      "id": 1900262702012,
+      "name": "KFC Houtvenne",
+      "source": "https://images.seeklogo.com/logo-png/39/1/kfc-houtvenne-logo-png_seeklogo-398677.png",
+      "status": "SOURCE_IMAGE_PUBLISHED_IDENTITY_CANDIDATE",
+      "source_dimensions": [
+        600,
+        600
+      ],
+      "background": [
+        177,
+        220,
+        173
+      ],
+      "sha256": "534631267a6a90030e5065aa07ce2cdc9b8aeda7df5ef5e6925d9d94d9a30888",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-v13-d3-assets/docs/belgian-d3-clubs-2026-27/v13/1900262702012.png"
+    },
+    {
+      "id": 1900262702013,
+      "name": "Belisia Bilzen",
+      "source": "https://www.belisiasv.be/media/5j5ar0n4/belisia_logo_small.png",
+      "status": "FAILED",
+      "error": "404 Client Error: Not Found for url: https://www.belisiasv.be/media/5j5ar0n4/belisia_logo_small.png"
+    },
+    {
+      "id": 1900262702014,
+      "name": "SK Roeselare",
+      "source": "https://framerusercontent.com/images/vYIUpWcmIiTs6avxTYvKBxGfncE.png?height=1000&width=1000",
+      "status": "SOURCE_IMAGE_PUBLISHED_IDENTITY_CANDIDATE",
+      "source_dimensions": [
+        1000,
+        1000
+      ],
+      "background": [
+        217,
+        217,
+        217
+      ],
+      "sha256": "e0e1b6dd5c1be951917c3b95654113c948ca134e40da32800fe1900916ca8072",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-v13-d3-assets/docs/belgian-d3-clubs-2026-27/v13/1900262702014.png"
+    },
+    {
+      "id": 1900262702015,
+      "name": "KVV Zelzate",
+      "source": "https://sporting.be/wp-content/uploads/2020/07/kvvzelzate.jpg",
+      "status": "SOURCE_IMAGE_PUBLISHED_IDENTITY_CANDIDATE",
+      "source_dimensions": [
+        744,
+        585
+      ],
+      "background": [
+        186,
+        220,
+        192
+      ],
+      "sha256": "73e58bdf7784a0014505a8805d1782cbc75d192e4f26696245ce3777ef96a7ed",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-v13-d3-assets/docs/belgian-d3-clubs-2026-27/v13/1900262702015.png"
+    },
+    {
+      "id": 1900262702100,
+      "name": "RFC Meux",
+      "source": "https://cdn-img.zerozero.pt/img/logos/equipas/46478_imgbank_1710327891.png",
+      "status": "SOURCE_IMAGE_PUBLISHED_IDENTITY_CANDIDATE",
+      "source_dimensions": [
+        500,
+        500
+      ],
+      "background": [
+        191,
+        229,
+        198
+      ],
+      "sha256": "e1c0705c572b59645494f5868cc610aab0163d3beed389549a82caa87e577a3e",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-v13-d3-assets/docs/belgian-d3-clubs-2026-27/v13/1900262702100.png"
+    },
+    {
+      "id": 1900262702104,
+      "name": "Renaissance Union Tubize-Braine",
+      "source": "https://logowik.com/content/uploads/images/royale-union-tubize-braine1895.logowik.com.webp",
+      "status": "SOURCE_IMAGE_PUBLISHED_IDENTITY_CANDIDATE",
+      "source_dimensions": [
+        866,
+        650
+      ],
+      "background": [
+        238,
+        193,
+        184
+      ],
+      "sha256": "b888e12c79469a537307aeda54f15678b376a1c7d8688e8f02400430734eb475",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-v13-d3-assets/docs/belgian-d3-clubs-2026-27/v13/1900262702104.png"
+    },
+    {
+      "id": 1900262702107,
+      "name": "RAEC Mons",
+      "source": "https://fanshop.raecmons44.be/cdn/shop/files/Mons-logo.png?v=1768412580",
+      "status": "SOURCE_IMAGE_PUBLISHED_IDENTITY_CANDIDATE",
+      "source_dimensions": [
+        512,
+        512
+      ],
+      "background": [
+        251,
+        227,
+        159
+      ],
+      "sha256": "b12f4dc0a4c139b9b34eb8183d2f3b75e1c2509122f849c1015972924c66a880",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-v13-d3-assets/docs/belgian-d3-clubs-2026-27/v13/1900262702107.png"
+    },
+    {
+      "id": 1900262702109,
+      "name": "CS Onhaye",
+      "source": "https://www.voetbalinbelgie.be/images/club_logo_van_voetbalvereniging_onhaye-rcs_uit_onnhaye.png?v=20250504221320",
+      "status": "SOURCE_IMAGE_PUBLISHED_IDENTITY_CANDIDATE",
+      "source_dimensions": [
+        827,
+        817
+      ],
+      "background": [
+        240,
+        187,
+        187
+      ],
+      "sha256": "f57ea70ce8b0d3f2d95af77b958ddfec6abc266ce97fdb280db6549f17874fa9",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-v13-d3-assets/docs/belgian-d3-clubs-2026-27/v13/1900262702109.png"
+    },
+    {
+      "id": 1900262702110,
+      "name": "RCS Habay-la-Neuve",
+      "source": "https://fastly.mwm-storage.mwmcdn.com/raw_files/028d6d01-ad94-4a7a-80fe-d583b1346a7b",
+      "status": "SOURCE_IMAGE_PUBLISHED_IDENTITY_CANDIDATE",
+      "source_dimensions": [
+        1024,
+        1024
+      ],
+      "background": [
+        239,
+        188,
+        188
+      ],
+      "sha256": "9ec86c1ceaa11a5293322b941f18d1eafaed881539571600ba917312a5b1e279",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-v13-d3-assets/docs/belgian-d3-clubs-2026-27/v13/1900262702110.png"
+    },
+    {
+      "id": 1900262702111,
+      "name": "FC Flénu",
+      "source": "https://www.telemb.be/cdn/ff/pBISMY7DWjvRYtEWDN79iN-V68677Dq-JHF35MmSCZ4/1690094741/public/2023-07/00000148_base64.png",
+      "status": "SOURCE_IMAGE_PUBLISHED_IDENTITY_CANDIDATE",
+      "source_dimensions": [
+        1130,
+        1178
+      ],
+      "background": [
+        236,
+        189,
+        184
+      ],
+      "sha256": "7e189e81e5a027887be0e54bd9959a0bdac7afc30a6436289651353d4953e9dc",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-v13-d3-assets/docs/belgian-d3-clubs-2026-27/v13/1900262702111.png"
+    }
+  ]
+}
