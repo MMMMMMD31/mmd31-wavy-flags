@@ -59,6 +59,48 @@ NAME_ALIASES={
  "1990262000054":["AS Excelsior Saint Joseph"],
  "1990262000031":["Club Peleen","Club Péléen"],
 }
+URL_SLUGS.update({
+ "1990262000058":["ent-s-etang-sale"], "1990262000060":["ath-c-f-piton-saint-leu"],
+ "1990262000064":["cosmos-saint-benoit-omnisports"], "1990262000065":["fc-bagatelle-sainte-suzanne"],
+ "1990262000027":["rc-de-st-joseph"], "1990262000031":["c-peleen"],
+ "1990262000034":["golden-star-fort-de-france"], "1990262000037":["santana-c-ste-anne"],
+ "1990262000103":["aiglon-le-lamentin"], "1990262000114":["cs-case-pilote"],
+ "1990262000118":["us-robert"], "1990262000119":["ac-vert-pre"],
+ "1990262000110":["foyeducpop-monesie"], "1990262000206":["racine-club-bokannal"],
+ "1990262000205":["effort-le-morne-vert"]
+})
+NAME_ALIASES.update({
+ "1990262000058":["Entente Sportive de la Dominicaine"],
+ "1990262000060":["Ath CF Piton Saint-leu"],
+ "1990262000064":["Union Sporting Benedictine"],
+ "1990262000065":["FC Bagatelle Sainte-suzanne"],
+ "1990262000027":["RC de St Joseph"],
+ "1990262000031":["C Peleen"],
+ "1990262000034":["Golden Star Fort de France"],
+ "1990262000103":["Aiglon le Lamentin"],
+ "1990262000110":["Foy Educ Pop Monesie"],
+ "1990262000205":["Effort le Morne Vert"],
+ "1990262000206":["Racine Club Bokannal"]
+})
+DIRECTORY={}
+def build_index():
+ for territory,url in [
+  ("La Réunion","https://www.sportcorico.com/clubs-par-region/football/la-reunion/la-reunion"),
+  ("Martinique","https://www.sportcorico.com/clubs-par-region/football/martinique/martinique")]:
+  try:
+   resp=requests.get(url,headers=HEADERS,timeout=20)
+   resp.raise_for_status()
+   html=BeautifulSoup(resp.text,"html.parser")
+   choices=[]
+   for a in html.select('a[href*="/clubs/"]'):
+    href=a.get("href","")
+    title=a.get_text(" ",strip=True)
+    if not title or len(title)<3 or "clubs-par-region" in href: continue
+    full=urljoin(url,href)
+    if "/clubs/" in full: choices.append((title,full))
+   DIRECTORY[territory]=list(dict.fromkeys(choices))
+   print("DIRECTORY",territory,len(DIRECTORY[territory]),flush=True)
+  except Exception as exc: print("DIRECTORY_ERROR",territory,str(exc),flush=True)
 EXCLUDE_RIGHTS_IDS={"1990262000029"} # Golden Lion: reported explicit no-republication without authorisation
 def normal(s):
  s=unicodedata.normalize("NFKD",s or "")
@@ -71,12 +113,19 @@ def slugify(s): return normal(s).replace(" ","-")
 def similarity(a,b):
  x,y=normal(a),normal(b)
  return SequenceMatcher(None,x,y).ratio()
-def choose_candidate(team_id,name):
+def choose_candidate(team_id,name,territory):
  curated=URL_SLUGS.get(team_id,[])
  orig=slugify(name)
  slugs=curated + [orig,slugify(name.replace("A.S.","AS").replace("S.C.","SC"))]
  slugs=list(dict.fromkeys(s for s in slugs if s))
- return [f"https://www.sportcorico.com/clubs/{s}" for s in slugs[:4]]
+ candidate_urls=[f"https://www.sportcorico.com/clubs/{s}" for s in slugs[:4]]
+ targets=[name]+NAME_ALIASES.get(team_id,[])
+ indexed=[]
+ for title,url in DIRECTORY.get(territory,[]):
+  score=max(similarity(title,t) for t in targets)
+  if score>=0.79: indexed.append((score,url))
+ indexed.sort(reverse=True)
+ return list(dict.fromkeys([url for _,url in indexed[:3]]+candidate_urls))[:7]
 def get_html(url):
  r=requests.get(url,timeout=14,headers=HEADERS)
  r.raise_for_status()
@@ -103,11 +152,12 @@ def process(row):
  territory=row["territory"]
  target=DEST/(tid+".png")
  if target.exists() and target.stat().st_size>300:
-  return dict(team_id=tid,team=name,territory=territory,status="already_published",page="",image="",confidence="previously_checked",reason="")
+  previous=PRIOR.get(tid,{})
+  return dict(team_id=tid,team=name,territory=territory,status="already_published",page=previous.get("page",""),image=previous.get("image",""),confidence=previous.get("confidence","previously_checked"),reason="previously published")
  if tid in EXCLUDE_RIGHTS_IDS:
   return dict(team_id=tid,team=name,territory=territory,status="permission_needed",page="",image="",confidence="",reason="explicit rights reservation; no upload")
  errors=[]
- for page in choose_candidate(tid,name):
+ for page in choose_candidate(tid,name,territory):
   try:
    soup,url=get_html(page)
    h1=soup.find("h1")
@@ -141,9 +191,14 @@ def process(row):
   except Exception as exc:
    errors.append(page+": "+str(exc)[:100])
  return dict(team_id=tid,team=name,territory=territory,status="needs_manual_source",page="",image="",confidence="",reason="; ".join(errors)[:900])
+PRIOR={}
+if REPORT.exists():
+ with REPORT.open(encoding="utf-8",newline="") as f:
+  PRIOR={r["team_id"]:r for r in csv.DictReader(f)}
 with ROSTER.open(encoding="utf-8",newline="") as f:
  allrows=list(csv.DictReader(f))
 rows=[r for r in allrows if r.get("territory") in ("La Réunion","Martinique")]
+build_index()
 print("SCANNING",len(rows),"clubs",flush=True)
 results=[]
 with ThreadPoolExecutor(max_workers=6) as ex:
