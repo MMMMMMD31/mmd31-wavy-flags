@@ -1,0 +1,5 @@
+team_id,club,affiliation,status,source,check_page
+1990262000053,La Tamponnaise,581093,restored_original_verified_logo,prior independent club source,https://www.sportcorico.com/clubs/la-tamponnaise
+1990262000260,E.S. Tamponnaise,582172,pending_unique_logo:404 Client Error: Not Found for url: https://www.sportcorico.com/clubs/e-s-tamponnaise,,https://www.sportcorico.com/clubs/e-s-tamponnaise
+1990262000151,CS St Gilles,529455,restored_original_verified_logo,prior independent club source,https://www.sportcorico.com/clubs/cs-st-gilles
+1990262000245,EF St Gilles,distinct_from_CS,new_unique_club_logo,https://s3.pub2.infomaniak.cloud/object/v1/AUTH_7caca171fcb14ede88bd14eb36f90e50/sportcorico-media/logos/logo-ef-st-gilles-540308.jpg,https://www.sportcorico.com/clubs/ecole-de-foot-st-gilles
