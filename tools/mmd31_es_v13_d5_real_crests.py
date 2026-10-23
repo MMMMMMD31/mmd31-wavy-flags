@@ -15,6 +15,14 @@ session.headers["User-Agent"]="MMD31 Spanish football logos 2026/27 (noncommerci
 SKIP={"9|Málaga Juniors","12|Laguna","14|Montijo","17|Internacional Huesca","1|Montañeros"}
 ALIASES={
 "1|Racing Villalbés":"Villalbés",
+"4|Alavés C":"Deportivo Alavés C",
+"6|Atlético Levante":"Levante B",
+"6|Atlético Saguntino":"Saguntino",
+"8|Atlético Bembibre":"Bembibre",
+"9|Atlético Malagueño":"At. Malagueño",
+"9|Atlético Marbella":"AD Atletico de Marbella",
+"9|Atlético Mancha Real":"Mancha Real",
+"16|Haro":"Haro Deportivo",
 "2|Sporting Atlético":"Sporting Gijón B",
 "3|Naval":"Naval Reinosa","3|Solares-Medio Cudeyo":"Solares",
 "4|Aurrerá Vitoria":"Vitoria","4|Cultural Durango":"Durango",
@@ -49,7 +57,7 @@ def fetch_group(g):
    if not anchor:continue
    name=anchor.get_text(" ",strip=True)
    img=anchor.find("img")
-   src=img.get("src") if img else None
+   src=requests.compat.urljoin(url,img.get("src")) if img and img.get("src") else None
    if name:out.append({"name":name,"url":src,"team_page":requests.compat.urljoin(url,anchor.get("href",""))})
   if 15<=len(out)<=20:return out,url
  raise RuntimeError("cannot parse real club logos for group "+str(g))
