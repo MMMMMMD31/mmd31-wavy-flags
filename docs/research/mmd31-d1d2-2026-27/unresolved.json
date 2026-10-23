@@ -1,0 +1,150 @@
+[
+  {
+    "affiliation": "503978",
+    "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC503978.jpg",
+    "source_sha256": "fedb810c25c4b4d42ca3deda231f60430a7d895f7b471f58e7e41a4d35a1fb35",
+    "source_dimensions": [
+      100,
+      100
+    ],
+    "teams": [
+      {
+        "source_team_key": "1987-SEM-1",
+        "name": "Montreux Ufpa",
+        "division": "D2",
+        "region": "Ligue du Grand Est de Football",
+        "district": "Alsace",
+        "group": "Poule G",
+        "club_url": "https://thefootdata.com/clubs/montreux-s?equipe=1987-SEM-1&saison=2026"
+      }
+    ],
+    "status": "unresolved",
+    "error": "same source-image hash used for distinct affiliations; possible placeholder"
+  },
+  {
+    "affiliation": "504047",
+    "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC504047.jpg",
+    "source_sha256": "fedb810c25c4b4d42ca3deda231f60430a7d895f7b471f58e7e41a4d35a1fb35",
+    "source_dimensions": [
+      100,
+      100
+    ],
+    "teams": [
+      {
+        "source_team_key": "2045-SEM-1",
+        "name": "Dannemarie Ufpa",
+        "division": "D1",
+        "region": "Ligue du Grand Est de Football",
+        "district": "Alsace",
+        "group": "Poule F",
+        "club_url": "https://thefootdata.com/clubs/rc-dannemarie?equipe=2045-SEM-1&saison=2026"
+      }
+    ],
+    "status": "unresolved",
+    "error": "same source-image hash used for distinct affiliations; possible placeholder"
+  },
+  {
+    "affiliation": "527717",
+    "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC527717.jpg",
+    "source_sha256": "ae2f00712f9b4584e57ff73ea7e17a94c80d66b2864847f6c301b997e4d9d761",
+    "source_dimensions": [
+      105,
+      108
+    ],
+    "teams": [
+      {
+        "source_team_key": "11697-SEM-1",
+        "name": "Tremeoc Raq",
+        "division": "D2",
+        "region": "Ligue Bretagne de Football",
+        "district": "Finistere",
+        "group": "Poule H",
+        "club_url": "https://thefootdata.com/clubs/la-raquette-tremeoc?equipe=11697-SEM-1&saison=2026"
+      }
+    ],
+    "status": "unresolved",
+    "error": "same source-image hash used for distinct affiliations; possible placeholder"
+  },
+  {
+    "affiliation": "527872",
+    "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC527872.jpg",
+    "source_sha256": "ae2f00712f9b4584e57ff73ea7e17a94c80d66b2864847f6c301b997e4d9d761",
+    "source_dimensions": [
+      105,
+      108
+    ],
+    "teams": [
+      {
+        "source_team_key": "11805-SEM-1",
+        "name": "Passenans",
+        "division": "D2",
+        "region": "Ligue Bourgogne-Franche-Comte de Football",
+        "district": "Jura",
+        "group": "Poule A",
+        "club_url": "https://thefootdata.com/clubs/cs-de-passenans?equipe=11805-SEM-1&saison=2026"
+      }
+    ],
+    "status": "unresolved",
+    "error": "same source-image hash used for distinct affiliations; possible placeholder"
+  },
+  {
+    "affiliation": "552376",
+    "status": "unresolved",
+    "error": "implausible file size 190",
+    "teams": [
+      {
+        "source_team_key": "161801-SEM-1",
+        "name": "O. Chapelain",
+        "division": "D2",
+        "region": "Ligue du Grand Est de Football",
+        "district": "Aube",
+        "group": "Poule A",
+        "club_url": "https://thefootdata.com/clubs/olympique-chapelain?equipe=161801-SEM-1&saison=2026"
+      }
+    ]
+  },
+  {
+    "affiliation": "561096",
+    "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC561096.jpg",
+    "source_sha256": "ae2f00712f9b4584e57ff73ea7e17a94c80d66b2864847f6c301b997e4d9d761",
+    "source_dimensions": [
+      105,
+      108
+    ],
+    "teams": [
+      {
+        "source_team_key": "200889-SEM-1",
+        "name": "Igornay",
+        "division": "D2",
+        "region": "Ligue Bourgogne-Franche-Comte de Football",
+        "district": "Saone et Loire",
+        "group": "Poule C",
+        "club_url": "https://thefootdata.com/clubs/amicale-sportive-igornay?equipe=200889-SEM-1&saison=2026"
+      }
+    ],
+    "status": "unresolved",
+    "error": "same source-image hash used for distinct affiliations; possible placeholder"
+  },
+  {
+    "affiliation": "580689",
+    "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC580689.jpg",
+    "source_sha256": "ae2f00712f9b4584e57ff73ea7e17a94c80d66b2864847f6c301b997e4d9d761",
+    "source_dimensions": [
+      105,
+      108
+    ],
+    "teams": [
+      {
+        "source_team_key": "177300-SEM-1",
+        "name": "Fc Chester",
+        "division": "D2",
+        "region": "Ligue du Grand Est de Football",
+        "district": "Aube",
+        "group": "Poule B",
+        "club_url": "https://thefootdata.com/clubs/football-club-chesterfield?equipe=177300-SEM-1&saison=2026"
+      }
+    ],
+    "status": "unresolved",
+    "error": "same source-image hash used for distinct affiliations; possible placeholder"
+  }
+]
