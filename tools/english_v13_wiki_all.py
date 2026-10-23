@@ -29,7 +29,7 @@ def fetch(url):
    time.sleep((k+1)*1.1)
 def key(x):
  x=x.lower().replace("’","'").replace("&","and").replace("community","")
- x=re.sub(r"f\\.?c\\.?|a\\.?f\\.?c\\.?|football club","",x)
+ x=re.sub(r"(?i)association football club|football club|a\.?f\.?c\.?|f\.?c\.?","",x)
  return re.sub(r"[^a-z0-9]","",x)
 def candidates(name):
  t=[name+" F.C.",name+" A.F.C."]
@@ -54,7 +54,7 @@ def retrieve(row):
     if src.startswith("//"):src="https:"+src
     src=src.split("?")[0]
     if not src.startswith("https://") or "wikimedia.org" not in urlsplit(src).netloc:continue
-    if not re.search(r"\\.(png|jpg|jpeg|webp)$",src,re.I):continue
+    if not re.search(r"\.(png|jpg|jpeg|webp)$",src,re.I):continue
     imgfile=src.split("/")[-1].lower()
     if any(word in imgfile for word in ("kit","shirt","stadium","ground","away","home-colour")):continue
     tokens=[k.lower() for k in re.findall("[a-zA-Z]{4,}",name) if k.lower() not in ("town","city","united","football","sporting","community")]
