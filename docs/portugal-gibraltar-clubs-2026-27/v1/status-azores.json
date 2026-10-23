@@ -1,7 +1,7 @@
 {
   "expected": 17,
-  "created": 13,
-  "missing_count": 4,
+  "created": 14,
+  "missing_count": 3,
   "assets": [
     {
       "id": 1905100000401,
@@ -60,6 +60,20 @@
       "original_sha256": "1bb4f2b2f68c2f1191f05385055c1166122978efe12e3c2379763a9f58d539c5"
     },
     {
+      "id": 1905100000407,
+      "name": "Rabo de Peixe",
+      "source": "https://www.leballonrond.fr/img/logos/equipas/3706_imgbank_1683304989.png",
+      "path": "docs/portugal-gibraltar-clubs-2026-27/v1/1905100000407.png",
+      "background": [
+        121,
+        136,
+        196
+      ],
+      "background_basis": "source logo pixels",
+      "sha256": "2422b06499b90d7f0665ee2cbdc73866d0e874d3b24ce63dc6543698c82cfd96",
+      "original_sha256": "b601332deee98d2d88e7c441727ecac84d4f09df7f0b813a140518894b10db6b"
+    },
+    {
       "id": 1905100000408,
       "name": "Santiago",
       "source": "https://www.zerozero.pt/img/logos/equipas/3707_imgbank_1705071859.png",
@@ -99,7 +113,7 @@
       ],
       "background_basis": "source logo pixels",
       "sha256": "117b2fe0a9635db38a2b77fb954c1f316f78dce3062e29bc93d4506e4d831fb0",
-      "original_sha256": "d734e99654135c14c98977f339060b9d6fa26c7c7808a39f0e7d12905bd1b393"
+      "original_sha256": "f7fc1ea76822a3105fcd520a20a4134ccd3e2d8aa50a3f3fb55e486c7377422c"
     },
     {
       "id": 1905100000411,
@@ -190,26 +204,20 @@
     {
       "id": 1905100000404,
       "name": "Vitória Pico da Pedra",
-      "source": "https://vemjogar.fpf.pt/filemanager/media/file?guid=eea1fd6d-c5a3-4e5b-9584-4c38717026d0",
-      "error": "403 Client Error: Forbidden for url: https://vemjogar.fpf.pt/filemanager/media/file?guid=eea1fd6d-c5a3-4e5b-9584-4c38717026d0"
+      "source": "https://www.leballonrond.fr/img/logos/equipas/4719_imgbank.png",
+      "error": "403 Client Error: Forbidden for url: https://www.leballonrond.fr/cookie_check.php"
     },
     {
       "id": 1905100000405,
       "name": "CD Santo António",
-      "source": "https://www.zerozero.pt/img/logos/equipas/3650_imgbank_1712928682.png",
-      "error": "403 Client Error: Forbidden for url: https://www.zerozero.pt/cookie_check.php"
-    },
-    {
-      "id": 1905100000407,
-      "name": "Rabo de Peixe",
-      "source": "https://imagehandler.fpf.pt/ScoreImageHandler.ashx?id=2524&type=Organization",
-      "error": "403 Client Error: Forbidden for url: https://imagehandler.fpf.pt/ScoreImageHandler.ashx?id=2524&type=Organization"
+      "source": "https://www.leballonrond.fr/img/logos/equipas/3650_imgbank_1712928682.png",
+      "error": "403 Client Error: Forbidden for url: https://www.leballonrond.fr/cookie_check.php"
     },
     {
       "id": 1905100000412,
       "name": "Bota Fogo",
-      "source": "https://www.zerozero.pt/img/logos/equipas/4714_imgbank.png",
-      "error": "403 Client Error: Forbidden for url: https://www.zerozero.pt/cookie_check.php"
+      "source": "https://www.leballonrond.fr/img/logos/equipas/4714_imgbank.png",
+      "error": "403 Client Error: Forbidden for url: https://www.leballonrond.fr/cookie_check.php"
     }
   ],
   "note": "True logos only; source identification pending per-club review"
