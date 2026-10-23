@@ -37,7 +37,7 @@ def get(url):
    time.sleep(x+1)
 def key(name):
  name=name.lower().replace("&","and").replace("’","'")
- name=re.sub(r"association football club|football club|a\\.?f\\.?c\\.?|f\\.?c\\.?","",name)
+ name=re.sub(r"association football club|football club|a\.?f\.?c\.?|f\.?c\.?","",name)
  return re.sub("[^a-z0-9]","",name)
 def run(item):
  name=item["name"];id=item["id"]
@@ -59,7 +59,7 @@ def run(item):
     if not src.startswith("https://") or "wikimedia.org" not in urlsplit(src).netloc:continue
     file=src.split("/")[-1].lower()
     if any(k in file for k in ("kit","shirt","stadium","ground","flag","aerial","homecolors","awaycolors")):continue
-    if not re.search(r"\\.(png|jpe?g|webp|svg)$",file,re.I):continue
+    if not re.search(r"\.(png|jpe?g|webp|svg)$",file,re.I):continue
     if ix>0 and not any(k in file for k in ("logo","crest","badge","emblem")):continue
     im=get(src)
     if im.status_code!=200:continue
