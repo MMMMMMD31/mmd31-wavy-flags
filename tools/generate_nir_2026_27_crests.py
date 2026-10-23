@@ -46,6 +46,44 @@ def load(blob,url):
     if not im.getchannel("A").getbbox():raise ValueError("Empty image")
     return im
 
+# Authoritative COMET standings and club catalogue from the Northern Amateur Football League.
+def nafl_index():
+    index={}
+    for resource in ("tables.json","clubs-dev.json"):
+        url="https://www.thenafl.co.uk/data/"+resource
+        try:
+            data=json.loads(download(url,timeout=25))
+            if resource=="tables.json":
+                for div,section in data.items():
+                    for entry in section.get("table",[]):
+                        badge=entry.get("badge")
+                        name=entry.get("team","")
+                        if name and badge and norm(name) not in index:
+                            index[norm(name)]=(name,"https://www.thenafl.co.uk/images/badges/"+badge,"official_nafl_comet_standings")
+            else:
+                for entry in data:
+                    badge=entry.get("badge")
+                    name=entry.get("name","")
+                    if name and badge and norm(name) not in index:
+                        index[norm(name)]=(name,"https://www.thenafl.co.uk/images/badges/"+badge,"official_nafl_club_catalogue")
+        except Exception as e:print("NAFL INDEX FAILURE",resource,str(e)[:170],flush=True)
+    return index
+NAFL=nafl_index()
+NAFL_ALIASES={
+    "Dunmurry Young Men":"Dunmurry YM",
+    "Derriaghy Cricket Club":"Derriaghy CC",
+    "Larne Technical Old Boys":"Larne Tech OB",
+    "1st Bangor Old Boys":"1st Bangor",
+    "Kilmore Recreation":"Kilmore Rec",
+    "Dunmurry Recreation":"Dunmurry Rec",
+    "18th Newtownabbey Old Boys":"18th Newtownabbey OB",
+    "Ballywalter Rec":"Ballywalter Rec",
+    "Comber Recreation":"Comber Rec",
+    "Rosario Youth":"Rosario YC",
+}
+MUFL_SOURCE_OVERRIDE={
+    "St Mary’s YC":"stmarys",
+}
 def source(c):
     if c.get("direct_url"):
         url=c["direct_url"]
@@ -53,6 +91,24 @@ def source(c):
     if c.get("svg"):
         url="https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/northern-ireland/"+quote(c["svg"])
         return load(download(url),url),url,"public_svg"
+    # Original crest in public-domain Wikimedia library for this particular club.
+    if c["name"]=="Dromara Village":
+        url="https://commons.wikimedia.org/wiki/Special:Redirect/file/Dromara_Village_FC.png"
+        try:return load(download(url),url),url,"commons_identified_authentic_badge"
+        except Exception:pass
+    # Official Mid Ulster league publishes one club badge file per club.
+    if c["division"] in ("D4_MUFL","D5_MUFL"):
+        stem=MUFL_SOURCE_OVERRIDE.get(c["name"],norm(c["name"]))
+        url="https://midulsterfootballleague.co.uk/wp-content/uploads/2026/06/"+stem+".jpg"
+        try:return load(download(url,timeout=20),url),url,"official_mid_ulster_club_profile"
+        except Exception as e:print("MIDULSTER ERROR",c["name"],str(e)[:80],flush=True)
+    # Cross-check club identity against official Northern Amateur League 2026/27.
+    nafl_name=NAFL_ALIASES.get(c["name"],c["name"])
+    entry=NAFL.get(norm(nafl_name))
+    if c["division"] in ("D4_NAFL","D5_NAFL","D6_NAFL_1B","D7_NAFL_1C") and entry:
+        original_name,url,kind=entry
+        if norm(original_name)!=norm(nafl_name):raise ValueError("NAFL ambiguous team")
+        return load(download(url,timeout=25),url),url,kind
     if c["division"] in ("D4_MUFL","D5_MUFL"):
         url="https://www.midulsterfootballleague.co.uk/img/badges/"+norm(c["name"])+".jpg"
         try:
@@ -96,6 +152,11 @@ def render(original):
     return canvas.convert("RGB"),bg
 
 def process(c):
+    dest=ROOT/(str(c["id"])+".png")
+    if dest.exists() and c["id"] in PRIOR and PRIOR[c["id"]].get("status")=="created":
+        entry=dict(PRIOR[c["id"]])
+        entry["preserved_existing"]=True
+        return entry
     entry={"id":c["id"],"name":c["name"],"division":c["division"],"status":"missing"}
     try:
         src,url,kind=source(c)
@@ -108,6 +169,12 @@ def process(c):
     print(entry["status"],entry["id"],entry["name"],entry.get("error",""),flush=True)
     return entry
 
+old_status_file=ROOT/"status.json"
+PRIOR={}
+if old_status_file.exists():
+    old=json.loads(old_status_file.read_text())
+    PRIOR={x["id"]:x for x in old.get("crests",[]) if x.get("status")=="created"}
+print("existing verified 120x96 crests",len(PRIOR),flush=True)
 with concurrent.futures.ThreadPoolExecutor(max_workers=10) as pool:
     rows=list(pool.map(process,CAT))
 rows.sort(key=lambda r:r["id"])
