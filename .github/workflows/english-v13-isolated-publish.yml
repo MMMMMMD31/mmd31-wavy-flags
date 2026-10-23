@@ -1,0 +1,37 @@
+name: MMD31 EN D8-D9 crests isolated publication
+on:
+  push:
+    paths:
+      - '.github/workflows/english-v13-isolated-publish.yml'
+permissions:
+  contents: write
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.11' }
+      - run: python -m pip install requests beautifulsoup4 pillow
+      - run: python tools/english_v13_wiki_all.py
+      - name: Validate generated PNGs and commit only new crests
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          from PIL import Image
+          d=Path('docs/english-clubs-2026-27/wiki-v13')
+          report=json.loads((d/'manifest.json').read_text())
+          images=list(d.glob('*.png'))
+          assert len(images)==report['published'],(len(images),report['published'])
+          assert len({x.name for x in images})==len(images)
+          for f in images:
+            im=Image.open(f)
+            assert im.size==(120,96) and im.format=='PNG'
+          print('PASSED:',len(images),'authentically sourced crest PNGs')
+          PY
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add docs/english-clubs-2026-27/wiki-v13/
+          git diff --cached --quiet || (git commit -m 'Publish authentic D8-D9 English club crest PNGs' && git push origin HEAD)
