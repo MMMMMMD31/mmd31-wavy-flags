@@ -1,0 +1,678 @@
+{
+  "total": 326,
+  "published": 238,
+  "invalid": 0,
+  "missing": 88,
+  "by_territory": {
+    "Guadeloupe": 40,
+    "Guyane": 37,
+    "Martinique": 52,
+    "La Réunion": 104,
+    "Polynésie française": 2,
+    "Nouvelle-Calédonie": 3
+  },
+  "duplicate_sha256": {
+    "2ec233c4522dbd878ee246540caa5e41342f8748fb59b68af38004d4d1216ce9": [
+      "1990262000021",
+      "1990262000179",
+      "1990262000182",
+      "1990262000186"
+    ],
+    "451b393eaca7ea6fb08be6980cb2b18437de49aaf71d59709bdba405b90f888e": [
+      "1990262000053",
+      "1990262000260"
+    ],
+    "4ce47bf1bf72a416cfa05ff816b76b7ab91848a597f63c1c83b23045b561d51c": [
+      "1990262000064",
+      "1990262000117",
+      "1990262000143",
+      "1990262000154",
+      "1990262000155",
+      "1990262000164",
+      "1990262000169",
+      "1990262000197",
+      "1990262000200",
+      "1990262000236",
+      "1990262000239",
+      "1990262000241",
+      "1990262000252",
+      "1990262000253",
+      "1990262000259",
+      "1990262000264",
+      "1990262000265",
+      "1990262000274",
+      "1990262000279",
+      "1990262000282"
+    ],
+    "be069d818c53c1159f801784baefec97f47d73efa698253921c2250c76c5c022": [
+      "1990262000111",
+      "1990262000153",
+      "1990262000163",
+      "1990262000203",
+      "1990262000263",
+      "1990262000276"
+    ],
+    "561d153cd4118500026b57894561198a78b87393e86068a7e64ccc37b9235b01": [
+      "1990262000151",
+      "1990262000245"
+    ]
+  },
+  "unresolved": [
+    {
+      "team_id": "1990262000029",
+      "club": "Golden Lion Fc",
+      "territory": "Martinique",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000041",
+      "club": "Acsj Mliha",
+      "territory": "Mayotte",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000042",
+      "club": "Bandrele Fc",
+      "territory": "Mayotte",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000043",
+      "club": "L'Esperance D'Iloni",
+      "territory": "Mayotte",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000044",
+      "club": "As Rosador",
+      "territory": "Mayotte",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000045",
+      "club": "Ajm Jumeaux M'Zoisia",
+      "territory": "Mayotte",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000046",
+      "club": "Fc Mtsapèrè",
+      "territory": "Mayotte",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000047",
+      "club": "U.C.S. De Sada",
+      "territory": "Mayotte",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000048",
+      "club": "Diables Noirs",
+      "territory": "Mayotte",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000049",
+      "club": "As Sada",
+      "territory": "Mayotte",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000050",
+      "club": "Fc De Sohoa",
+      "territory": "Mayotte",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000051",
+      "club": "Etincelles Hamjago",
+      "territory": "Mayotte",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000052",
+      "club": "Abeilles",
+      "territory": "Mayotte",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000121",
+      "club": "Ent.Etoile Riveraine",
+      "territory": "Martinique",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000123",
+      "club": "F.C. De Chiconi",
+      "territory": "Mayotte",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000124",
+      "club": "Us Kavani",
+      "territory": "Mayotte",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000125",
+      "club": "Pamandzi S.C.",
+      "territory": "Mayotte",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000126",
+      "club": "Feu Du Centre",
+      "territory": "Mayotte",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000127",
+      "club": "A.S.J. De Handrema",
+      "territory": "Mayotte",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000128",
+      "club": "A.J. Mtsahara",
+      "territory": "Mayotte",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000129",
+      "club": "Fmj De Vahibe",
+      "territory": "Mayotte",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000130",
+      "club": "F.C. De Kani Be",
+      "territory": "Mayotte",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000131",
+      "club": "Enfants De Mayotte",
+      "territory": "Mayotte",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000132",
+      "club": "Fco Tsingoni",
+      "territory": "Mayotte",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000133",
+      "club": "Aj Kani Keli",
+      "territory": "Mayotte",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000134",
+      "club": "Asc Kaweni",
+      "territory": "Mayotte",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000208",
+      "club": "Fc Majicavo",
+      "territory": "Mayotte",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000209",
+      "club": "F.C.Y Koungou",
+      "territory": "Mayotte",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000210",
+      "club": "Ndrema Club",
+      "territory": "Mayotte",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000211",
+      "club": "Olympique .Mirereni",
+      "territory": "Mayotte",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000212",
+      "club": "Trevani Sc",
+      "territory": "Mayotte",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000213",
+      "club": "Uscj Koungou",
+      "territory": "Mayotte",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000214",
+      "club": "Us Mtsangamboua",
+      "territory": "Mayotte",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000215",
+      "club": "Usc Labattoir",
+      "territory": "Mayotte",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000216",
+      "club": "Enfants Du Port",
+      "territory": "Mayotte",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000217",
+      "club": "Foudre 2000",
+      "territory": "Mayotte",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000218",
+      "club": "Racine Du Nord",
+      "territory": "Mayotte",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000219",
+      "club": "Miracle Du Sud",
+      "territory": "Mayotte",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000220",
+      "club": "Asj Moinatrindri",
+      "territory": "Mayotte",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000221",
+      "club": "As P.D'Honneur",
+      "territory": "Mayotte",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000222",
+      "club": "U.S.C.E.P Anteou",
+      "territory": "Mayotte",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000223",
+      "club": "Choungui F.C.",
+      "territory": "Mayotte",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000224",
+      "club": "A.S. Neige De Malama",
+      "territory": "Mayotte",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000225",
+      "club": "Usj Tsararano",
+      "territory": "Mayotte",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000226",
+      "club": "Ascee Nyambadao",
+      "territory": "Mayotte",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000227",
+      "club": "Vco Vahibé",
+      "territory": "Mayotte",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000228",
+      "club": "R.C. De Barakani",
+      "territory": "Mayotte",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000229",
+      "club": "As Tour Eiffel",
+      "territory": "Mayotte",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000230",
+      "club": "F.C. De Dembeni",
+      "territory": "Mayotte",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000283",
+      "club": "A.S. Saint-Pierraise",
+      "territory": "Saint-Pierre-et-Miquelon",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000284",
+      "club": "A.S. Ilienne Amateurs",
+      "territory": "Saint-Pierre-et-Miquelon",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000285",
+      "club": "A.S. Miquelonnaise",
+      "territory": "Saint-Pierre-et-Miquelon",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000286",
+      "club": "FC Concordia",
+      "territory": "Saint-Martin",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000287",
+      "club": "Phoenicks FC",
+      "territory": "Saint-Martin",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000288",
+      "club": "Junior Stars FC",
+      "territory": "Saint-Martin",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000289",
+      "club": "Attackers FC",
+      "territory": "Saint-Martin",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000290",
+      "club": "Saint-Louis Stars",
+      "territory": "Saint-Martin",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000291",
+      "club": "Flamingo FC",
+      "territory": "Saint-Martin",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000292",
+      "club": "Arue",
+      "territory": "Polynésie française",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000294",
+      "club": "Vénus",
+      "territory": "Polynésie française",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000295",
+      "club": "Olympic Mahina",
+      "territory": "Polynésie française",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000296",
+      "club": "Mataiea",
+      "territory": "Polynésie française",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000297",
+      "club": "Manu Ura",
+      "territory": "Polynésie française",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000298",
+      "club": "Papara FC",
+      "territory": "Polynésie française",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000299",
+      "club": "Excelsior",
+      "territory": "Polynésie française",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000300",
+      "club": "Dragon",
+      "territory": "Polynésie française",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000301",
+      "club": "Papeno’o",
+      "territory": "Polynésie française",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000303",
+      "club": "Jeunes Tahitiens",
+      "territory": "Polynésie française",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000304",
+      "club": "Central Sport",
+      "territory": "Polynésie française",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000305",
+      "club": "Pueu",
+      "territory": "Polynésie française",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000306",
+      "club": "Tamarii Punaruu",
+      "territory": "Polynésie française",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000307",
+      "club": "Taiarapu FC",
+      "territory": "Polynésie française",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000308",
+      "club": "Vaiete",
+      "territory": "Polynésie française",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000309",
+      "club": "Tiare Tahiti",
+      "territory": "Polynésie française",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000310",
+      "club": "Mira",
+      "territory": "Polynésie française",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000311",
+      "club": "Tapuhute",
+      "territory": "Polynésie française",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000312",
+      "club": "Tiare Anani",
+      "territory": "Polynésie française",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000313",
+      "club": "Tiare Hinano",
+      "territory": "Polynésie française",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000314",
+      "club": "Tearaa",
+      "territory": "Polynésie française",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000315",
+      "club": "Temanava",
+      "territory": "Polynésie française",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000316",
+      "club": "Tohie’a FC",
+      "territory": "Polynésie française",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000318",
+      "club": "ASC Gaïca",
+      "territory": "Nouvelle-Calédonie",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000320",
+      "club": "AS Lössi",
+      "territory": "Nouvelle-Calédonie",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000322",
+      "club": "AS Kunié",
+      "territory": "Nouvelle-Calédonie",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000323",
+      "club": "SC Ne Drehu",
+      "territory": "Nouvelle-Calédonie",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000324",
+      "club": "CA Saint-Louis",
+      "territory": "Nouvelle-Calédonie",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000325",
+      "club": "Horizon Patho",
+      "territory": "Nouvelle-Calédonie",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000326",
+      "club": "AS Mont-Dore",
+      "territory": "Nouvelle-Calédonie",
+      "status": "missing",
+      "reason": ""
+    }
+  ]
+}
