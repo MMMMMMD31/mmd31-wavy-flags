@@ -1,0 +1,32 @@
+name: MMD31 - Guadeloupe and Guyane crests
+on:
+  push:
+    branches:
+      - mmd31-outremer-ecussons-20261023
+    paths:
+      - 'scripts/outremer/collect_guadeloupe_guyane.py'
+      - '.github/workflows/mmd31-guadeloupe-guyane-crests.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: python -m pip install requests beautifulsoup4 pillow
+      - run: python scripts/outremer/collect_guadeloupe_guyane.py
+      - name: Save reviewed club badges and provenance
+        run: |
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git add flags/clubs/standard/outremer-2026-27/ audit/outremer-2026-27/guadeloupe_guyane_crest_audit.csv
+          if ! git diff --cached --quiet; then
+            git commit -m "Publish verified Guadeloupe and Guyane club logos"
+            git pull --rebase
+            git push
+          fi
