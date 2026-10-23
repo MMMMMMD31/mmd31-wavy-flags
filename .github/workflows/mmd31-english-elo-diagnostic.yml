@@ -1,0 +1,22 @@
+name: MMD31 English Elo research diagnostics
+on:
+  push:
+    paths: [ 'tools/mmd31_english_elo_diagnostic.py', '.github/workflows/mmd31-english-elo-diagnostic.yml' ]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  research:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.11' }
+      - run: pip install beautifulsoup4 requests
+      - run: python tools/mmd31_english_elo_diagnostic.py
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/english-ratings-research/diagnostic.json
+          git diff --cached --quiet || (git commit -m "Log football source table diagnostic" && git push)
