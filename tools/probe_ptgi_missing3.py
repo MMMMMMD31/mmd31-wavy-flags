@@ -8,7 +8,9 @@ SITES=[
  ("CD Santo António blog","https://emblemasdeportugal.blogspot.com/2011/01/clube-desportivo-santo-antonio.html",["santo","emblemasdeportugal"]),
  ("Vitória Pico Pedra FPF","https://vemjogar.fpf.pt/clube/awBQ/vitoria-clube-pico-pedra",["eea1fd","media/file","pico da pedra"]),
  ("Bota Fogo zerozero DK","https://www.zerozero.dk/equipa/bota-fogo/4714",["bota fogo","logo","imgbank"]),
- ("CD Santo António kit","https://www.footballkitarchive.com/fr/maillot-domicile-cd-santo-antonio-2026-27-514665/",["santo antonio","logo","badge"])
+ ("CD Santo António kit","https://www.footballkitarchive.com/fr/maillot-domicile-cd-santo-antonio-2026-27-514665/",["santo antonio","logo","badge"]),
+ ("Vitória footeo","https://vitoriacpp.footeo.com/",["logo du club","pico da pedra","logo","img"]),
+ ("Vitória profile","https://www.schoolandcollegelistings.com/PT/Ribeira-Grande/313384148850486/Vitoria-Clube-Pico-Da-Pedra",["vitoria clube","logo","pico da pedra"])
 ]
 out=[]
 for title,url,terms in SITES:
