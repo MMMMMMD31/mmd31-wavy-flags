@@ -1,0 +1,242 @@
+{
+  "fa_vase_badges": {
+    "status": 200,
+    "length": 600346,
+    "title": "FA Vase – Team Badges 2026/27 – NonLeagueHQ",
+    "img_count": 3,
+    "sample_imgs": [
+      {
+        "alt": "NonLeagueHQ",
+        "src": "https://www.nonleaguehq.com/wp-content/uploads/2024/02/TWPQKsNA_400x400-1.jpg",
+        "data-src": null
+      },
+      {
+        "alt": "NonLeagueHQ",
+        "src": "https://www.nonleaguehq.com/wp-content/uploads/2024/02/TWPQKsNA_400x400-1.jpg",
+        "data-src": null
+      },
+      {
+        "alt": "",
+        "src": "https://www.nonleaguehq.com/wp-content/uploads/2026/07/FA-Vase-Badges-2026-27-page-001-1-1024x724.jpg",
+        "data-src": null
+      }
+    ],
+    "text_tail": "ish Women’s Premier League 2 Scottish Women’s Championship Scottish Women’s League One Scottish Women’s Central-West Scottish Women’s East Scottish Women’s North Scottish Women’s South Wales Women Wales Women’s Genero Adran Premier League Wales Women’s Genero Adran North Wales Women’s Genero Adran South Top Goalscorers Wales Women – Genero Adran Premier Wales Women – Genero Adran North Wales Women – Genero Adran South Fixture Finders Fixture Finder – England (Steps 1-4) Fixture Finder – England (Step 5) Fixture Finder – England (Step 6) Fixture Finder – Scotland Fixture Finder – Wales Fixture Finder – Northern Ireland Fixture Finder – Women’s Football Information Step Constitution  Maps 2026/27 League Leaders Promotion & Relegation page Phil Annets’ FA Comp Preview/Reviews Phil Annets’ FA Cup Preview – Extra Prelim Phil Annets’ FA Cup Review – Extra Prelim Phil Annets’ FA Trophy Preview – Prelim Phil Annets’ FA Vase Preview – 1st Qual Driving Mileage Tables Straight Line Mileage Tables Streaks Games per Day Results Distribution League Competitiveness The Entertainers Club Records since COVID League Start Dates About us… ELO Ratings England ELO ELO info page FA Vase – Team Badges — 2026/27 © Copyright @FAVaseFactfile on X. Not to be reproduced without permission. Please follow the above X account for superb insights and stats to all the FA Vase ties. X Facebook Instagram Bluesky",
+    "scripts": [
+      {
+        "src": null,
+        "part": "\ndocument.addEventListener('DOMContentLoaded', function () {\n\n    document.querySelectorAll('.fixtures-search-wrapper').forEach(wrapper => {\n\n        const teamInput   = wrapper.querySelector('.fixtures-search-team');\n        const leagueInput = wrapper.querySelector('.fixtures-search-league');\n        const table       = wrapper.nextElementSibling;\n        const rows        = table.querySelectorAll('tbody tr');\n        const clearBtns   = wrapper.querySelectorAll('.clear-search');\n        const modeRadios  = wrapper.querySelectorAll('input[type=\"radio\"]');\n\n        function filterFixtures() {\n\n            const teamFilter   = teamInput.value.toLowerCase();\n            const leagueFilter = leagueInput.value.toLowerCase();\n            const mode         = wrapper.querySelector('input[type=\"radio\"]:checked').value;\n\n            let currentDateRow   = null;\n            let currentLeagueRow = null;\n            let leagueHasMatch   = false;\n            let dateHasMatch     = false;\n        "
+      },
+      {
+        "src": null,
+        "part": "\ndocument.addEventListener('DOMContentLoaded', function () {\n\n    document.querySelectorAll('.fixtures-search-wrapper').forEach(wrapper => {\n\n        const teamInput   = wrapper.querySelector('.fixtures-search-team');\n        const leagueInput = wrapper.querySelector('.fixtures-search-league');\n        const table       = wrapper.nextElementSibling;\n        const rows        = table.querySelectorAll('tbody tr');\n        const clearBtns   = wrapper.querySelectorAll('.clear-search');\n        const modeRadios  = wrapper.querySelectorAll('input[type=\"radio\"]');\n\n        function filterResults() {\n\n            const teamFilter   = teamInput.value.toLowerCase();\n            const leagueFilter = leagueInput.value.toLowerCase();\n            const mode         = wrapper.querySelector('input[type=\"radio\"]:checked').value;\n\n            let currentDateRow   = null;\n            let currentLeagueRow = null;\n            let dateHasMatch     = false;\n            let leagueHasMatch   = false;\n         "
+      },
+      {
+        "src": null,
+        "part": "\n    function ftPosStep(inst, stepIndex) {\n        var wrap = document.getElementById(\"ft-pos-wrap-\" + inst);\n        if (!wrap) return;\n        var panelMap = JSON.parse(wrap.getAttribute(\"data-ftpanels\"));\n        wrap.querySelectorAll(\".ft-panel\").forEach(function(p){ p.classList.remove(\"ft-active\"); });\n        var leagueSel = document.getElementById(\"ft-pos-league-\" + inst);\n        leagueSel.innerHTML = \"\";\n        var panels = panelMap[stepIndex];\n        for (var i = 0; i < panels.length; i++) {\n            var opt = document.createElement(\"option\");\n            opt.value = panels[i].pid;\n            opt.text  = panels[i].label;\n            leagueSel.appendChild(opt);\n        }\n        if (panels.length > 0) {\n            var first = document.getElementById(panels[0].pid);\n            if (first) first.classList.add(\"ft-active\");\n        }\n    }\n\n    function ftPosLeague(inst, panelId) {\n        var wrap = document.getElementById(\"ft-pos-wrap-\" + inst);\n        if (!wrap) return"
+      },
+      {
+        "src": null,
+        "part": "\n    document.addEventListener('DOMContentLoaded', function() {\n\n        var SUPABASE_URL = 'https://nvmkrjotolulzzgdluud.supabase.co';\n        var SUPABASE_KEY = 'YOUR_ANON_KEY_HERE'; // your existing public anon key\n\n        // Scope config per nation - mirrors leaderboard_scopes table\n        var NLHQGL_SCOPES = {\n            1: [ // England\n                { id: 1, label: 'S1' }, { id: 2, label: 'S2' }, { id: 3, label: 'S3' },\n                { id: 4, label: 'S4' }, { id: 5, label: 'S5&6' }\n            ],\n            5: [ // Scotland\n                { id: 6, label: 'S1' }, { id: 7, label: 'S2' },\n                { id: 8, label: 'S3&4' }, { id: 9, label: 'S5&6' }\n            ],\n            6: [ // Wales\n                { id: 10, label: 'S3' }, { id: 11, label: 'S4' }, { id: 12, label: 'S5' }\n            ],\n            7: [ // N Ireland\n                { id: 13, label: 'S3' }, { id: 14, label: 'S4' }, { id: 15, label: 'S5' }\n            ],\n            8: [ { id: 16, label: 'Overall' "
+      }
+    ],
+    "candidate_elo_links": [
+      {
+        "text": "ELO Ratings",
+        "url": "https://nonleaguehq.com"
+      },
+      {
+        "text": "England ELO",
+        "url": "https://www.nonleaguehq.com/england-elo/"
+      },
+      {
+        "text": "ELO info page",
+        "url": "https://www.nonleaguehq.com/elo-info/"
+      }
+    ],
+    "sample_json": ""
+  },
+  "fa_cup_badges": {
+    "status": 200,
+    "length": 600425,
+    "title": "FA Competitions – Team Badges 2026/27 – NonLeagueHQ",
+    "img_count": 3,
+    "sample_imgs": [
+      {
+        "alt": "NonLeagueHQ",
+        "src": "https://www.nonleaguehq.com/wp-content/uploads/2024/02/TWPQKsNA_400x400-1.jpg",
+        "data-src": null
+      },
+      {
+        "alt": "NonLeagueHQ",
+        "src": "https://www.nonleaguehq.com/wp-content/uploads/2024/02/TWPQKsNA_400x400-1.jpg",
+        "data-src": null
+      },
+      {
+        "alt": "",
+        "src": "https://www.nonleaguehq.com/wp-content/uploads/2026/07/01-Start-2026-27-FA-Cup-Club-Badges-page-001-1-1024x724.jpg",
+        "data-src": null
+      }
+    ],
+    "text_tail": "ottish Women’s Premier League 2 Scottish Women’s Championship Scottish Women’s League One Scottish Women’s Central-West Scottish Women’s East Scottish Women’s North Scottish Women’s South Wales Women Wales Women’s Genero Adran Premier League Wales Women’s Genero Adran North Wales Women’s Genero Adran South Top Goalscorers Wales Women – Genero Adran Premier Wales Women – Genero Adran North Wales Women – Genero Adran South Fixture Finders Fixture Finder – England (Steps 1-4) Fixture Finder – England (Step 5) Fixture Finder – England (Step 6) Fixture Finder – Scotland Fixture Finder – Wales Fixture Finder – Northern Ireland Fixture Finder – Women’s Football Information Step Constitution  Maps 2026/27 League Leaders Promotion & Relegation page Phil Annets’ FA Comp Preview/Reviews Phil Annets’ FA Cup Preview – Extra Prelim Phil Annets’ FA Cup Review – Extra Prelim Phil Annets’ FA Trophy Preview – Prelim Phil Annets’ FA Vase Preview – 1st Qual Driving Mileage Tables Straight Line Mileage Tables Streaks Games per Day Results Distribution League Competitiveness The Entertainers Club Records since COVID League Start Dates About us… ELO Ratings England ELO ELO info page FA Cup – Team Badges — 2026/27 © Copyright @FACupFactfile on X. Not to be reproduced without permission. Please follow the above X account for superb insights and stats to all the FA Cup ties. X Facebook Instagram Bluesky",
+    "scripts": [
+      {
+        "src": null,
+        "part": "\ndocument.addEventListener('DOMContentLoaded', function () {\n\n    document.querySelectorAll('.fixtures-search-wrapper').forEach(wrapper => {\n\n        const teamInput   = wrapper.querySelector('.fixtures-search-team');\n        const leagueInput = wrapper.querySelector('.fixtures-search-league');\n        const table       = wrapper.nextElementSibling;\n        const rows        = table.querySelectorAll('tbody tr');\n        const clearBtns   = wrapper.querySelectorAll('.clear-search');\n        const modeRadios  = wrapper.querySelectorAll('input[type=\"radio\"]');\n\n        function filterFixtures() {\n\n            const teamFilter   = teamInput.value.toLowerCase();\n            const leagueFilter = leagueInput.value.toLowerCase();\n            const mode         = wrapper.querySelector('input[type=\"radio\"]:checked').value;\n\n            let currentDateRow   = null;\n            let currentLeagueRow = null;\n            let leagueHasMatch   = false;\n            let dateHasMatch     = false;\n        "
+      },
+      {
+        "src": null,
+        "part": "\ndocument.addEventListener('DOMContentLoaded', function () {\n\n    document.querySelectorAll('.fixtures-search-wrapper').forEach(wrapper => {\n\n        const teamInput   = wrapper.querySelector('.fixtures-search-team');\n        const leagueInput = wrapper.querySelector('.fixtures-search-league');\n        const table       = wrapper.nextElementSibling;\n        const rows        = table.querySelectorAll('tbody tr');\n        const clearBtns   = wrapper.querySelectorAll('.clear-search');\n        const modeRadios  = wrapper.querySelectorAll('input[type=\"radio\"]');\n\n        function filterResults() {\n\n            const teamFilter   = teamInput.value.toLowerCase();\n            const leagueFilter = leagueInput.value.toLowerCase();\n            const mode         = wrapper.querySelector('input[type=\"radio\"]:checked').value;\n\n            let currentDateRow   = null;\n            let currentLeagueRow = null;\n            let dateHasMatch     = false;\n            let leagueHasMatch   = false;\n         "
+      },
+      {
+        "src": null,
+        "part": "\n    function ftPosStep(inst, stepIndex) {\n        var wrap = document.getElementById(\"ft-pos-wrap-\" + inst);\n        if (!wrap) return;\n        var panelMap = JSON.parse(wrap.getAttribute(\"data-ftpanels\"));\n        wrap.querySelectorAll(\".ft-panel\").forEach(function(p){ p.classList.remove(\"ft-active\"); });\n        var leagueSel = document.getElementById(\"ft-pos-league-\" + inst);\n        leagueSel.innerHTML = \"\";\n        var panels = panelMap[stepIndex];\n        for (var i = 0; i < panels.length; i++) {\n            var opt = document.createElement(\"option\");\n            opt.value = panels[i].pid;\n            opt.text  = panels[i].label;\n            leagueSel.appendChild(opt);\n        }\n        if (panels.length > 0) {\n            var first = document.getElementById(panels[0].pid);\n            if (first) first.classList.add(\"ft-active\");\n        }\n    }\n\n    function ftPosLeague(inst, panelId) {\n        var wrap = document.getElementById(\"ft-pos-wrap-\" + inst);\n        if (!wrap) return"
+      },
+      {
+        "src": null,
+        "part": "\n    document.addEventListener('DOMContentLoaded', function() {\n\n        var SUPABASE_URL = 'https://nvmkrjotolulzzgdluud.supabase.co';\n        var SUPABASE_KEY = 'YOUR_ANON_KEY_HERE'; // your existing public anon key\n\n        // Scope config per nation - mirrors leaderboard_scopes table\n        var NLHQGL_SCOPES = {\n            1: [ // England\n                { id: 1, label: 'S1' }, { id: 2, label: 'S2' }, { id: 3, label: 'S3' },\n                { id: 4, label: 'S4' }, { id: 5, label: 'S5&6' }\n            ],\n            5: [ // Scotland\n                { id: 6, label: 'S1' }, { id: 7, label: 'S2' },\n                { id: 8, label: 'S3&4' }, { id: 9, label: 'S5&6' }\n            ],\n            6: [ // Wales\n                { id: 10, label: 'S3' }, { id: 11, label: 'S4' }, { id: 12, label: 'S5' }\n            ],\n            7: [ // N Ireland\n                { id: 13, label: 'S3' }, { id: 14, label: 'S4' }, { id: 15, label: 'S5' }\n            ],\n            8: [ { id: 16, label: 'Overall' "
+      }
+    ],
+    "candidate_elo_links": [
+      {
+        "text": "ELO Ratings",
+        "url": "https://nonleaguehq.com"
+      },
+      {
+        "text": "England ELO",
+        "url": "https://www.nonleaguehq.com/england-elo/"
+      },
+      {
+        "text": "ELO info page",
+        "url": "https://www.nonleaguehq.com/elo-info/"
+      }
+    ],
+    "sample_json": ""
+  },
+  "england_elo": {
+    "status": 200,
+    "length": 604285,
+    "title": "England ELO ratings – Steps 1 to 6 – NonLeagueHQ",
+    "img_count": 2,
+    "sample_imgs": [
+      {
+        "alt": "NonLeagueHQ",
+        "src": "https://www.nonleaguehq.com/wp-content/uploads/2024/02/TWPQKsNA_400x400-1.jpg",
+        "data-src": null
+      },
+      {
+        "alt": "NonLeagueHQ",
+        "src": "https://www.nonleaguehq.com/wp-content/uploads/2024/02/TWPQKsNA_400x400-1.jpg",
+        "data-src": null
+      }
+    ],
+    "text_tail": "up Scotland Women Scottish Women’s Premier League Scottish Women’s Premier League 2 Scottish Women’s Championship Scottish Women’s League One Scottish Women’s Central-West Scottish Women’s East Scottish Women’s North Scottish Women’s South Wales Women Wales Women’s Genero Adran Premier League Wales Women’s Genero Adran North Wales Women’s Genero Adran South Top Goalscorers Wales Women – Genero Adran Premier Wales Women – Genero Adran North Wales Women – Genero Adran South Fixture Finders Fixture Finder – England (Steps 1-4) Fixture Finder – England (Step 5) Fixture Finder – England (Step 6) Fixture Finder – Scotland Fixture Finder – Wales Fixture Finder – Northern Ireland Fixture Finder – Women’s Football Information Step Constitution  Maps 2026/27 League Leaders Promotion & Relegation page Phil Annets’ FA Comp Preview/Reviews Phil Annets’ FA Cup Preview – Extra Prelim Phil Annets’ FA Cup Review – Extra Prelim Phil Annets’ FA Trophy Preview – Prelim Phil Annets’ FA Vase Preview – 1st Qual Driving Mileage Tables Straight Line Mileage Tables Streaks Games per Day Results Distribution League Competitiveness The Entertainers Club Records since COVID League Start Dates About us… ELO Ratings England ELO ELO info page ELO Ratings — Non-League Football Leaderboard Next Games Results Biggest Upsets Best Weekly Daily Movers Team Records Form Table Head 2 Head X Facebook Instagram Bluesky",
+    "scripts": [
+      {
+        "src": null,
+        "part": "\ndocument.addEventListener('DOMContentLoaded', function () {\n\n    document.querySelectorAll('.fixtures-search-wrapper').forEach(wrapper => {\n\n        const teamInput   = wrapper.querySelector('.fixtures-search-team');\n        const leagueInput = wrapper.querySelector('.fixtures-search-league');\n        const table       = wrapper.nextElementSibling;\n        const rows        = table.querySelectorAll('tbody tr');\n        const clearBtns   = wrapper.querySelectorAll('.clear-search');\n        const modeRadios  = wrapper.querySelectorAll('input[type=\"radio\"]');\n\n        function filterFixtures() {\n\n            const teamFilter   = teamInput.value.toLowerCase();\n            const leagueFilter = leagueInput.value.toLowerCase();\n            const mode         = wrapper.querySelector('input[type=\"radio\"]:checked').value;\n\n            let currentDateRow   = null;\n            let currentLeagueRow = null;\n            let leagueHasMatch   = false;\n            let dateHasMatch     = false;\n        "
+      },
+      {
+        "src": null,
+        "part": "\ndocument.addEventListener('DOMContentLoaded', function () {\n\n    document.querySelectorAll('.fixtures-search-wrapper').forEach(wrapper => {\n\n        const teamInput   = wrapper.querySelector('.fixtures-search-team');\n        const leagueInput = wrapper.querySelector('.fixtures-search-league');\n        const table       = wrapper.nextElementSibling;\n        const rows        = table.querySelectorAll('tbody tr');\n        const clearBtns   = wrapper.querySelectorAll('.clear-search');\n        const modeRadios  = wrapper.querySelectorAll('input[type=\"radio\"]');\n\n        function filterResults() {\n\n            const teamFilter   = teamInput.value.toLowerCase();\n            const leagueFilter = leagueInput.value.toLowerCase();\n            const mode         = wrapper.querySelector('input[type=\"radio\"]:checked').value;\n\n            let currentDateRow   = null;\n            let currentLeagueRow = null;\n            let dateHasMatch     = false;\n            let leagueHasMatch   = false;\n         "
+      },
+      {
+        "src": null,
+        "part": "\n    function ftPosStep(inst, stepIndex) {\n        var wrap = document.getElementById(\"ft-pos-wrap-\" + inst);\n        if (!wrap) return;\n        var panelMap = JSON.parse(wrap.getAttribute(\"data-ftpanels\"));\n        wrap.querySelectorAll(\".ft-panel\").forEach(function(p){ p.classList.remove(\"ft-active\"); });\n        var leagueSel = document.getElementById(\"ft-pos-league-\" + inst);\n        leagueSel.innerHTML = \"\";\n        var panels = panelMap[stepIndex];\n        for (var i = 0; i < panels.length; i++) {\n            var opt = document.createElement(\"option\");\n            opt.value = panels[i].pid;\n            opt.text  = panels[i].label;\n            leagueSel.appendChild(opt);\n        }\n        if (panels.length > 0) {\n            var first = document.getElementById(panels[0].pid);\n            if (first) first.classList.add(\"ft-active\");\n        }\n    }\n\n    function ftPosLeague(inst, panelId) {\n        var wrap = document.getElementById(\"ft-pos-wrap-\" + inst);\n        if (!wrap) return"
+      },
+      {
+        "src": null,
+        "part": "\n    document.addEventListener('DOMContentLoaded', function() {\n\n        var SUPABASE_URL = 'https://nvmkrjotolulzzgdluud.supabase.co';\n        var SUPABASE_KEY = 'YOUR_ANON_KEY_HERE'; // your existing public anon key\n\n        // Scope config per nation - mirrors leaderboard_scopes table\n        var NLHQGL_SCOPES = {\n            1: [ // England\n                { id: 1, label: 'S1' }, { id: 2, label: 'S2' }, { id: 3, label: 'S3' },\n                { id: 4, label: 'S4' }, { id: 5, label: 'S5&6' }\n            ],\n            5: [ // Scotland\n                { id: 6, label: 'S1' }, { id: 7, label: 'S2' },\n                { id: 8, label: 'S3&4' }, { id: 9, label: 'S5&6' }\n            ],\n            6: [ // Wales\n                { id: 10, label: 'S3' }, { id: 11, label: 'S4' }, { id: 12, label: 'S5' }\n            ],\n            7: [ // N Ireland\n                { id: 13, label: 'S3' }, { id: 14, label: 'S4' }, { id: 15, label: 'S5' }\n            ],\n            8: [ { id: 16, label: 'Overall' "
+      }
+    ],
+    "candidate_elo_links": [
+      {
+        "text": "ELO Ratings",
+        "url": "https://nonleaguehq.com"
+      },
+      {
+        "text": "England ELO",
+        "url": "https://www.nonleaguehq.com/england-elo/"
+      },
+      {
+        "text": "ELO info page",
+        "url": "https://www.nonleaguehq.com/elo-info/"
+      }
+    ],
+    "sample_json": ""
+  },
+  "midland_league": {
+    "status": 200,
+    "length": 721439,
+    "title": "Midland League Premier – NonLeagueHQ",
+    "img_count": 2,
+    "sample_imgs": [
+      {
+        "alt": "NonLeagueHQ",
+        "src": "https://www.nonleaguehq.com/wp-content/uploads/2024/02/TWPQKsNA_400x400-1.jpg",
+        "data-src": null
+      },
+      {
+        "alt": "NonLeagueHQ",
+        "src": "https://www.nonleaguehq.com/wp-content/uploads/2024/02/TWPQKsNA_400x400-1.jpg",
+        "data-src": null
+      }
+    ],
+    "text_tail": "16 28 7 Cheadle Town 12 6 4 2 21 14 7 22 8 West Didsbury & Chorlton 15 6 3 6 28 33 -5 21 9 Dudley Town 14 5 5 4 33 26 7 20 10 Sporting Khalsa 13 6 2 5 27 23 4 20 11 Stockport Georgians 14 5 2 7 19 30 -11 17 12 Romulus 14 3 7 4 17 18 -1 16 13 AFC Wolverhampton City 13 4 3 6 24 27 -3 15 14 Wythenshawe Town 15 4 3 8 21 24 -3 15 15 Whitchurch Alport 13 4 3 6 17 25 -8 15 16 Lye Town 12 4 1 7 26 33 -7 13 17 Uttoxeter Town 14 2 3 9 13 22 -9 9 18 Darlaston Town 14 2 3 9 15 31 -16 9 Next Fixtures H5 H4 H3 H2 H1 Date HOME v AWAY A1 A2 A3 A4 A5 Sat, Oct 24, 2026 Darlaston Town v Brocton W W W L L L D L L Sat, Oct 24, 2026 Lye Town v Wythenshawe Town W W L L D Sat, Oct 24, 2026 Romulus v Cheadle Town Sat, Oct 24, 2026 Sporting Khalsa v Abbey Hulton United W L W W W Sat, Oct 24, 2026 Stockport Georgians v Dudley Town D W W D D Sat, Oct 24, 2026 Sutton United (Birmingham) v Runcorn Town L D L L W Sat, Oct 24, 2026 Uttoxeter Town v Northwich Victoria W L W D Sat, Oct 24, 2026 West Didsbury & Chorlton v AFC Wolverhampton City L L D D W Sat, Oct 24, 2026 Whitchurch Alport v Tividale L L L L W W L W L W Sat, Oct 24, 2026 Winsford United v Stone Old Alleynians W L L L L Latest Results Date Home HS v AS Away Wed, Oct 21, 2026 Darlaston Town 3 v 3 Sutton United (Birmingham) X Facebook Instagram Bluesky × Dynamic title for modals Are you sure? Please confirm deletion. There is no undo! Cancel Delete",
+    "scripts": [
+      {
+        "src": null,
+        "part": "\ndocument.addEventListener('DOMContentLoaded', function () {\n\n    document.querySelectorAll('.fixtures-search-wrapper').forEach(wrapper => {\n\n        const teamInput   = wrapper.querySelector('.fixtures-search-team');\n        const leagueInput = wrapper.querySelector('.fixtures-search-league');\n        const table       = wrapper.nextElementSibling;\n        const rows        = table.querySelectorAll('tbody tr');\n        const clearBtns   = wrapper.querySelectorAll('.clear-search');\n        const modeRadios  = wrapper.querySelectorAll('input[type=\"radio\"]');\n\n        function filterFixtures() {\n\n            const teamFilter   = teamInput.value.toLowerCase();\n            const leagueFilter = leagueInput.value.toLowerCase();\n            const mode         = wrapper.querySelector('input[type=\"radio\"]:checked').value;\n\n            let currentDateRow   = null;\n            let currentLeagueRow = null;\n            let leagueHasMatch   = false;\n            let dateHasMatch     = false;\n        "
+      },
+      {
+        "src": null,
+        "part": "\ndocument.addEventListener('DOMContentLoaded', function () {\n\n    document.querySelectorAll('.fixtures-search-wrapper').forEach(wrapper => {\n\n        const teamInput   = wrapper.querySelector('.fixtures-search-team');\n        const leagueInput = wrapper.querySelector('.fixtures-search-league');\n        const table       = wrapper.nextElementSibling;\n        const rows        = table.querySelectorAll('tbody tr');\n        const clearBtns   = wrapper.querySelectorAll('.clear-search');\n        const modeRadios  = wrapper.querySelectorAll('input[type=\"radio\"]');\n\n        function filterResults() {\n\n            const teamFilter   = teamInput.value.toLowerCase();\n            const leagueFilter = leagueInput.value.toLowerCase();\n            const mode         = wrapper.querySelector('input[type=\"radio\"]:checked').value;\n\n            let currentDateRow   = null;\n            let currentLeagueRow = null;\n            let dateHasMatch     = false;\n            let leagueHasMatch   = false;\n         "
+      },
+      {
+        "src": null,
+        "part": "\n    function ftPosStep(inst, stepIndex) {\n        var wrap = document.getElementById(\"ft-pos-wrap-\" + inst);\n        if (!wrap) return;\n        var panelMap = JSON.parse(wrap.getAttribute(\"data-ftpanels\"));\n        wrap.querySelectorAll(\".ft-panel\").forEach(function(p){ p.classList.remove(\"ft-active\"); });\n        var leagueSel = document.getElementById(\"ft-pos-league-\" + inst);\n        leagueSel.innerHTML = \"\";\n        var panels = panelMap[stepIndex];\n        for (var i = 0; i < panels.length; i++) {\n            var opt = document.createElement(\"option\");\n            opt.value = panels[i].pid;\n            opt.text  = panels[i].label;\n            leagueSel.appendChild(opt);\n        }\n        if (panels.length > 0) {\n            var first = document.getElementById(panels[0].pid);\n            if (first) first.classList.add(\"ft-active\");\n        }\n    }\n\n    function ftPosLeague(inst, panelId) {\n        var wrap = document.getElementById(\"ft-pos-wrap-\" + inst);\n        if (!wrap) return"
+      },
+      {
+        "src": null,
+        "part": "\n    document.addEventListener('DOMContentLoaded', function() {\n\n        var SUPABASE_URL = 'https://nvmkrjotolulzzgdluud.supabase.co';\n        var SUPABASE_KEY = 'YOUR_ANON_KEY_HERE'; // your existing public anon key\n\n        // Scope config per nation - mirrors leaderboard_scopes table\n        var NLHQGL_SCOPES = {\n            1: [ // England\n                { id: 1, label: 'S1' }, { id: 2, label: 'S2' }, { id: 3, label: 'S3' },\n                { id: 4, label: 'S4' }, { id: 5, label: 'S5&6' }\n            ],\n            5: [ // Scotland\n                { id: 6, label: 'S1' }, { id: 7, label: 'S2' },\n                { id: 8, label: 'S3&4' }, { id: 9, label: 'S5&6' }\n            ],\n            6: [ // Wales\n                { id: 10, label: 'S3' }, { id: 11, label: 'S4' }, { id: 12, label: 'S5' }\n            ],\n            7: [ // N Ireland\n                { id: 13, label: 'S3' }, { id: 14, label: 'S4' }, { id: 15, label: 'S5' }\n            ],\n            8: [ { id: 16, label: 'Overall' "
+      }
+    ],
+    "candidate_elo_links": [
+      {
+        "text": "ELO Ratings",
+        "url": "https://nonleaguehq.com"
+      },
+      {
+        "text": "England ELO",
+        "url": "https://www.nonleaguehq.com/england-elo/"
+      },
+      {
+        "text": "ELO info page",
+        "url": "https://www.nonleaguehq.com/elo-info/"
+      }
+    ],
+    "sample_json": ""
+  },
+  "thesportsdb": {
+    "status": 403,
+    "length": 153,
+    "title": null,
+    "img_count": 0,
+    "sample_imgs": [],
+    "text_tail": "The old '3' Free Sports API key is permanently disabled, Please use the new test key \"123\" or sign up to premium here https://www.thesportsdb.com/pricing",
+    "scripts": [],
+    "candidate_elo_links": [],
+    "sample_json": "The old '3' Free Sports API key is permanently disabled, Please use the new test key \"123\" or sign up to premium here https://www.thesportsdb.com/pricing"
+  },
+  "wikidata": {
+    "status": 200,
+    "length": 67,
+    "title": null,
+    "img_count": 0,
+    "sample_imgs": [],
+    "text_tail": "{\"searchinfo\":{\"search\":\"AFC Portchester\"},\"search\":[],\"success\":1}",
+    "scripts": [],
+    "candidate_elo_links": [],
+    "sample_json": "{\"searchinfo\":{\"search\":\"AFC Portchester\"},\"search\":[],\"success\":1}"
+  }
+}
