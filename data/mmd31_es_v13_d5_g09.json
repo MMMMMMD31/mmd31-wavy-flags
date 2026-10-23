@@ -1,0 +1,291 @@
+{
+  "group": 9,
+  "count": 18,
+  "approved_by_human": false,
+  "items": [
+    {
+      "id": 1884500100317,
+      "name": "Alhaurino",
+      "group": 9,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-9/clasificacion",
+      "source_club": "Alhaurino",
+      "source_image": "https://apiv3.apifootball.com/badges/7133_alhaurino.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/alhaurino-af7133",
+      "match_score": 100,
+      "background_rgb": [
+        91,
+        127,
+        177
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100317.png",
+      "source_sha256": "78e6132b4b2566fbab177137480d0f883aee9c2370bd9a668787263c1a2d9138",
+      "image_sha256": "a9efe929703d0627788349f4d427038175ee524a88866cb30e785562460e72fa"
+    },
+    {
+      "id": 1884500100318,
+      "name": "Almería B",
+      "group": 9,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-9/clasificacion",
+      "source_club": "Almería B",
+      "source_image": "https://apiv3.apifootball.com/badges/7115_almeria-ii.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/almeria-b-7786",
+      "match_score": 100,
+      "background_rgb": [
+        245,
+        201,
+        92
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100318.png",
+      "source_sha256": "6df88591ab79e7e8fceccfda3963c372a9d2d9770beb519b304f8b63db273908",
+      "image_sha256": "6bf82a9ea38a793f6ec0b48cc60cb4432d00cb89aa87b375e06ac3ed67a9df9a"
+    },
+    {
+      "id": 1884500100319,
+      "name": "Arenas",
+      "group": 9,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-9/clasificacion",
+      "source_club": "Arenas Armilla",
+      "source_image": "https://apiv3.apifootball.com/badges/27414_arenas-armilla.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/arenas-armilla-af27414",
+      "match_score": 100,
+      "background_rgb": [
+        245,
+        114,
+        114
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100319.png",
+      "source_sha256": "dceec465d4e70942551fe8c143ef39af287ddaaa3ad3853ebdf38586fc708bc1",
+      "image_sha256": "f31ba367a4f897627c90d73edfddc894d26c002054f2f2215d7724cb4efc50dd"
+    },
+    {
+      "id": 1884500100320,
+      "name": "Atlético Malagueño",
+      "group": 9,
+      "status": "ÉCUSSON_RÉEL_NON_VÉRIFIÉ",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-9/clasificacion",
+      "reason": "image missing or name not confidently matched"
+    },
+    {
+      "id": 1884500100321,
+      "name": "Atlético Marbella",
+      "group": 9,
+      "status": "ÉCUSSON_RÉEL_NON_VÉRIFIÉ",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-9/clasificacion",
+      "reason": "image missing or name not confidently matched"
+    },
+    {
+      "id": 1884500100322,
+      "name": "Atlético Mancha Real",
+      "group": 9,
+      "status": "ÉCUSSON_RÉEL_NON_VÉRIFIÉ",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-9/clasificacion",
+      "reason": "image missing or name not confidently matched"
+    },
+    {
+      "id": 1884500100323,
+      "name": "Atlético Porcuna",
+      "group": 9,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-9/clasificacion",
+      "source_club": "Atlético Porcuna",
+      "source_image": "https://apiv3.apifootball.com/badges/7122_atletico-porcuna.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/atletico-porcuna-af7122",
+      "match_score": 100,
+      "background_rgb": [
+        92,
+        158,
+        201
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100323.png",
+      "source_sha256": "17878489646699297fcc520c25766a5441dfc249f55e8eeb90dad192e52d974d",
+      "image_sha256": "a0c9a4884d5cc18089825f5976a56b0c4772fe4417ed014facc89221efa0db77"
+    },
+    {
+      "id": 1884500100324,
+      "name": "Cantoria",
+      "group": 9,
+      "status": "ÉCUSSON_RÉEL_NON_VÉRIFIÉ",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-9/clasificacion",
+      "source_club": "Cantoria",
+      "source_image": "/crests/cantoria-af44082.png",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/cantoria-af44082",
+      "match_score": 100,
+      "reason": "Invalid URL '/crests/cantoria-af44082.png': No scheme supplied. Perhaps you meant https:///crests/cantoria-af44082.png?"
+    },
+    {
+      "id": 1884500100325,
+      "name": "Churriana",
+      "group": 9,
+      "status": "ÉCUSSON_RÉEL_NON_VÉRIFIÉ",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-9/clasificacion",
+      "source_club": "Churriana de la Vega",
+      "source_image": "/crests/churriana-de-la-vega-af40759.png",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/churriana-de-la-vega-af40759",
+      "match_score": 100,
+      "reason": "Invalid URL '/crests/churriana-de-la-vega-af40759.png': No scheme supplied. Perhaps you meant https:///crests/churriana-de-la-vega-af40759.png?"
+    },
+    {
+      "id": 1884500100326,
+      "name": "Ciudad de Torredonjimeno",
+      "group": 9,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-9/clasificacion",
+      "source_club": "Ciudad de Torredonjimeno",
+      "source_image": "https://apiv3.apifootball.com/badges/7116_ciudad-de-torredonjimeno.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/ciudad-de-torredonjimeno-af7116",
+      "match_score": 100,
+      "background_rgb": [
+        245,
+        201,
+        201
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100326.png",
+      "source_sha256": "c9c108f87dc6f2b2665958e6d8aadd0fb716f776caf4e42159eedfea7167b86b",
+      "image_sha256": "bbc72ed499f177bc60b8361decba0513e01adf50957d6cefb1852258f040ad59"
+    },
+    {
+      "id": 1884500100327,
+      "name": "Huétor Vega",
+      "group": 9,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-9/clasificacion",
+      "source_club": "Huétor Vega",
+      "source_image": "https://apiv3.apifootball.com/badges/7121_huetor-vega.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/huetor-vega-af7121",
+      "match_score": 100,
+      "background_rgb": [
+        114,
+        180,
+        114
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100327.png",
+      "source_sha256": "518e337845d98dcf928ef99c81a162815a4eccf95c7f1b6408bf0523e9940d2d",
+      "image_sha256": "e6338f1e6d107e7c61c97613fb8490ec90f327590a34bd0ead9036efd6ff9fe4"
+    },
+    {
+      "id": 1884500100328,
+      "name": "Málaga Juniors",
+      "group": 9,
+      "status": "ÉCUSSON_RÉEL_NON_VÉRIFIÉ",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-9/clasificacion",
+      "reason": "image missing or name not confidently matched"
+    },
+    {
+      "id": 1884500100329,
+      "name": "Marbellí",
+      "group": 9,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-9/clasificacion",
+      "source_club": "Marbellí",
+      "source_image": "https://apiv3.apifootball.com/badges/37721_marbelli.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/marbelli-af37721",
+      "match_score": 100,
+      "background_rgb": [
+        245,
+        245,
+        136
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100329.png",
+      "source_sha256": "16fe0c6c8f56da379b24eaf38783d374b940dd4c5745339c4df43aa0eef836d4",
+      "image_sha256": "eac42f7592f8a10c85f7647f35c74e6ffb9bcc3eda5c4582e96faaf2f6cad087"
+    },
+    {
+      "id": 1884500100330,
+      "name": "Melilla",
+      "group": 9,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-9/clasificacion",
+      "source_club": "Melilla",
+      "source_image": "https://apiv3.apifootball.com/badges/7185_ud-melilla.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/melilla-10016",
+      "match_score": 100,
+      "background_rgb": [
+        92,
+        114,
+        158
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100330.png",
+      "source_sha256": "ba43fffa29cbf2f11391e10848c22e93ac85cbf2143a5fb93ea2faf3fac2aa59",
+      "image_sha256": "e999e087619e9433ab9ad604f647743fe8f2428c07cf983430b2452089563ec5"
+    },
+    {
+      "id": 1884500100331,
+      "name": "Motril",
+      "group": 9,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-9/clasificacion",
+      "source_club": "Motril",
+      "source_image": "https://apiv3.apifootball.com/badges/7130_motril.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/motril-af7130",
+      "match_score": 100,
+      "background_rgb": [
+        92,
+        114,
+        180
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100331.png",
+      "source_sha256": "0b6f1e4a406d07d3b246190b1b1623cb0593943369a53312ba656b7826e3e179",
+      "image_sha256": "889cde0f5e0a84fccf0a62940f57852a66511a428f9522f38e219edc75e0cf78"
+    },
+    {
+      "id": 1884500100332,
+      "name": "Recreativo Granada",
+      "group": 9,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-9/clasificacion",
+      "source_club": "Granada B",
+      "source_image": "https://apiv3.apifootball.com/badges/7163_granada-ii.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/granada-ii-af7163",
+      "match_score": 100,
+      "background_rgb": [
+        223,
+        92,
+        114
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100332.png",
+      "source_sha256": "8af40e79d162b81def738f71c9c750bf5dab69daf0a5ee29494d0a59036bf1f1",
+      "image_sha256": "729058f3bc1679c7f7dd7e3864b45e83b5a76e1693fdccff5e5c5f145e831f3b"
+    },
+    {
+      "id": 1884500100333,
+      "name": "San Pedro",
+      "group": 9,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-9/clasificacion",
+      "source_club": "UD San Pedro",
+      "source_image": "https://apiv3.apifootball.com/badges/20203_ud-san-pedro.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/ud-san-pedro-af20203",
+      "match_score": 100,
+      "background_rgb": [
+        223,
+        114,
+        92
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100333.png",
+      "source_sha256": "069d1cb0f5d7e024027d237c1536dd23e7d96f50ceeec92277aa773600118d85",
+      "image_sha256": "5c35e5d69277612d1eb5b31492067182643cbca9b1a529e9434355bb66c1b7cb"
+    },
+    {
+      "id": 1884500100334,
+      "name": "Torre del Mar",
+      "group": 9,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-9/clasificacion",
+      "source_club": "Torre del Mar",
+      "source_image": "https://apiv3.apifootball.com/badges/17433_torre-del-mar.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/torre-del-mar-af17433",
+      "match_score": 100,
+      "background_rgb": [
+        92,
+        92,
+        201
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100334.png",
+      "source_sha256": "8d6bf088de3389db702bac6aa53dacb08f2bdb6e6874e130b26ca8a2447b7159",
+      "image_sha256": "af4ecfe5217c8fb674e55cd032b61a863d5dc5f31f1f3de46169662617c9c39a"
+    }
+  ]
+}

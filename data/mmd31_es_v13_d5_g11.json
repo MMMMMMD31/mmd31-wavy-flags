@@ -1,0 +1,342 @@
+{
+  "group": 11,
+  "count": 18,
+  "approved_by_human": false,
+  "items": [
+    {
+      "id": 1884500100353,
+      "name": "Alcúdia",
+      "group": 11,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-11/clasificacion",
+      "source_club": "Alcúdia",
+      "source_image": "https://apiv3.apifootball.com/badges/6933_alcudia.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/alcudia-af6933",
+      "match_score": 100,
+      "background_rgb": [
+        245,
+        92,
+        92
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100353.png",
+      "source_sha256": "d3895a94686352b3810dfb68841bebde7d90caf55331d66aa1df52da342ff6fe",
+      "image_sha256": "47bc4f5b999438df91f9186328e06f75e9846c3efa74b292d5999e93b261e11e"
+    },
+    {
+      "id": 1884500100354,
+      "name": "Andratx",
+      "group": 11,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-11/clasificacion",
+      "source_club": "Andratx",
+      "source_image": "https://apiv3.apifootball.com/badges/6917_andratx.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/andratx-29713",
+      "match_score": 100,
+      "background_rgb": [
+        245,
+        223,
+        92
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100354.png",
+      "source_sha256": "1c834168dcc1f3b830d9be1d4dcdb2d1fef82bf82dd0b8a0ebdc1c0f7d375929",
+      "image_sha256": "5b7c4e2abc4a6544b361ff547a58753576e6154d93709bcf6c31b8aee105075d"
+    },
+    {
+      "id": 1884500100355,
+      "name": "Arenal",
+      "group": 11,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-11/clasificacion",
+      "source_club": "Arenal",
+      "source_image": "https://apiv3.apifootball.com/badges/32664_arenal.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/arenal-af32664",
+      "match_score": 100,
+      "background_rgb": [
+        92,
+        114,
+        180
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100355.png",
+      "source_sha256": "597777c7643321b54e9624bc648219099765bd97ca43239c25118669368f0aae",
+      "image_sha256": "e65f880fe21758a66dcf6dc00bd0003134463ef25a2b4b2538798da867f7648c"
+    },
+    {
+      "id": 1884500100356,
+      "name": "Binissalem",
+      "group": 11,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-11/clasificacion",
+      "source_club": "Binissalem",
+      "source_image": "https://apiv3.apifootball.com/badges/6936_binissalem.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/binissalem-af6936",
+      "match_score": 100,
+      "background_rgb": [
+        92,
+        114,
+        180
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100356.png",
+      "source_sha256": "121e8984b837cce7cbfa0cfb960d91873fa459c57ca1ddc7abfa46635aad0bab",
+      "image_sha256": "0eb8f2034562b20d4c5797ca8eec6ad74bbf0c01340c497b40fef2eaa57b043d"
+    },
+    {
+      "id": 1884500100357,
+      "name": "Cardassar",
+      "group": 11,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-11/clasificacion",
+      "source_club": "Cardassar",
+      "source_image": "https://apiv3.apifootball.com/badges/6924_cardassar.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/cardassar-af6924",
+      "match_score": 100,
+      "background_rgb": [
+        91,
+        127,
+        177
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100357.png",
+      "source_sha256": "78e6132b4b2566fbab177137480d0f883aee9c2370bd9a668787263c1a2d9138",
+      "image_sha256": "a9efe929703d0627788349f4d427038175ee524a88866cb30e785562460e72fa"
+    },
+    {
+      "id": 1884500100358,
+      "name": "Constància",
+      "group": 11,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-11/clasificacion",
+      "source_club": "Constància",
+      "source_image": "https://apiv3.apifootball.com/badges/6918_constancia.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/constancia-af6918",
+      "match_score": 100,
+      "background_rgb": [
+        180,
+        158,
+        136
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100358.png",
+      "source_sha256": "256fe721d31412b9787b83cd0824be0eca40c26415ed929d9f372ae154449496",
+      "image_sha256": "d7898e702f5802bca674924b05cad71062bbaca9f12ac97f1942f953bd7becc9"
+    },
+    {
+      "id": 1884500100359,
+      "name": "Formentera",
+      "group": 11,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-11/clasificacion",
+      "source_club": "Formentera",
+      "source_image": "https://apiv3.apifootball.com/badges/6928_formentera.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/formentera-af6928",
+      "match_score": 100,
+      "background_rgb": [
+        114,
+        158,
+        223
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100359.png",
+      "source_sha256": "ab24672cdfbedcf32dc9600efbfc1259f19eae809dab7a4ca4358a282d33f604",
+      "image_sha256": "3ed88fa8f9a2c9fa56871f624f4334e49fdc27f3224d1fb728e1057e94cbc944"
+    },
+    {
+      "id": 1884500100360,
+      "name": "Ibiza Islas Pitiusas",
+      "group": 11,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-11/clasificacion",
+      "source_club": "Ibiza Islas Pitiusas",
+      "source_image": "https://apiv3.apifootball.com/badges/6916_ibiza-islas-pitiusas.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/ibiza-islas-pitiusas-228757",
+      "match_score": 100,
+      "background_rgb": [
+        245,
+        92,
+        92
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100360.png",
+      "source_sha256": "fbb58ff0d0431a4403ac2abca71e5f5d25fd5679b5a54fa31ccc04d3e0cb2639",
+      "image_sha256": "8adf7c2e2e9ef48a79a9f0e1db5b41996067a044bb848896a523fc4d69568107"
+    },
+    {
+      "id": 1884500100361,
+      "name": "Inter Ibiza",
+      "group": 11,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-11/clasificacion",
+      "source_club": "Inter Ibiza",
+      "source_image": "https://apiv3.apifootball.com/badges/21336_inter-ibiza.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/inter-ibiza-af21336",
+      "match_score": 100,
+      "background_rgb": [
+        91,
+        127,
+        177
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100361.png",
+      "source_sha256": "78e6132b4b2566fbab177137480d0f883aee9c2370bd9a668787263c1a2d9138",
+      "image_sha256": "a9efe929703d0627788349f4d427038175ee524a88866cb30e785562460e72fa"
+    },
+    {
+      "id": 1884500100362,
+      "name": "Llosetense",
+      "group": 11,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-11/clasificacion",
+      "source_club": "Llosetense",
+      "source_image": "https://apiv3.apifootball.com/badges/6932_llosetense.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/llosetense-af6932",
+      "match_score": 100,
+      "background_rgb": [
+        114,
+        180,
+        136
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100362.png",
+      "source_sha256": "d62fa0343decaa99acc88876bc1bfaeeffb487a3873ebe15c3b6721426240063",
+      "image_sha256": "797caabff162e13437e8f468df81edd4a22962b99a7e29f0e76634bd773e6c60"
+    },
+    {
+      "id": 1884500100363,
+      "name": "Manacor",
+      "group": 11,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-11/clasificacion",
+      "source_club": "Manacor",
+      "source_image": "https://apiv3.apifootball.com/badges/6919_manacor.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/manacor-af6919",
+      "match_score": 100,
+      "background_rgb": [
+        245,
+        223,
+        136
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100363.png",
+      "source_sha256": "6b424fac0b8e376c66753803d771996e0e803ac2d704cd540963e4fb48e64a64",
+      "image_sha256": "78b086cc250c6534836a2f48b6bd66e2085c4bf5aa9c974945d3fe9eaea1df04"
+    },
+    {
+      "id": 1884500100364,
+      "name": "Mercadal",
+      "group": 11,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-11/clasificacion",
+      "source_club": "Mercadal",
+      "source_image": "https://apiv3.apifootball.com/badges/21340_mercadal.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/mercadal-af21340",
+      "match_score": 100,
+      "background_rgb": [
+        92,
+        223,
+        245
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100364.png",
+      "source_sha256": "44023c5376f93d8567ab68afa1fd1e3bd02046a8b9afbbed545fd525bb838cca",
+      "image_sha256": "461604d664967fa9e16b48368ddff30ed5e9f633f0c18c404622f7b48d8b8201"
+    },
+    {
+      "id": 1884500100365,
+      "name": "Migjorn",
+      "group": 11,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-11/clasificacion",
+      "source_club": "Migjorn",
+      "source_image": "https://apiv3.apifootball.com/badges/37052_migjorn.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/migjorn-af37052",
+      "match_score": 100,
+      "background_rgb": [
+        92,
+        158,
+        158
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100365.png",
+      "source_sha256": "3dfe72fbae541cb5d0031b0d3fc142efd9cf79fe06e9f421e35f524b047d1d07",
+      "image_sha256": "5b111a8180f058e9f9a31bafa06833dc81a4b5e68ad5934ab9ea1b60cd00db05"
+    },
+    {
+      "id": 1884500100366,
+      "name": "Platges de Calvià",
+      "group": 11,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-11/clasificacion",
+      "source_club": "Platges Calvià",
+      "source_image": "https://apiv3.apifootball.com/badges/6927_platges-calvia.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/platges-calvia-af6927",
+      "match_score": 100,
+      "background_rgb": [
+        245,
+        158,
+        114
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100366.png",
+      "source_sha256": "ea91d0e475f496617988e5f514edbd1e0b892a3b4f42caa45869af2365bca10c",
+      "image_sha256": "fa40ff6e71538ac50a3c119d6342b65cc0198ba286587e928f47faad3d95bbae"
+    },
+    {
+      "id": 1884500100367,
+      "name": "Porreres",
+      "group": 11,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-11/clasificacion",
+      "source_club": "Porreres",
+      "source_image": "https://apiv3.apifootball.com/badges/37051_porreres.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/porreres-265881",
+      "match_score": 100,
+      "background_rgb": [
+        223,
+        114,
+        92
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100367.png",
+      "source_sha256": "2fef45c1b7ae1dbd15a86a5f0001a95afbd089b434bd3fc12867d41adcbe8302",
+      "image_sha256": "6c66c5a70a6e1136300d206523def2914d8b8498739b7a72a95982415c79252f"
+    },
+    {
+      "id": 1884500100368,
+      "name": "Sant Jordi",
+      "group": 11,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-11/clasificacion",
+      "source_club": "PE Sant Jordi",
+      "source_image": "https://apiv3.apifootball.com/badges/6929_pe-sant-jordi.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/pe-sant-jordi-af6929",
+      "match_score": 90.0,
+      "background_rgb": [
+        245,
+        92,
+        114
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100368.png",
+      "source_sha256": "fbbdac33289c414b0ed209585ed702a730a4a2c54c46c1b04d22a4a29c88ee3e",
+      "image_sha256": "7b35b05699316a3c82837f8fad68483c39fe54eac30fde1a0e95eaf38703ef60"
+    },
+    {
+      "id": 1884500100369,
+      "name": "Santanyí",
+      "group": 11,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-11/clasificacion",
+      "source_club": "Santanyí",
+      "source_image": "https://apiv3.apifootball.com/badges/6930_santanyi.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/santanyi-af6930",
+      "match_score": 100,
+      "background_rgb": [
+        223,
+        114,
+        92
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100369.png",
+      "source_sha256": "e91876ca14c022d213f14bcbe2d465c389975116fa3aec050219ffca13604cb5",
+      "image_sha256": "c448f57b0f4e3556ac1af468569941752455afdde7bcb25d10aa4fff50d1a0fc"
+    },
+    {
+      "id": 1884500100370,
+      "name": "Sineu",
+      "group": 11,
+      "status": "ÉCUSSON_RÉEL_NON_VÉRIFIÉ",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-11/clasificacion",
+      "source_club": "Sineu",
+      "source_image": "/crests/sineu-af44019.png",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/sineu-af44019",
+      "match_score": 100,
+      "reason": "Invalid URL '/crests/sineu-af44019.png': No scheme supplied. Perhaps you meant https:///crests/sineu-af44019.png?"
+    }
+  ]
+}

@@ -1,0 +1,324 @@
+{
+  "group": 8,
+  "count": 18,
+  "approved_by_human": false,
+  "items": [
+    {
+      "id": 1884500100299,
+      "name": "Almazán",
+      "group": 8,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-8/clasificacion",
+      "source_club": "Almazán",
+      "source_image": "https://apiv3.apifootball.com/badges/7108_almazan.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/almazan-af7108",
+      "match_score": 100,
+      "background_rgb": [
+        92,
+        158,
+        245
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100299.png",
+      "source_sha256": "6d470235163af3534704113e12e2484f39f73d9766b51c3a1d0cb0835eb6a70e",
+      "image_sha256": "698531adc7fa565284ddbd05a0cda70bf41adfb64f477ef8294caf4637c9f0bc"
+    },
+    {
+      "id": 1884500100300,
+      "name": "Arandina",
+      "group": 8,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-8/clasificacion",
+      "source_club": "Arandina",
+      "source_image": "https://apiv3.apifootball.com/badges/7105_arandina.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/arandina-af7105",
+      "match_score": 100,
+      "background_rgb": [
+        223,
+        223,
+        180
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100300.png",
+      "source_sha256": "fb1e30ed809c564e675723b957932ab47e9a0ba182f4ca93381f8385c09dce81",
+      "image_sha256": "49feb48bfbab786b13f354ea53335610700ddadbd9233c811c14d55e8e737ab9"
+    },
+    {
+      "id": 1884500100301,
+      "name": "Atlético Bembibre",
+      "group": 8,
+      "status": "ÉCUSSON_RÉEL_NON_VÉRIFIÉ",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-8/clasificacion",
+      "reason": "image missing or name not confidently matched"
+    },
+    {
+      "id": 1884500100302,
+      "name": "Atlético Mansillés",
+      "group": 8,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-8/clasificacion",
+      "source_club": "Atlético Mansillés",
+      "source_image": "https://apiv3.apifootball.com/badges/20363_atletico-mansilles.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/atletico-mansilles-af20363",
+      "match_score": 100,
+      "background_rgb": [
+        92,
+        114,
+        201
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100302.png",
+      "source_sha256": "ab02ea3172b9729aa41841fe3a78920adafe98629140d57ceee4875b71cda830",
+      "image_sha256": "1b66b2c3529b5c69fd02c00a94f4c9b1ae53973fbcc6f5452252fd0a5f4a2a5b"
+    },
+    {
+      "id": 1884500100303,
+      "name": "Burgos Promesas",
+      "group": 8,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-8/clasificacion",
+      "source_club": "Burgos Promesas",
+      "source_image": "https://apiv3.apifootball.com/badges/7103_burgos-promesas.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/burgos-promesas-28159",
+      "match_score": 100,
+      "background_rgb": [
+        91,
+        127,
+        177
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100303.png",
+      "source_sha256": "bf7ee7b7f50fa74a55c97cd2e9dba6db53c55619fc9463cdb8e9fe321e2832fd",
+      "image_sha256": "b86b5632d38ea39b2ef1aab74fd7bd2683d0c957f00bcd927392059aae05908b"
+    },
+    {
+      "id": 1884500100304,
+      "name": "Calasanz",
+      "group": 8,
+      "status": "ÉCUSSON_RÉEL_NON_VÉRIFIÉ",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-8/clasificacion",
+      "source_club": "Calasanz de Soria",
+      "source_image": "/crests/calasanz-de-soria-af44049.png",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/calasanz-de-soria-af44049",
+      "match_score": 100,
+      "reason": "Invalid URL '/crests/calasanz-de-soria-af44049.png': No scheme supplied. Perhaps you meant https:///crests/calasanz-de-soria-af44049.png?"
+    },
+    {
+      "id": 1884500100305,
+      "name": "Colegios Diocesanos",
+      "group": 8,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-8/clasificacion",
+      "source_club": "Colegios Diocesanos",
+      "source_image": "https://apiv3.apifootball.com/badges/7109_colegios-diocesanos.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/colegios-diocesanos-af7109",
+      "match_score": 100,
+      "background_rgb": [
+        245,
+        245,
+        92
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100305.png",
+      "source_sha256": "50f89a2dd33c9c362101f729837d4c3eb26742a4439b6e9452ba8404c6f4e316",
+      "image_sha256": "cae4796f63d71dbbddfd163d6660bcc94f2e1fd70b8a93143e0af26666ab5a27"
+    },
+    {
+      "id": 1884500100306,
+      "name": "Cristo Atlético",
+      "group": 8,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-8/clasificacion",
+      "source_club": "Cristo Atlético",
+      "source_image": "https://apiv3.apifootball.com/badges/7091_cristo-atletico.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/cristo-atletico-af7091",
+      "match_score": 100,
+      "background_rgb": [
+        201,
+        201,
+        158
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100306.png",
+      "source_sha256": "ef0f55c9807bed09b91b444296419a1eb9d21b7db56d9f6a49d0ca76e970e7a1",
+      "image_sha256": "13554510c70475a7e4ba8f2fc7559262df06712951e31974e81853c894664656"
+    },
+    {
+      "id": 1884500100307,
+      "name": "Guijuelo",
+      "group": 8,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-8/clasificacion",
+      "source_club": "Guijuelo",
+      "source_image": "https://apiv3.apifootball.com/badges/7205_guijuelo.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/guijuelo-af7205",
+      "match_score": 100,
+      "background_rgb": [
+        92,
+        180,
+        114
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100307.png",
+      "source_sha256": "d93727bbb004068dfa05eb2b06d06cd4db9d588c5c389d9a219b67a8fac5df0d",
+      "image_sha256": "29d5d00e224da874819fa1d7a028409c5194f0f4a815bfab85370eec6d2c45ba"
+    },
+    {
+      "id": 1884500100308,
+      "name": "Júpiter Leonés",
+      "group": 8,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-8/clasificacion",
+      "source_club": "Cultural Leonesa B",
+      "source_image": "https://apiv3.apifootball.com/badges/7093_cultural-leonesa-ii.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/cultural-leonesa-ii-af7093",
+      "match_score": 100,
+      "background_rgb": [
+        245,
+        92,
+        114
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100308.png",
+      "source_sha256": "14fa5cac6e31b1c77ab5b744ddd472639e167468b33ef09d5a1a9203911f2e3b",
+      "image_sha256": "f02ac10dff63363fc4100df7fd242b381bca2847778015b84ec6a416f6a3c345"
+    },
+    {
+      "id": 1884500100309,
+      "name": "La Virgen del Camino",
+      "group": 8,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-8/clasificacion",
+      "source_club": "La Virgen del Camino",
+      "source_image": "https://apiv3.apifootball.com/badges/7094_la-virgen-del-camino.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/la-virgen-del-camino-af7094",
+      "match_score": 100,
+      "background_rgb": [
+        92,
+        180,
+        114
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100309.png",
+      "source_sha256": "6a45d8e3e9f68788d1627f9616db9c7fe61b3b4a4fc4460175a3eb0f101d6a9f",
+      "image_sha256": "cc8dae23fdc438a6ad162d64eac5f50047dec50cd7e2f11d613963231e5e932a"
+    },
+    {
+      "id": 1884500100310,
+      "name": "Mirandés B",
+      "group": 8,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-8/clasificacion",
+      "source_club": "Mirandés B",
+      "source_image": "https://apiv3.apifootball.com/badges/7106_mirandes-ii.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/mirandes-ii-af7106",
+      "match_score": 100,
+      "background_rgb": [
+        223,
+        92,
+        92
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100310.png",
+      "source_sha256": "391535258971c4b765fb908b0f53bfd06f6307da1188595b979fcb61337b0627",
+      "image_sha256": "0fba5f36e5ff52e6d55c558b0625c86f20bbe863563cf0dae3261683553b5231"
+    },
+    {
+      "id": 1884500100311,
+      "name": "Palencia",
+      "group": 8,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-8/clasificacion",
+      "source_club": "Palencia CF",
+      "source_image": "https://apiv3.apifootball.com/badges/20355_palencia-cf.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/palencia-cf-af20355",
+      "match_score": 100,
+      "background_rgb": [
+        245,
+        201,
+        92
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100311.png",
+      "source_sha256": "bfc8b0ec473264de9018e729b47befa957fc49259a3a9937e54bf9d350f454f0",
+      "image_sha256": "8aef543b82fadfcb551ecb46c9111ec9cc923e693c137418784d1290b276ac31"
+    },
+    {
+      "id": 1884500100312,
+      "name": "Salamanca UDS B",
+      "group": 8,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-8/clasificacion",
+      "source_club": "Salamanca UDS B",
+      "source_image": "https://apiv3.apifootball.com/badges/7098_salamanca-uds-ii.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/salamanca-uds-ii-af7098",
+      "match_score": 100,
+      "background_rgb": [
+        91,
+        127,
+        177
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100312.png",
+      "source_sha256": "78e6132b4b2566fbab177137480d0f883aee9c2370bd9a668787263c1a2d9138",
+      "image_sha256": "a9efe929703d0627788349f4d427038175ee524a88866cb30e785562460e72fa"
+    },
+    {
+      "id": 1884500100313,
+      "name": "Santa Marta",
+      "group": 8,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-8/clasificacion",
+      "source_club": "UD Santa Marta",
+      "source_image": "https://apiv3.apifootball.com/badges/7099_ud-santa-marta.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/ud-santa-marta-af7099",
+      "match_score": 100,
+      "background_rgb": [
+        92,
+        158,
+        223
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100313.png",
+      "source_sha256": "545835a99c890106b5b1b76fdbe7e274a7e70ef9e41d94958b2ab7cc6329dea7",
+      "image_sha256": "790f0e8d2ceb8537eead4a72418a629f8ff5e58226d2f2d6dfe567af92311d8d"
+    },
+    {
+      "id": 1884500100314,
+      "name": "Turégano",
+      "group": 8,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-8/clasificacion",
+      "source_club": "Turégano",
+      "source_image": "https://apiv3.apifootball.com/badges/29965_turegano.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/turegano-af29965",
+      "match_score": 100,
+      "background_rgb": [
+        91,
+        127,
+        177
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100314.png",
+      "source_sha256": "78e6132b4b2566fbab177137480d0f883aee9c2370bd9a668787263c1a2d9138",
+      "image_sha256": "a9efe929703d0627788349f4d427038175ee524a88866cb30e785562460e72fa"
+    },
+    {
+      "id": 1884500100315,
+      "name": "Unionistas B",
+      "group": 8,
+      "status": "ÉCUSSON_RÉEL_NON_VÉRIFIÉ",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-8/clasificacion",
+      "source_club": "Unionistas Salamanca B",
+      "source_image": "/crests/unionistas-salamanca-ii-af40757.png",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/unionistas-salamanca-ii-af40757",
+      "match_score": 100,
+      "reason": "Invalid URL '/crests/unionistas-salamanca-ii-af40757.png': No scheme supplied. Perhaps you meant https:///crests/unionistas-salamanca-ii-af40757.png?"
+    },
+    {
+      "id": 1884500100316,
+      "name": "Villaralbo",
+      "group": 8,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-8/clasificacion",
+      "source_club": "Villaralbo",
+      "source_image": "https://apiv3.apifootball.com/badges/32676_villaralbo.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/villaralbo-af32676",
+      "match_score": 100,
+      "background_rgb": [
+        245,
+        92,
+        114
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100316.png",
+      "source_sha256": "7496e1599c0807a7c7a5e40744a80f72e96ef2c79b649b2f3281faef020d44cf",
+      "image_sha256": "7fe0db47703cc4e7120c8e82834fabba9cb597c8e8fcfd2f23dbd7299051f158"
+    }
+  ]
+}

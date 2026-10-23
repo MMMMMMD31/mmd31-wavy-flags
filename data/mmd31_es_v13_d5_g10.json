@@ -1,0 +1,321 @@
+{
+  "group": 10,
+  "count": 18,
+  "approved_by_human": false,
+  "items": [
+    {
+      "id": 1884500100335,
+      "name": "Atlético Onubense",
+      "group": 10,
+      "status": "ÉCUSSON_RÉEL_NON_VÉRIFIÉ",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-10/clasificacion",
+      "source_club": "Atl. Onubense",
+      "source_image": "/crests/atl-onubense-af37667.png",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/atl-onubense-af37667",
+      "match_score": 100,
+      "reason": "Invalid URL '/crests/atl-onubense-af37667.png': No scheme supplied. Perhaps you meant https:///crests/atl-onubense-af37667.png?"
+    },
+    {
+      "id": 1884500100336,
+      "name": "Betis C",
+      "group": 10,
+      "status": "ÉCUSSON_RÉEL_NON_VÉRIFIÉ",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-10/clasificacion",
+      "source_club": "Betis C",
+      "source_image": "/crests/betis-c-af44083.png",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/betis-c-af44083",
+      "match_score": 100,
+      "reason": "Invalid URL '/crests/betis-c-af44083.png': No scheme supplied. Perhaps you meant https:///crests/betis-c-af44083.png?"
+    },
+    {
+      "id": 1884500100337,
+      "name": "Bollullos",
+      "group": 10,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-10/clasificacion",
+      "source_club": "Bollullos",
+      "source_image": "https://apiv3.apifootball.com/badges/27389_bollullos.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/bollullos-af27389",
+      "match_score": 100,
+      "background_rgb": [
+        201,
+        201,
+        245
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100337.png",
+      "source_sha256": "526d5b5c78079d33828fd268e05bb3372ea969e864969d13401802f80c4c50bf",
+      "image_sha256": "51868f775a02709958baefb568742c0f79fad3a18db2fb576b9c81c82e6487e2"
+    },
+    {
+      "id": 1884500100338,
+      "name": "Cádiz Mirandilla",
+      "group": 10,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-10/clasificacion",
+      "source_club": "Cádiz B",
+      "source_image": "https://apiv3.apifootball.com/badges/7170_cadiz-ii.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/cadiz-ii-af7170",
+      "match_score": 100,
+      "background_rgb": [
+        245,
+        245,
+        92
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100338.png",
+      "source_sha256": "0de46831d499a08c2ac0bc40875c02b68141440506783b483b45164398410a6b",
+      "image_sha256": "c4ff933c5f491e1e051db15f1986e8772098b9f9aface071fd5a91d59b72d888"
+    },
+    {
+      "id": 1884500100339,
+      "name": "Ceuta B",
+      "group": 10,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-10/clasificacion",
+      "source_club": "Ceuta B",
+      "source_image": "https://apiv3.apifootball.com/badges/21309_ceuta-ii.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/ceuta-ii-af21309",
+      "match_score": 100,
+      "background_rgb": [
+        245,
+        92,
+        92
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100339.png",
+      "source_sha256": "8f416c0e4e8d99e4c382ecdaa6aa578108bed8bedbe1e182e12860462a783bad",
+      "image_sha256": "607344d73b9d23f2d61bab6abfb4540bb2e8984e446372232b295d101d9d82f1"
+    },
+    {
+      "id": 1884500100340,
+      "name": "Chiclana",
+      "group": 10,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-10/clasificacion",
+      "source_club": "Chiclana",
+      "source_image": "https://apiv3.apifootball.com/badges/26839_chiclana.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/chiclana-af26839",
+      "match_score": 100,
+      "background_rgb": [
+        180,
+        114,
+        114
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100340.png",
+      "source_sha256": "8e95bd2c8c55804bd9d23ee2879639ad4986b24f6a51c56f6d81970a5dc10e3d",
+      "image_sha256": "0d1730add107f25be28c6800cb4f1bed22dc568196498ad8e7992ff5d51b2896"
+    },
+    {
+      "id": 1884500100341,
+      "name": "Conil",
+      "group": 10,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-10/clasificacion",
+      "source_club": "Conil",
+      "source_image": "https://apiv3.apifootball.com/badges/6856_conil.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/conil-af6856",
+      "match_score": 100,
+      "background_rgb": [
+        245,
+        245,
+        92
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100341.png",
+      "source_sha256": "162ebd95fbe1daf2947d0ed36ce1f72376acf88c4a0214090d262b0320c21017",
+      "image_sha256": "3f6269f2b718285f26527990f333f30d051659d3d60289976299d96b879ede59"
+    },
+    {
+      "id": 1884500100342,
+      "name": "Córdoba B",
+      "group": 10,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-10/clasificacion",
+      "source_club": "Córdoba B",
+      "source_image": "https://apiv3.apifootball.com/badges/6864_cordoba-ii.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/cordoba-ii-af6864",
+      "match_score": 100,
+      "background_rgb": [
+        136,
+        201,
+        92
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100342.png",
+      "source_sha256": "180ca573add3a2a43baf9d122a5f4365da1a57eb6bd6199e278606d2aa362709",
+      "image_sha256": "f840a84306394170d1e8c557bfe624a9a8ad03f9f45bc7b58a535f10d08cb681"
+    },
+    {
+      "id": 1884500100343,
+      "name": "Dos Hermanas",
+      "group": 10,
+      "status": "ÉCUSSON_RÉEL_NON_VÉRIFIÉ",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-10/clasificacion",
+      "source_club": "Dos Hermanas 1971",
+      "source_image": "/crests/dos-hermanas-1971-af40361.png",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/dos-hermanas-1971-af40361",
+      "match_score": 100,
+      "reason": "Invalid URL '/crests/dos-hermanas-1971-af40361.png': No scheme supplied. Perhaps you meant https:///crests/dos-hermanas-1971-af40361.png?"
+    },
+    {
+      "id": 1884500100344,
+      "name": "Egabrense",
+      "group": 10,
+      "status": "ÉCUSSON_RÉEL_NON_VÉRIFIÉ",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-10/clasificacion",
+      "source_club": "Egabrense",
+      "source_image": "/crests/egabrense-af44084.png",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/egabrense-af44084",
+      "match_score": 100,
+      "reason": "Invalid URL '/crests/egabrense-af44084.png': No scheme supplied. Perhaps you meant https:///crests/egabrense-af44084.png?"
+    },
+    {
+      "id": 1884500100345,
+      "name": "Linense",
+      "group": 10,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-10/clasificacion",
+      "source_club": "Linense",
+      "source_image": "https://apiv3.apifootball.com/badges/2000_linense.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/linense-af2000",
+      "match_score": 100,
+      "background_rgb": [
+        245,
+        245,
+        180
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100345.png",
+      "source_sha256": "790767112f8660f48f68f16c1eb60f2e76c82c26d890827da68e9ba54410b1af",
+      "image_sha256": "6d29ee4703af0541d2088cad1300f9f10bcd85756423420f298ca2d9ca010638"
+    },
+    {
+      "id": 1884500100346,
+      "name": "Pozoblanco",
+      "group": 10,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-10/clasificacion",
+      "source_club": "Pozoblanco",
+      "source_image": "https://apiv3.apifootball.com/badges/6866_pozoblanco.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/pozoblanco-af6866",
+      "match_score": 100,
+      "background_rgb": [
+        223,
+        180,
+        136
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100346.png",
+      "source_sha256": "ad69d80e08ec9f1f4ab6c58a39de9a3a64335d24ff0b099c9d41c251dfeda290",
+      "image_sha256": "7a21b32e8d4cd8410595318bcf231fbf4cd05d2699cc0a573ec437be1dcdfd0e"
+    },
+    {
+      "id": 1884500100347,
+      "name": "Racing Portuense",
+      "group": 10,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-10/clasificacion",
+      "source_club": "Racing Portuense",
+      "source_image": "https://apiv3.apifootball.com/badges/20535_racing-portuense.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/racing-portuense-af20535",
+      "match_score": 100,
+      "background_rgb": [
+        223,
+        114,
+        114
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100347.png",
+      "source_sha256": "7965c3b957464cad1e1dbdf3c840657469f32db46cbd8066b4948ea6afae39e9",
+      "image_sha256": "941433848850bc1a3b61a2a491f6eac657c99c878fe58b73fcce62efdcca8c6d"
+    },
+    {
+      "id": 1884500100348,
+      "name": "San Roque Lepe",
+      "group": 10,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-10/clasificacion",
+      "source_club": "San Roque Lepe",
+      "source_image": "https://apiv3.apifootball.com/badges/6861_san-roque-lepe.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/san-roque-lepe-af6861",
+      "match_score": 100,
+      "background_rgb": [
+        245,
+        245,
+        92
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100348.png",
+      "source_sha256": "a0191eadad63c06f43a75494bb6784295e8646340773b4aa597faeb1e9f77202",
+      "image_sha256": "2839e5e87754559fe3331eb0416ddab5a3d0ebb0c853f98a931b6ff734168a6c"
+    },
+    {
+      "id": 1884500100349,
+      "name": "Sevilla C",
+      "group": 10,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-10/clasificacion",
+      "source_club": "Sevilla C",
+      "source_image": "https://apiv3.apifootball.com/badges/6867_sevilla-iii.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/sevilla-iii-af6867",
+      "match_score": 100,
+      "background_rgb": [
+        223,
+        92,
+        92
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100349.png",
+      "source_sha256": "c87752708bd2803ac976c3e23fd552497b44845b4c85ccb5adf432ac5f4ab9f1",
+      "image_sha256": "7ac2dd3cb858f1efbc05d98419c4c9a3f1243bea780ec25343b4ef6bbf5d090b"
+    },
+    {
+      "id": 1884500100350,
+      "name": "Tomares",
+      "group": 10,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-10/clasificacion",
+      "source_club": "Tomares",
+      "source_image": "https://apiv3.apifootball.com/badges/7281_tomares.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/tomares-af7281",
+      "match_score": 100,
+      "background_rgb": [
+        92,
+        114,
+        180
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100350.png",
+      "source_sha256": "a527fb51dd77895a51398f555c4cefd98974ff082c18655bbb53282e70eeebe7",
+      "image_sha256": "871eac1b0e10c5cda3be6eb3174b68d49653dda13a1553511c0b4e2077fe0c6b"
+    },
+    {
+      "id": 1884500100351,
+      "name": "Utrera",
+      "group": 10,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-10/clasificacion",
+      "source_club": "Utrera",
+      "source_image": "https://apiv3.apifootball.com/badges/6863_utrera.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/utrera-af6863",
+      "match_score": 100,
+      "background_rgb": [
+        245,
+        245,
+        92
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100351.png",
+      "source_sha256": "1e6a53b2d7291a48d782137f49964da9f47b7ca8595de1f7b2597fac7312362f",
+      "image_sha256": "6f4e0cc9767d084163da3a512c2a0ad8a5c095fe4e9901bd289fcb42438cfb50"
+    },
+    {
+      "id": 1884500100352,
+      "name": "Xerez Deportivo",
+      "group": 10,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-10/clasificacion",
+      "source_club": "Xerez Deportivo",
+      "source_image": "https://apiv3.apifootball.com/badges/6851_xerez-deportivo.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/xerez-deportivo-53204",
+      "match_score": 100,
+      "background_rgb": [
+        92,
+        136,
+        180
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100352.png",
+      "source_sha256": "89a2bedfd5793f120c5c0a48fdfb1373d43e5b58e2890f7e72392270849f9a41",
+      "image_sha256": "59abcce70123b113c3ce537690991ee71741f2434cc20262ea1239210d958c18"
+    }
+  ]
+}

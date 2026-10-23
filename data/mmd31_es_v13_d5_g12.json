@@ -1,0 +1,303 @@
+{
+  "group": 12,
+  "count": 18,
+  "approved_by_human": false,
+  "items": [
+    {
+      "id": 1884500100371,
+      "name": "Añaza",
+      "group": 12,
+      "status": "ÉCUSSON_RÉEL_NON_VÉRIFIÉ",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-12/clasificacion",
+      "source_club": "Anaza (Esp)",
+      "source_image": "/crests/anaza-esp-af43745.png",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/anaza-esp-af43745",
+      "match_score": 100,
+      "reason": "Invalid URL '/crests/anaza-esp-af43745.png': No scheme supplied. Perhaps you meant https:///crests/anaza-esp-af43745.png?"
+    },
+    {
+      "id": 1884500100372,
+      "name": "Estrella",
+      "group": 12,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-12/clasificacion",
+      "source_club": "Estrella",
+      "source_image": "https://apiv3.apifootball.com/badges/27415_estrella.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/estrella-af27415",
+      "match_score": 100,
+      "background_rgb": [
+        92,
+        180,
+        92
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100372.png",
+      "source_sha256": "81c5b169a40c4eb90d8622df9086e62d4c24b87811d5c800dcc4799dedd11dee",
+      "image_sha256": "a3c8672833ab9f39c53d11efcea3eb5221c72ee81f4bea276311f98a10704065"
+    },
+    {
+      "id": 1884500100373,
+      "name": "Laguna",
+      "group": 12,
+      "status": "ÉCUSSON_RÉEL_NON_VÉRIFIÉ",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-12/clasificacion",
+      "reason": "image missing or name not confidently matched"
+    },
+    {
+      "id": 1884500100374,
+      "name": "Lanzarote",
+      "group": 12,
+      "status": "ÉCUSSON_RÉEL_NON_VÉRIFIÉ",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-12/clasificacion",
+      "source_club": "Lanzarote",
+      "source_image": "/crests/lanzarote-af7139.png",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/lanzarote-af7139",
+      "match_score": 100,
+      "reason": "Invalid URL '/crests/lanzarote-af7139.png': No scheme supplied. Perhaps you meant https:///crests/lanzarote-af7139.png?"
+    },
+    {
+      "id": 1884500100375,
+      "name": "Las Palmas C",
+      "group": 12,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-12/clasificacion",
+      "source_club": "Las Palmas C",
+      "source_image": "https://apiv3.apifootball.com/badges/7138_las-palmas-iii.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/las-palmas-iii-af7138",
+      "match_score": 100,
+      "background_rgb": [
+        91,
+        127,
+        177
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100375.png",
+      "source_sha256": "78e6132b4b2566fbab177137480d0f883aee9c2370bd9a668787263c1a2d9138",
+      "image_sha256": "a9efe929703d0627788349f4d427038175ee524a88866cb30e785562460e72fa"
+    },
+    {
+      "id": 1884500100376,
+      "name": "Los Llanos de Aridane",
+      "group": 12,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-12/clasificacion",
+      "source_club": "Los Llanos",
+      "source_image": "https://apiv3.apifootball.com/badges/32986_los-llanos.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/los-llanos-af32986",
+      "match_score": 100,
+      "background_rgb": [
+        92,
+        180,
+        136
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100376.png",
+      "source_sha256": "44298b903197a3e013d7363a41035020269a796a9bf6af44ccdda79340cb73a8",
+      "image_sha256": "c043a397eebe49b780bbe2e0188e0c50b0de63064d2e1b25e0f618cad953fac5"
+    },
+    {
+      "id": 1884500100377,
+      "name": "Marino",
+      "group": 12,
+      "status": "ÉCUSSON_RÉEL_NON_VÉRIFIÉ",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-12/clasificacion",
+      "source_club": "CD Marino",
+      "source_image": "/crests/cd-marino-af7167.png",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/cd-marino-af7167",
+      "match_score": 100,
+      "reason": "Invalid URL '/crests/cd-marino-af7167.png': No scheme supplied. Perhaps you meant https:///crests/cd-marino-af7167.png?"
+    },
+    {
+      "id": 1884500100378,
+      "name": "Mensajero",
+      "group": 12,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-12/clasificacion",
+      "source_club": "Mensajero",
+      "source_image": "https://apiv3.apifootball.com/badges/7145_mensajero.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/mensajero-af7145",
+      "match_score": 100,
+      "background_rgb": [
+        245,
+        92,
+        92
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100378.png",
+      "source_sha256": "3ff8bf8697bfcfa351394e90ff50e075c60576804d06ee0bc42aeb6c462b3e30",
+      "image_sha256": "9eea86982e2b89b37afcc6c3b4ef69c647750c69666a8581ffa1ec97b432fa37"
+    },
+    {
+      "id": 1884500100379,
+      "name": "Panadería Pulido",
+      "group": 12,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-12/clasificacion",
+      "source_club": "Panadería Pulido",
+      "source_image": "https://apiv3.apifootball.com/badges/7136_panaderia-pulido.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/panaderia-pulido-af7136",
+      "match_score": 100,
+      "background_rgb": [
+        223,
+        114,
+        114
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100379.png",
+      "source_sha256": "f2cb62e2a37b9d1cb6b81e3e95008732891a5611c7a00c164aece3ff375c3cfc",
+      "image_sha256": "07cfe179d66ee4511e7026a6c1ed97b61f6d57d93ed580eecba21b7c54f45a56"
+    },
+    {
+      "id": 1884500100380,
+      "name": "Playas de Sotavento",
+      "group": 12,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-12/clasificacion",
+      "source_club": "Playas Sotavento",
+      "source_image": "https://apiv3.apifootball.com/badges/37888_playas-sotavento.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/playas-sotavento-af37888",
+      "match_score": 100,
+      "background_rgb": [
+        91,
+        127,
+        177
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100380.png",
+      "source_sha256": "78e6132b4b2566fbab177137480d0f883aee9c2370bd9a668787263c1a2d9138",
+      "image_sha256": "a9efe929703d0627788349f4d427038175ee524a88866cb30e785562460e72fa"
+    },
+    {
+      "id": 1884500100381,
+      "name": "Real Unión Tenerife",
+      "group": 12,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-12/clasificacion",
+      "source_club": "Real Unión de Tenerife",
+      "source_image": "https://apiv3.apifootball.com/badges/29449_real-union-de-tenerife.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/real-union-de-tenerife-af29449",
+      "match_score": 100,
+      "background_rgb": [
+        91,
+        127,
+        177
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100381.png",
+      "source_sha256": "78e6132b4b2566fbab177137480d0f883aee9c2370bd9a668787263c1a2d9138",
+      "image_sha256": "a9efe929703d0627788349f4d427038175ee524a88866cb30e785562460e72fa"
+    },
+    {
+      "id": 1884500100382,
+      "name": "San Bartolomé",
+      "group": 12,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-12/clasificacion",
+      "source_club": "San Bartolomé",
+      "source_image": "https://apiv3.apifootball.com/badges/32730_san-bartolome.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/san-bartolome-af32730",
+      "match_score": 100,
+      "background_rgb": [
+        114,
+        114,
+        158
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100382.png",
+      "source_sha256": "4371ae86cd8d1de794e005a7c0c34eaa0e2f34dfc07104ccd9e4f823e3944555",
+      "image_sha256": "b141bd60533e43fd9fe187d434d589209af39bf6e1ca9bb9cae6279d864fe68c"
+    },
+    {
+      "id": 1884500100383,
+      "name": "San Fernando",
+      "group": 12,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-12/clasificacion",
+      "source_club": "San Fernando CDI",
+      "source_image": "https://apiv3.apifootball.com/badges/7159_san-fernando-cdi.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/san-fernando-cdi-af7159",
+      "match_score": 88.0,
+      "background_rgb": [
+        92,
+        114,
+        201
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100383.png",
+      "source_sha256": "1a1a3e7bc388ff8d22c55b01f4578cf806257689278394425e12b5cdb9f376e5",
+      "image_sha256": "0500c2dc6263d4b16146451c544d07efb4b9c2ba1a7764e389d2763c84865055"
+    },
+    {
+      "id": 1884500100384,
+      "name": "San Miguel",
+      "group": 12,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-12/clasificacion",
+      "source_club": "San Miguel",
+      "source_image": "https://apiv3.apifootball.com/badges/921_san-miguel.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/san-miguel-af921",
+      "match_score": 100,
+      "background_rgb": [
+        92,
+        180,
+        114
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100384.png",
+      "source_sha256": "45be3e585d89a2aa1b1fc7be1a30f4f859b1dad7a3bc80a3d8cf10c606a58eff",
+      "image_sha256": "11ca90fa3af575a11745b53e83f265a5a89ea300bcd184b6582e013029f78413"
+    },
+    {
+      "id": 1884500100385,
+      "name": "Tenerife C",
+      "group": 12,
+      "status": "ÉCUSSON_RÉEL_NON_VÉRIFIÉ",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-12/clasificacion",
+      "source_club": "Tenerife C",
+      "source_image": "/crests/tenerife-c-af40664.png",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/tenerife-c-af40664",
+      "match_score": 100,
+      "reason": "Invalid URL '/crests/tenerife-c-af40664.png': No scheme supplied. Perhaps you meant https:///crests/tenerife-c-af40664.png?"
+    },
+    {
+      "id": 1884500100386,
+      "name": "Unión Sur Yaiza",
+      "group": 12,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-12/clasificacion",
+      "source_club": "Unión Sur Yaiza",
+      "source_image": "https://apiv3.apifootball.com/badges/21343_union-sur-yaiza.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/union-sur-yaiza-af21343",
+      "match_score": 100,
+      "background_rgb": [
+        245,
+        223,
+        201
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100386.png",
+      "source_sha256": "40a70e7bf9c5922f4eca27f6ab9845b8241f7c27c0639d3d6adee1ba24656742",
+      "image_sha256": "e4f2fd645a49b37d1d948caedf22193f44473392ea86acef8effc02589e58f05"
+    },
+    {
+      "id": 1884500100387,
+      "name": "Villa de Santa Brígida",
+      "group": 12,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-12/clasificacion",
+      "source_club": "Villa Santa Brígida",
+      "source_image": "https://apiv3.apifootball.com/badges/7142_villa-santa-brigida.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/villa-santa-brigida-af7142",
+      "match_score": 100,
+      "background_rgb": [
+        201,
+        180,
+        114
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100387.png",
+      "source_sha256": "a5f8304a7fd26b0e41b764c8d53f6ec810ded900fc040b2eabe88778428119c1",
+      "image_sha256": "6c7b368ef199c0a095f9a07d4d387ba67499b23aa2d5c4f933ee417ed6d0a3fa"
+    },
+    {
+      "id": 1884500100388,
+      "name": "Villaverde Norte",
+      "group": 12,
+      "status": "ÉCUSSON_RÉEL_NON_VÉRIFIÉ",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-12/clasificacion",
+      "source_club": "Villaverde Norte",
+      "source_image": "/crests/villaverde-norte-af44169.png",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/villaverde-norte-af44169",
+      "match_score": 100,
+      "reason": "Invalid URL '/crests/villaverde-norte-af44169.png': No scheme supplied. Perhaps you meant https:///crests/villaverde-norte-af44169.png?"
+    }
+  ]
+}
