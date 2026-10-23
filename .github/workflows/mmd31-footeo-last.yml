@@ -1,0 +1,31 @@
+name: MMD31 - Club Footeo authentic badges RC Saint-Pierre AF Possession
+on:
+  push:
+    branches: [mmd31-outremer-ecussons-20261023]
+    paths:
+      - 'scripts/outremer/collect_footeo_last.py'
+      - '.github/workflows/mmd31-footeo-last.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  recover:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: {persist-credentials: true}
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.11'}
+      - run: python -m pip install requests beautifulsoup4 pillow
+      - run: python scripts/outremer/collect_footeo_last.py
+      - name: Save audited results and original crests
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add flags/clubs/standard/outremer-2026-27 audit/outremer-2026-27/lot9_rc_saint_pierre_af_possession.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Publish additional genuine overseas football club crests"
+            git pull --rebase origin "$GITHUB_REF_NAME"
+            git push origin "HEAD:refs/heads/$GITHUB_REF_NAME"
+          fi
