@@ -205,9 +205,20 @@
       "id": 1884500100328,
       "name": "Málaga Juniors",
       "group": 9,
-      "status": "ÉCUSSON_RÉEL_NON_VÉRIFIÉ",
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
       "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-9/clasificacion",
-      "reason": "image missing or name not confidently matched"
+      "source_image": "https://futbolme.com/static/img/club/escudo2097.png",
+      "source_team_page": "https://futbolme.com/resultados-directo/equipo/malaga-juniors-fc/1034/clasificacion/",
+      "source_club": "Málaga Juniors",
+      "source_sha256": "fa1d4d088c378ef3d42e29ecfab75c9512be5c226d6dfa345c2ba5eaef06005e",
+      "background_rgb": [
+        92,
+        114,
+        136
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100328.png",
+      "image_sha256": "acff3b5697a1c68ecb149c9386a06f922079cfca52fa45e5bbff6eac7d274b48",
+      "match_score": 100
     },
     {
       "id": 1884500100329,

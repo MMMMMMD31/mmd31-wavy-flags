@@ -159,13 +159,20 @@
       "id": 1884500100235,
       "name": "Erandio",
       "group": 4,
-      "status": "ÉCUSSON_RÉEL_NON_VÉRIFIÉ",
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
       "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-4/clasificacion",
       "source_club": "Erandio",
-      "source_image": "https://apiv3.apifootball.com/badges/43992_erandio.jpg",
-      "source_team_page": "https://www.resultadosrfef.es/equipo/erandio-af43992",
+      "source_image": "https://www.erandioclub.com/imagenes/miequipo/escudo.webp",
+      "source_team_page": "https://www.erandioclub.com/",
       "match_score": 100,
-      "reason": "404 Client Error: Not Found for url: https://apiv3.apifootball.com/badges/43992_erandio.jpg"
+      "source_sha256": "ec6fac2bfa4d5977d436453c395a3497b6a6771e2baa3652e2f68289f3c88e32",
+      "background_rgb": [
+        92,
+        92,
+        201
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100235.png",
+      "image_sha256": "e71d9fdce325a7b80f282a3b5e0f5cf776c7e2e06aaf71a671db18560eefeaf9"
     },
     {
       "id": 1884500100236,

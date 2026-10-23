@@ -178,13 +178,20 @@
       "id": 1884500100182,
       "name": "Lalín",
       "group": 1,
-      "status": "ÉCUSSON_RÉEL_NON_VÉRIFIÉ",
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
       "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-1/clasificacion",
       "source_club": "Lalín",
-      "source_image": "https://apiv3.apifootball.com/badges/44064_lalin.jpg",
-      "source_team_page": "https://www.resultadosrfef.es/equipo/lalin-af44064",
+      "source_image": "https://futbolme.com/static/img/club/escudo14082.png",
+      "source_team_page": "https://futbolme.com/resultados-directo/equipo/cd-lalin/271/calendario/",
       "match_score": 100,
-      "reason": "404 Client Error: Not Found for url: https://apiv3.apifootball.com/badges/44064_lalin.jpg"
+      "source_sha256": "73887d7d5801b71adad7788ff192e8237ac3a7a85673d1c6eeb6389af526519a",
+      "background_rgb": [
+        223,
+        114,
+        114
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100182.png",
+      "image_sha256": "0c3ed2f3b8625ae78070bd3fe63825a8ac484cbc7d7fde9aa65a6f0981dfb2b5"
     },
     {
       "id": 1884500100183,
@@ -228,13 +235,20 @@
       "id": 1884500100185,
       "name": "Portonovo",
       "group": 1,
-      "status": "ÉCUSSON_RÉEL_NON_VÉRIFIÉ",
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
       "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-1/clasificacion",
       "source_club": "Portonovo",
-      "source_image": "https://apiv3.apifootball.com/badges/44065_portonovo.jpg",
-      "source_team_page": "https://www.resultadosrfef.es/equipo/portonovo-af44065",
+      "source_image": "https://futbolme.com/static/img/club/escudo4572.png",
+      "source_team_page": "https://futbolme.com/resultados-directo/equipo/portonovo-sd/540/clasificacion/",
       "match_score": 100,
-      "reason": "404 Client Error: Not Found for url: https://apiv3.apifootball.com/badges/44065_portonovo.jpg"
+      "source_sha256": "48e67e6afa20f370e7d9fba7f05f94397b56ae7c9cd679bf105d38789c9dbee1",
+      "background_rgb": [
+        92,
+        180,
+        245
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100185.png",
+      "image_sha256": "e6bf76c00a0b20331b9fbf6e4390eb74abcd35f65b69f15903d5e2f0da8a4659"
     },
     {
       "id": 1884500100186,

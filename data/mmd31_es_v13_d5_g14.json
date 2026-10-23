@@ -178,9 +178,20 @@
       "id": 1884500100416,
       "name": "Montijo",
       "group": 14,
-      "status": "ÉCUSSON_RÉEL_NON_VÉRIFIÉ",
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
       "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-14/clasificacion",
-      "reason": "image missing or name not confidently matched"
+      "source_image": "https://futbolme.com/static/img/club/escudo3258.png",
+      "source_team_page": "https://futbolme.com/resultados-directo/equipo/ud-montijo/2243/calendario",
+      "source_club": "Montijo",
+      "source_sha256": "16fdab8951ed2be7b1879c17e8d467b3876d02d81b50165bf09abfa3b81b81db",
+      "background_rgb": [
+        223,
+        92,
+        92
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100416.png",
+      "image_sha256": "362bc7782010153354cb269ad0ce54a2e8b6f843574f2a6621207d2be1a6141e",
+      "match_score": 100
     },
     {
       "id": 1884500100417,
