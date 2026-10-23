@@ -190,9 +190,20 @@
       "id": 1884500100183,
       "name": "Montañeros",
       "group": 1,
-      "status": "ÉCUSSON_RÉEL_NON_VÉRIFIÉ",
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
       "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-1/clasificacion",
-      "reason": "image missing or name not confidently matched"
+      "source_club": "Atlético Coruña",
+      "source_image": "https://www.resultadosrfef.es/crests/atletico-coruna-af40746.png",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/atletico-coruna-af40746",
+      "match_score": 100,
+      "background_rgb": [
+        180,
+        114,
+        158
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100183.png",
+      "source_sha256": "39c2b8fe7529695e9f30105aadf09fddbc763b9f21db6e8c547c75178377d8e6",
+      "image_sha256": "7dd6022c3139654e52b84adbd840c3a1a8e52891a81010ecc0c507901d8b7416"
     },
     {
       "id": 1884500100184,
