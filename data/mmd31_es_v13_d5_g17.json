@@ -273,9 +273,20 @@
       "id": 1884500100475,
       "name": "Internacional Huesca",
       "group": 17,
-      "status": "ÉCUSSON_RÉEL_NON_VÉRIFIÉ",
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
       "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-17/clasificacion",
-      "reason": "image missing or name not confidently matched"
+      "source_club": "CD Sietamo",
+      "source_image": "https://www.resultadosrfef.es/crests/cd-sietamo-af44111.png",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/cd-sietamo-af44111",
+      "match_score": 100,
+      "background_rgb": [
+        91,
+        127,
+        177
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100475.png",
+      "source_sha256": "53adcd652bad1a58bcbe4a654fd168cf14780b4856f07ebfb4ca1c32526a06c1",
+      "image_sha256": "5613d33ac617008de221ec6a53208753b4b5c04e88556a9de606873a0a8f2eb8"
     },
     {
       "id": 1884500100476,
