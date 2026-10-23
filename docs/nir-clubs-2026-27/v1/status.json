@@ -1,7 +1,7 @@
 {
-  "created": 17,
+  "created": 38,
   "expected": 142,
-  "missing_count": 125,
+  "missing_count": 104,
   "size": [
     120,
     96
@@ -207,22 +207,38 @@
       "id": 1900231300014,
       "name": "Moyola Park",
       "division": "D2",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Moyola%20Park"
+      "status": "created",
+      "source_url": "https://r2.thesportsdb.com/images/media/team/badge/zgv7ua1625850206.png",
+      "source_kind": "visually_checked_2026_crest",
+      "background_rgb": [
+        92,
+        136,
+        179
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300014.png",
+      "sha256": "9a804fc173237a2367eacd91c61a1a364d412d2c3f9e8afbc77d78d57009f7f2"
     },
     {
       "id": 1900231300015,
       "name": "Strabane Athletic",
       "division": "D2",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Strabane%20Athletic"
+      "status": "created",
+      "source_url": "https://images.seeklogo.com/logo-png/63/1/strabane-athletic-football-club-logo-png_seeklogo-634090.png",
+      "source_kind": "visually_checked_2026_crest",
+      "background_rgb": [
+        92,
+        179,
+        223
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300015.png",
+      "sha256": "cf3eeb04b658e4df64a254e9f2dc7e428bbc1ebacf6aa50bb266d717e775c3d8"
     },
     {
       "id": 1900231300016,
       "name": "Rathfriland Rangers",
       "division": "D2",
       "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Rathfriland%20Rangers"
+      "error": "HTTPSConnectionPool(host='images.seeklogo.com', port=443): Read timed out."
     },
     {
       "id": 1900231300017,
@@ -243,22 +259,46 @@
       "id": 1900231300018,
       "name": "Annagh United",
       "division": "D2",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Annagh%20United"
+      "status": "created",
+      "source_url": "https://portadowncu.com/media/sveo34lr/size-for-news-on-website.png?anchor=center&height=440&mode=crop&width=620",
+      "source_kind": "visually_checked_2026_crest",
+      "background_rgb": [
+        157,
+        92,
+        92
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300018.png",
+      "sha256": "fbfead059b3957d1664e1cdbc7a9c9ef167e76cec1595dc36ef9b0210ef84f53"
     },
     {
       "id": 1900231300019,
       "name": "Loughgall",
       "division": "D2",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Loughgall"
+      "status": "created",
+      "source_url": "https://r2.thesportsdb.com/images/media/team/badge/9q1lxc1688725198.png",
+      "source_kind": "visually_checked_2026_crest",
+      "background_rgb": [
+        114,
+        136,
+        201
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300019.png",
+      "sha256": "ede9b6cfb80dbc86d9532b3a4a87b41a9cc5cd593fea9947fce37c5d2746beea"
     },
     {
       "id": 1900231300020,
       "name": "Harland & Wolff Welders",
       "division": "D2",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Harland%20%26%20Wolff%20Welders"
+      "status": "created",
+      "source_url": "https://r2.thesportsdb.com/images/media/team/badge/kpik681690870039.png",
+      "source_kind": "visually_checked_2026_crest",
+      "background_rgb": [
+        244,
+        223,
+        136
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300020.png",
+      "sha256": "7d21c3648619bbfdef36b3770ba7c46a0a9784afe5be5a98f5a3444a41ab5a19"
     },
     {
       "id": 1900231300021,
@@ -279,15 +319,31 @@
       "id": 1900231300022,
       "name": "Queen’s University",
       "division": "D2",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Queen%E2%80%99s%20University"
+      "status": "created",
+      "source_url": "https://images.squarespace-cdn.com/content/v1/5f3bed5f529bfc793becac0b/b12ec1a6-e2f6-49a9-a78c-ee657a0fbd5b/QUB%2Blogo.jpg",
+      "source_kind": "visually_checked_2026_crest",
+      "background_rgb": [
+        92,
+        92,
+        136
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300022.png",
+      "sha256": "b64652848c6e502c59dc8847d83910ae714e0c48322baaa7c751090539bf278f"
     },
     {
       "id": 1900231300023,
       "name": "Newington",
       "division": "D2",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Newington"
+      "status": "created",
+      "source_url": "https://images.seeklogo.com/logo-png/25/1/newington-football-club-logo-png_seeklogo-253281.png",
+      "source_kind": "visually_checked_2026_crest",
+      "background_rgb": [
+        136,
+        201,
+        136
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300023.png",
+      "sha256": "ae020f2ef51c78ba9cc6c5729f6037014d9574380d9e2262a05c5aa70400866a"
     },
     {
       "id": 1900231300024,
@@ -324,105 +380,217 @@
       "name": "Armagh City",
       "division": "D2",
       "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Armagh%20City"
+      "error": "HTTPSConnectionPool(host='images.seeklogo.com', port=443): Read timed out. (read timeout=19)"
     },
     {
       "id": 1900231300027,
       "name": "Dundela",
       "division": "D2",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Dundela"
+      "status": "created",
+      "source_url": "https://www.futbox.com/img/v1/71e/3b8/9f1/b9f/5f5dcddaef8bfe1ea60f_zoom.png",
+      "source_kind": "visually_checked_2026_crest",
+      "background_rgb": [
+        179,
+        223,
+        201
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300027.png",
+      "sha256": "4e613d3f57be8f196780f5777bc2126d3d2aa19bd43c9eb83b44d36f0f257591"
     },
     {
       "id": 1900231300028,
       "name": "Ballinamallard United",
       "division": "D2",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Ballinamallard%20United"
+      "status": "created",
+      "source_url": "https://images.seeklogo.com/logo-png/29/1/fc-ballinamallard-united-logo-png_seeklogo-291464.png",
+      "source_kind": "visually_checked_2026_crest",
+      "background_rgb": [
+        136,
+        136,
+        179
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300028.png",
+      "sha256": "f65c037318333e612912ae557126f91e08c77a8e124090626af8f0ed8188130c"
     },
     {
       "id": 1900231300029,
       "name": "Portstewart",
       "division": "D3",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Portstewart"
+      "status": "created",
+      "source_url": "https://images.seeklogo.com/logo-png/63/1/portstewart-football-club-logo-png_seeklogo-634098.png",
+      "source_kind": "visually_checked_2026_crest",
+      "background_rgb": [
+        92,
+        157,
+        223
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300029.png",
+      "sha256": "3e1c1d471584cb71202529078a8df17e8269bcce47f356f4c5142e6d61e90a9d"
     },
     {
       "id": 1900231300030,
       "name": "St James Swifts",
       "division": "D3",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=St%20James%20Swifts"
+      "status": "created",
+      "source_url": "https://images.seeklogo.com/logo-png/63/1/st-james-swifts-football-club-logo-png_seeklogo-634117.png",
+      "source_kind": "visually_checked_2026_crest",
+      "background_rgb": [
+        92,
+        179,
+        114
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300030.png",
+      "sha256": "25b3c99d417869c5e33f3cfdefefbc69c30efc9f1afcb1ed12cd7beab3bd54b2"
     },
     {
       "id": 1900231300031,
       "name": "Dergview",
       "division": "D3",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Dergview"
+      "status": "created",
+      "source_url": "https://seeklogo.com/images/D/dergview-fc-logo-842F4CED8E-seeklogo.com.png",
+      "source_kind": "visually_checked_2026_crest",
+      "background_rgb": [
+        223,
+        114,
+        114
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300031.png",
+      "sha256": "2ba8da9eb94302595386b54c8abbca65a78517e163290faf23226c39c4f95961"
     },
     {
       "id": 1900231300032,
       "name": "Ballyclare Comrades",
       "division": "D3",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Ballyclare%20Comrades"
+      "status": "created",
+      "source_url": "https://cdn.freebiesupply.com/logos/large/2x/ballyclare-comrades-logo-png-transparent.png",
+      "source_kind": "visually_checked_2026_crest",
+      "background_rgb": [
+        223,
+        114,
+        114
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300032.png",
+      "sha256": "c06f8b2bd10fc955b3372fb5620f307c57164154b753028522bd82157ca88604"
     },
     {
       "id": 1900231300033,
       "name": "Ballymacash Rangers",
       "division": "D3",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Ballymacash%20Rangers"
+      "status": "created",
+      "source_url": "https://r2.thesportsdb.com/images/media/team/badge/l69nul1655569382.png",
+      "source_kind": "visually_checked_2026_crest",
+      "background_rgb": [
+        136,
+        136,
+        179
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300033.png",
+      "sha256": "20652ee781da4a7356004dcbc140a50c13fce53ef038eb64a0a5a7e0930ccaec"
     },
     {
       "id": 1900231300034,
       "name": "Lisburn Distillery",
       "division": "D3",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Lisburn%20Distillery"
+      "status": "created",
+      "source_url": "https://www.futbox.com/img/v1/d9c/a46/9eb/7da/541d5807294ad9d76d57_zoom.png",
+      "source_kind": "visually_checked_2026_crest",
+      "background_rgb": [
+        114,
+        179,
+        223
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300034.png",
+      "sha256": "cda5efb7e827acc35d1b0ad34192115fcb232cb00896684cd29bcfb252cb4d79"
     },
     {
       "id": 1900231300035,
       "name": "Dollingstown",
       "division": "D3",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Dollingstown"
+      "status": "created",
+      "source_url": "https://r2.thesportsdb.com/images/media/team/badge/i1edan1625850188.png",
+      "source_kind": "visually_checked_2026_crest",
+      "background_rgb": [
+        114,
+        136,
+        201
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300035.png",
+      "sha256": "ec7246a90357ba65fd52d7fb7be662cd6f935fd9a232f025e47386a1ff06dab7"
     },
     {
       "id": 1900231300036,
       "name": "Rosario Youth",
       "division": "D3",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Rosario%20Youth"
+      "status": "created",
+      "source_url": "https://rosarioyfc.com/wp-content/uploads/2023/09/Rosario2.png",
+      "source_kind": "visually_checked_2026_crest",
+      "background_rgb": [
+        92,
+        114,
+        179
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300036.png",
+      "sha256": "4ce5455f04e659004a5787c4147dbc2add9bf46141c184325dc96fd2686e16e3"
     },
     {
       "id": 1900231300037,
       "name": "Oxford Sunnyside",
       "division": "D3",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Oxford%20Sunnyside"
+      "status": "created",
+      "source_url": "https://playr-fit.com/cdn/shop/collections/OXFORD-SUNNYSIDE-FC-Crest.png?v=1729077418",
+      "source_kind": "visually_checked_2026_crest",
+      "background_rgb": [
+        244,
+        244,
+        92
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300037.png",
+      "sha256": "5978f1a449d3ec9642aab506e989da91db5942a7a01321bfcb2528f1af0da72c"
     },
     {
       "id": 1900231300038,
       "name": "Knockbreda",
       "division": "D3",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Knockbreda"
+      "status": "created",
+      "source_url": "https://images.seeklogo.com/logo-png/63/1/knockbreda-football-club-logo-png_seeklogo-634097.png",
+      "source_kind": "visually_checked_2026_crest",
+      "background_rgb": [
+        244,
+        223,
+        114
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300038.png",
+      "sha256": "5439ab1601253c275cf60984ab56e79ab3c539522fc37ef4b51e17e917da2825"
     },
     {
       "id": 1900231300039,
       "name": "Coagh United",
       "division": "D3",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Coagh%20United"
+      "status": "created",
+      "source_url": "https://r2.thesportsdb.com/images/media/team/badge/a49nie1688371599.png",
+      "source_kind": "visually_checked_2026_crest",
+      "background_rgb": [
+        244,
+        223,
+        92
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300039.png",
+      "sha256": "39b486578fad8348f82d16d7f05c8a9816365f500bd3165c2c81bf301ad0eb3e"
     },
     {
       "id": 1900231300040,
       "name": "Banbridge Town",
       "division": "D3",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Banbridge%20Town"
+      "status": "created",
+      "source_url": "https://r2.thesportsdb.com/images/media/team/badge/oxvrnv1625850180.png",
+      "source_kind": "visually_checked_2026_crest",
+      "background_rgb": [
+        223,
+        92,
+        92
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300040.png",
+      "sha256": "d64a018f09d6f1a4405170d01c2b3f66f386a51661ab8baace7beb21f214d885"
     },
     {
       "id": 1900231300041,
