@@ -1,0 +1,42 @@
+{
+  "catalogue": "https://www.thenafl.co.uk/data/clubs-dev.json",
+  "name": "St Patricks Y.M. F.C.",
+  "slug": "st-patricks-ym",
+  "club_id": 77,
+  "official_badge": "st-patricks-ym.png",
+  "source": "https://tamhi.org/wp-content/uploads/2024/05/St-Patrick-YM.png",
+  "source_club_page": "https://tamhi.org/sports-club/st-patricks-ym-fc/",
+  "original_dimensions": [
+    232,
+    300
+  ],
+  "image_sha256": "5aee81ba61b242c6cd4c1293e83c70740d5b70e3664e641741d3834fe9171c13",
+  "output": [
+    {
+      "id": 1900231300166,
+      "path": "docs/nir-clubs-2026-27/v13-extension/1900231300166.png",
+      "sha256": "9c75d55caa7314acceb3d139b366d14b8fe47c6a766df2bbb3f1323f6d91fd7f",
+      "source": "https://tamhi.org/wp-content/uploads/2024/05/St-Patrick-YM.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "identity": "St Patricks Y.M. F.C.",
+      "status": "PUBLIE",
+      "review": "official NAFL club identity and colors; TAMHI page explicit club image (visual identity check required)"
+    },
+    {
+      "id": 1900231300255,
+      "path": "docs/nir-clubs-2026-27/v13-extension/1900231300255.png",
+      "sha256": "9c75d55caa7314acceb3d139b366d14b8fe47c6a766df2bbb3f1323f6d91fd7f",
+      "source": "https://tamhi.org/wp-content/uploads/2024/05/St-Patrick-YM.png",
+      "dimensions": [
+        120,
+        96
+      ],
+      "identity": "St Patricks Y.M. F.C.",
+      "status": "PUBLIE",
+      "review": "official NAFL club identity and colors; TAMHI page explicit club image (visual identity check required)"
+    }
+  ]
+}
