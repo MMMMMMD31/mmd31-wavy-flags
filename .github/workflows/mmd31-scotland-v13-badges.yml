@@ -1,0 +1,34 @@
+name: MMD31 Scotland V13 genuine badge pipeline
+on:
+  push:
+    branches: [mmd31-scotland-2627-v13-badges]
+    paths:
+      - .github/workflows/mmd31-scotland-v13-badges.yml
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 22
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: mmd31-scotland-2627-v13-badges
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install image tools
+        run: pip install requests pillow cairosvg
+      - name: Generate authentic crests where confident matches exist
+        run: python scotland-2026-27-v13/generate_badges.py
+      - name: Save verified-size PNGs and source manifest on test branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/club-flags/scotland-2627/ scotland-2026-27-v13/badge-build-report.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Build Scottish 2026-27 PNG 120x96 candidate crests with source audit"
+            git push
+          fi
