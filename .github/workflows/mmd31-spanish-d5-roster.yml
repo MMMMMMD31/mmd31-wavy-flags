@@ -4,6 +4,7 @@ on:
     branches: [mmd31-spanish-d5-2026-27]
     paths:
       - 'tools/get_spanish_d5_roster_2026_27.py'
+      - 'tools/debug_spanish_d5_images.py'
       - '.github/workflows/mmd31-spanish-d5-roster.yml'
   workflow_dispatch:
 permissions:
@@ -18,6 +19,8 @@ jobs:
         with:
           python-version: '3.11'
       - run: pip install requests beautifulsoup4
+      - name: Inspect D5 Wikipedia image map
+        run: python tools/debug_spanish_d5_images.py
       - name: Extract current 18 regional groups
         run: python tools/get_spanish_d5_roster_2026_27.py
       - name: Commit validated roster
