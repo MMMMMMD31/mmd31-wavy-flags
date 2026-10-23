@@ -70,6 +70,21 @@ def lowland_club_logo(name):
  if not page:return None
  try:
   soup=BeautifulSoup(page.text,"html.parser")
+
+ # Official league club directory exposes authentic PNGs in July 2026 media.
+ # Match an image's exact filename to the club name; never trust unrelated page photos.
+ from urllib.parse import unquote,urljoin
+ for im in soup.find_all("img"):
+  for raw in (im.get("data-src"),im.get("src")):
+   if not raw:continue
+   u=urljoin("https://slfl.co.uk/",raw)
+   path=urlparse(u).path.lower()
+   if "/uploads/" not in path or not path.endswith((".png",".webp")):continue
+   stem=unquote(urlparse(u).path.split("/")[-1]).rsplit(".",1)[0]
+   stem=re.sub(r"-\d+x\d+$","",stem)
+   if norm(stem)==query:
+    return (u,"Official Scottish Lowland Football League",name)
+
   for link in soup.find_all("a",href=True):
    href=link["href"]
    if "/clubs/" not in href or href.rstrip("/").endswith("/clubs"):continue
