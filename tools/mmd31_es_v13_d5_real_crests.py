@@ -12,7 +12,7 @@ ROOT.mkdir(parents=True,exist_ok=True)
 ROSTER=json.loads(Path("data/spanish_d5_2026_27_roster.json").read_text(encoding="utf-8"))["groups"]
 session=requests.Session()
 session.headers["User-Agent"]="MMD31 Spanish football logos 2026/27 (noncommercial game data, source verification)"
-SKIP={"9|Málaga Juniors","12|Laguna","14|Montijo","17|Internacional Huesca"}
+SKIP={"9|Málaga Juniors","12|Laguna","14|Montijo"}
 ALIASES={
 "1|Racing Villalbés":"Villalbés",
 "1|Montañeros":"Atlético Coruña",
