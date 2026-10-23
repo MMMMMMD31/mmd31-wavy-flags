@@ -1,7 +1,7 @@
 {
-  "created": 52,
+  "created": 129,
   "expected": 142,
-  "missing_count": 90,
+  "missing_count": 13,
   "size": [
     120,
     96
@@ -21,7 +21,8 @@
         244
       ],
       "path": "docs/nir-clubs-2026-27/v1/1900231300001.png",
-      "sha256": "e584c8f9e1a1453f661895c105cd48d329e0fd97ff0e9bbe6596808917395508"
+      "sha256": "e584c8f9e1a1453f661895c105cd48d329e0fd97ff0e9bbe6596808917395508",
+      "preserved_existing": true
     },
     {
       "id": 1900231300002,
@@ -36,7 +37,8 @@
         201
       ],
       "path": "docs/nir-clubs-2026-27/v1/1900231300002.png",
-      "sha256": "cd0cc8a095fbb1f87a313fc77d31afa2a67925a84a2310d651f1aa91ce5cf994"
+      "sha256": "cd0cc8a095fbb1f87a313fc77d31afa2a67925a84a2310d651f1aa91ce5cf994",
+      "preserved_existing": true
     },
     {
       "id": 1900231300003,
@@ -51,7 +53,8 @@
         114
       ],
       "path": "docs/nir-clubs-2026-27/v1/1900231300003.png",
-      "sha256": "8ef540be4080bcd408b36013fdaee28270e57c0725c6f8a0143aed28e27f4169"
+      "sha256": "8ef540be4080bcd408b36013fdaee28270e57c0725c6f8a0143aed28e27f4169",
+      "preserved_existing": true
     },
     {
       "id": 1900231300004,
@@ -66,7 +69,8 @@
         114
       ],
       "path": "docs/nir-clubs-2026-27/v1/1900231300004.png",
-      "sha256": "e8b58a1b0ca5dc96f1f980465f23a2ae4122129c8be329898cddf6c52966c981"
+      "sha256": "e8b58a1b0ca5dc96f1f980465f23a2ae4122129c8be329898cddf6c52966c981",
+      "preserved_existing": true
     },
     {
       "id": 1900231300005,
@@ -81,7 +85,8 @@
         179
       ],
       "path": "docs/nir-clubs-2026-27/v1/1900231300005.png",
-      "sha256": "955fdd70d88753603aa75604f26af09454552a94287cc60902a2f79b50733f38"
+      "sha256": "955fdd70d88753603aa75604f26af09454552a94287cc60902a2f79b50733f38",
+      "preserved_existing": true
     },
     {
       "id": 1900231300006,
@@ -96,7 +101,8 @@
         114
       ],
       "path": "docs/nir-clubs-2026-27/v1/1900231300006.png",
-      "sha256": "eedaa6d30ea70e8fbaf5b44205a2347178791a2bc52259cc89d0644021327786"
+      "sha256": "eedaa6d30ea70e8fbaf5b44205a2347178791a2bc52259cc89d0644021327786",
+      "preserved_existing": true
     },
     {
       "id": 1900231300007,
@@ -111,7 +117,8 @@
         201
       ],
       "path": "docs/nir-clubs-2026-27/v1/1900231300007.png",
-      "sha256": "3661ed68f577d02b1b894c9455d31efd918a0dcd56ff9d0f5f5749b75badbf9c"
+      "sha256": "3661ed68f577d02b1b894c9455d31efd918a0dcd56ff9d0f5f5749b75badbf9c",
+      "preserved_existing": true
     },
     {
       "id": 1900231300008,
@@ -126,7 +133,8 @@
         92
       ],
       "path": "docs/nir-clubs-2026-27/v1/1900231300008.png",
-      "sha256": "08d28a8253f7561c7a94ab7c0e4d1b5da7989eeab4298c4a56d6bf22a599e549"
+      "sha256": "08d28a8253f7561c7a94ab7c0e4d1b5da7989eeab4298c4a56d6bf22a599e549",
+      "preserved_existing": true
     },
     {
       "id": 1900231300009,
@@ -141,7 +149,8 @@
         157
       ],
       "path": "docs/nir-clubs-2026-27/v1/1900231300009.png",
-      "sha256": "17ba8736120c73deb8c5979bb5bda5fd6f63f870bdc9a78169973f7bc452abef"
+      "sha256": "17ba8736120c73deb8c5979bb5bda5fd6f63f870bdc9a78169973f7bc452abef",
+      "preserved_existing": true
     },
     {
       "id": 1900231300010,
@@ -156,7 +165,8 @@
         114
       ],
       "path": "docs/nir-clubs-2026-27/v1/1900231300010.png",
-      "sha256": "ae66fd8e982e0cd916630551a1c00b105d9f472a701b270f4449e12ccc7d8aee"
+      "sha256": "ae66fd8e982e0cd916630551a1c00b105d9f472a701b270f4449e12ccc7d8aee",
+      "preserved_existing": true
     },
     {
       "id": 1900231300011,
@@ -171,7 +181,8 @@
         92
       ],
       "path": "docs/nir-clubs-2026-27/v1/1900231300011.png",
-      "sha256": "5a35c11b755d48c26ee25d5436138a86c1e2e5d20e13bcf764375d9eb2167f59"
+      "sha256": "5a35c11b755d48c26ee25d5436138a86c1e2e5d20e13bcf764375d9eb2167f59",
+      "preserved_existing": true
     },
     {
       "id": 1900231300012,
@@ -186,7 +197,8 @@
         114
       ],
       "path": "docs/nir-clubs-2026-27/v1/1900231300012.png",
-      "sha256": "ade09b5711bebab72e68fc942450b991380fb311c2d90b590ade491852119092"
+      "sha256": "ade09b5711bebab72e68fc942450b991380fb311c2d90b590ade491852119092",
+      "preserved_existing": true
     },
     {
       "id": 1900231300013,
@@ -201,7 +213,8 @@
         223
       ],
       "path": "docs/nir-clubs-2026-27/v1/1900231300013.png",
-      "sha256": "15efe104df7843349d16b2cabc955f3b38b3bfccfc1f131c49be3039d3a33ca0"
+      "sha256": "15efe104df7843349d16b2cabc955f3b38b3bfccfc1f131c49be3039d3a33ca0",
+      "preserved_existing": true
     },
     {
       "id": 1900231300014,
@@ -216,7 +229,8 @@
         179
       ],
       "path": "docs/nir-clubs-2026-27/v1/1900231300014.png",
-      "sha256": "9a804fc173237a2367eacd91c61a1a364d412d2c3f9e8afbc77d78d57009f7f2"
+      "sha256": "9a804fc173237a2367eacd91c61a1a364d412d2c3f9e8afbc77d78d57009f7f2",
+      "preserved_existing": true
     },
     {
       "id": 1900231300015,
@@ -231,7 +245,8 @@
         223
       ],
       "path": "docs/nir-clubs-2026-27/v1/1900231300015.png",
-      "sha256": "cf3eeb04b658e4df64a254e9f2dc7e428bbc1ebacf6aa50bb266d717e775c3d8"
+      "sha256": "cf3eeb04b658e4df64a254e9f2dc7e428bbc1ebacf6aa50bb266d717e775c3d8",
+      "preserved_existing": true
     },
     {
       "id": 1900231300016,
@@ -246,7 +261,8 @@
         190
       ],
       "path": "docs/nir-clubs-2026-27/v1/1900231300016.png",
-      "sha256": "74221b3fce3506894dc7f0d277c3d923b47ada85f446c840bfcaa09e8239a436"
+      "sha256": "74221b3fce3506894dc7f0d277c3d923b47ada85f446c840bfcaa09e8239a436",
+      "preserved_existing": true
     },
     {
       "id": 1900231300017,
@@ -261,7 +277,8 @@
         157
       ],
       "path": "docs/nir-clubs-2026-27/v1/1900231300017.png",
-      "sha256": "dfdbae0544c2c229d59af734658a2988953b7018ede38738127fa846e441a9b4"
+      "sha256": "dfdbae0544c2c229d59af734658a2988953b7018ede38738127fa846e441a9b4",
+      "preserved_existing": true
     },
     {
       "id": 1900231300018,
@@ -276,7 +293,8 @@
         92
       ],
       "path": "docs/nir-clubs-2026-27/v1/1900231300018.png",
-      "sha256": "fbfead059b3957d1664e1cdbc7a9c9ef167e76cec1595dc36ef9b0210ef84f53"
+      "sha256": "fbfead059b3957d1664e1cdbc7a9c9ef167e76cec1595dc36ef9b0210ef84f53",
+      "preserved_existing": true
     },
     {
       "id": 1900231300019,
@@ -291,7 +309,8 @@
         201
       ],
       "path": "docs/nir-clubs-2026-27/v1/1900231300019.png",
-      "sha256": "ede9b6cfb80dbc86d9532b3a4a87b41a9cc5cd593fea9947fce37c5d2746beea"
+      "sha256": "ede9b6cfb80dbc86d9532b3a4a87b41a9cc5cd593fea9947fce37c5d2746beea",
+      "preserved_existing": true
     },
     {
       "id": 1900231300020,
@@ -306,7 +325,8 @@
         136
       ],
       "path": "docs/nir-clubs-2026-27/v1/1900231300020.png",
-      "sha256": "7d21c3648619bbfdef36b3770ba7c46a0a9784afe5be5a98f5a3444a41ab5a19"
+      "sha256": "7d21c3648619bbfdef36b3770ba7c46a0a9784afe5be5a98f5a3444a41ab5a19",
+      "preserved_existing": true
     },
     {
       "id": 1900231300021,
@@ -321,7 +341,8 @@
         114
       ],
       "path": "docs/nir-clubs-2026-27/v1/1900231300021.png",
-      "sha256": "c4b8c28f7cb85d2bcfc4283322d61915b8e9aea346ba12fee7241947af0c16e4"
+      "sha256": "c4b8c28f7cb85d2bcfc4283322d61915b8e9aea346ba12fee7241947af0c16e4",
+      "preserved_existing": true
     },
     {
       "id": 1900231300022,
@@ -336,7 +357,8 @@
         136
       ],
       "path": "docs/nir-clubs-2026-27/v1/1900231300022.png",
-      "sha256": "b64652848c6e502c59dc8847d83910ae714e0c48322baaa7c751090539bf278f"
+      "sha256": "b64652848c6e502c59dc8847d83910ae714e0c48322baaa7c751090539bf278f",
+      "preserved_existing": true
     },
     {
       "id": 1900231300023,
@@ -351,7 +373,8 @@
         136
       ],
       "path": "docs/nir-clubs-2026-27/v1/1900231300023.png",
-      "sha256": "ae020f2ef51c78ba9cc6c5729f6037014d9574380d9e2262a05c5aa70400866a"
+      "sha256": "ae020f2ef51c78ba9cc6c5729f6037014d9574380d9e2262a05c5aa70400866a",
+      "preserved_existing": true
     },
     {
       "id": 1900231300024,
@@ -366,7 +389,8 @@
         179
       ],
       "path": "docs/nir-clubs-2026-27/v1/1900231300024.png",
-      "sha256": "3bc5f76788d9163e591a4742e1e63648cd413a19d7cfd99fa1a46aab9a27a5f8"
+      "sha256": "3bc5f76788d9163e591a4742e1e63648cd413a19d7cfd99fa1a46aab9a27a5f8",
+      "preserved_existing": true
     },
     {
       "id": 1900231300025,
@@ -381,7 +405,8 @@
         136
       ],
       "path": "docs/nir-clubs-2026-27/v1/1900231300025.png",
-      "sha256": "4574e3fdbafea905703debb25cdfdb3a710ce867f1b1fc45df30a6d914debdd6"
+      "sha256": "4574e3fdbafea905703debb25cdfdb3a710ce867f1b1fc45df30a6d914debdd6",
+      "preserved_existing": true
     },
     {
       "id": 1900231300026,
@@ -396,7 +421,8 @@
         223
       ],
       "path": "docs/nir-clubs-2026-27/v1/1900231300026.png",
-      "sha256": "b90405c2ff44cbe83720b09254c1ee3e11ebb06f4790465682dd91be17305dff"
+      "sha256": "b90405c2ff44cbe83720b09254c1ee3e11ebb06f4790465682dd91be17305dff",
+      "preserved_existing": true
     },
     {
       "id": 1900231300027,
@@ -411,7 +437,8 @@
         201
       ],
       "path": "docs/nir-clubs-2026-27/v1/1900231300027.png",
-      "sha256": "4e613d3f57be8f196780f5777bc2126d3d2aa19bd43c9eb83b44d36f0f257591"
+      "sha256": "4e613d3f57be8f196780f5777bc2126d3d2aa19bd43c9eb83b44d36f0f257591",
+      "preserved_existing": true
     },
     {
       "id": 1900231300028,
@@ -426,7 +453,8 @@
         179
       ],
       "path": "docs/nir-clubs-2026-27/v1/1900231300028.png",
-      "sha256": "f65c037318333e612912ae557126f91e08c77a8e124090626af8f0ed8188130c"
+      "sha256": "f65c037318333e612912ae557126f91e08c77a8e124090626af8f0ed8188130c",
+      "preserved_existing": true
     },
     {
       "id": 1900231300029,
@@ -441,7 +469,8 @@
         223
       ],
       "path": "docs/nir-clubs-2026-27/v1/1900231300029.png",
-      "sha256": "3e1c1d471584cb71202529078a8df17e8269bcce47f356f4c5142e6d61e90a9d"
+      "sha256": "3e1c1d471584cb71202529078a8df17e8269bcce47f356f4c5142e6d61e90a9d",
+      "preserved_existing": true
     },
     {
       "id": 1900231300030,
@@ -456,7 +485,8 @@
         114
       ],
       "path": "docs/nir-clubs-2026-27/v1/1900231300030.png",
-      "sha256": "25b3c99d417869c5e33f3cfdefefbc69c30efc9f1afcb1ed12cd7beab3bd54b2"
+      "sha256": "25b3c99d417869c5e33f3cfdefefbc69c30efc9f1afcb1ed12cd7beab3bd54b2",
+      "preserved_existing": true
     },
     {
       "id": 1900231300031,
@@ -471,7 +501,8 @@
         114
       ],
       "path": "docs/nir-clubs-2026-27/v1/1900231300031.png",
-      "sha256": "2ba8da9eb94302595386b54c8abbca65a78517e163290faf23226c39c4f95961"
+      "sha256": "2ba8da9eb94302595386b54c8abbca65a78517e163290faf23226c39c4f95961",
+      "preserved_existing": true
     },
     {
       "id": 1900231300032,
@@ -486,7 +517,8 @@
         114
       ],
       "path": "docs/nir-clubs-2026-27/v1/1900231300032.png",
-      "sha256": "c06f8b2bd10fc955b3372fb5620f307c57164154b753028522bd82157ca88604"
+      "sha256": "c06f8b2bd10fc955b3372fb5620f307c57164154b753028522bd82157ca88604",
+      "preserved_existing": true
     },
     {
       "id": 1900231300033,
@@ -501,7 +533,8 @@
         179
       ],
       "path": "docs/nir-clubs-2026-27/v1/1900231300033.png",
-      "sha256": "20652ee781da4a7356004dcbc140a50c13fce53ef038eb64a0a5a7e0930ccaec"
+      "sha256": "20652ee781da4a7356004dcbc140a50c13fce53ef038eb64a0a5a7e0930ccaec",
+      "preserved_existing": true
     },
     {
       "id": 1900231300034,
@@ -516,7 +549,8 @@
         223
       ],
       "path": "docs/nir-clubs-2026-27/v1/1900231300034.png",
-      "sha256": "cda5efb7e827acc35d1b0ad34192115fcb232cb00896684cd29bcfb252cb4d79"
+      "sha256": "cda5efb7e827acc35d1b0ad34192115fcb232cb00896684cd29bcfb252cb4d79",
+      "preserved_existing": true
     },
     {
       "id": 1900231300035,
@@ -531,7 +565,8 @@
         201
       ],
       "path": "docs/nir-clubs-2026-27/v1/1900231300035.png",
-      "sha256": "ec7246a90357ba65fd52d7fb7be662cd6f935fd9a232f025e47386a1ff06dab7"
+      "sha256": "ec7246a90357ba65fd52d7fb7be662cd6f935fd9a232f025e47386a1ff06dab7",
+      "preserved_existing": true
     },
     {
       "id": 1900231300036,
@@ -546,7 +581,8 @@
         179
       ],
       "path": "docs/nir-clubs-2026-27/v1/1900231300036.png",
-      "sha256": "4ce5455f04e659004a5787c4147dbc2add9bf46141c184325dc96fd2686e16e3"
+      "sha256": "4ce5455f04e659004a5787c4147dbc2add9bf46141c184325dc96fd2686e16e3",
+      "preserved_existing": true
     },
     {
       "id": 1900231300037,
@@ -561,7 +597,8 @@
         92
       ],
       "path": "docs/nir-clubs-2026-27/v1/1900231300037.png",
-      "sha256": "5978f1a449d3ec9642aab506e989da91db5942a7a01321bfcb2528f1af0da72c"
+      "sha256": "5978f1a449d3ec9642aab506e989da91db5942a7a01321bfcb2528f1af0da72c",
+      "preserved_existing": true
     },
     {
       "id": 1900231300038,
@@ -576,7 +613,8 @@
         114
       ],
       "path": "docs/nir-clubs-2026-27/v1/1900231300038.png",
-      "sha256": "5439ab1601253c275cf60984ab56e79ab3c539522fc37ef4b51e17e917da2825"
+      "sha256": "5439ab1601253c275cf60984ab56e79ab3c539522fc37ef4b51e17e917da2825",
+      "preserved_existing": true
     },
     {
       "id": 1900231300039,
@@ -591,7 +629,8 @@
         92
       ],
       "path": "docs/nir-clubs-2026-27/v1/1900231300039.png",
-      "sha256": "39b486578fad8348f82d16d7f05c8a9816365f500bd3165c2c81bf301ad0eb3e"
+      "sha256": "39b486578fad8348f82d16d7f05c8a9816365f500bd3165c2c81bf301ad0eb3e",
+      "preserved_existing": true
     },
     {
       "id": 1900231300040,
@@ -606,7 +645,8 @@
         92
       ],
       "path": "docs/nir-clubs-2026-27/v1/1900231300040.png",
-      "sha256": "d64a018f09d6f1a4405170d01c2b3f66f386a51661ab8baace7beb21f214d885"
+      "sha256": "d64a018f09d6f1a4405170d01c2b3f66f386a51661ab8baace7beb21f214d885",
+      "preserved_existing": true
     },
     {
       "id": 1900231300041,
@@ -621,42 +661,83 @@
         92
       ],
       "path": "docs/nir-clubs-2026-27/v1/1900231300041.png",
-      "sha256": "d642887f458f567d388ed94b2b3241965d93202ac9b5f1e6aec953d5a7ac8de0"
+      "sha256": "d642887f458f567d388ed94b2b3241965d93202ac9b5f1e6aec953d5a7ac8de0",
+      "preserved_existing": true
     },
     {
       "id": 1900231300042,
       "name": "Dunmurry Young Men",
       "division": "D4_NAFL",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Dunmurry%20Young%20Men"
+      "status": "created",
+      "source_url": "https://www.thenafl.co.uk/images/badges/comet/9d23f9bc-1390-4242-95c0-a36e66c1cef5.jpg",
+      "source_kind": "official_nafl_comet_standings",
+      "background_rgb": [
+        114,
+        136,
+        179
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300042.png",
+      "sha256": "1cf6e34d6b26f177137e2b51ca2e9d7595190a1976c049bba2c8ec661913011a"
     },
     {
       "id": 1900231300043,
       "name": "Derriaghy Cricket Club",
       "division": "D4_NAFL",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Derriaghy%20Cricket%20Club"
+      "status": "created",
+      "source_url": "https://www.thenafl.co.uk/images/badges/comet/286c3a8c-356d-4da9-a4ba-1684c7768690.png",
+      "source_kind": "official_nafl_comet_standings",
+      "background_rgb": [
+        114,
+        157,
+        136
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300043.png",
+      "sha256": "70538a6118f2373b53ac60240e4a042fe06a1d28e5f9b2521b23594aeb8de88c"
     },
     {
       "id": 1900231300044,
       "name": "Lisburn Rangers",
       "division": "D4_NAFL",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Lisburn%20Rangers"
+      "status": "created",
+      "source_url": "https://www.thenafl.co.uk/images/badges/comet/4d22dcb0-a5f4-4ab0-9cec-31ccf1fdf38b.png",
+      "source_kind": "official_nafl_comet_standings",
+      "background_rgb": [
+        114,
+        114,
+        157
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300044.png",
+      "sha256": "f738643236276d3aedf09e4f5ec40abd9dd0c8d79044f1612de7b82aa555b8ff"
     },
     {
       "id": 1900231300045,
       "name": "Ards Rangers",
       "division": "D4_NAFL",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Ards%20Rangers"
+      "status": "created",
+      "source_url": "https://www.thenafl.co.uk/images/badges/comet/941ed04d-2f55-44c0-b145-d96190446626.png",
+      "source_kind": "official_nafl_comet_standings",
+      "background_rgb": [
+        223,
+        201,
+        114
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300045.png",
+      "sha256": "ee9984ba40dc3527dc0cbc658a24cc790504b6bc0152f6ddb04f0ec0683223cb"
     },
     {
       "id": 1900231300046,
       "name": "Dromara Village",
       "division": "D4_NAFL",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Dromara%20Village"
+      "status": "created",
+      "source_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Dromara_Village_FC.png",
+      "source_kind": "commons_identified_authentic_badge",
+      "background_rgb": [
+        114,
+        157,
+        92
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300046.png",
+      "sha256": "c275311e8ff3dc15df16136bdbde6e8a97af848cf98f82fa8a6d8671ef7d615a"
     },
     {
       "id": 1900231300047,
@@ -671,35 +752,68 @@
         92
       ],
       "path": "docs/nir-clubs-2026-27/v1/1900231300047.png",
-      "sha256": "f151710769d45dac623d9f3e06c1d2f14a2889b26b3961d3723f20e6af4cb7e7"
+      "sha256": "f151710769d45dac623d9f3e06c1d2f14a2889b26b3961d3723f20e6af4cb7e7",
+      "preserved_existing": true
     },
     {
       "id": 1900231300048,
       "name": "Holywood",
       "division": "D4_NAFL",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Holywood"
+      "status": "created",
+      "source_url": "https://www.thenafl.co.uk/images/badges/comet/2ca4d4e4-75d1-4b73-8efe-39774491c46d.jpg",
+      "source_kind": "official_nafl_comet_standings",
+      "background_rgb": [
+        223,
+        114,
+        114
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300048.png",
+      "sha256": "6aa645334d06430b5534506db6df0aae9f4ae81bbd3eefbf9d69ef3d2b607a94"
     },
     {
       "id": 1900231300049,
       "name": "Islandmagee",
       "division": "D4_NAFL",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Islandmagee"
+      "status": "created",
+      "source_url": "https://www.thenafl.co.uk/images/badges/comet/e35d378f-09eb-42f2-be52-54fe8e42173a.jpg",
+      "source_kind": "official_nafl_comet_standings",
+      "background_rgb": [
+        244,
+        223,
+        157
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300049.png",
+      "sha256": "c25c4e2853f54a1074a5a87c34a3d9292702c0c5c64ae085a5ae6a7de64a8a91"
     },
     {
       "id": 1900231300050,
       "name": "Immaculata",
       "division": "D4_NAFL",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Immaculata"
+      "status": "created",
+      "source_url": "https://www.thenafl.co.uk/images/badges/comet/33721b61-1300-4b35-95b6-1083aaa28f34.jpg",
+      "source_kind": "official_nafl_comet_standings",
+      "background_rgb": [
+        92,
+        92,
+        223
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300050.png",
+      "sha256": "5e2062545d7e7999d5efccc8379d152890bce5f4a0f302039843e171c4e7fc55"
     },
     {
       "id": 1900231300051,
       "name": "Drumaness Mills",
       "division": "D4_NAFL",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Drumaness%20Mills"
+      "status": "created",
+      "source_url": "https://www.thenafl.co.uk/images/badges/comet/02336d67-3e7f-4466-988e-581d397713c4.jpg",
+      "source_kind": "official_nafl_comet_standings",
+      "background_rgb": [
+        244,
+        244,
+        92
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300051.png",
+      "sha256": "3f60fb6a6468a67799515ddeae4cfab596aaacfb68fb0f03b1dd46104dbac9f4"
     },
     {
       "id": 1900231300052,
@@ -714,7 +828,8 @@
         244
       ],
       "path": "docs/nir-clubs-2026-27/v1/1900231300052.png",
-      "sha256": "8c937a420f483cea2a827dd4702b7888d4693f0a8ab0ab3cd12e2ff76ce5a8dd"
+      "sha256": "8c937a420f483cea2a827dd4702b7888d4693f0a8ab0ab3cd12e2ff76ce5a8dd",
+      "preserved_existing": true
     },
     {
       "id": 1900231300053,
@@ -729,14 +844,23 @@
         114
       ],
       "path": "docs/nir-clubs-2026-27/v1/1900231300053.png",
-      "sha256": "a4fe4a0e9dc3792f588fefbb1d290857ec3ba582874237901997bc283b2a7014"
+      "sha256": "a4fe4a0e9dc3792f588fefbb1d290857ec3ba582874237901997bc283b2a7014",
+      "preserved_existing": true
     },
     {
       "id": 1900231300054,
       "name": "Mossley",
       "division": "D4_NAFL",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Mossley"
+      "status": "created",
+      "source_url": "https://www.thenafl.co.uk/images/badges/comet/4c059814-84ff-40e7-9ad1-87c413b91445.jpg",
+      "source_kind": "official_nafl_comet_standings",
+      "background_rgb": [
+        92,
+        92,
+        201
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300054.png",
+      "sha256": "de6aa952811649fdfb6b77f29684d79e139187f97d727da445b2acdbdbf36c4e"
     },
     {
       "id": 1900231300055,
@@ -751,28 +875,53 @@
         179
       ],
       "path": "docs/nir-clubs-2026-27/v1/1900231300055.png",
-      "sha256": "a8e312ed40f6bd60ad45e86d07af4c2b96f3a221b57d6cae09df292a0fbb952b"
+      "sha256": "a8e312ed40f6bd60ad45e86d07af4c2b96f3a221b57d6cae09df292a0fbb952b",
+      "preserved_existing": true
     },
     {
       "id": 1900231300056,
       "name": "Bourneview Mill",
       "division": "D4_MUFL",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Bourneview%20Mill"
+      "status": "created",
+      "source_url": "https://midulsterfootballleague.co.uk/wp-content/uploads/2026/06/bourneviewmill.jpg",
+      "source_kind": "official_mid_ulster_club_profile",
+      "background_rgb": [
+        92,
+        114,
+        179
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300056.png",
+      "sha256": "03f612d8f872d70f2f6183085caeae7aa255c4f96e591e069ddcf31696988236"
     },
     {
       "id": 1900231300057,
       "name": "Crewe United",
       "division": "D4_MUFL",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Crewe%20United"
+      "status": "created",
+      "source_url": "https://midulsterfootballleague.co.uk/wp-content/uploads/2026/06/creweunited.jpg",
+      "source_kind": "official_mid_ulster_club_profile",
+      "background_rgb": [
+        244,
+        114,
+        114
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300057.png",
+      "sha256": "ecf8bcac88a9947e579351677a1c9d58fc083abe6bc3d1258a21a2072a554c01"
     },
     {
       "id": 1900231300058,
       "name": "FC Mindwell",
       "division": "D4_MUFL",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=FC%20Mindwell"
+      "status": "created",
+      "source_url": "https://midulsterfootballleague.co.uk/wp-content/uploads/2026/06/fcmindwell.jpg",
+      "source_kind": "official_mid_ulster_club_profile",
+      "background_rgb": [
+        136,
+        114,
+        157
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300058.png",
+      "sha256": "f85b490033f7b8362a10882c31b7c5134e75eb4bc3146a597ca200c9ee374dd5"
     },
     {
       "id": 1900231300059,
@@ -785,36 +934,76 @@
       "id": 1900231300060,
       "name": "Laurelvale",
       "division": "D4_MUFL",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Laurelvale"
+      "status": "created",
+      "source_url": "https://midulsterfootballleague.co.uk/wp-content/uploads/2026/06/laurelvale.jpg",
+      "source_kind": "official_mid_ulster_club_profile",
+      "background_rgb": [
+        179,
+        179,
+        201
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300060.png",
+      "sha256": "043010bb927cc580b1d67829d88ba2a95545a838d927aa0baabac018382f0058"
     },
     {
       "id": 1900231300061,
       "name": "Lower Maze",
       "division": "D4_MUFL",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Lower%20Maze"
+      "status": "created",
+      "source_url": "https://midulsterfootballleague.co.uk/wp-content/uploads/2026/06/lowermaze.jpg",
+      "source_kind": "official_mid_ulster_club_profile",
+      "background_rgb": [
+        244,
+        92,
+        92
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300061.png",
+      "sha256": "a49a562ac635ee1e6e5dcb64759f0526f37ad4854ac6688792b29e1738386d96"
     },
     {
       "id": 1900231300062,
       "name": "Lurgan Town",
       "division": "D4_MUFL",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Lurgan%20Town"
+      "status": "created",
+      "source_url": "https://midulsterfootballleague.co.uk/wp-content/uploads/2026/06/lurgantown.jpg",
+      "source_kind": "official_mid_ulster_club_profile",
+      "background_rgb": [
+        244,
+        223,
+        92
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300062.png",
+      "sha256": "5742d053b7219e31edb285eeb1d8c9e230f2c28d1228fcf07e167fc4ffe64ade"
     },
     {
       "id": 1900231300063,
       "name": "Moneyslane",
       "division": "D4_MUFL",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Moneyslane"
+      "status": "created",
+      "source_url": "https://midulsterfootballleague.co.uk/wp-content/uploads/2026/06/moneyslane.jpg",
+      "source_kind": "official_mid_ulster_club_profile",
+      "background_rgb": [
+        92,
+        92,
+        244
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300063.png",
+      "sha256": "c05d95989bdb6937a72e0f5128fdad8c153622fc71f9b533bd8d9b4a17fce078"
     },
     {
       "id": 1900231300064,
       "name": "Newmills",
       "division": "D4_MUFL",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Newmills"
+      "status": "created",
+      "source_url": "https://midulsterfootballleague.co.uk/wp-content/uploads/2026/06/newmills.jpg",
+      "source_kind": "official_mid_ulster_club_profile",
+      "background_rgb": [
+        129,
+        149,
+        190
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300064.png",
+      "sha256": "a49c69397a46201655960ff7e132424923f8654e1014297857cc063b3f412471"
     },
     {
       "id": 1900231300065,
@@ -827,22 +1016,46 @@
       "id": 1900231300066,
       "name": "Tandragee Rovers",
       "division": "D4_MUFL",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Tandragee%20Rovers"
+      "status": "created",
+      "source_url": "https://midulsterfootballleague.co.uk/wp-content/uploads/2026/06/tandrageerovers.jpg",
+      "source_kind": "official_mid_ulster_club_profile",
+      "background_rgb": [
+        244,
+        157,
+        136
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300066.png",
+      "sha256": "52d50dca21eccbebf2564cc8db450c7daf2a28f4ffe602ba928e6f93a2453385"
     },
     {
       "id": 1900231300067,
       "name": "Valley Rangers",
       "division": "D4_MUFL",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Valley%20Rangers"
+      "status": "created",
+      "source_url": "https://midulsterfootballleague.co.uk/wp-content/uploads/2026/06/valleyrangers.jpg",
+      "source_kind": "official_mid_ulster_club_profile",
+      "background_rgb": [
+        92,
+        201,
+        244
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300067.png",
+      "sha256": "dee39587075254ec25bf98577f56531206046c2b953baf197b404199f3c05ced"
     },
     {
       "id": 1900231300068,
       "name": "Windmill Stars",
       "division": "D4_MUFL",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Windmill%20Stars"
+      "status": "created",
+      "source_url": "https://midulsterfootballleague.co.uk/wp-content/uploads/2026/06/windmillstars.jpg",
+      "source_kind": "official_mid_ulster_club_profile",
+      "background_rgb": [
+        244,
+        136,
+        92
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300068.png",
+      "sha256": "2f35bf4f6cb63f53648bb6cbd90a3eda3295cd27242827966717ea8b97770111"
     },
     {
       "id": 1900231300069,
@@ -892,7 +1105,8 @@
         136
       ],
       "path": "docs/nir-clubs-2026-27/v1/1900231300074.png",
-      "sha256": "1c2bf460390c11c05076f2f58b2bc5fb397e8b73032b29bbda7c3b244c2db32e"
+      "sha256": "1c2bf460390c11c05076f2f58b2bc5fb397e8b73032b29bbda7c3b244c2db32e",
+      "preserved_existing": true
     },
     {
       "id": 1900231300075,
@@ -907,7 +1121,8 @@
         179
       ],
       "path": "docs/nir-clubs-2026-27/v1/1900231300075.png",
-      "sha256": "dc57337bb4fe3ae0db5b06cd56d26490136a9a44c47f522fb0ec37848ba225d0"
+      "sha256": "dc57337bb4fe3ae0db5b06cd56d26490136a9a44c47f522fb0ec37848ba225d0",
+      "preserved_existing": true
     },
     {
       "id": 1900231300076,
@@ -929,91 +1144,188 @@
         92
       ],
       "path": "docs/nir-clubs-2026-27/v1/1900231300077.png",
-      "sha256": "e3f2fbc8a74b4c9591964c928d0573b8cdabfc3b1aedce237f5bd5a4dfe83f5a"
+      "sha256": "e3f2fbc8a74b4c9591964c928d0573b8cdabfc3b1aedce237f5bd5a4dfe83f5a",
+      "preserved_existing": true
     },
     {
       "id": 1900231300078,
       "name": "Willowbank",
       "division": "D5_NAFL",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Willowbank"
+      "status": "created",
+      "source_url": "https://www.thenafl.co.uk/images/badges/comet/4d84561c-b57e-4db8-a609-a1bda11a67cd.png",
+      "source_kind": "official_nafl_comet_standings",
+      "background_rgb": [
+        244,
+        92,
+        92
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300078.png",
+      "sha256": "cd3f8ca8656f22733e6a3f9dd0808f7afadbef627fd480df97188b637f278d81"
     },
     {
       "id": 1900231300079,
       "name": "St Oliver Plunkett",
       "division": "D5_NAFL",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=St%20Oliver%20Plunkett"
+      "status": "created",
+      "source_url": "https://www.thenafl.co.uk/images/badges/comet/24a80216-7f1d-4a2b-a2ac-638e569cb6fe.png",
+      "source_kind": "official_nafl_comet_standings",
+      "background_rgb": [
+        129,
+        149,
+        190
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300079.png",
+      "sha256": "23806caf215a26d543c37500c2754c047618ce9392ed59cad95c9e38fca4543f"
     },
     {
       "id": 1900231300080,
       "name": "Sirocco Works",
       "division": "D5_NAFL",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Sirocco%20Works"
+      "status": "created",
+      "source_url": "https://www.thenafl.co.uk/images/badges/comet/6b1708f2-9d13-4eea-9d4c-ccf35259a99f.jpg",
+      "source_kind": "official_nafl_comet_standings",
+      "background_rgb": [
+        244,
+        157,
+        92
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300080.png",
+      "sha256": "fb417424f09c2d3980e5a8d34033d8bfd3d4985e949e4b148194273a49ce283a"
     },
     {
       "id": 1900231300081,
       "name": "Greenisland",
       "division": "D5_NAFL",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Greenisland"
+      "status": "created",
+      "source_url": "https://www.thenafl.co.uk/images/badges/comet/113997e5-624d-4c45-8b7b-fedade25cdd4.jpg",
+      "source_kind": "official_nafl_comet_standings",
+      "background_rgb": [
+        157,
+        114,
+        136
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300081.png",
+      "sha256": "db70436d7cebb600ea9dedd773153e4766c98f88bcc98c7aaf0c822636729978"
     },
     {
       "id": 1900231300082,
       "name": "Larne Technical Old Boys",
       "division": "D5_NAFL",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Larne%20Technical%20Old%20Boys"
+      "status": "created",
+      "source_url": "https://www.thenafl.co.uk/images/badges/comet/e11887d4-cbfc-4c16-95ca-640a7fbe2327.jpg",
+      "source_kind": "official_nafl_comet_standings",
+      "background_rgb": [
+        92,
+        114,
+        136
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300082.png",
+      "sha256": "0f65ba0860561c292e32d7a79c8c0419b82d0adc1dbc881c4eff52a3f445f154"
     },
     {
       "id": 1900231300083,
       "name": "1st Bangor Old Boys",
       "division": "D5_NAFL",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=1st%20Bangor%20Old%20Boys"
+      "status": "created",
+      "source_url": "https://www.thenafl.co.uk/images/badges/comet/cfd376d5-b4c1-47f2-984a-ad51b4d8cdfa.jpg",
+      "source_kind": "official_nafl_comet_standings",
+      "background_rgb": [
+        201,
+        114,
+        114
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300083.png",
+      "sha256": "cb453c73a274cded9264a40db31196b2c37f46a036a89b1f05e4b5e8bdd2733b"
     },
     {
       "id": 1900231300084,
       "name": "Albert Foundry",
       "division": "D5_NAFL",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Albert%20Foundry"
+      "status": "created",
+      "source_url": "https://www.thenafl.co.uk/images/badges/comet/ed71e7ca-5fcd-4b56-9fb6-093ab92a9027.png",
+      "source_kind": "official_nafl_comet_standings",
+      "background_rgb": [
+        92,
+        92,
+        201
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300084.png",
+      "sha256": "e7fdbebf634eecc65df27ca92bd624165967d58fe5c543d2bd532200e808c3a2"
     },
     {
       "id": 1900231300085,
       "name": "Shankill United",
       "division": "D5_NAFL",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Shankill%20United"
+      "status": "created",
+      "source_url": "https://www.thenafl.co.uk/images/badges/comet/37848e5f-4255-47c0-8e06-c105ef661ebd.jpg",
+      "source_kind": "official_nafl_comet_standings",
+      "background_rgb": [
+        179,
+        157,
+        223
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300085.png",
+      "sha256": "c57ddac1af30c2280e1954a3d933199b12a965659111be2ea9dcc7d9f12361d9"
     },
     {
       "id": 1900231300086,
       "name": "Kilmore Recreation",
       "division": "D5_NAFL",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Kilmore%20Recreation"
+      "status": "created",
+      "source_url": "https://www.thenafl.co.uk/images/badges/comet/cffeb06b-7653-43a6-9697-639974d5aea1.png",
+      "source_kind": "official_nafl_comet_standings",
+      "background_rgb": [
+        92,
+        92,
+        223
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300086.png",
+      "sha256": "94fb148354076d86aeb1e91c818b93885649a3e663ceeeb7d6fb124d1c78ec57"
     },
     {
       "id": 1900231300087,
       "name": "Finaghy",
       "division": "D5_NAFL",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Finaghy"
+      "status": "created",
+      "source_url": "https://www.thenafl.co.uk/images/badges/comet/c691ee8b-2627-498b-9d13-ea2ff79b458f.jpg",
+      "source_kind": "official_nafl_comet_standings",
+      "background_rgb": [
+        157,
+        114,
+        114
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300087.png",
+      "sha256": "560b3325ebcc9eb025e2fffcd09a6ef9e4c3beea9a9ff986575d9a99875f10e1"
     },
     {
       "id": 1900231300088,
       "name": "Aquinas",
       "division": "D5_NAFL",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Aquinas"
+      "status": "created",
+      "source_url": "https://www.thenafl.co.uk/images/badges/comet/3309045a-8782-41fe-8aca-3f09b3d39969.png",
+      "source_kind": "official_nafl_comet_standings",
+      "background_rgb": [
+        92,
+        157,
+        201
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300088.png",
+      "sha256": "479e2fce5794db29171d8aa1209a471ac0246e37d43ff3b92ed330f1fde87c0e"
     },
     {
       "id": 1900231300089,
       "name": "18th Newtownabbey Old Boys",
       "division": "D5_NAFL",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=18th%20Newtownabbey%20Old%20Boys"
+      "status": "created",
+      "source_url": "https://www.thenafl.co.uk/images/badges/comet/6e7051c2-22cd-4460-90fb-126469ffd990.jpg",
+      "source_kind": "official_nafl_comet_standings",
+      "background_rgb": [
+        244,
+        244,
+        92
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300089.png",
+      "sha256": "de5abce4d4fc64e68c6709da1dd4731598d292648b82b60b547affd1ee08b5ba"
     },
     {
       "id": 1900231300090,
@@ -1028,315 +1340,668 @@
         179
       ],
       "path": "docs/nir-clubs-2026-27/v1/1900231300090.png",
-      "sha256": "02e15abe0f439cfabbcef128306c850fe705a02be543f93840101357f8661042"
+      "sha256": "02e15abe0f439cfabbcef128306c850fe705a02be543f93840101357f8661042",
+      "preserved_existing": true
     },
     {
       "id": 1900231300091,
       "name": "Dunmurry Recreation",
       "division": "D5_NAFL",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Dunmurry%20Recreation"
+      "status": "created",
+      "source_url": "https://www.thenafl.co.uk/images/badges/comet/541d5515-e192-46d5-9101-d009e244d7fa.jpg",
+      "source_kind": "official_nafl_comet_standings",
+      "background_rgb": [
+        179,
+        201,
+        244
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300091.png",
+      "sha256": "e043164210288337ecc7c31ed79d9fd078aee057470d7c6b065823159de1a63d"
     },
     {
       "id": 1900231300092,
       "name": "AFC Craigavon",
       "division": "D5_MUFL",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=AFC%20Craigavon"
+      "status": "created",
+      "source_url": "https://midulsterfootballleague.co.uk/wp-content/uploads/2026/06/afccraigavon.jpg",
+      "source_kind": "official_mid_ulster_club_profile",
+      "background_rgb": [
+        244,
+        223,
+        92
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300092.png",
+      "sha256": "3182ebf73e8c3ff2e01830390d901e9de5ffb737ab89d7c454d052ea9ea20a27"
     },
     {
       "id": 1900231300093,
       "name": "Ambassadors",
       "division": "D5_MUFL",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Ambassadors"
+      "status": "created",
+      "source_url": "https://midulsterfootballleague.co.uk/wp-content/uploads/2026/06/ambassadors.jpg",
+      "source_kind": "official_mid_ulster_club_profile",
+      "background_rgb": [
+        114,
+        136,
+        179
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300093.png",
+      "sha256": "1d778ba7908ec7b29c4d2e60a6cdd015937922f64c2ec4f3ec28203f3fecb641"
     },
     {
       "id": 1900231300094,
       "name": "Bessbrook United",
       "division": "D5_MUFL",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Bessbrook%20United"
+      "status": "created",
+      "source_url": "https://midulsterfootballleague.co.uk/wp-content/uploads/2026/06/bessbrookunited.jpg",
+      "source_kind": "official_mid_ulster_club_profile",
+      "background_rgb": [
+        223,
+        92,
+        92
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300094.png",
+      "sha256": "805d86d5c91b4a6740fc3347550f3cc4fb579e08d18b75ea0c4cd19a4f914d82"
     },
     {
       "id": 1900231300095,
       "name": "Camlough Rovers",
       "division": "D5_MUFL",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Camlough%20Rovers"
+      "status": "created",
+      "source_url": "https://midulsterfootballleague.co.uk/wp-content/uploads/2026/06/camloughrovers.jpg",
+      "source_kind": "official_mid_ulster_club_profile",
+      "background_rgb": [
+        92,
+        157,
+        114
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300095.png",
+      "sha256": "fea64901650f05ff007c0022012b52bf3544a34cc50f4878efddaaf5f9de2114"
     },
     {
       "id": 1900231300096,
       "name": "Craigavon City",
       "division": "D5_MUFL",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Craigavon%20City"
+      "status": "created",
+      "source_url": "https://midulsterfootballleague.co.uk/wp-content/uploads/2026/06/craigavoncity.jpg",
+      "source_kind": "official_mid_ulster_club_profile",
+      "background_rgb": [
+        92,
+        92,
+        157
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300096.png",
+      "sha256": "5c0c5ee1e1da5fd934de313aca0e7849f8c48a08a48a4bae9a56e80190445efb"
     },
     {
       "id": 1900231300097,
       "name": "Dromore Amateurs",
       "division": "D5_MUFL",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Dromore%20Amateurs"
+      "status": "created",
+      "source_url": "https://midulsterfootballleague.co.uk/wp-content/uploads/2026/06/dromoreamateurs.jpg",
+      "source_kind": "official_mid_ulster_club_profile",
+      "background_rgb": [
+        244,
+        201,
+        92
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300097.png",
+      "sha256": "ceeb05be85b66d9a6c6dd1f632dc02e47f3a3d933ad92c4c0a9e104fb6925245"
     },
     {
       "id": 1900231300098,
       "name": "Dungannon Tigers",
       "division": "D5_MUFL",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Dungannon%20Tigers"
+      "status": "created",
+      "source_url": "https://midulsterfootballleague.co.uk/wp-content/uploads/2026/06/dungannontigers.jpg",
+      "source_kind": "official_mid_ulster_club_profile",
+      "background_rgb": [
+        244,
+        244,
+        92
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300098.png",
+      "sha256": "a471a6607a2d882406d8ae2d44a3986153af2604c900c1af8d22bf1e28a33df8"
     },
     {
       "id": 1900231300099,
       "name": "Hanover",
       "division": "D5_MUFL",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Hanover"
+      "status": "created",
+      "source_url": "https://midulsterfootballleague.co.uk/wp-content/uploads/2026/06/hanover.jpg",
+      "source_kind": "official_mid_ulster_club_profile",
+      "background_rgb": [
+        223,
+        92,
+        136
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300099.png",
+      "sha256": "ee10fcc9b4d23b899555267a3dcb93ac5155622f0fbb62d1213629ea50ca4658"
     },
     {
       "id": 1900231300100,
       "name": "Lurgan Celtic",
       "division": "D5_MUFL",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Lurgan%20Celtic"
+      "status": "created",
+      "source_url": "https://midulsterfootballleague.co.uk/wp-content/uploads/2026/06/lurganceltic.jpg",
+      "source_kind": "official_mid_ulster_club_profile",
+      "background_rgb": [
+        244,
+        223,
+        114
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300100.png",
+      "sha256": "bbdf723f0c36529ac65e2a7446a7796095b52ec97d35762ca7831a450b4f25ec"
     },
     {
       "id": 1900231300101,
       "name": "Markethill Swifts",
       "division": "D5_MUFL",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Markethill%20Swifts"
+      "status": "created",
+      "source_url": "https://midulsterfootballleague.co.uk/wp-content/uploads/2026/06/markethillswifts.jpg",
+      "source_kind": "official_mid_ulster_club_profile",
+      "background_rgb": [
+        244,
+        244,
+        157
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300101.png",
+      "sha256": "e9da6494f5689903eed7a303f37511248ee0321a1f4dcba2225c7b35152730ee"
     },
     {
       "id": 1900231300102,
       "name": "Portadown BBOB",
       "division": "D5_MUFL",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Portadown%20BBOB"
+      "status": "created",
+      "source_url": "https://midulsterfootballleague.co.uk/wp-content/uploads/2026/06/portadownbbob.jpg",
+      "source_kind": "official_mid_ulster_club_profile",
+      "background_rgb": [
+        114,
+        114,
+        136
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300102.png",
+      "sha256": "14498fc8caaeb2b766897aa8b263585a5c9074f3a82b3cbcef3948dc5831d42c"
     },
     {
       "id": 1900231300103,
       "name": "PSNI",
       "division": "D5_MUFL",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=PSNI"
+      "status": "created",
+      "source_url": "https://midulsterfootballleague.co.uk/wp-content/uploads/2026/06/psni.jpg",
+      "source_kind": "official_mid_ulster_club_profile",
+      "background_rgb": [
+        92,
+        179,
+        92
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300103.png",
+      "sha256": "c53174593bce4ef454ee2c88aaa56124986765ea879da98e648a4a05a9644f04"
     },
     {
       "id": 1900231300104,
       "name": "Seagoe",
       "division": "D5_MUFL",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Seagoe"
+      "status": "created",
+      "source_url": "https://midulsterfootballleague.co.uk/wp-content/uploads/2026/06/seagoe.jpg",
+      "source_kind": "official_mid_ulster_club_profile",
+      "background_rgb": [
+        223,
+        92,
+        92
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300104.png",
+      "sha256": "56edcf510f120f21de3c8d4fdb2b38629f43d71bd970ee0adf1891c0ed2fced7"
     },
     {
       "id": 1900231300105,
       "name": "Seapatrick",
       "division": "D5_MUFL",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Seapatrick"
+      "status": "created",
+      "source_url": "https://midulsterfootballleague.co.uk/wp-content/uploads/2026/06/seapatrick.jpg",
+      "source_kind": "official_mid_ulster_club_profile",
+      "background_rgb": [
+        244,
+        223,
+        92
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300105.png",
+      "sha256": "f2655c6e0eb1de5b3ec06df67a238c194754a566c44b24370090f980c46d0035"
     },
     {
       "id": 1900231300106,
       "name": "St Mary’s YC",
       "division": "D5_MUFL",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=St%20Mary%E2%80%99s%20YC"
+      "status": "created",
+      "source_url": "https://midulsterfootballleague.co.uk/wp-content/uploads/2026/06/stmarys.jpg",
+      "source_kind": "official_mid_ulster_club_profile",
+      "background_rgb": [
+        179,
+        92,
+        114
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300106.png",
+      "sha256": "c29ec14d71bd5670509ef0572beee41704e79e3645a99547507ec9ab81d0ade0"
     },
     {
       "id": 1900231300107,
       "name": "Tullyvallen",
       "division": "D5_MUFL",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Tullyvallen"
+      "status": "created",
+      "source_url": "https://midulsterfootballleague.co.uk/wp-content/uploads/2026/06/tullyvallen.jpg",
+      "source_kind": "official_mid_ulster_club_profile",
+      "background_rgb": [
+        114,
+        114,
+        157
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300107.png",
+      "sha256": "5dbbc5846b351f19285339d9cb5d033e3dee061728ee95b4dab7379bb6759e84"
     },
     {
       "id": 1900231300108,
       "name": "Dundonald",
       "division": "D6_NAFL_1B",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Dundonald"
+      "status": "created",
+      "source_url": "https://www.thenafl.co.uk/images/badges/comet/2cb3e604-2a7d-4843-afc9-59920267a08a.jpg",
+      "source_kind": "official_nafl_comet_standings",
+      "background_rgb": [
+        244,
+        114,
+        114
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300108.png",
+      "sha256": "077a68b7e8e6d165052622372eaf2836adfea3e99023960322abba0254e648ee"
     },
     {
       "id": 1900231300109,
       "name": "Rosemount Rec",
       "division": "D6_NAFL_1B",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Rosemount%20Rec"
+      "status": "created",
+      "source_url": "https://www.thenafl.co.uk/images/badges/comet/a68e00de-3a9e-44c6-ab8f-ca3c398d3135.jpg",
+      "source_kind": "official_nafl_comet_standings",
+      "background_rgb": [
+        179,
+        92,
+        92
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300109.png",
+      "sha256": "6918162573dd678f6419e016b3553630e6f89bbad5ceebd7929e9fa8b72e9c62"
     },
     {
       "id": 1900231300110,
       "name": "St Matthews",
       "division": "D6_NAFL_1B",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=St%20Matthews"
+      "status": "created",
+      "source_url": "https://www.thenafl.co.uk/images/badges/comet/381f4187-859b-4b41-adca-725c0b7fa37b.jpg",
+      "source_kind": "official_nafl_comet_standings",
+      "background_rgb": [
+        92,
+        114,
+        179
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300110.png",
+      "sha256": "7002104363ab46bed969ddd7313a87ba2778c7462717adf2ba5917d9956158eb"
     },
     {
       "id": 1900231300111,
       "name": "Ballynahinch Olympic",
       "division": "D6_NAFL_1B",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Ballynahinch%20Olympic"
+      "status": "created",
+      "source_url": "https://www.thenafl.co.uk/images/badges/comet/f0743868-820c-49bc-b11e-ef2f1ecf1e21.png",
+      "source_kind": "official_nafl_comet_standings",
+      "background_rgb": [
+        92,
+        92,
+        136
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300111.png",
+      "sha256": "86c5f17434a428d42a3d266a6f71106a3f25beaa8c384e967f25b3b4f42528b2"
     },
     {
       "id": 1900231300112,
       "name": "Bryansburn Rangers",
       "division": "D6_NAFL_1B",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Bryansburn%20Rangers"
+      "status": "created",
+      "source_url": "https://www.thenafl.co.uk/images/badges/comet/3fd53c4b-780a-4f67-8994-6138b4baded8.png",
+      "source_kind": "official_nafl_comet_standings",
+      "background_rgb": [
+        244,
+        92,
+        92
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300112.png",
+      "sha256": "fec85cab4684b710ed4b3979fb1fbb5818b2f8c75da8398ddb4b813ef9dc1d19"
     },
     {
       "id": 1900231300113,
       "name": "Killyleagh YC",
       "division": "D6_NAFL_1B",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Killyleagh%20YC"
+      "status": "created",
+      "source_url": "https://www.thenafl.co.uk/images/badges/comet/c4a38feb-574a-4281-b5a6-528646b1e17a.jpg",
+      "source_kind": "official_nafl_comet_standings",
+      "background_rgb": [
+        114,
+        92,
+        92
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300113.png",
+      "sha256": "b57b6b9349e129ee40d9c6fe9b7678d469ed689f07a6d58cbe5d3ea41ff3c78b"
     },
     {
       "id": 1900231300114,
       "name": "Shamrock",
       "division": "D6_NAFL_1B",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Shamrock"
+      "status": "created",
+      "source_url": "https://www.thenafl.co.uk/images/badges/comet/d778c15c-e5e9-49ee-b866-de66bf2c998c.jpg",
+      "source_kind": "official_nafl_comet_standings",
+      "background_rgb": [
+        136,
+        201,
+        157
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300114.png",
+      "sha256": "ac738a782d21a1702a98131b6c4a804b61f05b92b677cad2669567c0e1f12457"
     },
     {
       "id": 1900231300115,
       "name": "Woodvale",
       "division": "D6_NAFL_1B",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Woodvale"
+      "status": "created",
+      "source_url": "https://www.thenafl.co.uk/images/badges/comet/764f82d3-bcb4-489a-8a67-b13838e2825b.jpg",
+      "source_kind": "official_nafl_comet_standings",
+      "background_rgb": [
+        244,
+        157,
+        92
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300115.png",
+      "sha256": "f63c3d0ea09d1d562c3e44a31359b12e9936e1935c6916471e0dc97e254c0b97"
     },
     {
       "id": 1900231300116,
       "name": "Newcastle Town",
       "division": "D6_NAFL_1B",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Newcastle%20Town"
+      "status": "created",
+      "source_url": "https://www.thenafl.co.uk/images/badges/comet/fb1f170b-1559-4747-8e18-8b969b693be7.jpg",
+      "source_kind": "official_nafl_comet_standings",
+      "background_rgb": [
+        92,
+        157,
+        114
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300116.png",
+      "sha256": "2dd38723600a42363311fde1013fddb99904ee2b5c0397f2dc79f256616df740"
     },
     {
       "id": 1900231300117,
       "name": "Downshire YM",
       "division": "D6_NAFL_1B",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Downshire%20YM"
+      "status": "created",
+      "source_url": "https://www.thenafl.co.uk/images/badges/comet/0c791194-73f2-4898-8183-ea2cf47bd368.jpg",
+      "source_kind": "official_nafl_comet_standings",
+      "background_rgb": [
+        179,
+        92,
+        92
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300117.png",
+      "sha256": "2905f60f0e929640b0bd969c83d786a04d07b90d847134905a2f7bb3b998bf6a"
     },
     {
       "id": 1900231300118,
       "name": "St Lukes",
       "division": "D6_NAFL_1B",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=St%20Lukes"
+      "status": "created",
+      "source_url": "https://www.thenafl.co.uk/images/badges/comet/9b192418-6d3a-4ffb-b624-eab84ed8570c.jpg",
+      "source_kind": "official_nafl_comet_standings",
+      "background_rgb": [
+        244,
+        223,
+        92
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300118.png",
+      "sha256": "de1e89bd26bc99e8e51ca8e850f243c71ed051277d6f94c728ae57855ed0c1e0"
     },
     {
       "id": 1900231300119,
       "name": "St Marys (Newtownabbey)",
       "division": "D6_NAFL_1B",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=St%20Marys%20%28Newtownabbey%29"
+      "status": "created",
+      "source_url": "https://www.thenafl.co.uk/images/badges/comet/9822fd23-52bc-4b4d-ab8f-697ef691d4bd.png",
+      "source_kind": "official_nafl_comet_standings",
+      "background_rgb": [
+        92,
+        201,
+        92
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300119.png",
+      "sha256": "aa72646a827fa546552be4c6eec4a7d8a1c37ad6528eaa51087ac717f5694819"
     },
     {
       "id": 1900231300120,
       "name": "Colin Valley",
       "division": "D6_NAFL_1B",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Colin%20Valley"
+      "status": "created",
+      "source_url": "https://www.thenafl.co.uk/images/badges/comet/6742c513-d78b-4569-b646-7622f7eeabbc.jpg",
+      "source_kind": "official_nafl_comet_standings",
+      "background_rgb": [
+        92,
+        136,
+        223
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300120.png",
+      "sha256": "e09a9312af79e98b28e1e3468f0ef05dcd43550c11e168f0302338d897b30d6e"
     },
     {
       "id": 1900231300121,
       "name": "Bangor Amateurs",
       "division": "D6_NAFL_1B",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Bangor%20Amateurs"
+      "status": "created",
+      "source_url": "https://www.thenafl.co.uk/images/badges/comet/0b7b7e21-4b1f-4839-bde9-901ec74312e5.jpg",
+      "source_kind": "official_nafl_comet_standings",
+      "background_rgb": [
+        244,
+        114,
+        114
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300121.png",
+      "sha256": "31358caa12c12b35926e5fe058cdc6091d35fe62269426186b20107a34eb18dd"
     },
     {
       "id": 1900231300122,
       "name": "Malachians",
       "division": "D7_NAFL_1C",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Malachians"
+      "status": "created",
+      "source_url": "https://www.thenafl.co.uk/images/badges/comet/15f98899-536a-4837-a15d-c64e8f91c560.jpg",
+      "source_kind": "official_nafl_comet_standings",
+      "background_rgb": [
+        114,
+        201,
+        136
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300122.png",
+      "sha256": "c6a746131e2246d23dc5e88e54f093480441c7fea620d58a5a1a8b1d9baa5ac5"
     },
     {
       "id": 1900231300123,
       "name": "Tullycarnet",
       "division": "D7_NAFL_1C",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Tullycarnet"
+      "status": "created",
+      "source_url": "https://www.thenafl.co.uk/images/badges/comet/4add4d78-cd31-40b5-8a4c-e9f5cf530bd4.jpg",
+      "source_kind": "official_nafl_comet_standings",
+      "background_rgb": [
+        244,
+        244,
+        92
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300123.png",
+      "sha256": "25dda19f15cc1358372de5e25e65d048202ad7c38a5f7bf53ef36d7542a8018b"
     },
     {
       "id": 1900231300124,
       "name": "Castlewellan Town",
       "division": "D7_NAFL_1C",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Castlewellan%20Town"
+      "status": "created",
+      "source_url": "https://www.thenafl.co.uk/images/badges/comet/fdb3e5bc-7da7-4cf9-abc3-8ccb842cc2e2.png",
+      "source_kind": "official_nafl_comet_standings",
+      "background_rgb": [
+        136,
+        157,
+        114
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300124.png",
+      "sha256": "4641340aced6be4123f12b4504817773590ff0993cdd20fcfeb80bf9afa05ead"
     },
     {
       "id": 1900231300125,
       "name": "Saintfield United",
       "division": "D7_NAFL_1C",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Saintfield%20United"
+      "status": "created",
+      "source_url": "https://www.thenafl.co.uk/images/badges/comet/69eb37a4-2e40-4fb1-880c-76be869abbe6.png",
+      "source_kind": "official_nafl_comet_standings",
+      "background_rgb": [
+        244,
+        114,
+        114
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300125.png",
+      "sha256": "670137495ee050df13e8fd9c33db3738ab1a06db0358ce97ff7179b460dfea60"
     },
     {
       "id": 1900231300126,
       "name": "Shorts",
       "division": "D7_NAFL_1C",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Shorts"
+      "status": "created",
+      "source_url": "https://www.thenafl.co.uk/images/badges/comet/6f64c2a7-9e3f-4ac7-b7fa-b89b08a59d8f.png",
+      "source_kind": "official_nafl_comet_standings",
+      "background_rgb": [
+        92,
+        92,
+        179
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300126.png",
+      "sha256": "64bfefddad68877ee2fc82bb7274859c931bb1d857f328d8d22dc7967f15f3b5"
     },
     {
       "id": 1900231300127,
       "name": "Suffolk",
       "division": "D7_NAFL_1C",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Suffolk"
+      "status": "created",
+      "source_url": "https://www.thenafl.co.uk/images/badges/comet/007aad4e-7f2d-4ae2-a702-d08055a26a72.jpg",
+      "source_kind": "official_nafl_comet_standings",
+      "background_rgb": [
+        244,
+        244,
+        92
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300127.png",
+      "sha256": "c6dd5624d0d692959c72ff24bd11f8ba7adfeae5847e22c8c05f8e5a2e1ee3b6"
     },
     {
       "id": 1900231300128,
       "name": "Bloomfield",
       "division": "D7_NAFL_1C",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Bloomfield"
+      "status": "created",
+      "source_url": "https://www.thenafl.co.uk/images/badges/comet/eaf64e3a-1ea1-4d85-a557-474049e36231.png",
+      "source_kind": "official_nafl_comet_standings",
+      "background_rgb": [
+        136,
+        114,
+        157
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300128.png",
+      "sha256": "cdcfc081a9fccbc95af345d75719231b262896506ce163dd0bc9f6cae2224c2a"
     },
     {
       "id": 1900231300129,
       "name": "Portaferry Rovers",
       "division": "D7_NAFL_1C",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Portaferry%20Rovers"
+      "status": "created",
+      "source_url": "https://www.thenafl.co.uk/images/badges/comet/116fc6c4-f2d4-465d-9de0-da358b758d8a.jpg",
+      "source_kind": "official_nafl_comet_standings",
+      "background_rgb": [
+        244,
+        157,
+        92
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300129.png",
+      "sha256": "d51aacd96c08be699cbf9e5f44eb2d48f3c137c55d8383dee5fd9835d32b20e6"
     },
     {
       "id": 1900231300130,
       "name": "Grove United",
       "division": "D7_NAFL_1C",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Grove%20United"
+      "status": "created",
+      "source_url": "https://www.thenafl.co.uk/images/badges/comet/d83880fc-e2d5-484a-909b-8996296eb1f1.gif",
+      "source_kind": "official_nafl_comet_standings",
+      "background_rgb": [
+        179,
+        114,
+        114
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300130.png",
+      "sha256": "e4da74fce1ba41608ed6ed8eb8899c104cb0d34c120dede4cdc26d0dc59222f2"
     },
     {
       "id": 1900231300131,
       "name": "Portavogie Rangers",
       "division": "D7_NAFL_1C",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Portavogie%20Rangers"
+      "status": "created",
+      "source_url": "https://www.thenafl.co.uk/images/badges/comet/e99d13b5-c3cf-465a-8648-9503ac2caf7f.png",
+      "source_kind": "official_nafl_comet_standings",
+      "background_rgb": [
+        244,
+        92,
+        92
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300131.png",
+      "sha256": "865c473439a32d90d7782c1616bb2f39b0c809272d2f7f5251e56b0b42a7c3a1"
     },
     {
       "id": 1900231300132,
       "name": "Ballynahinch United",
       "division": "D7_NAFL_1C",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Ballynahinch%20United"
+      "status": "created",
+      "source_url": "https://www.thenafl.co.uk/images/badges/comet/a50780fc-5249-4ebc-b16e-6b0c31610710.jpg",
+      "source_kind": "official_nafl_comet_standings",
+      "background_rgb": [
+        92,
+        223,
+        244
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300132.png",
+      "sha256": "781529c34ab5fbbc0810e2b9077f575e323c58d2083b2514a188e7a45aff579a"
     },
     {
       "id": 1900231300133,
       "name": "Orangefield OB",
       "division": "D7_NAFL_1C",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Orangefield%20OB"
+      "status": "created",
+      "source_url": "https://www.thenafl.co.uk/images/badges/comet/488d19bb-1290-44ed-9936-bf342f39d707.jpg",
+      "source_kind": "official_nafl_comet_standings",
+      "background_rgb": [
+        201,
+        179,
+        136
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300133.png",
+      "sha256": "f1d6aae77c77e3a9883a68e4f4584b13b7fa5306ef0cb460e91527eb41b0fe0d"
     },
     {
       "id": 1900231300134,
       "name": "Ballywalter Rec",
       "division": "D7_NAFL_1C",
-      "status": "missing",
-      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Ballywalter%20Rec"
+      "status": "created",
+      "source_url": "https://www.thenafl.co.uk/images/badges/comet/8f2afc42-642b-463a-a56c-03a3a4081980.png",
+      "source_kind": "official_nafl_comet_standings",
+      "background_rgb": [
+        201,
+        223,
+        244
+      ],
+      "path": "docs/nir-clubs-2026-27/v1/1900231300134.png",
+      "sha256": "0c09667ac7439e000a12244a39373ca1c5482b90d557906ddfa6b294d2a54bfe"
     },
     {
       "id": 1900231300135,
@@ -1372,7 +2037,8 @@
         92
       ],
       "path": "docs/nir-clubs-2026-27/v1/1900231300138.png",
-      "sha256": "b1d37ae19b6c31e4e26b6e3aecd2a66873127e17841cba6009bdfe8d5185727c"
+      "sha256": "b1d37ae19b6c31e4e26b6e3aecd2a66873127e17841cba6009bdfe8d5185727c",
+      "preserved_existing": true
     },
     {
       "id": 1900231300139,
@@ -1387,7 +2053,8 @@
         244
       ],
       "path": "docs/nir-clubs-2026-27/v1/1900231300139.png",
-      "sha256": "2b8be2f3fdf30ee16f825637e418c8b19e2da7e5c2214f41ab9e1d4e2a4bfe26"
+      "sha256": "2b8be2f3fdf30ee16f825637e418c8b19e2da7e5c2214f41ab9e1d4e2a4bfe26",
+      "preserved_existing": true
     },
     {
       "id": 1900231300140,
@@ -1416,7 +2083,8 @@
         136
       ],
       "path": "docs/nir-clubs-2026-27/v1/1900231300142.png",
-      "sha256": "b106f6020ee5dff21f37739f1696d1b875eb202e2f6344c63b5ea932b68a8b5d"
+      "sha256": "b106f6020ee5dff21f37739f1696d1b875eb202e2f6344c63b5ea932b68a8b5d",
+      "preserved_existing": true
     }
   ]
 }
