@@ -1,0 +1,31 @@
+name: MMD31 Overseas Verified Club Crests
+on:
+  push:
+    branches: [mmd31-outremer-ecussons-20261023]
+    paths:
+      - 'scripts/outremer/collect_verified.py'
+      - '.github/workflows/mmd31-outremer-crests.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: python -m pip install requests beautifulsoup4 pillow
+      - run: python scripts/outremer/collect_verified.py
+      - name: Commit validated PNGs and manifest
+        run: |
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git add flags/clubs/standard/outremer-2026-27
+          if ! git diff --cached --quiet; then
+            git commit -m "Publish verified overseas club logos (120x96)"
+            git push
+          fi
