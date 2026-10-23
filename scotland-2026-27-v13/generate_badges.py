@@ -80,6 +80,38 @@ def lowland_club_logo(name):
  except Exception:pass
  return None
 
+def club_logo_archive(name):
+ # An individually titled page must identify exactly this club, and the source image must be a crest.
+ try:
+  from bs4 import BeautifulSoup
+  from urllib.parse import urljoin
+  slugged={"The Spartans":"the-spartans","University of Stirling":"stirling-university-fc","Bonnyrigg Rose Athletic":"bonnyrigg-rose-fc","Linlithgow Rose":"linlithgow-rose-fc"}.get(name,slug(name))
+  url="https://football-logos.cc/scotland/"+slugged+"/"
+  r=get(url)
+  if not r:return None
+  soup=BeautifulSoup(r.text,"html.parser")
+  head=soup.find("h1")
+  if head is None or not norm(head.get_text(" ",strip=True)).startswith(norm(name if name not in ("University of Stirling","Bonnyrigg Rose Athletic","Linlithgow Rose") else {"University of Stirling":"Stirling University FC","Bonnyrigg Rose Athletic":"Bonnyrigg Rose FC","Linlithgow Rose":"Linlithgow Rose FC"}[name])):return None
+  urls=[]
+  for img in soup.find_all("img"):
+   alt=norm(img.get("alt",""))
+   if norm(name) not in alt:continue
+   for typ in ("src","data-src","srcset"):
+    v=img.get(typ)
+    if v:
+     for seg in v.split(","):
+      u=urljoin(url,seg.strip().split(" ")[0])
+      if urlparse(u).path.lower().endswith((".png",".webp",".svg")):urls.append(u)
+  for met in soup.find_all("meta"):
+   if met.get("property")=="og:image":
+    u=urljoin(url,met.get("content",""))
+    if urlparse(u).path.lower().endswith((".png",".webp",".svg")):urls.append(u)
+  if urls:
+   urls.sort(key=lambda u: ("assets.football-logos.cc" not in u,"512" not in u and "256" not in u))
+   return urls[0],"football-logos.cc (name exact)",name
+ except Exception:pass
+ return None
+
 def wikipedia(name):
  for title in (name+" F.C.",name+" football club"):
   r=get("https://en.wikipedia.org/w/api.php",{"action":"query","format":"json","generator":"search","gsrsearch":"intitle:"+title,"gsrlimit":5,"prop":"pageimages","piprop":"original"})
@@ -203,7 +235,7 @@ for i,row in enumerate(rows,1):
  if row['division'] in ('D3','D4','D5E','D5W') and slflkey in slflpack:candidates.append(slflpack[slflkey])
  if norm(needle) in logos:candidates.append(logos[norm(needle)])
  if norm(needle) in guardian:candidates.append(guardian[norm(needle)])
- for result in (sportsdb(needle) if row['division'] in ('D3','D4') else None,):
+ for result in (club_logo_archive(name),):
   if result:candidates.append(result)
  status={"id":row["club_id"],"club":name,"division":row["division"],"state":"MISSING","source_url":"","source_provider":"","matched_name":"","file":"","dimensions_verified":False,"visual_identity_reviewed":False}
  for url,provider,matched in candidates:
