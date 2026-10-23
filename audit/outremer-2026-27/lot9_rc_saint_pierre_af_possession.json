@@ -1,18 +1,9 @@
 [
   {
-    "id": "1990262000263",
-    "name": "Rc St Pierre",
-    "source": "https://rc-st-pierre.footeo.com/",
-    "status": "published",
-    "url": "https://s3.static-footeo.com/uploads/rc-st-pierre/news/009__qnut8x.jpg",
-    "sha256": "0e125d10947763ca3f2bad47d2c671452565f08e9aa8d03366beb6b587c7b53a",
-    "bytes": 16258
-  },
-  {
     "id": "1990262000163",
     "name": "Af Possession",
     "source": "https://afpossession.footeo.com/",
     "status": "not_verified",
-    "error": "No unique identity-specific club image ['https://s2.static-footeo.com/100/uploads/afpossession/logo__76a9t25cl.png', 'https://s1.static-footeo.com/250/uploads/afpossession/logo__76a9t25cl.png']"
+    "error": "Multiple unrelated images ['https://s2.static-footeo.com/100/uploads/afpossession/logo__76a9t25cl.png', 'https://s1.static-footeo.com/250/uploads/afpossession/logo__76a9t25cl.png']"
   }
 ]
