@@ -30,10 +30,19 @@ def load(blob,url):
     im.load()
     if min(im.size)<50 or max(im.size)>6000:raise ValueError("Invalid dimensions")
     im=im.convert("RGBA")
+    # Remove only the border-connected near-white source background.
+    from PIL import ImageDraw
+    for point in [(0,0),(im.width-1,0),(0,im.height-1),(im.width-1,im.height-1)]:
+        px=im.getpixel(point)
+        if min(px[:3])>=243 and px[3]>230:
+            ImageDraw.floodfill(im,point,(255,255,255,0),thresh=13)
     if not im.getchannel("A").getbbox():raise ValueError("Empty image")
     return im
 
 def source(c):
+    if c.get("direct_url"):
+        url=c["direct_url"]
+        return load(download(url),url),url,"visually_checked_2026_crest"
     if c.get("svg"):
         url="https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/northern-ireland/"+quote(c["svg"])
         return load(download(url),url),url,"public_svg"
