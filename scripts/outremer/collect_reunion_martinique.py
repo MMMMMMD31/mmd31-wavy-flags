@@ -82,6 +82,11 @@ NAME_ALIASES.update({
  "1990262000205":["Effort le Morne Vert"],
  "1990262000206":["Racine Club Bokannal"]
 })
+# Extra official short-name matches validated with 2026 senior lineups.
+NAME_ALIASES.update({
+ "1990262000139":["Association FC Olympique de Savannah"],
+ "1990262000106":["Ev. les Trois Ilets"]
+})
 # Reviewed full-name aliases from territory-specific football directories (not other sports).
 NAME_ALIASES.update({
  "1990262000148":["Olympique Football Entre Deux"],
