@@ -1,0 +1,381 @@
+[
+  {
+    "name": "AFC Portchester",
+    "tries": [
+      {
+        "url": "https://en.wikipedia.org/wiki/AFC_Portchester_F.C.",
+        "status": 404,
+        "length": 50721,
+        "title": "AFC Portchester F.C. - Wikipedia",
+        "first_images": []
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/AFC_Portchester_A.F.C.",
+        "status": 404,
+        "length": 50827,
+        "title": "AFC Portchester A.F.C. - Wikipedia",
+        "first_images": []
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/AFC_Portchester",
+        "status": 200,
+        "length": 159360,
+        "title": "A.F.C. Portchester - Wikipedia",
+        "first_images": [
+          {
+            "src": "//thumb.wikimedia.org/wikipedia/en/thumb/e/ef/AFC_Portchester_logo.png/250px-AFC_Portchester_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+            "alt": null
+          },
+          {
+            "src": "//thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Kit_left_arm.svg/40px-Kit_left_arm.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+            "alt": ""
+          },
+          {
+            "src": "//upload.wikimedia.org/wikipedia/commons/5/5c/Kit_body_thinblacksides.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+            "alt": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bedfont Sports",
+    "tries": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Bedfont_Sports_F.C.",
+        "status": 200,
+        "length": 174958,
+        "title": "Bedfont Sports F.C. - Wikipedia",
+        "first_images": [
+          {
+            "src": "//thumb.wikimedia.org/wikipedia/en/thumb/a/a9/Bedfont_Sports_F.C._logo.png/250px-Bedfont_Sports_F.C._logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+            "alt": null
+          },
+          {
+            "src": "//upload.wikimedia.org/wikipedia/commons/b/bf/Kit_left_arm_whiteborder.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+            "alt": ""
+          },
+          {
+            "src": "//thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Kit_left_arm.svg/40px-Kit_left_arm.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+            "alt": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bognor Regis Town",
+    "tries": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Bognor_Regis_Town_F.C.",
+        "status": 200,
+        "length": 246808,
+        "title": "Bognor Regis Town F.C. - Wikipedia",
+        "first_images": [
+          {
+            "src": "//thumb.wikimedia.org/wikipedia/en/thumb/9/9f/Bognorregistownfc.png/250px-Bognorregistownfc.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+            "alt": null
+          },
+          {
+            "src": "//upload.wikimedia.org/wikipedia/commons/f/fc/Kit_left_arm_greenborder.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+            "alt": ""
+          },
+          {
+            "src": "//thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Kit_left_arm.svg/40px-Kit_left_arm.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+            "alt": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Jersey Bulls",
+    "tries": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Jersey_Bulls_F.C.",
+        "status": 200,
+        "length": 335758,
+        "title": "Jersey Bulls F.C. - Wikipedia",
+        "first_images": [
+          {
+            "src": "//thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Jersey_Bulls.svg/250px-Jersey_Bulls.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+            "alt": null
+          },
+          {
+            "src": "//thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Kit_left_arm.svg/40px-Kit_left_arm.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+            "alt": ""
+          },
+          {
+            "src": "//thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Kit_body.svg/40px-Kit_body.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+            "alt": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bowers & Pitsea",
+    "tries": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Bowers_%26_Pitsea_F.C.",
+        "status": 200,
+        "length": 160868,
+        "title": "Bowers & Pitsea F.C. - Wikipedia",
+        "first_images": [
+          {
+            "src": "//thumb.wikimedia.org/wikipedia/en/thumb/6/66/Bowers_%26_Pitsea_logo.png/250px-Bowers_%26_Pitsea_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+            "alt": null
+          },
+          {
+            "src": "//upload.wikimedia.org/wikipedia/commons/7/76/Kit_left_arm_whitelines.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+            "alt": ""
+          },
+          {
+            "src": "//thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Kit_left_arm.svg/40px-Kit_left_arm.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+            "alt": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hendon",
+    "tries": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Hendon_F.C.",
+        "status": 200,
+        "length": 214860,
+        "title": "Hendon F.C. - Wikipedia",
+        "first_images": [
+          {
+            "src": "//thumb.wikimedia.org/wikipedia/en/thumb/4/4b/HendonFcCrest.png/250px-HendonFcCrest.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+            "alt": null
+          },
+          {
+            "src": "//thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Kit_left_arm.svg/40px-Kit_left_arm.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+            "alt": ""
+          },
+          {
+            "src": "//upload.wikimedia.org/wikipedia/commons/d/db/Kit_body_shoulder_stripes_white_stripes.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+            "alt": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Guernsey",
+    "tries": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Guernsey_F.C.",
+        "status": 200,
+        "length": 406515,
+        "title": "Guernsey F.C. - Wikipedia",
+        "first_images": [
+          {
+            "src": "//thumb.wikimedia.org/wikipedia/en/thumb/9/99/Guernsey_F.C..svg/250px-Guernsey_F.C..svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+            "alt": null
+          },
+          {
+            "src": "//thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Kit_left_arm.svg/40px-Kit_left_arm.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+            "alt": ""
+          },
+          {
+            "src": "//upload.wikimedia.org/wikipedia/commons/9/91/Kit_body_thinwhitesides.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+            "alt": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Newmarket Town",
+    "tries": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Newmarket_Town_F.C.",
+        "status": 200,
+        "length": 189088,
+        "title": "Newmarket Town F.C. - Wikipedia",
+        "first_images": [
+          {
+            "src": "//thumb.wikimedia.org/wikipedia/en/thumb/2/29/Newmarket_Town_FC.PNG/250px-Newmarket_Town_FC.PNG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+            "alt": null
+          },
+          {
+            "src": "//thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Kit_left_arm.svg/40px-Kit_left_arm.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+            "alt": ""
+          },
+          {
+            "src": "//thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Kit_body.svg/40px-Kit_body.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+            "alt": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Fakenham Town",
+    "tries": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Fakenham_Town_F.C.",
+        "status": 200,
+        "length": 149382,
+        "title": "Fakenham Town F.C. - Wikipedia",
+        "first_images": [
+          {
+            "src": "//upload.wikimedia.org/wikipedia/en/f/ff/Fakenham_Town_FC.PNG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+            "alt": null
+          },
+          {
+            "src": "//thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Kit_left_arm.svg/40px-Kit_left_arm.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+            "alt": ""
+          },
+          {
+            "src": "//upload.wikimedia.org/wikipedia/commons/3/37/Kit_body_black_nzfc_shoulders.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+            "alt": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Baffins Milton Rovers",
+    "tries": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Baffins_Milton_Rovers_F.C.",
+        "status": 200,
+        "length": 132811,
+        "title": "Baffins Milton Rovers F.C. - Wikipedia",
+        "first_images": [
+          {
+            "src": "//thumb.wikimedia.org/wikipedia/en/thumb/8/88/BaffinsMiltonRoversFC.png/250px-BaffinsMiltonRoversFC.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+            "alt": null
+          },
+          {
+            "src": "//thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Kit_left_arm.svg/40px-Kit_left_arm.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+            "alt": ""
+          },
+          {
+            "src": "//thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Kit_body.svg/40px-Kit_body.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+            "alt": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "AFC Liverpool",
+    "tries": [
+      {
+        "url": "https://en.wikipedia.org/wiki/AFC_Liverpool_F.C.",
+        "status": 404,
+        "length": 50615,
+        "title": "AFC Liverpool F.C. - Wikipedia",
+        "first_images": []
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/AFC_Liverpool_A.F.C.",
+        "status": 404,
+        "length": 50721,
+        "title": "AFC Liverpool A.F.C. - Wikipedia",
+        "first_images": []
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/AFC_Liverpool",
+        "status": 200,
+        "length": 182763,
+        "title": "A.F.C. Liverpool - Wikipedia",
+        "first_images": [
+          {
+            "src": "//thumb.wikimedia.org/wikipedia/en/thumb/0/0f/AFC_Liverpool_logo.png/250px-AFC_Liverpool_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+            "alt": null
+          },
+          {
+            "src": "//upload.wikimedia.org/wikipedia/commons/0/01/Kit_left_arm_white_hoop.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+            "alt": ""
+          },
+          {
+            "src": "//thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Kit_left_arm.svg/40px-Kit_left_arm.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+            "alt": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "AFC Wolverhampton City",
+    "tries": [
+      {
+        "url": "https://en.wikipedia.org/wiki/AFC_Wolverhampton_City_F.C.",
+        "status": 404,
+        "length": 51092,
+        "title": "AFC Wolverhampton City F.C. - Wikipedia",
+        "first_images": []
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/AFC_Wolverhampton_City_A.F.C.",
+        "status": 404,
+        "length": 51198,
+        "title": "AFC Wolverhampton City A.F.C. - Wikipedia",
+        "first_images": []
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/AFC_Wolverhampton_City",
+        "status": 404,
+        "length": 50829,
+        "title": "AFC Wolverhampton City - Wikipedia",
+        "first_images": []
+      }
+    ]
+  },
+  {
+    "name": "AFC Varndeanians",
+    "tries": [
+      {
+        "url": "https://en.wikipedia.org/wiki/AFC_Varndeanians_F.C.",
+        "status": 200,
+        "length": 151175,
+        "title": "AFC Varndeanians F.C. - Wikipedia",
+        "first_images": [
+          {
+            "src": "//thumb.wikimedia.org/wikipedia/en/thumb/e/e6/AFCVarndeniansFC.png/250px-AFCVarndeniansFC.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+            "alt": null
+          },
+          {
+            "src": "//thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Kit_left_arm.svg/40px-Kit_left_arm.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+            "alt": ""
+          },
+          {
+            "src": "//upload.wikimedia.org/wikipedia/commons/0/0f/Kit_body_striped19red.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+            "alt": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bracknell Town",
+    "tries": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Bracknell_Town_F.C.",
+        "status": 200,
+        "length": 233584,
+        "title": "Bracknell Town F.C. - Wikipedia",
+        "first_images": [
+          {
+            "src": "//thumb.wikimedia.org/wikipedia/en/thumb/1/1f/Bracknell_Town_FC_Badge.png/250px-Bracknell_Town_FC_Badge.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+            "alt": null
+          },
+          {
+            "src": "//upload.wikimedia.org/wikipedia/commons/7/7d/Kit_left_arm_black_stripes.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+            "alt": ""
+          },
+          {
+            "src": "//thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Kit_left_arm.svg/40px-Kit_left_arm.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+            "alt": ""
+          }
+        ]
+      }
+    ]
+  }
+]
