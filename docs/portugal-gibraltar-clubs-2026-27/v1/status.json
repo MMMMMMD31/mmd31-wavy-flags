@@ -1,7 +1,7 @@
 {
   "expected": 400,
-  "created": 399,
-  "missing_count": 1,
+  "created": 400,
+  "missing_count": 0,
   "format": "PNG 120x96, real crest centered on solid club color derived from crest when possible",
   "generated_at": "2026-10-23",
   "assets": [
@@ -2356,6 +2356,16 @@
       "png_sha256": "3973878b82ad8c55e5f405c1d9965dd6701098a2e174a5944c02b23353ed8678"
     },
     {
+      "id": 1905100000236,
+      "name": "Salão",
+      "source": "https://www.europlan-online.de/files/6bb8bb2f7c65c05fbe70370c24beae16.png",
+      "source_sha256": "0ee1317207e1576404a7011f46e440017ba7fcd9b46442a41b0ac7bf638656f2",
+      "path": "docs/portugal-gibraltar-clubs-2026-27/v1/1905100000236.png",
+      "background": "#6978B1",
+      "background_basis": "derived from crest chromatic pixels",
+      "png_sha256": "224ad194210797fda1d1b0e290d3f8c6454502f609935bca08303cbd78986cd9"
+    },
+    {
       "id": 1905100000237,
       "name": "Vitória do Pico",
       "source": "https://escudosfc.com.br/images/vitoria_pico_por.gif",
@@ -3996,12 +4006,5 @@
       "png_sha256": "47365075bc34761c8ea5208017e8969fce8a24e8a75103e3f06cdf9825799ebf"
     }
   ],
-  "missing": [
-    {
-      "id": 1905100000236,
-      "name": "Salão",
-      "source": "https://www.europlan-online.de/waldsportplatz/files/6bb8bb2f7c65c05fbe70370c24beae16.png",
-      "error": "404 Client Error: Not Found for url: https://www.europlan-online.de/waldsportplatz/files/6bb8bb2f7c65c05fbe70370c24beae16.png"
-    }
-  ]
+  "missing": []
 }
