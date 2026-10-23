@@ -61,55 +61,22 @@ def guardian_catalog():
 
 
 def lowland_club_logo(name):
- # Official Scottish Lowland Football League crest source. Use the team-specific official club page.
- from urllib.parse import urljoin, unquote
- from bs4 import BeautifulSoup
- query=norm(name)
- if name=="Bonnyrigg Rose Athletic":query=norm("Bonnyrigg Rose")
- page=get("https://slfl.co.uk/clubs/")
- if not page:return None
+ # Only trust exact basename tied to an actual club (not decorative/stock website images).
+ from urllib.parse import urljoin,unquote
  try:
+  from bs4 import BeautifulSoup
+  page=get("https://slfl.co.uk/clubs/")
+  if not page:return None
   soup=BeautifulSoup(page.text,"html.parser")
-
- # Official league club directory exposes authentic PNGs in July 2026 media.
- # Match an image's exact filename to the club name; never trust unrelated page photos.
- from urllib.parse import unquote,urljoin
- for im in soup.find_all("img"):
-  for raw in (im.get("data-src"),im.get("src")):
-   if not raw:continue
-   u=urljoin("https://slfl.co.uk/",raw)
-   path=urlparse(u).path.lower()
-   if "/uploads/" not in path or not path.endswith((".png",".webp")):continue
-   stem=unquote(urlparse(u).path.split("/")[-1]).rsplit(".",1)[0]
-   stem=re.sub(r"-\d+x\d+$","",stem)
-   if norm(stem)==query:
-    return (u,"Official Scottish Lowland Football League",name)
-
-  for link in soup.find_all("a",href=True):
-   href=link["href"]
-   if "/clubs/" not in href or href.rstrip("/").endswith("/clubs"):continue
-   linktext=link.get_text(" ",strip=True)
-   if not norm(linktext).startswith(query):continue
-   # Identity is verified by official team-specific club directory link and logo image.
-   images=list(link.find_all("img"))
-   for img in images:
-    u=img.get("data-src") or img.get("src")
-    if not u:continue
-    u=urljoin("https://slfl.co.uk/",u)
-    filename=slug(unquote(urlparse(u).path.split("/")[-1]).split(".")[0])
-    if filename and (filename.startswith(query) or query.startswith(filename)):
-     return (u,"Official Scottish Lowland Football League",linktext)
-   # Some listings have the crest in the team page rather than inside its directory anchor.
-   detail=get(urljoin("https://slfl.co.uk/",href))
-   if not detail:continue
-   bs=BeautifulSoup(detail.text,"html.parser")
-   for img in bs.find_all("img"):
-    u=img.get("data-src") or img.get("src")
-    if not u:continue
-    u=urljoin("https://slfl.co.uk/",u)
-    fn=norm(unquote(urlparse(u).path.split("/")[-1]).split(".")[0])
-    if fn and (fn==query or fn.startswith(query+"-crest") or fn.startswith(query+"-logo")):
-     return (u,"Official Scottish Lowland Football League",linktext)
+  query=norm("Bonnyrigg Rose" if name=="Bonnyrigg Rose Athletic" else name)
+  for im in soup.find_all("img"):
+   for raw in (im.get("data-src"),im.get("src")):
+    if not raw:continue
+    u=urljoin("https://slfl.co.uk/",raw)
+    if not urlparse(u).path.lower().endswith((".png",".webp",".svg")):continue
+    stem=unquote(urlparse(u).path.split("/")[-1]).rsplit(".",1)[0]
+    stem=re.sub(r"-\d+x\d+$","",stem)
+    if norm(stem)==query:return (u,"Official SLFL website",name)
  except Exception:pass
  return None
 
