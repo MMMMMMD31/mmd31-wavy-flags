@@ -1,13 +1,14 @@
 {
-  "initial_published": 264,
-  "initial_remaining": 62,
-  "new_published": 27,
-  "still_missing": 35,
-  "total_published": 291,
+  "initial_published": 289,
+  "initial_remaining": 37,
+  "new_published": 7,
+  "still_missing": 30,
+  "total_published": 296,
   "statuses": {
-    "not_verified": 34,
+    "published": 7,
     "rights_not_cleared": 1,
-    "published": 27
+    "not_verified": 27,
+    "generic_quarantined": 2
   },
   "source": "automated identity-aware collection; visual review not exhaustive"
 }

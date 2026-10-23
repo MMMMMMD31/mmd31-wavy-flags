@@ -1,30 +1,29 @@
 team_id,club,territory,status,source,image_url,reason,sha256
-1990262000021,A.S. Grand Santi,Guyane,not_verified,,,HTTPError,
+1990262000021,A.S. Grand Santi,Guyane,published,https://escudosfc.com.br/fguy.htm,https://escudosfc.com.br/images/grand_santi_fg.png,logo_alt=Grand Santi;confidence=1.00,d09230238ef09308bb1bb28f0cde69cd212b850d1a1d0add8c499caffe937e2f
 1990262000029,Golden Lion Fc,Martinique,rights_not_cleared,,,,
 1990262000093,A.O.M,Guyane,not_verified,,,HTTPError,
 1990262000111,Fam,Martinique,not_verified,,,HTTPError,
-1990262000117,Reveil Sportif,Martinique,published,https://www.sportcorico.com/clubs/reveil-s,https://s3.pub2.infomaniak.cloud/object/v1/AUTH_7caca171fcb14ede88bd14eb36f90e50/sportcorico-media/logos/logo-reveil-sportif-513592.jpg,logo_alt=logo Reveil S.;confidence=1.00,dd00d5eab256557e6289db655be37a9e2e6f65f6224c5455536fa20a32d8ce33
 1990262000121,Ent.Etoile Riveraine,Martinique,not_verified,,,HTTPError,
 1990262000143,Us Bell Canot,La Réunion,not_verified,,,HTTPError,
-1990262000153,Jcv -Saint Pierre,La Réunion,not_verified,,,HTTPError,
+1990262000153,Jcv -Saint Pierre,La Réunion,published,https://escudosfc.com.br/reu.htm,https://escudosfc.com.br/images/saintpierroise_reu.png,logo_alt=Saint-Pierroise;confidence=0.77,1d3414094ad7878241ac730db2285d58aaaf95c9b39937bd49454d28c6c71dc7
 1990262000154,As Red Star,La Réunion,not_verified,,,quarantined generic;HTTPError,
 1990262000155,As Montgaillard,La Réunion,not_verified,,,HTTPError,
 1990262000163,Af Possession,La Réunion,not_verified,,,HTTPError,
-1990262000164,Fc Riv D Galets,La Réunion,not_verified,,,HTTPError,
+1990262000164,Fc Riv D Galets,La Réunion,published,https://escudosfc.com.br/reu.htm,https://escudosfc.com.br/images/riviere_galets_reu.jpg,logo_alt=Riviere des Galets;confidence=1.00,d68c944bddcc2be57ce6c6e99dfc1431d2818369a6dd93e99483f2742115f50d
 1990262000169,As Poudriere,La Réunion,not_verified,,,quarantined generic;HTTPError,
 1990262000179,U.S. St-Elie,Guyane,not_verified,,,HTTPError,
 1990262000182,Loya F.C.,Guyane,not_verified,,,HTTPError,
 1990262000186,Celtic Sa,Guyane,not_verified,,,HTTPError,
-1990262000197,L'Intrepide,Martinique,published,https://escudosfc.com.br/mart.htm,https://escudosfc.com.br/images/iterpide_mart.gif,logo_alt=Intrépide;confidence=0.90,4d43d48eb263564b8dcb3b4a168b78ba74742e47852d430a63df2fd88189a4f5
 1990262000200,J.S. Marigot,Martinique,not_verified,,,HTTPError,
-1990262000220,Asj Moinatrindri,Mayotte,published,https://www.sportcorico.com/clubs/asj-moinatrindri,https://s3.pub2.infomaniak.cloud/object/v1/AUTH_7caca171fcb14ede88bd14eb36f90e50/sportcorico-media/logos/logo-asj-moinatrindri-547370.jpg,logo_alt=logo ASj. Moinatrindri;confidence=1.00,bb4a67f8eade0dbc0e3cc153af2b4a7daca289855e2bc696706cc9c2f2510e49
+1990262000203,Etincelle,Martinique,generic_quarantined,,,Previous identical crest under unrelated club identities,
+1990262000220,Asj Moinatrindri,Mayotte,generic_quarantined,,,Previous identical crest under unrelated club identities,
 1990262000236,Js Bois De Nefles,La Réunion,not_verified,,,quarantined generic;HTTPError,
 1990262000239,Asc Labourdonnais,La Réunion,not_verified,,,HTTPError,
 1990262000241,Jsc Rne Creuse,La Réunion,not_verified,,,HTTPError,
 1990262000252,As Colimacons,La Réunion,not_verified,,,quarantined generic;HTTPError,
 1990262000253,Ajs Bellemene,La Réunion,not_verified,,,quarantined generic;HTTPError,
 1990262000259,As Du Plate,La Réunion,not_verified,,,quarantined generic;HTTPError,
-1990262000260,E.S. Tamponnaise,La Réunion,not_verified,,,HTTPError,
+1990262000260,E.S. Tamponnaise,La Réunion,published,https://escudosfc.com.br/reu.htm,https://escudosfc.com.br/images/la_tempon_reu.png,logo_alt=La Tamponnaise;confidence=0.83,7c50e66dbe82b4d25e3ad887ea9141300b04b5f2bd46188d1c7729eb461b6807
 1990262000263,Rc St Pierre,La Réunion,not_verified,,,HTTPError,
 1990262000264,Asfc Palmiste,La Réunion,not_verified,,,HTTPError,
 1990262000265,A. M. Terre Sainte,La Réunion,not_verified,,,HTTPError,
@@ -33,31 +32,7 @@ team_id,club,territory,status,source,image_url,reason,sha256
 1990262000279,F.C. Pl D Gregues,La Réunion,not_verified,,,HTTPError,
 1990262000282,Vaovao Sp Cult,La Réunion,not_verified,,,HTTPError,
 1990262000284,A.S. Ilienne Amateurs,Saint-Pierre-et-Miquelon,not_verified,,,HTTPError,
-1990262000292,Arue,Polynésie française,published,https://escudosfc.com.br/tahi.htm,https://escudosfc.com.br/images/arue_tahi.jpg,logo_alt=Arue;confidence=1.00,88fd173d9deb95cda1a6c669226973bd278ffa388c2498641308da471d0c6f87
-1990262000294,Vénus,Polynésie française,published,https://escudosfc.com.br/tahi.htm,https://escudosfc.com.br/images/venus_tahi.png,logo_alt=Venus;confidence=1.00,224e305fc7ad599dd23d28ab5df331acb7706227111846bab9e1898d2341af51
-1990262000295,Olympic Mahina,Polynésie française,published,https://escudosfc.com.br/tahi.htm,https://escudosfc.com.br/images/olympic_mahina_tahi.png,logo_alt=Olympic Mahina;confidence=1.00,af9cd87e3766dece68a892450038ece52814e3da898b4728879cb5f1d085c3a5
-1990262000296,Mataiea,Polynésie française,published,https://escudosfc.com.br/tahi.htm,https://escudosfc.com.br/images/mataiea_tai.png,logo_alt=Mataiea;confidence=1.00,7571233705762e262801d258f5d9d31d7c6cbba95e8ee1df50a68f2e45ec5a91
-1990262000297,Manu Ura,Polynésie française,published,https://escudosfc.com.br/tahi.htm,https://escudosfc.com.br/images/manu_ura_tahi.jpg,logo_alt=Manu-Ura;confidence=1.00,ae346c0ce7cbb005e573bd7193dc94a3ffa72e603b2eec715c7aa87383644919
-1990262000298,Papara FC,Polynésie française,published,https://escudosfc.com.br/tahi.htm,https://escudosfc.com.br/images/papara_tai.jpg,logo_alt=Papara;confidence=1.00,9f233f65021089cf160d243eaf449f7e5427bc7f16e14ef881cccaeedd7d8098
-1990262000299,Excelsior,Polynésie française,published,https://escudosfc.com.br/tahi.htm,https://escudosfc.com.br/images/excelsior_tahi.jpg,logo_alt=Excelsior;confidence=1.00,09468b35c1675531ca9ef8ff1fda79689b3db6b9c18154761f7a72df22dd5f48
-1990262000301,Papeno’o,Polynésie française,published,https://escudosfc.com.br/tahi.htm,https://escudosfc.com.br/images/papenoo_tahi.jpg,logo_alt=Papenoo;confidence=1.00,95309c07bca852d3e557006f0db3abd40e43fd65e4dfe6bee3e5207156cf1dd5
-1990262000303,Jeunes Tahitiens,Polynésie française,published,https://escudosfc.com.br/tahi.htm,https://escudosfc.com.br/images/jeunes_tahi.png,logo_alt=Jeunes Tahitiens;confidence=1.00,bc06e2d50c0c44c0c5f903ec8209ce3ed9d06a6932b097e66b531145e14c41fe
-1990262000304,Central Sport,Polynésie française,published,https://escudosfc.com.br/tahi.htm,https://escudosfc.com.br/images/central_tai.png,logo_alt=Central Sport;confidence=1.00,8a13ad0ecca984c5d2b01fc909633289c962a239432963ecf86a368e3275457b
-1990262000305,Pueu,Polynésie française,published,https://escudosfc.com.br/tahi.htm,https://escudosfc.com.br/images/pueu_tai.jpg,logo_alt=Pueu;confidence=1.00,5f99e3c0ea9cb5deb952457375f52d91063d3ceb314e6d99d275a116749449ad
-1990262000306,Tamarii Punaruu,Polynésie française,published,https://escudosfc.com.br/tahi.htm,https://escudosfc.com.br/images/tamarri_punariu_tahi.jpg,logo_alt=Tamarii Punaruu;confidence=1.00,445e6dd50b1a5f4d51d85ad287b5cb75983c11b664e3e420d09ddf8bcfbc9eab
-1990262000307,Taiarapu FC,Polynésie française,published,https://escudosfc.com.br/tahi.htm,https://escudosfc.com.br/images/tairapu_tahi.jpg,logo_alt=Taiarapu;confidence=1.00,e0e6bf53e532c7e2e6161a108941998967b4f99f996c889aaa3dabaa918c74c5
-1990262000308,Vaiete,Polynésie française,published,https://escudosfc.com.br/tahi.htm,https://escudosfc.com.br/images/vaiete_tahi.jpg,logo_alt=Vaiete;confidence=1.00,17ac3f331b2198a186047040cf9a51ae44765304c315b2a6b7a709b8107900c2
-1990262000309,Tiare Tahiti,Polynésie française,published,https://escudosfc.com.br/tahi.htm,https://escudosfc.com.br/images/tiare_tahiti_tahi.jpg,logo_alt=Tiare Tahiti;confidence=1.00,431770169599f287b693ecde63eaea83aebac8f5c7b6fdda107e98de16079d38
-1990262000310,Mira,Polynésie française,published,https://escudosfc.com.br/tahi.htm,https://escudosfc.com.br/images/mira_tahi.jpg,logo_alt=Mira;confidence=1.00,f62fed7200eb01c5d094ce63c14431e3739d90048000f7edf3b2d676e7456d12
-1990262000311,Tapuhute,Polynésie française,published,https://escudosfc.com.br/tahi.htm,https://escudosfc.com.br/images/tamarii_tapuhute_tahi.jpg,logo_alt=Tamarii Tapuhute;confidence=1.00,a59f697c62143f3f47174e003759b672b728439d611764a69cae6f2dd54f8cc7
-1990262000312,Tiare Anani,Polynésie française,published,https://escudosfc.com.br/tahi.htm,https://escudosfc.com.br/images/tiare_anani_tahi.jpg,logo_alt=Tiare Anani;confidence=1.00,c78edb01801bf048dc68e926ed412e7f3a1499f877392718725cd19ec06fc73e
-1990262000313,Tiare Hinano,Polynésie française,published,https://escudosfc.com.br/tahi.htm,https://escudosfc.com.br/images/tiare_hinano_tahi.jpg,logo_alt=Tiare Hinano;confidence=1.00,ebd0bbaf090a47b36c4768d69455d231ed702546ed4d2122c3c790fe2582203a
-1990262000314,Tearaa,Polynésie française,published,https://escudosfc.com.br/tahi.htm,https://escudosfc.com.br/images/tearaa_tahi.jpg,logo_alt=Tearaa;confidence=1.00,96a820549c12956accb9056d59ddb91b7c3f8df085a0a8107ff00632b46ad432
-1990262000315,Temanava,Polynésie française,published,https://escudosfc.com.br/tahi.htm,https://escudosfc.com.br/images/temanava_tahi.jpg,logo_alt=Temanava;confidence=1.00,42a9e5fdf22a50f5501123937feed2a1a605cc21b904b64bc00d63169665f852
 1990262000316,Tohie’a FC,Polynésie française,not_verified,,,HTTPError,
-1990262000318,ASC Gaïca,Nouvelle-Calédonie,not_verified,,,HTTPError,
-1990262000320,AS Lössi,Nouvelle-Calédonie,published,https://www.footballlogosandkits.com/M%26LOGOS%2BNEW%20CALEDONIA,https://footballlogosandkits.com/images_esc3/OFC/NUEVA%20CALEDONIA/escudos_min/MIN_ESC_A.S.%20L%D6SSI.png,logo_alt=Logo of A.S. LÖSSI-min;confidence=0.76,d8af7460cb6fbe38c7717530565bdbe74cb8571a48d0c938efa2861cf2d6aefc
-1990262000322,AS Kunié,Nouvelle-Calédonie,published,https://escudosfc.com.br/cal.htm,https://escudosfc.com.br/images/kunie_cal.png,logo_alt=Kunié;confidence=0.77,22253f9e4e4a1fd86b68637f7e1c4c7fec9c38dea74593872fea5d56fdccfd73
-1990262000323,SC Ne Drehu,Nouvelle-Calédonie,not_verified,,,HTTPError,
-1990262000324,CA Saint-Louis,Nouvelle-Calédonie,published,https://www.bibliotecariodelfutbol.com/team/saint-louis,https://www.bibliotecariodelfutbol.com/escudos/saint-louis.png,logo_alt=Saint-Louis crest;confidence=0.79,221df6111c0272a298f27133f32975b0a1b36025cdcc9970c26e122642fb2360
-1990262000325,Horizon Patho,Nouvelle-Calédonie,not_verified,,,HTTPError,
+1990262000318,ASC Gaïca,Nouvelle-Calédonie,published,https://escudosfc.com.br/cal.htm,https://escudosfc.com.br/images/gaitcha_cal.png,"Manual source match, 2026 Caledonia league crest",a073ec9788ffc73e29d321b39ea9715e7fbd9b47a940cd3c637b9adc147d7a59
+1990262000323,SC Ne Drehu,Nouvelle-Calédonie,published,https://escudosfc.com.br/cal.htm,https://escudosfc.com.br/images/ne_drehu_cal.png,"Manual source match, 2026 Caledonia league crest",d8d9fbd494fb2a427f687bd5ab942065c272f9688d5986b3c82c2ed8a1fe50a3
+1990262000325,Horizon Patho,Nouvelle-Calédonie,published,https://escudosfc.com.br/cal.htm,https://escudosfc.com.br/images/horizon_cal.png,"Manual source match, 2026 Caledonia league crest",196c0e695e552b475a4da58c3119e46c045b29253cb0dfd4b2331a16f7eb84cf
