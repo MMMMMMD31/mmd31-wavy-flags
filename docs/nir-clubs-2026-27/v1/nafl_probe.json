@@ -1,0 +1,130 @@
+[
+  {
+    "page": "https://www.thenafl.co.uk/fixtures",
+    "status": 200,
+    "length": 3701,
+    "imgs": [],
+    "scripts": [
+      "https://cdn.tailwindcss.com",
+      "https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js",
+      "https://unpkg.com/feather-icons",
+      "components/navbar.js",
+      "components/footer.js",
+      "script.js?v=20260204-1",
+      "division-themes.js"
+    ],
+    "snippets": []
+  },
+  {
+    "page": "https://www.thenafl.co.uk/tables",
+    "status": 200,
+    "length": 5633,
+    "imgs": [],
+    "scripts": [
+      "https://cdn.tailwindcss.com",
+      "https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js",
+      "https://unpkg.com/feather-icons",
+      "components/navbar.js",
+      "components/footer.js",
+      "script.js?v=20260721-1",
+      "division-themes.js"
+    ],
+    "snippets": []
+  },
+  {
+    "page": "https://www.thenafl.co.uk/results",
+    "status": 200,
+    "length": 3670,
+    "imgs": [],
+    "scripts": [
+      "https://cdn.tailwindcss.com",
+      "https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js",
+      "https://unpkg.com/feather-icons",
+      "components/navbar.js",
+      "components/footer.js",
+      "script.js?v=20260731-1",
+      "division-themes.js"
+    ],
+    "snippets": []
+  },
+  {
+    "page": "https://midulsterfootballleague.co.uk/clubdetails-b/",
+    "status": 200,
+    "length": 453828,
+    "imgs": [
+      {
+        "alt": "Logo",
+        "src": "https://midulsterfootballleague.co.uk/wp-content/uploads/2026/05/MUFL-scaled.png",
+        "data_src": null
+      },
+      {
+        "alt": "Logo",
+        "src": "https://midulsterfootballleague.co.uk/wp-content/uploads/2026/05/MUFL-scaled.png",
+        "data_src": null
+      },
+      {
+        "alt": "/wp-content/uploads/2026/06/ballymacashrangers.jpg",
+        "src": "/wp-content/uploads/2026/06/ballymacashrangers.jpg",
+        "data_src": null
+      },
+      {
+        "alt": "/wp-content/uploads/2026/06/Ballynahinch-Rangers-1.png",
+        "src": "/wp-content/uploads/2026/06/Ballynahinch-Rangers-1.png",
+        "data_src": null
+      },
+      {
+        "alt": "/wp-content/uploads/2026/06/ballyoran.jpg",
+        "src": "/wp-content/uploads/2026/06/ballyoran.jpg",
+        "data_src": null
+      },
+      {
+        "alt": "/wp-content/uploads/2026/06/ballyvea.jpg",
+        "src": "/wp-content/uploads/2026/06/ballyvea.jpg",
+        "data_src": null
+      },
+      {
+        "alt": "/wp-content/uploads/2026/06/banbridgerangers.jpg",
+        "src": "/wp-content/uploads/2026/06/banbridgerangers.jpg",
+        "data_src": null
+      },
+      {
+        "alt": "/wp-content/uploads/2026/06/banbridgetown.jpg",
+        "src": "/wp-content/uploads/2026/06/banbridgetown.jpg",
+        "data_src": null
+      },
+      {
+        "alt": "/wp-content/uploads/2026/06/bessbrookunited.jpg",
+        "src": "/wp-content/uploads/2026/06/bessbrookunited.jpg",
+        "data_src": null
+      },
+      {
+        "alt": "/wp-content/uploads/2026/06/bourneviewmill.jpg",
+        "src": "/wp-content/uploads/2026/06/bourneviewmill.jpg",
+        "data_src": null
+      },
+      {
+        "alt": "/wp-content/uploads/2026/06/broomhedgemaghaberry.jpg",
+        "src": "/wp-content/uploads/2026/06/broomhedgemaghaberry.jpg",
+        "data_src": null
+      }
+    ],
+    "scripts": [
+      "https://midulsterfootballleague.co.uk/wp-content/themes/splash/assets/js/lightbox.js?ver=4.4.6",
+      "https://midulsterfootballleague.co.uk/wp-content/themes/splash/assets/js/splash.js?ver=4.4.6",
+      "https://midulsterfootballleague.co.uk/wp-content/themes/splash/assets/js/header.js?ver=4.4.6",
+      "https://midulsterfootballleague.co.uk/wp-content/themes/splash/assets/js/ticker_posts.js?ver=4.4.6",
+      "https://midulsterfootballleague.co.uk/wp-content/themes/splash/assets/js/ajax.submit.js?ver=4.4.6",
+      "https://midulsterfootballleague.co.uk/wp-content/themes/splash/assets/js/smoothScroll.js?ver=4.4.6",
+      "https://midulsterfootballleague.co.uk/wp-includes/js/dist/hooks.min.js?ver=7496969728ca0f95732d",
+      "https://midulsterfootballleague.co.uk/wp-includes/js/dist/i18n.min.js?ver=781d11515ad3d91786ec",
+      "https://midulsterfootballleague.co.uk/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.1.7",
+      "https://midulsterfootballleague.co.uk/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.7",
+      "https://midulsterfootballleague.co.uk/wp-content/plugins/sportspress/assets/js/jquery.dataTables.min.js?ver=1.10.4",
+      "https://midulsterfootballleague.co.uk/wp-content/plugins/sportspress/assets/js/sportspress.js?ver=2.7.31",
+      "https://midulsterfootballleague.co.uk/wp-content/plugins/wp-statistics/assets/js/tracker.js?ver=14.16.10",
+      "https://midulsterfootballleague.co.uk/wp-content/themes/splash/assets/js/ticker.js?ver=4.4.6",
+      "https://midulsterfootballleague.co.uk/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=9.0.1"
+    ],
+    "snippets": []
+  }
+]
