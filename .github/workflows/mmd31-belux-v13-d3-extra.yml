@@ -1,0 +1,30 @@
+name: MMD31 Belgian D3 researched logos 2026
+on:
+  push:
+    branches: [mmd31-belux-v13-d3-assets]
+    paths:
+      - 'tools/generate_belux_v13_d3_extra.py'
+      - '.github/workflows/mmd31-belux-v13-d3-extra.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install requests pillow
+      - run: python tools/generate_belux_v13_d3_extra.py
+      - name: Publish outputs
+        run: |
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git add docs/belgian-d3-clubs-2026-27/v13/
+          if ! git diff --cached --quiet; then
+            git commit -m "Publish manually identified Belgian D3 club crest images"
+            git push origin HEAD:refs/heads/${GITHUB_REF_NAME}
+          fi
