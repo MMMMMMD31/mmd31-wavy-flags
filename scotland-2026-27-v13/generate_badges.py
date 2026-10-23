@@ -59,6 +59,45 @@ def guardian_catalog():
   return result
  except Exception:return {}
 
+
+def lowland_club_logo(name):
+ # Official Scottish Lowland Football League crest source. Use the team-specific official club page.
+ from urllib.parse import urljoin, unquote
+ from bs4 import BeautifulSoup
+ query=norm(name)
+ if name=="Bonnyrigg Rose Athletic":query=norm("Bonnyrigg Rose")
+ page=get("https://slfl.co.uk/clubs/")
+ if not page:return None
+ try:
+  soup=BeautifulSoup(page.text,"html.parser")
+  for link in soup.find_all("a",href=True):
+   href=link["href"]
+   if "/clubs/" not in href or href.rstrip("/").endswith("/clubs"):continue
+   linktext=link.get_text(" ",strip=True)
+   if not norm(linktext).startswith(query):continue
+   # Identity is verified by official team-specific club directory link and logo image.
+   images=list(link.find_all("img"))
+   for img in images:
+    u=img.get("data-src") or img.get("src")
+    if not u:continue
+    u=urljoin("https://slfl.co.uk/",u)
+    filename=slug(unquote(urlparse(u).path.split("/")[-1]).split(".")[0])
+    if filename and (filename.startswith(query) or query.startswith(filename)):
+     return (u,"Official Scottish Lowland Football League",linktext)
+   # Some listings have the crest in the team page rather than inside its directory anchor.
+   detail=get(urljoin("https://slfl.co.uk/",href))
+   if not detail:continue
+   bs=BeautifulSoup(detail.text,"html.parser")
+   for img in bs.find_all("img"):
+    u=img.get("data-src") or img.get("src")
+    if not u:continue
+    u=urljoin("https://slfl.co.uk/",u)
+    fn=norm(unquote(urlparse(u).path.split("/")[-1]).split(".")[0])
+    if fn and (fn==query or fn.startswith(query+"-crest") or fn.startswith(query+"-logo")):
+     return (u,"Official Scottish Lowland Football League",linktext)
+ except Exception:pass
+ return None
+
 def wikipedia(name):
  for title in (name+" F.C.",name+" football club"):
   r=get("https://en.wikipedia.org/w/api.php",{"action":"query","format":"json","generator":"search","gsrsearch":"intitle:"+title,"gsrlimit":5,"prop":"pageimages","piprop":"original"})
@@ -110,7 +149,7 @@ for i,row in enumerate(rows,1):
  candidates=[]
  if norm(needle) in logos:candidates.append(logos[norm(needle)])
  if norm(needle) in guardian:candidates.append(guardian[norm(needle)])
- for result in (sportsdb(needle),wikipedia(needle)):
+ for result in (lowland_club_logo(name) if row['division'] in ('D3','D4','D5E','D5W') else None,sportsdb(needle),wikipedia(needle)):
   if result:candidates.append(result)
  status={"id":row["club_id"],"club":name,"division":row["division"],"state":"MISSING","source_url":"","source_provider":"","matched_name":"","file":"","dimensions_verified":False,"visual_identity_reviewed":False}
  for url,provider,matched in candidates:
