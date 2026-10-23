@@ -1,5 +1,7 @@
 import requests,bs4,urllib.parse
 URLS={
+'ATL_MARBELLA':'https://futbolme.com/resultados-directo/equipo/atletico-de-marbella-balompie/38387/calendario',
+'CD_LAGUNA_MATCH':'https://futbolme.com/resultados-directo/partido/cd-laguna-ud-san-fernando/1356966',
 'PORTONOVO':'https://www.portonovosd.es/Club/',
 'ANDES':'https://andescf.com/ElClub/escudo.php',
 'ERANDIO':'https://www.erandioclub.com/',
@@ -21,7 +23,7 @@ for name,url in URLS.items():
    alt=img.get('alt','')
    title=img.get('title','')
    source=img.get('src','') or img.get('data-src','')
-   if any(x in str(alt+' '+title+' '+source).lower() for x in ['escudo','logo','emblema','portonovo','andes','ande','erandio','santa','lalin','club','im_','badge','equipo','crest','montijo']):
+   if name in ('ATL_MARBELLA','CD_LAGUNA_MATCH') or any(x in str(alt+' '+title+' '+source).lower() for x in ['escudo','logo','emblema','portonovo','andes','ande','erandio','santa','lalin','club','im_','badge','equipo','crest','montijo']):
     print('CANDIDATE',alt[:55],title[:55],urllib.parse.urljoin(r.url,source)[:180],flush=True)
   print('NUM IMAGES',len(images),flush=True)
  except Exception as e:print('ERROR',str(e),flush=True)
