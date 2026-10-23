@@ -1,9 +1,9 @@
 {
   "sourceDate": "2026-10-23",
   "officialNAFL": "https://www.thenafl.co.uk/data/tables.json",
-  "newGroups": 19,
-  "newParticipants": 235,
-  "newPNGs": 233,
+  "newGroups": 20,
+  "newParticipants": 245,
+  "newPNGs": 243,
   "groups": [
     {
       "code": "NAFL_NCL_Premier",
@@ -4955,6 +4955,163 @@
         }
       ],
       "errors": []
+    },
+    {
+      "code": "NAFL_NCL_U21",
+      "name": "National Conference League U21 Development Division",
+      "source": "https://www.thenafl.co.uk/data/tables.json",
+      "members": [
+        {
+          "name": "Rosario YC U21",
+          "badge": "https://www.thenafl.co.uk/images/badges/comet/5bad3505-10e7-419d-88aa-05848214d476.png",
+          "p": 5,
+          "w": 4,
+          "d": 1,
+          "l": 0,
+          "gf": 18,
+          "ga": 6,
+          "pts": 13,
+          "rank": 1,
+          "mapped_name": "Rosario YC U21",
+          "created_group": "NAFL_NCL_U21",
+          "newId": 1900231300378
+        },
+        {
+          "name": "Derriaghy CC FC U21s",
+          "badge": "https://www.thenafl.co.uk/images/badges/comet/286c3a8c-356d-4da9-a4ba-1684c7768690.png",
+          "p": 4,
+          "w": 4,
+          "d": 0,
+          "l": 0,
+          "gf": 18,
+          "ga": 7,
+          "pts": 12,
+          "rank": 2,
+          "mapped_name": "Derriaghy CC FC U21s",
+          "created_group": "NAFL_NCL_U21",
+          "newId": 1900231300379
+        },
+        {
+          "name": "Ballyclare Comrades U21",
+          "badge": "https://www.thenafl.co.uk/images/badges/comet/472d9cd7-fda2-48a6-b112-a49e95405fbf.png",
+          "p": 4,
+          "w": 2,
+          "d": 1,
+          "l": 1,
+          "gf": 13,
+          "ga": 7,
+          "pts": 7,
+          "rank": 3,
+          "mapped_name": "Ballyclare Comrades U21",
+          "created_group": "NAFL_NCL_U21",
+          "newId": 1900231300380
+        },
+        {
+          "name": "Portstewart U21",
+          "badge": "https://www.thenafl.co.uk/images/badges/comet/d4ba1b8f-c818-49e6-bdc3-df0c7498816a.jpg",
+          "p": 4,
+          "w": 2,
+          "d": 1,
+          "l": 1,
+          "gf": 8,
+          "ga": 8,
+          "pts": 7,
+          "rank": 4,
+          "mapped_name": "Portstewart U21",
+          "created_group": "NAFL_NCL_U21",
+          "newId": 1900231300381
+        },
+        {
+          "name": "Lisburn Distillery U21",
+          "badge": "https://www.thenafl.co.uk/images/badges/comet/083ca7db-8531-4201-8f32-7b8244c510c7.png",
+          "p": 4,
+          "w": 2,
+          "d": 1,
+          "l": 1,
+          "gf": 11,
+          "ga": 12,
+          "pts": 7,
+          "rank": 5,
+          "mapped_name": "Lisburn Distillery U21",
+          "created_group": "NAFL_NCL_U21",
+          "newId": 1900231300382
+        },
+        {
+          "name": "Ballymacash Rangers U21",
+          "badge": "https://www.thenafl.co.uk/images/badges/comet/72affd62-f2ae-4737-b474-e18506aabed2.png",
+          "p": 4,
+          "w": 0,
+          "d": 3,
+          "l": 1,
+          "gf": 7,
+          "ga": 8,
+          "pts": 3,
+          "rank": 6,
+          "mapped_name": "Ballymacash Rangers U21",
+          "created_group": "NAFL_NCL_U21",
+          "newId": 1900231300383
+        },
+        {
+          "name": "St Oliver Plunkett U21",
+          "badge": "https://www.thenafl.co.uk/images/badges/comet/24a80216-7f1d-4a2b-a2ac-638e569cb6fe.png",
+          "p": 4,
+          "w": 1,
+          "d": 0,
+          "l": 3,
+          "gf": 10,
+          "ga": 14,
+          "pts": 3,
+          "rank": 7,
+          "mapped_name": "St Oliver Plunkett U21",
+          "created_group": "NAFL_NCL_U21",
+          "newId": 1900231300384
+        },
+        {
+          "name": "Lisburn Rangers U21",
+          "badge": "https://www.thenafl.co.uk/images/badges/comet/4d22dcb0-a5f4-4ab0-9cec-31ccf1fdf38b.png",
+          "p": 4,
+          "w": 1,
+          "d": 0,
+          "l": 3,
+          "gf": 10,
+          "ga": 17,
+          "pts": 3,
+          "rank": 8,
+          "mapped_name": "Lisburn Rangers U21",
+          "created_group": "NAFL_NCL_U21",
+          "newId": 1900231300385
+        },
+        {
+          "name": "Aquinas U21",
+          "badge": "https://www.thenafl.co.uk/images/badges/comet/3309045a-8782-41fe-8aca-3f09b3d39969.png",
+          "p": 4,
+          "w": 0,
+          "d": 1,
+          "l": 3,
+          "gf": 5,
+          "ga": 12,
+          "pts": 1,
+          "rank": 9,
+          "mapped_name": "Aquinas U21",
+          "created_group": "NAFL_NCL_U21",
+          "newId": 1900231300386
+        },
+        {
+          "name": "Dollingstown U21",
+          "badge": "https://www.thenafl.co.uk/images/badges/comet/c9581b8d-2e1f-4811-af80-a20d7f3eb011.png",
+          "p": 3,
+          "w": 0,
+          "d": 0,
+          "l": 3,
+          "gf": 5,
+          "ga": 14,
+          "pts": 0,
+          "rank": 10,
+          "mapped_name": "Dollingstown U21",
+          "created_group": "NAFL_NCL_U21",
+          "newId": 1900231300387
+        }
+      ]
     }
   ],
   "images": [
@@ -8001,6 +8158,136 @@
         201,
         114,
         114
+      ]
+    },
+    {
+      "id": 1900231300378,
+      "name": "Rosario YC U21",
+      "group": "NAFL_NCL_U21",
+      "source": "https://www.thenafl.co.uk/images/badges/comet/5bad3505-10e7-419d-88aa-05848214d476.png",
+      "status": "created",
+      "sha256": "32c8a4558ef4d24b13a2d0add6686d0e8f8202be4199f7376b26cfe682813ed6",
+      "bg": [
+        92,
+        114,
+        157
+      ]
+    },
+    {
+      "id": 1900231300379,
+      "name": "Derriaghy CC FC U21s",
+      "group": "NAFL_NCL_U21",
+      "source": "https://www.thenafl.co.uk/images/badges/comet/286c3a8c-356d-4da9-a4ba-1684c7768690.png",
+      "status": "created",
+      "sha256": "6e119e969e17c26785992d3b5c4a1878eb61cf5adee3b5654a4188365acc1a2e",
+      "bg": [
+        114,
+        157,
+        136
+      ]
+    },
+    {
+      "id": 1900231300380,
+      "name": "Ballyclare Comrades U21",
+      "group": "NAFL_NCL_U21",
+      "source": "https://www.thenafl.co.uk/images/badges/comet/472d9cd7-fda2-48a6-b112-a49e95405fbf.png",
+      "status": "created",
+      "sha256": "9c0a1102cb63965aa2a54b0c0e6bbab6fa6dabd91d537155ab49c3a46d7df91b",
+      "bg": [
+        244,
+        114,
+        114
+      ]
+    },
+    {
+      "id": 1900231300381,
+      "name": "Portstewart U21",
+      "group": "NAFL_NCL_U21",
+      "source": "https://www.thenafl.co.uk/images/badges/comet/d4ba1b8f-c818-49e6-bdc3-df0c7498816a.jpg",
+      "status": "created",
+      "sha256": "5de34722665511c33412dff8f6593f4d1a685ef99feb562a18edd56e51d0919b",
+      "bg": [
+        92,
+        157,
+        201
+      ]
+    },
+    {
+      "id": 1900231300382,
+      "name": "Lisburn Distillery U21",
+      "group": "NAFL_NCL_U21",
+      "source": "https://www.thenafl.co.uk/images/badges/comet/083ca7db-8531-4201-8f32-7b8244c510c7.png",
+      "status": "created",
+      "sha256": "337c70d9d9f5db0ec18355e0bace866b1a7459425f77591129a4fa6612db09ce",
+      "bg": [
+        114,
+        114,
+        179
+      ]
+    },
+    {
+      "id": 1900231300383,
+      "name": "Ballymacash Rangers U21",
+      "group": "NAFL_NCL_U21",
+      "source": "https://www.thenafl.co.uk/images/badges/comet/72affd62-f2ae-4737-b474-e18506aabed2.png",
+      "status": "created",
+      "sha256": "44c4f75a2c8803e7ee56b7af97301fe956fcde1cb3a0edbaa333b3b1fc314ae1",
+      "bg": [
+        244,
+        223,
+        114
+      ]
+    },
+    {
+      "id": 1900231300384,
+      "name": "St Oliver Plunkett U21",
+      "group": "NAFL_NCL_U21",
+      "source": "https://www.thenafl.co.uk/images/badges/comet/24a80216-7f1d-4a2b-a2ac-638e569cb6fe.png",
+      "status": "created",
+      "sha256": "76bc9a66e86f8fb7f63203b9df471e5abc3f0cc93a91573401baf3c0a3ee2ed4",
+      "bg": [
+        136,
+        179,
+        223
+      ]
+    },
+    {
+      "id": 1900231300385,
+      "name": "Lisburn Rangers U21",
+      "group": "NAFL_NCL_U21",
+      "source": "https://www.thenafl.co.uk/images/badges/comet/4d22dcb0-a5f4-4ab0-9cec-31ccf1fdf38b.png",
+      "status": "created",
+      "sha256": "f738643236276d3aedf09e4f5ec40abd9dd0c8d79044f1612de7b82aa555b8ff",
+      "bg": [
+        114,
+        114,
+        157
+      ]
+    },
+    {
+      "id": 1900231300386,
+      "name": "Aquinas U21",
+      "group": "NAFL_NCL_U21",
+      "source": "https://www.thenafl.co.uk/images/badges/comet/3309045a-8782-41fe-8aca-3f09b3d39969.png",
+      "status": "created",
+      "sha256": "479e2fce5794db29171d8aa1209a471ac0246e37d43ff3b92ed330f1fde87c0e",
+      "bg": [
+        92,
+        157,
+        201
+      ]
+    },
+    {
+      "id": 1900231300387,
+      "name": "Dollingstown U21",
+      "group": "NAFL_NCL_U21",
+      "source": "https://www.thenafl.co.uk/images/badges/comet/c9581b8d-2e1f-4811-af80-a20d7f3eb011.png",
+      "status": "created",
+      "sha256": "72d8be71245d9366b387e54f40ac99a3686d77702996d8f8ded75fb542eb0b7e",
+      "bg": [
+        114,
+        136,
+        179
       ]
     }
   ]
