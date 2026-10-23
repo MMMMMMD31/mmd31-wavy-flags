@@ -21,7 +21,7 @@ jobs:
         with:
           python-version: "3.11"
       - name: Install image tools
-        run: pip install requests pillow cairosvg
+        run: pip install requests pillow cairosvg beautifulsoup4
       - name: Generate authentic crests where confident matches exist
         run: python scotland-2026-27-v13/generate_badges.py
       - name: Save verified-size PNGs and source manifest on test branch
@@ -30,6 +30,7 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add docs/club-flags/scotland-2627/ scotland-2026-27-v13/badge-build-report.json
           if [ -f scotland-2026-27-v13/slfl-debug.json ]; then git add scotland-2026-27-v13/slfl-debug.json; fi
+          if [ -f scotland-2026-27-v13/slfl-archive-inventory.json ]; then git add scotland-2026-27-v13/slfl-archive-inventory.json; fi
           if ! git diff --cached --quiet; then
             git commit -m "Build Scottish 2026-27 PNG 120x96 candidate crests with source audit"
             git push
