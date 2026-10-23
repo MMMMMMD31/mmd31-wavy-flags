@@ -1,0 +1,342 @@
+{
+  "group": 5,
+  "count": 18,
+  "approved_by_human": false,
+  "items": [
+    {
+      "id": 1884500100245,
+      "name": "Atlètic Lleida",
+      "group": 5,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-5/clasificacion",
+      "source_club": "Atlètic Lleida",
+      "source_image": "https://apiv3.apifootball.com/badges/17412_atletic-lleida.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/atletic-lleida-256414",
+      "match_score": 100,
+      "background_rgb": [
+        92,
+        114,
+        136
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100245.png",
+      "source_sha256": "573a66c1f9c546c2e2716c1f10e16e1b8f8593771758f1f21be1d26e48d106d3",
+      "image_sha256": "420ef5c1e4cf53968cad3552512038947fda6a07f4be0eda03bd5a2dc8e86a5a"
+    },
+    {
+      "id": 1884500100246,
+      "name": "Badalona",
+      "group": 5,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-5/clasificacion",
+      "source_club": "Badalona B",
+      "source_image": "https://apiv3.apifootball.com/badges/27413_badalona-ii.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/badalona-ii-af27413",
+      "match_score": 94.11764705882352,
+      "background_rgb": [
+        92,
+        92,
+        201
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100246.png",
+      "source_sha256": "b278de6257d981d21a2d3656ebd6c18862121863eb09b27478bb7f9195caa540",
+      "image_sha256": "a232aa19d856e8d3c623cc40e5a0cb0707540afbad061b6d989af0077905c67c"
+    },
+    {
+      "id": 1884500100247,
+      "name": "Cerdanyola del Vallès",
+      "group": 5,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-5/clasificacion",
+      "source_club": "Cerdanyola del Vallès",
+      "source_image": "https://apiv3.apifootball.com/badges/7080_cerdanyola-del-valles.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/cerdanyola-del-valles-af7080",
+      "match_score": 100,
+      "background_rgb": [
+        92,
+        136,
+        136
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100247.png",
+      "source_sha256": "6a2894cd6e0381c3672713a23cfd1c963af0ac83d596c3678050cf01176aca15",
+      "image_sha256": "4d67d54df4818f677b6231e0e9796ca22d461577e39ff357ddf3e0fe9465a7e9"
+    },
+    {
+      "id": 1884500100248,
+      "name": "Cornellà",
+      "group": 5,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-5/clasificacion",
+      "source_club": "Cornellà",
+      "source_image": "https://apiv3.apifootball.com/badges/7243_cornella.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/cornella-af7243",
+      "match_score": 100,
+      "background_rgb": [
+        114,
+        180,
+        136
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100248.png",
+      "source_sha256": "30be13e1f58ccabf465dbb5c2de2c4502f80e58f0d0abdfc5adc9abe3a17a6e4",
+      "image_sha256": "1b86c2c218f71bf414da03e3c0da77c8cc30ecaa3979bf80305e87be7e510d5b"
+    },
+    {
+      "id": 1884500100249,
+      "name": "Europa B",
+      "group": 5,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-5/clasificacion",
+      "source_club": "CE Europa B",
+      "source_image": "https://apiv3.apifootball.com/badges/37048_europa-ii.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/ce-europa-b-af37048",
+      "match_score": 100,
+      "background_rgb": [
+        114,
+        158,
+        180
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100249.png",
+      "source_sha256": "49736ae9ddfe2c83275a3439cf94778246c86c9ec7a985b6303243d143378da8",
+      "image_sha256": "e8e214bada4eb2c55d5b5e2c6700b3198d11d7ee2b2040a610d142c1c6762ffd"
+    },
+    {
+      "id": 1884500100250,
+      "name": "Grama",
+      "group": 5,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-5/clasificacion",
+      "source_club": "Grama",
+      "source_image": "https://apiv3.apifootball.com/badges/7084_grama.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/grama-af7084",
+      "match_score": 100,
+      "background_rgb": [
+        245,
+        223,
+        136
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100250.png",
+      "source_sha256": "2a6bc8f48ee5d9cff664d2450a9257b7f071ad77f7ca8a98c550216ac13955f7",
+      "image_sha256": "739bccfd3719c0ce5e18c67351ed4cb962432e6d34f0b68ce5571216246d9f30"
+    },
+    {
+      "id": 1884500100251,
+      "name": "L'Escala",
+      "group": 5,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-5/clasificacion",
+      "source_club": "L'Escala",
+      "source_image": "https://apiv3.apifootball.com/badges/17418_lescala.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/l-escala-af17418",
+      "match_score": 100,
+      "background_rgb": [
+        245,
+        92,
+        114
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100251.png",
+      "source_sha256": "be21ee5690a756043caddb0ab8cb6d6571c00bbe11f8a4c5dc1bca4bab75c7cf",
+      "image_sha256": "1f1abdd50377e781af0e6893cf262ae05b10d1e2d5005da0be2c1bce933111a5"
+    },
+    {
+      "id": 1884500100252,
+      "name": "L'Hospitalet",
+      "group": 5,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-5/clasificacion",
+      "source_club": "L'Hospitalet",
+      "source_image": "https://apiv3.apifootball.com/badges/7244_lhospitalet.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/l-hospitalet-af7244",
+      "match_score": 100,
+      "background_rgb": [
+        245,
+        245,
+        92
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100252.png",
+      "source_sha256": "23f54ee7512fd09ae86d22505e517c1ea514836f634b8ddfc829ddea24e9333e",
+      "image_sha256": "e229cbf60e117557a0e81dee35bb55e0abc9e5cd177b4f440f143874fb8ecc24"
+    },
+    {
+      "id": 1884500100253,
+      "name": "Martinenc",
+      "group": 5,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-5/clasificacion",
+      "source_club": "Martinenc",
+      "source_image": "https://apiv3.apifootball.com/badges/17401_martinenc.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/martinenc-af17401",
+      "match_score": 100,
+      "background_rgb": [
+        91,
+        127,
+        177
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100253.png",
+      "source_sha256": "78e6132b4b2566fbab177137480d0f883aee9c2370bd9a668787263c1a2d9138",
+      "image_sha256": "a9efe929703d0627788349f4d427038175ee524a88866cb30e785562460e72fa"
+    },
+    {
+      "id": 1884500100254,
+      "name": "Mollerussa",
+      "group": 5,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-5/clasificacion",
+      "source_club": "Mollerussa",
+      "source_image": "https://apiv3.apifootball.com/badges/23396_mollerussa.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/mollerussa-af23396",
+      "match_score": 100,
+      "background_rgb": [
+        92,
+        136,
+        201
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100254.png",
+      "source_sha256": "96e2ce47342a1722e3f5ad1269bfacb45df0ff19603bad898c7623a22be84cc4",
+      "image_sha256": "f4f6b4ff183951a3e49e40c7ff9ee15d2e7793de5b9d57cd9ead1819c8753cf3"
+    },
+    {
+      "id": 1884500100255,
+      "name": "Montañesa",
+      "group": 5,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-5/clasificacion",
+      "source_club": "Montañesa",
+      "source_image": "https://apiv3.apifootball.com/badges/7079_montanesa.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/montanesa-af7079",
+      "match_score": 100,
+      "background_rgb": [
+        114,
+        158,
+        180
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100255.png",
+      "source_sha256": "74e45b2b40649eba3699061ff3bf7c76008f2ad5dd05d097e72bb538641517a8",
+      "image_sha256": "12a63aeab5e62d1186de35365bd936c1a2ef51085593679495db130f52f70187"
+    },
+    {
+      "id": 1884500100256,
+      "name": "Peralada",
+      "group": 5,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-5/clasificacion",
+      "source_club": "Peralada",
+      "source_image": "https://apiv3.apifootball.com/badges/7086_peralada.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/peralada-af7086",
+      "match_score": 100,
+      "background_rgb": [
+        92,
+        136,
+        114
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100256.png",
+      "source_sha256": "53a46090f91cfb8c97cd1cb7ab3e1b906db7f5ab7ff1457c66b0cd880d0af5dd",
+      "image_sha256": "fa000666c868f24cb50a169d4b61dbd8e734f28deef59461d5466831d861a636"
+    },
+    {
+      "id": 1884500100257,
+      "name": "Pobla de Mafumet",
+      "group": 5,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-5/clasificacion",
+      "source_club": "Pobla Mafumet",
+      "source_image": "https://apiv3.apifootball.com/badges/7075_pobla-mafumet.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/pobla-mafumet-af7075",
+      "match_score": 100,
+      "background_rgb": [
+        91,
+        127,
+        177
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100257.png",
+      "source_sha256": "78e6132b4b2566fbab177137480d0f883aee9c2370bd9a668787263c1a2d9138",
+      "image_sha256": "a9efe929703d0627788349f4d427038175ee524a88866cb30e785562460e72fa"
+    },
+    {
+      "id": 1884500100258,
+      "name": "San Cristóbal",
+      "group": 5,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-5/clasificacion",
+      "source_club": "San Cristóbal",
+      "source_image": "https://apiv3.apifootball.com/badges/7072_san-cristobal.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/san-cristobal-af7072",
+      "match_score": 100,
+      "background_rgb": [
+        92,
+        114,
+        201
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100258.png",
+      "source_sha256": "86ecd21328f9432a670ff28e65a5075a454d635059e61ce14c1b9d62f1d90a4e",
+      "image_sha256": "f2e484e29e9fe8ef07502d8f05ad0890b31ab636244816d9faa09ebc098ac3fb"
+    },
+    {
+      "id": 1884500100259,
+      "name": "San Juan Atlético Montcada",
+      "group": 5,
+      "status": "ÉCUSSON_RÉEL_NON_VÉRIFIÉ",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-5/clasificacion",
+      "source_club": "San Juan Atletico de Montcada",
+      "source_image": "/crests/san-juan-atletico-de-montcada-af43994.png",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/san-juan-atletico-de-montcada-af43994",
+      "match_score": 100,
+      "reason": "Invalid URL '/crests/san-juan-atletico-de-montcada-af43994.png': No scheme supplied. Perhaps you meant https:///crests/san-juan-atletico-de-montcada-af43994.png?"
+    },
+    {
+      "id": 1884500100260,
+      "name": "Tona",
+      "group": 5,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-5/clasificacion",
+      "source_club": "Tona",
+      "source_image": "https://apiv3.apifootball.com/badges/27411_tona.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/tona-af27411",
+      "match_score": 100,
+      "background_rgb": [
+        223,
+        92,
+        92
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100260.png",
+      "source_sha256": "00e4cccccf3e8e045612e09ae2d2e64019fd8f5be724210a9bec79744995827a",
+      "image_sha256": "d0819ae5ae74087d66b53b0925fc92283c332b7acf04ccb2471d661d7536fa2f"
+    },
+    {
+      "id": 1884500100261,
+      "name": "Vilanova",
+      "group": 5,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-5/clasificacion",
+      "source_club": "Vilanova Geltrú",
+      "source_image": "https://apiv3.apifootball.com/badges/40749_vilanova-geltru.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/vilanova-geltru-af40749",
+      "match_score": 100,
+      "background_rgb": [
+        91,
+        127,
+        177
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100261.png",
+      "source_sha256": "78e6132b4b2566fbab177137480d0f883aee9c2370bd9a668787263c1a2d9138",
+      "image_sha256": "a9efe929703d0627788349f4d427038175ee524a88866cb30e785562460e72fa"
+    },
+    {
+      "id": 1884500100262,
+      "name": "Vilassar de Mar",
+      "group": 5,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-5/clasificacion",
+      "source_club": "Vilassar Mar",
+      "source_image": "https://apiv3.apifootball.com/badges/7085_vilassar-mar.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/vilassar-mar-af7085",
+      "match_score": 100,
+      "background_rgb": [
+        245,
+        92,
+        92
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100262.png",
+      "source_sha256": "1a2973d512dab3c2019aef54af9d47782aba1360f006d67e9a0f93dace908813",
+      "image_sha256": "a5c9960155fcb763eb91efad9cf748a180ca7c4afa69c7f80f4c142551145a6b"
+    }
+  ]
+}

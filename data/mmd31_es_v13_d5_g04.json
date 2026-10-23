@@ -1,0 +1,324 @@
+{
+  "group": 4,
+  "count": 18,
+  "approved_by_human": false,
+  "items": [
+    {
+      "id": 1884500100227,
+      "name": "Alavés C",
+      "group": 4,
+      "status": "ÉCUSSON_RÉEL_NON_VÉRIFIÉ",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-4/clasificacion",
+      "reason": "image missing or name not confidently matched"
+    },
+    {
+      "id": 1884500100228,
+      "name": "Amurrio",
+      "group": 4,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-4/clasificacion",
+      "source_club": "Amurrio",
+      "source_image": "https://apiv3.apifootball.com/badges/19606_amurrio.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/amurrio-af19606",
+      "match_score": 100,
+      "background_rgb": [
+        91,
+        127,
+        177
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100228.png",
+      "source_sha256": "78e6132b4b2566fbab177137480d0f883aee9c2370bd9a668787263c1a2d9138",
+      "image_sha256": "a9efe929703d0627788349f4d427038175ee524a88866cb30e785562460e72fa"
+    },
+    {
+      "id": 1884500100229,
+      "name": "Aretxabaleta",
+      "group": 4,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-4/clasificacion",
+      "source_club": "Aretxabaleta",
+      "source_image": "https://apiv3.apifootball.com/badges/37045_aretxabaleta.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/aretxabaleta-af37045",
+      "match_score": 100,
+      "background_rgb": [
+        92,
+        114,
+        180
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100229.png",
+      "source_sha256": "f6fdf9ad0993401ce4e019190d177f4397e444bb937abb90015b23e172b5181d",
+      "image_sha256": "d5fdc4463fcb4a309e43baeb95c4ffe59b64c77e796dca649e3140a1ee1978cf"
+    },
+    {
+      "id": 1884500100230,
+      "name": "Aurrerá Vitoria",
+      "group": 4,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-4/clasificacion",
+      "source_club": "Vitoria",
+      "source_image": "https://apiv3.apifootball.com/badges/27808_vitoria.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/vitoria-af27808",
+      "match_score": 100,
+      "background_rgb": [
+        245,
+        92,
+        92
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100230.png",
+      "source_sha256": "cc7610480991b709661222bb480b5e4003c279d2a69f8e23faac407673862ddd",
+      "image_sha256": "a2fed2258d3950d28176bf57a2c18442d8d0fe4458c6feb719fe4bc4315daa83"
+    },
+    {
+      "id": 1884500100231,
+      "name": "Beasain",
+      "group": 4,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-4/clasificacion",
+      "source_club": "SD Beasain",
+      "source_image": "https://apiv3.apifootball.com/badges/7052_beasain.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/sd-beasain-13270",
+      "match_score": 100,
+      "background_rgb": [
+        158,
+        180,
+        245
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100231.png",
+      "source_sha256": "1804320c84f76b2aa0cb6ee82876906fcb740d4e293ffb1bae9ac948df31a6aa",
+      "image_sha256": "fecf022c14d374a67df0782524cdb4bfabfc2238143476153ef61269e8d8eea0"
+    },
+    {
+      "id": 1884500100232,
+      "name": "Cultural Durango",
+      "group": 4,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-4/clasificacion",
+      "source_club": "Durango",
+      "source_image": "https://apiv3.apifootball.com/badges/7065_durango.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/durango-af7065",
+      "match_score": 100,
+      "background_rgb": [
+        114,
+        114,
+        180
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100232.png",
+      "source_sha256": "558f45ff7b6496462874f068b73a39721e34b0908d7b18d09b0d400e417de9de",
+      "image_sha256": "a168cb71554a6d782d276fbef37b9b792ab4b964481e5c697fc53db9a3561005"
+    },
+    {
+      "id": 1884500100233,
+      "name": "Derio",
+      "group": 4,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-4/clasificacion",
+      "source_club": "Derio",
+      "source_image": "https://apiv3.apifootball.com/badges/32668_derio.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/derio-af32668",
+      "match_score": 100,
+      "background_rgb": [
+        180,
+        114,
+        114
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100233.png",
+      "source_sha256": "0af0c6ddd2e0e411dd1d1b87adb558a65359628072d4a5734b7b9f1f07c2cfbf",
+      "image_sha256": "0073daf102fb2401ad81ac9244784d0301fca4ca753cc52e38bc129de9936f42"
+    },
+    {
+      "id": 1884500100234,
+      "name": "Eibar C",
+      "group": 4,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-4/clasificacion",
+      "source_club": "Eibar C",
+      "source_image": "https://apiv3.apifootball.com/badges/37364_eibar-iii.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/eibar-iii-af37364",
+      "match_score": 100,
+      "background_rgb": [
+        92,
+        114,
+        158
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100234.png",
+      "source_sha256": "96a1cb5c60dec1e7a1bc3173bb6cefce034717b076dd1863263b7a152a5e8522",
+      "image_sha256": "af3e8f281192c4ad3608f2e3b1d6d8e0db9ab940608630429c2a237fa630f5ed"
+    },
+    {
+      "id": 1884500100235,
+      "name": "Erandio",
+      "group": 4,
+      "status": "ÉCUSSON_RÉEL_NON_VÉRIFIÉ",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-4/clasificacion",
+      "source_club": "Erandio",
+      "source_image": "https://apiv3.apifootball.com/badges/43992_erandio.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/erandio-af43992",
+      "match_score": 100,
+      "reason": "404 Client Error: Not Found for url: https://apiv3.apifootball.com/badges/43992_erandio.jpg"
+    },
+    {
+      "id": 1884500100236,
+      "name": "Lagun Onak",
+      "group": 4,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-4/clasificacion",
+      "source_club": "Lagun Onak",
+      "source_image": "https://apiv3.apifootball.com/badges/7068_lagun-onak.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/lagun-onak-af7068",
+      "match_score": 100,
+      "background_rgb": [
+        114,
+        114,
+        158
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100236.png",
+      "source_sha256": "1bf316d101e4f2993d9b5e0d29a15cca9420e69ff2797812ddbd86781a338b54",
+      "image_sha256": "3ced92dda32990d06cdcd23333dd2c590c222fcf48b5a8d500823472f931bdc9"
+    },
+    {
+      "id": 1884500100237,
+      "name": "Leioa",
+      "group": 4,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-4/clasificacion",
+      "source_club": "Leioa",
+      "source_image": "https://apiv3.apifootball.com/badges/7226_leioa.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/leioa-af7226",
+      "match_score": 100,
+      "background_rgb": [
+        223,
+        114,
+        92
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100237.png",
+      "source_sha256": "324c5dc5a98067111436bc85823f99626d7668eb0aa6089227e68fc890dfc967",
+      "image_sha256": "a4093840fc36bb006857afbdecc3f3f303d8317f9e50df4216793ea566c5e3f5"
+    },
+    {
+      "id": 1884500100238,
+      "name": "Pasaia",
+      "group": 4,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-4/clasificacion",
+      "source_club": "Pasaia KE",
+      "source_image": "https://apiv3.apifootball.com/badges/7060_pasaia-ke.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/pasaia-ke-af7060",
+      "match_score": 85.71428571428572,
+      "background_rgb": [
+        245,
+        92,
+        92
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100238.png",
+      "source_sha256": "a2ae7d63df4efc60789073d744330f9da6090aa5a0394f4dff331aa81f724366",
+      "image_sha256": "5f4c6b80fbc7e0b9855386a8bee84bdee8416f24d5972ed09db9929b90f9332d"
+    },
+    {
+      "id": 1884500100239,
+      "name": "Real Sociedad C",
+      "group": 4,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-4/clasificacion",
+      "source_club": "Real Sociedad C",
+      "source_image": "https://apiv3.apifootball.com/badges/7048_real-sociedad-iii.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/real-sociedad-iii-af7048",
+      "match_score": 100,
+      "background_rgb": [
+        92,
+        114,
+        180
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100239.png",
+      "source_sha256": "402f2ca000cc97a27bbd977db085704c0d3ed83c28a0bf9b984abc1c22769223",
+      "image_sha256": "9bda3c51a3b3beb6b485c6b0690d301e8c7954957ff61c4272ceac77afa817a4"
+    },
+    {
+      "id": 1884500100240,
+      "name": "Real Unión B",
+      "group": 4,
+      "status": "ÉCUSSON_RÉEL_NON_VÉRIFIÉ",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-4/clasificacion",
+      "source_club": "R. Union B",
+      "source_image": "/crests/r-union-b-af43993.png",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/r-union-b-af43993",
+      "match_score": 92.3076923076923,
+      "reason": "Invalid URL '/crests/r-union-b-af43993.png': No scheme supplied. Perhaps you meant https:///crests/r-union-b-af43993.png?"
+    },
+    {
+      "id": 1884500100241,
+      "name": "San Ignacio",
+      "group": 4,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-4/clasificacion",
+      "source_club": "San Ignacio",
+      "source_image": "https://apiv3.apifootball.com/badges/7063_san-ignacio.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/san-ignacio-af7063",
+      "match_score": 100,
+      "background_rgb": [
+        92,
+        136,
+        114
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100241.png",
+      "source_sha256": "a9183871dc8c8168e42f4140db84fadd97883f118489d41ee3ebbdeb4a697abc",
+      "image_sha256": "f47dd15cdbbc96ffb11f687b3d462b549fb670f289f06ca15764b7269be07947"
+    },
+    {
+      "id": 1884500100242,
+      "name": "Santurtzi",
+      "group": 4,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-4/clasificacion",
+      "source_club": "Santurtzi",
+      "source_image": "https://apiv3.apifootball.com/badges/7064_santurtzi.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/santurtzi-af7064",
+      "match_score": 100,
+      "background_rgb": [
+        180,
+        114,
+        180
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100242.png",
+      "source_sha256": "743ec06e79bb8ec516d172326ce0a19eb46bf884f32ac4ccb993630523b00d6d",
+      "image_sha256": "48dbb5fc677658a78913d49856c649fc42b4d15e4f7081226656209869daae85"
+    },
+    {
+      "id": 1884500100243,
+      "name": "Sodupe",
+      "group": 4,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-4/clasificacion",
+      "source_club": "Sodupe",
+      "source_image": "https://apiv3.apifootball.com/badges/7066_sodupe.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/sodupe-af7066",
+      "match_score": 100,
+      "background_rgb": [
+        91,
+        127,
+        177
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100243.png",
+      "source_sha256": "78e6132b4b2566fbab177137480d0f883aee9c2370bd9a668787263c1a2d9138",
+      "image_sha256": "a9efe929703d0627788349f4d427038175ee524a88866cb30e785562460e72fa"
+    },
+    {
+      "id": 1884500100244,
+      "name": "Touring",
+      "group": 4,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-4/clasificacion",
+      "source_club": "Touring",
+      "source_image": "https://apiv3.apifootball.com/badges/27403_touring.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/touring-af27403",
+      "match_score": 100,
+      "background_rgb": [
+        223,
+        114,
+        92
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100244.png",
+      "source_sha256": "5941c24eb1ba1f5785b9babb7b89429cd9a65b644782e4df8ce453fe4eb803d4",
+      "image_sha256": "eb5928c2bb1e8494192fdd96c899eee9fe66f4c8fc911a5b7824566fc58e8419"
+    }
+  ]
+}
