@@ -178,13 +178,20 @@
       "id": 1884500100218,
       "name": "Naval",
       "group": 3,
-      "status": "ÉCUSSON_RÉEL_NON_VÉRIFIÉ",
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
       "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-3/clasificacion",
       "source_club": "Naval Reinosa",
-      "source_image": "/crests/naval-reinosa-af21274.png",
+      "source_image": "https://www.resultadosrfef.es/crests/naval-reinosa-af21274.png",
       "source_team_page": "https://www.resultadosrfef.es/equipo/naval-reinosa-af21274",
       "match_score": 100,
-      "reason": "Invalid URL '/crests/naval-reinosa-af21274.png': No scheme supplied. Perhaps you meant https:///crests/naval-reinosa-af21274.png?"
+      "background_rgb": [
+        92,
+        158,
+        245
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100218.png",
+      "source_sha256": "879bb24b11b0e075876611b108c544a2f8f61495dd45009d25b671557b5e8944",
+      "image_sha256": "fce5bb246b2af270d25947974b0e6161fafbe8d5b6ed4c4e5a770d8b58e58151"
     },
     {
       "id": 1884500100219,

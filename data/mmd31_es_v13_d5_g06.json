@@ -45,17 +45,39 @@
       "id": 1884500100265,
       "name": "Atlético Levante",
       "group": 6,
-      "status": "ÉCUSSON_RÉEL_NON_VÉRIFIÉ",
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
       "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-6/clasificacion",
-      "reason": "image missing or name not confidently matched"
+      "source_club": "Levante B",
+      "source_image": "https://apiv3.apifootball.com/badges/7253_levante-ii.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/levante-ii-af7253",
+      "match_score": 100,
+      "background_rgb": [
+        201,
+        92,
+        114
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100265.png",
+      "source_sha256": "a7ed458d676bf2d033d76fd54a22977b17d03bf426508b00cfcccde1e9ac6908",
+      "image_sha256": "75eed9f3bff4a99131845b2044542d5a87c49f160c8f0eefdaa704f81c8866f1"
     },
     {
       "id": 1884500100266,
       "name": "Atlético Saguntino",
       "group": 6,
-      "status": "ÉCUSSON_RÉEL_NON_VÉRIFIÉ",
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
       "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-6/clasificacion",
-      "reason": "image missing or name not confidently matched"
+      "source_club": "Saguntino",
+      "source_image": "https://apiv3.apifootball.com/badges/6765_saguntino.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/saguntino-af6765",
+      "match_score": 100,
+      "background_rgb": [
+        245,
+        223,
+        92
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100266.png",
+      "source_sha256": "4e59774619d1e432e68ffa58b584b6ef3baef4bcd78e9eecb746167e85b453c8",
+      "image_sha256": "a925ed54c0f2e84e452503465396210bd9e5f1d971c895f6f68a6b0ea081c1b8"
     },
     {
       "id": 1884500100267,
@@ -118,13 +140,20 @@
       "id": 1884500100270,
       "name": "Eldense B",
       "group": 6,
-      "status": "ÉCUSSON_RÉEL_NON_VÉRIFIÉ",
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
       "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-6/clasificacion",
       "source_club": "Eldense B",
-      "source_image": "/crests/eldense-b-af44155.png",
+      "source_image": "https://www.resultadosrfef.es/crests/eldense-b-af44155.png",
       "source_team_page": "https://www.resultadosrfef.es/equipo/eldense-b-af44155",
       "match_score": 100,
-      "reason": "Invalid URL '/crests/eldense-b-af44155.png': No scheme supplied. Perhaps you meant https:///crests/eldense-b-af44155.png?"
+      "background_rgb": [
+        245,
+        92,
+        92
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100270.png",
+      "source_sha256": "677f09c1a46db0d78f5eceea8ff77610e81408ba0a1a4db2ee93ad2a49a9b817",
+      "image_sha256": "6efff709612c98601bb97c5dac748d41c45a5f61d5a5400ca9f65d45871293b3"
     },
     {
       "id": 1884500100271,
@@ -244,13 +273,20 @@
       "id": 1884500100277,
       "name": "Torrevieja",
       "group": 6,
-      "status": "ÉCUSSON_RÉEL_NON_VÉRIFIÉ",
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
       "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-6/clasificacion",
       "source_club": "SC Torrevieja",
-      "source_image": "/crests/sc-torrevieja-af44156.png",
+      "source_image": "https://www.resultadosrfef.es/crests/sc-torrevieja-af44156.png",
       "source_team_page": "https://www.resultadosrfef.es/equipo/sc-torrevieja-af44156",
       "match_score": 100,
-      "reason": "Invalid URL '/crests/sc-torrevieja-af44156.png': No scheme supplied. Perhaps you meant https:///crests/sc-torrevieja-af44156.png?"
+      "background_rgb": [
+        136,
+        201,
+        223
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100277.png",
+      "source_sha256": "17205737ff790529b2477538e67dc4684f3b3364f6e89609454eadce5043abfb",
+      "image_sha256": "c9702cd8b842489acc5f3eadc1112da80e8cc3d29b431dfd0334ba3178f6dfd8"
     },
     {
       "id": 1884500100278,

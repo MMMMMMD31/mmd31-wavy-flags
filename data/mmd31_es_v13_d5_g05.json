@@ -273,13 +273,20 @@
       "id": 1884500100259,
       "name": "San Juan Atlético Montcada",
       "group": 5,
-      "status": "ÉCUSSON_RÉEL_NON_VÉRIFIÉ",
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
       "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-5/clasificacion",
       "source_club": "San Juan Atletico de Montcada",
-      "source_image": "/crests/san-juan-atletico-de-montcada-af43994.png",
+      "source_image": "https://www.resultadosrfef.es/crests/san-juan-atletico-de-montcada-af43994.png",
       "source_team_page": "https://www.resultadosrfef.es/equipo/san-juan-atletico-de-montcada-af43994",
       "match_score": 100,
-      "reason": "Invalid URL '/crests/san-juan-atletico-de-montcada-af43994.png': No scheme supplied. Perhaps you meant https:///crests/san-juan-atletico-de-montcada-af43994.png?"
+      "background_rgb": [
+        92,
+        114,
+        180
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100259.png",
+      "source_sha256": "dcd37f152325803ee131d99a503b920e3f66f8987193b68782fbaedf27d558cf",
+      "image_sha256": "87183f925dc610b128d7178335515e8dc996ad8744822d3af556e179dbdb0a23"
     },
     {
       "id": 1884500100260,

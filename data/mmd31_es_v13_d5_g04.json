@@ -7,9 +7,20 @@
       "id": 1884500100227,
       "name": "Alavés C",
       "group": 4,
-      "status": "ÉCUSSON_RÉEL_NON_VÉRIFIÉ",
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
       "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-4/clasificacion",
-      "reason": "image missing or name not confidently matched"
+      "source_club": "Deportivo Alavés C",
+      "source_image": "https://apiv3.apifootball.com/badges/32670_deportivo-alaves-iii.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/deportivo-alaves-iii-af32670",
+      "match_score": 100,
+      "background_rgb": [
+        92,
+        114,
+        201
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100227.png",
+      "source_sha256": "b693577b1d5bcf1755f0a7261ee8924c31a5eb1085e258faebc05c50f75d4fe6",
+      "image_sha256": "92141a5157405d47d566898480f526b9224b5d2bc2082121d898949de553a10f"
     },
     {
       "id": 1884500100228,
@@ -236,13 +247,20 @@
       "id": 1884500100240,
       "name": "Real Unión B",
       "group": 4,
-      "status": "ÉCUSSON_RÉEL_NON_VÉRIFIÉ",
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
       "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-4/clasificacion",
       "source_club": "R. Union B",
-      "source_image": "/crests/r-union-b-af43993.png",
+      "source_image": "https://www.resultadosrfef.es/crests/r-union-b-af43993.png",
       "source_team_page": "https://www.resultadosrfef.es/equipo/r-union-b-af43993",
       "match_score": 92.3076923076923,
-      "reason": "Invalid URL '/crests/r-union-b-af43993.png': No scheme supplied. Perhaps you meant https:///crests/r-union-b-af43993.png?"
+      "background_rgb": [
+        245,
+        180,
+        92
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100240.png",
+      "source_sha256": "1c506ea0d72210c0fe1aed6a9167784a43e1e983679dc1650664e911226c0971",
+      "image_sha256": "197fe0c3eb8f5f27726c9bfd7d08878187d25b5fc091dec4ac798761acaf5799"
     },
     {
       "id": 1884500100241,

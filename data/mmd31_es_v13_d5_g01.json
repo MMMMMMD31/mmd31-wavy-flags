@@ -26,13 +26,20 @@
       "id": 1884500100174,
       "name": "Antela",
       "group": 1,
-      "status": "ÉCUSSON_RÉEL_NON_VÉRIFIÉ",
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
       "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-1/clasificacion",
       "source_club": "Antela",
-      "source_image": "/crests/antela-af44066.png",
+      "source_image": "https://www.resultadosrfef.es/crests/antela-af44066.png",
       "source_team_page": "https://www.resultadosrfef.es/equipo/antela-af44066",
       "match_score": 100,
-      "reason": "Invalid URL '/crests/antela-af44066.png': No scheme supplied. Perhaps you meant https:///crests/antela-af44066.png?"
+      "background_rgb": [
+        201,
+        114,
+        114
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100174.png",
+      "source_sha256": "9fb71fe2a2cd3beae779198109873cf9302a00f8f30c6487dae4a6634d727c8a",
+      "image_sha256": "128caad542327f238e93336c8ed759df80461f3af3a484972d26ee3d8d26b84f"
     },
     {
       "id": 1884500100175,
