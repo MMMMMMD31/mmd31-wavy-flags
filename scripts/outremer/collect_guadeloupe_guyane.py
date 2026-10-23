@@ -2,6 +2,7 @@
 """Find authentic club crests for Guadeloupe and Guyane from matching SportCorico club pages.
 NEVER use a site logo, placeholder, homonym, wrong territory or invent a crest.
 Writes auditable statuses; auto-accepted images require a matching club title and territory.
+Read extra 2026 identity aliases for Sporting B/M, COSMA Foot and EJ Balate.
 """
 import csv, re, io, os, hashlib, unicodedata, time
 from pathlib import Path
