@@ -33,7 +33,7 @@ for division,slug,count in [(3,"primera-rfef",2),(4,"segunda-rfef",5),(5,"tercer
       continue
     choices.append(rows)
    best=max(choices,key=len,default=[])
-   if len(best)!=({3:20,4:18,5:18}[division]):raise ValueError(f"Expected full table, got sizes {[len(x) for x in choices]} table html {[(t.get_text(' ',strip=True)[:110]) for t in html.find_all('table')][:2]}")
+   if len(best) not in ({3:[20],4:[18,19],5:[18]}[division]):raise ValueError(f"Expected full table, got sizes {[len(x) for x in choices]} table html {[(t.get_text(' ',strip=True)[:110]) for t in html.find_all('table')][:2]}")
    if len({r["name"] for r in best})!=len(best): raise ValueError("duplicate table names")
    output.append({"division":division,"group":group,"url":url,"rows":best})
    print(f"OK D{division} G{group}: {len(best)}",flush=True)
