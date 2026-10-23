@@ -1,0 +1,31 @@
+name: Spanish D5 verified crest gap recovery
+on:
+  push:
+    branches: [mmd31-es-v13-crests-20261023]
+    paths:
+      - 'tools/mmd31_es_v13_d5_manual_sources.py'
+      - '.github/workflows/mmd31-es-v13-d5-manual.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  recovery:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install requests beautifulsoup4 pillow scipy numpy rapidfuzz
+      - run: python tools/mmd31_es_v13_d5_manual_sources.py
+      - shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/spanish-clubs-2026-27/v13/ data/mmd31_es_v13_d5_g*.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Publish recovered authentic Spanish D5 club emblems"
+            git pull --rebase origin mmd31-es-v13-crests-20261023
+            git push origin HEAD:mmd31-es-v13-crests-20261023
+          fi
