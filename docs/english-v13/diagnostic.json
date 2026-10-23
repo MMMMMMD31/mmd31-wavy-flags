@@ -238,5 +238,6 @@
     "scripts": [],
     "candidate_elo_links": [],
     "sample_json": "{\"searchinfo\":{\"search\":\"AFC Portchester\"},\"search\":[],\"success\":1}"
-  }
+  },
+  "elo_script_refs_error": "missing ), unterminated subpattern at position 28"
 }
