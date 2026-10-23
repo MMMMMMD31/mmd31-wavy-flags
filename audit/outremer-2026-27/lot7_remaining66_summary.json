@@ -1,0 +1,14 @@
+{
+  "initial_published": 260,
+  "initial_remaining": 66,
+  "new_published": 5,
+  "still_missing": 61,
+  "total_published": 265,
+  "statuses": {
+    "not_verified": 59,
+    "rights_not_cleared": 1,
+    "published": 5,
+    "duplicate_unverified": 1
+  },
+  "source": "automated identity-aware collection; visual review not exhaustive"
+}
