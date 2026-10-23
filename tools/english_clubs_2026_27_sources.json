@@ -1,0 +1,582 @@
+[
+  {
+    "id": 1793400000001,
+    "name": "Manchester City",
+    "source_path": "logos/england/Manchester_City.svg"
+  },
+  {
+    "id": 1793400000002,
+    "name": "Arsenal",
+    "source_path": "logos/england/Arsenal.svg"
+  },
+  {
+    "id": 1793400000003,
+    "name": "Brighton & Hove Albion",
+    "source_path": "logos/england/Brighton.svg"
+  },
+  {
+    "id": 1793400000004,
+    "name": "Chelsea",
+    "source_path": "logos/england/Chelsea.svg"
+  },
+  {
+    "id": 1793400000005,
+    "name": "Liverpool",
+    "source_path": "logos/england/Liverpool_FC.svg"
+  },
+  {
+    "id": 1793400000006,
+    "name": "Brentford",
+    "source_path": "logos/england/Brentford.svg"
+  },
+  {
+    "id": 1793400000007,
+    "name": "Leeds United",
+    "source_path": "logos/england/Leeds_United.svg"
+  },
+  {
+    "id": 1793400000008,
+    "name": "Everton",
+    "source_path": "logos/england/Everton.svg"
+  },
+  {
+    "id": 1793400000009,
+    "name": "Hull City",
+    "source_path": "logos/england/Hull_City.svg"
+  },
+  {
+    "id": 1793400000010,
+    "name": "Ipswich Town",
+    "source_path": "logos/england/Ipswich.svg"
+  },
+  {
+    "id": 1793400000011,
+    "name": "Newcastle United",
+    "source_path": "logos/england/Newcastle_United.svg"
+  },
+  {
+    "id": 1793400000012,
+    "name": "Aston Villa",
+    "source_path": "logos/england/Aston_Villa.svg"
+  },
+  {
+    "id": 1793400000013,
+    "name": "Manchester United",
+    "source_path": "logos/england/Manchester_United.svg"
+  },
+  {
+    "id": 1793400000014,
+    "name": "Crystal Palace",
+    "source_path": "logos/england/Crystal_Palace.svg"
+  },
+  {
+    "id": 1793400000015,
+    "name": "AFC Bournemouth",
+    "source_path": "logos/england/Bournemouth.svg"
+  },
+  {
+    "id": 1793400000016,
+    "name": "Tottenham Hotspur",
+    "source_path": "logos/england/Tottenham.svg"
+  },
+  {
+    "id": 1793400000017,
+    "name": "Coventry City",
+    "source_path": "logos/england/Coventry_City.svg"
+  },
+  {
+    "id": 1793400000018,
+    "name": "Fulham",
+    "source_path": "logos/england/Fulham.svg"
+  },
+  {
+    "id": 1793400000019,
+    "name": "Nottingham Forest",
+    "source_path": "logos/england/Nottingham_Forest.svg"
+  },
+  {
+    "id": 1793400000020,
+    "name": "Sunderland",
+    "source_path": "logos/england/Sunderland.svg"
+  },
+  {
+    "id": 1793400000021,
+    "name": "Swansea City",
+    "source_path": "logos/england/Swansea_City.svg"
+  },
+  {
+    "id": 1793400000022,
+    "name": "West Ham United",
+    "source_path": "logos/england/West_Ham.svg"
+  },
+  {
+    "id": 1793400000023,
+    "name": "Middlesbrough",
+    "source_path": "logos/england/Middlesbrough.svg"
+  },
+  {
+    "id": 1793400000024,
+    "name": "Southampton",
+    "source_path": "logos/england/Southampton.svg"
+  },
+  {
+    "id": 1793400000025,
+    "name": "Birmingham City",
+    "source_path": "logos/england/Birmingham_City.svg"
+  },
+  {
+    "id": 1793400000026,
+    "name": "West Bromwich Albion",
+    "source_path": "logos/england/West_Bromwich_Albion.svg"
+  },
+  {
+    "id": 1793400000027,
+    "name": "Stoke City",
+    "source_path": "logos/england/Stoke_City.svg"
+  },
+  {
+    "id": 1793400000028,
+    "name": "Wolverhampton Wanderers",
+    "source_path": "logos/england/Wolverhampton_Wanderers.svg"
+  },
+  {
+    "id": 1793400000029,
+    "name": "Queens Park Rangers",
+    "source_path": "logos/england/Queens_Park_Rangers.svg"
+  },
+  {
+    "id": 1793400000030,
+    "name": "Blackburn Rovers",
+    "source_path": "logos/england/Blackburn_Rovers.svg"
+  },
+  {
+    "id": 1793400000031,
+    "name": "Sheffield United",
+    "source_path": "logos/england/Sheffield_United.svg"
+  },
+  {
+    "id": 1793400000032,
+    "name": "Millwall",
+    "source_path": "logos/england/Millwall.svg"
+  },
+  {
+    "id": 1793400000033,
+    "name": "Portsmouth",
+    "source_path": "logos/england/Portsmouth.svg"
+  },
+  {
+    "id": 1793400000034,
+    "name": "Wrexham",
+    "source_path": "logos/england/Wrexham_AFC.svg"
+  },
+  {
+    "id": 1793400000035,
+    "name": "Bolton Wanderers",
+    "source_path": "logos/england/Bolton_Wanderers.svg"
+  },
+  {
+    "id": 1793400000036,
+    "name": "Bristol City",
+    "source_path": "logos/england/Bristol_City.svg"
+  },
+  {
+    "id": 1793400000037,
+    "name": "Charlton Athletic",
+    "source_path": "logos/england/Charlton_Athletic.svg"
+  },
+  {
+    "id": 1793400000038,
+    "name": "Lincoln City",
+    "source_path": "logos/england/Lincoln_City.svg"
+  },
+  {
+    "id": 1793400000039,
+    "name": "Cardiff City",
+    "source_path": "logos/england/Cardiff_City.svg"
+  },
+  {
+    "id": 1793400000040,
+    "name": "Watford",
+    "source_path": "logos/england/Watford.svg"
+  },
+  {
+    "id": 1793400000041,
+    "name": "Norwich City",
+    "source_path": "logos/england/Norwich_City.svg"
+  },
+  {
+    "id": 1793400000042,
+    "name": "Burnley",
+    "source_path": "logos/england/Burnley.svg"
+  },
+  {
+    "id": 1793400000043,
+    "name": "Derby County",
+    "source_path": "logos/england/Derby_County.svg"
+  },
+  {
+    "id": 1793400000044,
+    "name": "Preston North End",
+    "source_path": "logos/england/Preston_North_End.svg"
+  },
+  {
+    "id": 1793400000045,
+    "name": "Bradford City",
+    "source_path": "logos/england/Bradford_City.svg"
+  },
+  {
+    "id": 1793400000046,
+    "name": "Stockport County",
+    "source_path": "logos/england/Stockport_County.svg"
+  },
+  {
+    "id": 1793400000047,
+    "name": "Huddersfield Town",
+    "source_path": "logos/england/Huddersfield_Town.svg"
+  },
+  {
+    "id": 1793400000048,
+    "name": "Plymouth Argyle",
+    "source_path": "logos/england/Plymouth_Argyle.svg"
+  },
+  {
+    "id": 1793400000049,
+    "name": "Cambridge United",
+    "source_path": "logos/england/Cambridge_United.svg"
+  },
+  {
+    "id": 1793400000050,
+    "name": "Sheffield Wednesday",
+    "source_path": "logos/england/Sheffield_Wednesday.svg"
+  },
+  {
+    "id": 1793400000051,
+    "name": "Reading",
+    "source_path": "logos/england/Reading.svg"
+  },
+  {
+    "id": 1793400000052,
+    "name": "Oxford United",
+    "source_path": "logos/england/Oxford_United.svg"
+  },
+  {
+    "id": 1793400000053,
+    "name": "Leyton Orient",
+    "source_path": "logos/england/Leyton_Orient.svg"
+  },
+  {
+    "id": 1793400000054,
+    "name": "Mansfield Town",
+    "source_path": "logos/england/Mansfield_Town.svg"
+  },
+  {
+    "id": 1793400000055,
+    "name": "Wycombe Wanderers",
+    "source_path": "logos/england/Wycombe_Wanderers.svg"
+  },
+  {
+    "id": 1793400000056,
+    "name": "Burton Albion",
+    "source_path": "logos/england/Burton_Albion.svg"
+  },
+  {
+    "id": 1793400000057,
+    "name": "Stevenage",
+    "source_path": "logos/england/Stevenage.svg"
+  },
+  {
+    "id": 1793400000058,
+    "name": "Leicester City",
+    "source_path": "logos/england/Leicester.svg"
+  },
+  {
+    "id": 1793400000059,
+    "name": "AFC Wimbledon",
+    "source_path": "logos/england/AFC_Wimbledon.svg"
+  },
+  {
+    "id": 1793400000060,
+    "name": "Luton Town",
+    "source_path": "logos/england/Luton_Town.svg"
+  },
+  {
+    "id": 1793400000061,
+    "name": "Milton Keynes Dons",
+    "source_path": "logos/england/Milton_Keynes_Dons.svg"
+  },
+  {
+    "id": 1793400000062,
+    "name": "Peterborough United",
+    "source_path": "logos/england/Peterborough_United.svg"
+  },
+  {
+    "id": 1793400000063,
+    "name": "Doncaster Rovers",
+    "source_path": "logos/england/Doncaster_Rovers.svg"
+  },
+  {
+    "id": 1793400000064,
+    "name": "Blackpool",
+    "source_path": "logos/england/Blackpool.svg"
+  },
+  {
+    "id": 1793400000065,
+    "name": "Notts County",
+    "source_path": "logos/england/Notts_County.svg"
+  },
+  {
+    "id": 1793400000066,
+    "name": "Barnsley",
+    "source_path": "logos/england/Barnsley.svg"
+  },
+  {
+    "id": 1793400000067,
+    "name": "Bromley",
+    "source_path": "logos/england/Bromley.svg"
+  },
+  {
+    "id": 1793400000068,
+    "name": "Wigan Athletic",
+    "source_path": "logos/england/Wigan_Athletic.svg"
+  },
+  {
+    "id": 1793400000069,
+    "name": "Salford City",
+    "source_path": "logos/england/Salford_City.svg"
+  },
+  {
+    "id": 1793400000070,
+    "name": "Barnet",
+    "source_path": "logos/england/Barnet.svg"
+  },
+  {
+    "id": 1793400000071,
+    "name": "Crewe Alexandra",
+    "source_path": "logos/england/Crewe_Alexandra.svg"
+  },
+  {
+    "id": 1793400000072,
+    "name": "Walsall",
+    "source_path": "logos/england/Walsall.svg"
+  },
+  {
+    "id": 1793400000073,
+    "name": "York City",
+    "source_path": "logos/england/York_City.svg"
+  },
+  {
+    "id": 1793400000074,
+    "name": "Gillingham",
+    "source_path": "logos/england/Gillingham.svg"
+  },
+  {
+    "id": 1793400000075,
+    "name": "Chesterfield",
+    "source_path": "logos/england/Chesterfield.svg"
+  },
+  {
+    "id": 1793400000076,
+    "name": "Cheltenham Town",
+    "source_path": "logos/england/Cheltenham_Town.svg"
+  },
+  {
+    "id": 1793400000077,
+    "name": "Bristol Rovers",
+    "source_path": "logos/england/Bristol_Rovers.svg"
+  },
+  {
+    "id": 1793400000078,
+    "name": "Accrington Stanley",
+    "source_path": "logos/england/Accrington_Stanley.svg"
+  },
+  {
+    "id": 1793400000079,
+    "name": "Newport County",
+    "source_path": "logos/england/Newport_County.svg"
+  },
+  {
+    "id": 1793400000080,
+    "name": "Fleetwood Town",
+    "source_path": "logos/england/Fleetwood_Town.svg"
+  },
+  {
+    "id": 1793400000081,
+    "name": "Rochdale",
+    "source_path": "logos/england/Rochdale.svg"
+  },
+  {
+    "id": 1793400000082,
+    "name": "Shrewsbury Town",
+    "source_path": "logos/england/Shrewsbury_Town.svg"
+  },
+  {
+    "id": 1793400000083,
+    "name": "Grimsby Town",
+    "source_path": "logos/england/Grimsby_Town.svg"
+  },
+  {
+    "id": 1793400000084,
+    "name": "Exeter City",
+    "source_path": "logos/england/Exeter_City.svg"
+  },
+  {
+    "id": 1793400000085,
+    "name": "Tranmere Rovers",
+    "source_path": "logos/england/Tranmere_Rovers.svg"
+  },
+  {
+    "id": 1793400000086,
+    "name": "Swindon Town",
+    "source_path": "logos/england/Swindon_Town.svg"
+  },
+  {
+    "id": 1793400000087,
+    "name": "Oldham Athletic",
+    "source_path": "logos/england/Oldham_Athletic.svg"
+  },
+  {
+    "id": 1793400000088,
+    "name": "Colchester United",
+    "source_path": "logos/england/Colchester_United.svg"
+  },
+  {
+    "id": 1793400000089,
+    "name": "Port Vale",
+    "source_path": "logos/england/Port_Vale_FC.svg"
+  },
+  {
+    "id": 1793400000090,
+    "name": "Northampton Town",
+    "source_path": "logos/england/Northampton_Town.svg"
+  },
+  {
+    "id": 1793400000091,
+    "name": "Rotherham United",
+    "source_path": "logos/england/Rotherham_United.svg"
+  },
+  {
+    "id": 1793400000092,
+    "name": "Crawley Town",
+    "source_path": "logos/england/Crawley_Town.svg"
+  },
+  {
+    "id": 1793400000093,
+    "name": "Boreham Wood",
+    "source_path": "logos/england/Boreham_Wood.svg"
+  },
+  {
+    "id": 1793400000094,
+    "name": "Harrogate Town",
+    "source_path": "logos/england/Harrogate_Town.svg"
+  },
+  {
+    "id": 1793400000095,
+    "name": "Southend United",
+    "source_path": "logos/england/Southend_United.svg"
+  },
+  {
+    "id": 1793400000096,
+    "name": "Altrincham",
+    "source_path": "logos/england/Altrincham_FC.svg"
+  },
+  {
+    "id": 1793400000097,
+    "name": "AFC Fylde",
+    "source_path": "logos/england/AFC_Fylde.svg"
+  },
+  {
+    "id": 1793400000098,
+    "name": "Yeovil Town",
+    "source_path": "logos/england/Yeovil_Town.svg"
+  },
+  {
+    "id": 1793400000099,
+    "name": "Aldershot Town",
+    "source_path": "logos/england/Aldershot_Town.svg"
+  },
+  {
+    "id": 1793400000100,
+    "name": "Worthing",
+    "source_path": "logos/england/Worthing.svg"
+  },
+  {
+    "id": 1793400000101,
+    "name": "Kidderminster Harriers",
+    "source_path": "logos/england/Kidderminster_Harriers.svg"
+  },
+  {
+    "id": 1793400000102,
+    "name": "Hornchurch",
+    "source_path": "logos/england/Hornchurch.svg"
+  },
+  {
+    "id": 1793400000103,
+    "name": "Sutton United",
+    "source_path": "logos/england/Sutton_United.svg"
+  },
+  {
+    "id": 1793400000104,
+    "name": "Forest Green Rovers",
+    "source_path": "logos/england/Forest_Green_Rovers.svg"
+  },
+  {
+    "id": 1793400000105,
+    "name": "Barrow",
+    "source_path": "logos/england/Barrow_AFC.svg"
+  },
+  {
+    "id": 1793400000106,
+    "name": "Eastleigh",
+    "source_path": "logos/england/Eastleigh.svg"
+  },
+  {
+    "id": 1793400000107,
+    "name": "FC Halifax Town",
+    "source_path": "logos/england/FC_Halifax_Town.svg"
+  },
+  {
+    "id": 1793400000108,
+    "name": "Carlisle United",
+    "source_path": "logos/england/Carlisle_United.svg"
+  },
+  {
+    "id": 1793400000109,
+    "name": "Wealdstone",
+    "source_path": "logos/england/Wealdstone.svg"
+  },
+  {
+    "id": 1793400000110,
+    "name": "Woking",
+    "source_path": "logos/england/Woking_FC.svg"
+  },
+  {
+    "id": 1793400000111,
+    "name": "Boston United",
+    "source_path": "logos/england/Boston_United.svg"
+  },
+  {
+    "id": 1793400000112,
+    "name": "Scunthorpe United",
+    "source_path": "logos/england/Scunthorpe_United.svg"
+  },
+  {
+    "id": 1793400000113,
+    "name": "Tamworth",
+    "source_path": "logos/england/Tamworth.svg"
+  },
+  {
+    "id": 1793400000114,
+    "name": "Hartlepool United",
+    "source_path": "logos/england/Hartlepool_United.svg"
+  },
+  {
+    "id": 1793400000115,
+    "name": "Solihull Moors",
+    "source_path": "logos/england/Solihull_Moors.svg"
+  },
+  {
+    "id": 1793400000116,
+    "name": "Gateshead",
+    "source_path": "logos/england/Gateshead_FC.svg"
+  }
+]
