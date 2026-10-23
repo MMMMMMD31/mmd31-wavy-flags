@@ -1,0 +1,41 @@
+{
+  "count": 3,
+  "crests": [
+    {
+      "id": 1900262702006,
+      "name": "KFC Dessel Sport",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/belgium/KFC_Dessel_Sport.svg",
+      "status": "SOURCE_CANDIDATE_TO_VERIFY_CURRENT_IDENTITY",
+      "size": [
+        120,
+        96
+      ],
+      "sha256": "a3a3e7988b992400d089d9fcb127f4913067181c93a3be14d96d8be7efd27854",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-v13-d3-assets/docs/belgian-d3-clubs-2026-27/v13/1900262702006.png"
+    },
+    {
+      "id": 1900262702101,
+      "name": "RWDM Brussels",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/belgium/RWDM_Brussels.svg",
+      "status": "SOURCE_CANDIDATE_TO_VERIFY_CURRENT_IDENTITY",
+      "size": [
+        120,
+        96
+      ],
+      "sha256": "725446b43b23290995489286f0dc49f2d7e01d212482ea5860f6289383f65619",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-v13-d3-assets/docs/belgian-d3-clubs-2026-27/v13/1900262702101.png"
+    },
+    {
+      "id": 1900262702106,
+      "name": "Olympic Charleroi",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/belgium/Olympic_Charleroi.svg",
+      "status": "SOURCE_CANDIDATE_TO_VERIFY_CURRENT_IDENTITY",
+      "size": [
+        120,
+        96
+      ],
+      "sha256": "3daac88260363bc68a4124c30f090fda378228221b96e56d19be596c980a92c9",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-v13-d3-assets/docs/belgian-d3-clubs-2026-27/v13/1900262702106.png"
+    }
+  ]
+}
