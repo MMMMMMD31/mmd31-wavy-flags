@@ -85,7 +85,7 @@
       ],
       "background_basis": "source logo pixels",
       "sha256": "cc283c4a4df186370d76ae9504f0633407ad8357720420cff5e411082885e41d",
-      "original_sha256": "15b3270bf30823ffd450147301b7061310422a54e869fd1c41450dd30d0010ea"
+      "original_sha256": "410c34f2bcb1335b53b28397cb21c6483d0a63302fba0cb9c81532ad5fc64779"
     },
     {
       "id": 1905100000409,
@@ -204,20 +204,20 @@
     {
       "id": 1905100000404,
       "name": "Vitória Pico da Pedra",
-      "source": "https://cdn-img.zerozero.pt/img/logos/equipas/4719_imgbank.png",
-      "error": "404 Client Error: Not Found for url: https://cdn-img.zerozero.pt/img/logos/equipas/4719_imgbank.png"
+      "source": "https://wsrv.nl/?url=vemjogar.fpf.pt%2Ffilemanager%2Fmedia%2Ffile%3Fguid%3Deea1fd6d-c5a3-4e5b-9584-4c38717026d0",
+      "error": "404 Client Error: Not Found for url: https://wsrv.nl/?url=vemjogar.fpf.pt%2Ffilemanager%2Fmedia%2Ffile%3Fguid%3Deea1fd6d-c5a3-4e5b-9584-4c38717026d0"
     },
     {
       "id": 1905100000405,
       "name": "CD Santo António",
-      "source": "https://cdn-img.zerozero.pt/img/logos/equipas/3650_imgbank_1712928682.png",
-      "error": "404 Client Error: Not Found for url: https://cdn-img.zerozero.pt/img/logos/equipas/3650_imgbank_1712928682.png"
+      "source": "https://wsrv.nl/?url=www.zerozero.pt%2Fimg%2Flogos%2Fequipas%2F3650_imgbank_1712928682.png",
+      "error": "404 Client Error: Not Found for url: https://wsrv.nl/?url=www.zerozero.pt%2Fimg%2Flogos%2Fequipas%2F3650_imgbank_1712928682.png"
     },
     {
       "id": 1905100000412,
       "name": "Bota Fogo",
-      "source": "https://cdn-img.zerozero.pt/img/logos/equipas/4714_imgbank.png",
-      "error": "404 Client Error: Not Found for url: https://cdn-img.zerozero.pt/img/logos/equipas/4714_imgbank.png"
+      "source": "https://wsrv.nl/?url=www.zerozero.pt%2Fimg%2Flogos%2Fequipas%2F4714_imgbank.png",
+      "error": "404 Client Error: Not Found for url: https://wsrv.nl/?url=www.zerozero.pt%2Fimg%2Flogos%2Fequipas%2F4714_imgbank.png"
     }
   ],
   "note": "True logos only; source identification pending per-club review"
