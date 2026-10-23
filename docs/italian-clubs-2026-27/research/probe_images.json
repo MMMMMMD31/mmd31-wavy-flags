@@ -1,0 +1,651 @@
+[
+  {
+    "name": "Alessandria",
+    "url": "https://img.datasport.it/img/logos/squadre/alessandria.png",
+    "status": 200,
+    "final_url": "https://img.datasport.it/img/logos/squadre/alessandria.png",
+    "size_bytes": 43007,
+    "format": "PNG",
+    "original_size": [
+      200,
+      200
+    ],
+    "unique_colors": 1156,
+    "dominant_pixel_fraction": 0.168,
+    "sha256": "a94821f932786fc077a779dca23d6a08a570c855a44ce2edfcb5c41f18c84079",
+    "alpha_opaque_fraction": 0.751,
+    "preview_path": "docs/italian-clubs-2026-27/research/candidate-previews/alessandria-a94821f932.png"
+  },
+  {
+    "name": "Borgosesia",
+    "url": "https://img.datasport.it/img/logos/squadre/borgosesia.png",
+    "status": 200,
+    "final_url": "https://img.datasport.it/img/logos/squadre/borgosesia.png",
+    "size_bytes": 51942,
+    "format": "PNG",
+    "original_size": [
+      200,
+      200
+    ],
+    "unique_colors": 829,
+    "dominant_pixel_fraction": 0.323,
+    "sha256": "65412ac7642d343a00627767f86ed11f5580e667bf2905768cd739bec26a7111",
+    "alpha_opaque_fraction": 0.565,
+    "preview_path": "docs/italian-clubs-2026-27/research/candidate-previews/borgosesia-65412ac764.png"
+  },
+  {
+    "name": "Borgosesia",
+    "url": "https://www.borgosesiacalcio.com/wp-content/uploads/logo-borgosesiacalcio-colore_fondo-trasparente.png",
+    "status": 200,
+    "final_url": "https://www.borgosesiacalcio.com/wp-content/uploads/logo-borgosesiacalcio-colore_fondo-trasparente.png",
+    "size_bytes": 47220,
+    "format": "PNG",
+    "original_size": [
+      731,
+      731
+    ],
+    "unique_colors": 518,
+    "dominant_pixel_fraction": 0.562,
+    "sha256": "7dc9390d2d04b280f9c8936181db3eee605ac2cd7fe46a10674930088e9f16b6",
+    "alpha_opaque_fraction": 0.369,
+    "preview_path": "docs/italian-clubs-2026-27/research/candidate-previews/borgosesia-7dc9390d2d.png"
+  },
+  {
+    "name": "Lascaris",
+    "url": "https://img.datasport.it/img/logos/squadre/lascaris.png",
+    "status": 200,
+    "final_url": "https://img.datasport.it/img/logos/squadre/lascaris.png",
+    "size_bytes": 18888,
+    "format": "PNG",
+    "original_size": [
+      200,
+      200
+    ],
+    "unique_colors": 341,
+    "dominant_pixel_fraction": 0.468,
+    "sha256": "19cea81737235c55ae9856d82b1f998a1d9c6f7e04e7922a50ffbdea94f2c3b5",
+    "alpha_opaque_fraction": 0.454,
+    "preview_path": "docs/italian-clubs-2026-27/research/candidate-previews/lascaris-19cea81737.png"
+  },
+  {
+    "name": "Fezzanese",
+    "url": "https://img.datasport.it/img/logos/squadre/fezzanese.png",
+    "status": 200,
+    "final_url": "https://img.datasport.it/img/logos/squadre/fezzanese.png",
+    "size_bytes": 52834,
+    "format": "PNG",
+    "original_size": [
+      200,
+      200
+    ],
+    "unique_colors": 1038,
+    "dominant_pixel_fraction": 0.272,
+    "sha256": "291bd15a09ed3737225a6ae6e8d883dcf9b8946bf43324190b54425d684d9341",
+    "alpha_opaque_fraction": 0.639,
+    "preview_path": "docs/italian-clubs-2026-27/research/candidate-previews/fezzanese-291bd15a09.png"
+  },
+  {
+    "name": "Millesimo",
+    "url": "https://img.datasport.it/img/logos/squadre/millesimo.png",
+    "status": 200,
+    "final_url": "https://img.datasport.it/img/logos/squadre/millesimo.png",
+    "size_bytes": 40355,
+    "format": "PNG",
+    "original_size": [
+      200,
+      200
+    ],
+    "unique_colors": 1025,
+    "dominant_pixel_fraction": 0.264,
+    "sha256": "9d711d23cc68341f89fc148d2851ecd1d75073475b6cb94bd93802b526811351",
+    "alpha_opaque_fraction": 0.646,
+    "preview_path": "docs/italian-clubs-2026-27/research/candidate-previews/millesimo-9d711d23cc.png"
+  },
+  {
+    "name": "Pavonese",
+    "url": "https://img.datasport.it/img/logos/squadre/pavonese.png",
+    "status": 404,
+    "final_url": "https://img.datasport.it/img/logos/squadre/pavonese.png",
+    "size_bytes": 196
+  },
+  {
+    "name": "Tritium",
+    "url": "https://img.datasport.it/img/logos/squadre/tritium.png",
+    "status": 404,
+    "final_url": "https://img.datasport.it/img/logos/squadre/tritium.png",
+    "size_bytes": 196
+  },
+  {
+    "name": "Fiorenzuola",
+    "url": "https://img.datasport.it/img/logos/squadre/fiorenzuola.png",
+    "status": 200,
+    "final_url": "https://img.datasport.it/img/logos/squadre/fiorenzuola.png",
+    "size_bytes": 44366,
+    "format": "PNG",
+    "original_size": [
+      200,
+      200
+    ],
+    "unique_colors": 802,
+    "dominant_pixel_fraction": 0.417,
+    "sha256": "1baf17bd7a68529b6078a11974d9f740a37301742f3c4f269526dd7f943cecc9",
+    "alpha_opaque_fraction": 0.434,
+    "preview_path": "docs/italian-clubs-2026-27/research/candidate-previews/fiorenzuola-1baf17bd7a.png"
+  },
+  {
+    "name": "Nibbiano e Valtidone",
+    "url": "https://img.datasport.it/img/logos/squadre/nibbiano-e-valtidone.png",
+    "status": 200,
+    "final_url": "https://img.datasport.it/img/logos/squadre/nibbiano-e-valtidone.png",
+    "size_bytes": 33960,
+    "format": "PNG",
+    "original_size": [
+      200,
+      200
+    ],
+    "unique_colors": 741,
+    "dominant_pixel_fraction": 0.39,
+    "sha256": "92980ae4d218d1fa46ae6eeb6285d8767ac7e7f5808a4c69a72aabcae84e3bec",
+    "alpha_opaque_fraction": 0.523,
+    "preview_path": "docs/italian-clubs-2026-27/research/candidate-previews/nibbiano-e-valtidone-92980ae4d2.png"
+  },
+  {
+    "name": "Nibbiano e Valtidone",
+    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Escudo_ASD_Nibbiano_%26_Valtidone.png",
+    "status": 200,
+    "final_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Escudo_ASD_Nibbiano_%26_Valtidone.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+    "size_bytes": 291477,
+    "format": "PNG",
+    "original_size": [
+      1239,
+      1500
+    ],
+    "unique_colors": 715,
+    "dominant_pixel_fraction": 0.285,
+    "sha256": "7c86d9cc6ead1fdf0ffe584f320401c5d1da899c08da9b7c47beaefca5445729",
+    "alpha_opaque_fraction": 0.608,
+    "preview_path": "docs/italian-clubs-2026-27/research/candidate-previews/nibbiano-e-valtidone-7c86d9cc6e.png"
+  },
+  {
+    "name": "Nibbiano e Valtidone",
+    "url": "https://img.datasport.it/img/logos/squadre/nibbianoevaltidone.png",
+    "status": 404,
+    "final_url": "https://img.datasport.it/img/logos/squadre/nibbianoevaltidone.png",
+    "size_bytes": 196
+  },
+  {
+    "name": "LME",
+    "url": "https://img.datasport.it/img/logos/squadre/lme.png",
+    "status": 200,
+    "final_url": "https://img.datasport.it/img/logos/squadre/lme.png",
+    "size_bytes": 46371,
+    "format": "PNG",
+    "original_size": [
+      200,
+      200
+    ],
+    "unique_colors": 723,
+    "dominant_pixel_fraction": 0.346,
+    "sha256": "c7a77a89ddc7b27ee3dbf210d8c0e94f2886d664242b6f8806c1b7eb785d49f8",
+    "alpha_opaque_fraction": 0.566,
+    "preview_path": "docs/italian-clubs-2026-27/research/candidate-previews/lme-c7a77a89dd.png"
+  },
+  {
+    "name": "Virtus Bolzano",
+    "url": "https://img.datasport.it/img/logos/squadre/virtus-bolzano.png",
+    "status": 200,
+    "final_url": "https://img.datasport.it/img/logos/squadre/virtus-bolzano.png",
+    "size_bytes": 40497,
+    "format": "PNG",
+    "original_size": [
+      200,
+      200
+    ],
+    "unique_colors": 632,
+    "dominant_pixel_fraction": 0.278,
+    "sha256": "1687eccf50b2a51ed776d0f2a10f701e1798c69cee286ef1c8da51b4e3361c52",
+    "alpha_opaque_fraction": 0.615,
+    "preview_path": "docs/italian-clubs-2026-27/research/candidate-previews/virtus-bolzano-1687eccf50.png"
+  },
+  {
+    "name": "Virtus Bolzano",
+    "url": "https://img.datasport.it/img/logos/squadre/virtusbolzano.png",
+    "status": 404,
+    "final_url": "https://img.datasport.it/img/logos/squadre/virtusbolzano.png",
+    "size_bytes": 196
+  },
+  {
+    "name": "Virtus Bolzano",
+    "url": "https://img.datasport.it/img/logos/squadre/bolzano.png",
+    "status": 404,
+    "final_url": "https://img.datasport.it/img/logos/squadre/bolzano.png",
+    "size_bytes": 196
+  },
+  {
+    "name": "Sandonà",
+    "url": "https://img.datasport.it/img/logos/squadre/sandona.png",
+    "status": 404,
+    "final_url": "https://img.datasport.it/img/logos/squadre/sandona.png",
+    "size_bytes": 196
+  },
+  {
+    "name": "Schio",
+    "url": "https://img.datasport.it/img/logos/squadre/schio.png",
+    "status": 404,
+    "final_url": "https://img.datasport.it/img/logos/squadre/schio.png",
+    "size_bytes": 196
+  },
+  {
+    "name": "Arconatese",
+    "url": "https://img.datasport.it/img/logos/squadre/arconatese.png",
+    "status": 200,
+    "final_url": "https://img.datasport.it/img/logos/squadre/arconatese.png",
+    "size_bytes": 25645,
+    "format": "PNG",
+    "original_size": [
+      200,
+      200
+    ],
+    "unique_colors": 502,
+    "dominant_pixel_fraction": 0.302,
+    "sha256": "4b11a65aa66d6e1ae33f2230df26e9f9134c5565d2dd96a9bb23745c5ffe1412",
+    "alpha_opaque_fraction": 0.606,
+    "preview_path": "docs/italian-clubs-2026-27/research/candidate-previews/arconatese-4b11a65aa6.png"
+  },
+  {
+    "name": "Solbiatese",
+    "url": "https://img.datasport.it/img/logos/squadre/solbiatese.png",
+    "status": 200,
+    "final_url": "https://img.datasport.it/img/logos/squadre/solbiatese.png",
+    "size_bytes": 26029,
+    "format": "PNG",
+    "original_size": [
+      200,
+      200
+    ],
+    "unique_colors": 454,
+    "dominant_pixel_fraction": 0.234,
+    "sha256": "f41ddc6fafef0ef4876acbdee97924e441925c72f4c4df2a475d547e1f573b21",
+    "alpha_opaque_fraction": 0.75,
+    "preview_path": "docs/italian-clubs-2026-27/research/candidate-previews/solbiatese-f41ddc6faf.png"
+  },
+  {
+    "name": "Grassina",
+    "url": "https://img.datasport.it/img/logos/squadre/grassina.png",
+    "status": 200,
+    "final_url": "https://img.datasport.it/img/logos/squadre/grassina.png",
+    "size_bytes": 43655,
+    "format": "PNG",
+    "original_size": [
+      200,
+      200
+    ],
+    "unique_colors": 623,
+    "dominant_pixel_fraction": 0.188,
+    "sha256": "8055cb07011c221f5f5a80c099744ca16579010de99e76c3bc8ee22c3627d4c4",
+    "alpha_opaque_fraction": 0.627,
+    "preview_path": "docs/italian-clubs-2026-27/research/candidate-previews/grassina-8055cb0701.png"
+  },
+  {
+    "name": "Rondinella Marzocco",
+    "url": "https://img.datasport.it/img/logos/squadre/rondinella-marzocco.png",
+    "status": 200,
+    "final_url": "https://img.datasport.it/img/logos/squadre/rondinella-marzocco.png",
+    "size_bytes": 17015,
+    "format": "PNG",
+    "original_size": [
+      200,
+      200
+    ],
+    "unique_colors": 442,
+    "dominant_pixel_fraction": 0.271,
+    "sha256": "8355c00665e0c3e3938396bdbc57907ab8005e32a45bb6312d74c30c7d5a848f",
+    "alpha_opaque_fraction": 0.659,
+    "preview_path": "docs/italian-clubs-2026-27/research/candidate-previews/rondinella-marzocco-8355c00665.png"
+  },
+  {
+    "name": "Rondinella Marzocco",
+    "url": "https://img.datasport.it/img/logos/squadre/rondinellamarzocco.png",
+    "status": 404,
+    "final_url": "https://img.datasport.it/img/logos/squadre/rondinellamarzocco.png",
+    "size_bytes": 196
+  },
+  {
+    "name": "Mezzolara",
+    "url": "https://img.datasport.it/img/logos/squadre/mezzolara.png",
+    "status": 200,
+    "final_url": "https://img.datasport.it/img/logos/squadre/mezzolara.png",
+    "size_bytes": 60365,
+    "format": "PNG",
+    "original_size": [
+      200,
+      200
+    ],
+    "unique_colors": 934,
+    "dominant_pixel_fraction": 0.079,
+    "sha256": "fbba75358e51fb1909c0af312c577f93958a096d82c151e80b4b39901f750a3c",
+    "alpha_opaque_fraction": 0.657,
+    "preview_path": "docs/italian-clubs-2026-27/research/candidate-previews/mezzolara-fbba75358e.png"
+  },
+  {
+    "name": "Montecchio Gallo",
+    "url": "https://img.datasport.it/img/logos/squadre/montecchio.png",
+    "status": 404,
+    "final_url": "https://img.datasport.it/img/logos/squadre/montecchio.png",
+    "size_bytes": 196
+  },
+  {
+    "name": "Montecchio Gallo",
+    "url": "https://img.datasport.it/img/logos/squadre/montecchio-gallo.png",
+    "status": 404,
+    "final_url": "https://img.datasport.it/img/logos/squadre/montecchio-gallo.png",
+    "size_bytes": 196
+  },
+  {
+    "name": "Montecchio Gallo",
+    "url": "https://img.datasport.it/img/logos/squadre/montecchiogallo.png",
+    "status": 404,
+    "final_url": "https://img.datasport.it/img/logos/squadre/montecchiogallo.png",
+    "size_bytes": 196
+  },
+  {
+    "name": "Città di Lanciano",
+    "url": "https://img.datasport.it/img/logos/squadre/lanciano.png",
+    "status": 404,
+    "final_url": "https://img.datasport.it/img/logos/squadre/lanciano.png",
+    "size_bytes": 196
+  },
+  {
+    "name": "Città di Lanciano",
+    "url": "https://img.datasport.it/img/logos/squadre/citta-di-lanciano.png",
+    "status": 404,
+    "final_url": "https://img.datasport.it/img/logos/squadre/citta-di-lanciano.png",
+    "size_bytes": 196
+  },
+  {
+    "name": "Città di Lanciano",
+    "url": "https://img.datasport.it/img/logos/squadre/cittadilanciano.png",
+    "status": 404,
+    "final_url": "https://img.datasport.it/img/logos/squadre/cittadilanciano.png",
+    "size_bytes": 196
+  },
+  {
+    "name": "Santegidiese",
+    "url": "https://img.datasport.it/img/logos/squadre/santegidiese.png",
+    "status": 404,
+    "final_url": "https://img.datasport.it/img/logos/squadre/santegidiese.png",
+    "size_bytes": 196
+  },
+  {
+    "name": "Angelana",
+    "url": "https://img.datasport.it/img/logos/squadre/angelana.png",
+    "status": 404,
+    "final_url": "https://img.datasport.it/img/logos/squadre/angelana.png",
+    "size_bytes": 196
+  },
+  {
+    "name": "Pietralunghese",
+    "url": "https://img.datasport.it/img/logos/squadre/pietralunghese.png",
+    "status": 404,
+    "final_url": "https://img.datasport.it/img/logos/squadre/pietralunghese.png",
+    "size_bytes": 196
+  },
+  {
+    "name": "Ossese",
+    "url": "https://img.datasport.it/img/logos/squadre/ossese.png",
+    "status": 404,
+    "final_url": "https://img.datasport.it/img/logos/squadre/ossese.png",
+    "size_bytes": 196
+  },
+  {
+    "name": "Albalonga",
+    "url": "https://img.datasport.it/img/logos/squadre/albalonga.png",
+    "status": 200,
+    "final_url": "https://img.datasport.it/img/logos/squadre/albalonga.png",
+    "size_bytes": 65516,
+    "format": "PNG",
+    "original_size": [
+      200,
+      200
+    ],
+    "unique_colors": 973,
+    "dominant_pixel_fraction": 0.161,
+    "sha256": "c33f9a5ab1904b864f09034d461db8d7b582e95068af1c150bfa1c7b4ed13304",
+    "alpha_opaque_fraction": 0.75,
+    "preview_path": "docs/italian-clubs-2026-27/research/candidate-previews/albalonga-c33f9a5ab1.png"
+  },
+  {
+    "name": "Aranova",
+    "url": "https://img.datasport.it/img/logos/squadre/aranova.png",
+    "status": 200,
+    "final_url": "https://img.datasport.it/img/logos/squadre/aranova.png",
+    "size_bytes": 57306,
+    "format": "PNG",
+    "original_size": [
+      200,
+      200
+    ],
+    "unique_colors": 950,
+    "dominant_pixel_fraction": 0.317,
+    "sha256": "773a6766bcdd9d4830d2ca9d015305ef6d5663dbdf8eac2aeef2858f8088b8da",
+    "alpha_opaque_fraction": 0.618,
+    "preview_path": "docs/italian-clubs-2026-27/research/candidate-previews/aranova-773a6766bc.png"
+  },
+  {
+    "name": "Certosa V. Campagnano",
+    "url": "https://img.datasport.it/img/logos/squadre/certosa.png",
+    "status": 404,
+    "final_url": "https://img.datasport.it/img/logos/squadre/certosa.png",
+    "size_bytes": 196
+  },
+  {
+    "name": "Certosa V. Campagnano",
+    "url": "https://img.datasport.it/img/logos/squadre/certosa-v-campagnano.png",
+    "status": 404,
+    "final_url": "https://img.datasport.it/img/logos/squadre/certosa-v-campagnano.png",
+    "size_bytes": 196
+  },
+  {
+    "name": "Certosa V. Campagnano",
+    "url": "https://img.datasport.it/img/logos/squadre/certosavcampagnano.png",
+    "status": 404,
+    "final_url": "https://img.datasport.it/img/logos/squadre/certosavcampagnano.png",
+    "size_bytes": 196
+  },
+  {
+    "name": "Città di Anagni",
+    "url": "https://img.datasport.it/img/logos/squadre/citta-di-anagni.png",
+    "status": 200,
+    "final_url": "https://img.datasport.it/img/logos/squadre/citta-di-anagni.png",
+    "size_bytes": 11072,
+    "format": "PNG",
+    "original_size": [
+      200,
+      200
+    ],
+    "unique_colors": 295,
+    "dominant_pixel_fraction": 0.461,
+    "sha256": "32d5fd4a8ecfc1949db434b8e23b742e13a62104d1b8f83d0fbc6e04c350083a",
+    "alpha_opaque_fraction": 0.9,
+    "preview_path": "docs/italian-clubs-2026-27/research/candidate-previews/citta-di-anagni-32d5fd4a8e.png"
+  },
+  {
+    "name": "Città di Anagni",
+    "url": "https://img.datasport.it/img/logos/squadre/cittadianagni.png",
+    "status": 404,
+    "final_url": "https://img.datasport.it/img/logos/squadre/cittadianagni.png",
+    "size_bytes": 196
+  },
+  {
+    "name": "Città di Anagni",
+    "url": "https://img.datasport.it/img/logos/squadre/anagni.png",
+    "status": 404,
+    "final_url": "https://img.datasport.it/img/logos/squadre/anagni.png",
+    "size_bytes": 196
+  },
+  {
+    "name": "Venafro",
+    "url": "https://img.datasport.it/img/logos/squadre/venafro.png",
+    "status": 404,
+    "final_url": "https://img.datasport.it/img/logos/squadre/venafro.png",
+    "size_bytes": 196
+  },
+  {
+    "name": "Bisceglie",
+    "url": "https://img.datasport.it/img/logos/squadre/bisceglie.png",
+    "status": 200,
+    "final_url": "https://img.datasport.it/img/logos/squadre/bisceglie.png",
+    "size_bytes": 38343,
+    "format": "PNG",
+    "original_size": [
+      200,
+      200
+    ],
+    "unique_colors": 654,
+    "dominant_pixel_fraction": 0.426,
+    "sha256": "857c1975ea95b0ec46e52fcd0ad081bac295794b6b21b3105cc4d2d9e39c2a29",
+    "alpha_opaque_fraction": 0.497,
+    "preview_path": "docs/italian-clubs-2026-27/research/candidate-previews/bisceglie-857c1975ea.png"
+  },
+  {
+    "name": "Brindisi",
+    "url": "https://img.datasport.it/img/logos/squadre/brindisi.png",
+    "status": 404,
+    "final_url": "https://img.datasport.it/img/logos/squadre/brindisi.png",
+    "size_bytes": 196
+  },
+  {
+    "name": "Flegrea Puteolana",
+    "url": "https://img.datasport.it/img/logos/squadre/flegrea-puteolana.png",
+    "status": 200,
+    "final_url": "https://img.datasport.it/img/logos/squadre/flegrea-puteolana.png",
+    "size_bytes": 50019,
+    "format": "PNG",
+    "original_size": [
+      200,
+      200
+    ],
+    "unique_colors": 1021,
+    "dominant_pixel_fraction": 0.18,
+    "sha256": "b29a4a7ddc6cf20569eee80369de3f78a32573abbf600cdd74f36e653bb2ff89",
+    "alpha_opaque_fraction": 0.633,
+    "preview_path": "docs/italian-clubs-2026-27/research/candidate-previews/flegrea-puteolana-b29a4a7ddc.png"
+  },
+  {
+    "name": "Flegrea Puteolana",
+    "url": "https://img.datasport.it/img/logos/squadre/puteolana.png",
+    "status": 200,
+    "final_url": "https://img.datasport.it/img/logos/squadre/puteolana.png",
+    "size_bytes": 3400,
+    "format": "PNG",
+    "original_size": [
+      40,
+      40
+    ],
+    "unique_colors": 866,
+    "dominant_pixel_fraction": 0.186,
+    "sha256": "5f0374340565e69d2161b63390a5696212fce8703f8cd47e4ad7993d72a08afc",
+    "alpha_opaque_fraction": 0.615,
+    "preview_path": "docs/italian-clubs-2026-27/research/candidate-previews/flegrea-puteolana-5f03743405.png"
+  },
+  {
+    "name": "Flegrea Puteolana",
+    "url": "https://img.datasport.it/img/logos/squadre/flegreaputeolana.png",
+    "status": 404,
+    "final_url": "https://img.datasport.it/img/logos/squadre/flegreaputeolana.png",
+    "size_bytes": 196
+  },
+  {
+    "name": "Real Forio",
+    "url": "https://img.datasport.it/img/logos/squadre/real-forio.png",
+    "status": 404,
+    "final_url": "https://img.datasport.it/img/logos/squadre/real-forio.png",
+    "size_bytes": 196
+  },
+  {
+    "name": "Real Forio",
+    "url": "https://img.datasport.it/img/logos/squadre/realforio.png",
+    "status": 404,
+    "final_url": "https://img.datasport.it/img/logos/squadre/realforio.png",
+    "size_bytes": 196
+  },
+  {
+    "name": "Ebolitana",
+    "url": "https://img.datasport.it/img/logos/squadre/ebolitana.png",
+    "status": 200,
+    "final_url": "https://img.datasport.it/img/logos/squadre/ebolitana.png",
+    "size_bytes": 29090,
+    "format": "PNG",
+    "original_size": [
+      200,
+      200
+    ],
+    "unique_colors": 647,
+    "dominant_pixel_fraction": 0.455,
+    "sha256": "944d85adf23893386761c27c31f469de35b2577f71824be2de9d7d323886db20",
+    "alpha_opaque_fraction": 0.469,
+    "preview_path": "docs/italian-clubs-2026-27/research/candidate-previews/ebolitana-944d85adf2.png"
+  },
+  {
+    "name": "Gladiator",
+    "url": "https://img.datasport.it/img/logos/squadre/gladiator.png",
+    "status": 200,
+    "final_url": "https://img.datasport.it/img/logos/squadre/gladiator.png",
+    "size_bytes": 47009,
+    "format": "PNG",
+    "original_size": [
+      200,
+      200
+    ],
+    "unique_colors": 839,
+    "dominant_pixel_fraction": 0.358,
+    "sha256": "72b4154eed3612a05b581785a992269ebf88deedc87570635ab6adebf1b51208",
+    "alpha_opaque_fraction": 0.552,
+    "preview_path": "docs/italian-clubs-2026-27/research/candidate-previews/gladiator-72b4154eed.png"
+  },
+  {
+    "name": "Licata",
+    "url": "https://img.datasport.it/img/logos/squadre/licata.png",
+    "status": 404,
+    "final_url": "https://img.datasport.it/img/logos/squadre/licata.png",
+    "size_bytes": 196
+  },
+  {
+    "name": "Modica",
+    "url": "https://img.datasport.it/img/logos/squadre/modica.png",
+    "status": 404,
+    "final_url": "https://img.datasport.it/img/logos/squadre/modica.png",
+    "size_bytes": 196
+  },
+  {
+    "name": "Digiesse Praiatortora",
+    "url": "https://img.datasport.it/img/logos/squadre/digiesse-praiatortora.png",
+    "status": 200,
+    "final_url": "https://img.datasport.it/img/logos/squadre/digiesse-praiatortora.png",
+    "size_bytes": 54807,
+    "format": "PNG",
+    "original_size": [
+      200,
+      200
+    ],
+    "unique_colors": 1036,
+    "dominant_pixel_fraction": 0.274,
+    "sha256": "5a589339f028165237e802ac7a4c6c241c5f49930288a1a8f952212bd591e8dd",
+    "alpha_opaque_fraction": 0.622,
+    "preview_path": "docs/italian-clubs-2026-27/research/candidate-previews/digiesse-praiatortora-5a589339f0.png"
+  },
+  {
+    "name": "Digiesse Praiatortora",
+    "url": "https://img.datasport.it/img/logos/squadre/digiessepraiatortora.png",
+    "status": 404,
+    "final_url": "https://img.datasport.it/img/logos/squadre/digiessepraiatortora.png",
+    "size_bytes": 196
+  },
+  {
+    "name": "Digiesse Praiatortora",
+    "url": "https://img.datasport.it/img/logos/squadre/praiatortora.png",
+    "status": 404,
+    "final_url": "https://img.datasport.it/img/logos/squadre/praiatortora.png",
+    "size_bytes": 196
+  }
+]
