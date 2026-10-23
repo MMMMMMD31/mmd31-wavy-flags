@@ -14,9 +14,19 @@ AUD=Path("audit/outremer-2026-27")
 roster=list(csv.DictReader((AUD/"roster_326.csv").open(encoding="utf8")))
 assert len(roster)==326
 missing=[r for r in roster if not (ROOT/(r["team_id"]+".png")).exists()]
-assert len(missing)==66,len(missing)
+assert 0<len(missing)<=66,len(missing)
 ALIASES={
 "1990262000064":["US Bénédictine"],
+"1990262000117":["Reveil S.","Réveil Sportif"],
+"1990262000298":["Papara"],
+"1990262000297":["Manu-Ura","Manu Ura"],
+"1990262000301":["Papenoo"],
+"1990262000306":["Tamarii Punaruu","Tamari Punaruu"],
+"1990262000307":["Taiarapu"],
+"1990262000311":["Tamarii Tapuhute"],
+"1990262000320":["Lossi","Lössi"],
+"1990262000324":["Saint-Louis"],
+"1990262000323":["Ne Drehu"],
 "1990262000283":["AS Saint Pierraise","Association Sportive Saint Pierraise"],
 "1990262000284":["AS Ilienne Amateurs","ASIA"],
 "1990262000292":["AS Arue"],
@@ -32,6 +42,7 @@ SPECIAL={
 "1990262000283":["https://assaintpierraise.fr/qui-sommes-nous","https://www.sportcorico.com/clubs/as-st-pierraise"],
 "1990262000284":["https://www.sportcorico.com/clubs/as-ilienne-amateurs"],
 "1990262000064":["https://footdelile974.re/club/us-benedictine/"],
+"1990262000117":["https://www.sportcorico.com/clubs/reveil-s"],
 "1990262000292":["https://www.theclubindex.com/clubes-emblemas/clube/as-arue-pf"],
 "1990262000320":["https://www.footballlogosandkits.com/M%26LOGOS%2BNEW%20CALEDONIA"],
 "1990262000326":["https://www.footballlogosandkits.com/M%26LOGOS%2BNEW%20CALEDONIA","https://www.bibliotecariodelfutbol.com/team/mont-dore"],
@@ -55,7 +66,9 @@ def urls(r):
   if t=="La Réunion":out.append("https://footdelile974.re/club/"+slug+"/")
   if t=="Polynésie française":out.append("https://www.theclubindex.com/clubes-emblemas/clube/"+slug+"-pf")
   if t=="Nouvelle-Calédonie":out.append("https://www.bibliotecariodelfutbol.com/team/"+slug)
- if t=="Nouvelle-Calédonie":out.append("https://www.footballlogosandkits.com/M%26LOGOS%2BNEW%20CALEDONIA")
+ if t=="Nouvelle-Calédonie":out.extend(["https://escudosfc.com.br/cal.htm","https://www.footballlogosandkits.com/M%26LOGOS%2BNEW%20CALEDONIA"])
+ if t=="Polynésie française":out.append("https://escudosfc.com.br/tahi.htm")
+ if t=="Martinique":out.append("https://escudosfc.com.br/mart.htm")
  if t in ("Polynésie française","Nouvelle-Calédonie","Saint-Pierre-et-Miquelon"):
   for n in names[:2]:
    out += ["https://"+lang+".wikipedia.org/wiki/"+quote(n.replace(" ","_")) for lang in ("en","fr")]
@@ -73,7 +86,7 @@ def logo_candidates(soup,url,r):
  tid=r["team_id"];names=[r["name"]]+ALIASES.get(tid,[])
  h=soup.select_one("h1")
  title=h.get_text(" ",strip=True) if h else ""
- gallery="footballlogosandkits.com" in url
+ gallery=("footballlogosandkits.com" in url or "escudosfc.com.br" in url)
  if not gallery and max(match(title,n) for n in names)<0.53:return []
  territory={"Guyane":"guyane","Martinique":"martinique","La Réunion":"reunion","Mayotte":"mayotte","Saint-Pierre-et-Miquelon":"pierre","Polynésie française":"tahiti","Nouvelle-Calédonie":"caledon"}[r["territory"]]
  body=norm(soup.get_text(" ",strip=True)[:15000])
@@ -83,10 +96,10 @@ def logo_candidates(soup,url,r):
   alt=im.get("alt","").strip();src=next((im.get(a) for a in ("data-src","data-original","src") if im.get(a) and not im.get(a).startswith("data:")),None)
   if not src:continue
   low=(alt+" "+src).lower()
-  if any(z in low for z in ["mascotte","site-logo","placeholder","default","unknown","no-image","avatar","maillot","player","/icons/","federation","fédération"]):continue
+  if any(z in low for z in ["mascotte","site-logo","placeholder","default","unknown","no-image","avatar","-hand.","-hand-","maillot","player","/icons/","federation","fédération"]):continue
   label=re.sub(r"^(logo|crest|emblem|badge|écusson)\s*(of|de|du|—|:)?\s*","",alt,flags=re.I)
   score=max(match(label,n) for n in names)
-  if gallery and score<0.78:continue
+  if gallery and score<0.74:continue
   if "sportcorico" in url and (not alt.lower().startswith("logo ") or score<0.73):continue
   if "footdelile974" in url and (not ("club logo" in alt.lower() or score>.8)):continue
   if "theclubindex" in url and score<0.68:continue
@@ -155,6 +168,6 @@ for r in rows:
 with (AUD/"lot7_remaining66_audit.csv").open("w",encoding="utf8",newline="") as f:
  w=csv.DictWriter(f,fieldnames=["team_id","club","territory","status","source","image_url","reason","sha256"],extrasaction="ignore");w.writeheader();w.writerows(rows)
 stats=collections.Counter(r["status"] for r in rows)
-summary={"initial_published":260,"initial_remaining":66,"new_published":stats["published"],"still_missing":66-stats["published"],"total_published":260+stats["published"],"statuses":dict(stats),"source":"automated identity-aware collection; visual review not exhaustive"}
+summary={"initial_published":326-len(missing),"initial_remaining":len(missing),"new_published":stats["published"],"still_missing":sum(not (ROOT/(r["team_id"]+".png")).exists() for r in roster),"total_published":sum((ROOT/(r["team_id"]+".png")).exists() for r in roster),"statuses":dict(stats),"source":"automated identity-aware collection; visual review not exhaustive"}
 (AUD/"lot7_remaining66_summary.json").write_text(json.dumps(summary,ensure_ascii=False,indent=2)+"\n",encoding="utf8")
 print("LOT7_RESULT "+json.dumps(summary,ensure_ascii=False),flush=True)
