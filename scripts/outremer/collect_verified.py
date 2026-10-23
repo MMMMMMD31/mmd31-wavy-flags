@@ -12,6 +12,9 @@ import requests
 from bs4 import BeautifulSoup
 from PIL import Image, ImageOps
 CLUBS=[
+ (1990262000055,"Js St Pierroise","https://fr.wikipedia.org/wiki/Jeunesse_sportive_saint-pierroise","#E5E5E5"),
+ (1990262000062,"Js Ste Rosienne F","https://fr.wikipedia.org/wiki/Jeunesse_sportive_sainte-rosienne_football","#BFD5EF"),
+ (1990262000302,"Pirae","https://fr.wikipedia.org/wiki/Association_sportive_Pirae","#F7C88B"),
  (1990262000001,"C.S.M","https://seeklogo.com/vector-logo/653708/club-sportif-moulien","#9DCDF4"),
  (1990262000003,"Siroco Les Abymes","https://seeklogo.com/vector-logo/653704/asc-siroco-les-abymes","#D7F0E3"),
  (1990262000293,"Tefana","https://www.leballonrond.fr/equipe/as-tefana/33778","#E8DE62"),
