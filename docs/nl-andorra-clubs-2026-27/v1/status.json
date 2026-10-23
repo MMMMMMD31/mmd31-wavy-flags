@@ -1,0 +1,728 @@
+{
+  "total": 73,
+  "completed": 71,
+  "assets": [
+    {
+      "id": 1895100000001,
+      "result": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/netherlands/Ajax.svg",
+      "background": [
+        217,
+        63,
+        63
+      ]
+    },
+    {
+      "id": 1895100000002,
+      "result": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/netherlands/PSV_Eindhoven.svg",
+      "background": [
+        191,
+        166,
+        115
+      ]
+    },
+    {
+      "id": 1895100000003,
+      "result": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/netherlands/Feyenoord.svg",
+      "background": [
+        243,
+        63,
+        63
+      ]
+    },
+    {
+      "id": 1895100000004,
+      "result": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/netherlands/AZ_Alkmaar.svg",
+      "background": [
+        217,
+        63,
+        63
+      ]
+    },
+    {
+      "id": 1895100000005,
+      "result": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/netherlands/Twente.svg",
+      "background": [
+        243,
+        63,
+        89
+      ]
+    },
+    {
+      "id": 1895100000006,
+      "result": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/netherlands/FC_Utrecht.svg",
+      "background": [
+        243,
+        63,
+        89
+      ]
+    },
+    {
+      "id": 1895100000007,
+      "result": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/netherlands/N.E.C._Nijmegen.svg",
+      "background": [
+        243,
+        89,
+        89
+      ]
+    },
+    {
+      "id": 1895100000008,
+      "result": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/netherlands/sc_Heerenveen.svg",
+      "background": [
+        63,
+        115,
+        166
+      ]
+    },
+    {
+      "id": 1895100000009,
+      "result": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/netherlands/FC_Groningen.svg",
+      "background": [
+        63,
+        166,
+        115
+      ]
+    },
+    {
+      "id": 1895100000010,
+      "result": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/netherlands/Go_Ahead_Eagles.svg",
+      "background": [
+        243,
+        217,
+        63
+      ]
+    },
+    {
+      "id": 1895100000011,
+      "result": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/netherlands/Fortuna_Sittard.svg",
+      "background": [
+        63,
+        166,
+        140
+      ]
+    },
+    {
+      "id": 1895100000012,
+      "result": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/netherlands/Sparta_Rotterdam.svg",
+      "background": [
+        191,
+        166,
+        89
+      ]
+    },
+    {
+      "id": 1895100000013,
+      "result": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/netherlands/Excelsior_Rotterdam.svg",
+      "background": [
+        243,
+        63,
+        63
+      ]
+    },
+    {
+      "id": 1895100000014,
+      "result": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/netherlands/PEC_Zwolle.svg",
+      "background": [
+        63,
+        115,
+        191
+      ]
+    },
+    {
+      "id": 1895100000015,
+      "result": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/netherlands/Telstar.svg",
+      "background": [
+        243,
+        63,
+        63
+      ]
+    },
+    {
+      "id": 1895100000016,
+      "result": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/netherlands/ADO_Den_Haag.svg",
+      "background": [
+        63,
+        140,
+        89
+      ]
+    },
+    {
+      "id": 1895100000017,
+      "result": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/netherlands/SC_Cambuur.svg",
+      "background": [
+        243,
+        243,
+        63
+      ]
+    },
+    {
+      "id": 1895100000018,
+      "result": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/netherlands/Willem_II.svg",
+      "background": [
+        191,
+        63,
+        63
+      ]
+    },
+    {
+      "id": 1895100000019,
+      "result": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/netherlands/Heracles_Almelo.svg",
+      "background": [
+        63,
+        166,
+        217
+      ]
+    },
+    {
+      "id": 1895100000020,
+      "result": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/netherlands/NAC_Breda.svg",
+      "background": [
+        243,
+        217,
+        63
+      ]
+    },
+    {
+      "id": 1895100000021,
+      "result": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/netherlands/Volendam.svg",
+      "background": [
+        243,
+        140,
+        63
+      ]
+    },
+    {
+      "id": 1895100000022,
+      "result": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/netherlands/FC_Dordrecht.svg",
+      "background": [
+        217,
+        63,
+        63
+      ]
+    },
+    {
+      "id": 1895100000023,
+      "result": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/netherlands/MVV_Maastricht.svg",
+      "background": [
+        243,
+        89,
+        115
+      ]
+    },
+    {
+      "id": 1895100000024,
+      "result": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/netherlands/Roda_JC_Kerkrade.svg",
+      "background": [
+        243,
+        217,
+        89
+      ]
+    },
+    {
+      "id": 1895100000025,
+      "result": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/netherlands/De_Graafschap.svg",
+      "background": [
+        63,
+        166,
+        217
+      ]
+    },
+    {
+      "id": 1895100000026,
+      "result": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/netherlands/FC_Eindhoven.svg",
+      "background": [
+        89,
+        115,
+        166
+      ]
+    },
+    {
+      "id": 1895100000027,
+      "result": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/netherlands/FC_Emmen.svg",
+      "background": [
+        243,
+        89,
+        89
+      ]
+    },
+    {
+      "id": 1895100000028,
+      "result": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/netherlands/TOP_Oss.svg",
+      "background": [
+        217,
+        63,
+        63
+      ]
+    },
+    {
+      "id": 1895100000029,
+      "result": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/netherlands/RKC_Waalwijk.svg",
+      "background": [
+        243,
+        243,
+        63
+      ]
+    },
+    {
+      "id": 1895100000030,
+      "result": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/netherlands/Ajax.svg",
+      "background": [
+        217,
+        63,
+        63
+      ]
+    },
+    {
+      "id": 1895100000031,
+      "result": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/netherlands/PSV_Eindhoven.svg",
+      "background": [
+        191,
+        166,
+        115
+      ]
+    },
+    {
+      "id": 1895100000032,
+      "result": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/netherlands/FC_Utrecht.svg",
+      "background": [
+        243,
+        63,
+        89
+      ]
+    },
+    {
+      "id": 1895100000033,
+      "result": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/netherlands/AZ_Alkmaar.svg",
+      "background": [
+        217,
+        63,
+        63
+      ]
+    },
+    {
+      "id": 1895100000034,
+      "result": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/netherlands/Helmond_Sport.svg",
+      "background": [
+        191,
+        63,
+        63
+      ]
+    },
+    {
+      "id": 1895100000035,
+      "result": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/netherlands/Almere_City_FC.svg",
+      "background": [
+        243,
+        63,
+        63
+      ]
+    },
+    {
+      "id": 1895100000036,
+      "result": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/netherlands/FC_Den_Bosch.svg",
+      "background": [
+        63,
+        166,
+        217
+      ]
+    },
+    {
+      "id": 1895100000037,
+      "result": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/netherlands/VVV-Venlo.svg",
+      "background": [
+        243,
+        243,
+        63
+      ]
+    },
+    {
+      "id": 1895100000038,
+      "result": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/netherlands/Vitesse.svg",
+      "background": [
+        243,
+        217,
+        63
+      ]
+    },
+    {
+      "id": 1895100000039,
+      "result": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/netherlands/Quick_Boys.svg",
+      "background": [
+        63,
+        115,
+        166
+      ]
+    },
+    {
+      "id": 1895100000040,
+      "result": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/netherlands/Kozakken_Boys.svg",
+      "background": [
+        243,
+        63,
+        89
+      ]
+    },
+    {
+      "id": 1895100000041,
+      "result": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/netherlands/De_Treffers.svg",
+      "background": [
+        243,
+        63,
+        63
+      ]
+    },
+    {
+      "id": 1895100000042,
+      "result": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/netherlands/HHC_Hardenberg.svg",
+      "background": [
+        243,
+        140,
+        63
+      ]
+    },
+    {
+      "id": 1895100000043,
+      "result": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/netherlands/IJsselmeervogels.svg",
+      "background": [
+        243,
+        63,
+        63
+      ]
+    },
+    {
+      "id": 1895100000044,
+      "result": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/netherlands/SV_Spakenburg.svg",
+      "background": [
+        89,
+        115,
+        191
+      ]
+    },
+    {
+      "id": 1895100000045,
+      "result": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/netherlands/AFC_Amsterdam.svg",
+      "background": [
+        243,
+        63,
+        63
+      ]
+    },
+    {
+      "id": 1895100000046,
+      "result": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/netherlands/Sparta_Rotterdam.svg",
+      "background": [
+        191,
+        166,
+        89
+      ]
+    },
+    {
+      "id": 1895100000047,
+      "result": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/netherlands/RKAV_Volendam.svg",
+      "background": [
+        243,
+        140,
+        63
+      ]
+    },
+    {
+      "id": 1895100000048,
+      "result": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/netherlands/VV_Katwijk.svg",
+      "background": [
+        243,
+        191,
+        89
+      ]
+    },
+    {
+      "id": 1895100000049,
+      "result": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/netherlands/BVV_Barendrecht.svg",
+      "background": [
+        243,
+        89,
+        89
+      ]
+    },
+    {
+      "id": 1895100000050,
+      "result": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/netherlands/Rijnsburgse_Boys.svg",
+      "background": [
+        243,
+        191,
+        63
+      ]
+    },
+    {
+      "id": 1895100000051,
+      "result": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/netherlands/HSV_Hoek.svg",
+      "background": [
+        89,
+        115,
+        166
+      ]
+    },
+    {
+      "id": 1895100000052,
+      "result": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/netherlands/Koninklijke_HFC.svg",
+      "background": [
+        63,
+        89,
+        140
+      ]
+    },
+    {
+      "id": 1895100000053,
+      "result": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/netherlands/VV_Kloetinge.svg",
+      "background": [
+        243,
+        191,
+        63
+      ]
+    },
+    {
+      "id": 1895100000054,
+      "result": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/netherlands/Almere_City_FC.svg",
+      "background": [
+        243,
+        63,
+        63
+      ]
+    },
+    {
+      "id": 1895100000055,
+      "result": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/netherlands/GVVV.svg",
+      "background": [
+        63,
+        115,
+        166
+      ]
+    },
+    {
+      "id": 1895100000056,
+      "result": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/netherlands/ROHDA_Raalte.svg",
+      "background": [
+        243,
+        243,
+        63
+      ]
+    },
+    {
+      "id": 1895100000057,
+      "result": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/andorra/FC_Santa_Coloma.svg",
+      "background": [
+        243,
+        243,
+        63
+      ]
+    },
+    {
+      "id": 1895100000058,
+      "result": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/andorra/Inter_Escaldes.svg",
+      "background": [
+        63,
+        115,
+        191
+      ]
+    },
+    {
+      "id": 1895100000059,
+      "result": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/andorra/Ordino.svg",
+      "background": [
+        63,
+        115,
+        166
+      ]
+    },
+    {
+      "id": 1895100000060,
+      "result": "ok",
+      "source": "https://assets.football-logos.cc/logos/andorra/700x700/atletic-escaldes.5893f757.png",
+      "background": [
+        63,
+        115,
+        166
+      ]
+    },
+    {
+      "id": 1895100000061,
+      "result": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/andorra/R%C3%A0nger%27s.svg",
+      "background": [
+        243,
+        243,
+        89
+      ]
+    },
+    {
+      "id": 1895100000062,
+      "result": "ok",
+      "source": "https://www.footylogos.com/dls/logo/cf-esperanca-dandorra.png",
+      "background": [
+        89,
+        99,
+        124
+      ]
+    },
+    {
+      "id": 1895100000063,
+      "result": "ok",
+      "source": "https://assets.football-logos.cc/logos/andorra/512x512/penya-encarnada.810ebff1.png",
+      "background": [
+        243,
+        191,
+        63
+      ]
+    },
+    {
+      "id": 1895100000064,
+      "result": "ok",
+      "source": "https://associacions.andorralavella.ad/sites/default/files/nou%20logo%20Club%20Esportiu%20CP.JPG",
+      "background": [
+        243,
+        63,
+        89
+      ]
+    },
+    {
+      "id": 1895100000065,
+      "result": "ok",
+      "source": "https://images.seeklogo.com/logo-png/34/1/sporting-club-descaldes-logo-png_seeklogo-346549.png",
+      "background": [
+        243,
+        243,
+        63
+      ]
+    },
+    {
+      "id": 1895100000066,
+      "result": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/andorra/CE_Carroi.svg",
+      "background": [
+        140,
+        89,
+        140
+      ]
+    },
+    {
+      "id": 1895100000067,
+      "result": "missing",
+      "source": "https://www.footylogos.com/dls/logo/fs-la-massana.png",
+      "error": "404 Client Error: Not Found for url: https://www.footylogos.com/dls/logo/fs-la-massana.png"
+    },
+    {
+      "id": 1895100000068,
+      "result": "ok",
+      "source": "https://toppng.com/uploads/preview/ue-sant-julia-vector-logo-11573919707yzc3wp6ehd.png",
+      "background": [
+        89,
+        191,
+        115
+      ]
+    },
+    {
+      "id": 1895100000069,
+      "result": "missing",
+      "source": "https://www.footylogos.com/dls/logo/pirineus-united-fc.png",
+      "error": "404 Client Error: Not Found for url: https://www.footylogos.com/dls/logo/pirineus-united-fc.png"
+    },
+    {
+      "id": 1895100000070,
+      "result": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/andorra/UE_Santa_Coloma.svg",
+      "background": [
+        243,
+        243,
+        115
+      ]
+    },
+    {
+      "id": 1895100000071,
+      "result": "ok",
+      "source": "https://images.seeklogo.com/logo-png/61/1/city-escaldes-fc-logo-png_seeklogo-611359.png",
+      "background": [
+        89,
+        217,
+        217
+      ]
+    },
+    {
+      "id": 1895100000072,
+      "result": "ok",
+      "source": "https://www.playmakerstats.com/img/logos/equipas/104724_imgbank_1687182507.png",
+      "background": [
+        63,
+        63,
+        140
+      ]
+    },
+    {
+      "id": 1895100000073,
+      "result": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/andorra/FC_Santa_Coloma.svg",
+      "background": [
+        243,
+        243,
+        63
+      ]
+    }
+  ]
+}
