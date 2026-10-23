@@ -1,0 +1,31 @@
+name: MMD31 Collect remaining 66 authentic overseas club crests
+on:
+  push:
+    branches: [mmd31-outremer-ecussons-20261023]
+    paths:
+      - 'scripts/outremer/collect_remaining66.py'
+      - '.github/workflows/mmd31-outremer-remaining66.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.11'}
+      - run: python -m pip install requests beautifulsoup4 pillow imagehash numpy
+      - name: Collect verified authentic crests, no invented logos
+        run: python scripts/outremer/collect_remaining66.py
+      - name: Commit real badges and audited evidence
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add flags/clubs/standard/outremer-2026-27/ audit/outremer-2026-27/lot7_remaining66_audit.csv audit/outremer-2026-27/lot7_remaining66_summary.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Publish verified authentic overseas club crests from remaining 66"
+            git pull --rebase origin "$GITHUB_REF_NAME"
+            git push origin "HEAD:refs/heads/$GITHUB_REF_NAME"
+          fi
