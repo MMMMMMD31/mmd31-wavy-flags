@@ -1,0 +1,52 @@
+{
+  "assets": [
+    {
+      "id": 1900262702013,
+      "name": "Belisia Bilzen SV",
+      "background": [
+        199,
+        235,
+        248
+      ],
+      "source_note": "Official Belisia website, active crest",
+      "attempts": [
+        {
+          "url": "https://www.belisiasv.be/media/5j5ar0n4/belisia_logo_small.png",
+          "error": "404 Client Error: Not Found for url: https://www.belisiasv.be/media/5j5ar0n4/belisia_logo_small.png"
+        },
+        {
+          "url": "https://belisiasv.be/media/5j5ar0n4/belisia_logo_small.png",
+          "error": "404 Client Error: Not Found for url: https://www.belisiasv.be/media/5j5ar0n4/belisia_logo_small.png"
+        }
+      ],
+      "status": "PUBLISHED_OFFICIAL",
+      "source": "https://www.belisiasv.be/images/belisia-logo.png?v=2",
+      "sha256": "fc7df1f40245d5c749f30c64b0d985641477ffa87f293d944e45042a0e2b0413",
+      "size": [
+        120,
+        96
+      ],
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-v13-d3-assets/docs/belgian-d3-clubs-2026-27/v13/1900262702013.png"
+    },
+    {
+      "id": 1900262702102,
+      "name": "Union Rochefortoise",
+      "background": [
+        191,
+        218,
+        241
+      ],
+      "source_note": "Wikimedia Commons photo of first authentic Union Rochefortoise crest (2020); present-day badge version requires independent confirmation",
+      "attempts": [],
+      "status": "PUBLISHED_AUTHENTIC_HISTORICAL",
+      "source": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Logo-Union-Rochefortoise-Avril2020.png",
+      "sha256": "b13bf34a7d56c05244fa2b8ad632edece6e9937d4ef66b1ba8f3bda79ca77ee5",
+      "size": [
+        120,
+        96
+      ],
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-v13-d3-assets/docs/belgian-d3-clubs-2026-27/v13/1900262702102.png"
+    }
+  ],
+  "count_published": 2
+}
