@@ -1,0 +1,2070 @@
+{
+  "count": 147,
+  "expected": 147,
+  "canvas": [
+    120,
+    96
+  ],
+  "source_repository": "JoseArroyave/football-logos",
+  "victory_flags_created": 0,
+  "assets": [
+    {
+      "id": 1898000000001,
+      "name": "FC Bayern München",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/Bayern_M%C3%BCnchen.svg",
+      "source_sha256": "131033ddb169ec1363c5b7174f39bf883255afa308f8cdf6a604d68e920b6f0f",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000001.png",
+      "background_rgb": [
+        243,
+        68,
+        93
+      ],
+      "png_sha256": "f01c247d6f1aaacfcdc38d32270e51e6393c0ae95acb02f2e48ce5f4e00c45ad",
+      "png_bytes": 13313
+    },
+    {
+      "id": 1898000000002,
+      "name": "Borussia Dortmund",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/Borussia_Dortmund.svg",
+      "source_sha256": "87fe54bb53dc407c51d60eb715d4e9c32e90c2e96f4c888edaab239ddb4447dc",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000002.png",
+      "background_rgb": [
+        243,
+        218,
+        68
+      ],
+      "png_sha256": "0655ef1a1328efec4fa2bd38e3160c112639896fea2fac9d22a492d3bb0ab0ad",
+      "png_bytes": 7888
+    },
+    {
+      "id": 1898000000003,
+      "name": "SC Freiburg",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/Freiburg.svg",
+      "source_sha256": "47c27d7bf10f53bdcb82c8c72d5b817bec330583b0cfb785d691859b2bb62940",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000003.png",
+      "background_rgb": [
+        75,
+        101,
+        136
+      ],
+      "png_sha256": "fb0c18fae080b06e4afe2c704e011224235a802e9c5691ef73c6eabe99715a9c",
+      "png_bytes": 8083
+    },
+    {
+      "id": 1898000000004,
+      "name": "Bayer 04 Leverkusen",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/Bayer_Leverkusen.svg",
+      "source_sha256": "4bcf00f02358ed65e1474e3d08013a643a5bb927c90a29511968a557fd03ff0d",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000004.png",
+      "background_rgb": [
+        243,
+        68,
+        68
+      ],
+      "png_sha256": "23aea424d710f700dfac600b54f4c0ba208f310a7726c935200f186b05322114",
+      "png_bytes": 15395
+    },
+    {
+      "id": 1898000000005,
+      "name": "1. FSV Mainz 05",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/Mainz_05.svg",
+      "source_sha256": "25de676d5987b2f6df723109296ce5c89beb5a746e4f2e77e8f2bc9330e90e9b",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000005.png",
+      "background_rgb": [
+        193,
+        68,
+        68
+      ],
+      "png_sha256": "aa4098b6e9e03b765aaa64d7b10d1f32e10f9dec3c8323c1b03541c46f4a20be",
+      "png_bytes": 11707
+    },
+    {
+      "id": 1898000000006,
+      "name": "SV Elversberg",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/SV_Elversberg.svg",
+      "source_sha256": "f91f730112278090ee2f4267677b418b1ca8ad5f90572fc41e711b83c6973c68",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000006.png",
+      "background_rgb": [
+        218,
+        218,
+        168
+      ],
+      "png_sha256": "4f14901ca3d295183f4346f6b587755bc649db49fd7d5505e2916cefe0c26192",
+      "png_bytes": 9840
+    },
+    {
+      "id": 1898000000007,
+      "name": "RB Leipzig",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/RB_Leipzig.svg",
+      "source_sha256": "298ba9863aa227cd2f0b3166c2cafef672ba39702cacfa3b7fec0ef564f72d4b",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000007.png",
+      "background_rgb": [
+        218,
+        68,
+        93
+      ],
+      "png_sha256": "f170033d8d0f76376e4c97d75067420b6f4348af8d089d8d397397a18b437e68",
+      "png_bytes": 10014
+    },
+    {
+      "id": 1898000000008,
+      "name": "SV Werder Bremen",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/Werder_Bremen.svg",
+      "source_sha256": "3db5c47f622d13b077a2ee1ffcffde264b4b275f6ef65b582ca87ae63a8c21a1",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000008.png",
+      "background_rgb": [
+        68,
+        168,
+        118
+      ],
+      "png_sha256": "1eeb1492e26fb25e326cb95f82c28576b1027834079491a8375fcb447ecab114",
+      "png_bytes": 6193
+    },
+    {
+      "id": 1898000000009,
+      "name": "Hamburger SV",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/Hamburger_SV.svg",
+      "source_sha256": "73d624ed8bd7cf02e33e63f71d9dcd86bf64efa37f9474984b82ff117aefb191",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000009.png",
+      "background_rgb": [
+        68,
+        118,
+        193
+      ],
+      "png_sha256": "382368c83c292d61d326e09d1491ccdbf9ef2f1db108130ef3275589bf0097a4",
+      "png_bytes": 3520
+    },
+    {
+      "id": 1898000000010,
+      "name": "FC Augsburg",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/Augsburg.svg",
+      "source_sha256": "56fb15f452fffc107d696e4b198b343c1b32b2e0d172e816be1ee91e246e0567",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000010.png",
+      "background_rgb": [
+        193,
+        93,
+        93
+      ],
+      "png_sha256": "44bfed3ef32d9e92158a8be5a1ff1319c5d3b2c1bdbfb98e53685c0a1a92065f",
+      "png_bytes": 6676
+    },
+    {
+      "id": 1898000000011,
+      "name": "Eintracht Frankfurt",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/Eintracht_Frankfurt.svg",
+      "source_sha256": "2aee749a31fe1e1398560d02383645a2aca411ee9f11f468c1be476fbfe38288",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000011.png",
+      "background_rgb": [
+        243,
+        68,
+        68
+      ],
+      "png_sha256": "d090af970485f35efe3523025172eb72290cbaabf6aa700da03cbaaa200c435b",
+      "png_bytes": 11741
+    },
+    {
+      "id": 1898000000012,
+      "name": "1. FC Köln",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/Cologne.svg",
+      "source_sha256": "803e798efbeb48407b6a743f25943fe6797df508f6080da8500d02f490847336",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000012.png",
+      "background_rgb": [
+        243,
+        68,
+        68
+      ],
+      "png_sha256": "62f68a4f3967e5af5af118f43a83ff8285168a2cfda60da9841d0e3d79fbe37d",
+      "png_bytes": 10415
+    },
+    {
+      "id": 1898000000013,
+      "name": "VfB Stuttgart",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/VfB_Stuttgart.svg",
+      "source_sha256": "617bfcc99946ed6cc13fc6767a373bbd2442e40176e9bdef55581e74e4f5bd37",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000013.png",
+      "background_rgb": [
+        218,
+        68,
+        93
+      ],
+      "png_sha256": "350b922da846f3af38baaf682c94faed9ef8e74ab760eb49fc462546bc1570de",
+      "png_bytes": 10997
+    },
+    {
+      "id": 1898000000014,
+      "name": "TSG Hoffenheim",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/Hoffenheim.svg",
+      "source_sha256": "b4c1e4863108999383a2051f47b6d47281dd8c82895c9e6c0d36553f1fb6ffb5",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000014.png",
+      "background_rgb": [
+        68,
+        143,
+        193
+      ],
+      "png_sha256": "f15164095840690fc7d59c20476556f2dc40e3a4a6908eaac7d81a5d7b30737c",
+      "png_bytes": 7210
+    },
+    {
+      "id": 1898000000015,
+      "name": "FC Schalke 04",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/Schalke_04.svg",
+      "source_sha256": "c0b85ef02dd539e78af2e6ea35bae5cd99a429762bc15dc01c93bfc5c4f41be4",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000015.png",
+      "background_rgb": [
+        68,
+        118,
+        168
+      ],
+      "png_sha256": "16af5c28cfd78e801744fd644422d5a69338c6138c56aa1eb37351a0701446a8",
+      "png_bytes": 8869
+    },
+    {
+      "id": 1898000000016,
+      "name": "SC Paderborn 07",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/SC_Paderborn.svg",
+      "source_sha256": "b47d34e03bd8cf90fbde086dffef582b67a154d381abf578d203c734e0debe54",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000016.png",
+      "background_rgb": [
+        68,
+        118,
+        193
+      ],
+      "png_sha256": "3fc295ff23018e681fccc6a91b55465ee65c1f1de7bdde1260e2ac6a09f97bf5",
+      "png_bytes": 7711
+    },
+    {
+      "id": 1898000000017,
+      "name": "1. FC Union Berlin",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/Union_Berlin.svg",
+      "source_sha256": "859519123e5c134a73a8d66390727dce30b1a3585dc285a16bb47ec53567c7fb",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000017.png",
+      "background_rgb": [
+        243,
+        68,
+        68
+      ],
+      "png_sha256": "e2a481c881923139d210a4ff2aaf4b87b5e3cb21db1f8b314547e1892fdd3c36",
+      "png_bytes": 6353
+    },
+    {
+      "id": 1898000000018,
+      "name": "Borussia Mönchengladbach",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/Borussia_M%C3%B6nchengladbach.svg",
+      "source_sha256": "b61720dac2335f9581226205394b9fa2d9c7f88df4d994445287ac4e74f5c8d6",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000018.png",
+      "background_rgb": [
+        75,
+        101,
+        136
+      ],
+      "png_sha256": "d07b74c1cc3e691eaecdc1dd0bce9a6b3596e49f2baff9d9995cf730ab0d375c",
+      "png_bytes": 6362
+    },
+    {
+      "id": 1898000000019,
+      "name": "Hertha BSC",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/Hertha_BSC.svg",
+      "source_sha256": "0356860ef25cf89511102298a383720a209369861f9c2146ede10e9075d65162",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000019.png",
+      "background_rgb": [
+        68,
+        143,
+        193
+      ],
+      "png_sha256": "0680f60b7d1aa47e5db0003c375f2a7db8ae5baadf2358dddcf1597c54b22ff5",
+      "png_bytes": 10463
+    },
+    {
+      "id": 1898000000020,
+      "name": "1. FC Nürnberg",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/FC_N%C3%BCrnberg.svg",
+      "source_sha256": "1de439846a44bb22f22f766af6d45dc914883761747feae5c15a5e4417af7f7f",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000020.png",
+      "background_rgb": [
+        193,
+        68,
+        93
+      ],
+      "png_sha256": "c715ff4c2767c07079ebe494edd2f99e2da2126c19730eeb217fc06a2660ec49",
+      "png_bytes": 8688
+    },
+    {
+      "id": 1898000000021,
+      "name": "VfL Wolfsburg",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/Wolfsburg.svg",
+      "source_sha256": "4071204636cc27c81b6ffcdfb8ba6fc52b2d29894558daacc3b85d4ed5967117",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000021.png",
+      "background_rgb": [
+        118,
+        193,
+        93
+      ],
+      "png_sha256": "3a8d6db89f8544dfd1037b30e6320547295dbb696f91c52a4551f878f304733b",
+      "png_bytes": 6496
+    },
+    {
+      "id": 1898000000022,
+      "name": "1. FC Kaiserslautern",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/FC_Kaiserslautern.svg",
+      "source_sha256": "b8ffe1dad07bcb0fdbc876d7439ef0f4bdce2986c178247929b827ff39706f28",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000022.png",
+      "background_rgb": [
+        243,
+        68,
+        68
+      ],
+      "png_sha256": "8db06f5e43a8fce2be33b888ba2d23a7307d81afc049d53b32f8db3980d03807",
+      "png_bytes": 6784
+    },
+    {
+      "id": 1898000000023,
+      "name": "1. FC Heidenheim 1846",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/FC_Heidenheim.svg",
+      "source_sha256": "34bd3a961642f9b2ff16fbd61699c0b6848c1fee773c7298b3437206c876b80b",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000023.png",
+      "background_rgb": [
+        243,
+        68,
+        68
+      ],
+      "png_sha256": "2fbcdc10a9b59efd9ce022fee3f65d04813b11cc5224c874e7994e1995031a09",
+      "png_bytes": 8829
+    },
+    {
+      "id": 1898000000024,
+      "name": "1. FC Magdeburg",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/1._FC_Magdeburg.svg",
+      "source_sha256": "5f5c2eed7cc90909572fc7bf3bbf1ed4ef64d473d19dda4fb0591b762bc5c723",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000024.png",
+      "background_rgb": [
+        68,
+        118,
+        193
+      ],
+      "png_sha256": "86d8ceaf65b6ca68e1b42c17c8f17c47247b3f6dc1b6887d5ce5d7ec75e0fe0a",
+      "png_bytes": 7621
+    },
+    {
+      "id": 1898000000025,
+      "name": "FC St. Pauli",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/St_Pauli.svg",
+      "source_sha256": "7d25727a863e9dd895ee537fa136f4f2c24d753034be0be5560ae18cfa49193b",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000025.png",
+      "background_rgb": [
+        243,
+        68,
+        68
+      ],
+      "png_sha256": "6f9f2ae5c5a50579d090df8a76cbbc5797889bfe3f86387d7a233e3c6948917d",
+      "png_bytes": 12257
+    },
+    {
+      "id": 1898000000026,
+      "name": "DSC Arminia Bielefeld",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/Arminia_Bielefeld.svg",
+      "source_sha256": "79dd4491994524dfcf4779cd53c47fc3fc4326e623742c43e93bf21307c948b3",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000026.png",
+      "background_rgb": [
+        68,
+        118,
+        168
+      ],
+      "png_sha256": "4caa74ae339a669dcdf69cf16c7f57133ca3459b0d8019bee59a17fd6573fcce",
+      "png_bytes": 13012
+    },
+    {
+      "id": 1898000000027,
+      "name": "FC Energie Cottbus",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/Energie_Cottbus.svg",
+      "source_sha256": "4b25e184840535301a8f4800ab6c51dbba11d4d1014ed0595503815fc347fc85",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000027.png",
+      "background_rgb": [
+        243,
+        68,
+        68
+      ],
+      "png_sha256": "debde172743e9ab0eac57aaa0e2197db0eb352c6673a1e07843b72be39693d11",
+      "png_bytes": 9308
+    },
+    {
+      "id": 1898000000028,
+      "name": "SpVgg Greuther Fürth",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/SpVgg_Greuther_F%C3%BCrth.svg",
+      "source_sha256": "4a6af0489555e09860e816f1aa2cb02a33dfb372dd01d35c795b842aa7bc1fac",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000028.png",
+      "background_rgb": [
+        93,
+        193,
+        118
+      ],
+      "png_sha256": "3bffc3978821fdcb492460b229c4c11149c8db83d5c0baf68f26a8c6885f0655",
+      "png_bytes": 9271
+    },
+    {
+      "id": 1898000000029,
+      "name": "SG Dynamo Dresden",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/Dynamo_Dresden.svg",
+      "source_sha256": "82ea469180359850f25cdfca12e58f91f9b76711be85afc7c017d96d38d758aa",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000029.png",
+      "background_rgb": [
+        168,
+        68,
+        68
+      ],
+      "png_sha256": "11c33fcf344c25094343b2d19fbbd4463301c91fe613648c84e3f80007060ecf",
+      "png_bytes": 13127
+    },
+    {
+      "id": 1898000000030,
+      "name": "VfL Osnabrück",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/Osnabr%C3%BCck.svg",
+      "source_sha256": "135300ba8ce017fd5f504918a61295288607ecb3b4e290a56caca4b2785d13c5",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000030.png",
+      "background_rgb": [
+        118,
+        93,
+        168
+      ],
+      "png_sha256": "8c4edc0bbfae1ee704381d3c84a91e17ea1a63cc5fcada188dca9aa8ee7f5d0c",
+      "png_bytes": 7855
+    },
+    {
+      "id": 1898000000031,
+      "name": "Karlsruher SC",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/Karlsruher_SC.svg",
+      "source_sha256": "db4ffd8bcb64a9b1145c1c2b7612fb445cf84de292fa5e72ad166453de139ac0",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000031.png",
+      "background_rgb": [
+        68,
+        118,
+        168
+      ],
+      "png_sha256": "51ac27d94a2041f9bfd78ef2324ccdd708f5a572f3029d0aec24d8e478002241",
+      "png_bytes": 8099
+    },
+    {
+      "id": 1898000000032,
+      "name": "Hannover 96",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/Hannover_96.svg",
+      "source_sha256": "85064edaf95b797d230ae958e6861d73152f9ac29b8f936585e3d3584b6215f6",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000032.png",
+      "background_rgb": [
+        68,
+        168,
+        93
+      ],
+      "png_sha256": "004b78b3cb3b11b545d3810bdd881254fded19dd7273eb670f19b23f3577c183",
+      "png_bytes": 9907
+    },
+    {
+      "id": 1898000000033,
+      "name": "Eintracht Braunschweig",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/Eintracht_Braunschweig.svg",
+      "source_sha256": "81b544d848426c80460249d1ffbd538ee4f94fab8ca48b9bc62d9d07eb8f28bd",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000033.png",
+      "background_rgb": [
+        243,
+        218,
+        68
+      ],
+      "png_sha256": "633dcb0e70b67a52e7275c0e2afae471c254137ad7d6d6730dbb3a9cccc96fa5",
+      "png_bytes": 14753
+    },
+    {
+      "id": 1898000000034,
+      "name": "VfL Bochum",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/VfL_Bochum.svg",
+      "source_sha256": "232857e39996f1776d5abc782fca8bac42013a25ce516ab76e9eb0f1e07605a9",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000034.png",
+      "background_rgb": [
+        68,
+        118,
+        193
+      ],
+      "png_sha256": "ef8858da2d69fed8acb4535a96d5d3135b477c6e67e8d2e06882897035cc953a",
+      "png_bytes": 9129
+    },
+    {
+      "id": 1898000000035,
+      "name": "SV Darmstadt 98",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/SV_Darmstadt_98.svg",
+      "source_sha256": "6e272cf45c22f6013f68927583889ea1af838563ef429c149519f7aaf734a25b",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000035.png",
+      "background_rgb": [
+        68,
+        118,
+        168
+      ],
+      "png_sha256": "3ac455f3909ea7c4c6d1e9ab89baa59bb7a0fde5754a8c4858e0a378ef9c864a",
+      "png_bytes": 13368
+    },
+    {
+      "id": 1898000000036,
+      "name": "Holstein Kiel",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/Holstein_Kiel.svg",
+      "source_sha256": "499921f29446e0859475d1a5d6b5429f6110983c9100210ee186dfd4e1b1c7d5",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000036.png",
+      "background_rgb": [
+        68,
+        118,
+        168
+      ],
+      "png_sha256": "b3f0af6600118cba176bdb3a10b9d3d50a5eacd5312aede657512c201c1e938c",
+      "png_bytes": 15659
+    },
+    {
+      "id": 1898000000037,
+      "name": "MSV Duisburg",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/MSV_Duisburg.svg",
+      "source_sha256": "f92a9c7fdbab805dcb57bf80a3619a7a06826286ac5dd4c0883691d63ddd3c23",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000037.png",
+      "background_rgb": [
+        93,
+        93,
+        143
+      ],
+      "png_sha256": "e7ff177cc814fe467055bc935c4184879bc75f3d1aaf30b1c7befcae108b52d4",
+      "png_bytes": 14491
+    },
+    {
+      "id": 1898000000038,
+      "name": "FC Viktoria Köln",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/FC_Viktoria_K%C3%B6ln.svg",
+      "source_sha256": "b68db6d2a7f0bd764cfd3784c543334134d84999e8fb685629010f926a61e444",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000038.png",
+      "background_rgb": [
+        243,
+        93,
+        93
+      ],
+      "png_sha256": "df65c4de03e8f5ddb30f8d3961238590e39073b827dbad69d466d485748093ce",
+      "png_bytes": 11313
+    },
+    {
+      "id": 1898000000039,
+      "name": "Rot-Weiss Essen",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/Essen.svg",
+      "source_sha256": "a7c12a9cba5eb4d776a328227a448db4ecd17c2b4ba1e543104ac09d3ca7766d",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000039.png",
+      "background_rgb": [
+        243,
+        68,
+        68
+      ],
+      "png_sha256": "585815dd38fc64ce40cad915beaf2ba4e2039528f4bd1d5716057af51bb8a6ca",
+      "png_bytes": 9442
+    },
+    {
+      "id": 1898000000040,
+      "name": "1. FC Saarbrücken",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/Saarbr%C3%BCcken.svg",
+      "source_sha256": "c2805dfb1b2a2bfef05b8855b574e5415b5968e120b11eb8e3463303b2325a4c",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000040.png",
+      "background_rgb": [
+        243,
+        218,
+        68
+      ],
+      "png_sha256": "784d1056f012262675e8bea64577f65ef8ce60497bf2e0322351a6960279e2f8",
+      "png_bytes": 10626
+    },
+    {
+      "id": 1898000000041,
+      "name": "TSG Hoffenheim II",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/Hoffenheim.svg",
+      "source_sha256": "b4c1e4863108999383a2051f47b6d47281dd8c82895c9e6c0d36553f1fb6ffb5",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000041.png",
+      "background_rgb": [
+        68,
+        143,
+        193
+      ],
+      "png_sha256": "f15164095840690fc7d59c20476556f2dc40e3a4a6908eaac7d81a5d7b30737c",
+      "png_bytes": 7210
+    },
+    {
+      "id": 1898000000042,
+      "name": "Hansa Rostock",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/Hansa_Rostock.svg",
+      "source_sha256": "c8424dc2b7ea5c4fb33211c1c22a0797cc0e51e1914cc3c92b5e885056ddc7e4",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000042.png",
+      "background_rgb": [
+        243,
+        93,
+        93
+      ],
+      "png_sha256": "62bd1d32addcfac24e6c18d429cde9eb2dcde356ceecc2a12bd724e43b22b796",
+      "png_bytes": 11322
+    },
+    {
+      "id": 1898000000043,
+      "name": "VfB Stuttgart II",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/VfB_Stuttgart.svg",
+      "source_sha256": "617bfcc99946ed6cc13fc6767a373bbd2442e40176e9bdef55581e74e4f5bd37",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000043.png",
+      "background_rgb": [
+        218,
+        68,
+        93
+      ],
+      "png_sha256": "350b922da846f3af38baaf682c94faed9ef8e74ab760eb49fc462546bc1570de",
+      "png_bytes": 10997
+    },
+    {
+      "id": 1898000000044,
+      "name": "Alemannia Aachen",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/Alemannia_Aachen.svg",
+      "source_sha256": "690c20dbdbb4c804ad66f060e577beff31e2c7536238ee6c693501ac602fbb1d",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000044.png",
+      "background_rgb": [
+        243,
+        243,
+        68
+      ],
+      "png_sha256": "914e5693279c517b9c12e97300cba0f2694af7fcd58d792d3b617eaeeb3a3ffa",
+      "png_bytes": 7937
+    },
+    {
+      "id": 1898000000045,
+      "name": "FC Ingolstadt 04",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/Ingolstadt.svg",
+      "source_sha256": "f130814cbca7d1ab7ea82e672bc0916f9e701eacac11b2ef685cfd51fd83e798",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000045.png",
+      "background_rgb": [
+        218,
+        68,
+        68
+      ],
+      "png_sha256": "f26d6b19088c562849b08072b7c7732e4aa780332665a566173a06577391ef6d",
+      "png_bytes": 12586
+    },
+    {
+      "id": 1898000000046,
+      "name": "Fortuna Düsseldorf",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/Fortuna_D%C3%BCsseldorf.svg",
+      "source_sha256": "eeb107702794e80c5d474b37ac890d87e4ad7f627978f70bff8211998ad736fc",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000046.png",
+      "background_rgb": [
+        243,
+        68,
+        68
+      ],
+      "png_sha256": "d0162c3c27ec6ec008d3b0756a1058739a5fcfd032b9cbd337d5455a454db201",
+      "png_bytes": 10255
+    },
+    {
+      "id": 1898000000047,
+      "name": "SV Waldhof Mannheim",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/SV_Waldhof_Mannheim.svg",
+      "source_sha256": "57e1c1c98f1b87f32eade09753768b42a64687714011b62d641e2e663b25a139",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000047.png",
+      "background_rgb": [
+        68,
+        118,
+        168
+      ],
+      "png_sha256": "806f46d0b48a05286f2e7a4f11be72dfe7268db9c5f6dda7f8afd9e395a78c75",
+      "png_bytes": 8140
+    },
+    {
+      "id": 1898000000048,
+      "name": "SC Preußen Münster",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/Preu%C3%9Fen_M%C3%BCnster.svg",
+      "source_sha256": "fa018ae5fe8dc76fe21bbe9fe251404f6197fa1514d4e3205039988949c39be8",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000048.png",
+      "background_rgb": [
+        75,
+        101,
+        136
+      ],
+      "png_sha256": "5d7f9b74fb30866926d9b43753aedce2e0a78de986d1888653702e70c0663a60",
+      "png_bytes": 12077
+    },
+    {
+      "id": 1898000000049,
+      "name": "SV Wehen Wiesbaden",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/SV_Wehen_Wiesbaden.svg",
+      "source_sha256": "e13ce44d6346a62e519840cb96e9d218dceaea19579c4e03295496a1fc685fc7",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000049.png",
+      "background_rgb": [
+        218,
+        68,
+        68
+      ],
+      "png_sha256": "11c844a37d0c6b98d399a1c06e7549461b6bfb70d13b22931db036e893871b1b",
+      "png_bytes": 14177
+    },
+    {
+      "id": 1898000000050,
+      "name": "SC Verl",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/SC_Verl.svg",
+      "source_sha256": "ad7454e7a5023b98a5e5ddd509a90b977c70396a349c65c2cf4299a4cc13f850",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000050.png",
+      "background_rgb": [
+        75,
+        101,
+        136
+      ],
+      "png_sha256": "3eedcc08c5fa846f10d3b1316898bc4e427c5dff2dd4324092569eb9f343fb70",
+      "png_bytes": 7329
+    },
+    {
+      "id": 1898000000051,
+      "name": "SG Sonnenhof Großaspach",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/SG_Sonnenhof_Gro%C3%9Faspach.svg",
+      "source_sha256": "24e957fe3053c07173c906ccbcc8b273f0659c26c1e443861daa780514975182",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000051.png",
+      "background_rgb": [
+        243,
+        68,
+        68
+      ],
+      "png_sha256": "838b0e5c94584f76c1e2ba87ef99c8950f4cdb0c94ff170dbff36a687e5e0d12",
+      "png_bytes": 8182
+    },
+    {
+      "id": 1898000000052,
+      "name": "FC Würzburger Kickers",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/W%C3%BCrzburger_Kickers.svg",
+      "source_sha256": "f40ecb1c7c88669e098a921ddd203b1b0097ea4b6fdf3292878eea3ddd8fabb3",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000052.png",
+      "background_rgb": [
+        243,
+        68,
+        68
+      ],
+      "png_sha256": "4cd02f8d138d8ce38dfafd3d5c6835140c009174dbc3aa812c4afbac857e201f",
+      "png_bytes": 10000
+    },
+    {
+      "id": 1898000000053,
+      "name": "SV Meppen",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/SV_Meppen.svg",
+      "source_sha256": "29667e41dab9e4e83a42e3c80468ba9098763832c9fd7879c0a1e6be142e043d",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000053.png",
+      "background_rgb": [
+        68,
+        118,
+        193
+      ],
+      "png_sha256": "4e6c8170316db0f0496fb59159d3336cd7ef782bb68db1a08736575e9b842928",
+      "png_bytes": 7670
+    },
+    {
+      "id": 1898000000054,
+      "name": "SSV Jahn Regensburg",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/Jahn.svg",
+      "source_sha256": "8d770f81d369fb2b8f0b4b024bfb544a79effc83f514bed81088a75ac5abc22d",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000054.png",
+      "background_rgb": [
+        243,
+        68,
+        68
+      ],
+      "png_sha256": "be89fca4c34720a5df39a40128740e6d317a55f79bf1943f3365bec31bb75941",
+      "png_bytes": 5221
+    },
+    {
+      "id": 1898000000055,
+      "name": "SC Fortuna Köln",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/SC_Fortuna_K%C3%B6ln.svg",
+      "source_sha256": "ad253c96475aa11d85c8c65e7ac289e032385a081be8cdc112528afde377d19e",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000055.png",
+      "background_rgb": [
+        243,
+        68,
+        68
+      ],
+      "png_sha256": "05eb5834f1f1abd7e7a465c9e88785f4d516db1f97da7c2b57b9fbf73094c77d",
+      "png_bytes": 12287
+    },
+    {
+      "id": 1898000000056,
+      "name": "TSV Havelse",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/TSV_Havelse.svg",
+      "source_sha256": "61e74ca292efd5cce67094381d07b6eaa08c0cbf30f9f22d84a98f424c517f66",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000056.png",
+      "background_rgb": [
+        243,
+        68,
+        68
+      ],
+      "png_sha256": "788a6fe1aedce27dbbf5ebf916b557a2ecd5bde7a4d7a5b23d3ed6963eb8d240",
+      "png_bytes": 10520
+    },
+    {
+      "id": 1898000000057,
+      "name": "SC Weiche Flensburg 08",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/SC_Weiche_Flensburg_08.svg",
+      "source_sha256": "e8c86e51d24b5c452adeb32387a9ef078f594d0772955dafd485aa50ade2fab2",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000057.png",
+      "background_rgb": [
+        193,
+        68,
+        93
+      ],
+      "png_sha256": "227a81ffe22c7c74ad78ad180f9b9c5b21af808aeac4e44d4135819bdc9fb286",
+      "png_bytes": 10182
+    },
+    {
+      "id": 1898000000058,
+      "name": "Hannover 96 II",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/Hannover_96.svg",
+      "source_sha256": "85064edaf95b797d230ae958e6861d73152f9ac29b8f936585e3d3584b6215f6",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000058.png",
+      "background_rgb": [
+        68,
+        168,
+        93
+      ],
+      "png_sha256": "004b78b3cb3b11b545d3810bdd881254fded19dd7273eb670f19b23f3577c183",
+      "png_bytes": 9907
+    },
+    {
+      "id": 1898000000059,
+      "name": "SV Drochtersen/Assel",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/SV_DrochtersenAssel.svg",
+      "source_sha256": "0b0a5b5238ef4a6e76206392747baa046268e3fdd1b5d8e18a1d6b4b2412f040",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000059.png",
+      "background_rgb": [
+        68,
+        143,
+        218
+      ],
+      "png_sha256": "6aea529d3090470604b3ef252f0ada2d434d51380c50eb526a5ee333beb9d8a8",
+      "png_bytes": 6701
+    },
+    {
+      "id": 1898000000060,
+      "name": "VfB Oldenburg",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/VfB_Oldenburg.svg",
+      "source_sha256": "9992c4500d1501b8e0487413ff5f061c37ce5f29222eb91a5d6615a91493195a",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000060.png",
+      "background_rgb": [
+        68,
+        93,
+        118
+      ],
+      "png_sha256": "61782da3d6cea1d8588a72801235f2203c1016829f5610a0e039714d4e281d52",
+      "png_bytes": 7756
+    },
+    {
+      "id": 1898000000061,
+      "name": "1. FC Phönix Lübeck",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/1._FC_Ph%C3%B6nix_L%C3%BCbeck.svg",
+      "source_sha256": "9834d9f997b792cde2aefed1337e8857532fcc97a2f6ccebc1ba84b774b7ef57",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000061.png",
+      "background_rgb": [
+        68,
+        118,
+        193
+      ],
+      "png_sha256": "de7a1ad9da013ebe50f78fc34fc20cbbc200769a3ee885ab7060cecbd2c0996e",
+      "png_bytes": 11186
+    },
+    {
+      "id": 1898000000062,
+      "name": "FSV Schöningen",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/FSV_Sch%C3%B6ningen_2011.svg",
+      "source_sha256": "fa799aea3b94f1d9dd3d9aad6317f2ffb9584027b40380d6e052feac90f6f2d0",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000062.png",
+      "background_rgb": [
+        218,
+        93,
+        93
+      ],
+      "png_sha256": "d490c32cc327a3ec862d6c410f456e32df86d9da5f50e9520c41b95f7807df9b",
+      "png_bytes": 9107
+    },
+    {
+      "id": 1898000000063,
+      "name": "SV Atlas Delmenhorst",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/Atlas_Delmenhorst.svg",
+      "source_sha256": "288f15387de764ab1fb1d75c6c949bea1d64a75b2dac968b9073062d5508fa04",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000063.png",
+      "background_rgb": [
+        243,
+        243,
+        68
+      ],
+      "png_sha256": "7cd2bde415ac2627dcb80101b386b21420162a4e1315fc7830acb0d2bc95db5b",
+      "png_bytes": 10020
+    },
+    {
+      "id": 1898000000064,
+      "name": "Kickers Emden",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/BSV_Kickers_Emden.svg",
+      "source_sha256": "5cf74310d7ca0226b25938ba408ebdd281b02bf3f9ff9ff12ced50d3e962f1da",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000064.png",
+      "background_rgb": [
+        68,
+        93,
+        143
+      ],
+      "png_sha256": "2bd422333bab77489f12c8438d20310bd1d3e96b930554aa5ee2fd63b6eeab7e",
+      "png_bytes": 5698
+    },
+    {
+      "id": 1898000000065,
+      "name": "VfB Lübeck",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/VfB_L%C3%BCbeck.svg",
+      "source_sha256": "2f60dad151100f68517228573290ef72b80252fd9e73427cd0506981701bb3c9",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000065.png",
+      "background_rgb": [
+        68,
+        193,
+        143
+      ],
+      "png_sha256": "3af9bba972bdc4d7995ff02f1106c5df3bab494cd59309357631d9ed63e8536a",
+      "png_bytes": 10206
+    },
+    {
+      "id": 1898000000066,
+      "name": "HSC Hannover",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/HSC_Hannover.svg",
+      "source_sha256": "1ca0c460d8f0e775e4e3c3ee86ef9036f64aa6a79ef98c4026e4933a0a4a6ff7",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000066.png",
+      "background_rgb": [
+        68,
+        118,
+        118
+      ],
+      "png_sha256": "cc0dd431fef2e93cd572b8b9e487ff285e8f0e8e76fabc5767f5332fdf7ce0f9",
+      "png_bytes": 9975
+    },
+    {
+      "id": 1898000000067,
+      "name": "Eimsbütteler TV",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/Eimsb%C3%BCtteler_TV.svg",
+      "source_sha256": "2d90488f2490ce08e0206787baecebf5b238caa1362725274a75bb26ac235572",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000067.png",
+      "background_rgb": [
+        218,
+        68,
+        68
+      ],
+      "png_sha256": "107dcf191831c6a6605473e6ec459dba025e56520eae244abf8b81650ed42185",
+      "png_bytes": 4532
+    },
+    {
+      "id": 1898000000068,
+      "name": "Eintracht Norderstedt",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/FC_Eintracht_Norderstedt.svg",
+      "source_sha256": "a71104cde55210644dbdcaf2721fcb0bf7f9866ec1aafd22046705c10411aba7",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000068.png",
+      "background_rgb": [
+        218,
+        68,
+        68
+      ],
+      "png_sha256": "921812e6196f78367765d7ad5f416628fc4d35a6f9f121a84d33939a098f9236",
+      "png_bytes": 7237
+    },
+    {
+      "id": 1898000000069,
+      "name": "Hamburger SV II",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/Hamburger_SV.svg",
+      "source_sha256": "73d624ed8bd7cf02e33e63f71d9dcd86bf64efa37f9474984b82ff117aefb191",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000069.png",
+      "background_rgb": [
+        68,
+        118,
+        193
+      ],
+      "png_sha256": "382368c83c292d61d326e09d1491ccdbf9ef2f1db108130ef3275589bf0097a4",
+      "png_bytes": 3520
+    },
+    {
+      "id": 1898000000070,
+      "name": "SSV Jeddeloh II",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/SSV_Jeddeloh_II.svg",
+      "source_sha256": "2a5a4d16099a3bd1e754c25f20df764ec624e24e08c714becf5fffe5d2984802",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000070.png",
+      "background_rgb": [
+        68,
+        143,
+        193
+      ],
+      "png_sha256": "750131cdc1f36d89bab33736be3dd1d20b4e2177aaa13a8aa213c6bb3fb776dd",
+      "png_bytes": 12475
+    },
+    {
+      "id": 1898000000071,
+      "name": "SV Werder Bremen II",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/Werder_Bremen.svg",
+      "source_sha256": "3db5c47f622d13b077a2ee1ffcffde264b4b275f6ef65b582ca87ae63a8c21a1",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000071.png",
+      "background_rgb": [
+        68,
+        168,
+        118
+      ],
+      "png_sha256": "1eeb1492e26fb25e326cb95f82c28576b1027834079491a8375fcb447ecab114",
+      "png_bytes": 6193
+    },
+    {
+      "id": 1898000000072,
+      "name": "SV Todesfelde",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/SV_Todesfelde.svg",
+      "source_sha256": "e6a65c0ae727778afddf89e1146e939dfae681bf7362b815727da1a0d45ed93c",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000072.png",
+      "background_rgb": [
+        68,
+        143,
+        193
+      ],
+      "png_sha256": "4c5fd2e461b9999e36a0113465c9729b277915dd28c4a636ff9a7bb15c18d8e7",
+      "png_bytes": 9795
+    },
+    {
+      "id": 1898000000073,
+      "name": "FC St. Pauli II",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/St_Pauli.svg",
+      "source_sha256": "7d25727a863e9dd895ee537fa136f4f2c24d753034be0be5560ae18cfa49193b",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000073.png",
+      "background_rgb": [
+        243,
+        68,
+        68
+      ],
+      "png_sha256": "6f9f2ae5c5a50579d090df8a76cbbc5797889bfe3f86387d7a233e3c6948917d",
+      "png_bytes": 12257
+    },
+    {
+      "id": 1898000000074,
+      "name": "Bremer SV",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/Bremer_SV.svg",
+      "source_sha256": "e533dd0e09dab8d1559728808c6b883025bbbb23b1c9290dadd0ead55808ac35",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000074.png",
+      "background_rgb": [
+        68,
+        93,
+        118
+      ],
+      "png_sha256": "786c7f00e6eacc017c54d08ec689543b19728f7d2ee18ebe356939d21c97154e",
+      "png_bytes": 9854
+    },
+    {
+      "id": 1898000000075,
+      "name": "Chemnitzer FC",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/Chemnitzer_FC.svg",
+      "source_sha256": "9b792ed5b72f2447e4dd86ad6c3018a3c3a4f7078488601a8e8178e31127738b",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000075.png",
+      "background_rgb": [
+        68,
+        168,
+        218
+      ],
+      "png_sha256": "e249f0cbe71ef5e570d62340be78e3a8587ed76adc3f7f60b3bbfdad302d97da",
+      "png_bytes": 8094
+    },
+    {
+      "id": 1898000000076,
+      "name": "FC Rot-Weiß Erfurt",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/FC_Rot-Wei%C3%9F_Erfurt.svg",
+      "source_sha256": "1325c5e50911c3ff81f9667205857fc2c2d6aba111a09cc21e8b5a61a3eaf092",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000076.png",
+      "background_rgb": [
+        243,
+        68,
+        68
+      ],
+      "png_sha256": "2e160b8ceb2eb436b97a31b05e1969ba9817b00d1999acbec1dbe79b56d5285c",
+      "png_bytes": 6034
+    },
+    {
+      "id": 1898000000077,
+      "name": "Hallescher FC",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/Hallescher.svg",
+      "source_sha256": "a03bbd0f1ac4fb76e6edc86084fb1666dcd8cb2ae067011457826541403e0b94",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000077.png",
+      "background_rgb": [
+        243,
+        68,
+        93
+      ],
+      "png_sha256": "bb96ad1fca3ae8c3afb334a2256f08cfc4c7d5fa834fe5da134003b610257d55",
+      "png_bytes": 6078
+    },
+    {
+      "id": 1898000000078,
+      "name": "FC Carl Zeiss Jena",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/Jena.svg",
+      "source_sha256": "0cb47e10a5cb98a42a9cdf7c41d96bdbf673acd9a39f5cfd3251b135d3612c6f",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000078.png",
+      "background_rgb": [
+        243,
+        193,
+        68
+      ],
+      "png_sha256": "2978e2006b7981feb7e09a3b99498e8826f29cbd52a61f022ab94cf0e0e1a3b1",
+      "png_bytes": 8428
+    },
+    {
+      "id": 1898000000079,
+      "name": "BFC Dynamo",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/BFC_Dynamo.svg",
+      "source_sha256": "7056ab6311d9e7702300d0c4fd1314a5965e9e55c4617a2c25ff41f946b1118f",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000079.png",
+      "background_rgb": [
+        118,
+        93,
+        68
+      ],
+      "png_sha256": "0f5f7bfb2839c4475fdd87ce01312ec3955813f54e3262cd4fbb02d18b1e7375",
+      "png_bytes": 13255
+    },
+    {
+      "id": 1898000000080,
+      "name": "VSG Altglienicke",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/VSG_Altglienicke.svg",
+      "source_sha256": "507dec874b7a221485c87bb2242117b769172aa4c9199854058ed92f0835c5e9",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000080.png",
+      "background_rgb": [
+        68,
+        118,
+        168
+      ],
+      "png_sha256": "8c39319b73125ad37688f9951ec79a81b839f1a90f3ec4a8c22584ed32002412",
+      "png_bytes": 10626
+    },
+    {
+      "id": 1898000000081,
+      "name": "Greifswalder FC",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/Greifswalder_FC.svg",
+      "source_sha256": "aa4ab6138f1055fe37fa2f9ebe4963abe1cdab4d41d9602bb93a9a04b7fca622",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000081.png",
+      "background_rgb": [
+        243,
+        68,
+        68
+      ],
+      "png_sha256": "ef09145b9392b63cde9678bad4550b0d8f0dfb703de679cf97ba64757a10bd73",
+      "png_bytes": 10680
+    },
+    {
+      "id": 1898000000082,
+      "name": "FC Erzgebirge Aue",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/Erzgebirge.svg",
+      "source_sha256": "3407f0702563f205e30323a98b0f428c0a0471d5e406c454b924c15e63587e45",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000082.png",
+      "background_rgb": [
+        168,
+        143,
+        193
+      ],
+      "png_sha256": "3c2b98106f645ab1236da3704fafb9dd7abe2fa13026b60a319ebb1113d9fbf4",
+      "png_bytes": 11363
+    },
+    {
+      "id": 1898000000083,
+      "name": "FSV Zwickau",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/FSV_Zwickau.svg",
+      "source_sha256": "b7f8b167149f273097f65f8c73e6b96350940c0040b7561563066f134d4dc1c2",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000083.png",
+      "background_rgb": [
+        243,
+        68,
+        93
+      ],
+      "png_sha256": "f23a79df43ce0f134c837006393b49eda3b5b09e677d55b0eca81564e030ee3d",
+      "png_bytes": 9278
+    },
+    {
+      "id": 1898000000084,
+      "name": "1. FC Lokomotive Leipzig",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/1._FC_Lokomotive_Leipzig.svg",
+      "source_sha256": "46e2f9216fd806f577fba15d5bdf9cfa99ec6dfcebb7bcffe776e1d58cd552a2",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000084.png",
+      "background_rgb": [
+        68,
+        118,
+        168
+      ],
+      "png_sha256": "63ab31641d0c44fd9faba0918d9187c14c5416f72dcb7942aa5bea09ad366a50",
+      "png_bytes": 14542
+    },
+    {
+      "id": 1898000000085,
+      "name": "1. FC Magdeburg II",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/1._FC_Magdeburg.svg",
+      "source_sha256": "5f5c2eed7cc90909572fc7bf3bbf1ed4ef64d473d19dda4fb0591b762bc5c723",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000085.png",
+      "background_rgb": [
+        68,
+        118,
+        193
+      ],
+      "png_sha256": "86d8ceaf65b6ca68e1b42c17c8f17c47247b3f6dc1b6887d5ce5d7ec75e0fe0a",
+      "png_bytes": 7621
+    },
+    {
+      "id": 1898000000086,
+      "name": "SV Babelsberg 03",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/SV_Babelsberg_03.svg",
+      "source_sha256": "6efeb4288195551199fbbb094325f88fb1dc670c53602b23970894070209a2ae",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000086.png",
+      "background_rgb": [
+        68,
+        93,
+        118
+      ],
+      "png_sha256": "679ce53997f6425ab993e349780f4709e93828e6d9569aa5a5806b32a1606546",
+      "png_bytes": 12723
+    },
+    {
+      "id": 1898000000087,
+      "name": "BFC Preussen",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/BFC_Preussen.svg",
+      "source_sha256": "4837ea7f7d2a7f05cd20ce5f95b796e46aad7e3917adb6117aee5da0907e29a5",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000087.png",
+      "background_rgb": [
+        75,
+        101,
+        136
+      ],
+      "png_sha256": "a0d9dbd46f0cf985d2f22576deddb0d1cef672a2f10527045acc1d6689ba4716",
+      "png_bytes": 10734
+    },
+    {
+      "id": 1898000000088,
+      "name": "BSG Chemie Leipzig",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/BSG_Chemie_Leipzig.svg",
+      "source_sha256": "2ba60e4fd98070efb4663cd8a8576056300da627070e449f3072de6b4c8eeaf0",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000088.png",
+      "background_rgb": [
+        68,
+        168,
+        93
+      ],
+      "png_sha256": "c9efeeb3ba2c7ca74abb8be7e3e7e7569bc763b65a15e00e31cc01a7ff132b7b",
+      "png_bytes": 5439
+    },
+    {
+      "id": 1898000000089,
+      "name": "Hertha BSC II",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/Hertha_BSC.svg",
+      "source_sha256": "0356860ef25cf89511102298a383720a209369861f9c2146ede10e9075d65162",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000089.png",
+      "background_rgb": [
+        68,
+        143,
+        193
+      ],
+      "png_sha256": "0680f60b7d1aa47e5db0003c375f2a7db8ae5baadf2358dddcf1597c54b22ff5",
+      "png_bytes": 10463
+    },
+    {
+      "id": 1898000000090,
+      "name": "RSV Eintracht 1949",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/RSV_Eintracht_1949.svg",
+      "source_sha256": "81fb6f2a020c68840af5ae0888e83d49990b0777b9082a747a9bbd7146630d8d",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000090.png",
+      "background_rgb": [
+        68,
+        118,
+        168
+      ],
+      "png_sha256": "6fb7375994d26761951e080e0354bfa7b3d0f34617225d1e0e94feb1aa1cf683",
+      "png_bytes": 12693
+    },
+    {
+      "id": 1898000000091,
+      "name": "SV Tasmania Berlin",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/Tasmania_Berlin.svg",
+      "source_sha256": "e367b57c90327c0d66654e0ea4b624d76abf7a8f9fed2da52c9319b0aa387372",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000091.png",
+      "background_rgb": [
+        68,
+        93,
+        143
+      ],
+      "png_sha256": "983ebe43e8a83607c13f141a5e0e40ab2e48ec051ad26fb16eb8e2c5966c3c9d",
+      "png_bytes": 12768
+    },
+    {
+      "id": 1898000000092,
+      "name": "FSV 63 Luckenwalde",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/FSV_63_Luckenwalde.svg",
+      "source_sha256": "af0d673b40c0bac9034ca1258918dd5558a8ee8c73751da74e00743af0d3133d",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000092.png",
+      "background_rgb": [
+        243,
+        243,
+        68
+      ],
+      "png_sha256": "5c87feb0a542a6975b2e092b7e07975f1844384f64f41d4888fd28d806546c9a",
+      "png_bytes": 11393
+    },
+    {
+      "id": 1898000000093,
+      "name": "SC Rot-Weiß Oberhausen",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/Rot-Wei%C3%9F_Oberhausen.svg",
+      "source_sha256": "2e866fe883cc7f7383e564ba9f3136a9fe897f89766723a63e90d43a38d3f11d",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000093.png",
+      "background_rgb": [
+        93,
+        168,
+        143
+      ],
+      "png_sha256": "1fa4ed4b9622369936a451a27a2b03ab7154677c84c462a382643ec8d7ea93e9",
+      "png_bytes": 13053
+    },
+    {
+      "id": 1898000000094,
+      "name": "Borussia Dortmund II",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/Borussia_Dortmund.svg",
+      "source_sha256": "87fe54bb53dc407c51d60eb715d4e9c32e90c2e96f4c888edaab239ddb4447dc",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000094.png",
+      "background_rgb": [
+        243,
+        218,
+        68
+      ],
+      "png_sha256": "0655ef1a1328efec4fa2bd38e3160c112639896fea2fac9d22a492d3bb0ab0ad",
+      "png_bytes": 7888
+    },
+    {
+      "id": 1898000000095,
+      "name": "Borussia Mönchengladbach II",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/Borussia_M%C3%B6nchengladbach.svg",
+      "source_sha256": "b61720dac2335f9581226205394b9fa2d9c7f88df4d994445287ac4e74f5c8d6",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000095.png",
+      "background_rgb": [
+        75,
+        101,
+        136
+      ],
+      "png_sha256": "d07b74c1cc3e691eaecdc1dd0bce9a6b3596e49f2baff9d9995cf730ab0d375c",
+      "png_bytes": 6362
+    },
+    {
+      "id": 1898000000096,
+      "name": "FC Gütersloh",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/FC_G%C3%BCtersloh.svg",
+      "source_sha256": "90fb12749d41daf81d65319da61b4c5858eed275cd6079f2a19e1e831a029d22",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000096.png",
+      "background_rgb": [
+        68,
+        93,
+        143
+      ],
+      "png_sha256": "09cbddc5443f7f2acd862c5792846f0eb260a58373c547df663623a504b990ba",
+      "png_bytes": 6757
+    },
+    {
+      "id": 1898000000097,
+      "name": "Sportfreunde Siegen",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/Sportfreunde_Siegen.svg",
+      "source_sha256": "660d1e58a8ac949e55c3feb37220b4744659779b43eaf283d2dd81ef32d68968",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000097.png",
+      "background_rgb": [
+        218,
+        68,
+        68
+      ],
+      "png_sha256": "e0b9bb28376a48c996068c8f9f43a5fdfe7226eea399253a1cdec0bf7124076b",
+      "png_bytes": 5636
+    },
+    {
+      "id": 1898000000098,
+      "name": "1. FC Köln II",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/Cologne.svg",
+      "source_sha256": "803e798efbeb48407b6a743f25943fe6797df508f6080da8500d02f490847336",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000098.png",
+      "background_rgb": [
+        243,
+        68,
+        68
+      ],
+      "png_sha256": "62f68a4f3967e5af5af118f43a83ff8285168a2cfda60da9841d0e3d79fbe37d",
+      "png_bytes": 10415
+    },
+    {
+      "id": 1898000000099,
+      "name": "FC Schalke 04 II",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/Schalke_04.svg",
+      "source_sha256": "c0b85ef02dd539e78af2e6ea35bae5cd99a429762bc15dc01c93bfc5c4f41be4",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000099.png",
+      "background_rgb": [
+        68,
+        118,
+        168
+      ],
+      "png_sha256": "16af5c28cfd78e801744fd644422d5a69338c6138c56aa1eb37351a0701446a8",
+      "png_bytes": 8869
+    },
+    {
+      "id": 1898000000100,
+      "name": "Bonner SC",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/Bonner_SC.svg",
+      "source_sha256": "961b01d533a9800c4d854aa7cf11635e2eabc3592620dba9acba57e462a376c7",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000100.png",
+      "background_rgb": [
+        68,
+        93,
+        118
+      ],
+      "png_sha256": "266e4496746408252fd01dd0f1ddf0f3196840168834beb6873014bafcce4f30",
+      "png_bytes": 9112
+    },
+    {
+      "id": 1898000000101,
+      "name": "SV Westfalia Rhynern",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/Westfalia_Rhynern.svg",
+      "source_sha256": "53b14038f030ed845c4d8f2e5e1e60bf2822f367a63a132551d2f04ed7047cc8",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000101.png",
+      "background_rgb": [
+        68,
+        118,
+        193
+      ],
+      "png_sha256": "1f80643f5c243a49ceb65851dcfa86331b45eccfc33c7eb9d62f92bb21867f7b",
+      "png_bytes": 9013
+    },
+    {
+      "id": 1898000000102,
+      "name": "VfB 03 Hilden",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/VfB_Hilden.svg",
+      "source_sha256": "c40db4533cd187d2d0c5fbad6679d2cf950ce86d440cf3b2ccc928ecf472b960",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000102.png",
+      "background_rgb": [
+        75,
+        101,
+        136
+      ],
+      "png_sha256": "6d324c80485ab6d4656ee66249a5bbeda6da873938a357a0fc4a52df3b76e8f6",
+      "png_bytes": 12890
+    },
+    {
+      "id": 1898000000103,
+      "name": "1. FC Bocholt",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/1._FC_Bocholt.svg",
+      "source_sha256": "4ad2996c97196e66c651852a36e1c3251552da6615e238ca21a716e81ba4ee48",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000103.png",
+      "background_rgb": [
+        75,
+        101,
+        136
+      ],
+      "png_sha256": "3f0f616c502053fbf81df257bc86af46dbf5e665fa00578bf6b4e4adef61475c",
+      "png_bytes": 5279
+    },
+    {
+      "id": 1898000000104,
+      "name": "SV Bergisch Gladbach 09",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/Bergisch_Gladbach_09.svg",
+      "source_sha256": "ec240905569f0e5006c05a19cc5166e51d08ed96b9ec6c00e89a7a8862d8fcd2",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000104.png",
+      "background_rgb": [
+        243,
+        68,
+        93
+      ],
+      "png_sha256": "78180963258bdc0cc3925b08bd389f40f43883d33a00b71eeb01430785eba48f",
+      "png_bytes": 12437
+    },
+    {
+      "id": 1898000000105,
+      "name": "VfL Bochum II",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/VfL_Bochum.svg",
+      "source_sha256": "232857e39996f1776d5abc782fca8bac42013a25ce516ab76e9eb0f1e07605a9",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000105.png",
+      "background_rgb": [
+        68,
+        118,
+        193
+      ],
+      "png_sha256": "ef8858da2d69fed8acb4535a96d5d3135b477c6e67e8d2e06882897035cc953a",
+      "png_bytes": 9129
+    },
+    {
+      "id": 1898000000106,
+      "name": "SC Paderborn 07 II",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/SC_Paderborn.svg",
+      "source_sha256": "b47d34e03bd8cf90fbde086dffef582b67a154d381abf578d203c734e0debe54",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000106.png",
+      "background_rgb": [
+        68,
+        118,
+        193
+      ],
+      "png_sha256": "3fc295ff23018e681fccc6a91b55465ee65c1f1de7bdde1260e2ac6a09f97bf5",
+      "png_bytes": 7711
+    },
+    {
+      "id": 1898000000107,
+      "name": "SG Wattenscheid 09",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/Wattenscheid_09.svg",
+      "source_sha256": "6ef88eb7004aaf6c73df8679f24b9c45152e8690119219120a0028f73b580563",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000107.png",
+      "background_rgb": [
+        75,
+        101,
+        136
+      ],
+      "png_sha256": "31501c10c8adaa4688d951727ba634beb1fc8679e16e9e4a40dd4797b2cf935a",
+      "png_bytes": 13429
+    },
+    {
+      "id": 1898000000108,
+      "name": "SV Rödinghausen",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/SV_R%C3%B6dinghausen.svg",
+      "source_sha256": "9d025c4f200b8541b78265071708e232ff8d455d86282ad4c02c0f5218ba7588",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000108.png",
+      "background_rgb": [
+        68,
+        143,
+        118
+      ],
+      "png_sha256": "77189f2b0d3201abc54e047e2591c951f9908905ed9973ff44144975ce0bb83c",
+      "png_bytes": 8154
+    },
+    {
+      "id": 1898000000109,
+      "name": "SC Wiedenbrück",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/SC_Wiedenbr%C3%BCck.svg",
+      "source_sha256": "949196c9de07c61437fb99862f4c5003d0d5e99d01fcf2615aaa44c029fcb30c",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000109.png",
+      "background_rgb": [
+        68,
+        93,
+        168
+      ],
+      "png_sha256": "bc0c15a0da580ded469283c861c83450ab60b4cebcf752676dfbc79e686ba148",
+      "png_bytes": 10287
+    },
+    {
+      "id": 1898000000110,
+      "name": "Sportfreunde Lotte",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/Sportfreunde_Lotte.svg",
+      "source_sha256": "779d471f983c6530e4f9ad5736da9043e4080fffc53c5c81ea6f71f254d1dbb3",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000110.png",
+      "background_rgb": [
+        68,
+        118,
+        168
+      ],
+      "png_sha256": "37049a1a6e141e2f088604e085be9fa94aaf7b089cfc83e7cfc7afed22c3ed21",
+      "png_bytes": 13595
+    },
+    {
+      "id": 1898000000111,
+      "name": "SGV Freiberg",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/SGV_Freiberg.svg",
+      "source_sha256": "b8e8b4e5e340133565f8ce70cea6b8456cc5da7c11deca8f64f21ed235c36c6e",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000111.png",
+      "background_rgb": [
+        68,
+        143,
+        218
+      ],
+      "png_sha256": "a0c01a7ec9c88c91681014710f89336afa58e31698d88f6b7fd8a9b0ee4002b0",
+      "png_bytes": 7120
+    },
+    {
+      "id": 1898000000112,
+      "name": "VfR Aalen",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/VfR_Aalen.svg",
+      "source_sha256": "38e2295f1ceec876808b99ce493325f00ccf48d37b7442bfb70e13b153a4becd",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000112.png",
+      "background_rgb": [
+        75,
+        101,
+        136
+      ],
+      "png_sha256": "34dfa27c16ba02c0b4a13ad19b28b6d9e14ba9926e4e08815b1f77c2804ac195",
+      "png_bytes": 8576
+    },
+    {
+      "id": 1898000000113,
+      "name": "VfR Mannheim",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/VfR_Mannheim.svg",
+      "source_sha256": "ccd42ae60e6d19c40c07abee2a4f19254d9eaa0153b68a5ca851f200d803ebec",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000113.png",
+      "background_rgb": [
+        243,
+        68,
+        93
+      ],
+      "png_sha256": "a4a25ba07688f53ac0a94df26e8866972a05160431071449130f073f0cbd2b30",
+      "png_bytes": 12202
+    },
+    {
+      "id": 1898000000114,
+      "name": "Stuttgarter Kickers",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/Stuttgarter_Kickers.svg",
+      "source_sha256": "aac6b2f6cbe96b2c595243862b5edd73a4650d068b6687acad648ce23b8967ec",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000114.png",
+      "background_rgb": [
+        68,
+        168,
+        243
+      ],
+      "png_sha256": "ba3e90597130c6c7b09821a219eaa8b0262507e7f06f6e5f8bece5c8117ab4d3",
+      "png_bytes": 8699
+    },
+    {
+      "id": 1898000000115,
+      "name": "Kickers Offenbach",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/Kickers_Offenbach.svg",
+      "source_sha256": "18a76889bc7211e9661243edc220b416432be9d1a54c6471a6219768cfcbc1a5",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000115.png",
+      "background_rgb": [
+        243,
+        93,
+        93
+      ],
+      "png_sha256": "5c6b9e8d7190c5a04724f1aa25767715cdc7847984aa730d007946641df472ea",
+      "png_bytes": 11477
+    },
+    {
+      "id": 1898000000116,
+      "name": "FC 08 Homburg",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/FC_08_Homburg.svg",
+      "source_sha256": "bf9150171b334ac8012f96651b688fa1c344ffcbf9ebe152f2e72b94c935376d",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000116.png",
+      "background_rgb": [
+        168,
+        193,
+        143
+      ],
+      "png_sha256": "84f944d02bc7b9de852ceadf979052774cdf067777f0958b1ba7c7825ffa5257",
+      "png_bytes": 13094
+    },
+    {
+      "id": 1898000000117,
+      "name": "SV Sandhausen",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/SV_Sandhausen.svg",
+      "source_sha256": "ada61b72176f428b3b64ed05e8978e2f0a222b5bfc5ec35b4271ea9a769ce05d",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000117.png",
+      "background_rgb": [
+        75,
+        101,
+        136
+      ],
+      "png_sha256": "559796b7e906e7d1885ac619b0417e4475506381569ef6697a0687434a641c7a",
+      "png_bytes": 9449
+    },
+    {
+      "id": 1898000000118,
+      "name": "SV Eintracht Trier 05",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/SV_Eintracht_Trier_05.svg",
+      "source_sha256": "d5b8c230e19bdc34d276498fd1948644c864a0629297c2d741e91f893c38af8b",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000118.png",
+      "background_rgb": [
+        243,
+        218,
+        118
+      ],
+      "png_sha256": "7f046109520094a0a7a3118efe90c6ed5f8c8c67572b9ba352735a35bd12f7ee",
+      "png_bytes": 8642
+    },
+    {
+      "id": 1898000000119,
+      "name": "SC Freiburg II",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/Freiburg.svg",
+      "source_sha256": "47c27d7bf10f53bdcb82c8c72d5b817bec330583b0cfb785d691859b2bb62940",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000119.png",
+      "background_rgb": [
+        75,
+        101,
+        136
+      ],
+      "png_sha256": "fb0c18fae080b06e4afe2c704e011224235a802e9c5691ef73c6eabe99715a9c",
+      "png_bytes": 8083
+    },
+    {
+      "id": 1898000000120,
+      "name": "TSV Steinbach Haiger",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/TSV_Steinbach_Haiger.svg",
+      "source_sha256": "ca0b9c0b4c23e25e2749561598bd11f0e00b3f5d1c413eb126d0e30d62dfd0e5",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000120.png",
+      "background_rgb": [
+        68,
+        168,
+        218
+      ],
+      "png_sha256": "55312c1a0b0c84c109ca818d6dada8b15e47f78f87bf541fe4a97818b94391e3",
+      "png_bytes": 9259
+    },
+    {
+      "id": 1898000000121,
+      "name": "KSV Hessen Kassel",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/KSV_Hessen_Kassel.svg",
+      "source_sha256": "9bd508260e9b781d7e9e9f428f78b62a15dbdc034cc84ddcacc7b1ca85dbd075",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000121.png",
+      "background_rgb": [
+        218,
+        68,
+        93
+      ],
+      "png_sha256": "3427036e323e935c9bd48480b008f6891dd87e7acc29191169174c2d06fdbe11",
+      "png_bytes": 12935
+    },
+    {
+      "id": 1898000000122,
+      "name": "FSV Frankfurt",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/FSV_Frankfurt.svg",
+      "source_sha256": "80340be6c017a86f3469f0e4fb83f21c810472a4b61325f8d335f6a3818e7ba4",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000122.png",
+      "background_rgb": [
+        243,
+        68,
+        93
+      ],
+      "png_sha256": "86b1429958d0a96dc2d53aa87a917d868679e8f65107b330e3078154b3dba985",
+      "png_bytes": 14529
+    },
+    {
+      "id": 1898000000123,
+      "name": "Eintracht Frankfurt II",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/Eintracht_Frankfurt.svg",
+      "source_sha256": "2aee749a31fe1e1398560d02383645a2aca411ee9f11f468c1be476fbfe38288",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000123.png",
+      "background_rgb": [
+        243,
+        68,
+        68
+      ],
+      "png_sha256": "d090af970485f35efe3523025172eb72290cbaabf6aa700da03cbaaa200c435b",
+      "png_bytes": 11741
+    },
+    {
+      "id": 1898000000124,
+      "name": "1. FSV Mainz 05 II",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/Mainz_05.svg",
+      "source_sha256": "25de676d5987b2f6df723109296ce5c89beb5a746e4f2e77e8f2bc9330e90e9b",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000124.png",
+      "background_rgb": [
+        193,
+        68,
+        68
+      ],
+      "png_sha256": "aa4098b6e9e03b765aaa64d7b10d1f32e10f9dec3c8323c1b03541c46f4a20be",
+      "png_bytes": 11707
+    },
+    {
+      "id": 1898000000125,
+      "name": "FC-Astoria Walldorf",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/FC_Astoria_Walldorf.svg",
+      "source_sha256": "f3f270edd1ae4a07a0fbf7a73bd715230c626d31ffcd77c54a12034807b15b2d",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000125.png",
+      "background_rgb": [
+        68,
+        118,
+        168
+      ],
+      "png_sha256": "2f0265cb87df108f680d88b28c0382f8ea78e2fa24a14271c9ede2e108ddba81",
+      "png_bytes": 13858
+    },
+    {
+      "id": 1898000000126,
+      "name": "1. FC Kaiserslautern II",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/FC_Kaiserslautern.svg",
+      "source_sha256": "b8ffe1dad07bcb0fdbc876d7439ef0f4bdce2986c178247929b827ff39706f28",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000126.png",
+      "background_rgb": [
+        243,
+        68,
+        68
+      ],
+      "png_sha256": "8db06f5e43a8fce2be33b888ba2d23a7307d81afc049d53b32f8db3980d03807",
+      "png_bytes": 6784
+    },
+    {
+      "id": 1898000000127,
+      "name": "SSV Ulm 1846",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/SSV_Ulm_1846_Fu%C3%9Fball.svg",
+      "source_sha256": "7a8e17a72b4fafb8aae899c0f772319a452fdbf45a290ae54f4665438f721ae4",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000127.png",
+      "background_rgb": [
+        75,
+        101,
+        136
+      ],
+      "png_sha256": "8cce22d82b2bbfe3cdcc9d4ed9b3df9794c6590a6f0b8f3887c252f233b48aec",
+      "png_bytes": 7133
+    },
+    {
+      "id": 1898000000128,
+      "name": "SG Barockstadt Fulda-Lehnerz",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/SG_Barockstadt_Fulda-Lehnerz.svg",
+      "source_sha256": "ddeccce5f8b9173a78d7fbe3410765aeeeca9e2951ba82415fe8519b326be0cc",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000128.png",
+      "background_rgb": [
+        93,
+        93,
+        118
+      ],
+      "png_sha256": "bd38e78532256a09777752130a2b41433b00393d22cdee57c7a401b428a09159",
+      "png_bytes": 8896
+    },
+    {
+      "id": 1898000000129,
+      "name": "FC Memmingen",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/FC_Memmingen.svg",
+      "source_sha256": "4fca381404417b960b9aea9ba88c62039a6dd97d661d960740e7e71c3b3c3a2a",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000129.png",
+      "background_rgb": [
+        243,
+        68,
+        68
+      ],
+      "png_sha256": "53348ee06e367c962463d15cb4882bada7efffb9bac4ede80ca6e73f7fce74f2",
+      "png_bytes": 12824
+    },
+    {
+      "id": 1898000000130,
+      "name": "TSV Buchbach",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/TSV_Buchbach.svg",
+      "source_sha256": "de1a923f52ffb17b9fb4b7b4374055a88ac161a600f8652b9c5ebc0941a42e11",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000130.png",
+      "background_rgb": [
+        193,
+        68,
+        93
+      ],
+      "png_sha256": "52821fc50319346a008a41b3ddd1ecc15fb6cd1aac5ab93800940ab3a855e212",
+      "png_bytes": 11332
+    },
+    {
+      "id": 1898000000131,
+      "name": "SpVgg Unterhaching",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/SpVgg_Unterhaching.svg",
+      "source_sha256": "835f723414c95e29a69aefeeb99b81e7d8b5077d077dee50f0cf77d2ad0a0209",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000131.png",
+      "background_rgb": [
+        68,
+        118,
+        168
+      ],
+      "png_sha256": "3f4895276fda4b6de6fe8b07408147d8878fc22b3100d8c63a44d760708421db",
+      "png_bytes": 11216
+    },
+    {
+      "id": 1898000000132,
+      "name": "TSV 1860 München",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/TSV_1860_M%C3%BCnchen.svg",
+      "source_sha256": "89112acfde7471b6ed5e86900ccc6196f0fff1b7f5453f8fa50957a840a11abe",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000132.png",
+      "background_rgb": [
+        75,
+        101,
+        136
+      ],
+      "png_sha256": "95a897250ed2371a5aa78e1ec77952fb99ce8b30fa90b8c48d3ddae02c1e64e1",
+      "png_bytes": 7970
+    },
+    {
+      "id": 1898000000133,
+      "name": "FV Illertissen",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/FV_Illertissen.svg",
+      "source_sha256": "105c257ee42f57e06d3470569b17ef16c0a4472c1c8bf39b6dcc434481e6225c",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000133.png",
+      "background_rgb": [
+        68,
+        93,
+        168
+      ],
+      "png_sha256": "b3455f88bbb8ffe2a7048eed6c3b6414d4d01a458f071522d75ca916d7d1bb64",
+      "png_bytes": 5498
+    },
+    {
+      "id": 1898000000134,
+      "name": "SpVgg Bayreuth",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/SpVgg_Bayreuth.svg",
+      "source_sha256": "f560c3cb678b07516a2c9f37f7084f9d0e1d7c3425207122e9290b4308af28e9",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000134.png",
+      "background_rgb": [
+        243,
+        243,
+        68
+      ],
+      "png_sha256": "38c49fa5c3c88834aca99113a520ef31d0d85b3a041176430766273268739dc1",
+      "png_bytes": 9842
+    },
+    {
+      "id": 1898000000135,
+      "name": "DJK Vilzing",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/DJK_Vilzing.svg",
+      "source_sha256": "1534ea21420eb516e73f3f58a79c1b835cc1c3e84f3e71d07a6c5f59cc149ca9",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000135.png",
+      "background_rgb": [
+        243,
+        218,
+        68
+      ],
+      "png_sha256": "34195913c597c5b9c6a348eb1b10722cbb7f588018d93962943f019251ef36ad",
+      "png_bytes": 9633
+    },
+    {
+      "id": 1898000000136,
+      "name": "FC Augsburg II",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/Augsburg.svg",
+      "source_sha256": "56fb15f452fffc107d696e4b198b343c1b32b2e0d172e816be1ee91e246e0567",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000136.png",
+      "background_rgb": [
+        193,
+        93,
+        93
+      ],
+      "png_sha256": "44bfed3ef32d9e92158a8be5a1ff1319c5d3b2c1bdbfb98e53685c0a1a92065f",
+      "png_bytes": 6676
+    },
+    {
+      "id": 1898000000137,
+      "name": "VfB Eichstätt",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/VfB_Eichst%C3%A4tt.svg",
+      "source_sha256": "b0db3641e5519f8fb407e09a9713bf919fb1f72d72937c7a4ad746ed3e416641",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000137.png",
+      "background_rgb": [
+        68,
+        143,
+        93
+      ],
+      "png_sha256": "5cf8bb98d29a893de10ac324434f78ee90b9852eb4431a4b2adf5dd836452496",
+      "png_bytes": 13825
+    },
+    {
+      "id": 1898000000138,
+      "name": "SV Wacker Burghausen",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/Wacker_Burghausen.svg",
+      "source_sha256": "fff13903cab63f8c253ad31a21d2a233561e2658aaf4acc511bb564279a56232",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000138.png",
+      "background_rgb": [
+        75,
+        101,
+        136
+      ],
+      "png_sha256": "a4d2fa0df53552ee3ab397920017f86e72d6d2e1e142a5ae5025f1a2987f91ca",
+      "png_bytes": 12924
+    },
+    {
+      "id": 1898000000139,
+      "name": "1. FC Nürnberg II",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/FC_N%C3%BCrnberg.svg",
+      "source_sha256": "1de439846a44bb22f22f766af6d45dc914883761747feae5c15a5e4417af7f7f",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000139.png",
+      "background_rgb": [
+        193,
+        68,
+        93
+      ],
+      "png_sha256": "c715ff4c2767c07079ebe494edd2f99e2da2126c19730eeb217fc06a2660ec49",
+      "png_bytes": 8688
+    },
+    {
+      "id": 1898000000140,
+      "name": "FC Bayern München II",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/Bayern_M%C3%BCnchen.svg",
+      "source_sha256": "131033ddb169ec1363c5b7174f39bf883255afa308f8cdf6a604d68e920b6f0f",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000140.png",
+      "background_rgb": [
+        243,
+        68,
+        93
+      ],
+      "png_sha256": "f01c247d6f1aaacfcdc38d32270e51e6393c0ae95acb02f2e48ce5f4e00c45ad",
+      "png_bytes": 13313
+    },
+    {
+      "id": 1898000000141,
+      "name": "SC Eltersdorf",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/SC_Eltersdorf.svg",
+      "source_sha256": "4cbafc3320d218867138605dd2eb96098c4adf092ddd46d2d333eb8af8509b2b",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000141.png",
+      "background_rgb": [
+        93,
+        168,
+        118
+      ],
+      "png_sha256": "c4938da93e6bbd0b4d9a98a9fdf823f3546718c0dae851c01a1b7a25d2da81d2",
+      "png_bytes": 14843
+    },
+    {
+      "id": 1898000000142,
+      "name": "TSV Schwaben Augsburg",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/TSV_Schwaben_Augsburg.svg",
+      "source_sha256": "0c1e62f278c5965310713138143ba0aadd8d221c991763e4c26402067b9425ab",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000142.png",
+      "background_rgb": [
+        168,
+        68,
+        168
+      ],
+      "png_sha256": "4458d00db0145c11a1c45f9d4c46734f96aed00510ab7bba41f20cc3378c598b",
+      "png_bytes": 7595
+    },
+    {
+      "id": 1898000000143,
+      "name": "1. FC Schweinfurt 05",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/1._FC_Schweinfurt_05.svg",
+      "source_sha256": "434647d44d71d5ebe1218a20141948ee5b4fe6f578f507cc105093e966c6b022",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000143.png",
+      "background_rgb": [
+        68,
+        168,
+        93
+      ],
+      "png_sha256": "0f4c17bee5396203629425a9dd96f3d17a58f6b5e7e63559d24f2c05c1e99d17",
+      "png_bytes": 6781
+    },
+    {
+      "id": 1898000000144,
+      "name": "SpVgg Greuther Fürth II",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/SpVgg_Greuther_F%C3%BCrth.svg",
+      "source_sha256": "4a6af0489555e09860e816f1aa2cb02a33dfb372dd01d35c795b842aa7bc1fac",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000144.png",
+      "background_rgb": [
+        93,
+        193,
+        118
+      ],
+      "png_sha256": "3bffc3978821fdcb492460b229c4c11149c8db83d5c0baf68f26a8c6885f0655",
+      "png_bytes": 9271
+    },
+    {
+      "id": 1898000000145,
+      "name": "SpVgg Ansbach",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/SpVgg_Ansbach_09.svg",
+      "source_sha256": "7c84f34a8ae64f4cabe1e65841bc67affe724752ba1a20f88266ea770d2072e1",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000145.png",
+      "background_rgb": [
+        68,
+        168,
+        93
+      ],
+      "png_sha256": "a3363385e131258cf860153ed89f5256b2f5ac267b7d6d6f2f34dae0a214d66e",
+      "png_bytes": 12144
+    },
+    {
+      "id": 1898000000146,
+      "name": "TSV Aubstadt",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/TSV_Aubstadt.svg",
+      "source_sha256": "a87c502fa81cdd9468e2bce6454747f43745c39ebe1ac2547c16f7b2bf67c15e",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000146.png",
+      "background_rgb": [
+        218,
+        68,
+        68
+      ],
+      "png_sha256": "81a4a377a789df16728ce9f9bb4cee99a78b9885d7fc2781dd9f83dd7a48f284",
+      "png_bytes": 10709
+    },
+    {
+      "id": 1898000000147,
+      "name": "TSV 1882 Landsberg",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/TSV_Landsberg.svg",
+      "source_sha256": "acbc608170219ee941fe039c717399f0a86f7d823321d16804364c022525f069",
+      "github_path": "docs/german-clubs-2026-27/v1/1898000000147.png",
+      "background_rgb": [
+        243,
+        68,
+        93
+      ],
+      "png_sha256": "d57b2b37bfb8682f21912ac09c033fe9f57c94c35345c15767e96f6da9d8d594",
+      "png_bytes": 11753
+    }
+  ]
+}
