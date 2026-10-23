@@ -85,7 +85,7 @@
       ],
       "background_basis": "source logo pixels",
       "sha256": "cc283c4a4df186370d76ae9504f0633407ad8357720420cff5e411082885e41d",
-      "original_sha256": "410c34f2bcb1335b53b28397cb21c6483d0a63302fba0cb9c81532ad5fc64779"
+      "original_sha256": "15b3270bf30823ffd450147301b7061310422a54e869fd1c41450dd30d0010ea"
     },
     {
       "id": 1905100000409,
@@ -204,20 +204,20 @@
     {
       "id": 1905100000404,
       "name": "Vitória Pico da Pedra",
-      "source": "https://www.leballonrond.fr/img/logos/equipas/4719_imgbank.png",
-      "error": "403 Client Error: Forbidden for url: https://www.leballonrond.fr/cookie_check.php"
+      "source": "https://cdn-img.zerozero.pt/img/logos/equipas/4719_imgbank.png",
+      "error": "404 Client Error: Not Found for url: https://cdn-img.zerozero.pt/img/logos/equipas/4719_imgbank.png"
     },
     {
       "id": 1905100000405,
       "name": "CD Santo António",
-      "source": "https://www.leballonrond.fr/img/logos/equipas/3650_imgbank_1712928682.png",
-      "error": "403 Client Error: Forbidden for url: https://www.leballonrond.fr/cookie_check.php"
+      "source": "https://cdn-img.zerozero.pt/img/logos/equipas/3650_imgbank_1712928682.png",
+      "error": "404 Client Error: Not Found for url: https://cdn-img.zerozero.pt/img/logos/equipas/3650_imgbank_1712928682.png"
     },
     {
       "id": 1905100000412,
       "name": "Bota Fogo",
-      "source": "https://www.leballonrond.fr/img/logos/equipas/4714_imgbank.png",
-      "error": "403 Client Error: Forbidden for url: https://www.leballonrond.fr/cookie_check.php"
+      "source": "https://cdn-img.zerozero.pt/img/logos/equipas/4714_imgbank.png",
+      "error": "404 Client Error: Not Found for url: https://cdn-img.zerozero.pt/img/logos/equipas/4714_imgbank.png"
     }
   ],
   "note": "True logos only; source identification pending per-club review"
