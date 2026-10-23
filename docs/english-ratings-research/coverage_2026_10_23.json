@@ -1,6 +1,6 @@
 {
   "all_clubs": 750,
-  "matched_clubs": 634,
+  "matched_clubs": 640,
   "groups": 35,
   "sources": [
     {
@@ -118,13 +118,11 @@
     {
       "division": "Northern Premier League Premier Division",
       "url": "https://www.footballwebpages.co.uk/northern-premier-league-premier-division/league-table",
-      "found": 21,
+      "found": 22,
       "expected": 22,
       "table_rows": 22,
       "error": null,
-      "unmatched_clubs": [
-        "Emley"
-      ],
+      "unmatched_clubs": [],
       "candidates": [
         [
           1,
@@ -232,13 +230,11 @@
     {
       "division": "Northern Premier League Division One East",
       "url": "https://www.footballwebpages.co.uk/northern-premier-league-east-division/league-table",
-      "found": 21,
+      "found": 22,
       "expected": 22,
       "table_rows": 22,
       "error": null,
-      "unmatched_clubs": [
-        "Consett"
-      ],
+      "unmatched_clubs": [],
       "candidates": [
         [
           1,
@@ -393,11 +389,11 @@
     },
     {
       "division": "Midland Football League Premier Division",
-      "url": null,
+      "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Midland_Football_League",
       "found": 0,
       "expected": 20,
       "table_rows": 0,
-      "error": "League not on FWP navigation",
+      "error": "No matching table values",
       "unmatched_clubs": [
         "AFC Wolverhampton City",
         "Abbey Hulton United",
@@ -430,11 +426,11 @@
     },
     {
       "division": "North West Counties League Premier Division",
-      "url": null,
+      "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_North_West_Counties_Football_League",
       "found": 0,
       "expected": 20,
       "table_rows": 0,
-      "error": "League not on FWP navigation",
+      "error": "No matching table values",
       "unmatched_clubs": [
         "Abbey Hey",
         "AFC Liverpool",
@@ -468,15 +464,11 @@
     {
       "division": "Northern Counties East League Premier Division",
       "url": "https://www.footballwebpages.co.uk/northern-counties-east-league-premier-division/league-table",
-      "found": 17,
+      "found": 20,
       "expected": 20,
       "table_rows": 20,
       "error": null,
-      "unmatched_clubs": [
-        "Campion",
-        "Pickering Town Community",
-        "Thackley Association"
-      ],
+      "unmatched_clubs": [],
       "candidates": [
         [
           0.8363636363636363,
@@ -505,11 +497,11 @@
     },
     {
       "division": "Southern Combination League Premier Division",
-      "url": null,
+      "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Southern_Combination_Football_League",
       "found": 0,
       "expected": 20,
       "table_rows": 0,
-      "error": "League not on FWP navigation",
+      "error": "No matching table values",
       "unmatched_clubs": [
         "AFC Varndeanians",
         "Bexhill United",
@@ -599,13 +591,12 @@
     {
       "division": "United Counties League Premier Division South",
       "url": "https://www.footballwebpages.co.uk/united-counties-league-premier-division-south/league-table",
-      "found": 18,
+      "found": 19,
       "expected": 20,
       "table_rows": 19,
       "error": null,
       "unmatched_clubs": [
-        "Bugbrooke St Michael",
-        "Coton Green Saturday"
+        "Bugbrooke St Michael"
       ],
       "candidates": [
         [
@@ -617,11 +608,11 @@
     },
     {
       "division": "Wessex League Premier Division",
-      "url": null,
+      "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Wessex_Football_League",
       "found": 0,
       "expected": 22,
       "table_rows": 0,
-      "error": "League not on FWP navigation",
+      "error": "No matching table values",
       "unmatched_clubs": [
         "Andover New Street",
         "Baffins Milton Rovers",
@@ -656,11 +647,11 @@
     },
     {
       "division": "Western League Premier Division",
-      "url": null,
+      "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Western_Football_League",
       "found": 0,
       "expected": 20,
       "table_rows": 0,
-      "error": "League not on FWP navigation",
+      "error": "No matching table values",
       "unmatched_clubs": [
         "Bovey Tracey",
         "Bradford Town",
