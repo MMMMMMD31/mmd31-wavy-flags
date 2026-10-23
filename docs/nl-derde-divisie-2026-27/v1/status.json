@@ -1,0 +1,438 @@
+{
+  "count": 36,
+  "verified": 36,
+  "assets": [
+    {
+      "id": 1895100000074,
+      "name": "ACV",
+      "group": "A",
+      "status": "ok",
+      "source": "https://media.api-sports.io/football/teams/3911.png",
+      "background": [
+        218,
+        68,
+        68
+      ]
+    },
+    {
+      "id": 1895100000075,
+      "name": "ADO '20",
+      "group": "A",
+      "status": "ok",
+      "source": "https://derde-divisie.nl/wp-content/uploads/2025/08/3886.png.webp",
+      "background": [
+        68,
+        118,
+        143
+      ]
+    },
+    {
+      "id": 1895100000076,
+      "name": "Dovo",
+      "group": "A",
+      "status": "ok",
+      "source": "https://derde-divisie.nl/wp-content/uploads/2024/12/1234.png.webp",
+      "background": [
+        243,
+        68,
+        68
+      ]
+    },
+    {
+      "id": 1895100000077,
+      "name": "DVS 33 Ermelo",
+      "group": "A",
+      "status": "ok",
+      "source": "https://derde-divisie.nl/wp-content/uploads/2024/12/1244.png.webp",
+      "background": [
+        243,
+        218,
+        68
+      ]
+    },
+    {
+      "id": 1895100000078,
+      "name": "Eemdijk",
+      "group": "A",
+      "status": "ok",
+      "source": "https://derde-divisie.nl/wp-content/uploads/2024/12/1235.png.webp",
+      "background": [
+        68,
+        168,
+        118
+      ]
+    },
+    {
+      "id": 1895100000079,
+      "name": "Excelsior '31",
+      "group": "A",
+      "status": "ok",
+      "source": "https://derde-divisie.nl/wp-content/uploads/2024/12/6263.png.webp",
+      "background": [
+        243,
+        93,
+        93
+      ]
+    },
+    {
+      "id": 1895100000080,
+      "name": "Harkemase Boys",
+      "group": "A",
+      "status": "ok",
+      "source": "https://derde-divisie.nl/wp-content/uploads/2024/12/1258.png.webp",
+      "background": [
+        243,
+        68,
+        93
+      ]
+    },
+    {
+      "id": 1895100000081,
+      "name": "Hercules",
+      "group": "A",
+      "status": "ok",
+      "source": "https://derde-divisie.nl/wp-content/uploads/2024/12/1264.png.webp",
+      "background": [
+        93,
+        93,
+        143
+      ]
+    },
+    {
+      "id": 1895100000082,
+      "name": "Hollandia",
+      "group": "A",
+      "status": "ok",
+      "source": "https://media.api-sports.io/football/teams/14234.png",
+      "background": [
+        243,
+        68,
+        93
+      ]
+    },
+    {
+      "id": 1895100000083,
+      "name": "Hoogeveen",
+      "group": "A",
+      "status": "ok",
+      "source": "https://derde-divisie.nl/wp-content/uploads/2025/08/14235.png.webp",
+      "background": [
+        68,
+        118,
+        168
+      ]
+    },
+    {
+      "id": 1895100000084,
+      "name": "Purmersteijn",
+      "group": "A",
+      "status": "ok",
+      "source": "https://media.api-sports.io/football/teams/3920.png",
+      "background": [
+        143,
+        168,
+        193
+      ]
+    },
+    {
+      "id": 1895100000085,
+      "name": "SC Genemuiden",
+      "group": "A",
+      "status": "ok",
+      "source": "https://derde-divisie.nl/wp-content/uploads/2024/12/1273.png.webp",
+      "background": [
+        68,
+        168,
+        118
+      ]
+    },
+    {
+      "id": 1895100000086,
+      "name": "VV Scherpenzeel",
+      "group": "A",
+      "status": "ok",
+      "source": "https://derde-divisie.nl/wp-content/uploads/2025/08/14241.png.webp",
+      "background": [
+        218,
+        168,
+        93
+      ]
+    },
+    {
+      "id": 1895100000087,
+      "name": "Sparta Nijkerk",
+      "group": "A",
+      "status": "ok",
+      "source": "https://derde-divisie.nl/wp-content/uploads/2024/12/1274.png.webp",
+      "background": [
+        243,
+        168,
+        68
+      ]
+    },
+    {
+      "id": 1895100000088,
+      "name": "Sportlust '46",
+      "group": "A",
+      "status": "ok",
+      "source": "https://derde-divisie.nl/wp-content/uploads/2024/12/3904.png.webp",
+      "background": [
+        218,
+        93,
+        93
+      ]
+    },
+    {
+      "id": 1895100000089,
+      "name": "Staphorst",
+      "group": "A",
+      "status": "ok",
+      "source": "https://derde-divisie.nl/wp-content/uploads/2025/08/1239.png.webp",
+      "background": [
+        243,
+        243,
+        93
+      ]
+    },
+    {
+      "id": 1895100000090,
+      "name": "SVZW",
+      "group": "A",
+      "status": "ok",
+      "source": "https://media.api-sports.io/football/teams/3936.png",
+      "background": [
+        103,
+        128,
+        169
+      ]
+    },
+    {
+      "id": 1895100000091,
+      "name": "TEC",
+      "group": "A",
+      "status": "ok",
+      "source": "https://derde-divisie.nl/wp-content/uploads/2024/12/1255.png.webp",
+      "background": [
+        243,
+        243,
+        218
+      ]
+    },
+    {
+      "id": 1895100000092,
+      "name": "Achilles Veen",
+      "group": "B",
+      "status": "ok",
+      "source": "https://media.api-sports.io/football/teams/1282.png",
+      "background": [
+        143,
+        193,
+        118
+      ]
+    },
+    {
+      "id": 1895100000093,
+      "name": "Blauw Geel",
+      "group": "B",
+      "status": "ok",
+      "source": "https://derde-divisie.nl/wp-content/uploads/2024/12/1263.png.webp",
+      "background": [
+        243,
+        168,
+        68
+      ]
+    },
+    {
+      "id": 1895100000094,
+      "name": "Dongen",
+      "group": "B",
+      "status": "ok",
+      "source": "https://media.api-sports.io/football/teams/1285.png",
+      "background": [
+        243,
+        218,
+        93
+      ]
+    },
+    {
+      "id": 1895100000095,
+      "name": "EVV",
+      "group": "B",
+      "status": "ok",
+      "source": "https://media.api-sports.io/football/teams/1286.png",
+      "background": [
+        68,
+        168,
+        218
+      ]
+    },
+    {
+      "id": 1895100000096,
+      "name": "Excelsior Maassluis",
+      "group": "B",
+      "status": "ok",
+      "source": "https://media.api-sports.io/football/teams/17129.png",
+      "background": [
+        93,
+        93,
+        143
+      ]
+    },
+    {
+      "id": 1895100000097,
+      "name": "FC Lisse",
+      "group": "B",
+      "status": "ok",
+      "source": "https://derde-divisie.nl/wp-content/uploads/2024/12/1257.png.webp",
+      "background": [
+        243,
+        243,
+        68
+      ]
+    },
+    {
+      "id": 1895100000098,
+      "name": "Gemert",
+      "group": "B",
+      "status": "ok",
+      "source": "https://derde-divisie.nl/wp-content/uploads/2024/12/1230.png.webp",
+      "background": [
+        103,
+        128,
+        169
+      ]
+    },
+    {
+      "id": 1895100000099,
+      "name": "GOES",
+      "group": "B",
+      "status": "ok",
+      "source": "https://derde-divisie.nl/wp-content/uploads/2024/12/3892.png",
+      "background": [
+        243,
+        68,
+        93
+      ]
+    },
+    {
+      "id": 1895100000100,
+      "name": "Groene Ster",
+      "group": "B",
+      "status": "ok",
+      "source": "https://derde-divisie.nl/wp-content/uploads/2025/08/1236.png.webp",
+      "background": [
+        68,
+        143,
+        93
+      ]
+    },
+    {
+      "id": 1895100000101,
+      "name": "Noordwijk",
+      "group": "B",
+      "status": "ok",
+      "source": "https://derde-divisie.nl/wp-content/uploads/2025/08/1247.png.webp",
+      "background": [
+        243,
+        93,
+        118
+      ]
+    },
+    {
+      "id": 1895100000102,
+      "name": "Roosendaal",
+      "group": "B",
+      "status": "ok",
+      "source": "https://derde-divisie.nl/wp-content/uploads/2025/08/19266.png.webp",
+      "background": [
+        68,
+        118,
+        168
+      ]
+    },
+    {
+      "id": 1895100000103,
+      "name": "Rijnvogels",
+      "group": "B",
+      "status": "ok",
+      "source": "https://derde-divisie.nl/wp-content/uploads/2024/12/1288.png",
+      "background": [
+        243,
+        68,
+        93
+      ]
+    },
+    {
+      "id": 1895100000104,
+      "name": "Poortugaal",
+      "group": "B",
+      "status": "ok",
+      "source": "https://media.api-sports.io/football/teams/24634.png",
+      "background": [
+        68,
+        118,
+        168
+      ]
+    },
+    {
+      "id": 1895100000105,
+      "name": "TOGB",
+      "group": "B",
+      "status": "ok",
+      "source": "https://derde-divisie.nl/wp-content/uploads/2024/12/19739.png.webp",
+      "background": [
+        243,
+        218,
+        68
+      ]
+    },
+    {
+      "id": 1895100000106,
+      "name": "UDI '19",
+      "group": "B",
+      "status": "ok",
+      "source": "https://derde-divisie.nl/wp-content/uploads/2025/08/3938.png.webp",
+      "background": [
+        68,
+        93,
+        168
+      ]
+    },
+    {
+      "id": 1895100000107,
+      "name": "UNA",
+      "group": "B",
+      "status": "ok",
+      "source": "https://derde-divisie.nl/wp-content/uploads/2024/12/1284.png.webp",
+      "background": [
+        243,
+        243,
+        68
+      ]
+    },
+    {
+      "id": 1895100000108,
+      "name": "Vvsb",
+      "group": "B",
+      "status": "ok",
+      "source": "https://derde-divisie.nl/wp-content/uploads/2024/12/1251.png.webp",
+      "background": [
+        93,
+        93,
+        168
+      ]
+    },
+    {
+      "id": 1895100000109,
+      "name": "Zwaluwen",
+      "group": "B",
+      "status": "ok",
+      "source": "https://derde-divisie.nl/wp-content/uploads/2025/08/1275.png.webp",
+      "background": [
+        103,
+        128,
+        169
+      ]
+    }
+  ]
+}
