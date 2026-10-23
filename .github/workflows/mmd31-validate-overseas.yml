@@ -15,7 +15,7 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: {python-version: '3.11'}
-      - run: python -m pip install pillow
+      - run: python -m pip install pillow imagehash numpy
       - run: python scripts/outremer/validate_published_overseas.py
       - name: Commit 326-club audit
         run: |
