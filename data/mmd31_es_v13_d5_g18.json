@@ -26,13 +26,20 @@
       "id": 1884500100480,
       "name": "Guadalajara B",
       "group": 18,
-      "status": "ÉCUSSON_RÉEL_NON_VÉRIFIÉ",
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
       "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-18/clasificacion",
       "source_club": "Guadalajara B",
-      "source_image": "/crests/guadalajara-ii-af40791.png",
+      "source_image": "https://www.resultadosrfef.es/crests/guadalajara-ii-af40791.png",
       "source_team_page": "https://www.resultadosrfef.es/equipo/guadalajara-ii-af40791",
       "match_score": 100,
-      "reason": "Invalid URL '/crests/guadalajara-ii-af40791.png': No scheme supplied. Perhaps you meant https:///crests/guadalajara-ii-af40791.png?"
+      "background_rgb": [
+        136,
+        114,
+        180
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100480.png",
+      "source_sha256": "ffcd9ee1c3b6d76a125fa124f3e38059aad5f029e5a3e1c12e51ef0c65f250b0",
+      "image_sha256": "1de0c44dfdf004378bd26d013cde96a1b8e9bdc8e32c8431aa949c550220ab13"
     },
     {
       "id": 1884500100481,
@@ -266,13 +273,20 @@
       "id": 1884500100493,
       "name": "Villa",
       "group": 18,
-      "status": "ÉCUSSON_RÉEL_NON_VÉRIFIÉ",
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
       "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-18/clasificacion",
       "source_club": "CD Villa",
-      "source_image": "/crests/cd-villa-af44159.png",
+      "source_image": "https://www.resultadosrfef.es/crests/cd-villa-af44159.png",
       "source_team_page": "https://www.resultadosrfef.es/equipo/cd-villa-af44159",
       "match_score": 100,
-      "reason": "Invalid URL '/crests/cd-villa-af44159.png': No scheme supplied. Perhaps you meant https:///crests/cd-villa-af44159.png?"
+      "background_rgb": [
+        223,
+        114,
+        92
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100493.png",
+      "source_sha256": "6e39a475fec6b33550659304d0d7c6b62f365ab395e490edd52b5ce64931b7c3",
+      "image_sha256": "c72a8c527a88663692049e3397f1b90a09290722c170f2b447985092351f66ad"
     },
     {
       "id": 1884500100494,

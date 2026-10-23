@@ -159,25 +159,39 @@
       "id": 1884500100433,
       "name": "Doneztebe",
       "group": 15,
-      "status": "ÉCUSSON_RÉEL_NON_VÉRIFIÉ",
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
       "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-15/clasificacion",
       "source_club": "Doneztebe FT",
-      "source_image": "/crests/doneztebe-ft-af44157.png",
+      "source_image": "https://www.resultadosrfef.es/crests/doneztebe-ft-af44157.png",
       "source_team_page": "https://www.resultadosrfef.es/equipo/doneztebe-ft-af44157",
       "match_score": 90.0,
-      "reason": "Invalid URL '/crests/doneztebe-ft-af44157.png': No scheme supplied. Perhaps you meant https:///crests/doneztebe-ft-af44157.png?"
+      "background_rgb": [
+        245,
+        114,
+        114
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100433.png",
+      "source_sha256": "aead7be2e63c6e6ac702b81a453e3c05a0a14e97e461708a917335e552bd29d7",
+      "image_sha256": "254af2ca3ba6bfa2adacdaaf35ef33e4943d6f794e1a0152be1ebd698ef0c18f"
     },
     {
       "id": 1884500100434,
       "name": "Gazte Berriak",
       "group": 15,
-      "status": "ÉCUSSON_RÉEL_NON_VÉRIFIÉ",
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
       "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-15/clasificacion",
       "source_club": "Gazte Berriak",
-      "source_image": "/crests/gazte-berriak-af44158.png",
+      "source_image": "https://www.resultadosrfef.es/crests/gazte-berriak-af44158.png",
       "source_team_page": "https://www.resultadosrfef.es/equipo/gazte-berriak-af44158",
       "match_score": 100,
-      "reason": "Invalid URL '/crests/gazte-berriak-af44158.png': No scheme supplied. Perhaps you meant https:///crests/gazte-berriak-af44158.png?"
+      "background_rgb": [
+        158,
+        201,
+        114
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100434.png",
+      "source_sha256": "3c9328f371be65559573db88e2fedc1f7913e18031b3b70eb6ad7d530d7364c5",
+      "image_sha256": "812ed7abf11409d3c2b519f70c733e3a116d741809fb43b1a321df3ca195468a"
     },
     {
       "id": 1884500100435,

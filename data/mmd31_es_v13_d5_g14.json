@@ -45,13 +45,20 @@
       "id": 1884500100409,
       "name": "Cabeza del Buey",
       "group": 14,
-      "status": "ÉCUSSON_RÉEL_NON_VÉRIFIÉ",
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
       "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-14/clasificacion",
       "source_club": "Cabeza del Buey",
-      "source_image": "/crests/cabeza-del-buey-af40784.png",
+      "source_image": "https://www.resultadosrfef.es/crests/cabeza-del-buey-af40784.png",
       "source_team_page": "https://www.resultadosrfef.es/equipo/cabeza-del-buey-af40784",
       "match_score": 100,
-      "reason": "Invalid URL '/crests/cabeza-del-buey-af40784.png': No scheme supplied. Perhaps you meant https:///crests/cabeza-del-buey-af40784.png?"
+      "background_rgb": [
+        245,
+        245,
+        92
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100409.png",
+      "source_sha256": "a4c0af631fdc2b7e4283d0777eca664c5d807a1dadddb2b28b58c5517a37c6e5",
+      "image_sha256": "b227b29b2ca267701677d5220da15429e43ac3600ec57a5bb99d5557ce6302e0"
     },
     {
       "id": 1884500100410,
@@ -95,13 +102,20 @@
       "id": 1884500100412,
       "name": "Guadiana",
       "group": 14,
-      "status": "ÉCUSSON_RÉEL_NON_VÉRIFIÉ",
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
       "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-14/clasificacion",
       "source_club": "Guadiana",
-      "source_image": "/crests/guadiana-af44067.png",
+      "source_image": "https://www.resultadosrfef.es/crests/guadiana-af44067.png",
       "source_team_page": "https://www.resultadosrfef.es/equipo/guadiana-af44067",
       "match_score": 100,
-      "reason": "Invalid URL '/crests/guadiana-af44067.png': No scheme supplied. Perhaps you meant https:///crests/guadiana-af44067.png?"
+      "background_rgb": [
+        223,
+        92,
+        92
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100412.png",
+      "source_sha256": "7247aae1db6dc7aef4be708ce95912a4cf94bd2f16df7bb835d5a62ac3e5ccfb",
+      "image_sha256": "8bc412939406d6fe15835639ceacffdee46d5489be7fe98b61f3c59e3a78f9cf"
     },
     {
       "id": 1884500100413,
@@ -229,13 +243,20 @@
       "id": 1884500100420,
       "name": "Quintana",
       "group": 14,
-      "status": "ÉCUSSON_RÉEL_NON_VÉRIFIÉ",
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
       "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-14/clasificacion",
       "source_club": "Quintana",
-      "source_image": "/crests/quintana-af44068.png",
+      "source_image": "https://www.resultadosrfef.es/crests/quintana-af44068.png",
       "source_team_page": "https://www.resultadosrfef.es/equipo/quintana-af44068",
       "match_score": 100,
-      "reason": "Invalid URL '/crests/quintana-af44068.png': No scheme supplied. Perhaps you meant https:///crests/quintana-af44068.png?"
+      "background_rgb": [
+        223,
+        201,
+        136
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100420.png",
+      "source_sha256": "bfd9a0e9a5aa4ce251c2b819dda69d738bd8a1aa5c973ef439d376d6d11f420d",
+      "image_sha256": "fc15efa04bcf295c0f0d5155c8c719e4a6e8a1a2a25bb850239556b014b42e16"
     },
     {
       "id": 1884500100421,
@@ -298,13 +319,20 @@
       "id": 1884500100424,
       "name": "Zafra",
       "group": 14,
-      "status": "ÉCUSSON_RÉEL_NON_VÉRIFIÉ",
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
       "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-14/clasificacion",
       "source_club": "CD Zafra",
-      "source_image": "/crests/cd-zafra-af44069.png",
+      "source_image": "https://www.resultadosrfef.es/crests/cd-zafra-af44069.png",
       "source_team_page": "https://www.resultadosrfef.es/equipo/cd-zafra-af44069",
       "match_score": 100,
-      "reason": "Invalid URL '/crests/cd-zafra-af44069.png': No scheme supplied. Perhaps you meant https:///crests/cd-zafra-af44069.png?"
+      "background_rgb": [
+        92,
+        92,
+        245
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100424.png",
+      "source_sha256": "55040a75308e7918e1956865e3a3825fa5c8810f3c08223bc7e0a1ea5deb1674",
+      "image_sha256": "8930bca2a5ccfe7a5bc359df1763bc9fd071f3b5cf249799a0a8641be184ece8"
     }
   ]
 }

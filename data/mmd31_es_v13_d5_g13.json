@@ -110,13 +110,20 @@
       "id": 1884500100395,
       "name": "Bullas Deportivo",
       "group": 13,
-      "status": "ÉCUSSON_RÉEL_NON_VÉRIFIÉ",
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
       "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-13/clasificacion",
       "source_club": "Bullas Deportivo",
-      "source_image": "/crests/bullas-deportivo-af44170.png",
+      "source_image": "https://www.resultadosrfef.es/crests/bullas-deportivo-af44170.png",
       "source_team_page": "https://www.resultadosrfef.es/equipo/bullas-deportivo-af44170",
       "match_score": 100,
-      "reason": "Invalid URL '/crests/bullas-deportivo-af44170.png': No scheme supplied. Perhaps you meant https:///crests/bullas-deportivo-af44170.png?"
+      "background_rgb": [
+        223,
+        92,
+        92
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100395.png",
+      "source_sha256": "fb6044ad7c38945ebc85cffcfb5fae7ccd78d55c5ef9a8f7d6a5b30d26f9445e",
+      "image_sha256": "fdf42f5a8138763a48a4ba2a8c6906b63256ce48707fa6d45ba4ddd466892da6"
     },
     {
       "id": 1884500100396,
@@ -255,13 +262,20 @@
       "id": 1884500100403,
       "name": "San Javier",
       "group": 13,
-      "status": "ÉCUSSON_RÉEL_NON_VÉRIFIÉ",
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
       "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-13/clasificacion",
       "source_club": "San Javier",
-      "source_image": "/crests/san-javier-af44171.png",
+      "source_image": "https://www.resultadosrfef.es/crests/san-javier-af44171.png",
       "source_team_page": "https://www.resultadosrfef.es/equipo/san-javier-af44171",
       "match_score": 100,
-      "reason": "Invalid URL '/crests/san-javier-af44171.png': No scheme supplied. Perhaps you meant https:///crests/san-javier-af44171.png?"
+      "background_rgb": [
+        223,
+        245,
+        245
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100403.png",
+      "source_sha256": "ddbee276f91c5e2d8dc046820b592d2ea662af5b3e0aef1a9cc5e7159e09588f",
+      "image_sha256": "deb672b2f5ac3da52e15d31c090a5cc42fd1017b3872226657f4dea4c1762d89"
     },
     {
       "id": 1884500100404,

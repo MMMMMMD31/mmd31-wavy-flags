@@ -197,9 +197,20 @@
       "id": 1884500100453,
       "name": "Haro",
       "group": 16,
-      "status": "ÉCUSSON_RÉEL_NON_VÉRIFIÉ",
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
       "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-16/clasificacion",
-      "reason": "image missing or name not confidently matched"
+      "source_club": "Haro Deportivo",
+      "source_image": "https://apiv3.apifootball.com/badges/7236_haro-deportivo.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/haro-deportivo-af7236",
+      "match_score": 100,
+      "background_rgb": [
+        245,
+        92,
+        92
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100453.png",
+      "source_sha256": "aae4e9fe4dfb423522ea305a9cec4270505203f51daaeb650aa743e38f422371",
+      "image_sha256": "e5c5586fbd129bc3db3c38d92402d226c3ab914f80a886d564310d3be4ece773"
     },
     {
       "id": 1884500100454,
