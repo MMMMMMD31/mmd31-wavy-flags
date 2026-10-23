@@ -1,0 +1,1054 @@
+{
+  "requested": 55,
+  "published": 55,
+  "missing": 0,
+  "new_images": [
+    {
+      "id": 1793400000272,
+      "name": "Westfield",
+      "status": "SOURCE_IMAGE_VERIFIED_AND_PUBLISHED",
+      "source_type": "individual_verified",
+      "source_url": "https://images.pitchero.com/club_logos/87203/E1cAHyDYSLqHPHotRSCV_Westfield-FCLogoresize.png",
+      "origin_dimensions": [
+        576,
+        576
+      ],
+      "background_rgb": [
+        246,
+        246,
+        107
+      ],
+      "path": "docs/english-clubs-2026-27/remaining-55-v11/1793400000272.png",
+      "bytes": 9337,
+      "sha256": "b9a029eb3f5d10fb7c0088ac6267a79d6f1e4813cd67c09293fb0aa07d83a5db"
+    },
+    {
+      "id": 1793400000274,
+      "name": "Windsor & Eton",
+      "status": "SOURCE_IMAGE_VERIFIED_AND_PUBLISHED",
+      "source_type": "TheSportsDB_male_club",
+      "source_url": "https://r2.thesportsdb.com/images/media/team/badge/2zdytg1754330059.png",
+      "origin_dimensions": [
+        512,
+        512
+      ],
+      "background_rgb": [
+        107,
+        166,
+        146
+      ],
+      "path": "docs/english-clubs-2026-27/remaining-55-v11/1793400000274.png",
+      "bytes": 13711,
+      "sha256": "032d1a86e6d5b65ba7f8b0619cd8cc6070e0d6734a837537ea6f908ae60f506c"
+    },
+    {
+      "id": 1793400000282,
+      "name": "Fakenham Town",
+      "status": "SOURCE_IMAGE_VERIFIED_AND_PUBLISHED",
+      "source_type": "TheSportsDB_male_club",
+      "source_url": "https://r2.thesportsdb.com/images/media/team/badge/mnzd651731974817.png",
+      "origin_dimensions": [
+        512,
+        512
+      ],
+      "background_rgb": [
+        131,
+        150,
+        168
+      ],
+      "path": "docs/english-clubs-2026-27/remaining-55-v11/1793400000282.png",
+      "bytes": 6268,
+      "sha256": "ac6ac1e1a019416730e6d7dc492cf8475a79f0285364fbf3f85c73b24c06f32f"
+    },
+    {
+      "id": 1793400000316,
+      "name": "South Park (Reigate)",
+      "status": "SOURCE_IMAGE_VERIFIED_AND_PUBLISHED",
+      "source_type": "individual_verified",
+      "source_url": "https://files.ekmcdn.com/sportsscene/images/south-park-reigate-fc-1087-c.jpg?h=400&v=296F06F4-6DF1-478E-A76B-8845B27C935C&w=400",
+      "origin_dimensions": [
+        400,
+        400
+      ],
+      "background_rgb": [
+        246,
+        107,
+        127
+      ],
+      "path": "docs/english-clubs-2026-27/remaining-55-v11/1793400000316.png",
+      "bytes": 15643,
+      "sha256": "202bb6452abc8668a26bd625eab96e5064aef9209d3003903b47c83286d9eb5b"
+    },
+    {
+      "id": 1793400000317,
+      "name": "Steyning Town",
+      "status": "SOURCE_IMAGE_VERIFIED_AND_PUBLISHED",
+      "source_type": "TheSportsDB_male_club",
+      "source_url": "https://r2.thesportsdb.com/images/media/team/badge/l1mlqi1720833525.png",
+      "origin_dimensions": [
+        512,
+        512
+      ],
+      "background_rgb": [
+        246,
+        107,
+        107
+      ],
+      "path": "docs/english-clubs-2026-27/remaining-55-v11/1793400000317.png",
+      "bytes": 11497,
+      "sha256": "0404d70ff47a05aafcbcb6fcba01364af8b1e9bbffc9075993f3e4a1e6c9d3af"
+    },
+    {
+      "id": 1793400000320,
+      "name": "Beverley Town",
+      "status": "SOURCE_IMAGE_VERIFIED_AND_PUBLISHED",
+      "source_type": "TheSportsDB_male_club",
+      "source_url": "https://r2.thesportsdb.com/images/media/team/badge/vvichc1720762211.png",
+      "origin_dimensions": [
+        512,
+        512
+      ],
+      "background_rgb": [
+        146,
+        186,
+        226
+      ],
+      "path": "docs/english-clubs-2026-27/remaining-55-v11/1793400000320.png",
+      "bytes": 8851,
+      "sha256": "d1b2760fbca2f7877b827b0bd9752f2ad8344457cd57f794ab16659a2f6e3ab0"
+    },
+    {
+      "id": 1793400000337,
+      "name": "Pontefract Collieries",
+      "status": "SOURCE_IMAGE_VERIFIED_AND_PUBLISHED",
+      "source_type": "TheSportsDB_male_club",
+      "source_url": "https://r2.thesportsdb.com/images/media/team/badge/k6c3iy1745194741.png",
+      "origin_dimensions": [
+        512,
+        512
+      ],
+      "background_rgb": [
+        206,
+        107,
+        107
+      ],
+      "path": "docs/english-clubs-2026-27/remaining-55-v11/1793400000337.png",
+      "bytes": 13680,
+      "sha256": "9b54d46da854ea616cc6f636cc231b6f8e0b814d1b84f7fb1bf2c429b2ff72ac"
+    },
+    {
+      "id": 1793400000368,
+      "name": "Boldmere St Michael's",
+      "status": "SOURCE_IMAGE_VERIFIED_AND_PUBLISHED",
+      "source_type": "TheSportsDB_male_club",
+      "source_url": "https://r2.thesportsdb.com/images/media/team/badge/p2gdyi1701146435.png",
+      "origin_dimensions": [
+        512,
+        512
+      ],
+      "background_rgb": [
+        246,
+        107,
+        107
+      ],
+      "path": "docs/english-clubs-2026-27/remaining-55-v11/1793400000368.png",
+      "bytes": 14600,
+      "sha256": "486684d85fd90cc54422b5651ad8f22fecb9201a32b00bc49da41b59ecf4424c"
+    },
+    {
+      "id": 1793400000372,
+      "name": "Coleshill Town",
+      "status": "SOURCE_IMAGE_VERIFIED_AND_PUBLISHED",
+      "source_type": "TheSportsDB_male_club",
+      "source_url": "https://r2.thesportsdb.com/images/media/team/badge/sdv3m51726379839.png",
+      "origin_dimensions": [
+        512,
+        512
+      ],
+      "background_rgb": [
+        206,
+        127,
+        107
+      ],
+      "path": "docs/english-clubs-2026-27/remaining-55-v11/1793400000372.png",
+      "bytes": 9060,
+      "sha256": "f6839ba5ec188498c9e9f0e1bfec9b5c0b96769b4e8285cc9c42515dd2cfa09e"
+    },
+    {
+      "id": 1793400000435,
+      "name": "Easington Sports",
+      "status": "SOURCE_IMAGE_VERIFIED_AND_PUBLISHED",
+      "source_type": "TheSportsDB_male_club",
+      "source_url": "https://r2.thesportsdb.com/images/media/team/badge/et380q1722147984.png",
+      "origin_dimensions": [
+        512,
+        512
+      ],
+      "background_rgb": [
+        246,
+        107,
+        107
+      ],
+      "path": "docs/english-clubs-2026-27/remaining-55-v11/1793400000435.png",
+      "bytes": 11285,
+      "sha256": "24f4d061cd0f28b0fe1397aaf290b7c92673671e8b2fd365ff2d2898bf15bbd5"
+    },
+    {
+      "id": 1793400000442,
+      "name": "Northwood",
+      "status": "SOURCE_IMAGE_VERIFIED_AND_PUBLISHED",
+      "source_type": "FootballWebPages_league_badge",
+      "source_url": "https://www.footballwebpages.co.uk/graphics/teams/64/northwood.png",
+      "origin_dimensions": [
+        54,
+        64
+      ],
+      "background_rgb": [
+        146,
+        166,
+        127
+      ],
+      "path": "docs/english-clubs-2026-27/remaining-55-v11/1793400000442.png",
+      "bytes": 5824,
+      "sha256": "a328a499508738690fc0d89be7a9edbdc5ffcd1cffbee6eb0cc185976916e9f3"
+    },
+    {
+      "id": 1793400000443,
+      "name": "Penn & Tylers Green",
+      "status": "SOURCE_IMAGE_VERIFIED_AND_PUBLISHED",
+      "source_type": "FootballWebPages_league_badge",
+      "source_url": "https://www.footballwebpages.co.uk/graphics/teams/64/penn-and-tylers-green.png",
+      "origin_dimensions": [
+        64,
+        64
+      ],
+      "background_rgb": [
+        107,
+        146,
+        206
+      ],
+      "path": "docs/english-clubs-2026-27/remaining-55-v11/1793400000443.png",
+      "bytes": 8128,
+      "sha256": "0fc9ee30fdd0dc7d484d7420eb1edc0525b9d059da7320a92b9856bc0f0a7016"
+    },
+    {
+      "id": 1793400000465,
+      "name": "Tadley Calleva",
+      "status": "SOURCE_IMAGE_VERIFIED_AND_PUBLISHED",
+      "source_type": "FootballWebPages_league_badge",
+      "source_url": "https://www.footballwebpages.co.uk/graphics/teams/64/tadley-calleva.png",
+      "origin_dimensions": [
+        52,
+        64
+      ],
+      "background_rgb": [
+        186,
+        166,
+        107
+      ],
+      "path": "docs/english-clubs-2026-27/remaining-55-v11/1793400000465.png",
+      "bytes": 5843,
+      "sha256": "c45685c7d59fba50d66c24517dd900c9d70804e15bf57b6979370507c6759819"
+    },
+    {
+      "id": 1793400000468,
+      "name": "Yateley United",
+      "status": "SOURCE_IMAGE_VERIFIED_AND_PUBLISHED",
+      "source_type": "FootballWebPages_league_badge",
+      "source_url": "https://www.footballwebpages.co.uk/graphics/teams/64/yateley-united.png",
+      "origin_dimensions": [
+        55,
+        64
+      ],
+      "background_rgb": [
+        246,
+        166,
+        107
+      ],
+      "path": "docs/english-clubs-2026-27/remaining-55-v11/1793400000468.png",
+      "bytes": 5066,
+      "sha256": "a1e4983066f03d593263e784e2691c1a3dfdbe9d4391f557194d16bcc4064710"
+    },
+    {
+      "id": 1793400000469,
+      "name": "Brantham Athletic",
+      "status": "SOURCE_IMAGE_VERIFIED_AND_PUBLISHED",
+      "source_type": "FootballWebPages_league_badge",
+      "source_url": "https://www.footballwebpages.co.uk/graphics/teams/64/brantham-athletic.png",
+      "origin_dimensions": [
+        49,
+        64
+      ],
+      "background_rgb": [
+        107,
+        127,
+        166
+      ],
+      "path": "docs/english-clubs-2026-27/remaining-55-v11/1793400000469.png",
+      "bytes": 5677,
+      "sha256": "b014c1d639ad992afb6c802188fb699a9a8b4c8af2ca5f2e0b495bc19bb2e5b2"
+    },
+    {
+      "id": 1793400000473,
+      "name": "Ely City",
+      "status": "SOURCE_IMAGE_VERIFIED_AND_PUBLISHED",
+      "source_type": "FootballWebPages_league_badge",
+      "source_url": "https://www.footballwebpages.co.uk/graphics/teams/64/ely-city.png",
+      "origin_dimensions": [
+        64,
+        64
+      ],
+      "background_rgb": [
+        226,
+        127,
+        127
+      ],
+      "path": "docs/english-clubs-2026-27/remaining-55-v11/1793400000473.png",
+      "bytes": 4392,
+      "sha256": "e4ad7bf890384f8e5f8ef0913ceb74eb4623a774d4bcb0cacb2dfb0cb3971f89"
+    },
+    {
+      "id": 1793400000479,
+      "name": "Kirkley & Pakefield",
+      "status": "SOURCE_IMAGE_VERIFIED_AND_PUBLISHED",
+      "source_type": "FootballWebPages_league_badge",
+      "source_url": "https://www.footballwebpages.co.uk/graphics/teams/64/kirkley-and-pakefield.png",
+      "origin_dimensions": [
+        64,
+        64
+      ],
+      "background_rgb": [
+        246,
+        246,
+        107
+      ],
+      "path": "docs/english-clubs-2026-27/remaining-55-v11/1793400000479.png",
+      "bytes": 9074,
+      "sha256": "cfc4c5dc3dfe6b5f2190c281cb509e7d2d19f52eef0a2ee445737853fdeefb10"
+    },
+    {
+      "id": 1793400000485,
+      "name": "Thetford Town",
+      "status": "SOURCE_IMAGE_VERIFIED_AND_PUBLISHED",
+      "source_type": "FootballWebPages_league_badge",
+      "source_url": "https://www.footballwebpages.co.uk/graphics/teams/64/thetford-town.png",
+      "origin_dimensions": [
+        64,
+        64
+      ],
+      "background_rgb": [
+        166,
+        206,
+        246
+      ],
+      "path": "docs/english-clubs-2026-27/remaining-55-v11/1793400000485.png",
+      "bytes": 6773,
+      "sha256": "5767e6f99cf98b0996b9769762417a7b7bc8f980f03865d4f5cb08c67b59f3ee"
+    },
+    {
+      "id": 1793400000493,
+      "name": "Frenford",
+      "status": "SOURCE_IMAGE_VERIFIED_AND_PUBLISHED",
+      "source_type": "FootballWebPages_league_badge",
+      "source_url": "https://www.footballwebpages.co.uk/graphics/teams/64/frenford.png",
+      "origin_dimensions": [
+        64,
+        64
+      ],
+      "background_rgb": [
+        226,
+        127,
+        127
+      ],
+      "path": "docs/english-clubs-2026-27/remaining-55-v11/1793400000493.png",
+      "bytes": 6733,
+      "sha256": "dc8ca8e4bab14b0f86d6e69ebeac70988a588e06c0203141ce4248ff9fc1989e"
+    },
+    {
+      "id": 1793400000496,
+      "name": "Halstead Town",
+      "status": "SOURCE_IMAGE_VERIFIED_AND_PUBLISHED",
+      "source_type": "FootballWebPages_league_badge",
+      "source_url": "https://www.footballwebpages.co.uk/graphics/teams/64/halstead-town.png",
+      "origin_dimensions": [
+        61,
+        64
+      ],
+      "background_rgb": [
+        131,
+        150,
+        168
+      ],
+      "path": "docs/english-clubs-2026-27/remaining-55-v11/1793400000496.png",
+      "bytes": 5876,
+      "sha256": "1e0dec973ee87db1c3a8f8981a93a24bf99e0aca37f30e87f4c2dec04e22100d"
+    },
+    {
+      "id": 1793400000509,
+      "name": "Cinderford Town",
+      "status": "SOURCE_IMAGE_VERIFIED_AND_PUBLISHED",
+      "source_type": "FootballWebPages_league_badge",
+      "source_url": "https://www.footballwebpages.co.uk/graphics/teams/64/cinderford-town.png",
+      "origin_dimensions": [
+        64,
+        64
+      ],
+      "background_rgb": [
+        226,
+        127,
+        107
+      ],
+      "path": "docs/english-clubs-2026-27/remaining-55-v11/1793400000509.png",
+      "bytes": 5903,
+      "sha256": "fe4e3e2882412e5e363d2c28a7f3cb2f2d320e4806c9f13a7c27fb5ce5e37d26"
+    },
+    {
+      "id": 1793400000511,
+      "name": "Corsham Town",
+      "status": "SOURCE_IMAGE_VERIFIED_AND_PUBLISHED",
+      "source_type": "FootballWebPages_league_badge",
+      "source_url": "https://www.footballwebpages.co.uk/graphics/teams/64/corsham-town.png",
+      "origin_dimensions": [
+        64,
+        64
+      ],
+      "background_rgb": [
+        246,
+        107,
+        107
+      ],
+      "path": "docs/english-clubs-2026-27/remaining-55-v11/1793400000511.png",
+      "bytes": 8292,
+      "sha256": "6b83638b2603247fea53d9edef3cab66e61e77b7df18ab4f1918edee5e60ecb1"
+    },
+    {
+      "id": 1793400000517,
+      "name": "Hereford Pegasus",
+      "status": "SOURCE_IMAGE_VERIFIED_AND_PUBLISHED",
+      "source_type": "FootballWebPages_league_badge",
+      "source_url": "https://www.footballwebpages.co.uk/graphics/teams/64/hereford-pegasus.png",
+      "origin_dimensions": [
+        64,
+        64
+      ],
+      "background_rgb": [
+        226,
+        127,
+        127
+      ],
+      "path": "docs/english-clubs-2026-27/remaining-55-v11/1793400000517.png",
+      "bytes": 8857,
+      "sha256": "3fb5fa3171a332761c6193300c86bcfb70957a1dc1d0d8278925d9eaaa932ae9"
+    },
+    {
+      "id": 1793400000520,
+      "name": "Malmesbury Victoria",
+      "status": "SOURCE_IMAGE_VERIFIED_AND_PUBLISHED",
+      "source_type": "FootballWebPages_league_badge",
+      "source_url": "https://www.footballwebpages.co.uk/graphics/teams/64/malmesbury-victoria.png",
+      "origin_dimensions": [
+        44,
+        64
+      ],
+      "background_rgb": [
+        146,
+        127,
+        107
+      ],
+      "path": "docs/english-clubs-2026-27/remaining-55-v11/1793400000520.png",
+      "bytes": 5042,
+      "sha256": "7a5f67611e549a8e602312e538fba96db08527be0576724f13cb7972724c123d"
+    },
+    {
+      "id": 1793400000521,
+      "name": "Mangotsfield United",
+      "status": "SOURCE_IMAGE_VERIFIED_AND_PUBLISHED",
+      "source_type": "FootballWebPages_league_badge",
+      "source_url": "https://www.footballwebpages.co.uk/graphics/teams/64/mangotsfield-united.png",
+      "origin_dimensions": [
+        64,
+        64
+      ],
+      "background_rgb": [
+        166,
+        127,
+        127
+      ],
+      "path": "docs/english-clubs-2026-27/remaining-55-v11/1793400000521.png",
+      "bytes": 6353,
+      "sha256": "849afd05f9676ddf5cf226bdabed71413f931d66876b5f9a5d80b850767971aa"
+    },
+    {
+      "id": 1793400000522,
+      "name": "Pershore Town 88",
+      "status": "SOURCE_IMAGE_VERIFIED_AND_PUBLISHED",
+      "source_type": "FootballWebPages_league_badge",
+      "source_url": "https://www.footballwebpages.co.uk/graphics/teams/64/pershore-town.png",
+      "origin_dimensions": [
+        64,
+        64
+      ],
+      "background_rgb": [
+        226,
+        186,
+        127
+      ],
+      "path": "docs/english-clubs-2026-27/remaining-55-v11/1793400000522.png",
+      "bytes": 2550,
+      "sha256": "c6fc5d9e82fec0aa20e3ed36560fdbd01babe95b3cff069e51c5612d00584918"
+    },
+    {
+      "id": 1793400000538,
+      "name": "Runcorn Town",
+      "status": "SOURCE_IMAGE_VERIFIED_AND_PUBLISHED",
+      "source_type": "individual_verified",
+      "source_url": "https://us1-photo.nextdoor.com/business_logo/c2/99/c299b4d74da9f60e9ee3b2bcff80fd38.jpeg",
+      "origin_dimensions": [
+        1200,
+        1200
+      ],
+      "background_rgb": [
+        127,
+        127,
+        146
+      ],
+      "path": "docs/english-clubs-2026-27/remaining-55-v11/1793400000538.png",
+      "bytes": 14947,
+      "sha256": "3bc32e8977fc1abb0017ec53d2d42851d5c05df60692ec0475945e5847110c0f"
+    },
+    {
+      "id": 1793400000544,
+      "name": "Uttoxeter Town",
+      "status": "SOURCE_IMAGE_VERIFIED_AND_PUBLISHED",
+      "source_type": "individual_verified",
+      "source_url": "https://r2.thesportsdb.com/images/media/team/badge/6qsyev1737082135.png",
+      "origin_dimensions": [
+        512,
+        512
+      ],
+      "background_rgb": [
+        107,
+        127,
+        146
+      ],
+      "path": "docs/english-clubs-2026-27/remaining-55-v11/1793400000544.png",
+      "bytes": 13231,
+      "sha256": "424ca95defae26e49469a58e874f26a747bef44945caaf8406b71fc8bd879925"
+    },
+    {
+      "id": 1793400000547,
+      "name": "Winsford United",
+      "status": "SOURCE_IMAGE_VERIFIED_AND_PUBLISHED",
+      "source_type": "individual_verified",
+      "source_url": "https://r2.thesportsdb.com/images/media/team/badge/1vozl91754352134.png",
+      "origin_dimensions": [
+        512,
+        512
+      ],
+      "background_rgb": [
+        146,
+        127,
+        166
+      ],
+      "path": "docs/english-clubs-2026-27/remaining-55-v11/1793400000547.png",
+      "bytes": 8700,
+      "sha256": "b12ffcf97e3ed501436187e215567d75805ba98e124df2ccb82d37f8eaee949f"
+    },
+    {
+      "id": 1793400000557,
+      "name": "Euxton Villa",
+      "status": "SOURCE_IMAGE_VERIFIED_AND_PUBLISHED",
+      "source_type": "individual_verified",
+      "source_url": "https://assets.teamstats.net/img-team-600-70-1142929-Euxton-Villa-U14-Black---teamBadge---football-team-from-Leyland-Lancashire-England-United-Kingdom_305789.jpeg",
+      "origin_dimensions": [
+        600,
+        600
+      ],
+      "background_rgb": [
+        246,
+        166,
+        107
+      ],
+      "path": "docs/english-clubs-2026-27/remaining-55-v11/1793400000557.png",
+      "bytes": 16251,
+      "sha256": "62c1c32bb39b62ce587a015c87e38ddeaf656e3683c3cfa903a197b82d51abea"
+    },
+    {
+      "id": 1793400000567,
+      "name": "South Liverpool",
+      "status": "SOURCE_IMAGE_VERIFIED_AND_PUBLISHED",
+      "source_type": "individual_verified",
+      "source_url": "https://fixr-cdn.fixr.co/images/sales_account/logo/5d5cb4285a074010b62c7f4632ff0021.jpeg",
+      "origin_dimensions": [
+        600,
+        600
+      ],
+      "background_rgb": [
+        206,
+        107,
+        127
+      ],
+      "path": "docs/english-clubs-2026-27/remaining-55-v11/1793400000567.png",
+      "bytes": 13596,
+      "sha256": "be72b1c339c862885e818ba5508b5f838a034ec469596ac0d9e9b107c7bb8079"
+    },
+    {
+      "id": 1793400000571,
+      "name": "Bottesford Town",
+      "status": "SOURCE_IMAGE_VERIFIED_AND_PUBLISHED",
+      "source_type": "FootballWebPages_league_badge",
+      "source_url": "https://www.footballwebpages.co.uk/graphics/teams/64/bottesford-town.png",
+      "origin_dimensions": [
+        64,
+        64
+      ],
+      "background_rgb": [
+        107,
+        127,
+        146
+      ],
+      "path": "docs/english-clubs-2026-27/remaining-55-v11/1793400000571.png",
+      "bytes": 8246,
+      "sha256": "8e544f2264220f65201992f01862013b998940970f702955af2768ee04bd996c"
+    },
+    {
+      "id": 1793400000577,
+      "name": "Horbury Town",
+      "status": "SOURCE_IMAGE_VERIFIED_AND_PUBLISHED",
+      "source_type": "FootballWebPages_league_badge",
+      "source_url": "https://www.footballwebpages.co.uk/graphics/teams/64/horbury-town.png",
+      "origin_dimensions": [
+        54,
+        64
+      ],
+      "background_rgb": [
+        226,
+        166,
+        166
+      ],
+      "path": "docs/english-clubs-2026-27/remaining-55-v11/1793400000577.png",
+      "bytes": 5248,
+      "sha256": "12062039f9d98bab0fa1463ff7a097e43785373304565a5043fed99a7034bdeb"
+    },
+    {
+      "id": 1793400000578,
+      "name": "Keighley Town",
+      "status": "SOURCE_IMAGE_VERIFIED_AND_PUBLISHED",
+      "source_type": "FootballWebPages_league_badge",
+      "source_url": "https://www.footballwebpages.co.uk/graphics/teams/64/keighley-town.png",
+      "origin_dimensions": [
+        64,
+        64
+      ],
+      "background_rgb": [
+        107,
+        146,
+        107
+      ],
+      "path": "docs/english-clubs-2026-27/remaining-55-v11/1793400000578.png",
+      "bytes": 8677,
+      "sha256": "a4bf1c3d3b882cacff467a749ad833382bc5a403ccb65fcd359d41c82b669635"
+    },
+    {
+      "id": 1793400000579,
+      "name": "Knaresborough Town",
+      "status": "SOURCE_IMAGE_VERIFIED_AND_PUBLISHED",
+      "source_type": "FootballWebPages_league_badge",
+      "source_url": "https://www.footballwebpages.co.uk/graphics/teams/64/knaresborough-town.png",
+      "origin_dimensions": [
+        74,
+        64
+      ],
+      "background_rgb": [
+        206,
+        146,
+        146
+      ],
+      "path": "docs/english-clubs-2026-27/remaining-55-v11/1793400000579.png",
+      "bytes": 8484,
+      "sha256": "1e4cb9c238d74ffacf230defafc7817d9cccd3e3d1354593aae6ae77145e3f0b"
+    },
+    {
+      "id": 1793400000587,
+      "name": "Thackley Association",
+      "status": "SOURCE_IMAGE_VERIFIED_AND_PUBLISHED",
+      "source_type": "FootballWebPages_league_badge",
+      "source_url": "https://www.footballwebpages.co.uk/graphics/teams/64/thackley.png",
+      "origin_dimensions": [
+        68,
+        64
+      ],
+      "background_rgb": [
+        206,
+        186,
+        107
+      ],
+      "path": "docs/english-clubs-2026-27/remaining-55-v11/1793400000587.png",
+      "bytes": 7317,
+      "sha256": "ddf45eb5dbe138228c553474b7e8ac64f3b501a68b513259ebe84864d139230e"
+    },
+    {
+      "id": 1793400000594,
+      "name": "Crook Town",
+      "status": "SOURCE_IMAGE_VERIFIED_AND_PUBLISHED",
+      "source_type": "FootballWebPages_league_badge",
+      "source_url": "https://www.footballwebpages.co.uk/graphics/teams/64/crook-town.png",
+      "origin_dimensions": [
+        62,
+        64
+      ],
+      "background_rgb": [
+        246,
+        226,
+        146
+      ],
+      "path": "docs/english-clubs-2026-27/remaining-55-v11/1793400000594.png",
+      "bytes": 5814,
+      "sha256": "3aec99767aeb730017923667ea2c718c90888d1843c92aa61da9561c613673b4"
+    },
+    {
+      "id": 1793400000603,
+      "name": "Northallerton Town",
+      "status": "SOURCE_IMAGE_VERIFIED_AND_PUBLISHED",
+      "source_type": "FootballWebPages_league_badge",
+      "source_url": "https://www.footballwebpages.co.uk/graphics/teams/64/northallerton-town.png",
+      "origin_dimensions": [
+        64,
+        64
+      ],
+      "background_rgb": [
+        166,
+        146,
+        146
+      ],
+      "path": "docs/english-clubs-2026-27/remaining-55-v11/1793400000603.png",
+      "bytes": 9269,
+      "sha256": "65b4b6b152d7067cc484b483efed9ee98454e68c89958e03983ae6f37a98b580"
+    },
+    {
+      "id": 1793400000637,
+      "name": "Hollands & Blair",
+      "status": "SOURCE_IMAGE_VERIFIED_AND_PUBLISHED",
+      "source_type": "FootballWebPages_league_badge",
+      "source_url": "https://www.footballwebpages.co.uk/graphics/teams/64/hollands-and-blair.png",
+      "origin_dimensions": [
+        64,
+        64
+      ],
+      "background_rgb": [
+        246,
+        107,
+        107
+      ],
+      "path": "docs/english-clubs-2026-27/remaining-55-v11/1793400000637.png",
+      "bytes": 8707,
+      "sha256": "4fe284745fc0ecfc789b23d58223317c4e43a281c51b3c48641352c123e46aff"
+    },
+    {
+      "id": 1793400000638,
+      "name": "Holmesdale",
+      "status": "SOURCE_IMAGE_VERIFIED_AND_PUBLISHED",
+      "source_type": "individual_verified",
+      "source_url": "https://www.scefl.com/wp-content/uploads/2023/05/Holmesdale-2023.png",
+      "origin_dimensions": [
+        1000,
+        1000
+      ],
+      "background_rgb": [
+        246,
+        246,
+        107
+      ],
+      "path": "docs/english-clubs-2026-27/remaining-55-v11/1793400000638.png",
+      "bytes": 7617,
+      "sha256": "f6a455fe7f748b2915c112175ac90bf504adef66eabdb34099256bbf4c4dbacc"
+    },
+    {
+      "id": 1793400000640,
+      "name": "Larkfield & New Hythe",
+      "status": "SOURCE_IMAGE_VERIFIED_AND_PUBLISHED",
+      "source_type": "FootballWebPages_league_badge",
+      "source_url": "https://www.footballwebpages.co.uk/graphics/teams/64/larkfield-and-new-hythe.png",
+      "origin_dimensions": [
+        65,
+        64
+      ],
+      "background_rgb": [
+        166,
+        166,
+        127
+      ],
+      "path": "docs/english-clubs-2026-27/remaining-55-v11/1793400000640.png",
+      "bytes": 6451,
+      "sha256": "30a649ad88159104449a9a79eace53bd8fcc740628b2346f9beb438ff6537a88"
+    },
+    {
+      "id": 1793400000645,
+      "name": "Sutton Athletic",
+      "status": "SOURCE_IMAGE_VERIFIED_AND_PUBLISHED",
+      "source_type": "FootballWebPages_league_badge",
+      "source_url": "https://www.footballwebpages.co.uk/graphics/teams/64/sutton-athletic.png",
+      "origin_dimensions": [
+        64,
+        64
+      ],
+      "background_rgb": [
+        107,
+        186,
+        146
+      ],
+      "path": "docs/english-clubs-2026-27/remaining-55-v11/1793400000645.png",
+      "bytes": 6870,
+      "sha256": "c07ee4fcc2f009649a0fc7456072226ef6a5282c1ad5fcfd51af2f6753e9fb4b"
+    },
+    {
+      "id": 1793400000656,
+      "name": "Everett Rovers",
+      "status": "SOURCE_IMAGE_VERIFIED_AND_PUBLISHED",
+      "source_type": "FootballWebPages_league_badge",
+      "source_url": "https://www.footballwebpages.co.uk/graphics/teams/64/everett-rovers.png",
+      "origin_dimensions": [
+        64,
+        64
+      ],
+      "background_rgb": [
+        246,
+        246,
+        127
+      ],
+      "path": "docs/english-clubs-2026-27/remaining-55-v11/1793400000656.png",
+      "bytes": 8521,
+      "sha256": "a86e25e8eda2270945d6500ba41314e3809d4abfe8966adac7995910693ad131"
+    },
+    {
+      "id": 1793400000665,
+      "name": "Tring Athletic",
+      "status": "SOURCE_IMAGE_VERIFIED_AND_PUBLISHED",
+      "source_type": "FootballWebPages_league_badge",
+      "source_url": "https://www.footballwebpages.co.uk/graphics/teams/64/tring-athletic.png",
+      "origin_dimensions": [
+        64,
+        64
+      ],
+      "background_rgb": [
+        226,
+        127,
+        127
+      ],
+      "path": "docs/english-clubs-2026-27/remaining-55-v11/1793400000665.png",
+      "bytes": 1154,
+      "sha256": "8d4b31720708fe375d0a5f034403e529624499f91ff2c5575369cee7b53ad34f"
+    },
+    {
+      "id": 1793400000668,
+      "name": "Ashby Ivanhoe",
+      "status": "SOURCE_IMAGE_VERIFIED_AND_PUBLISHED",
+      "source_type": "FootballWebPages_league_badge",
+      "source_url": "https://www.footballwebpages.co.uk/graphics/teams/64/ashby-ivanhoe.png",
+      "origin_dimensions": [
+        64,
+        64
+      ],
+      "background_rgb": [
+        107,
+        107,
+        166
+      ],
+      "path": "docs/english-clubs-2026-27/remaining-55-v11/1793400000668.png",
+      "bytes": 7761,
+      "sha256": "c5b1e54344e1e041286d9b76e6c9d0678c4030cf95ee19edb091d1b003d32dcb"
+    },
+    {
+      "id": 1793400000674,
+      "name": "Eastwood Community",
+      "status": "SOURCE_IMAGE_VERIFIED_AND_PUBLISHED",
+      "source_type": "individual_verified",
+      "source_url": "https://img-res.pitchero.com/?h=1100&o=jpg&t=fit&url=images.pitchero.com%2Fui%2F5934816%2Fimage_6a0ac26e507d2.jpeg&w=1960",
+      "origin_dimensions": [
+        1100,
+        1100
+      ],
+      "background_rgb": [
+        226,
+        107,
+        107
+      ],
+      "path": "docs/english-clubs-2026-27/remaining-55-v11/1793400000674.png",
+      "bytes": 14931,
+      "sha256": "d5e2393ac1448c182f44a68387adf8269c0d42aeb608ab40996e35a2b95cfe58"
+    },
+    {
+      "id": 1793400000688,
+      "name": "West Bridgford Colts",
+      "status": "SOURCE_IMAGE_VERIFIED_AND_PUBLISHED",
+      "source_type": "individual_verified",
+      "source_url": "https://images.seeklogo.com/logo-png/66/1/west-bridgford-football-club-logo-png_seeklogo-664188.png",
+      "origin_dimensions": [
+        600,
+        600
+      ],
+      "background_rgb": [
+        246,
+        107,
+        107
+      ],
+      "path": "docs/english-clubs-2026-27/remaining-55-v11/1793400000688.png",
+      "bytes": 13668,
+      "sha256": "9e2412c576c14885d4bc57dc999ac12158eeb2e2a873c77af54f7160c68d882d"
+    },
+    {
+      "id": 1793400000690,
+      "name": "Bugbrooke St Michael",
+      "status": "SOURCE_IMAGE_VERIFIED_AND_PUBLISHED",
+      "source_type": "individual_verified",
+      "source_url": "https://stneotstownfc.co.uk/wp-content/uploads/2023/05/BugbrookeStMichaels.png",
+      "origin_dimensions": [
+        640,
+        640
+      ],
+      "background_rgb": [
+        131,
+        150,
+        168
+      ],
+      "path": "docs/english-clubs-2026-27/remaining-55-v11/1793400000690.png",
+      "bytes": 10045,
+      "sha256": "fc49e2644148b3aec920369d06a97ca0c517e77b8f5c296d97275e857b9ffb13"
+    },
+    {
+      "id": 1793400000693,
+      "name": "Daventry Town",
+      "status": "SOURCE_IMAGE_VERIFIED_AND_PUBLISHED",
+      "source_type": "FootballWebPages_league_badge",
+      "source_url": "https://www.footballwebpages.co.uk/graphics/teams/64/daventry-town.png",
+      "origin_dimensions": [
+        52,
+        64
+      ],
+      "background_rgb": [
+        146,
+        107,
+        186
+      ],
+      "path": "docs/english-clubs-2026-27/remaining-55-v11/1793400000693.png",
+      "bytes": 4697,
+      "sha256": "c2226607e40621a16c2e82da30cbe9b2099527e69eb5744dbaf027842ee5f776"
+    },
+    {
+      "id": 1793400000702,
+      "name": "Lutterworth Town",
+      "status": "SOURCE_IMAGE_VERIFIED_AND_PUBLISHED",
+      "source_type": "FootballWebPages_league_badge",
+      "source_url": "https://www.footballwebpages.co.uk/graphics/teams/64/lutterworth-town.png",
+      "origin_dimensions": [
+        64,
+        64
+      ],
+      "background_rgb": [
+        131,
+        150,
+        168
+      ],
+      "path": "docs/english-clubs-2026-27/remaining-55-v11/1793400000702.png",
+      "bytes": 8099,
+      "sha256": "9f1a6f42fe7c0c3ff22fbc0dc02950b24066afb66a431a92ab91dc67a300da69"
+    },
+    {
+      "id": 1793400000703,
+      "name": "Moulton",
+      "status": "SOURCE_IMAGE_VERIFIED_AND_PUBLISHED",
+      "source_type": "FootballWebPages_league_badge",
+      "source_url": "https://www.footballwebpages.co.uk/graphics/teams/64/moulton.png",
+      "origin_dimensions": [
+        64,
+        64
+      ],
+      "background_rgb": [
+        226,
+        107,
+        127
+      ],
+      "path": "docs/english-clubs-2026-27/remaining-55-v11/1793400000703.png",
+      "bytes": 4826,
+      "sha256": "dd1973a72243b85f1da79625308cad33b257426c6483d01722d679bc551147ba"
+    },
+    {
+      "id": 1793400000717,
+      "name": "Downton",
+      "status": "SOURCE_IMAGE_VERIFIED_AND_PUBLISHED",
+      "source_type": "individual_verified",
+      "source_url": "https://r2.thesportsdb.com/images/media/team/badge/68vb4f1730045981.png",
+      "origin_dimensions": [
+        512,
+        512
+      ],
+      "background_rgb": [
+        226,
+        107,
+        127
+      ],
+      "path": "docs/english-clubs-2026-27/remaining-55-v11/1793400000717.png",
+      "bytes": 11463,
+      "sha256": "2f3a68595f6e6062bf12cd41796792c88750e8f4a0098e75dce1b65647ff517a"
+    },
+    {
+      "id": 1793400000718,
+      "name": "East Cowes Victoria Athletic",
+      "status": "SOURCE_IMAGE_VERIFIED_AND_PUBLISHED",
+      "source_type": "individual_verified",
+      "source_url": "https://media.touchlinefc.co.uk/hq/2025/11/01105756/East-Cowes.png",
+      "origin_dimensions": [
+        750,
+        750
+      ],
+      "background_rgb": [
+        246,
+        127,
+        127
+      ],
+      "path": "docs/english-clubs-2026-27/remaining-55-v11/1793400000718.png",
+      "bytes": 8610,
+      "sha256": "edae8ea0e5733a17cc77ab6f1f22aeea959a2dfaa3f2f5b2c4f63f66ee834f1b"
+    },
+    {
+      "id": 1793400000745,
+      "name": "Sidmouth Town",
+      "status": "SOURCE_IMAGE_VERIFIED_AND_PUBLISHED",
+      "source_type": "individual_verified",
+      "source_url": "https://vx-3.com/cdn/shop/collections/Sidmouth-Town-FC-Badge.png?v=1657204103",
+      "origin_dimensions": [
+        800,
+        400
+      ],
+      "background_rgb": [
+        226,
+        127,
+        127
+      ],
+      "path": "docs/english-clubs-2026-27/remaining-55-v11/1793400000745.png",
+      "bytes": 11511,
+      "sha256": "30362bfe2a9b600725dce7d7cb93346890a6e86ec1e1fafbf3868537b5d54e06"
+    },
+    {
+      "id": 1793400000749,
+      "name": "Torpoint Athletic",
+      "status": "SOURCE_IMAGE_VERIFIED_AND_PUBLISHED",
+      "source_type": "individual_verified",
+      "source_url": "https://images.seeklogo.com/logo-png/61/1/torpoint-afc-logo-png_seeklogo-612142.png",
+      "origin_dimensions": [
+        600,
+        600
+      ],
+      "background_rgb": [
+        246,
+        226,
+        107
+      ],
+      "path": "docs/english-clubs-2026-27/remaining-55-v11/1793400000749.png",
+      "bytes": 11167,
+      "sha256": "a4b06dc61c8574f7d496f5d738342bee45c0fb6f2b4166be3120b50b2d594800"
+    }
+  ],
+  "unresolved": [],
+  "provenance": "Official team sources, correctly matched league table badges, archived sports club badges; no invented crests; 120x96 PNG."
+}
