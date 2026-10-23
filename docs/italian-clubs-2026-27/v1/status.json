@@ -1,0 +1,4092 @@
+{
+  "format": "solid background 120x96 real club crest centered",
+  "expected": 262,
+  "created": 213,
+  "missing_count": 49,
+  "victory_flags_created": 0,
+  "original_badges": "JoseArroyave/football-logos",
+  "assets": [
+    {
+      "id": 1793400200000,
+      "name": "Atalanta",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Atalanta.svg",
+      "source_filename": "Atalanta.svg",
+      "source_sha256": "d8ac29d3fcb6d80b64c150d31a54c656460082fe9c08d693349beab56e89f8f4",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200000.png",
+      "background_rgb": [
+        77,
+        146,
+        198
+      ],
+      "matching": "normalized exact",
+      "bytes": 11456
+    },
+    {
+      "id": 1793400200001,
+      "name": "Bologna",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Bologna.svg",
+      "source_filename": "Bologna.svg",
+      "source_sha256": "039a1b7ee10a7c5171c8f227f3926c1b9c12a0bf70e1e41a6003200819aa9d17",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200001.png",
+      "background_rgb": [
+        193,
+        123,
+        137
+      ],
+      "matching": "normalized exact",
+      "bytes": 5897
+    },
+    {
+      "id": 1793400200002,
+      "name": "Cagliari",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Cagliari.svg",
+      "source_filename": "Cagliari.svg",
+      "source_sha256": "338c81d528bae37bcf337dc23d5cf987a0cd5ba580b8f32c5dccbad349769547",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200002.png",
+      "background_rgb": [
+        207,
+        109,
+        123
+      ],
+      "matching": "normalized exact",
+      "bytes": 9891
+    },
+    {
+      "id": 1793400200003,
+      "name": "Como",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Como_1907.svg",
+      "source_filename": "Como_1907.svg",
+      "source_sha256": "fa8e78a6d86254c54faca0a31b9de1f929bcf8fd292e392c1a1f207f7fd90fed",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200003.png",
+      "background_rgb": [
+        109,
+        137,
+        165
+      ],
+      "matching": "manually matched",
+      "bytes": 7013
+    },
+    {
+      "id": 1793400200004,
+      "name": "Fiorentina",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Fiorentina.svg",
+      "source_filename": "Fiorentina.svg",
+      "source_sha256": "63d4fb07162c9015e94835d4298b828a9f56d03c5e23ccd25d39e455ca187101",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200004.png",
+      "background_rgb": [
+        146,
+        111,
+        163
+      ],
+      "matching": "normalized exact",
+      "bytes": 5342
+    },
+    {
+      "id": 1793400200005,
+      "name": "Frosinone",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Frosinone_Calcio.svg",
+      "source_filename": "Frosinone_Calcio.svg",
+      "source_sha256": "247d57b8d749851e45442174733f5aec7353eb1a7094c9c87136b0ad38bb9328",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200005.png",
+      "background_rgb": [
+        109,
+        137,
+        193
+      ],
+      "matching": "manually matched",
+      "bytes": 10792
+    },
+    {
+      "id": 1793400200006,
+      "name": "Genoa",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Genoa.svg",
+      "source_filename": "Genoa.svg",
+      "source_sha256": "9df8ee22c00a581e87c1a887cc5fa5f8675aaebf2237258c4ddb620762d025cb",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200006.png",
+      "background_rgb": [
+        207,
+        109,
+        123
+      ],
+      "matching": "normalized exact",
+      "bytes": 4829
+    },
+    {
+      "id": 1793400200007,
+      "name": "Inter",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Inter.svg",
+      "source_filename": "Inter.svg",
+      "source_sha256": "5e51212e97a473905fc7f9e46626628b766c18145c3b2474a7b2c84ad2a70c4d",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200007.png",
+      "background_rgb": [
+        109,
+        123,
+        193
+      ],
+      "matching": "normalized exact",
+      "bytes": 9026
+    },
+    {
+      "id": 1793400200008,
+      "name": "Juventus",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Juventus.svg",
+      "source_filename": "Juventus.svg",
+      "source_sha256": "708f5c3094068531b0b41595a9425ca67be5d60058a1d375b88062e255e6481d",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200008.png",
+      "background_rgb": [
+        143,
+        156,
+        177
+      ],
+      "matching": "normalized exact",
+      "bytes": 2162
+    },
+    {
+      "id": 1793400200009,
+      "name": "Lazio",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Lazio.svg",
+      "source_filename": "Lazio.svg",
+      "source_sha256": "b8e748e743dbd07cd6c25347135ac25ef7223c465b5ca224b35233d53ed4b638",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200009.png",
+      "background_rgb": [
+        108,
+        204,
+        228
+      ],
+      "matching": "normalized exact",
+      "bytes": 5883
+    },
+    {
+      "id": 1793400200010,
+      "name": "Lecce",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Lecce.svg",
+      "source_filename": "Lecce.svg",
+      "source_sha256": "b9a894857402c9b0bd1a23b8189bec51894ee62d2693b20724fafd829818e6f9",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200010.png",
+      "background_rgb": [
+        123,
+        137,
+        165
+      ],
+      "matching": "normalized exact",
+      "bytes": 7950
+    },
+    {
+      "id": 1793400200011,
+      "name": "Milan",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Milan.svg",
+      "source_filename": "Milan.svg",
+      "source_sha256": "d6f569f7e03e13531d35c2ca27569158ca97f7464590d5f4047026ab16e93889",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200011.png",
+      "background_rgb": [
+        235,
+        109,
+        123
+      ],
+      "matching": "normalized exact",
+      "bytes": 7754
+    },
+    {
+      "id": 1793400200013,
+      "name": "Napoli",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Napoli.svg",
+      "source_filename": "Napoli.svg",
+      "source_sha256": "caf81c4e11a22a8751b915e31f9da89595f74b1e520587e439ab013938d3b0b6",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200013.png",
+      "background_rgb": [
+        77,
+        198,
+        232
+      ],
+      "matching": "normalized exact",
+      "bytes": 7666
+    },
+    {
+      "id": 1793400200014,
+      "name": "Parma",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Parma.svg",
+      "source_filename": "Parma.svg",
+      "source_sha256": "d12c7eb4480cf846f9d32780f1c82889bbabfd9dbd8fdc1f047e66121bd0a7c6",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200014.png",
+      "background_rgb": [
+        123,
+        137,
+        179
+      ],
+      "matching": "normalized exact",
+      "bytes": 5112
+    },
+    {
+      "id": 1793400200016,
+      "name": "Sassuolo",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Sassuolo.svg",
+      "source_filename": "Sassuolo.svg",
+      "source_sha256": "fa6c7007b566b9f4899cbd77557ffa929b2dbb6af2cda91cf1efffc7375bdaca",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200016.png",
+      "background_rgb": [
+        123,
+        193,
+        151
+      ],
+      "matching": "normalized exact",
+      "bytes": 9239
+    },
+    {
+      "id": 1793400200017,
+      "name": "Torino",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Torino.svg",
+      "source_filename": "Torino.svg",
+      "source_sha256": "16461638466880bdb5b19bd37cae5a819b75725632c85fa1f1c91d52e4741aca",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200017.png",
+      "background_rgb": [
+        179,
+        123,
+        123
+      ],
+      "matching": "normalized exact",
+      "bytes": 9590
+    },
+    {
+      "id": 1793400200018,
+      "name": "Udinese",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Udinese.svg",
+      "source_filename": "Udinese.svg",
+      "source_sha256": "42e7209483186feca01c071da0f367b826c14777b642aa3de5ee5186aafc6f0b",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200018.png",
+      "background_rgb": [
+        163,
+        163,
+        111
+      ],
+      "matching": "normalized exact",
+      "bytes": 11438
+    },
+    {
+      "id": 1793400200019,
+      "name": "Venezia",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Venezia.svg",
+      "source_filename": "Venezia.svg",
+      "source_sha256": "315ebd0868f66457feaa251a8f817f2f819591923e8ac2c7c43adab2c66679b0",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200019.png",
+      "background_rgb": [
+        180,
+        163,
+        129
+      ],
+      "matching": "normalized exact",
+      "bytes": 6160
+    },
+    {
+      "id": 1793400200020,
+      "name": "Arezzo",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Arezzo.svg",
+      "source_filename": "Arezzo.svg",
+      "source_sha256": "168993a155311b2fcdd1aeec93995a453338b87258d3d15a369cc19eeb9aceb1",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200020.png",
+      "background_rgb": [
+        165,
+        123,
+        123
+      ],
+      "matching": "normalized exact",
+      "bytes": 11488
+    },
+    {
+      "id": 1793400200021,
+      "name": "Ascoli",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Ascoli.svg",
+      "source_filename": "Ascoli.svg",
+      "source_sha256": "b4434630bd9366fc1eba1b9301f43d21ad305de542cd2dfdc81e0bfbaaf57015",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200021.png",
+      "background_rgb": [
+        235,
+        109,
+        109
+      ],
+      "matching": "normalized exact",
+      "bytes": 5850
+    },
+    {
+      "id": 1793400200022,
+      "name": "Avellino",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/US_Avellino_1912.svg",
+      "source_filename": "US_Avellino_1912.svg",
+      "source_sha256": "2c9ff918217c62e0e27364c233d2dc850e6de9eba0433d65e5696150e088d138",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200022.png",
+      "background_rgb": [
+        109,
+        179,
+        137
+      ],
+      "matching": "normalized exact",
+      "bytes": 14189
+    },
+    {
+      "id": 1793400200023,
+      "name": "Benevento",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Benevento.svg",
+      "source_filename": "Benevento.svg",
+      "source_sha256": "1d70f551140c134705c50a780d0a98ac7de6d58fa077592890b5538bad7e7eb0",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200023.png",
+      "background_rgb": [
+        232,
+        77,
+        111
+      ],
+      "matching": "normalized exact",
+      "bytes": 9239
+    },
+    {
+      "id": 1793400200024,
+      "name": "Carrarese",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Carrarese_Calcio.svg",
+      "source_filename": "Carrarese_Calcio.svg",
+      "source_sha256": "59568fddaa01b7bde5eaf3ae21bc55e94ac37e8eaf0e13f22954af60cd1ce5f4",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200024.png",
+      "background_rgb": [
+        252,
+        252,
+        36
+      ],
+      "matching": "normalized exact",
+      "bytes": 10865
+    },
+    {
+      "id": 1793400200025,
+      "name": "Catanzaro",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Catanzaro.svg",
+      "source_filename": "Catanzaro.svg",
+      "source_sha256": "598eda34f271086a38a1369faa92048645cbe66d0a6795aa081f4ba830f15c8e",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200025.png",
+      "background_rgb": [
+        221,
+        109,
+        123
+      ],
+      "matching": "normalized exact",
+      "bytes": 10071
+    },
+    {
+      "id": 1793400200026,
+      "name": "Cesena",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Cesena_FC.svg",
+      "source_filename": "Cesena_FC.svg",
+      "source_sha256": "054c2fa5f277db81999280dcebfed5d99bead4a7c46bc2694a05c1d778e5f285",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200026.png",
+      "background_rgb": [
+        143,
+        156,
+        177
+      ],
+      "matching": "normalized exact",
+      "bytes": 8441
+    },
+    {
+      "id": 1793400200027,
+      "name": "Cremonese",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Cremonese.svg",
+      "source_filename": "Cremonese.svg",
+      "source_sha256": "08cdba093e77121088840ad08d70c8911f429f2bebe46585688aeae76c92059e",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200027.png",
+      "background_rgb": [
+        204,
+        156,
+        84
+      ],
+      "matching": "normalized exact",
+      "bytes": 9602
+    },
+    {
+      "id": 1793400200028,
+      "name": "Empoli",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Empoli.svg",
+      "source_filename": "Empoli.svg",
+      "source_sha256": "19884825872f7c837b6f3a77f5a745f634c907b769509e33aea58c833fa615c7",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200028.png",
+      "background_rgb": [
+        123,
+        151,
+        193
+      ],
+      "matching": "normalized exact",
+      "bytes": 9412
+    },
+    {
+      "id": 1793400200029,
+      "name": "Hellas Verona",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Hellas_Verona.svg",
+      "source_filename": "Hellas_Verona.svg",
+      "source_sha256": "799e1be12fa263cd114071cf5ae2ceaea173044214fbe392be2712df2b93b9b7",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200029.png",
+      "background_rgb": [
+        252,
+        204,
+        12
+      ],
+      "matching": "normalized exact",
+      "bytes": 3544
+    },
+    {
+      "id": 1793400200030,
+      "name": "Juve Stabia",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Juve_Stabia.svg",
+      "source_filename": "Juve_Stabia.svg",
+      "source_sha256": "533250671724134d292b2a5fbafa53313c9591fe1bf1c51f7ac378fc1799c720",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200030.png",
+      "background_rgb": [
+        252,
+        204,
+        60
+      ],
+      "matching": "manually matched",
+      "bytes": 8313
+    },
+    {
+      "id": 1793400200031,
+      "name": "L.R. Vicenza",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Vicenza.svg",
+      "source_filename": "Vicenza.svg",
+      "source_sha256": "e35eb4215d8a00a0b2e10d06c3ddeebaf47440f8751e06305a20210643a42de6",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200031.png",
+      "background_rgb": [
+        249,
+        109,
+        109
+      ],
+      "matching": "manually matched",
+      "bytes": 7373
+    },
+    {
+      "id": 1793400200032,
+      "name": "Mantova",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Mantova_1911.svg",
+      "source_filename": "Mantova_1911.svg",
+      "source_sha256": "1bba17c69de770f89463e82b05d1d859bde5fdea31226b7b7abe8c5f4842c239",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200032.png",
+      "background_rgb": [
+        235,
+        109,
+        123
+      ],
+      "matching": "normalized exact",
+      "bytes": 7687
+    },
+    {
+      "id": 1793400200033,
+      "name": "Modena",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Modena.svg",
+      "source_filename": "Modena.svg",
+      "source_sha256": "f0b6c9b5bd4be9751927753aedf516b9cce2a43d526a21ec7526ae772d7ce7c1",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200033.png",
+      "background_rgb": [
+        109,
+        109,
+        151
+      ],
+      "matching": "normalized exact",
+      "bytes": 5413
+    },
+    {
+      "id": 1793400200034,
+      "name": "Padova",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Padova.svg",
+      "source_filename": "Padova.svg",
+      "source_sha256": "4973ec7a8be788c00b83faebead70a10161754d249102cec007ce6ae41b4f976",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200034.png",
+      "background_rgb": [
+        235,
+        109,
+        109
+      ],
+      "matching": "normalized exact",
+      "bytes": 3722
+    },
+    {
+      "id": 1793400200035,
+      "name": "Palermo",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Palermo.svg",
+      "source_filename": "Palermo.svg",
+      "source_sha256": "dac55edeb2cb50aedadabc5ea48f78f5eb8b81820bc95211a453b00049af96e5",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200035.png",
+      "background_rgb": [
+        204,
+        180,
+        60
+      ],
+      "matching": "normalized exact",
+      "bytes": 9588
+    },
+    {
+      "id": 1793400200036,
+      "name": "Pisa",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Pisa.svg",
+      "source_filename": "Pisa.svg",
+      "source_sha256": "8a1815b895f46ef7d86b14a0eea207f79e68db92c0e512901d09bd080d0e1c63",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200036.png",
+      "background_rgb": [
+        77,
+        146,
+        198
+      ],
+      "matching": "normalized exact",
+      "bytes": 8927
+    },
+    {
+      "id": 1793400200037,
+      "name": "Sampdoria",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Sampdoria.svg",
+      "source_filename": "Sampdoria.svg",
+      "source_sha256": "c97c9ab4537fc50bf414585d3ef5a8748b9d6d3868d64aca1d518e6ce71326bc",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200037.png",
+      "background_rgb": [
+        109,
+        151,
+        193
+      ],
+      "matching": "normalized exact",
+      "bytes": 7239
+    },
+    {
+      "id": 1793400200038,
+      "name": "Südtirol",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Suditrol.svg",
+      "source_filename": "Suditrol.svg",
+      "source_sha256": "20dec1cb1371e44c9ad27499c386b096e1f46287ac5953ed480340f1ad550a86",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200038.png",
+      "background_rgb": [
+        207,
+        123,
+        123
+      ],
+      "matching": "manually matched",
+      "bytes": 15679
+    },
+    {
+      "id": 1793400200039,
+      "name": "Virtus Entella",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Virtus_Entella.svg",
+      "source_filename": "Virtus_Entella.svg",
+      "source_sha256": "2e3904bfbec7f38f55c2dfcad8501ea1a0cffe746dc26698962161a26a631249",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200039.png",
+      "background_rgb": [
+        156,
+        204,
+        252
+      ],
+      "matching": "normalized exact",
+      "bytes": 7683
+    },
+    {
+      "id": 1793400200040,
+      "name": "AlbinoLeffe",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/AlbinoLeffe.svg",
+      "source_filename": "AlbinoLeffe.svg",
+      "source_sha256": "7a09bfee9fd624ef02709046995103608aa44ef266a59cf100046c2b36ce76d5",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200040.png",
+      "background_rgb": [
+        204,
+        204,
+        252
+      ],
+      "matching": "normalized exact",
+      "bytes": 12674
+    },
+    {
+      "id": 1793400200041,
+      "name": "Alcione Milano",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Alcione.svg",
+      "source_filename": "Alcione.svg",
+      "source_sha256": "f78f803ed5af6b34fd36f895973dd22424c329022ea265fa3aafc1231bf499c3",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200041.png",
+      "background_rgb": [
+        232,
+        111,
+        77
+      ],
+      "matching": "manually matched",
+      "bytes": 4049
+    },
+    {
+      "id": 1793400200042,
+      "name": "Arzignano Valchiampo",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/FC_Arzignano_Valchiampo.svg",
+      "source_filename": "FC_Arzignano_Valchiampo.svg",
+      "source_sha256": "b1c4570ef120378b272d223c578515433fda9d6bcca9f49d679f38b8d5b32e0c",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200042.png",
+      "background_rgb": [
+        252,
+        228,
+        12
+      ],
+      "matching": "manually matched",
+      "bytes": 9360
+    },
+    {
+      "id": 1793400200043,
+      "name": "Carpi",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/AC_Carpi.svg",
+      "source_filename": "AC_Carpi.svg",
+      "source_sha256": "439619fc08dc01f3ff3ed70aaf8f306b8fbf5fc683d73489fe2ee94ac0596e19",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200043.png",
+      "background_rgb": [
+        221,
+        109,
+        123
+      ],
+      "matching": "manually matched",
+      "bytes": 11538
+    },
+    {
+      "id": 1793400200044,
+      "name": "Cittadella",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Cittadella.svg",
+      "source_filename": "Cittadella.svg",
+      "source_sha256": "6d4fbf094319e4ae4ce2319adda6c31c91fefe6f906557e3a0bbd45cff84ffe4",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200044.png",
+      "background_rgb": [
+        193,
+        123,
+        137
+      ],
+      "matching": "normalized exact",
+      "bytes": 11642
+    },
+    {
+      "id": 1793400200045,
+      "name": "Desenzano",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Calcio_Desenzano.svg",
+      "source_filename": "Calcio_Desenzano.svg",
+      "source_sha256": "fe6ef67306cdbddac3985f97b899a0381ff1755e437ba5a3ff0be3457ff47dc6",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200045.png",
+      "background_rgb": [
+        77,
+        180,
+        232
+      ],
+      "matching": "normalized exact",
+      "bytes": 8995
+    },
+    {
+      "id": 1793400200046,
+      "name": "Dolomiti Bellunesi",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Dolomiti_Bellunesi.svg",
+      "source_filename": "Dolomiti_Bellunesi.svg",
+      "source_sha256": "a51baa0f5f71ede4db2e8ea9f8a9bee20e9e3042d74c42d74418d33531e41846",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200046.png",
+      "background_rgb": [
+        252,
+        180,
+        180
+      ],
+      "matching": "normalized exact",
+      "bytes": 7835
+    },
+    {
+      "id": 1793400200047,
+      "name": "Folgore Caratese",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Folgore_Caratese.svg",
+      "source_filename": "Folgore_Caratese.svg",
+      "source_sha256": "6b86edd4f0d648bcc5298f8c000716e0db696bb2db205979a117a202169b6c80",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200047.png",
+      "background_rgb": [
+        77,
+        146,
+        250
+      ],
+      "matching": "normalized exact",
+      "bytes": 9453
+    },
+    {
+      "id": 1793400200048,
+      "name": "Giana Erminio",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Giana_Erminio.svg",
+      "source_filename": "Giana_Erminio.svg",
+      "source_sha256": "c7dabc17c56c7dc8eda71b2d299d5efc172cf3049f417570e8d70354263c93a4",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200048.png",
+      "background_rgb": [
+        94,
+        180,
+        215
+      ],
+      "matching": "normalized exact",
+      "bytes": 8324
+    },
+    {
+      "id": 1793400200049,
+      "name": "Juventus Next Gen",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Juventus_Next_Gen.svg",
+      "source_filename": "Juventus_Next_Gen.svg",
+      "source_sha256": "6eba7a1b75f5c582dd2dea7c6b1aff03cd0dd7dce7fe11407563acd5e92ed045",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200049.png",
+      "background_rgb": [
+        232,
+        146,
+        94
+      ],
+      "matching": "normalized exact",
+      "bytes": 6682
+    },
+    {
+      "id": 1793400200050,
+      "name": "Lecco",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Lecco.svg",
+      "source_filename": "Lecco.svg",
+      "source_sha256": "e3c8676eaf6e032496a92dae77cc3f7faf15e524dc77457b9b35394a7bdec061",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200050.png",
+      "background_rgb": [
+        109,
+        123,
+        151
+      ],
+      "matching": "normalized exact",
+      "bytes": 8477
+    },
+    {
+      "id": 1793400200051,
+      "name": "Lumezzane",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Lumezzane.svg",
+      "source_filename": "Lumezzane.svg",
+      "source_sha256": "50c146a93e0940149ec51180f31e07d1116c14d992af902961c98924ea4c36ef",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200051.png",
+      "background_rgb": [
+        123,
+        123,
+        151
+      ],
+      "matching": "normalized exact",
+      "bytes": 9717
+    },
+    {
+      "id": 1793400200052,
+      "name": "Novara",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Novara.svg",
+      "source_filename": "Novara.svg",
+      "source_sha256": "9b785f7a1ae340cb7f653add791afa97ed784373d7ff0402fd0904a52d257d75",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200052.png",
+      "background_rgb": [
+        109,
+        151,
+        179
+      ],
+      "matching": "normalized exact",
+      "bytes": 8888
+    },
+    {
+      "id": 1793400200053,
+      "name": "Ospitaletto Franciacorta",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Ospitaletto.svg",
+      "source_filename": "Ospitaletto.svg",
+      "source_sha256": "1b5c90d18d601c38e09cf1e7550bede6f02dfdf6ed89a6cf577dd4caed836428",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200053.png",
+      "background_rgb": [
+        215,
+        111,
+        111
+      ],
+      "matching": "manually matched",
+      "bytes": 11853
+    },
+    {
+      "id": 1793400200054,
+      "name": "Pergolettese",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Pergolettese.svg",
+      "source_filename": "Pergolettese.svg",
+      "source_sha256": "6221e66dc494441961038455a0ec4edaa76b6462718fa3b9ea7fddda115976ca",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200054.png",
+      "background_rgb": [
+        252,
+        228,
+        12
+      ],
+      "matching": "normalized exact",
+      "bytes": 8563
+    },
+    {
+      "id": 1793400200055,
+      "name": "Pro Vercelli",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/FC_Pro_Vercelli_1892.svg",
+      "source_filename": "FC_Pro_Vercelli_1892.svg",
+      "source_sha256": "cb817ecadd41b246a1e7f22f6c9ce1df57eb1e1966c2c2cf77213cd86ea267f0",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200055.png",
+      "background_rgb": [
+        249,
+        109,
+        109
+      ],
+      "matching": "normalized exact",
+      "bytes": 7252
+    },
+    {
+      "id": 1793400200056,
+      "name": "Renate",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Renate.svg",
+      "source_filename": "Renate.svg",
+      "source_sha256": "2b914a4f1ac4a1676109fbedc4fc36d14b6239b8a22765a68502d3303e5e3086",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200056.png",
+      "background_rgb": [
+        109,
+        137,
+        165
+      ],
+      "matching": "normalized exact",
+      "bytes": 9653
+    },
+    {
+      "id": 1793400200057,
+      "name": "Trento",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Trento.svg",
+      "source_filename": "Trento.svg",
+      "source_sha256": "29349623509268b09c372a7391e2181b15c6e3031b1da2d0198a878395d1a7f8",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200057.png",
+      "background_rgb": [
+        123,
+        123,
+        151
+      ],
+      "matching": "normalized exact",
+      "bytes": 8791
+    },
+    {
+      "id": 1793400200059,
+      "name": "Union Brescia",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Union_Brescia.svg",
+      "source_filename": "Union_Brescia.svg",
+      "source_sha256": "71f493142c54325ecb704662e5687ce87cd4d807f4027cc6483f8bccd112095f",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200059.png",
+      "background_rgb": [
+        109,
+        137,
+        193
+      ],
+      "matching": "normalized exact",
+      "bytes": 7701
+    },
+    {
+      "id": 1793400200060,
+      "name": "Atalanta U23",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Atalanta.svg",
+      "source_filename": "Atalanta.svg",
+      "source_sha256": "d8ac29d3fcb6d80b64c150d31a54c656460082fe9c08d693349beab56e89f8f4",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200060.png",
+      "background_rgb": [
+        77,
+        146,
+        198
+      ],
+      "matching": "manually matched",
+      "bytes": 11456
+    },
+    {
+      "id": 1793400200061,
+      "name": "Campobasso",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Campobasso.svg",
+      "source_filename": "Campobasso.svg",
+      "source_sha256": "a968531218ba8719c49698b62e6234e2f3b7b18c053e147b57b4635792a515ea",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200061.png",
+      "background_rgb": [
+        221,
+        123,
+        123
+      ],
+      "matching": "normalized exact",
+      "bytes": 11545
+    },
+    {
+      "id": 1793400200062,
+      "name": "Forlì",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Forl%C3%AC_FC.svg",
+      "source_filename": "Forlì_FC.svg",
+      "source_sha256": "81bf509b0076818d9eb6fab3792f1072107ec4a956eec4e94363abeae4c7af19",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200062.png",
+      "background_rgb": [
+        207,
+        109,
+        109
+      ],
+      "matching": "normalized exact",
+      "bytes": 9576
+    },
+    {
+      "id": 1793400200063,
+      "name": "Grosseto",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/US_Grosseto_1912.svg",
+      "source_filename": "US_Grosseto_1912.svg",
+      "source_sha256": "051d3666ae76c4515a47b708367c47fe034a8235e04f328cb968a0d3e7671225",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200063.png",
+      "background_rgb": [
+        235,
+        109,
+        123
+      ],
+      "matching": "normalized exact",
+      "bytes": 9566
+    },
+    {
+      "id": 1793400200064,
+      "name": "Gubbio",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Gubbio.svg",
+      "source_filename": "Gubbio.svg",
+      "source_sha256": "c617ccb8a743559e4a4ad1254aa6714edebdf8f411234bd570bb07cbe768bb74",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200064.png",
+      "background_rgb": [
+        252,
+        204,
+        36
+      ],
+      "matching": "normalized exact",
+      "bytes": 9751
+    },
+    {
+      "id": 1793400200065,
+      "name": "Guidonia Montecelio",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Guidonia_Montecelio.svg",
+      "source_filename": "Guidonia_Montecelio.svg",
+      "source_sha256": "b504a508825cb79af4e3b932df9471b8bb42ec5dc128b2dfe1c4b5726539fb16",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200065.png",
+      "background_rgb": [
+        109,
+        123,
+        165
+      ],
+      "matching": "normalized exact",
+      "bytes": 7220
+    },
+    {
+      "id": 1793400200066,
+      "name": "Latina",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Latina_Calcio_1932.svg",
+      "source_filename": "Latina_Calcio_1932.svg",
+      "source_sha256": "340cefee4ee2820b56d914c2583cfac8d36ab3603e4ec8597e7ddb75e93fc3b7",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200066.png",
+      "background_rgb": [
+        228,
+        180,
+        132
+      ],
+      "matching": "normalized exact",
+      "bytes": 11839
+    },
+    {
+      "id": 1793400200067,
+      "name": "Livorno",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Livorno.svg",
+      "source_filename": "Livorno.svg",
+      "source_sha256": "fbfcc8d94a23937399ab9397315b0163f02d80b6132f6d8f1ca6b2c4a0d13e0d",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200067.png",
+      "background_rgb": [
+        165,
+        123,
+        137
+      ],
+      "matching": "normalized exact",
+      "bytes": 13058
+    },
+    {
+      "id": 1793400200068,
+      "name": "Ostiamare",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Ostiamare.svg",
+      "source_filename": "Ostiamare.svg",
+      "source_sha256": "240f3bd1209ecd65d4b29f79e52c4b52b9cb74687409fcaadffdddd6cd13f43f",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200068.png",
+      "background_rgb": [
+        137,
+        109,
+        165
+      ],
+      "matching": "normalized exact",
+      "bytes": 17129
+    },
+    {
+      "id": 1793400200069,
+      "name": "Perugia",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Perugia.svg",
+      "source_filename": "Perugia.svg",
+      "source_sha256": "2ae0a574570612a66af8d0e75ed32740ca338320a88a2a81ce501e7fa2f63611",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200069.png",
+      "background_rgb": [
+        235,
+        109,
+        109
+      ],
+      "matching": "normalized exact",
+      "bytes": 8775
+    },
+    {
+      "id": 1793400200070,
+      "name": "Pescara",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Pescara.svg",
+      "source_filename": "Pescara.svg",
+      "source_sha256": "78a3a03637bc0bfd1f5d59b4e05ecadae6e388fcd12499ea6916bdf6adb425c7",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200070.png",
+      "background_rgb": [
+        109,
+        137,
+        165
+      ],
+      "matching": "normalized exact",
+      "bytes": 7254
+    },
+    {
+      "id": 1793400200071,
+      "name": "Pianese",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Pianese.svg",
+      "source_filename": "Pianese.svg",
+      "source_sha256": "aa64d5c991c266a0b41513e897387b98ea407fd3f842559daf2bbc7c6702afe8",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200071.png",
+      "background_rgb": [
+        143,
+        156,
+        177
+      ],
+      "matching": "normalized exact",
+      "bytes": 7104
+    },
+    {
+      "id": 1793400200072,
+      "name": "Pineto",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Pineto.svg",
+      "source_filename": "Pineto.svg",
+      "source_sha256": "20f9e32a3ee9b461e5ff7ee838477e7b7f9816b7acb48c05785b2b24259b0444",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200072.png",
+      "background_rgb": [
+        204,
+        228,
+        252
+      ],
+      "matching": "normalized exact",
+      "bytes": 7815
+    },
+    {
+      "id": 1793400200073,
+      "name": "Ravenna",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Ravenna.svg",
+      "source_filename": "Ravenna.svg",
+      "source_sha256": "79b1a9ff4ffaede0ffd191bbce9e029ad20340eef30864ea806c53908a613967",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200073.png",
+      "background_rgb": [
+        252,
+        180,
+        12
+      ],
+      "matching": "normalized exact",
+      "bytes": 11643
+    },
+    {
+      "id": 1793400200074,
+      "name": "Reggiana",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Reggiana.svg",
+      "source_filename": "Reggiana.svg",
+      "source_sha256": "e217a16ff2cca67c4135df559a4732de091148b94b78e0b545653ff1f3dc1be8",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200074.png",
+      "background_rgb": [
+        165,
+        123,
+        123
+      ],
+      "matching": "normalized exact",
+      "bytes": 9316
+    },
+    {
+      "id": 1793400200075,
+      "name": "Sambenedettese",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Sambenedettese.svg",
+      "source_filename": "Sambenedettese.svg",
+      "source_sha256": "764977fc924c2e6148fc4ae96afed623d76f0b36c8a7aaee4eb0479150060532",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200075.png",
+      "background_rgb": [
+        109,
+        123,
+        137
+      ],
+      "matching": "normalized exact",
+      "bytes": 11302
+    },
+    {
+      "id": 1793400200076,
+      "name": "Spezia",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Spezia.svg",
+      "source_filename": "Spezia.svg",
+      "source_sha256": "5736673a7fdf6225f1a5c65a866db6afa808eb53e6f6018d94aba5e414856813",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200076.png",
+      "background_rgb": [
+        143,
+        156,
+        177
+      ],
+      "matching": "normalized exact",
+      "bytes": 7723
+    },
+    {
+      "id": 1793400200077,
+      "name": "Torres",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Torres.svg",
+      "source_filename": "Torres.svg",
+      "source_sha256": "3d069148a017ffae10c960afc99f7a2239c2860e128c4012b9638aae98dd5d46",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200077.png",
+      "background_rgb": [
+        249,
+        109,
+        109
+      ],
+      "matching": "normalized exact",
+      "bytes": 7143
+    },
+    {
+      "id": 1793400200078,
+      "name": "Vado",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Vado.svg",
+      "source_filename": "Vado.svg",
+      "source_sha256": "d36016ac0255a27fa9038c7f3e87723f1af0be7ef5c2870a4587771f51376a40",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200078.png",
+      "background_rgb": [
+        249,
+        109,
+        109
+      ],
+      "matching": "normalized exact",
+      "bytes": 5773
+    },
+    {
+      "id": 1793400200079,
+      "name": "Vis Pesaro",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Vis_Pesaro.svg",
+      "source_filename": "Vis_Pesaro.svg",
+      "source_sha256": "ef0cb2a8977dc5e9f3744c619f97ff86144fd6ff3dcc828acc104ebd170b55ee",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200079.png",
+      "background_rgb": [
+        235,
+        123,
+        109
+      ],
+      "matching": "normalized exact",
+      "bytes": 9304
+    },
+    {
+      "id": 1793400200080,
+      "name": "Altamura",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Team_Altamura.svg",
+      "source_filename": "Team_Altamura.svg",
+      "source_sha256": "027c2d786f46920f8ce01c64c771489d1ad4b9139ff2d07f606ea7bdbd2a33b3",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200080.png",
+      "background_rgb": [
+        207,
+        123,
+        123
+      ],
+      "matching": "manually matched",
+      "bytes": 11725
+    },
+    {
+      "id": 1793400200081,
+      "name": "Audace Cerignola",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Audace_Cerignola.svg",
+      "source_filename": "Audace_Cerignola.svg",
+      "source_sha256": "8de10bedf68022c4331851c716e92c095c4e8b32934235621f852f302110b324",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200081.png",
+      "background_rgb": [
+        109,
+        151,
+        179
+      ],
+      "matching": "normalized exact",
+      "bytes": 10137
+    },
+    {
+      "id": 1793400200082,
+      "name": "Bari",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Bari.svg",
+      "source_filename": "Bari.svg",
+      "source_sha256": "5f76b6127d1e6076fb699dc24a6d579f61adf6e46119b6199c62d43ab1221926",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200082.png",
+      "background_rgb": [
+        221,
+        123,
+        123
+      ],
+      "matching": "normalized exact",
+      "bytes": 6416
+    },
+    {
+      "id": 1793400200083,
+      "name": "Barletta",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Barletta_1922.svg",
+      "source_filename": "Barletta_1922.svg",
+      "source_sha256": "5a1f0e22ad2d8ddfcf9ffca04517c37517c57914e7fcb304b48ade6aa2149a4c",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200083.png",
+      "background_rgb": [
+        232,
+        94,
+        94
+      ],
+      "matching": "normalized exact",
+      "bytes": 10149
+    },
+    {
+      "id": 1793400200084,
+      "name": "Casarano",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Casarano.svg",
+      "source_filename": "Casarano.svg",
+      "source_sha256": "480489bcc48b4921f3d05f4d998dea1fa3bf024be378b51b1d7588d69887677b",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200084.png",
+      "background_rgb": [
+        221,
+        123,
+        123
+      ],
+      "matching": "normalized exact",
+      "bytes": 7679
+    },
+    {
+      "id": 1793400200085,
+      "name": "Casertana",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Casertana.svg",
+      "source_filename": "Casertana.svg",
+      "source_sha256": "21b5b52824ca641f5b3707ad9524295439afe4c6218ac3f69dc3c590db591989",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200085.png",
+      "background_rgb": [
+        232,
+        94,
+        94
+      ],
+      "matching": "normalized exact",
+      "bytes": 8148
+    },
+    {
+      "id": 1793400200086,
+      "name": "Catania",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Catania.svg",
+      "source_filename": "Catania.svg",
+      "source_sha256": "693dd07b5d5f4b331635e94decbfaa0e938afb5ba85d7fd4a4f63c0f74f6a06a",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200086.png",
+      "background_rgb": [
+        235,
+        109,
+        109
+      ],
+      "matching": "normalized exact",
+      "bytes": 5681
+    },
+    {
+      "id": 1793400200087,
+      "name": "Cavese",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Cavese.svg",
+      "source_filename": "Cavese.svg",
+      "source_sha256": "cc667477b16ae742f9eb245b88b694cd6a666ca7084b525bd6e23ab7bcf706ac",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200087.png",
+      "background_rgb": [
+        109,
+        123,
+        151
+      ],
+      "matching": "normalized exact",
+      "bytes": 7866
+    },
+    {
+      "id": 1793400200088,
+      "name": "Cosenza",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Cosenza.svg",
+      "source_filename": "Cosenza.svg",
+      "source_sha256": "4336e47729ddd4daee9c1bd2d7c136f1c6207958aab531202095d2395788b0a1",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200088.png",
+      "background_rgb": [
+        123,
+        137,
+        151
+      ],
+      "matching": "normalized exact",
+      "bytes": 8219
+    },
+    {
+      "id": 1793400200089,
+      "name": "Crotone",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Crotone.svg",
+      "source_filename": "Crotone.svg",
+      "source_sha256": "988a7698c7b2470abc503998214c6f14de013d2e69bd7437eb0f260714d7cb7f",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200089.png",
+      "background_rgb": [
+        109,
+        137,
+        151
+      ],
+      "matching": "normalized exact",
+      "bytes": 8173
+    },
+    {
+      "id": 1793400200090,
+      "name": "Foggia",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Foggia.svg",
+      "source_filename": "Foggia.svg",
+      "source_sha256": "0b5c74a3a2e0096bb534d94d7608dbb21e1d22039300945a5e34f8eb64d0f9c3",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200090.png",
+      "background_rgb": [
+        221,
+        109,
+        123
+      ],
+      "matching": "normalized exact",
+      "bytes": 10917
+    },
+    {
+      "id": 1793400200091,
+      "name": "Giugliano",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Giugliano.svg",
+      "source_filename": "Giugliano.svg",
+      "source_sha256": "cce8009c34baf78b2e23da5894cbfce5f2d6c4b579c79942752c508ba57a60a4",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200091.png",
+      "background_rgb": [
+        109,
+        123,
+        165
+      ],
+      "matching": "normalized exact",
+      "bytes": 10699
+    },
+    {
+      "id": 1793400200092,
+      "name": "Inter U23",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Inter.svg",
+      "source_filename": "Inter.svg",
+      "source_sha256": "5e51212e97a473905fc7f9e46626628b766c18145c3b2474a7b2c84ad2a70c4d",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200092.png",
+      "background_rgb": [
+        109,
+        123,
+        193
+      ],
+      "matching": "manually matched",
+      "bytes": 9026
+    },
+    {
+      "id": 1793400200093,
+      "name": "Monopoli",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Monopoli.svg",
+      "source_filename": "Monopoli.svg",
+      "source_sha256": "9de342bc68c33ec07c207da960c4959dbee883d032406eb0d0964377df4e5423",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200093.png",
+      "background_rgb": [
+        109,
+        179,
+        151
+      ],
+      "matching": "normalized exact",
+      "bytes": 11991
+    },
+    {
+      "id": 1793400200094,
+      "name": "Picerno",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/AZ_Picerno.svg",
+      "source_filename": "AZ_Picerno.svg",
+      "source_sha256": "7c2dca63524f0b7c25400f86bd58a160d02622224fac38ec55f64405c6d5b7b9",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200094.png",
+      "background_rgb": [
+        252,
+        204,
+        12
+      ],
+      "matching": "manually matched",
+      "bytes": 8822
+    },
+    {
+      "id": 1793400200095,
+      "name": "Potenza",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Potenza.svg",
+      "source_filename": "Potenza.svg",
+      "source_sha256": "f00c417e5cebf23d5109be93b0f3ba46514529e78c68028f056bc35ac59c1c29",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200095.png",
+      "background_rgb": [
+        221,
+        109,
+        123
+      ],
+      "matching": "normalized exact",
+      "bytes": 8202
+    },
+    {
+      "id": 1793400200096,
+      "name": "Salernitana",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Salernitana.svg",
+      "source_filename": "Salernitana.svg",
+      "source_sha256": "ef2d2dcedde766fd40668f2be9b302f42ea7193c1b9255261d502e046dd96152",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200096.png",
+      "background_rgb": [
+        165,
+        123,
+        109
+      ],
+      "matching": "normalized exact",
+      "bytes": 8793
+    },
+    {
+      "id": 1793400200097,
+      "name": "Savoia",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Savoia_1908.svg",
+      "source_filename": "Savoia_1908.svg",
+      "source_sha256": "c4ade6c0dcf7ad04190fa385580094ab6bbebd9723d2f6aa394d6c753883f2fb",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200097.png",
+      "background_rgb": [
+        221,
+        109,
+        109
+      ],
+      "matching": "normalized exact",
+      "bytes": 6292
+    },
+    {
+      "id": 1793400200098,
+      "name": "Scafatese",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Scafatese_Calcio_1922.svg",
+      "source_filename": "Scafatese_Calcio_1922.svg",
+      "source_sha256": "8e44e570297d3a874e853fb066b240509da84990b8507b273e37b77a65f95a39",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200098.png",
+      "background_rgb": [
+        228,
+        228,
+        12
+      ],
+      "matching": "normalized exact",
+      "bytes": 9090
+    },
+    {
+      "id": 1793400200099,
+      "name": "Sorrento",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Sorrento.svg",
+      "source_filename": "Sorrento.svg",
+      "source_sha256": "402cbe1294dc56c299bf573bc59a56bf04020faf4349f8d8f172b8270ff3e494",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200099.png",
+      "background_rgb": [
+        221,
+        109,
+        109
+      ],
+      "matching": "normalized exact",
+      "bytes": 8933
+    },
+    {
+      "id": 1793400200101,
+      "name": "Asti",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Asti.svg",
+      "source_filename": "Asti.svg",
+      "source_sha256": "f2f70b1c970f17aef0dba20ff9f25c5fc0d6bc4dc07f34195bd164abaf0a5f8c",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200101.png",
+      "background_rgb": [
+        235,
+        123,
+        109
+      ],
+      "matching": "normalized exact",
+      "bytes": 11027
+    },
+    {
+      "id": 1793400200102,
+      "name": "Biellese",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Biellese.svg",
+      "source_filename": "Biellese.svg",
+      "source_sha256": "661ddfaaa1f762ff3a6516b52a19f66d76921d771aa1cf6cbd504685a4544da3",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200102.png",
+      "background_rgb": [
+        204,
+        180,
+        132
+      ],
+      "matching": "normalized exact",
+      "bytes": 8147
+    },
+    {
+      "id": 1793400200104,
+      "name": "Bra",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Bra.svg",
+      "source_filename": "Bra.svg",
+      "source_sha256": "ff172a3c291067f6f20e952331236948e4943bcfda868ac21d8f808e6bf376d1",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200104.png",
+      "background_rgb": [
+        235,
+        109,
+        123
+      ],
+      "matching": "normalized exact",
+      "bytes": 9422
+    },
+    {
+      "id": 1793400200105,
+      "name": "Chisola",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Chisola.svg",
+      "source_filename": "Chisola.svg",
+      "source_sha256": "cedfb84414d0ee743038b56f215010df712d4d2dcc587f0d049277bb48f0c2d2",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200105.png",
+      "background_rgb": [
+        109,
+        137,
+        179
+      ],
+      "matching": "normalized exact",
+      "bytes": 8644
+    },
+    {
+      "id": 1793400200106,
+      "name": "Derthona",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Derthona.svg",
+      "source_filename": "Derthona.svg",
+      "source_sha256": "85f99d66cb39c5736648089670de351bf9fc22031c24c2dd05233b44285c8732",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200106.png",
+      "background_rgb": [
+        232,
+        94,
+        94
+      ],
+      "matching": "normalized exact",
+      "bytes": 6444
+    },
+    {
+      "id": 1793400200107,
+      "name": "Gozzano",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Gozzano.svg",
+      "source_filename": "Gozzano.svg",
+      "source_sha256": "7283886e89e013ecbb121a396072fd165c017f40ee92d6277244241212ddf486",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200107.png",
+      "background_rgb": [
+        109,
+        151,
+        179
+      ],
+      "matching": "normalized exact",
+      "bytes": 8482
+    },
+    {
+      "id": 1793400200109,
+      "name": "Saluzzo",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Saluzzo.svg",
+      "source_filename": "Saluzzo.svg",
+      "source_sha256": "52c009dd802b55af7fd3fe8932a81b81b6d4156e66d00575a2df46dfa426dc88",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200109.png",
+      "background_rgb": [
+        193,
+        123,
+        123
+      ],
+      "matching": "normalized exact",
+      "bytes": 7440
+    },
+    {
+      "id": 1793400200110,
+      "name": "Valenzana Mado",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Valenzana_Mado.svg",
+      "source_filename": "Valenzana_Mado.svg",
+      "source_sha256": "c0cf1aa2f483b167bf8f46e3bd41f6010c9207be2f525efface46e7d1878a835",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200110.png",
+      "background_rgb": [
+        232,
+        94,
+        94
+      ],
+      "matching": "normalized exact",
+      "bytes": 6995
+    },
+    {
+      "id": 1793400200111,
+      "name": "Celle Varazze",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Celle_Varazze.svg",
+      "source_filename": "Celle_Varazze.svg",
+      "source_sha256": "404937c56a5677e51c905b909c296508ab2cedcfd18c2b0f2993c4473794d434",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200111.png",
+      "background_rgb": [
+        123,
+        137,
+        165
+      ],
+      "matching": "normalized exact",
+      "bytes": 9716
+    },
+    {
+      "id": 1793400200113,
+      "name": "Imperia",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Imperia.svg",
+      "source_filename": "Imperia.svg",
+      "source_sha256": "81c33e21680f686f9a3b6da6763c9db1d5ed57075bc72e7c185914b65e859cef",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200113.png",
+      "background_rgb": [
+        252,
+        228,
+        12
+      ],
+      "matching": "normalized exact",
+      "bytes": 6676
+    },
+    {
+      "id": 1793400200114,
+      "name": "Ligorna",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Ligorna.svg",
+      "source_filename": "Ligorna.svg",
+      "source_sha256": "a2dd5ce90bf10e3558a96f8e4e7036ebf8c65be082df694e229392c5a1c8cbe4",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200114.png",
+      "background_rgb": [
+        77,
+        163,
+        215
+      ],
+      "matching": "normalized exact",
+      "bytes": 9922
+    },
+    {
+      "id": 1793400200116,
+      "name": "Sanremese",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Sanremese.svg",
+      "source_filename": "Sanremese.svg",
+      "source_sha256": "a7cc3c7e892971e682abb75e9caa0523b8a5b0e82557bb7e9c8c08122618db8e",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200116.png",
+      "background_rgb": [
+        132,
+        180,
+        228
+      ],
+      "matching": "normalized exact",
+      "bytes": 9438
+    },
+    {
+      "id": 1793400200117,
+      "name": "Sestri Levante",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Sestri_Levante.svg",
+      "source_filename": "Sestri_Levante.svg",
+      "source_sha256": "420ec6035cd811f7fc0696d1df19e9ec664d8c40094356f3ef42022cbbeee7d9",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200117.png",
+      "background_rgb": [
+        109,
+        123,
+        137
+      ],
+      "matching": "normalized exact",
+      "bytes": 8758
+    },
+    {
+      "id": 1793400200118,
+      "name": "Brusaporto",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Calcio_Brusaporto.svg",
+      "source_filename": "Calcio_Brusaporto.svg",
+      "source_sha256": "1b482f4497bc619693e0f5250c72321e3d036cbe90158b4198908354b88d155f",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200118.png",
+      "background_rgb": [
+        109,
+        123,
+        193
+      ],
+      "matching": "normalized exact",
+      "bytes": 8730
+    },
+    {
+      "id": 1793400200119,
+      "name": "Club Milano",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Club_Milano.svg",
+      "source_filename": "Club_Milano.svg",
+      "source_sha256": "2c617a648135646c871416f5a12a12ae6ee4f5835b1d04f51f86e20590a068f2",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200119.png",
+      "background_rgb": [
+        232,
+        111,
+        111
+      ],
+      "matching": "normalized exact",
+      "bytes": 6460
+    },
+    {
+      "id": 1793400200120,
+      "name": "Leon",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/AC_Leon.svg",
+      "source_filename": "AC_Leon.svg",
+      "source_sha256": "18738441d302fe4f03c1b409e6b2f3455a2aded2ae67ee352f93243961eb38cd",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200120.png",
+      "background_rgb": [
+        232,
+        146,
+        77
+      ],
+      "matching": "normalized exact",
+      "bytes": 14845
+    },
+    {
+      "id": 1793400200121,
+      "name": "Milan Futuro",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Milan.svg",
+      "source_filename": "Milan.svg",
+      "source_sha256": "d6f569f7e03e13531d35c2ca27569158ca97f7464590d5f4047026ab16e93889",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200121.png",
+      "background_rgb": [
+        235,
+        109,
+        123
+      ],
+      "matching": "manually matched",
+      "bytes": 7754
+    },
+    {
+      "id": 1793400200124,
+      "name": "Real Calepina",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Real_Calepina.svg",
+      "source_filename": "Real_Calepina.svg",
+      "source_sha256": "5e7d0a39bec0b15857016097a5ed6ce7facc43bed66bfd3f5624ecfce0e34c17",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200124.png",
+      "background_rgb": [
+        109,
+        137,
+        193
+      ],
+      "matching": "normalized exact",
+      "bytes": 5496
+    },
+    {
+      "id": 1793400200125,
+      "name": "Rovato",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Rovato_Vertovese.svg",
+      "source_filename": "Rovato_Vertovese.svg",
+      "source_sha256": "700204dc15c57bd1a7bc9c99cffca4297198bee8da94347b8f69773f9d85efd1",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200125.png",
+      "background_rgb": [
+        123,
+        123,
+        137
+      ],
+      "matching": "manually matched",
+      "bytes": 6852
+    },
+    {
+      "id": 1793400200128,
+      "name": "Villa Valle",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Villa_Valle.svg",
+      "source_filename": "Villa_Valle.svg",
+      "source_sha256": "e794afa15dc6fc146060a5a32204ea0164f61eaca03767be24451c9fcaa5afa1",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200128.png",
+      "background_rgb": [
+        252,
+        228,
+        12
+      ],
+      "matching": "normalized exact",
+      "bytes": 9760
+    },
+    {
+      "id": 1793400200129,
+      "name": "Virtus Ciseranobergamo",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Virtus_CiseranoBergamo_1909.svg",
+      "source_filename": "Virtus_CiseranoBergamo_1909.svg",
+      "source_sha256": "6154282d22e9aaf0bc658547c6c08db9b2dce56f5836f05f351c62cd312e1f85",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200129.png",
+      "background_rgb": [
+        109,
+        137,
+        193
+      ],
+      "matching": "strong fuzzy",
+      "bytes": 9689
+    },
+    {
+      "id": 1793400200130,
+      "name": "Caldiero Terme",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Calcio_Caldiero_Terme.svg",
+      "source_filename": "Calcio_Caldiero_Terme.svg",
+      "source_sha256": "0d78b9b1635b294410b49021a6506f9f620415c406caabccee5bfe00d0127d86",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200130.png",
+      "background_rgb": [
+        252,
+        228,
+        12
+      ],
+      "matching": "normalized exact",
+      "bytes": 6570
+    },
+    {
+      "id": 1793400200131,
+      "name": "Chievoverona",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/AC_ChievoVerona.svg",
+      "source_filename": "AC_ChievoVerona.svg",
+      "source_sha256": "1dcef36eb318648629f26fb964d434db03013747069666f82fc90206989f8dc6",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200131.png",
+      "background_rgb": [
+        252,
+        252,
+        12
+      ],
+      "matching": "manually matched",
+      "bytes": 11333
+    },
+    {
+      "id": 1793400200132,
+      "name": "Virtus Verona",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Virtus_Verona.svg",
+      "source_filename": "Virtus_Verona.svg",
+      "source_sha256": "4185767b1a587e9c8fedb93a9814b9c8d6cba4d53efed4eb816dc76f90f66e93",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200132.png",
+      "background_rgb": [
+        249,
+        109,
+        109
+      ],
+      "matching": "normalized exact",
+      "bytes": 10444
+    },
+    {
+      "id": 1793400200135,
+      "name": "Piacenza",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Piacenza_Calcio_1919.svg",
+      "source_filename": "Piacenza_Calcio_1919.svg",
+      "source_sha256": "d339c2743e877f52c767650aae4dae8f2d71e883cd53dc27b20993146c2df280",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200135.png",
+      "background_rgb": [
+        232,
+        94,
+        94
+      ],
+      "matching": "normalized exact",
+      "bytes": 7656
+    },
+    {
+      "id": 1793400200136,
+      "name": "Brian Lignano",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Brian_Lignano_Calcio.svg",
+      "source_filename": "Brian_Lignano_Calcio.svg",
+      "source_sha256": "c09315380d480de65a6dc77e5c3e76ea8b96590957635d957d2ffda740e14ec3",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200136.png",
+      "background_rgb": [
+        252,
+        204,
+        36
+      ],
+      "matching": "manually matched",
+      "bytes": 7059
+    },
+    {
+      "id": 1793400200137,
+      "name": "Cjarlins Muzane",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/ASD_Cjarlins_Muzane.svg",
+      "source_filename": "ASD_Cjarlins_Muzane.svg",
+      "source_sha256": "e9f5eb58530563dcd9f7afe6759adf999870ffeb6fecbe9cc26dba03c1a09dbd",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200137.png",
+      "background_rgb": [
+        250,
+        146,
+        77
+      ],
+      "matching": "manually matched",
+      "bytes": 14719
+    },
+    {
+      "id": 1793400200139,
+      "name": "Triestina",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Triestina.svg",
+      "source_filename": "Triestina.svg",
+      "source_sha256": "db0b6b66a5645db6b722bd4252c443db59ede47a2739e593212ee25fcff133ef",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200139.png",
+      "background_rgb": [
+        249,
+        109,
+        109
+      ],
+      "matching": "normalized exact",
+      "bytes": 7031
+    },
+    {
+      "id": 1793400200140,
+      "name": "Obermais",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/FC_Obermais.svg",
+      "source_filename": "FC_Obermais.svg",
+      "source_sha256": "5fad7b1bcd1902a7bd6ebb5be345a1fa36e44d3a33333ec52604024223267219",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200140.png",
+      "background_rgb": [
+        109,
+        151,
+        193
+      ],
+      "matching": "normalized exact",
+      "bytes": 9186
+    },
+    {
+      "id": 1793400200142,
+      "name": "Bassano",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/FC_Bassano.svg",
+      "source_filename": "FC_Bassano.svg",
+      "source_sha256": "2c7e8312aac55455a1e51c76f438a73244fdadad4dcd4053a77683d36c160e4e",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200142.png",
+      "background_rgb": [
+        221,
+        109,
+        123
+      ],
+      "matching": "normalized exact",
+      "bytes": 10897
+    },
+    {
+      "id": 1793400200143,
+      "name": "Calvi Noale",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/FC_Calvi_Noale.svg",
+      "source_filename": "FC_Calvi_Noale.svg",
+      "source_sha256": "0ccf504f883a29aac90b0364c17e009a38575fa73461f7f2511591307c979711",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200143.png",
+      "background_rgb": [
+        109,
+        151,
+        207
+      ],
+      "matching": "normalized exact",
+      "bytes": 5247
+    },
+    {
+      "id": 1793400200144,
+      "name": "Campodarsego",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/ACD_Campodarsego_Calcio.svg",
+      "source_filename": "ACD_Campodarsego_Calcio.svg",
+      "source_sha256": "5d37abe986193999132db0c8ee98119465836eb5d03f91416e70e319ca2b2468",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200144.png",
+      "background_rgb": [
+        221,
+        109,
+        123
+      ],
+      "matching": "normalized exact",
+      "bytes": 11440
+    },
+    {
+      "id": 1793400200145,
+      "name": "Conegliano",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/FCD_Conegliano_1907.svg",
+      "source_filename": "FCD_Conegliano_1907.svg",
+      "source_sha256": "30ec9a1232f0982941326722da29fadb0457f4c78f7bcae346f027628256e65a",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200145.png",
+      "background_rgb": [
+        252,
+        252,
+        12
+      ],
+      "matching": "normalized exact",
+      "bytes": 9711
+    },
+    {
+      "id": 1793400200146,
+      "name": "Este",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/AC_Este.svg",
+      "source_filename": "AC_Este.svg",
+      "source_sha256": "7b6e3d7f588f956bff4c271c488cf2aa305ca5265c39ef065db8048cc44beced",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200146.png",
+      "background_rgb": [
+        250,
+        111,
+        111
+      ],
+      "matching": "normalized exact",
+      "bytes": 4667
+    },
+    {
+      "id": 1793400200147,
+      "name": "Legnago Salus",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/FC_Legnago_Salus.svg",
+      "source_filename": "FC_Legnago_Salus.svg",
+      "source_sha256": "6b80464035535862218140b19b28f3a267dccb4757de92a455cac64a8d07376e",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200147.png",
+      "background_rgb": [
+        77,
+        163,
+        215
+      ],
+      "matching": "normalized exact",
+      "bytes": 6884
+    },
+    {
+      "id": 1793400200149,
+      "name": "Luparense",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Luparense_FC.svg",
+      "source_filename": "Luparense_FC.svg",
+      "source_sha256": "e85c6293b2400f3a3f57c7d19cb4d238faee0c2385b26d396595a185f0f6e053",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200149.png",
+      "background_rgb": [
+        109,
+        123,
+        165
+      ],
+      "matching": "normalized exact",
+      "bytes": 12123
+    },
+    {
+      "id": 1793400200150,
+      "name": "Mestre",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/AC_Mestre.svg",
+      "source_filename": "AC_Mestre.svg",
+      "source_sha256": "8c8d72fdf03907da45b1e5c3616a98f7ca8266323484016cac7c7953e2a089ee",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200150.png",
+      "background_rgb": [
+        250,
+        129,
+        77
+      ],
+      "matching": "normalized exact",
+      "bytes": 6834
+    },
+    {
+      "id": 1793400200153,
+      "name": "Union Clodiense Chioggia",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Union_Clodiense_Chioggia_FC.svg",
+      "source_filename": "Union_Clodiense_Chioggia_FC.svg",
+      "source_sha256": "cb4873e3c605b7f1822bb4950e3609fdd2b7acd3ff0498089cb2b39a82400a6a",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200153.png",
+      "background_rgb": [
+        165,
+        109,
+        109
+      ],
+      "matching": "normalized exact",
+      "bytes": 11267
+    },
+    {
+      "id": 1793400200154,
+      "name": "Città di Pontedera",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Pontedera.svg",
+      "source_filename": "Pontedera.svg",
+      "source_sha256": "267167ab7c74a5c896b90d5918911688d5f208cd5a20153d0f3205b244bbacd5",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200154.png",
+      "background_rgb": [
+        207,
+        123,
+        137
+      ],
+      "matching": "manually matched",
+      "bytes": 4997
+    },
+    {
+      "id": 1793400200155,
+      "name": "Pistoiese",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/FC_Pistoiese_1921.svg",
+      "source_filename": "FC_Pistoiese_1921.svg",
+      "source_sha256": "da000e731a4a900c1b0331d7f429a08f2ab13d960d45096005d7202f981bca54",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200155.png",
+      "background_rgb": [
+        250,
+        129,
+        94
+      ],
+      "matching": "normalized exact",
+      "bytes": 6794
+    },
+    {
+      "id": 1793400200156,
+      "name": "Cittadella Modena",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Cittadella_Vis_Modena.svg",
+      "source_filename": "Cittadella_Vis_Modena.svg",
+      "source_sha256": "a034f1dd41f95712968a66b369879265a4b2b45f7cdd068c243b8c9e8699260f",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200156.png",
+      "background_rgb": [
+        123,
+        123,
+        137
+      ],
+      "matching": "manually matched",
+      "bytes": 7803
+    },
+    {
+      "id": 1793400200157,
+      "name": "Correggese",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Correggese_Calcio_1948.svg",
+      "source_filename": "Correggese_Calcio_1948.svg",
+      "source_sha256": "a41ad1e002139aaa12120c5a6770cf607e1c3309d5c67aababcf2149c6956a06",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200157.png",
+      "background_rgb": [
+        221,
+        123,
+        123
+      ],
+      "matching": "normalized exact",
+      "bytes": 14399
+    },
+    {
+      "id": 1793400200158,
+      "name": "Lentigione",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Lentigione_Calcio.svg",
+      "source_filename": "Lentigione_Calcio.svg",
+      "source_sha256": "97627d30edf152bddd0b412785364f7d2586453aa79267916554d0a9d0815680",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200158.png",
+      "background_rgb": [
+        252,
+        252,
+        12
+      ],
+      "matching": "normalized exact",
+      "bytes": 9405
+    },
+    {
+      "id": 1793400200159,
+      "name": "Tropical Coriano",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/ASD_Tropical_Coriano.svg",
+      "source_filename": "ASD_Tropical_Coriano.svg",
+      "source_sha256": "b69f085746d98b48bd0af70ea8d8c7b9cedb2075879f283dfc331a80334f385e",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200159.png",
+      "background_rgb": [
+        109,
+        151,
+        193
+      ],
+      "matching": "normalized exact",
+      "bytes": 9519
+    },
+    {
+      "id": 1793400200161,
+      "name": "Aurora Pro Patria",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Pro_Patria.svg",
+      "source_filename": "Pro_Patria.svg",
+      "source_sha256": "34609916e356560d33d94af07858e7fca90520c1e376bbbb198eee5e4d23730b",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200161.png",
+      "background_rgb": [
+        123,
+        151,
+        193
+      ],
+      "matching": "manually matched",
+      "bytes": 6876
+    },
+    {
+      "id": 1793400200163,
+      "name": "Crema",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/AC_Crema_1908.svg",
+      "source_filename": "AC_Crema_1908.svg",
+      "source_sha256": "938982077994c252056e182ac172ae5f008c653f88295396fa736c274fec05f9",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200163.png",
+      "background_rgb": [
+        228,
+        204,
+        156
+      ],
+      "matching": "normalized exact",
+      "bytes": 9088
+    },
+    {
+      "id": 1793400200166,
+      "name": "Pavia",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Pavia_Calcio_1911.svg",
+      "source_filename": "Pavia_Calcio_1911.svg",
+      "source_sha256": "8f1d8adcb9ba6727bcf6427195e5dca09fd2940c3cae7157bd205203ff87ea35",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200166.png",
+      "background_rgb": [
+        109,
+        151,
+        193
+      ],
+      "matching": "normalized exact",
+      "bytes": 10693
+    },
+    {
+      "id": 1793400200167,
+      "name": "Pro Sesto",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Pro_Sesto_1913.svg",
+      "source_filename": "Pro_Sesto_1913.svg",
+      "source_sha256": "46002331470402e1a25ca4d057688d3b609f92a21a152d56f8642f31d3063e15",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200167.png",
+      "background_rgb": [
+        123,
+        137,
+        165
+      ],
+      "matching": "normalized exact",
+      "bytes": 5948
+    },
+    {
+      "id": 1793400200168,
+      "name": "Sant’Angelo",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/AC_Sant%27Angelo_1907.svg",
+      "source_filename": "AC_Sant'Angelo_1907.svg",
+      "source_sha256": "e809959b6cf0cd081ebef01620e05a2cc34bf85566d87b827788ebf409a1b983",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200168.png",
+      "background_rgb": [
+        235,
+        109,
+        109
+      ],
+      "matching": "manually matched",
+      "bytes": 9723
+    },
+    {
+      "id": 1793400200170,
+      "name": "Varese",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Varese.svg",
+      "source_filename": "Varese.svg",
+      "source_sha256": "b06c7095aa6cae2e236147d5a348c4f7ee389b5aa4213eebebf741a440e01207",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200170.png",
+      "background_rgb": [
+        232,
+        111,
+        111
+      ],
+      "matching": "normalized exact",
+      "bytes": 8025
+    },
+    {
+      "id": 1793400200171,
+      "name": "Varesina",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Varesina_Calcio.svg",
+      "source_filename": "Varesina_Calcio.svg",
+      "source_sha256": "8188c3d2bec3f3f4be5f35b5fa41e04398153c2c31829a2f5da83ae2005155b6",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200171.png",
+      "background_rgb": [
+        109,
+        123,
+        151
+      ],
+      "matching": "normalized exact",
+      "bytes": 10525
+    },
+    {
+      "id": 1793400200172,
+      "name": "Flaminia Civitacastellana",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Flaminia_Civita_Castellana.svg",
+      "source_filename": "Flaminia_Civita_Castellana.svg",
+      "source_sha256": "01ca245e79dde8dabd66ddceed4fc51cc982844cf0c9d93cebc70cdff1aa3397",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200172.png",
+      "background_rgb": [
+        109,
+        123,
+        179
+      ],
+      "matching": "manually matched",
+      "bytes": 8681
+    },
+    {
+      "id": 1793400200173,
+      "name": "Aquila Montevarchi",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Aquila_Montevarchi_1902.svg",
+      "source_filename": "Aquila_Montevarchi_1902.svg",
+      "source_sha256": "f8f0f56180cddf0c9cc3f3de56a7cdfad6123b0fa3527ba690162d3bbb97a02f",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200173.png",
+      "background_rgb": [
+        109,
+        123,
+        151
+      ],
+      "matching": "manually matched",
+      "bytes": 8193
+    },
+    {
+      "id": 1793400200174,
+      "name": "Follonica Gavorrano",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/US_Follonica_Gavorrano.svg",
+      "source_filename": "US_Follonica_Gavorrano.svg",
+      "source_sha256": "077f8e13b886bfa02efca0ba9b987dc39f94e67cb4f29ecbdc7c6554ff315716",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200174.png",
+      "background_rgb": [
+        249,
+        109,
+        109
+      ],
+      "matching": "manually matched",
+      "bytes": 5093
+    },
+    {
+      "id": 1793400200175,
+      "name": "Ghiviborgo",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Ghiviborgo.svg",
+      "source_filename": "Ghiviborgo.svg",
+      "source_sha256": "8c5f251b182dcd7f4259fbe0687491d64bb50cddeae2b399aa93a66bdd4d01a8",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200175.png",
+      "background_rgb": [
+        123,
+        137,
+        179
+      ],
+      "matching": "normalized exact",
+      "bytes": 8624
+    },
+    {
+      "id": 1793400200177,
+      "name": "Lucchese",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Lucchese_1905.svg",
+      "source_filename": "Lucchese_1905.svg",
+      "source_sha256": "664c49853b0762f9bad9d49cf16f4e63b5cc1f7c9e6593dec812fe42cec23b29",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200177.png",
+      "background_rgb": [
+        221,
+        109,
+        123
+      ],
+      "matching": "normalized exact",
+      "bytes": 6758
+    },
+    {
+      "id": 1793400200178,
+      "name": "Prato",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/AC_Prato.svg",
+      "source_filename": "AC_Prato.svg",
+      "source_sha256": "fbe72d045f558b406c17687ed79c086e662e68911378d7b1b7e3c7810d1bf5b6",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200178.png",
+      "background_rgb": [
+        77,
+        146,
+        198
+      ],
+      "matching": "normalized exact",
+      "bytes": 7933
+    },
+    {
+      "id": 1793400200180,
+      "name": "San Donato Tavarnelle",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/San_Donato_Tavarnelle.svg",
+      "source_filename": "San_Donato_Tavarnelle.svg",
+      "source_sha256": "0a1824e85ace524578f8a4bb3bfa0727ec832774892847cbcc9803935edd8271",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200180.png",
+      "background_rgb": [
+        123,
+        137,
+        179
+      ],
+      "matching": "normalized exact",
+      "bytes": 5499
+    },
+    {
+      "id": 1793400200181,
+      "name": "Scandicci",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/FC_Scandicci_1908.svg",
+      "source_filename": "FC_Scandicci_1908.svg",
+      "source_sha256": "f934d0e9a919535e45d488359b5527815b4aac265066a0de53702286ffa9b3a1",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200181.png",
+      "background_rgb": [
+        109,
+        123,
+        165
+      ],
+      "matching": "normalized exact",
+      "bytes": 11408
+    },
+    {
+      "id": 1793400200182,
+      "name": "Seravezza",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Seravezza_Pozzi_Calcio.svg",
+      "source_filename": "Seravezza_Pozzi_Calcio.svg",
+      "source_sha256": "7102d10c357080371369bc16c1c26da5258a6df92cf346db636addf3bc05d858",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200182.png",
+      "background_rgb": [
+        249,
+        109,
+        109
+      ],
+      "matching": "manually matched",
+      "bytes": 12469
+    },
+    {
+      "id": 1793400200183,
+      "name": "Siena",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Siena.svg",
+      "source_filename": "Siena.svg",
+      "source_sha256": "1ac06e3e91230f79a3b7500feca441d28914b0987bf40926d9b3829f97f08a2a",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200183.png",
+      "background_rgb": [
+        252,
+        204,
+        12
+      ],
+      "matching": "normalized exact",
+      "bytes": 8743
+    },
+    {
+      "id": 1793400200184,
+      "name": "Tau Altopascio",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Tau_Calcio_Altopascio.svg",
+      "source_filename": "Tau_Calcio_Altopascio.svg",
+      "source_sha256": "ad5bf673392fec2c7adcf90f71066d48d342ba21084bde7b4b9748a0e19aa918",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200184.png",
+      "background_rgb": [
+        193,
+        109,
+        109
+      ],
+      "matching": "normalized exact",
+      "bytes": 4415
+    },
+    {
+      "id": 1793400200185,
+      "name": "Terranuova Traiana",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Terranuova_Traiana.svg",
+      "source_filename": "Terranuova_Traiana.svg",
+      "source_sha256": "e659b145a9e8c6ae9a62bfabc484faf253106646d3ca581fbd0264bc4af4bcae",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200185.png",
+      "background_rgb": [
+        249,
+        109,
+        109
+      ],
+      "matching": "normalized exact",
+      "bytes": 4199
+    },
+    {
+      "id": 1793400200186,
+      "name": "Nuova Ternana",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Ternana.svg",
+      "source_filename": "Ternana.svg",
+      "source_sha256": "2571c80c6aebb0255e7250f78e97d5b6bf34b9b6d5e0a966a2c33dbda0a223e4",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200186.png",
+      "background_rgb": [
+        123,
+        165,
+        137
+      ],
+      "matching": "manually matched",
+      "bytes": 8024
+    },
+    {
+      "id": 1793400200188,
+      "name": "Progresso",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/SCD_Progresso_Calcio.svg",
+      "source_filename": "SCD_Progresso_Calcio.svg",
+      "source_sha256": "a692ba3b26d1a1d6aaf74b08907fef0a339dc09ef0a7e3ca18428b688e03b73d",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200188.png",
+      "background_rgb": [
+        221,
+        123,
+        123
+      ],
+      "matching": "manually matched",
+      "bytes": 7734
+    },
+    {
+      "id": 1793400200189,
+      "name": "Sasso Marconi",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/ASD_Sasso_Marconi_1924.svg",
+      "source_filename": "ASD_Sasso_Marconi_1924.svg",
+      "source_sha256": "92bddf7b800cea26e8cc13b106d561a46ffd652344ed17b9f39a9dd9ee7ad5e9",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200189.png",
+      "background_rgb": [
+        137,
+        137,
+        193
+      ],
+      "matching": "normalized exact",
+      "bytes": 5603
+    },
+    {
+      "id": 1793400200190,
+      "name": "Ancona",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Ancona.svg",
+      "source_filename": "Ancona.svg",
+      "source_sha256": "0890d0285a0c8c56fcfe54048060ad88d62ea3e381330992765e3e467744ca02",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200190.png",
+      "background_rgb": [
+        221,
+        123,
+        123
+      ],
+      "matching": "normalized exact",
+      "bytes": 9187
+    },
+    {
+      "id": 1793400200191,
+      "name": "Atletico Ascoli",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Atletico_Ascoli.svg",
+      "source_filename": "Atletico_Ascoli.svg",
+      "source_sha256": "e1841365ba928e52378a0e077a394c9ef67e87b922a905d4c24cd1e4c66073d8",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200191.png",
+      "background_rgb": [
+        143,
+        156,
+        177
+      ],
+      "matching": "manually matched",
+      "bytes": 10986
+    },
+    {
+      "id": 1793400200192,
+      "name": "Forsempronese",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Fossombrone_Calcio.svg",
+      "source_filename": "Fossombrone_Calcio.svg",
+      "source_sha256": "0c15d1592f3cc4eefb93d86ec6d876b0ec320668bd7e65104bff6e7bbe72efc0",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200192.png",
+      "background_rgb": [
+        109,
+        151,
+        207
+      ],
+      "matching": "manually matched",
+      "bytes": 14031
+    },
+    {
+      "id": 1793400200193,
+      "name": "Maceratese",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Maceratese_1922.svg",
+      "source_filename": "Maceratese_1922.svg",
+      "source_sha256": "c5bb94e1fec2a05c8f4d78674a990ef5e857e147daf7ac406e66cfb75c2fbe78",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200193.png",
+      "background_rgb": [
+        232,
+        94,
+        94
+      ],
+      "matching": "normalized exact",
+      "bytes": 8109
+    },
+    {
+      "id": 1793400200195,
+      "name": "Recanatese",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/US_Recanatese.svg",
+      "source_filename": "US_Recanatese.svg",
+      "source_sha256": "af8eda4ed2161fb3e202620bf8a18da6e102eb481fb0a41951007bec4bb893fa",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200195.png",
+      "background_rgb": [
+        249,
+        109,
+        109
+      ],
+      "matching": "normalized exact",
+      "bytes": 7356
+    },
+    {
+      "id": 1793400200196,
+      "name": "Vigor Senigallia",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Vigor_Senigallia.svg",
+      "source_filename": "Vigor_Senigallia.svg",
+      "source_sha256": "717a132dc8d162cecce4c31c28be0cabb64f4f18578317083662788c8091f6e6",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200196.png",
+      "background_rgb": [
+        123,
+        123,
+        165
+      ],
+      "matching": "normalized exact",
+      "bytes": 9130
+    },
+    {
+      "id": 1793400200198,
+      "name": "Giulianova",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Giulianova_Calcio_1924.svg",
+      "source_filename": "Giulianova_Calcio_1924.svg",
+      "source_sha256": "ea15eab3dc7d3a68ed37cc57082385afe221aa6ba2897c6900672b7a8033cbfe",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200198.png",
+      "background_rgb": [
+        252,
+        228,
+        12
+      ],
+      "matching": "normalized exact",
+      "bytes": 7046
+    },
+    {
+      "id": 1793400200199,
+      "name": "L’Aquila",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/L%27Aquila_1927.svg",
+      "source_filename": "L'Aquila_1927.svg",
+      "source_sha256": "1c67b837c011308c2e6e0e74b536fbcc148269ff663fe1feb45f1d10250bfa02",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200199.png",
+      "background_rgb": [
+        179,
+        123,
+        123
+      ],
+      "matching": "strong fuzzy",
+      "bytes": 8326
+    },
+    {
+      "id": 1793400200200,
+      "name": "Notaresco",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Notaresco_Calcio_1924.svg",
+      "source_filename": "Notaresco_Calcio_1924.svg",
+      "source_sha256": "7261385f1563d8289971c1ab7a26612941dd4e9186a5a174e6457280e7e7ad1e",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200200.png",
+      "background_rgb": [
+        123,
+        123,
+        151
+      ],
+      "matching": "normalized exact",
+      "bytes": 8424
+    },
+    {
+      "id": 1793400200202,
+      "name": "Teramo",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Teramo_Calcio_1913.svg",
+      "source_filename": "Teramo_Calcio_1913.svg",
+      "source_sha256": "e2ab5190bc7c86a05b71cb073e7f449f13f5e3e1c7b63873540125c23d9a5cbb",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200202.png",
+      "background_rgb": [
+        232,
+        94,
+        94
+      ],
+      "matching": "normalized exact",
+      "bytes": 8248
+    },
+    {
+      "id": 1793400200204,
+      "name": "Foligno",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Foligno_Calcio_1928.svg",
+      "source_filename": "Foligno_Calcio_1928.svg",
+      "source_sha256": "01b35576e884d1e1ad9eb29787ee03cbf818e03e90954a3d69a57ac275f79ebb",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200204.png",
+      "background_rgb": [
+        109,
+        151,
+        179
+      ],
+      "matching": "normalized exact",
+      "bytes": 11227
+    },
+    {
+      "id": 1793400200206,
+      "name": "Sporting Trestina",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Sporting_Club_Trestina.svg",
+      "source_filename": "Sporting_Club_Trestina.svg",
+      "source_sha256": "6747ae12c7dbbd107bb792011d9efb2644930fb9baba4358d9aaf4e6e54c35f8",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200206.png",
+      "background_rgb": [
+        252,
+        252,
+        12
+      ],
+      "matching": "normalized exact",
+      "bytes": 5831
+    },
+    {
+      "id": 1793400200207,
+      "name": "Termoli",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Termoli_Calcio_1920.svg",
+      "source_filename": "Termoli_Calcio_1920.svg",
+      "source_sha256": "752848df97b1c06125350251443e34f5dd38bdc305553afd1e79395924108f0d",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200207.png",
+      "background_rgb": [
+        252,
+        252,
+        12
+      ],
+      "matching": "normalized exact",
+      "bytes": 10646
+    },
+    {
+      "id": 1793400200208,
+      "name": "Budoni",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Budoni_Calcio.svg",
+      "source_filename": "Budoni_Calcio.svg",
+      "source_sha256": "fe9339b4ca3c8aff3ec3a54164058a0ca1fa9ba590f1223236b74a3211217596",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200208.png",
+      "background_rgb": [
+        109,
+        151,
+        165
+      ],
+      "matching": "normalized exact",
+      "bytes": 6032
+    },
+    {
+      "id": 1793400200209,
+      "name": "Cos Sarrabus Ogliastra",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/COS_Sarrabus_Ogliastra.svg",
+      "source_filename": "COS_Sarrabus_Ogliastra.svg",
+      "source_sha256": "10d3c7e25edb5d2f7301000ac596cb1ee3e10573445dd5fa787aa64a3266805a",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200209.png",
+      "background_rgb": [
+        77,
+        146,
+        198
+      ],
+      "matching": "manually matched",
+      "bytes": 5554
+    },
+    {
+      "id": 1793400200210,
+      "name": "Monastir",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/ASD_Monastir_1983.svg",
+      "source_filename": "ASD_Monastir_1983.svg",
+      "source_sha256": "5880b8b1567142e7ff3b9d39bb7872d2115f2d778ba5caea02e7f124bbe3650f",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200210.png",
+      "background_rgb": [
+        109,
+        151,
+        207
+      ],
+      "matching": "manually matched",
+      "bytes": 7482
+    },
+    {
+      "id": 1793400200212,
+      "name": "Sassari Lattedolce",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Sassari_Calcio_Latte_Dolce.svg",
+      "source_filename": "Sassari_Calcio_Latte_Dolce.svg",
+      "source_sha256": "7dd2fd8dd972f2498071c264e7aa6b7fd085ec31f89aa11412e05113d4c51eef",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200212.png",
+      "background_rgb": [
+        108,
+        204,
+        252
+      ],
+      "matching": "manually matched",
+      "bytes": 8890
+    },
+    {
+      "id": 1793400200214,
+      "name": "Anzio",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Anzio_Calcio_1924.svg",
+      "source_filename": "Anzio_Calcio_1924.svg",
+      "source_sha256": "45fa4344832988cee47f84f0f490da19164782708a50af5acb2bd3b64b23c434",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200214.png",
+      "background_rgb": [
+        123,
+        137,
+        193
+      ],
+      "matching": "normalized exact",
+      "bytes": 13836
+    },
+    {
+      "id": 1793400200216,
+      "name": "Atletico Lodigiani",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Atletico_Lodigiani.svg",
+      "source_filename": "Atletico_Lodigiani.svg",
+      "source_sha256": "36080d046329d11220883a6ba35bf04b7bb7a4c3eae95db262face490f4f42a1",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200216.png",
+      "background_rgb": [
+        232,
+        94,
+        94
+      ],
+      "matching": "normalized exact",
+      "bytes": 12479
+    },
+    {
+      "id": 1793400200219,
+      "name": "Trastevere",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Trastevere_Calcio.svg",
+      "source_filename": "Trastevere_Calcio.svg",
+      "source_sha256": "646bf4dd325747b6547dd1c8cd55f3064c86ae95bb962e8f4440c03189447a14",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200219.png",
+      "background_rgb": [
+        165,
+        109,
+        123
+      ],
+      "matching": "normalized exact",
+      "bytes": 13244
+    },
+    {
+      "id": 1793400200220,
+      "name": "Unipomezia",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/UniPomezia_1938.svg",
+      "source_filename": "UniPomezia_1938.svg",
+      "source_sha256": "23f7511323798bfe7ce1ac7c5197f3f22324b45e5badf0c987c8b7033a5c1f30",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200220.png",
+      "background_rgb": [
+        109,
+        123,
+        151
+      ],
+      "matching": "strong fuzzy",
+      "bytes": 7393
+    },
+    {
+      "id": 1793400200221,
+      "name": "Afragolese",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Afragolese_1944.svg",
+      "source_filename": "Afragolese_1944.svg",
+      "source_sha256": "22950ae403153e333b875b2febc7ab45d1966328cfcb4e78ca90edd96760cb27",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200221.png",
+      "background_rgb": [
+        109,
+        123,
+        137
+      ],
+      "matching": "normalized exact",
+      "bytes": 10251
+    },
+    {
+      "id": 1793400200223,
+      "name": "Paganese",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Paganese_Calcio_1926.svg",
+      "source_filename": "Paganese_Calcio_1926.svg",
+      "source_sha256": "79ab0e8800feb9d381d2629ac35e1d08d5a4d58dd8e4d7245f2bf3563e1f5f56",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200223.png",
+      "background_rgb": [
+        109,
+        137,
+        179
+      ],
+      "matching": "normalized exact",
+      "bytes": 9625
+    },
+    {
+      "id": 1793400200224,
+      "name": "Sarnese",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Sarnese_1926.svg",
+      "source_filename": "Sarnese_1926.svg",
+      "source_sha256": "d0280a26af5a5b35524c11200720212b125f7d406b3858e7da2d6f231c23f36a",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200224.png",
+      "background_rgb": [
+        84,
+        156,
+        228
+      ],
+      "matching": "normalized exact",
+      "bytes": 12228
+    },
+    {
+      "id": 1793400200228,
+      "name": "Fidelis Andria",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Fidelis_Andria.svg",
+      "source_filename": "Fidelis_Andria.svg",
+      "source_sha256": "a78115c4122722d9cb2225c79784571f2a3954ae389d060bf0dbb686c249d219",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200228.png",
+      "background_rgb": [
+        109,
+        151,
+        193
+      ],
+      "matching": "normalized exact",
+      "bytes": 6716
+    },
+    {
+      "id": 1793400200230,
+      "name": "Manfredonia",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Manfredonia_Calcio.svg",
+      "source_filename": "Manfredonia_Calcio.svg",
+      "source_sha256": "0fa9b4cca277883acefde43ef67a75336196d7cdaf840dde7ed6ead699af82dc",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200230.png",
+      "background_rgb": [
+        36,
+        180,
+        228
+      ],
+      "matching": "normalized exact",
+      "bytes": 10348
+    },
+    {
+      "id": 1793400200231,
+      "name": "Martina",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Martina_Calcio_1947.svg",
+      "source_filename": "Martina_Calcio_1947.svg",
+      "source_sha256": "348945572461fe270410c93f32601c6a3964d38514da321dbd219523799e6501",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200231.png",
+      "background_rgb": [
+        109,
+        123,
+        151
+      ],
+      "matching": "normalized exact",
+      "bytes": 9959
+    },
+    {
+      "id": 1793400200232,
+      "name": "Nardò",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/AC_Nard%C3%B2.svg",
+      "source_filename": "AC_Nardò.svg",
+      "source_sha256": "e4430595a7071c5804e8bf3f153e78315765b10152f4e5158de4e7a639eb8349",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200232.png",
+      "background_rgb": [
+        137,
+        109,
+        109
+      ],
+      "matching": "normalized exact",
+      "bytes": 7807
+    },
+    {
+      "id": 1793400200233,
+      "name": "Virtus Francavilla",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Virtus_Francavilla.svg",
+      "source_filename": "Virtus_Francavilla.svg",
+      "source_sha256": "db744210bb8fb3ab03eabba317e84522e4195ac08ea181660862169ac32908a6",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200233.png",
+      "background_rgb": [
+        77,
+        180,
+        232
+      ],
+      "matching": "normalized exact",
+      "bytes": 9092
+    },
+    {
+      "id": 1793400200234,
+      "name": "Francavilla",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/FC_Francavilla.svg",
+      "source_filename": "FC_Francavilla.svg",
+      "source_sha256": "0ab78e39c7cb9e86d916a6069ec555a3acd89c49ac0059aa945d5f0cd3c3aa16",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200234.png",
+      "background_rgb": [
+        235,
+        123,
+        109
+      ],
+      "matching": "normalized exact",
+      "bytes": 6294
+    },
+    {
+      "id": 1793400200235,
+      "name": "Melfi",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/AS_Melfi.svg",
+      "source_filename": "AS_Melfi.svg",
+      "source_sha256": "c4ebe95dc39ab0077513c28e28175b514e8e8659c74c0d802a645000223807c8",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200235.png",
+      "background_rgb": [
+        123,
+        179,
+        137
+      ],
+      "matching": "normalized exact",
+      "bytes": 8771
+    },
+    {
+      "id": 1793400200237,
+      "name": "Ischia Isola Verde",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Ischia_Calcio.svg",
+      "source_filename": "Ischia_Calcio.svg",
+      "source_sha256": "e2534a762f84e203e0ee035b3147a720ec2cfb2c6786f199e713b4363f18114d",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200237.png",
+      "background_rgb": [
+        252,
+        228,
+        12
+      ],
+      "matching": "manually matched",
+      "bytes": 7651
+    },
+    {
+      "id": 1793400200238,
+      "name": "Nocerina",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Nocerina_1910.svg",
+      "source_filename": "Nocerina_1910.svg",
+      "source_sha256": "1a72c83946d830059e1f671d84b90935468e8cca81f9d65ca362a5f16a45bcdf",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200238.png",
+      "background_rgb": [
+        235,
+        109,
+        123
+      ],
+      "matching": "normalized exact",
+      "bytes": 6423
+    },
+    {
+      "id": 1793400200239,
+      "name": "Palmese",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/US_Palmese_1912.svg",
+      "source_filename": "US_Palmese_1912.svg",
+      "source_sha256": "6bc33c1cb1365573662eb6e9651365a92bf3f2122ae5ee05cac27468116e3d5c",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200239.png",
+      "background_rgb": [
+        109,
+        165,
+        137
+      ],
+      "matching": "manually matched",
+      "bytes": 7378
+    },
+    {
+      "id": 1793400200240,
+      "name": "Puteoli Real Normanna",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Real_Normanna.svg",
+      "source_filename": "Real_Normanna.svg",
+      "source_sha256": "6205edffb09091e715a52263826f8b93eef39f6a9d3021412776545f2d428b8a",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200240.png",
+      "background_rgb": [
+        252,
+        180,
+        36
+      ],
+      "matching": "manually matched",
+      "bytes": 5283
+    },
+    {
+      "id": 1793400200244,
+      "name": "Athletic Palermo",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Athletic_Club_Palermo.svg",
+      "source_filename": "Athletic_Club_Palermo.svg",
+      "source_sha256": "deba454944a791a2589924469d2b060167dab54ca9e35b74164225491678eb5e",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200244.png",
+      "background_rgb": [
+        232,
+        77,
+        146
+      ],
+      "matching": "manually matched",
+      "bytes": 12839
+    },
+    {
+      "id": 1793400200245,
+      "name": "Avola",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Calcio_Avola_1949.svg",
+      "source_filename": "Calcio_Avola_1949.svg",
+      "source_sha256": "396b4aa53d03f60027f61e459e9dd90f14135b1b9b7fa1c033cb0ed44fe16c61",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200245.png",
+      "background_rgb": [
+        123,
+        123,
+        151
+      ],
+      "matching": "manually matched",
+      "bytes": 7842
+    },
+    {
+      "id": 1793400200246,
+      "name": "Castrumfavara",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Castrum_Favara.svg",
+      "source_filename": "Castrum_Favara.svg",
+      "source_sha256": "478e24a5b48a87a2b337bf45050d129f1321e04a567d0e77b8e6763edc872230",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200246.png",
+      "background_rgb": [
+        252,
+        228,
+        12
+      ],
+      "matching": "manually matched",
+      "bytes": 5641
+    },
+    {
+      "id": 1793400200247,
+      "name": "Enna",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Enna_Calcio.svg",
+      "source_filename": "Enna_Calcio.svg",
+      "source_sha256": "450f0cfbf97c070edcab39890fda1716e7d090433658a050452f7fe14a7177d8",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200247.png",
+      "background_rgb": [
+        252,
+        252,
+        12
+      ],
+      "matching": "normalized exact",
+      "bytes": 8353
+    },
+    {
+      "id": 1793400200248,
+      "name": "Gela",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Gela_Calcio.svg",
+      "source_filename": "Gela_Calcio.svg",
+      "source_sha256": "5ffc6d7bf56b5fd9e785260b99ceab85726055cb978a74d63810a0f68cd50a7e",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200248.png",
+      "background_rgb": [
+        77,
+        146,
+        215
+      ],
+      "matching": "normalized exact",
+      "bytes": 9053
+    },
+    {
+      "id": 1793400200250,
+      "name": "Milazzo",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/SS_Milazzo.svg",
+      "source_filename": "SS_Milazzo.svg",
+      "source_sha256": "f5c0926ce9f8cf3f1d6ed36ba4eb6a027250228391876a69ff82d01fa7a46ac0",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200250.png",
+      "background_rgb": [
+        221,
+        123,
+        123
+      ],
+      "matching": "normalized exact",
+      "bytes": 9149
+    },
+    {
+      "id": 1793400200252,
+      "name": "Nissa",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Nissa_FC.svg",
+      "source_filename": "Nissa_FC.svg",
+      "source_sha256": "2c0f1ef5204637725e60c0b24d7ce573da39a43c2f62dd2eb47a026b2f15ae8a",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200252.png",
+      "background_rgb": [
+        235,
+        109,
+        109
+      ],
+      "matching": "normalized exact",
+      "bytes": 7704
+    },
+    {
+      "id": 1793400200253,
+      "name": "Nuova Igea Virtus",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Igea_Virtus_Barcellona.svg",
+      "source_filename": "Igea_Virtus_Barcellona.svg",
+      "source_sha256": "27079e2ee4545b0fffcd83b2c2f344dd4c05423b311bf841ac060d1925318b55",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200253.png",
+      "background_rgb": [
+        221,
+        123,
+        123
+      ],
+      "matching": "manually matched",
+      "bytes": 8775
+    },
+    {
+      "id": 1793400200254,
+      "name": "Ragusa",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Ragusa_Calcio.svg",
+      "source_filename": "Ragusa_Calcio.svg",
+      "source_sha256": "eed5a517241610b41223269f7c5c9ffc5c0e7afd775875b17b6eef3cc9801bc3",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200254.png",
+      "background_rgb": [
+        111,
+        163,
+        215
+      ],
+      "matching": "normalized exact",
+      "bytes": 10580
+    },
+    {
+      "id": 1793400200255,
+      "name": "Siracusa",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Siracusa.svg",
+      "source_filename": "Siracusa.svg",
+      "source_sha256": "3962865e0a7657ebdd0996fd4ba8db0bf1c05edf1095939d84a10f4458153dad",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200255.png",
+      "background_rgb": [
+        109,
+        151,
+        193
+      ],
+      "matching": "normalized exact",
+      "bytes": 9357
+    },
+    {
+      "id": 1793400200256,
+      "name": "Trapani",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Trapani.svg",
+      "source_filename": "Trapani.svg",
+      "source_sha256": "0e678726070bad5921f12af2bc53ba533abe70cd809373dbbc4f7d52b782b9aa",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200256.png",
+      "background_rgb": [
+        193,
+        109,
+        123
+      ],
+      "matching": "normalized exact",
+      "bytes": 9801
+    },
+    {
+      "id": 1793400200258,
+      "name": "Reggina",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Reggina_1914.svg",
+      "source_filename": "Reggina_1914.svg",
+      "source_sha256": "b17de24de597088a5c0d9582f60d5f3a2f09f6ccad764d4611a4e3012474bbdf",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200258.png",
+      "background_rgb": [
+        165,
+        123,
+        137
+      ],
+      "matching": "normalized exact",
+      "bytes": 10086
+    },
+    {
+      "id": 1793400200259,
+      "name": "Sambiase",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Sambiase_Calcio.svg",
+      "source_filename": "Sambiase_Calcio.svg",
+      "source_sha256": "e52455ed3ceb5a6dc02fc4e29f8aab993a8543951a7220741585efcba779051a",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200259.png",
+      "background_rgb": [
+        204,
+        156,
+        84
+      ],
+      "matching": "normalized exact",
+      "bytes": 11327
+    },
+    {
+      "id": 1793400200260,
+      "name": "Vibonese",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Vibonese.svg",
+      "source_filename": "Vibonese.svg",
+      "source_sha256": "4196335c6742927a8e445a53bc35f8fdc9e2786006813e8dab03d09ef60fed9c",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200260.png",
+      "background_rgb": [
+        109,
+        137,
+        193
+      ],
+      "matching": "normalized exact",
+      "bytes": 7299
+    },
+    {
+      "id": 1793400200261,
+      "name": "Vigor Lamezia",
+      "source_svg": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/italy/Vigor_Lamezia.svg",
+      "source_filename": "Vigor_Lamezia.svg",
+      "source_sha256": "a1715f4219ebef7eaf42e7f6fbcd6ab7b58d55712ea196d947154eab4c7d9dc0",
+      "github_path": "docs/italian-clubs-2026-27/v1/1793400200261.png",
+      "background_rgb": [
+        109,
+        193,
+        137
+      ],
+      "matching": "normalized exact",
+      "bytes": 10176
+    }
+  ],
+  "missing": [
+    {
+      "id": 1793400200012,
+      "name": "Monza",
+      "reason": "ambiguous exact",
+      "candidates": [
+        "AC_Monza.svg",
+        "Monza.svg"
+      ]
+    },
+    {
+      "id": 1793400200015,
+      "name": "Roma",
+      "reason": "ambiguous exact",
+      "candidates": [
+        "AS_Roma.svg",
+        "Roma.svg"
+      ]
+    },
+    {
+      "id": 1793400200058,
+      "name": "Treviso",
+      "reason": "not confidently matched",
+      "candidates": [
+        [
+          0.7777777777777778,
+          "Treviso_FBC_1993.svg"
+        ],
+        [
+          0.625,
+          "Notaresco_Calcio_1924.svg"
+        ],
+        [
+          0.6153846153846154,
+          "Trento.svg"
+        ]
+      ]
+    },
+    {
+      "id": 1793400200100,
+      "name": "Alessandria",
+      "reason": "not confidently matched",
+      "candidates": [
+        [
+          0.64,
+          "Fidelis_Andria.svg"
+        ],
+        [
+          0.6,
+          "Sampdoria.svg"
+        ],
+        [
+          0.5714285714285714,
+          "Asd_Ferrandina_17890.svg"
+        ]
+      ]
+    },
+    {
+      "id": 1793400200103,
+      "name": "Borgosesia",
+      "reason": "not confidently matched",
+      "candidates": [
+        [
+          0.7058823529411765,
+          "Brescia.svg"
+        ],
+        [
+          0.5555555555555556,
+          "Varesina_Calcio.svg"
+        ],
+        [
+          0.5263157894736842,
+          "Triestina.svg"
+        ]
+      ]
+    },
+    {
+      "id": 1793400200108,
+      "name": "Lascaris",
+      "reason": "not confidently matched",
+      "candidates": [
+        [
+          0.6153846153846154,
+          "AC_Carpi.svg"
+        ],
+        [
+          0.5714285714285714,
+          "Ascoli.svg"
+        ],
+        [
+          0.5333333333333333,
+          "Sarnese_1926.svg"
+        ]
+      ]
+    },
+    {
+      "id": 1793400200112,
+      "name": "Fezzanese",
+      "reason": "not confidently matched",
+      "candidates": [
+        [
+          0.6666666666666666,
+          "Lumezzane.svg"
+        ],
+        [
+          0.631578947368421,
+          "US_Recanatese.svg"
+        ],
+        [
+          0.625,
+          "Sarnese_1926.svg"
+        ]
+      ]
+    },
+    {
+      "id": 1793400200115,
+      "name": "Millesimo",
+      "reason": "not confidently matched",
+      "candidates": [
+        [
+          0.5882352941176471,
+          "Biellese.svg"
+        ],
+        [
+          0.5333333333333333,
+          "Club_Milano.svg"
+        ],
+        [
+          0.5185185185185185,
+          "Dolomiti_Bellunesi.svg"
+        ]
+      ]
+    },
+    {
+      "id": 1793400200122,
+      "name": "Palazzolo",
+      "reason": "not confidently matched",
+      "candidates": [
+        [
+          0.8181818181818182,
+          "FC_Pro_Palazzolo.svg"
+        ],
+        [
+          0.625,
+          "Saluzzo.svg"
+        ],
+        [
+          0.625,
+          "SS_Milazzo.svg"
+        ]
+      ]
+    },
+    {
+      "id": 1793400200123,
+      "name": "Pavonese",
+      "reason": "not confidently matched",
+      "candidates": [
+        [
+          0.8,
+          "Pianese.svg"
+        ],
+        [
+          0.75,
+          "Vibonese.svg"
+        ],
+        [
+          0.75,
+          "Paganese_Calcio_1926.svg"
+        ]
+      ]
+    },
+    {
+      "id": 1793400200126,
+      "name": "Scanzorosciate",
+      "reason": "not confidently matched",
+      "candidates": [
+        [
+          0.875,
+          "USD_Scanzorosciate_Calcio.svg"
+        ],
+        [
+          0.5217391304347826,
+          "Scafatese_Calcio_1922.svg"
+        ],
+        [
+          0.5217391304347826,
+          "Sanremese.svg"
+        ]
+      ]
+    },
+    {
+      "id": 1793400200127,
+      "name": "Tritium",
+      "reason": "not confidently matched",
+      "candidates": [
+        [
+          0.625,
+          "Triestina.svg"
+        ],
+        [
+          0.46153846153846156,
+          "Trento.svg"
+        ],
+        [
+          0.46153846153846156,
+          "Torino.svg"
+        ]
+      ]
+    },
+    {
+      "id": 1793400200133,
+      "name": "Fiorenzuola",
+      "reason": "alias source absent",
+      "candidates": []
+    },
+    {
+      "id": 1793400200134,
+      "name": "Nibbiano e Valtidone",
+      "reason": "not confidently matched",
+      "candidates": [
+        [
+          0.5,
+          "FC_Arzignano_Valchiampo.svg"
+        ],
+        [
+          0.4878048780487805,
+          "FC_Sangiuliano_City_Nova.svg"
+        ],
+        [
+          0.4666666666666667,
+          "Valmontone_1921.svg"
+        ]
+      ]
+    },
+    {
+      "id": 1793400200138,
+      "name": "LME",
+      "reason": "no verified source",
+      "candidates": []
+    },
+    {
+      "id": 1793400200141,
+      "name": "Virtus Bolzano",
+      "reason": "not confidently matched",
+      "candidates": [
+        [
+          0.6666666666666666,
+          "Virtus_Verona.svg"
+        ],
+        [
+          0.6428571428571429,
+          "Virtus_Entella.svg"
+        ],
+        [
+          0.5625,
+          "Virtus_Francavilla.svg"
+        ]
+      ]
+    },
+    {
+      "id": 1793400200148,
+      "name": "La Rocca Altavilla",
+      "reason": "not confidently matched",
+      "candidates": [
+        [
+          0.8372093023255814,
+          "Unione_La_Rocca_Altavilla.svg"
+        ],
+        [
+          0.5517241379310345,
+          "FC_Francavilla.svg"
+        ],
+        [
+          0.5128205128205128,
+          "San_Donato_Tavarnelle.svg"
+        ]
+      ]
+    },
+    {
+      "id": 1793400200151,
+      "name": "Sandonà",
+      "reason": "not confidently matched",
+      "candidates": [
+        [
+          0.7692307692307693,
+          "Ancona.svg"
+        ],
+        [
+          0.6666666666666666,
+          "Manfredonia_Calcio.svg"
+        ],
+        [
+          0.625,
+          "Sampdoria.svg"
+        ]
+      ]
+    },
+    {
+      "id": 1793400200152,
+      "name": "Schio",
+      "reason": "not confidently matched",
+      "candidates": [
+        [
+          0.7272727272727273,
+          "Ischia_Calcio.svg"
+        ],
+        [
+          0.6666666666666666,
+          "Chisola.svg"
+        ],
+        [
+          0.5454545454545454,
+          "Chieti_FC_1922.svg"
+        ]
+      ]
+    },
+    {
+      "id": 1793400200160,
+      "name": "Arconatese",
+      "reason": "not confidently matched",
+      "candidates": [
+        [
+          0.7058823529411765,
+          "Sarnese_1926.svg"
+        ],
+        [
+          0.7,
+          "US_Recanatese.svg"
+        ],
+        [
+          0.7,
+          "Maceratese_1922.svg"
+        ]
+      ]
+    },
+    {
+      "id": 1793400200162,
+      "name": "Castellanzese",
+      "reason": "not confidently matched",
+      "candidates": [
+        [
+          0.8666666666666667,
+          "USD_Castellanzese_1921.svg"
+        ],
+        [
+          0.5925925925925926,
+          "CS_Trevigliese.svg"
+        ],
+        [
+          0.5714285714285714,
+          "Paganese_Calcio_1926.svg"
+        ]
+      ]
+    },
+    {
+      "id": 1793400200164,
+      "name": "Casatese Merate",
+      "reason": "not confidently matched",
+      "candidates": [
+        [
+          0.8823529411764706,
+          "USD_Casatese_Merate.svg"
+        ],
+        [
+          0.5833333333333334,
+          "Scafatese_Calcio_1922.svg"
+        ],
+        [
+          0.56,
+          "US_Recanatese.svg"
+        ]
+      ]
+    },
+    {
+      "id": 1793400200165,
+      "name": "Oltrepò",
+      "reason": "not confidently matched",
+      "candidates": [
+        [
+          0.7777777777777778,
+          "Oltrepò_FBC.svg"
+        ],
+        [
+          0.625,
+          "Notaresco_Calcio_1924.svg"
+        ],
+        [
+          0.6153846153846154,
+          "Trento.svg"
+        ]
+      ]
+    },
+    {
+      "id": 1793400200169,
+      "name": "Solbiatese",
+      "reason": "not confidently matched",
+      "candidates": [
+        [
+          0.6666666666666666,
+          "Sambiase_Calcio.svg"
+        ],
+        [
+          0.6666666666666666,
+          "Olbia_Calcio_1905.svg"
+        ],
+        [
+          0.631578947368421,
+          "Scafatese_Calcio_1922.svg"
+        ]
+      ]
+    },
+    {
+      "id": 1793400200176,
+      "name": "Grassina",
+      "reason": "not confidently matched",
+      "candidates": [
+        [
+          0.6666666666666666,
+          "Cassino_Calcio_1924.svg"
+        ],
+        [
+          0.631578947368421,
+          "FBC_Gravina.svg"
+        ],
+        [
+          0.631578947368421,
+          "ACR_Messina.svg"
+        ]
+      ]
+    },
+    {
+      "id": 1793400200179,
+      "name": "Rondinella Marzocco",
+      "reason": "not confidently matched",
+      "candidates": [
+        [
+          0.47368421052631576,
+          "Guidonia_Montecelio.svg"
+        ],
+        [
+          0.4375,
+          "Montespaccato_Calcio.svg"
+        ],
+        [
+          0.4375,
+          "FC_Pro_Palazzolo.svg"
+        ]
+      ]
+    },
+    {
+      "id": 1793400200187,
+      "name": "Mezzolara",
+      "reason": "not confidently matched",
+      "candidates": [
+        [
+          0.5555555555555556,
+          "Lumezzane.svg"
+        ],
+        [
+          0.5333333333333333,
+          "Novara.svg"
+        ],
+        [
+          0.5333333333333333,
+          "Arezzo.svg"
+        ]
+      ]
+    },
+    {
+      "id": 1793400200194,
+      "name": "Montecchio Gallo",
+      "reason": "not confidently matched",
+      "candidates": [
+        [
+          0.5517241379310345,
+          "Montespaccato_Calcio.svg"
+        ],
+        [
+          0.47058823529411764,
+          "Aquila_Montevarchi_1902.svg"
+        ],
+        [
+          0.45714285714285713,
+          "Guidonia_Montecelio.svg"
+        ]
+      ]
+    },
+    {
+      "id": 1793400200197,
+      "name": "Città di Lanciano",
+      "reason": "not confidently matched",
+      "candidates": [
+        [
+          0.8125,
+          "Città_di_Fasano.svg"
+        ],
+        [
+          0.5925925925925926,
+          "Cittadella.svg"
+        ],
+        [
+          0.5263157894736842,
+          "Cittadella_Vis_Modena.svg"
+        ]
+      ]
+    },
+    {
+      "id": 1793400200201,
+      "name": "Santegidiese",
+      "reason": "not confidently matched",
+      "candidates": [
+        [
+          0.6666666666666666,
+          "Sanremese.svg"
+        ],
+        [
+          0.6666666666666666,
+          "Sancataldese.svg"
+        ],
+        [
+          0.631578947368421,
+          "Sarnese_1926.svg"
+        ]
+      ]
+    },
+    {
+      "id": 1793400200203,
+      "name": "Angelana",
+      "reason": "not confidently matched",
+      "candidates": [
+        [
+          0.6666666666666666,
+          "Gela_Calcio.svg"
+        ],
+        [
+          0.625,
+          "Atalanta.svg"
+        ],
+        [
+          0.625,
+          "Acerrana_1926.svg"
+        ]
+      ]
+    },
+    {
+      "id": 1793400200205,
+      "name": "Pietralunghese",
+      "reason": "not confidently matched",
+      "candidates": [
+        [
+          0.6666666666666666,
+          "Pianese.svg"
+        ],
+        [
+          0.5714285714285714,
+          "US_Palmese_1912.svg"
+        ],
+        [
+          0.5454545454545454,
+          "Paganese_Calcio_1926.svg"
+        ]
+      ]
+    },
+    {
+      "id": 1793400200211,
+      "name": "Ossese",
+      "reason": "not confidently matched",
+      "candidates": [
+        [
+          0.6153846153846154,
+          "Sarnese_1926.svg"
+        ],
+        [
+          0.6153846153846154,
+          "Imolese_Calcio_1919.svg"
+        ],
+        [
+          0.6,
+          "AC_Este.svg"
+        ]
+      ]
+    },
+    {
+      "id": 1793400200213,
+      "name": "Albalonga",
+      "reason": "not confidently matched",
+      "candidates": [
+        [
+          0.75,
+          "Cynthialbalonga_Calcio.svg"
+        ],
+        [
+          0.625,
+          "Bologna.svg"
+        ],
+        [
+          0.5882352941176471,
+          "Atalanta.svg"
+        ]
+      ]
+    },
+    {
+      "id": 1793400200215,
+      "name": "Aranova",
+      "reason": "not confidently matched",
+      "candidates": [
+        [
+          0.7142857142857143,
+          "Mantova_1911.svg"
+        ],
+        [
+          0.6666666666666666,
+          "Casarano.svg"
+        ],
+        [
+          0.6666666666666666,
+          "Acerrana_1926.svg"
+        ]
+      ]
+    },
+    {
+      "id": 1793400200217,
+      "name": "Certosa V. Campagnano",
+      "reason": "not confidently matched",
+      "candidates": [
+        [
+          0.5142857142857142,
+          "Città_di_Fasano.svg"
+        ],
+        [
+          0.48484848484848486,
+          "Real_Calepina.svg"
+        ],
+        [
+          0.48484848484848486,
+          "Brian_Lignano_Calcio.svg"
+        ]
+      ]
+    },
+    {
+      "id": 1793400200218,
+      "name": "Città di Anagni",
+      "reason": "not confidently matched",
+      "candidates": [
+        [
+          0.7333333333333333,
+          "Città_di_Fasano.svg"
+        ],
+        [
+          0.56,
+          "Cittadella.svg"
+        ],
+        [
+          0.5,
+          "Cittadella_Vis_Modena.svg"
+        ]
+      ]
+    },
+    {
+      "id": 1793400200222,
+      "name": "Gelbison",
+      "reason": "not confidently matched",
+      "candidates": [
+        [
+          0.6666666666666666,
+          "Gelbison_Cilento.svg"
+        ],
+        [
+          0.5714285714285714,
+          "Gubbio.svg"
+        ],
+        [
+          0.5333333333333333,
+          "Livorno.svg"
+        ]
+      ]
+    },
+    {
+      "id": 1793400200225,
+      "name": "Venafro",
+      "reason": "not confidently matched",
+      "candidates": [
+        [
+          0.6666666666666666,
+          "AC_Nardò.svg"
+        ],
+        [
+          0.5882352941176471,
+          "Vis_Pesaro.svg"
+        ],
+        [
+          0.5714285714285714,
+          "Vicenza.svg"
+        ]
+      ]
+    },
+    {
+      "id": 1793400200226,
+      "name": "Bisceglie",
+      "reason": "not confidently matched",
+      "candidates": [
+        [
+          0.5333333333333333,
+          "Ischia_Calcio.svg"
+        ],
+        [
+          0.5333333333333333,
+          "Ascoli.svg"
+        ],
+        [
+          0.5263157894736842,
+          "FCD_Conegliano_1907.svg"
+        ]
+      ]
+    },
+    {
+      "id": 1793400200227,
+      "name": "Brindisi",
+      "reason": "not confidently matched",
+      "candidates": [
+        [
+          0.5,
+          "FC_Obermais.svg"
+        ],
+        [
+          0.5,
+          "Bari.svg"
+        ],
+        [
+          0.47619047619047616,
+          "Brian_Lignano_Calcio.svg"
+        ]
+      ]
+    },
+    {
+      "id": 1793400200229,
+      "name": "Gravina",
+      "reason": "not confidently matched",
+      "candidates": [
+        [
+          0.7777777777777778,
+          "FBC_Gravina.svg"
+        ],
+        [
+          0.7142857142857143,
+          "Ravenna.svg"
+        ],
+        [
+          0.6666666666666666,
+          "Pavia_Calcio_1911.svg"
+        ]
+      ]
+    },
+    {
+      "id": 1793400200236,
+      "name": "Flegrea Puteolana",
+      "reason": "not confidently matched",
+      "candidates": [
+        [
+          0.5333333333333333,
+          "Real_Normanna.svg"
+        ],
+        [
+          0.5,
+          "Salernitana.svg"
+        ],
+        [
+          0.48484848484848486,
+          "Folgore_Caratese.svg"
+        ]
+      ]
+    },
+    {
+      "id": 1793400200241,
+      "name": "Real Forio",
+      "reason": "not confidently matched",
+      "candidates": [
+        [
+          0.6153846153846154,
+          "ASD_Tropical_Coriano.svg"
+        ],
+        [
+          0.6086956521739131,
+          "Real_Normanna.svg"
+        ],
+        [
+          0.5925925925925926,
+          "ASD_Real_Monterotondo.svg"
+        ]
+      ]
+    },
+    {
+      "id": 1793400200242,
+      "name": "Ebolitana",
+      "reason": "not confidently matched",
+      "candidates": [
+        [
+          0.625,
+          "Bologna.svg"
+        ],
+        [
+          0.6,
+          "Salernitana.svg"
+        ],
+        [
+          0.5882352941176471,
+          "Reggiana.svg"
+        ]
+      ]
+    },
+    {
+      "id": 1793400200243,
+      "name": "Gladiator",
+      "reason": "not confidently matched",
+      "candidates": [
+        [
+          0.5882352941176471,
+          "Cagliari.svg"
+        ],
+        [
+          0.5714285714285714,
+          "Lazio.svg"
+        ],
+        [
+          0.5555555555555556,
+          "Giugliano.svg"
+        ]
+      ]
+    },
+    {
+      "id": 1793400200249,
+      "name": "Licata",
+      "reason": "not confidently matched",
+      "candidates": [
+        [
+          0.6666666666666666,
+          "Latina_Calcio_1932.svg"
+        ],
+        [
+          0.6153846153846154,
+          "Catania.svg"
+        ],
+        [
+          0.5454545454545454,
+          "Olbia_Calcio_1905.svg"
+        ]
+      ]
+    },
+    {
+      "id": 1793400200251,
+      "name": "Modica",
+      "reason": "not confidently matched",
+      "candidates": [
+        [
+          0.6666666666666666,
+          "Modena.svg"
+        ],
+        [
+          0.5454545454545454,
+          "Olbia_Calcio_1905.svg"
+        ],
+        [
+          0.5454545454545454,
+          "Monza.svg"
+        ]
+      ]
+    },
+    {
+      "id": 1793400200257,
+      "name": "Digiesse Praiatortora",
+      "reason": "not confidently matched",
+      "candidates": [
+        [
+          0.4375,
+          "Portogruaro_Calcio.svg"
+        ],
+        [
+          0.4186046511627907,
+          "COS_Sarrabus_Ogliastra.svg"
+        ],
+        [
+          0.41379310344827586,
+          "US_Grosseto_1912.svg"
+        ]
+      ]
+    }
+  ]
+}
