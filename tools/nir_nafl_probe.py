@@ -38,6 +38,16 @@ for url in ["https://www.thenafl.co.uk/data/tables.json","https://www.thenafl.co
                 item.setdefault("examples",[]).append({"key":key,"type":type(val).__name__,"len":len(val) if hasattr(val,"__len__") else None,"head":str(val)[:400]})
     except Exception as e:item["error"]=str(e)[:200]
     results.append(item)
+for url in ["https://www.europlan-online.de/index.php?id=2675&s=liga","https://www.europlan-online.de/index.php?land=54&s=fehlendebilder","https://bpfl.leaguerepublic.com/index.html"]:
+    item={"page":url}
+    try:
+        r=requests.get(url,timeout=22,headers={"User-Agent":"Mozilla/5.0"})
+        item["status"]=r.status_code;item["length"]=len(r.content)
+        soup=bs4.BeautifulSoup(r.text,"html.parser")
+        tags=soup.select("img")
+        item["imgs"]=[{"alt":i.get("alt",""),"src":i.get("src"),"data_src":i.get("data-src"),"parent":i.parent.parent.get_text(" ",strip=True)[:150] if i.parent and i.parent.parent else ""} for i in tags if i.get("alt") or i.get("src")][:140]
+    except Exception as e:item["error"]=str(e)[:180]
+    results.append(item)
 out=ROOT/"nafl_probe.json"
 out.write_text(json.dumps(results,ensure_ascii=False,indent=2))
 for x in results:print(x["page"],x.get("status"),x.get("length"),len(x.get("imgs",[])),x.get("error",""))
