@@ -951,5 +951,582 @@
     "status": 403,
     "length": 919,
     "imgs": []
+  },
+  {
+    "page": "https://www.pitchero.com/clubs/trojansyouthcommunitygroup",
+    "status": 200,
+    "length": 180331,
+    "meta": [
+      {
+        "key": "og:image",
+        "value": "https://img-res.pitchero.com/?url=images.pitchero.com%2Fui%2F3619338%2Fimage_5f5fb8c0cc866.JPG&w=1200&h=630&t=frame"
+      },
+      {
+        "key": "og:image:width",
+        "value": "1200"
+      },
+      {
+        "key": "og:image:height",
+        "value": "630"
+      },
+      {
+        "key": "twitter:card",
+        "value": "summary"
+      },
+      {
+        "key": "twitter:site",
+        "value": "trojansycg"
+      },
+      {
+        "key": "twitter:title",
+        "value": "KlubApp Set-Up"
+      },
+      {
+        "key": "twitter:description",
+        "value": "Quickfire Guide on how to set-up KlubApp"
+      },
+      {
+        "key": "twitter:url",
+        "value": "https://www.pitchero.com/clubs/trojansyouthcommunitygroup/news/klubapp-setup-2568346.html"
+      },
+      {
+        "key": "twitter:image",
+        "value": "https://img-res.pitchero.com/?url=images.pitchero.com%2Fui%2F3619338%2Fimage_5f5fb8c0cc866.JPG&w=288&h=288&t=frame"
+      }
+    ],
+    "imgs": [
+      {
+        "alt": "Club Facebook",
+        "src": "https://img-res.pitchero.com/?url=images.pitchero.com%2Fup%2Fspacer.gif",
+        "data_src": null,
+        "srcset": ""
+      },
+      {
+        "alt": "Club Twitter",
+        "src": "https://img-res.pitchero.com/?url=images.pitchero.com%2Fup%2Fspacer.gif",
+        "data_src": null,
+        "srcset": ""
+      },
+      {
+        "alt": "Pitchero",
+        "src": "https://img-res.pitchero.com/?url=images.pitchero.com%2Fup%2Fspacer.gif",
+        "data_src": null,
+        "srcset": ""
+      },
+      {
+        "alt": "Trojans Youth & Community Group",
+        "src": "https://img-res.pitchero.com/?url=images.pitchero.com%2Fclub_logos%2F73051%2Fclublogo_58f3dcf90586c.png&bg=null&h=90&w=90&t=square&q=null",
+        "data_src": null,
+        "srcset": "https://img-res.pitchero.com/?url=images.pitchero.com%2Fclub_logos%2F73051%2Fclublogo_58f3dcf90586c.png&bg=null&h=90&w=90&t=square&q=null 1x, https://"
+      },
+      {
+        "alt": "",
+        "src": "https://img-res.pitchero.com/?url=images.pitchero.com%2Fup%2Fspacer.gif",
+        "data_src": null,
+        "srcset": ""
+      },
+      {
+        "alt": "",
+        "src": "https://img-res.pitchero.com/?url=images.pitchero.com%2Fup%2Fspacer.gif",
+        "data_src": null,
+        "srcset": ""
+      },
+      {
+        "alt": "",
+        "src": "https://img-res.pitchero.com/?url=images.pitchero.com%2Fup%2Fspacer.gif",
+        "data_src": null,
+        "srcset": ""
+      },
+      {
+        "alt": "",
+        "src": "https://img-res.pitchero.com/?url=images.pitchero.com%2Fup%2Fspacer.gif",
+        "data_src": null,
+        "srcset": ""
+      },
+      {
+        "alt": "",
+        "src": "https://img-res.pitchero.com/?url=images.pitchero.com%2Fup%2Fspacer.gif",
+        "data_src": null,
+        "srcset": ""
+      },
+      {
+        "alt": "",
+        "src": "https://img-res.pitchero.com/?url=images.pitchero.com%2Fup%2Fspacer.gif",
+        "data_src": null,
+        "srcset": ""
+      },
+      {
+        "alt": "",
+        "src": "https://img-res.pitchero.com/?url=images.pitchero.com%2Fup%2Fspacer.gif",
+        "data_src": null,
+        "srcset": ""
+      },
+      {
+        "alt": "",
+        "src": "https://img-res.pitchero.com/?url=images.pitchero.com%2Fup%2Fspacer.gif",
+        "data_src": null,
+        "srcset": ""
+      },
+      {
+        "alt": "",
+        "src": "https://img-res.pitchero.com/?url=images.pitchero.com%2Fup%2Fspacer.gif",
+        "data_src": null,
+        "srcset": ""
+      },
+      {
+        "alt": "Pitchero",
+        "src": "https://img-res.pitchero.com/?url=images.pitchero.com%2Fup%2Fspacer.gif",
+        "data_src": null,
+        "srcset": ""
+      },
+      {
+        "alt": "KlubApp Set-Up",
+        "src": "https://img-res.pitchero.com/?url=images.pitchero.com%2Fui%2F3619338%2Fimage_5f5fb8c0cc866.JPG&bg=null&h=336&w=600&t=square&q=null",
+        "data_src": null,
+        "srcset": ""
+      },
+      {
+        "alt": "",
+        "src": "https://img-res.pitchero.com/?url=images.pitchero.com%2Fup%2Fspacer.gif",
+        "data_src": null,
+        "srcset": ""
+      },
+      {
+        "alt": "Covid-19 Guidance Update",
+        "src": "https://img-res.pitchero.com/?url=images.pitchero.com%2Fui%2F3619338%2Fimage_5f4f9cd6224e3.png&h=336&w=600&t=square&a=t&o=jpg",
+        "data_src": null,
+        "srcset": "https://img-res.pitchero.com/?url=images.pitchero.com%2Fui%2F3619338%2Fimage_5f4f9cd6224e3.png&h=90&w=160&t=square&o=jpg 160w, https://img-res.pitcher"
+      },
+      {
+        "alt": "Annual Youth Presentation 2019",
+        "src": "https://img-res.pitchero.com/?url=images.pitchero.com%2Fui%2F3619338%2Fimage_5de2972c25856.jpg&h=336&w=600&t=square&a=t&o=jpg",
+        "data_src": null,
+        "srcset": "https://img-res.pitchero.com/?url=images.pitchero.com%2Fui%2F3619338%2Fimage_5de2972c25856.jpg&h=90&w=160&t=square&o=jpg 160w, https://img-res.pitcher"
+      },
+      {
+        "alt": "Christmas Break",
+        "src": "https://img-res.pitchero.com/?url=images.pitchero.com%2Fui%2F3619338%2Fimage_61a6438d4900b.jpg&h=336&w=600&t=square&a=t&o=jpg",
+        "data_src": null,
+        "srcset": "https://img-res.pitchero.com/?url=images.pitchero.com%2Fui%2F3619338%2Fimage_61a6438d4900b.jpg&h=90&w=160&t=square&o=jpg 160w, https://img-res.pitcher"
+      },
+      {
+        "alt": "Trojans Youth & Community Group",
+        "src": "https://img-res.pitchero.com/?url=images.pitchero.com%2Fclub_logos%2F73051%2Fclublogo_58f3dcf90586c.png&bg=null&h=60&w=60&t=absolute&q=null",
+        "data_src": null,
+        "srcset": "https://img-res.pitchero.com/?url=images.pitchero.com%2Fclub_logos%2F73051%2Fclublogo_58f3dcf90586c.png&bg=null&h=60&w=60&t=absolute&q=null 1x, https:"
+      },
+      {
+        "alt": "Club facebook",
+        "src": "https://img-res.pitchero.com/?url=images.pitchero.com%2Fup%2Fspacer.gif",
+        "data_src": null,
+        "srcset": ""
+      },
+      {
+        "alt": "Club twitter",
+        "src": "https://img-res.pitchero.com/?url=images.pitchero.com%2Fup%2Fspacer.gif",
+        "data_src": null,
+        "srcset": ""
+      },
+      {
+        "alt": "Pitchero",
+        "src": "https://img-res.pitchero.com/?url=images.pitchero.com%2Fup%2Fspacer.gif",
+        "data_src": null,
+        "srcset": ""
+      }
+    ]
+  },
+  {
+    "page": "https://www.teamstats.net/team/football/trojans-ycg-derry",
+    "status": 200,
+    "length": 111684,
+    "meta": [
+      {
+        "key": "og:image",
+        "value": "https://images.unsplash.com/photo-1566920989005-c4c3e239c12c?q=80&w=840&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "key": "twitter:card",
+        "value": "summary_large_image"
+      },
+      {
+        "key": "twitter:url",
+        "value": "https://www.teamstats.net/team/football/trojans-ycg-derry"
+      },
+      {
+        "key": "twitter:title",
+        "value": "Trojans YCG Derry | Derry | Grassroots Football"
+      },
+      {
+        "key": "twitter:description",
+        "value": "Trojans YCG Derry is a grassroots football team based in Derry. View its location and available league, division and profile information."
+      },
+      {
+        "key": "twitter:image",
+        "value": "https://images.unsplash.com/photo-1566920989005-c4c3e239c12c?q=80&w=840&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "key": "twitter:site",
+        "value": "@teamstats"
+      }
+    ],
+    "imgs": [
+      {
+        "alt": "Grassroots Football",
+        "src": "https://assets.teamstats.net/img-m-200-99/logos/grassroots-football.png",
+        "data_src": null,
+        "srcset": ""
+      },
+      {
+        "alt": "",
+        "src": "",
+        "data_src": null,
+        "srcset": ""
+      },
+      {
+        "alt": "",
+        "src": "https://images.unsplash.com/photo-1566920989005-c4c3e239c12c?q=80&w=840&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "data_src": null,
+        "srcset": ""
+      },
+      {
+        "alt": "Trojans YCG Derry football badge",
+        "src": "https://assets.teamstats.net/img-500-70/directory/football-result-7.jpg",
+        "data_src": null,
+        "srcset": ""
+      },
+      {
+        "alt": "Kenyon ",
+        "src": "https://www.teamstats.net/teamstats-media/icons/avatar-circle.png",
+        "data_src": null,
+        "srcset": ""
+      },
+      {
+        "alt": "Tom ",
+        "src": "https://www.teamstats.net/teamstats-media/icons/avatar-circle.png",
+        "data_src": null,
+        "srcset": ""
+      },
+      {
+        "alt": "Jake Harley",
+        "src": "https://www.teamstats.net/teamstats-media/icons/avatar-circle.png",
+        "data_src": null,
+        "srcset": ""
+      },
+      {
+        "alt": "Aaron Kelly",
+        "src": "https://www.teamstats.net/teamstats-media/icons/avatar-circle.png",
+        "data_src": null,
+        "srcset": ""
+      },
+      {
+        "alt": "Corey McClafferty",
+        "src": "https://www.teamstats.net/teamstats-media/icons/avatar-circle.png",
+        "data_src": null,
+        "srcset": ""
+      },
+      {
+        "alt": "Marty McClafferty",
+        "src": "https://www.teamstats.net/teamstats-media/icons/avatar-circle.png",
+        "data_src": null,
+        "srcset": ""
+      },
+      {
+        "alt": "The Best Way to Play 6 a side Football in End of Season Tournaments",
+        "src": "https://assets.teamstats.net/img-m-400-70/backgrounds/junior-football-tournament-action.jpg",
+        "data_src": null,
+        "srcset": ""
+      },
+      {
+        "alt": "Football Formations: A Comprehensive Guide to the Most Popular Tactics in the Game",
+        "src": "https://koala.sh/api/image/v2-7bqfp-d4top.jpg?width=1216&height=832&dream",
+        "data_src": null,
+        "srcset": ""
+      },
+      {
+        "alt": "The Lessons Football Teaches You",
+        "src": "https://assets.teamstats.net/img-m-600-70/photos/football-photos/football-photo06.jpg",
+        "data_src": null,
+        "srcset": ""
+      },
+      {
+        "alt": "Is the FA's move towards small sided games a good thing?",
+        "src": "https://assets.teamstats.net/img-m-400-70/photos/players-kids/players-kids-18.jpg",
+        "data_src": null,
+        "srcset": ""
+      },
+      {
+        "alt": "Have Sunday league Tactics changed?",
+        "src": "https://assets.teamstats.net/img-m-400-75/photos/coaches/coach-24.jpg",
+        "data_src": null,
+        "srcset": ""
+      },
+      {
+        "alt": "Preventing Burnout in Young Footballers",
+        "src": "https://assets.teamstats.net/img-m-400-70/photos/players-kids/players-kids-14.jpg",
+        "data_src": null,
+        "srcset": ""
+      },
+      {
+        "alt": "Kenyon ",
+        "src": "https://www.teamstats.net/teamstats-media/icons/avatar-circle.png",
+        "data_src": null,
+        "srcset": ""
+      },
+      {
+        "alt": "Tom ",
+        "src": "https://www.teamstats.net/teamstats-media/icons/avatar-circle.png",
+        "data_src": null,
+        "srcset": ""
+      },
+      {
+        "alt": "Jake Harley",
+        "src": "https://www.teamstats.net/teamstats-media/icons/avatar-circle.png",
+        "data_src": null,
+        "srcset": ""
+      },
+      {
+        "alt": "Aaron Kelly",
+        "src": "https://www.teamstats.net/teamstats-media/icons/avatar-circle.png",
+        "data_src": null,
+        "srcset": ""
+      },
+      {
+        "alt": "Corey McClafferty",
+        "src": "https://www.teamstats.net/teamstats-media/icons/avatar-circle.png",
+        "data_src": null,
+        "srcset": ""
+      },
+      {
+        "alt": "Marty McClafferty",
+        "src": "https://www.teamstats.net/teamstats-media/icons/avatar-circle.png",
+        "data_src": null,
+        "srcset": ""
+      },
+      {
+        "alt": "Conor Carlin",
+        "src": "https://www.teamstats.net/teamstats-media/icons/avatar-circle.png",
+        "data_src": null,
+        "srcset": ""
+      },
+      {
+        "alt": "Shane Meehan",
+        "src": "https://www.teamstats.net/teamstats-media/icons/avatar-circle.png",
+        "data_src": null,
+        "srcset": ""
+      },
+      {
+        "alt": "Mark Devlin",
+        "src": "https://www.teamstats.net/teamstats-media/icons/avatar-circle.png",
+        "data_src": null,
+        "srcset": ""
+      },
+      {
+        "alt": "Jayden Loughrey",
+        "src": "https://www.teamstats.net/teamstats-media/icons/avatar-circle.png",
+        "data_src": null,
+        "srcset": ""
+      },
+      {
+        "alt": "Lee McClafferty",
+        "src": "https://www.teamstats.net/teamstats-media/icons/avatar-circle.png",
+        "data_src": null,
+        "srcset": ""
+      },
+      {
+        "alt": "Joel Cunningham",
+        "src": "https://www.teamstats.net/teamstats-media/icons/avatar-circle.png",
+        "data_src": null,
+        "srcset": ""
+      },
+      {
+        "alt": "David Fox",
+        "src": "https://www.teamstats.net/teamstats-media/icons/avatar-circle.png",
+        "data_src": null,
+        "srcset": ""
+      },
+      {
+        "alt": "Cormac Kelly",
+        "src": "https://www.teamstats.net/teamstats-media/icons/avatar-circle.png",
+        "data_src": null,
+        "srcset": ""
+      },
+      {
+        "alt": "Tiernan o",
+        "src": "https://www.teamstats.net/teamstats-media/icons/avatar-circle.png",
+        "data_src": null,
+        "srcset": ""
+      },
+      {
+        "alt": "Padraig Lynch",
+        "src": "https://www.teamstats.net/teamstats-media/icons/avatar-circle.png",
+        "data_src": null,
+        "srcset": ""
+      },
+      {
+        "alt": "Jason Harrigan",
+        "src": "https://www.teamstats.net/teamstats-media/icons/avatar-circle.png",
+        "data_src": null,
+        "srcset": ""
+      },
+      {
+        "alt": "Ryan McFadden",
+        "src": "https://www.teamstats.net/teamstats-media/icons/avatar-circle.png",
+        "data_src": null,
+        "srcset": ""
+      },
+      {
+        "alt": "Decky McBride",
+        "src": "https://www.teamstats.net/teamstats-media/icons/avatar-circle.png",
+        "data_src": null,
+        "srcset": ""
+      }
+    ]
+  },
+  {
+    "page": "https://www.juniorgrassrootshub.com/clubs/trojans-ycg-colts-u11-d-and-d",
+    "status": 200,
+    "length": 117148,
+    "meta": [
+      {
+        "key": "og:image",
+        "value": "https://cfkzqicresplbojnqrej.supabase.co/storage/v1/object/public/partner-images/clubs/cmobp00gs005dpu1vn4kn2iuc.png"
+      },
+      {
+        "key": "twitter:card",
+        "value": "summary_large_image"
+      },
+      {
+        "key": "twitter:title",
+        "value": "Trojans YCG"
+      },
+      {
+        "key": "twitter:description",
+        "value": "Trojans YCG — grassroots football club in Londonderry (U7–U17). View contact details, teams and local tournaments on Junior Grassroots Hub."
+      },
+      {
+        "key": "twitter:image",
+        "value": "https://cfkzqicresplbojnqrej.supabase.co/storage/v1/object/public/partner-images/clubs/cmobp00gs005dpu1vn4kn2iuc.png"
+      }
+    ],
+    "imgs": [
+      {
+        "alt": "Junior Grassroots Hub",
+        "src": "/_next/image?url=%2Ficon.png&w=96&q=75&dpl=dpl_BouAGU4EdAUrPnWNbT8Nex4LyXWd",
+        "data_src": null,
+        "srcset": "/_next/image?url=%2Ficon.png&w=48&q=75&dpl=dpl_BouAGU4EdAUrPnWNbT8Nex4LyXWd 1x, /_next/image?url=%2Ficon.png&w=96&q=75&dpl=dpl_BouAGU4EdAUrPnWNbT8Nex4"
+      },
+      {
+        "alt": "",
+        "src": "/_next/image?url=%2Flogo-wordmark.png&w=1920&q=75&dpl=dpl_BouAGU4EdAUrPnWNbT8Nex4LyXWd",
+        "data_src": null,
+        "srcset": "/_next/image?url=%2Flogo-wordmark.png&w=1080&q=75&dpl=dpl_BouAGU4EdAUrPnWNbT8Nex4LyXWd 1x, /_next/image?url=%2Flogo-wordmark.png&w=1920&q=75&dpl=dpl_B"
+      },
+      {
+        "alt": "",
+        "src": "/_next/image?url=%2Fheroes%2Fclubs-film-poster.webp&w=1920&q=75&dpl=dpl_BouAGU4EdAUrPnWNbT8Nex4LyXWd",
+        "data_src": null,
+        "srcset": "/_next/image?url=%2Fheroes%2Fclubs-film-poster.webp&w=640&q=75&dpl=dpl_BouAGU4EdAUrPnWNbT8Nex4LyXWd 640w, /_next/image?url=%2Fheroes%2Fclubs-film-post"
+      },
+      {
+        "alt": "Trojans YCG",
+        "src": "/_next/image?url=https%3A%2F%2Fcfkzqicresplbojnqrej.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fpartner-images%2Fclubs%2Fcmobp00gs005dpu1vn4kn2iuc.png&w=256&q=75",
+        "data_src": null,
+        "srcset": "/_next/image?url=https%3A%2F%2Fcfkzqicresplbojnqrej.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fpartner-images%2Fclubs%2Fcmobp00gs005dpu1vn4kn2iuc."
+      },
+      {
+        "alt": "Pendle Sportswear",
+        "src": "/_next/image?url=https%3A%2F%2Fcfkzqicresplbojnqrej.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fpartner-images%2Fwp%2Fjuniorgrassrootshub.com-wp-content-uploads-2024-12-Pendle-Sportswear.jpg.jpg&w=64&q=75",
+        "data_src": null,
+        "srcset": "/_next/image?url=https%3A%2F%2Fcfkzqicresplbojnqrej.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fpartner-images%2Fwp%2Fjuniorgrassrootshub.com-wp-co"
+      },
+      {
+        "alt": "AIM",
+        "src": "/_next/image?url=https%3A%2F%2Fcfkzqicresplbojnqrej.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fpartner-images%2Fecb1273c-a517-4ba1-a7c9-8815ca165118-1789382549176-goib8qa1.png&w=64&q=75",
+        "data_src": null,
+        "srcset": "/_next/image?url=https%3A%2F%2Fcfkzqicresplbojnqrej.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fpartner-images%2Fecb1273c-a517-4ba1-a7c9-8815ca1651"
+      },
+      {
+        "alt": "Neuro Aware Sports",
+        "src": "/_next/image?url=https%3A%2F%2Fcfkzqicresplbojnqrej.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fpartner-images%2Fwp%2Fjuniorgrassrootshub.com-wp-content-uploads-2026-03-Neuro-Aware-Sports-Logo.jpeg.jpg&w=64&q=75",
+        "data_src": null,
+        "srcset": "/_next/image?url=https%3A%2F%2Fcfkzqicresplbojnqrej.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fpartner-images%2Fwp%2Fjuniorgrassrootshub.com-wp-co"
+      },
+      {
+        "alt": "First Aid Kits",
+        "src": "/_next/image?url=https%3A%2F%2Fcfkzqicresplbojnqrej.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fpartner-images%2Fpartner-6bf07832-af38-4048-ab41-8b2e480c3d79%2Fextracted%2F1788263002337-0.png&w=1920&q=75",
+        "data_src": null,
+        "srcset": "/_next/image?url=https%3A%2F%2Fcfkzqicresplbojnqrej.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fpartner-images%2Fpartner-6bf07832-af38-4048-ab41-8b"
+      },
+      {
+        "alt": "Kids Base Layer Top",
+        "src": "/_next/image?url=https%3A%2F%2Fcfkzqicresplbojnqrej.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fpartner-images%2Fpartner-b0bb5dc8-442b-4812-bf14-0c3bb9c55d2d%2Fextracted%2F1777377842247-0.png&w=1920&q=75",
+        "data_src": null,
+        "srcset": "/_next/image?url=https%3A%2F%2Fcfkzqicresplbojnqrej.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fpartner-images%2Fpartner-b0bb5dc8-442b-4812-bf14-0c"
+      },
+      {
+        "alt": "Custom Bobble Hat Bundle",
+        "src": "/_next/image?url=https%3A%2F%2Fcfkzqicresplbojnqrej.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fpartner-images%2Fpartner-fcaf1af7-6b27-452c-83ed-8b29de4dec87%2Fextracted%2F1788860813146-0.png&w=1920&q=75",
+        "data_src": null,
+        "srcset": "/_next/image?url=https%3A%2F%2Fcfkzqicresplbojnqrej.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fpartner-images%2Fpartner-fcaf1af7-6b27-452c-83ed-8b"
+      },
+      {
+        "alt": "FIFA Basic Football Club Hybrid - White size 3, 4 , 5",
+        "src": "/_next/image?url=https%3A%2F%2Fcfkzqicresplbojnqrej.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fpartner-images%2Fb374fc89-26aa-47fe-a2b5-a479e04f18d4-1785492789545-7measlha.jpg&w=1920&q=75",
+        "data_src": null,
+        "srcset": "/_next/image?url=https%3A%2F%2Fcfkzqicresplbojnqrej.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fpartner-images%2Fb374fc89-26aa-47fe-a2b5-a479e04f18"
+      },
+      {
+        "alt": "Ballymoor",
+        "src": "/_next/image?url=https%3A%2F%2Fcfkzqicresplbojnqrej.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fpartner-images%2Fclubs%2Fcmoboui7g0002pu1vrdko3t0e.png&w=256&q=75",
+        "data_src": null,
+        "srcset": "/_next/image?url=https%3A%2F%2Fcfkzqicresplbojnqrej.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fpartner-images%2Fclubs%2Fcmoboui7g0002pu1vrdko3t0e."
+      },
+      {
+        "alt": "Clooney",
+        "src": "/_next/image?url=https%3A%2F%2Fcfkzqicresplbojnqrej.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fpartner-images%2Fclubs%2Fcmobouk990004pu1v1djgvkea.png&w=256&q=75",
+        "data_src": null,
+        "srcset": "/_next/image?url=https%3A%2F%2Fcfkzqicresplbojnqrej.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fpartner-images%2Fclubs%2Fcmobouk990004pu1v1djgvkea."
+      },
+      {
+        "alt": "Core Soccer Academy",
+        "src": "/_next/image?url=https%3A%2F%2Fcfkzqicresplbojnqrej.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fpartner-images%2Fclubs%2Fcmobouznq000ipu1vpyjuot3m.png&w=256&q=75",
+        "data_src": null,
+        "srcset": "/_next/image?url=https%3A%2F%2Fcfkzqicresplbojnqrej.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fpartner-images%2Fclubs%2Fcmobouznq000ipu1vpyjuot3m."
+      },
+      {
+        "alt": "Culmore Youth",
+        "src": "/_next/image?url=https%3A%2F%2Fcfkzqicresplbojnqrej.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fpartner-images%2Fclubs%2Fcmobov4n9000npu1vpvm5pptw.png&w=256&q=75",
+        "data_src": null,
+        "srcset": "/_next/image?url=https%3A%2F%2Fcfkzqicresplbojnqrej.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fpartner-images%2Fclubs%2Fcmobov4n9000npu1vpvm5pptw."
+      },
+      {
+        "alt": "Derry City",
+        "src": "/_next/image?url=https%3A%2F%2Fcfkzqicresplbojnqrej.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fpartner-images%2Fclubs%2Fcmo8j1szt007dpimoz1rtoo33.png&w=256&q=75",
+        "data_src": null,
+        "srcset": "/_next/image?url=https%3A%2F%2Fcfkzqicresplbojnqrej.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fpartner-images%2Fclubs%2Fcmo8j1szt007dpimoz1rtoo33."
+      },
+      {
+        "alt": "Don Boscos",
+        "src": "/_next/image?url=https%3A%2F%2Fcfkzqicresplbojnqrej.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fpartner-images%2Fclubs%2Fcmobove5u000wpu1vj5xh4ekq.png&w=256&q=75",
+        "data_src": null,
+        "srcset": "/_next/image?url=https%3A%2F%2Fcfkzqicresplbojnqrej.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fpartner-images%2Fclubs%2Fcmobove5u000wpu1vj5xh4ekq."
+      },
+      {
+        "alt": "",
+        "src": "/_next/image?url=%2Fheroes%2Fmatchday-hero.jpg&w=1920&q=82&dpl=dpl_BouAGU4EdAUrPnWNbT8Nex4LyXWd",
+        "data_src": null,
+        "srcset": "/_next/image?url=%2Fheroes%2Fmatchday-hero.jpg&w=640&q=82&dpl=dpl_BouAGU4EdAUrPnWNbT8Nex4LyXWd 640w, /_next/image?url=%2Fheroes%2Fmatchday-hero.jpg&w="
+      },
+      {
+        "alt": "Junior Grassroots Hub",
+        "src": "/_next/image?url=%2Ficon.png&w=96&q=75&dpl=dpl_BouAGU4EdAUrPnWNbT8Nex4LyXWd",
+        "data_src": null,
+        "srcset": "/_next/image?url=%2Ficon.png&w=48&q=75&dpl=dpl_BouAGU4EdAUrPnWNbT8Nex4LyXWd 1x, /_next/image?url=%2Ficon.png&w=96&q=75&dpl=dpl_BouAGU4EdAUrPnWNbT8Nex4"
+      }
+    ]
+  },
+  {
+    "page": "https://38trojansycg.co.uk",
+    "error": "HTTPSConnectionPool(host='38trojansycg.co.uk', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='38trojansycg.co.uk', port=443): Fai"
   }
 ]
