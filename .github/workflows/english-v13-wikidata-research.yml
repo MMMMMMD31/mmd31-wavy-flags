@@ -1,0 +1,25 @@
+name: MMD31 English V13 find authentic D8-D9 crest candidates
+on:
+  push:
+    paths:
+      - tools/english_v13_wikidata_badge_research.py
+      - .github/workflows/english-v13-wikidata-research.yml
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  search:
+    runs-on: ubuntu-latest
+    timeout-minutes: 14
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: python -m pip install requests
+      - run: python tools/english_v13_wikidata_badge_research.py
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/english-v13/wikidata_badge_research.json
+          git diff --cached --quiet || (git commit -m "Log authentic crest candidates for English Step 4/5 clubs" && git push origin HEAD)
