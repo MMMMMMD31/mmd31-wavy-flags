@@ -1,0 +1,35 @@
+name: German V13 D6 authentic available crests
+on:
+  push:
+    branches:
+      - mmd31-germany-d6-v13-logos-20261023
+    paths:
+      - 'tools/german_v13_d6_seven_sourced.json'
+      - 'tools/generate_german_v13_d6_seven_crests.py'
+      - '.github/workflows/mmd31-german-v13-d6-seven.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: python -m pip install --disable-pip-version-check pillow cairosvg requests
+      - run: python tools/generate_german_v13_d6_seven_crests.py
+      - name: Publish seven genuine emblems on V13 D6 branch
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/german-clubs-2026-27/v13-d6/
+          if ! git diff --cached --quiet; then
+            git commit -m "Publish 7 true V13 D6 crest PNGs"
+            git pull --rebase origin mmd31-germany-d6-v13-logos-20261023
+            git push origin HEAD:mmd31-germany-d6-v13-logos-20261023
+          fi
