@@ -1,0 +1,49 @@
+name: MMD31 D1 D2 standard club crests 2026-27
+on:
+  push:
+    branches: [mmd31-d1d2-20261023]
+    paths:
+      - 'tools/mmd31_build_d1d2_standard_crests.py'
+      - '.github/workflows/mmd31-d1d2-standard-crests.yml'
+permissions:
+  contents: write
+  actions: read
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    env:
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: python -m pip install pillow requests
+      - name: Download source-based D1 and D2 squads
+        run: |
+          mkdir -p research-input
+          gh run download 39854539920 -R "${GITHUB_REPOSITORY}" -n mmd31-district-d1-d8-roster-research -D research-input
+          gh run download 39920173770 -R "${GITHUB_REPOSITORY}" -n mmd31-d2-2026-27-sourced-rosters -D research-input
+          test -s research-input/MMD31_D1_2026_2027_PARTICIPANTS_SOURCE.json
+          test -s research-input/MMD31_D2_2026_2027_PARTICIPANTS_SOURCE.json
+      - name: Generate 120x96 logos by affiliation
+        run: python tools/mmd31_build_d1d2_standard_crests.py
+      - name: Publish images to isolated project branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add flags/clubs/standard/d1d2-2026-27/ docs/research/mmd31-d1d2-2026-27/
+          if ! git diff --cached --quiet; then
+            git commit -m "D1/D2 2026-27 source-linked standard club crests [skip ci]"
+            git push origin HEAD:mmd31-d1d2-20261023
+          fi
+      - name: Upload audit report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: mmd31-d1d2-2026-27-crest-audit
+          path: docs/research/mmd31-d1d2-2026-27/
+          if-no-files-found: warn
