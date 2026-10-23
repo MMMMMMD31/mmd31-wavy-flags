@@ -1,0 +1,34 @@
+name: Render MMD31 English D8-D9 authentic club crests 2026-27
+on:
+  push:
+    paths:
+      - 'tools/english_clubs_d8_d9_2026_27_sources.json'
+      - 'tools/generate_english_clubs_d8_d9_2026_27.py'
+      - '.github/workflows/mmd31-english-d8-d9-2026-27.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: python -m pip install --disable-pip-version-check pillow cairosvg requests
+      - name: Generate 81 real-source 120x96 club crests; preserve 417 unverifiable blanks
+        run: python tools/generate_english_clubs_d8_d9_2026_27.py
+      - name: Commit only D8-D9 crest assets
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/english-clubs-2026-27/d8-d9/
+          if ! git diff --cached --quiet; then
+            git commit -m "Publish verified D8-D9 authentic PNG club crest flags"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
