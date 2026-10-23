@@ -6,9 +6,9 @@ from PIL import Image,ImageFilter
 ROOT=Path("docs/belgian-d3-clubs-2026-27/v13");ROOT.mkdir(parents=True,exist_ok=True)
 SOURCE="https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/belgium/"
 catalog=[
-(1900262702006,"KFC Dessel Sport","KFC_Dessel_Sport.svg",(245,222,85)),
-(1900262702101,"RWDM Brussels","RWDM_Brussels.svg",(226,204,218)),
-(1900262702106,"Olympic Charleroi","Olympic_Charleroi.svg",(245,209,212)),
+(1900262702006,"KFC Dessel Sport","KFC_Dessel_Sport.svg",(150,205,170)),
+(1900262702101,"RWDM Brussels","RWDM_Brussels.svg",(224,150,150)),
+(1900262702106,"Olympic Charleroi","Olympic_Charleroi.svg",(246,219,128)),
 ]
 result=[]
 for id_,name,filename,color in catalog:
