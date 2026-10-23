@@ -1,0 +1,34 @@
+name: MMD31 Spanish D5 roster 2026-27
+on:
+  push:
+    branches: [mmd31-spanish-d5-2026-27]
+    paths:
+      - 'tools/get_spanish_d5_roster_2026_27.py'
+      - '.github/workflows/mmd31-spanish-d5-roster.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install requests beautifulsoup4
+      - name: Extract current 18 regional groups
+        run: python tools/get_spanish_d5_roster_2026_27.py
+      - name: Commit validated roster
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/spanish_d5_2026_27_roster.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Verify Spanish D5 2026-27 participant list 324 clubs"
+            git pull --rebase origin mmd31-spanish-d5-2026-27
+            git push origin HEAD:mmd31-spanish-d5-2026-27
+          fi
