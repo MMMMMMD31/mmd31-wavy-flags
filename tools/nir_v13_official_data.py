@@ -68,6 +68,20 @@ for code,url in urls.items():
         if not g["members"]:g["errors"].append("No standings table matched")
     except Exception as e:g["errors"].append(str(e)[:180])
     groups.append(g)
+# NCL U21 Development Division is separate from NCL Premier. Append after all pre-existing
+# catalogued groups so all previously published extension IDs remain unchanged.
+u21=nafl.get("NCL U21 Development Division")
+if u21:
+    m=[]
+    for a in u21.get("table",[]):
+        name=a.get("team");badge=a.get("badge")
+        if not name:continue
+        m.append({"name":name,"badge":("https://www.thenafl.co.uk/images/badges/"+badge if badge else ""),
+            "p":a.get("pld"),"w":a.get("w"),"d":a.get("d"),"l":a.get("l"),
+            "gf":a.get("gf"),"ga":a.get("ga"),"pts":a.get("pts"),"rank":a.get("pos")})
+    groups.append({"code":"NAFL_NCL_U21","name":"National Conference League U21 Development Division",
+        "source":"https://www.thenafl.co.uk/data/tables.json","members":m})
+
 # Stable ID plan for new teams; don't create duplicate when club already in V4.
 original_keys={
 "Comber Rec":"Comber Recreation","Derriaghy CC":"Derriaghy Cricket Club",
@@ -94,7 +108,7 @@ existing=[
 existing={key(n) for block in existing for n in block.split("|")}
 existing.update([key("Harland & Wolff Welders"),key("Harland and Wolff Welders"),key("St Marys YC")])
 exclude={"NCL Premier","Premier Division","Division 1A","Division 1B","Division 1C","Intermediate A","Intermediate B"}
-new_groups=[g for g in groups if g["code"].startswith("NAFL_") and g["code"][5:].replace("_"," ") not in exclude or g["code"] in ("MUFL_DIV1","MUFL_DIV2","MUFL_DIV3","MUFL_RES_CH","MUFL_RES1","MUFL_RES2","MUFL_RES3")]
+new_groups=[g for g in groups if g["code"].startswith("NAFL_") and g["code"][5:].replace("_"," ") not in exclude or g["code"] in ("MUFL_DIV1","MUFL_DIV2","MUFL_DIV3","MUFL_RES_CH","MUFL_RES1","MUFL_RES2","MUFL_RES3","NAFL_NCL_U21")]
 already=set(existing);jobs=[]
 for g in new_groups:
     for m in g["members"]:
