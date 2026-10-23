@@ -1,63 +1,25 @@
 {
   "total": 326,
-  "published": 238,
+  "published": 204,
   "invalid": 0,
-  "missing": 88,
+  "missing": 122,
   "by_territory": {
     "Guadeloupe": 40,
-    "Guyane": 37,
-    "Martinique": 52,
-    "La Réunion": 104,
+    "Guyane": 33,
+    "Martinique": 47,
+    "La Réunion": 79,
     "Polynésie française": 2,
     "Nouvelle-Calédonie": 3
   },
-  "duplicate_sha256": {
-    "2ec233c4522dbd878ee246540caa5e41342f8748fb59b68af38004d4d1216ce9": [
-      "1990262000021",
-      "1990262000179",
-      "1990262000182",
-      "1990262000186"
-    ],
-    "451b393eaca7ea6fb08be6980cb2b18437de49aaf71d59709bdba405b90f888e": [
-      "1990262000053",
-      "1990262000260"
-    ],
-    "4ce47bf1bf72a416cfa05ff816b76b7ab91848a597f63c1c83b23045b561d51c": [
-      "1990262000064",
-      "1990262000117",
-      "1990262000143",
-      "1990262000154",
-      "1990262000155",
-      "1990262000164",
-      "1990262000169",
-      "1990262000197",
-      "1990262000200",
-      "1990262000236",
-      "1990262000239",
-      "1990262000241",
-      "1990262000252",
-      "1990262000253",
-      "1990262000259",
-      "1990262000264",
-      "1990262000265",
-      "1990262000274",
-      "1990262000279",
-      "1990262000282"
-    ],
-    "be069d818c53c1159f801784baefec97f47d73efa698253921c2250c76c5c022": [
-      "1990262000111",
-      "1990262000153",
-      "1990262000163",
-      "1990262000203",
-      "1990262000263",
-      "1990262000276"
-    ],
-    "561d153cd4118500026b57894561198a78b87393e86068a7e64ccc37b9235b01": [
-      "1990262000151",
-      "1990262000245"
-    ]
-  },
+  "duplicate_sha256": {},
   "unresolved": [
+    {
+      "team_id": "1990262000021",
+      "club": "A.S. Grand Santi",
+      "territory": "Guyane",
+      "status": "missing",
+      "reason": ""
+    },
     {
       "team_id": "1990262000029",
       "club": "Golden Lion Fc",
@@ -150,6 +112,34 @@
       "reason": ""
     },
     {
+      "team_id": "1990262000053",
+      "club": "La Tamponnaise",
+      "territory": "La Réunion",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000064",
+      "club": "U.S.Benedictine",
+      "territory": "La Réunion",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000111",
+      "club": "Fam",
+      "territory": "Martinique",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000117",
+      "club": "Reveil Sportif",
+      "territory": "Martinique",
+      "status": "missing",
+      "reason": ""
+    },
+    {
       "team_id": "1990262000121",
       "club": "Ent.Etoile Riveraine",
       "territory": "Martinique",
@@ -237,6 +227,104 @@
       "team_id": "1990262000134",
       "club": "Asc Kaweni",
       "territory": "Mayotte",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000143",
+      "club": "Us Bell Canot",
+      "territory": "La Réunion",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000151",
+      "club": "Cs St Gilles",
+      "territory": "La Réunion",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000153",
+      "club": "Jcv -Saint Pierre",
+      "territory": "La Réunion",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000154",
+      "club": "As Red Star",
+      "territory": "La Réunion",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000155",
+      "club": "As Montgaillard",
+      "territory": "La Réunion",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000163",
+      "club": "Af Possession",
+      "territory": "La Réunion",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000164",
+      "club": "Fc Riv D Galets",
+      "territory": "La Réunion",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000169",
+      "club": "As Poudriere",
+      "territory": "La Réunion",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000179",
+      "club": "U.S. St-Elie",
+      "territory": "Guyane",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000182",
+      "club": "Loya F.C.",
+      "territory": "Guyane",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000186",
+      "club": "Celtic Sa",
+      "territory": "Guyane",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000197",
+      "club": "L'Intrepide",
+      "territory": "Martinique",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000200",
+      "club": "J.S. Marigot",
+      "territory": "Martinique",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000203",
+      "club": "Etincelle",
+      "territory": "Martinique",
       "status": "missing",
       "reason": ""
     },
@@ -398,6 +486,111 @@
       "team_id": "1990262000230",
       "club": "F.C. De Dembeni",
       "territory": "Mayotte",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000236",
+      "club": "Js Bois De Nefles",
+      "territory": "La Réunion",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000239",
+      "club": "Asc Labourdonnais",
+      "territory": "La Réunion",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000241",
+      "club": "Jsc Rne Creuse",
+      "territory": "La Réunion",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000245",
+      "club": "Ef St Gilles",
+      "territory": "La Réunion",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000252",
+      "club": "As Colimacons",
+      "territory": "La Réunion",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000253",
+      "club": "Ajs Bellemene",
+      "territory": "La Réunion",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000259",
+      "club": "As Du Plate",
+      "territory": "La Réunion",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000260",
+      "club": "E.S. Tamponnaise",
+      "territory": "La Réunion",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000263",
+      "club": "Rc St Pierre",
+      "territory": "La Réunion",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000264",
+      "club": "Asfc Palmiste",
+      "territory": "La Réunion",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000265",
+      "club": "A. M. Terre Sainte",
+      "territory": "La Réunion",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000274",
+      "club": "Fc Ligne Paradis",
+      "territory": "La Réunion",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000276",
+      "club": "Ef St Pierre",
+      "territory": "La Réunion",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000279",
+      "club": "F.C. Pl D Gregues",
+      "territory": "La Réunion",
+      "status": "missing",
+      "reason": ""
+    },
+    {
+      "team_id": "1990262000282",
+      "club": "Vaovao Sp Cult",
+      "territory": "La Réunion",
       "status": "missing",
       "reason": ""
     },
