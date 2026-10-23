@@ -1,0 +1,324 @@
+{
+  "group": 13,
+  "count": 18,
+  "approved_by_human": false,
+  "items": [
+    {
+      "id": 1884500100389,
+      "name": "Águilas B",
+      "group": 13,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-13/clasificacion",
+      "source_club": "Águilas B",
+      "source_image": "https://apiv3.apifootball.com/badges/37200_aguilas-ii.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/aguilas-ii-af37200",
+      "match_score": 100,
+      "background_rgb": [
+        223,
+        201,
+        136
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100389.png",
+      "source_sha256": "a4af904bba90b4b5260111369dd60987297f7a2596f35173797d254d15559736",
+      "image_sha256": "eeffed9381bdb1a7bdfc1beedbcc65048a006c9b7cbcd5ee4fe9c63580754681"
+    },
+    {
+      "id": 1884500100390,
+      "name": "Alcantarilla",
+      "group": 13,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-13/clasificacion",
+      "source_club": "Alcantarilla",
+      "source_image": "https://apiv3.apifootball.com/badges/27390_alcantarilla.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/alcantarilla-af27390",
+      "match_score": 100,
+      "background_rgb": [
+        92,
+        92,
+        245
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100390.png",
+      "source_sha256": "22e9d5ffb49ccb0ce829b80cd471220f43445cdae063b88e6ebd192938b562ba",
+      "image_sha256": "de5099ed19562a286683cbc9800d7a90ccac1c845c90607b7f95cdf332ebec8f"
+    },
+    {
+      "id": 1884500100391,
+      "name": "Algar",
+      "group": 13,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-13/clasificacion",
+      "source_club": "Algar",
+      "source_image": "https://apiv3.apifootball.com/badges/29972_algar.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/algar-af29972",
+      "match_score": 100,
+      "background_rgb": [
+        245,
+        92,
+        92
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100391.png",
+      "source_sha256": "41d628f7a2b3c8a505f008170ea08364719ee94751e54be658f461567c9fb052",
+      "image_sha256": "0327aab226ed7ebaafedf54f3a814f35249bd5e263a35850d3a1d74bec90959e"
+    },
+    {
+      "id": 1884500100392,
+      "name": "Atlético Pulpileño",
+      "group": 13,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-13/clasificacion",
+      "source_club": "Atlético Pulpileño",
+      "source_image": "https://apiv3.apifootball.com/badges/6872_atletico-pulpileno.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/atletico-pulpileno-af6872",
+      "match_score": 100,
+      "background_rgb": [
+        136,
+        180,
+        158
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100392.png",
+      "source_sha256": "632781943d6efe2b896ed7938a9148b75e7fc02a1a8365a1bb8d939be9a690b0",
+      "image_sha256": "ebeef102aa80f45fa00b477e1899819383865c2961d0827c8fbd2eeb866e865b"
+    },
+    {
+      "id": 1884500100393,
+      "name": "Atlético Santa Cruz",
+      "group": 13,
+      "status": "ÉCUSSON_RÉEL_NON_VÉRIFIÉ",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-13/clasificacion",
+      "reason": "image missing or name not confidently matched"
+    },
+    {
+      "id": 1884500100394,
+      "name": "Bala Azul",
+      "group": 13,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-13/clasificacion",
+      "source_club": "Bala Azul",
+      "source_image": "https://apiv3.apifootball.com/badges/21318_bala-azul.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/bala-azul-af21318",
+      "match_score": 100,
+      "background_rgb": [
+        245,
+        92,
+        92
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100394.png",
+      "source_sha256": "a672eb7bc2b5e3e9af2aa2c97dce68793692690f7a816806953295835a86f4cc",
+      "image_sha256": "176802123b8544cecbee13fe55f8b67a4d6c552e192f7afc2bce233048e2c64c"
+    },
+    {
+      "id": 1884500100395,
+      "name": "Bullas Deportivo",
+      "group": 13,
+      "status": "ÉCUSSON_RÉEL_NON_VÉRIFIÉ",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-13/clasificacion",
+      "source_club": "Bullas Deportivo",
+      "source_image": "/crests/bullas-deportivo-af44170.png",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/bullas-deportivo-af44170",
+      "match_score": 100,
+      "reason": "Invalid URL '/crests/bullas-deportivo-af44170.png': No scheme supplied. Perhaps you meant https:///crests/bullas-deportivo-af44170.png?"
+    },
+    {
+      "id": 1884500100396,
+      "name": "Cartagena B",
+      "group": 13,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-13/clasificacion",
+      "source_club": "Cartagena LU B",
+      "source_image": "https://apiv3.apifootball.com/badges/21578_cartagena-lu-ii.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/cartagena-lu-ii-af21578",
+      "match_score": 90.9090909090909,
+      "background_rgb": [
+        180,
+        92,
+        114
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100396.png",
+      "source_sha256": "2714e9a94cd2f319970be0df5b0320828e48bfd8e6a723f6ae91769024523fa1",
+      "image_sha256": "01cb2a4661740bb2783cd343e81979b4d56ce127572cd347b79f999a094ee694"
+    },
+    {
+      "id": 1884500100397,
+      "name": "Cotillas",
+      "group": 13,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-13/clasificacion",
+      "source_club": "Cotillas",
+      "source_image": "https://apiv3.apifootball.com/badges/6878_el-palmar.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/el-palmar-af6878",
+      "match_score": 100,
+      "background_rgb": [
+        245,
+        92,
+        92
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100397.png",
+      "source_sha256": "9a4c39921dcf6885445fa346de5b5eeb5ef41ff6e37b9f8a61d761bf212d931e",
+      "image_sha256": "0b50b6f56bb208cdcac21e833b19e9da5be1e34133f1ae9b4a70c104e3d60d94"
+    },
+    {
+      "id": 1884500100398,
+      "name": "Deportivo Marítimo",
+      "group": 13,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-13/clasificacion",
+      "source_club": "Deportivo Marítimo",
+      "source_image": "https://apiv3.apifootball.com/badges/32809_deportivo-maritimo.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/deportivo-maritimo-af32809",
+      "match_score": 100,
+      "background_rgb": [
+        223,
+        92,
+        92
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100398.png",
+      "source_sha256": "8e97b710f0cac17b2d6186dba6720281793063c18a7792ef5e9e21d1d8d8f2a4",
+      "image_sha256": "b6a2fa6bb392c251ba9fc4f78b570a2fc1a5070678a2d73cf949d000f69c63ae"
+    },
+    {
+      "id": 1884500100399,
+      "name": "Los Garres",
+      "group": 13,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-13/clasificacion",
+      "source_club": "UD Los Garres",
+      "source_image": "https://apiv3.apifootball.com/badges/6875_ud-los-garres.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/ud-los-garres-af6875",
+      "match_score": 100,
+      "background_rgb": [
+        92,
+        158,
+        92
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100399.png",
+      "source_sha256": "aae9748bc9fe95a4e07b203e0f3f758d7537d46ead1c97dbddce277f0f1fe655",
+      "image_sha256": "dbbee1205b474a3c9f92c92fc247bab49412c6a5c5f0c136b0bc7e8a6eb636ba"
+    },
+    {
+      "id": 1884500100400,
+      "name": "Mazarrón",
+      "group": 13,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-13/clasificacion",
+      "source_club": "Mazarrón FC",
+      "source_image": "https://apiv3.apifootball.com/badges/6887_mazarron-fc.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/mazarron-fc-af6887",
+      "match_score": 100,
+      "background_rgb": [
+        91,
+        127,
+        177
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100400.png",
+      "source_sha256": "78e6132b4b2566fbab177137480d0f883aee9c2370bd9a668787263c1a2d9138",
+      "image_sha256": "a9efe929703d0627788349f4d427038175ee524a88866cb30e785562460e72fa"
+    },
+    {
+      "id": 1884500100401,
+      "name": "Minerva",
+      "group": 13,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-13/clasificacion",
+      "source_club": "SFC Minerva",
+      "source_image": "https://apiv3.apifootball.com/badges/6879_sfc-minerva.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/sfc-minerva-af6879",
+      "match_score": 100,
+      "background_rgb": [
+        245,
+        245,
+        92
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100401.png",
+      "source_sha256": "2f2c46ae29658af5effc238c1d341acd9f49de00936dd50216bd280be95bd641",
+      "image_sha256": "7b3a6bbb3559e6c3e95d810a948d804153c3ec568d3498b87c177912a01628e9"
+    },
+    {
+      "id": 1884500100402,
+      "name": "Olímpico Totana",
+      "group": 13,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-13/clasificacion",
+      "source_club": "Olímpico Totana",
+      "source_image": "https://apiv3.apifootball.com/badges/6880_olimpico-totana.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/olimpico-totana-af6880",
+      "match_score": 100,
+      "background_rgb": [
+        91,
+        127,
+        177
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100402.png",
+      "source_sha256": "78e6132b4b2566fbab177137480d0f883aee9c2370bd9a668787263c1a2d9138",
+      "image_sha256": "a9efe929703d0627788349f4d427038175ee524a88866cb30e785562460e72fa"
+    },
+    {
+      "id": 1884500100403,
+      "name": "San Javier",
+      "group": 13,
+      "status": "ÉCUSSON_RÉEL_NON_VÉRIFIÉ",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-13/clasificacion",
+      "source_club": "San Javier",
+      "source_image": "/crests/san-javier-af44171.png",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/san-javier-af44171",
+      "match_score": 100,
+      "reason": "Invalid URL '/crests/san-javier-af44171.png': No scheme supplied. Perhaps you meant https:///crests/san-javier-af44171.png?"
+    },
+    {
+      "id": 1884500100404,
+      "name": "Santomera",
+      "group": 13,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-13/clasificacion",
+      "source_club": "Santomera",
+      "source_image": "https://apiv3.apifootball.com/badges/37201_santomera.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/santomera-af37201",
+      "match_score": 100,
+      "background_rgb": [
+        245,
+        92,
+        92
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100404.png",
+      "source_sha256": "46dd78ceeca67dc9a90486981243c5bdb28fdb0880203a71290629d3445eb7d0",
+      "image_sha256": "b0bb834728dbd3216a228c847286bed86c9241113ebab96620d9ef67332167d0"
+    },
+    {
+      "id": 1884500100405,
+      "name": "UCAM Murcia B",
+      "group": 13,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-13/clasificacion",
+      "source_club": "UCAM Murcia B",
+      "source_image": "https://apiv3.apifootball.com/badges/6877_ucam-murcia-ii.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/ucam-murcia-ii-af6877",
+      "match_score": 100,
+      "background_rgb": [
+        92,
+        114,
+        158
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100405.png",
+      "source_sha256": "6aa6b02f0ca7791ba4ddb21b3851d6af4ed0c0521505c6d5931d3f225dfb8ec6",
+      "image_sha256": "fc8b43adf758990704eb5311e8298d1af2bc3500574676860a329ffb1c967487"
+    },
+    {
+      "id": 1884500100406,
+      "name": "Unión Molinense",
+      "group": 13,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-13/clasificacion",
+      "source_club": "Unión Molinense",
+      "source_image": "https://apiv3.apifootball.com/badges/27391_union-molinense.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/union-molinense-af27391",
+      "match_score": 100,
+      "background_rgb": [
+        92,
+        92,
+        180
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100406.png",
+      "source_sha256": "b4fd4533c220c0bac3721e5888acaf2a0214e6e645f02004cece0b17dce29825",
+      "image_sha256": "b8f9aac3437d30b42f8d6496e87048744800de440ebd48b8914aa4070921d684"
+    }
+  ]
+}

@@ -1,0 +1,338 @@
+{
+  "group": 16,
+  "count": 18,
+  "approved_by_human": false,
+  "items": [
+    {
+      "id": 1884500100443,
+      "name": "Agoncillo",
+      "group": 16,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-16/clasificacion",
+      "source_club": "Agoncillo",
+      "source_image": "https://apiv3.apifootball.com/badges/6967_agoncillo.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/agoncillo-af6967",
+      "match_score": 100,
+      "background_rgb": [
+        92,
+        136,
+        201
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100443.png",
+      "source_sha256": "033e29e0f5c6a90d7ca477c94f4b66f5e879caafdb5fde57c258897bd70eb849",
+      "image_sha256": "54e6a2882137483e6fda313896b0625b5f2a53e2b350a28fe5108dd0eba512ae"
+    },
+    {
+      "id": 1884500100444,
+      "name": "Alfaro",
+      "group": 16,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-16/clasificacion",
+      "source_club": "Alfaro",
+      "source_image": "https://apiv3.apifootball.com/badges/6960_alfaro.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/alfaro-25776",
+      "match_score": 100,
+      "background_rgb": [
+        91,
+        127,
+        177
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100444.png",
+      "source_sha256": "5d4a56981e25fd6c5d10382a41893343279ca4c626112868886f480f3ab53d34",
+      "image_sha256": "210c9fee34e9332a908ab1f7c0ff154f693e397398b4de241373f07f5c382f6b"
+    },
+    {
+      "id": 1884500100445,
+      "name": "Anguiano",
+      "group": 16,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-16/clasificacion",
+      "source_club": "Anguiano",
+      "source_image": "https://apiv3.apifootball.com/badges/6961_anguiano.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/anguiano-af6961",
+      "match_score": 100,
+      "background_rgb": [
+        92,
+        136,
+        245
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100445.png",
+      "source_sha256": "1ba83d65183d8b4ff447661e0741298f48262c5b18f9391d4c5f879151ca7713",
+      "image_sha256": "2ba304505bf48f963882b44a13d65a85476906870ad86fec638aadf786218486"
+    },
+    {
+      "id": 1884500100446,
+      "name": "Atlético Vianés",
+      "group": 16,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-16/clasificacion",
+      "source_club": "Atlético Vianés",
+      "source_image": "https://apiv3.apifootball.com/badges/6966_atletico-vianes.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/atletico-vianes-af6966",
+      "match_score": 100,
+      "background_rgb": [
+        201,
+        92,
+        92
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100446.png",
+      "source_sha256": "bfa8fdfc7f6c574dba73fbf674c054753d64f559dbcfef714380ba3daa0fd774",
+      "image_sha256": "f58272bde7e82628947b028e8648aab4171bfc319e007e6795f0a75a7c643f7b"
+    },
+    {
+      "id": 1884500100447,
+      "name": "Berceo",
+      "group": 16,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-16/clasificacion",
+      "source_club": "Berceo",
+      "source_image": "https://apiv3.apifootball.com/badges/6968_berceo.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/berceo-af6968",
+      "match_score": 100,
+      "background_rgb": [
+        114,
+        201,
+        136
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100447.png",
+      "source_sha256": "f0a5c4cd96cce1f48e903b7b9fdedf2e19fd0c69b6535cfe83e2516415efe59c",
+      "image_sha256": "9df723d2ec2eba1990df84746bc9e136459aa4a3ede181fcb5a85ee98b38d485"
+    },
+    {
+      "id": 1884500100448,
+      "name": "Calahorra",
+      "group": 16,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-16/clasificacion",
+      "source_club": "Calahorra",
+      "source_image": "https://apiv3.apifootball.com/badges/7228_calahorra.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/calahorra-af7228",
+      "match_score": 100,
+      "background_rgb": [
+        92,
+        136,
+        201
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100448.png",
+      "source_sha256": "b85d513aa980504c83ea46d19e9bff39ac8e51fcb012415f0859d53ef1b46388",
+      "image_sha256": "5fc7383db199e82774445cbe261db57c9524f284963d4d2d7ea2f74d56ad82e5"
+    },
+    {
+      "id": 1884500100449,
+      "name": "Calasancio",
+      "group": 16,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-16/clasificacion",
+      "source_club": "Calasancio",
+      "source_image": "https://apiv3.apifootball.com/badges/6980_calasancio.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/calasancio-af6980",
+      "match_score": 100,
+      "background_rgb": [
+        91,
+        127,
+        177
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100449.png",
+      "source_sha256": "78e6132b4b2566fbab177137480d0f883aee9c2370bd9a668787263c1a2d9138",
+      "image_sha256": "a9efe929703d0627788349f4d427038175ee524a88866cb30e785562460e72fa"
+    },
+    {
+      "id": 1884500100450,
+      "name": "Casalarreina",
+      "group": 16,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-16/clasificacion",
+      "source_club": "Casalarreina",
+      "source_image": "https://apiv3.apifootball.com/badges/6976_casalarreina.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/casalarreina-af6976",
+      "match_score": 100,
+      "background_rgb": [
+        91,
+        127,
+        177
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100450.png",
+      "source_sha256": "78e6132b4b2566fbab177137480d0f883aee9c2370bd9a668787263c1a2d9138",
+      "image_sha256": "a9efe929703d0627788349f4d427038175ee524a88866cb30e785562460e72fa"
+    },
+    {
+      "id": 1884500100451,
+      "name": "Cenicero",
+      "group": 16,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-16/clasificacion",
+      "source_club": "Cenicero",
+      "source_image": "https://apiv3.apifootball.com/badges/21315_cenicero.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/cenicero-af21315",
+      "match_score": 100,
+      "background_rgb": [
+        91,
+        127,
+        177
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100451.png",
+      "source_sha256": "78e6132b4b2566fbab177137480d0f883aee9c2370bd9a668787263c1a2d9138",
+      "image_sha256": "a9efe929703d0627788349f4d427038175ee524a88866cb30e785562460e72fa"
+    },
+    {
+      "id": 1884500100452,
+      "name": "Comillas",
+      "group": 16,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-16/clasificacion",
+      "source_club": "Comillas",
+      "source_image": "https://apiv3.apifootball.com/badges/6969_comillas.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/comillas-af6969",
+      "match_score": 100,
+      "background_rgb": [
+        92,
+        180,
+        223
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100452.png",
+      "source_sha256": "58bfb98ff5f65d397099954f453b3293fad1e1de03b605fbdf820c81a2f295d6",
+      "image_sha256": "cd4b21711536a6b11df18bc01e7d8815fdd3824b16d74e373d1006cb6be5fb5d"
+    },
+    {
+      "id": 1884500100453,
+      "name": "Haro",
+      "group": 16,
+      "status": "ÉCUSSON_RÉEL_NON_VÉRIFIÉ",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-16/clasificacion",
+      "reason": "image missing or name not confidently matched"
+    },
+    {
+      "id": 1884500100454,
+      "name": "La Calzada",
+      "group": 16,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-16/clasificacion",
+      "source_club": "La Calzada",
+      "source_image": "https://apiv3.apifootball.com/badges/6965_la-calzada.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/la-calzada-af6965",
+      "match_score": 100,
+      "background_rgb": [
+        91,
+        127,
+        177
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100454.png",
+      "source_sha256": "ae88d4271986a6ba62349cd261b9b329729d4654af0cd721b66ce1e18d3fb10a",
+      "image_sha256": "0464c8449943f55228341749e74e2d69d0d293d4381f837c7b3cee447b807fa0"
+    },
+    {
+      "id": 1884500100455,
+      "name": "Oyonesa",
+      "group": 16,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-16/clasificacion",
+      "source_club": "Oyonesa",
+      "source_image": "https://apiv3.apifootball.com/badges/6964_oyonesa.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/oyonesa-af6964",
+      "match_score": 100,
+      "background_rgb": [
+        92,
+        92,
+        201
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100455.png",
+      "source_sha256": "39fc3aae3fdd78993f28b8e661cf4102e3fbd872551b56388cb08ec43133cbf0",
+      "image_sha256": "cf7f0ece44368ff88375169da43ec70526297e817262cda502569c4ccf22df55"
+    },
+    {
+      "id": 1884500100456,
+      "name": "Pradejón",
+      "group": 16,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-16/clasificacion",
+      "source_club": "Pradejón",
+      "source_image": "https://apiv3.apifootball.com/badges/6979_pradejon.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/pradejon-af6979",
+      "match_score": 100,
+      "background_rgb": [
+        158,
+        201,
+        180
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100456.png",
+      "source_sha256": "4831972882bd612d8bb5b5e9fd4e7079b2ee2b6303f755a2dcf6def0ff0a5444",
+      "image_sha256": "7a75314f308a2cdd437316de996d478bb643eb88039ca73e3e3d084157f528d6"
+    },
+    {
+      "id": 1884500100457,
+      "name": "River Ebro",
+      "group": 16,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-16/clasificacion",
+      "source_club": "River Ebro",
+      "source_image": "https://apiv3.apifootball.com/badges/6977_river-ebro.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/river-ebro-af6977",
+      "match_score": 100,
+      "background_rgb": [
+        91,
+        127,
+        177
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100457.png",
+      "source_sha256": "78e6132b4b2566fbab177137480d0f883aee9c2370bd9a668787263c1a2d9138",
+      "image_sha256": "a9efe929703d0627788349f4d427038175ee524a88866cb30e785562460e72fa"
+    },
+    {
+      "id": 1884500100458,
+      "name": "San Marcial",
+      "group": 16,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-16/clasificacion",
+      "source_club": "San Marcial",
+      "source_image": "https://apiv3.apifootball.com/badges/40790_san-marcial.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/san-marcial-af40790",
+      "match_score": 100,
+      "background_rgb": [
+        91,
+        127,
+        177
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100458.png",
+      "source_sha256": "78e6132b4b2566fbab177137480d0f883aee9c2370bd9a668787263c1a2d9138",
+      "image_sha256": "a9efe929703d0627788349f4d427038175ee524a88866cb30e785562460e72fa"
+    },
+    {
+      "id": 1884500100459,
+      "name": "Varea",
+      "group": 16,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-16/clasificacion",
+      "source_club": "Varea",
+      "source_image": "https://apiv3.apifootball.com/badges/6962_varea.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/varea-af6962",
+      "match_score": 100,
+      "background_rgb": [
+        92,
+        158,
+        114
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100459.png",
+      "source_sha256": "6332474b065b306e74640dd59534d78ab1ed693b70cc5d1289f92b2ba12563c9",
+      "image_sha256": "b233527f5acdc815f1832654320adad466c1c12476c01050163b9833a9cdb533"
+    },
+    {
+      "id": 1884500100460,
+      "name": "Yagüe",
+      "group": 16,
+      "status": "SOURCE_IMAGE_À_VALIDER_VISUELLEMENT",
+      "source_standings": "https://www.resultadosrfef.es/tercera-rfef/grupo-16/clasificacion",
+      "source_club": "Yagüe",
+      "source_image": "https://apiv3.apifootball.com/badges/6975_yague.jpg",
+      "source_team_page": "https://www.resultadosrfef.es/equipo/yague-af6975",
+      "match_score": 100,
+      "background_rgb": [
+        223,
+        223,
+        158
+      ],
+      "file_path": "docs/spanish-clubs-2026-27/v13/1884500100460.png",
+      "source_sha256": "0404d4eb781ecdc3e97d10b2a72ef549f9389858ce0eac123447c9bb953d995d",
+      "image_sha256": "7d24e81da11eb5c826adca19aac6e7912f676a10169b8e28629d8498f62ed0a6"
+    }
+  ]
+}
