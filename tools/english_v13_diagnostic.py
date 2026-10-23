@@ -1,0 +1,25 @@
+import requests,bs4,re,json
+from pathlib import Path
+s=requests.Session();s.headers["User-Agent"]="Mozilla/5.0 MMD31 football imagery research"
+urls={
+"fa_vase_badges":"https://www.nonleaguehq.com/fa_vase_badges/",
+"fa_cup_badges":"https://www.nonleaguehq.com/fa_cup_badges/",
+"england_elo":"https://www.nonleaguehq.com/england-elo/",
+"midland_league":"https://www.nonleaguehq.com/midland-premier/",
+"thesportsdb":"https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=AFC%20Portchester",
+"wikidata":"https://www.wikidata.org/w/api.php?action=wbsearchentities&search=AFC%20Portchester&language=en&format=json&limit=3",
+}
+out={}
+for k,url in urls.items():
+ try:
+  r=s.get(url,timeout=25);h=bs4.BeautifulSoup(r.text,"html.parser")
+  imgs=h.select("img");scripts=h.select("script");links=h.select("a[href]")
+  out[k]={"status":r.status_code,"length":len(r.content),"title":h.title.get_text(" ",strip=True) if h.title else None,
+          "img_count":len(imgs),"sample_imgs":[{"alt":x.get("alt"),"src":x.get("src"),"data-src":x.get("data-src")} for x in imgs[:25]],
+          "text_tail":h.get_text(" ",strip=True)[-1400:],"scripts":[{"src":x.get("src"),"part":x.text[:1000]} for x in scripts if x.text and re.search("elo|club|team",x.text,re.I)][:4],
+          "candidate_elo_links":[{"text":x.get_text(" ",strip=True),"url":x.get("href")} for x in links if "elo" in x.get_text(" ",strip=True).lower()][:8],
+          "sample_json":r.text[:1500] if k in ("thesportsdb","wikidata") else ""}
+ except Exception as e:out[k]={"error":str(e)}
+p=Path("docs/english-v13");p.mkdir(parents=True,exist_ok=True)
+(p/"diagnostic.json").write_text(json.dumps(out,indent=2,ensure_ascii=False))
+print(json.dumps(out,ensure_ascii=False)[:12000])
