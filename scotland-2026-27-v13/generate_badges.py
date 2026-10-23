@@ -80,6 +80,27 @@ def lowland_club_logo(name):
  except Exception:pass
  return None
 
+
+# Transfermarkt club numeric IDs taken from their 2026/27 Highland League and Scottish League Two club pages.
+CLUB_TM_IDS={
+ "The Spartans":17602,
+ "Formartine United":23613,
+ "Fraserburgh":23616,
+ "Banks O'Dee":25442,
+ "Clachnacuddin":3459,
+ "Strathspey Thistle":23620,
+ "Forres Mechanics":3458,
+ "Turriff United":23621,
+ "Keith":16266,
+ "Invergordon":57766,
+ "Wick Academy":23337,
+ "Rothes":23619,
+}
+def club_verified_tm_badge(name):
+ clubid=CLUB_TM_IDS.get(name)
+ if clubid is None:return None
+ return ("https://tmssl.akamaized.net/images/wappen/head/"+str(clubid)+".png","Transfermarkt 2026/27 club ID "+str(clubid),name)
+
 def club_logo_archive(name):
  # An individually titled page must identify exactly this club, and the source image must be a crest.
  try:
@@ -217,6 +238,10 @@ SLFL_ARCHIVE_ALIASES={
  "Cumnock Juniors":"cumnock-juniors-fc-",
  "Cumbernauld Colts":"cumbernauld",
  "Newton Stewart":"newton-stewart-f-c-",
+ "Bonnyrigg Rose Athletic":"bonnyrigg",
+ "Caledonian Braves":"caledonianbraves",
+ "Troon":"troon-fc-badge-latest",
+ "Beith Juniors":"beith",
 }
 
 slflpack=load_official_slfl_zip()
@@ -235,7 +260,7 @@ for i,row in enumerate(rows,1):
  if row['division'] in ('D3','D4','D5E','D5W') and slflkey in slflpack:candidates.append(slflpack[slflkey])
  if norm(needle) in logos:candidates.append(logos[norm(needle)])
  if norm(needle) in guardian:candidates.append(guardian[norm(needle)])
- for result in (club_logo_archive(name),):
+ for result in (club_logo_archive(name),club_verified_tm_badge(name)):
   if result:candidates.append(result)
  status={"id":row["club_id"],"club":name,"division":row["division"],"state":"MISSING","source_url":"","source_provider":"","matched_name":"","file":"","dimensions_verified":False,"visual_identity_reviewed":False}
  for url,provider,matched in candidates:
