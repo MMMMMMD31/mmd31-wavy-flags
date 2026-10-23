@@ -141,6 +141,21 @@ def plate(crest):
  return tile.convert("RGB")
 rows=list(csv.DictReader(open(ROOT/"scotland-2026-27-v13/clubs.csv",encoding="utf-8")))
 assert len(rows)==93
+
+# Diagnostic metadata for the official Lowland League crest catalog, to improve exact identity matching.
+try:
+ from bs4 import BeautifulSoup
+ directory=get("https://slfl.co.uk/clubs/")
+ if directory:
+  directory_soup=BeautifulSoup(directory.text,"html.parser")
+  examples=[]
+  for anchor in directory_soup.find_all("a",href=True):
+   if "/clubs/" not in anchor["href"]:continue
+   images=anchor.find_all("img")
+   examples.append({"href":anchor["href"],"text":anchor.get_text(" ",strip=True)[:100],"images":[{"alt":v.get("alt"),"src":v.get("data-src") or v.get("src")} for v in images[:2]],"parent_text":anchor.parent.get_text(" ",strip=True)[:100] if anchor.parent else ""})
+  (ROOT/"scotland-2026-27-v13/slfl-debug.json").write_text(json.dumps(examples[:100],ensure_ascii=False,indent=2))
+except Exception:pass
+
 logos=espn()
 guardian=guardian_catalog()
 statuses=[]
