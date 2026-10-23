@@ -1,0 +1,305 @@
+{
+  "2026-27_charente_d2_group_A": {
+    "500089": {
+      "status": "published_candidate",
+      "source": {
+        "affiliation": "500089",
+        "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC500089.jpg",
+        "source_sha256": "e4376cf9fa346eb7605ff54c0f3316e85fa027f410ca072436a0f9f5059e1071",
+        "source_dimensions": [
+          100,
+          100
+        ]
+      },
+      "png_path": "flags/clubs/standard/d1d2-2026-27/bc500089.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-v9-charente-fix-20261023/flags/clubs/standard/d1d2-2026-27/bc500089.png",
+      "background_rgb": [
+        245,
+        225,
+        165
+      ],
+      "tone_rule": "dominant_hue_lightened",
+      "png_sha256": "c54e723f03b700721b731d32becce2fc79fde578452f7ccd37ba622e0854c388",
+      "dimensions": [
+        120,
+        96
+      ]
+    },
+    "563725": {
+      "status": "published_candidate",
+      "source": {
+        "affiliation": "563725",
+        "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC563725.jpg",
+        "source_sha256": "6b35a5ec7d18d7b84498ee1de57b6b12a31fcb9c89da53b771fb1f039cdd5063",
+        "source_dimensions": [
+          98,
+          100
+        ]
+      },
+      "png_path": "flags/clubs/standard/d1d2-2026-27/bc563725.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-v9-charente-fix-20261023/flags/clubs/standard/d1d2-2026-27/bc563725.png",
+      "background_rgb": [
+        165,
+        165,
+        245
+      ],
+      "tone_rule": "dominant_hue_lightened",
+      "png_sha256": "124c0108a88751331c09da0bcc8ab6c4aa719b3134dc969e525af8bf0a7f0863",
+      "dimensions": [
+        120,
+        96
+      ]
+    },
+    "526779": {
+      "status": "published_candidate",
+      "source": {
+        "affiliation": "526779",
+        "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC526779.jpg",
+        "source_sha256": "5e21f83c1ea8726a5332bb6763150e9975bdfe46de4ce4d65167406589b20b42",
+        "source_dimensions": [
+          73,
+          100
+        ]
+      },
+      "png_path": "flags/clubs/standard/d1d2-2026-27/bc526779.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-v9-charente-fix-20261023/flags/clubs/standard/d1d2-2026-27/bc526779.png",
+      "background_rgb": [
+        245,
+        165,
+        165
+      ],
+      "tone_rule": "dominant_hue_lightened",
+      "png_sha256": "c14946cb158f914472f85dab8eff24d78d5484fab2e11fac5e7a0f2cc397de62",
+      "dimensions": [
+        120,
+        96
+      ]
+    },
+    "541490": {
+      "status": "published_candidate",
+      "source": {
+        "affiliation": "541490",
+        "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC541490.jpg",
+        "source_sha256": "e0d66fabeab9b37add0e7a88f6f6b642e65fa2378ddf1b8c1749efc1e9f60258",
+        "source_dimensions": [
+          100,
+          100
+        ]
+      },
+      "png_path": "flags/clubs/standard/d1d2-2026-27/bc541490.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-v9-charente-fix-20261023/flags/clubs/standard/d1d2-2026-27/bc541490.png",
+      "background_rgb": [
+        165,
+        245,
+        165
+      ],
+      "tone_rule": "dominant_hue_lightened",
+      "png_sha256": "183698b3d9aef95cc5e31a38cbead69d2cd330b9435c6b608d7cc63d12779a13",
+      "dimensions": [
+        120,
+        96
+      ]
+    },
+    "547100": {
+      "status": "published_candidate",
+      "source": {
+        "affiliation": "547100",
+        "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC547100.jpg",
+        "source_sha256": "a5ce1dd3a2cfb53ed0a45cbe049589fddff0e696fb3444115b9956513316191f",
+        "source_dimensions": [
+          100,
+          100
+        ]
+      },
+      "png_path": "flags/clubs/standard/d1d2-2026-27/bc547100.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-v9-charente-fix-20261023/flags/clubs/standard/d1d2-2026-27/bc547100.png",
+      "background_rgb": [
+        165,
+        165,
+        245
+      ],
+      "tone_rule": "dominant_hue_lightened",
+      "png_sha256": "8e4e75883ef1622fb5314cdc5c47c56da97c59a828b06cc01c9cd98a5b557359",
+      "dimensions": [
+        120,
+        96
+      ]
+    },
+    "527934": {
+      "status": "published_candidate",
+      "source": {
+        "affiliation": "527934",
+        "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC527934.jpg",
+        "source_sha256": "edaf7d7045e789a678d73fd559f143f4f2517d69d0db772485b8f802f93ed317",
+        "source_dimensions": [
+          75,
+          100
+        ]
+      },
+      "png_path": "flags/clubs/standard/d1d2-2026-27/bc527934.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-v9-charente-fix-20261023/flags/clubs/standard/d1d2-2026-27/bc527934.png",
+      "background_rgb": [
+        245,
+        165,
+        185
+      ],
+      "tone_rule": "dominant_hue_lightened",
+      "png_sha256": "7bd493769bf2224364de8eb23fc4f44ca3e6059e5830f5499a32374210b04675",
+      "dimensions": [
+        120,
+        96
+      ]
+    },
+    "547099": {
+      "status": "published_candidate",
+      "source": {
+        "affiliation": "547099",
+        "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC547099.jpg",
+        "source_sha256": "5a8b10a36b9573581490e497e1e2bb182ee1bc89c7b83614153e4b28f1985d7c",
+        "source_dimensions": [
+          82,
+          100
+        ]
+      },
+      "png_path": "flags/clubs/standard/d1d2-2026-27/bc547099.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-v9-charente-fix-20261023/flags/clubs/standard/d1d2-2026-27/bc547099.png",
+      "background_rgb": [
+        194,
+        202,
+        212
+      ],
+      "tone_rule": "neutral",
+      "png_sha256": "931b39ee4d8420f94d6e4cde5f6491110dfdabda49e22093d2f0b35d69b23720",
+      "dimensions": [
+        120,
+        96
+      ]
+    },
+    "512943": {
+      "status": "published_candidate",
+      "source": {
+        "affiliation": "512943",
+        "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC512943.jpg",
+        "source_sha256": "62704c3c433bbd3f8a2f270bcdc6d58a926ca6b07ba0e578590c15cbc47c1725",
+        "source_dimensions": [
+          100,
+          100
+        ]
+      },
+      "png_path": "flags/clubs/standard/d1d2-2026-27/bc512943.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-v9-charente-fix-20261023/flags/clubs/standard/d1d2-2026-27/bc512943.png",
+      "background_rgb": [
+        245,
+        165,
+        165
+      ],
+      "tone_rule": "dominant_hue_lightened",
+      "png_sha256": "e26d52a196ab22f6ac2c5c58b134377448ef61d7748b6c34af992b02d306a7cf",
+      "dimensions": [
+        120,
+        96
+      ]
+    },
+    "506967": {
+      "status": "published_candidate",
+      "source": {
+        "affiliation": "506967",
+        "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC506967.jpg",
+        "source_sha256": "2d0012c83b06ed6dbbaeff4d39e3eb47af1f016d6748de9a0197be024f80c6f6",
+        "source_dimensions": [
+          90,
+          100
+        ]
+      },
+      "png_path": "flags/clubs/standard/d1d2-2026-27/bc506967.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-v9-charente-fix-20261023/flags/clubs/standard/d1d2-2026-27/bc506967.png",
+      "background_rgb": [
+        245,
+        165,
+        185
+      ],
+      "tone_rule": "dominant_hue_lightened",
+      "png_sha256": "cadf038b8656613d4a61c9225689363f4899fa4c269ff976a4f68e33fc4025cd",
+      "dimensions": [
+        120,
+        96
+      ]
+    },
+    "506939": {
+      "status": "published_candidate",
+      "source": {
+        "affiliation": "506939",
+        "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC506939.jpg",
+        "source_sha256": "32ab6699d7d9dfb2d30a60fc68b896b0b7ef8627eee02dbc86c0e9a729b5606a",
+        "source_dimensions": [
+          78,
+          100
+        ]
+      },
+      "png_path": "flags/clubs/standard/d1d2-2026-27/bc506939.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-v9-charente-fix-20261023/flags/clubs/standard/d1d2-2026-27/bc506939.png",
+      "background_rgb": [
+        165,
+        205,
+        245
+      ],
+      "tone_rule": "dominant_hue_lightened",
+      "png_sha256": "391f12362e18fca011c5a3d5f64e36bca2706cbaff26a6f9276e39be2b10eb1a",
+      "dimensions": [
+        120,
+        96
+      ]
+    },
+    "528905": {
+      "status": "published_candidate",
+      "source": {
+        "affiliation": "528905",
+        "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC528905.jpg",
+        "source_sha256": "3a0b131733587981c2464899384ed99f674f878aaedb52ca2a08cf26069d95d0",
+        "source_dimensions": [
+          100,
+          100
+        ]
+      },
+      "png_path": "flags/clubs/standard/d1d2-2026-27/bc528905.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-v9-charente-fix-20261023/flags/clubs/standard/d1d2-2026-27/bc528905.png",
+      "background_rgb": [
+        165,
+        185,
+        245
+      ],
+      "tone_rule": "dominant_hue_lightened",
+      "png_sha256": "c443b51d7185ac697e0e23e1cac2ce97d73aa6d3cb989997f6ab01df484f485e",
+      "dimensions": [
+        120,
+        96
+      ]
+    },
+    "517984": {
+      "status": "published_candidate",
+      "source": {
+        "affiliation": "517984",
+        "source_url": "https://cdn-transverse.azureedge.net/phlogos/BC517984.jpg",
+        "source_sha256": "65b3b275af77155dccc2bc7ed3c8d85626e63d69d7cca6b6c51ec6a5847b1302",
+        "source_dimensions": [
+          100,
+          100
+        ]
+      },
+      "png_path": "flags/clubs/standard/d1d2-2026-27/bc517984.png",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-v9-charente-fix-20261023/flags/clubs/standard/d1d2-2026-27/bc517984.png",
+      "background_rgb": [
+        245,
+        165,
+        165
+      ],
+      "tone_rule": "dominant_hue_lightened",
+      "png_sha256": "967f3b813798fabd4b9be08029a08a4b473e204085dd6762ebd801fca062117e",
+      "dimensions": [
+        120,
+        96
+      ]
+    }
+  },
+  "clubs": 12
+}
