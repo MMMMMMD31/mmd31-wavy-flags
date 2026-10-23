@@ -13,6 +13,8 @@ EXPLICIT={
  1884500100235:("https://www.erandioclub.com/imagenes/miequipo/escudo.webp","https://www.erandioclub.com/"),
  1884500100393:("https://atleticosantacruz.es/wp-content/uploads/2026/05/Escudo-Santa-Cruz-2026.png","https://atleticosantacruz.es/"),
  1884500100416:("https://futbolme.com/static/img/club/escudo3258.png","https://futbolme.com/resultados-directo/equipo/ud-montijo/2243/calendario"),
+ 1884500100321:("https://futbolme.com/static/img/club/escudo16450.png","https://futbolme.com/resultados-directo/equipo/atletico-de-marbella-balompie/38387/calendario"),
+ 1884500100373:("https://futbolme.com/static/img/club/escudo4601.png","https://futbolme.com/resultados-directo/partido/cd-laguna-ud-san-fernando/1356966"),
 }
 LOOKUP={
  1884500100328:"https://futbolme.com/resultados-directo/equipo/malaga-juniors-fc/1034/clasificacion/",
