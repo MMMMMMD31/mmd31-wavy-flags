@@ -1,0 +1,2248 @@
+{
+  "expected": 133,
+  "ok": 132,
+  "missing": 1,
+  "size": [
+    120,
+    96
+  ],
+  "victoryFlags": 0,
+  "source_attribution": "Clubee/FLF official website and JoseArroyave football-logos",
+  "flf_page_diagnostics": {
+    "l0": {
+      "html_length": 698080,
+      "tr_count": 17,
+      "found_count": 16,
+      "sample": [
+        [
+          "1. Una Strassen 10 9 1 0 20 3 17 28",
+          "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/f-c--una-strassen-357_1690733349.png"
+        ],
+        [
+          "2. FC Differdange 03 10 9 0 1 30 8 22 27",
+          "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/fc-deifferdeng-03-49.jpeg"
+        ]
+      ],
+      "image_total": 19
+    },
+    "lp": {
+      "html_length": 525645,
+      "tr_count": 17,
+      "found_count": 16,
+      "sample": [
+        [
+          "1. FC Lorentzweiler 9 5 4 0 19 9 10 19",
+          "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/fc-lorentzweiler-14738_1708540500.png"
+        ],
+        [
+          "2. FC Mamer 32 9 5 4 0 15 8 7 19",
+          "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/fc-mamer-32-356_1598611695.png"
+        ]
+      ],
+      "image_total": 19
+    },
+    "l1a": {
+      "html_length": 518496,
+      "tr_count": 17,
+      "found_count": 16,
+      "sample": [
+        [
+          "1. Minerva Lintgen 8 8 0 0 29 7 22 24",
+          "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/fc-minerva-lintgen-246_1631540260.png"
+        ],
+        [
+          "2. Young Boys Diekirch 8 7 0 1 27 7 20 21",
+          "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/fcm-young-boys-diekirch-248.png"
+        ]
+      ],
+      "image_total": 19
+    },
+    "l1b": {
+      "html_length": 517554,
+      "tr_count": 17,
+      "found_count": 16,
+      "sample": [
+        [
+          "1. CS Grevenmacher 8 5 2 1 19 7 12 17",
+          "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/cs-grevenmacher-53.png"
+        ],
+        [
+          "2. Yellow Boys Weiler-la-Tour 8 5 1 2 21 12 9 16",
+          "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/weiler_la-tour-14749.png"
+        ]
+      ],
+      "image_total": 19
+    },
+    "l2a": {
+      "html_length": 517290,
+      "tr_count": 15,
+      "found_count": 14,
+      "sample": [
+        [
+          "1. US Rambrouch 7 6 1 0 24 7 17 19",
+          "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/us-rambrouch-16004_1632476050.png"
+        ],
+        [
+          "2. FC Bastendorf 47 7 6 0 1 20 7 13 18",
+          "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/bastendorf-fc-14745.png"
+        ]
+      ],
+      "image_total": 17
+    },
+    "l2b": {
+      "html_length": 517652,
+      "tr_count": 15,
+      "found_count": 14,
+      "sample": [
+        [
+          "1. Jeunesse Junglinster 7 5 1 1 17 5 12 16",
+          "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/jeunesse-junglinster-14757_1674465871.png"
+        ],
+        [
+          "2. Union 05 Kayl-Tétange 7 5 1 1 18 10 8 16",
+          "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/union-05-kayl-tetingen-252.png"
+        ]
+      ],
+      "image_total": 17
+    },
+    "l3": {
+      "html_length": 485340,
+      "tr_count": 9,
+      "found_count": 8,
+      "sample": [
+        [
+          "1. Excelsior Grevels 5 3 1 1 19 8 11 10",
+          "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/fc-excelsior-grevels.jpg"
+        ],
+        [
+          "2. FC Brouch 5 3 1 1 9 8 1 10",
+          "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/5077/logo/96x96_fc-brouch_1791186776.png"
+        ]
+      ],
+      "image_total": 11
+    }
+  },
+  "assets": [
+    {
+      "id": 1900262701000,
+      "name": "Cercle Brugge",
+      "group": "b1",
+      "status": "ok",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/belgium/Cercle_Brugge_KSV.svg",
+      "source_type": "github:J.A.football-logos",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1900262701000.png",
+      "background": [
+        160,
+        207,
+        114
+      ],
+      "bytes": 6992,
+      "sha256": "b9fddf90e3e910ad41c7c968fd0bb754fe2d092f39f09749492191f7f442060c"
+    },
+    {
+      "id": 1900262701001,
+      "name": "Club Brugge KV",
+      "group": "b1",
+      "status": "missing",
+      "source_url": null,
+      "source_type": null,
+      "problem": "No unique authentic crest source"
+    },
+    {
+      "id": 1900262701002,
+      "name": "KAA Gent",
+      "group": "b1",
+      "status": "ok",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/belgium/KAA_Gent.svg",
+      "source_type": "github:J.A.football-logos",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1900262701002.png",
+      "background": [
+        114,
+        160,
+        207
+      ],
+      "bytes": 14340,
+      "sha256": "46c505942a0a35841612ed9e0e1903db1c9690456a8eeb8ae838837726d53818"
+    },
+    {
+      "id": 1900262701003,
+      "name": "KRC Genk",
+      "group": "b1",
+      "status": "ok",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/belgium/KRC_Genk.svg",
+      "source_type": "github:J.A.football-logos",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1900262701003.png",
+      "background": [
+        99,
+        145,
+        191
+      ],
+      "bytes": 6518,
+      "sha256": "ef690041c4c86ce6411625549c6592ad76415f5bf787503dc33022527e9638b4"
+    },
+    {
+      "id": 1900262701004,
+      "name": "KV Kortrijk",
+      "group": "b1",
+      "status": "ok",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/belgium/KV_Kortrijk.svg",
+      "source_type": "github:J.A.football-logos",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1900262701004.png",
+      "background": [
+        237,
+        99,
+        114
+      ],
+      "bytes": 10463,
+      "sha256": "019297b914cedd5d873fc1a0a710d94e52bc539010b8bc18e2c26d388e38df24"
+    },
+    {
+      "id": 1900262701005,
+      "name": "KV Mechelen",
+      "group": "b1",
+      "status": "ok",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/belgium/KV_Mechelen.svg",
+      "source_type": "github:J.A.football-logos",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1900262701005.png",
+      "background": [
+        237,
+        207,
+        130
+      ],
+      "bytes": 8227,
+      "sha256": "298b773f96ffa7631b1c5cc5c7274ebc7556aa848cba6d68c66c218a9d0d8f92"
+    },
+    {
+      "id": 1900262701006,
+      "name": "KVC Westerlo",
+      "group": "b1",
+      "status": "ok",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/belgium/KVC_Westerlo.svg",
+      "source_type": "github:J.A.football-logos",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1900262701006.png",
+      "background": [
+        99,
+        145,
+        191
+      ],
+      "bytes": 10325,
+      "sha256": "473dc9a3342fdf2f7c691985a4f2153fdcfe955c1736b8625436bd7d6fe7dff1"
+    },
+    {
+      "id": 1900262701007,
+      "name": "Lommel SK",
+      "group": "b1",
+      "status": "ok",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/belgium/Lommel_SK.svg",
+      "source_type": "github:J.A.football-logos",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1900262701007.png",
+      "background": [
+        99,
+        160,
+        130
+      ],
+      "bytes": 13645,
+      "sha256": "8a7b7f16d906365798a1c4773686e58e02d69befd7cfce9cdf993c4da3e74c39"
+    },
+    {
+      "id": 1900262701008,
+      "name": "OH Leuven",
+      "group": "b1",
+      "status": "ok",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/belgium/Oud-Heverlee_Leuven.svg",
+      "source_type": "github:J.A.football-logos",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1900262701008.png",
+      "background": [
+        222,
+        114,
+        114
+      ],
+      "bytes": 7424,
+      "sha256": "c8083c78b46b04fb74ec9e6970d38cacbe63bf6366d3bfb828a982f39ba6596f"
+    },
+    {
+      "id": 1900262701009,
+      "name": "RAAL La Louvière",
+      "group": "b1",
+      "status": "ok",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/belgium/RAAL_La_Louvière.svg",
+      "source_type": "github:J.A.football-logos",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1900262701009.png",
+      "background": [
+        130,
+        176,
+        145
+      ],
+      "bytes": 7695,
+      "sha256": "98fe0413e1d8c320f5131cd9c4442d1d534797c46247d94af350247caca89157"
+    },
+    {
+      "id": 1900262701010,
+      "name": "Royal Antwerp FC",
+      "group": "b1",
+      "status": "ok",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/belgium/Royal_Antwerp_FC.svg",
+      "source_type": "github:J.A.football-logos",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1900262701010.png",
+      "background": [
+        237,
+        99,
+        114
+      ],
+      "bytes": 7932,
+      "sha256": "f394d7d05a67ea3e7506632f22bec882313f686e54aaa0361f5f73c133928e94"
+    },
+    {
+      "id": 1900262701011,
+      "name": "Royale Union Saint-Gilloise",
+      "group": "b1",
+      "status": "ok",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/belgium/Union_Saint-Gilloise.svg",
+      "source_type": "github:J.A.football-logos",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1900262701011.png",
+      "background": [
+        99,
+        176,
+        222
+      ],
+      "bytes": 9361,
+      "sha256": "568c7d0198060baff4b53c770edde17659756315094743e9c741106d98ecc03b"
+    },
+    {
+      "id": 1900262701012,
+      "name": "RSC Anderlecht",
+      "group": "b1",
+      "status": "ok",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/belgium/RSC_Anderlecht.svg",
+      "source_type": "github:J.A.football-logos",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1900262701012.png",
+      "background": [
+        253,
+        207,
+        160
+      ],
+      "bytes": 8824,
+      "sha256": "02d0c4fd702a1f7fd1ea23b68c5f9105bf533586e5e19970a06094d85a075f5b"
+    },
+    {
+      "id": 1900262701013,
+      "name": "SK Beveren",
+      "group": "b1",
+      "status": "ok",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/belgium/S.K._Beveren.svg",
+      "source_type": "github:J.A.football-logos",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1900262701013.png",
+      "background": [
+        114,
+        130,
+        176
+      ],
+      "bytes": 11025,
+      "sha256": "a022f7a87cf7db826845dd3ac032246cb85ab5dd5f4e9c843e99cb41aae1c4de"
+    },
+    {
+      "id": 1900262701014,
+      "name": "Sporting Charleroi",
+      "group": "b1",
+      "status": "ok",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/belgium/Royal_Charleroi_S.C..svg",
+      "source_type": "github:J.A.football-logos",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1900262701014.png",
+      "background": [
+        191,
+        191,
+        114
+      ],
+      "bytes": 4681,
+      "sha256": "6e268f4db5c7ce9e58864dd6ee123fc29a6df1f67a81f7a342d41a4034bf7aee"
+    },
+    {
+      "id": 1900262701015,
+      "name": "Standard de Liège",
+      "group": "b1",
+      "status": "ok",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/belgium/Standard_Liège.svg",
+      "source_type": "github:J.A.football-logos",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1900262701015.png",
+      "background": [
+        191,
+        176,
+        145
+      ],
+      "bytes": 6802,
+      "sha256": "fdc18b0dee901d40df40891f8081512d42ca65370ab7dbefbcf687827d70ca35"
+    },
+    {
+      "id": 1900262701016,
+      "name": "Sint-Truidense VV",
+      "group": "b1",
+      "status": "ok",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/belgium/Sint-Truidense_VV.svg",
+      "source_type": "github:J.A.football-logos",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1900262701016.png",
+      "background": [
+        253,
+        222,
+        114
+      ],
+      "bytes": 8739,
+      "sha256": "f33aa243d12c25d8e3629a48a9d15070899008b4f7b1452439499e02b8c538fe"
+    },
+    {
+      "id": 1900262701017,
+      "name": "SV Zulte Waregem",
+      "group": "b1",
+      "status": "ok",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/belgium/Zulte_Waregem.svg",
+      "source_type": "github:J.A.football-logos",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1900262701017.png",
+      "background": [
+        222,
+        99,
+        130
+      ],
+      "bytes": 10108,
+      "sha256": "617f92b5efe92a50a0c3dbda9b85f6fa8c40c7cae1ddb2d7371d25bc1f1824d3"
+    },
+    {
+      "id": 1900262701018,
+      "name": "Club NXT",
+      "group": "b2",
+      "status": "ok",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/belgium/Club_Brugge.svg",
+      "source_type": "github:J.A.football-logos",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1900262701018.png",
+      "background": [
+        99,
+        176,
+        207
+      ],
+      "bytes": 10140,
+      "sha256": "85bee4b515a05c5e5e58c0bfd2201f8c6ffb22a0342a8bd86c31da498d206f24"
+    },
+    {
+      "id": 1900262701019,
+      "name": "FCV Dender EH",
+      "group": "b2",
+      "status": "ok",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/belgium/FCV_Dender_EH.svg",
+      "source_type": "github:J.A.football-logos",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1900262701019.png",
+      "background": [
+        114,
+        130,
+        191
+      ],
+      "bytes": 13121,
+      "sha256": "0a05861cbc81372a59ac0d82d0d1dac561486006c3b060399163ca897ec8ac21"
+    },
+    {
+      "id": 1900262701020,
+      "name": "Jong Genk",
+      "group": "b2",
+      "status": "ok",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/belgium/KRC_Genk.svg",
+      "source_type": "github:J.A.football-logos",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1900262701020.png",
+      "background": [
+        99,
+        145,
+        191
+      ],
+      "bytes": 6518,
+      "sha256": "ef690041c4c86ce6411625549c6592ad76415f5bf787503dc33022527e9638b4"
+    },
+    {
+      "id": 1900262701021,
+      "name": "Jong KAA Gent",
+      "group": "b2",
+      "status": "ok",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/belgium/KAA_Gent.svg",
+      "source_type": "github:J.A.football-logos",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1900262701021.png",
+      "background": [
+        114,
+        160,
+        207
+      ],
+      "bytes": 14340,
+      "sha256": "46c505942a0a35841612ed9e0e1903db1c9690456a8eeb8ae838837726d53818"
+    },
+    {
+      "id": 1900262701022,
+      "name": "K. Beerschot VA",
+      "group": "b2",
+      "status": "ok",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/belgium/Beerschot.svg",
+      "source_type": "github:J.A.football-logos",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1900262701022.png",
+      "background": [
+        145,
+        130,
+        176
+      ],
+      "bytes": 8481,
+      "sha256": "36c53e29d84e974124cc5e56fd9053189876744f68f2b26ede3cf6c597771cce"
+    },
+    {
+      "id": 1900262701023,
+      "name": "K. Lierse S.K.",
+      "group": "b2",
+      "status": "ok",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/belgium/K._Lierse_S.K..svg",
+      "source_type": "github:J.A.football-logos",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1900262701023.png",
+      "background": [
+        253,
+        237,
+        99
+      ],
+      "bytes": 5008,
+      "sha256": "c2e30e4a9598fc45cc8251659323d776921c339405c1522075bd0d18e49f81e2"
+    },
+    {
+      "id": 1900262701024,
+      "name": "KAS Eupen",
+      "group": "b2",
+      "status": "ok",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/belgium/KAS_Eupen.svg",
+      "source_type": "github:J.A.football-logos",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1900262701024.png",
+      "background": [
+        127,
+        148,
+        178
+      ],
+      "bytes": 9481,
+      "sha256": "a6d3247e8c44cf6bff7adffc75807224dc405fca78247390ab86ec2f08094a59"
+    },
+    {
+      "id": 1900262701025,
+      "name": "KSC Lokeren",
+      "group": "b2",
+      "status": "ok",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/belgium/KSC_Lokeren-Temse.svg",
+      "source_type": "github:J.A.football-logos",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1900262701025.png",
+      "background": [
+        253,
+        237,
+        114
+      ],
+      "bytes": 15278,
+      "sha256": "01cbbc6c27f9cd1947453d91a1d2c320c87db472e709fa0b731e6ada5cf6332c"
+    },
+    {
+      "id": 1900262701026,
+      "name": "Patro Eisden Maasmechelen",
+      "group": "b2",
+      "status": "ok",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/belgium/Patro_Eisden_Maasmechelen.svg",
+      "source_type": "github:J.A.football-logos",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1900262701026.png",
+      "background": [
+        145,
+        114,
+        160
+      ],
+      "bytes": 4828,
+      "sha256": "ab4e6825b922c543ec0751ec76b082f5195f054d364201e8ce691aec52fe5e21"
+    },
+    {
+      "id": 1900262701027,
+      "name": "RFC Liège",
+      "group": "b2",
+      "status": "ok",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/belgium/RFC_Liège.svg",
+      "source_type": "github:J.A.football-logos",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1900262701027.png",
+      "background": [
+        222,
+        114,
+        114
+      ],
+      "bytes": 9061,
+      "sha256": "ee8be02e557abadfb868149a058e1469a6905953f637be26fb8817bc8d2cf347"
+    },
+    {
+      "id": 1900262701028,
+      "name": "RFC Seraing",
+      "group": "b2",
+      "status": "ok",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/belgium/RFC_Seraing.svg",
+      "source_type": "github:J.A.football-logos",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1900262701028.png",
+      "background": [
+        237,
+        114,
+        114
+      ],
+      "bytes": 10290,
+      "sha256": "e79d08dbff8794a03a18805b2503721ea15a874ff9fddf29a01836aa212bab57"
+    },
+    {
+      "id": 1900262701029,
+      "name": "Royal Excelsior Virton",
+      "group": "b2",
+      "status": "ok",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/belgium/Royal_Excelsior_Virton.svg",
+      "source_type": "github:J.A.football-logos",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1900262701029.png",
+      "background": [
+        237,
+        99,
+        99
+      ],
+      "bytes": 10460,
+      "sha256": "b532c7e1b51d230e6f77325b5e462cdb02aa90951874dbfa9737c3a77b6fe6f3"
+    },
+    {
+      "id": 1900262701030,
+      "name": "Royal Francs Borains",
+      "group": "b2",
+      "status": "ok",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/belgium/Royal_Francs_Borains.svg",
+      "source_type": "github:J.A.football-logos",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1900262701030.png",
+      "background": [
+        99,
+        207,
+        145
+      ],
+      "bytes": 8695,
+      "sha256": "988f910cfd976afab9b5ec011d46e46774be663b35d06a29947241018c0feb1d"
+    },
+    {
+      "id": 1900262701031,
+      "name": "RSCA Futures",
+      "group": "b2",
+      "status": "ok",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/belgium/RSC_Anderlecht.svg",
+      "source_type": "github:J.A.football-logos",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1900262701031.png",
+      "background": [
+        253,
+        207,
+        160
+      ],
+      "bytes": 8824,
+      "sha256": "02d0c4fd702a1f7fd1ea23b68c5f9105bf533586e5e19970a06094d85a075f5b"
+    },
+    {
+      "id": 1900262701032,
+      "name": "Sporting Hasselt",
+      "group": "b2",
+      "status": "ok",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/belgium/Sporting_Hasselt.svg",
+      "source_type": "github:J.A.football-logos",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1900262701032.png",
+      "background": [
+        99,
+        114,
+        130
+      ],
+      "bytes": 8851,
+      "sha256": "a39218796d0a83453f5a0daa81c2a94ee8a8a0a80ddbaa4ac63b03b845221a75"
+    },
+    {
+      "id": 1901262701000,
+      "name": "UNA Strassen",
+      "group": "l0",
+      "status": "ok",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/luxembourg/UNA_Strassen.svg",
+      "source_type": "github:J.A.football-logos",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701000.png",
+      "background": [
+        253,
+        99,
+        99
+      ],
+      "bytes": 12955,
+      "sha256": "05b7f91e231b10f3a77e78f49df4e3e97559759406b747e5f6027e873eec3a44"
+    },
+    {
+      "id": 1901262701001,
+      "name": "FC Differdange 03",
+      "group": "l0",
+      "status": "ok",
+      "source_url": "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/fc-deifferdeng-03-49.jpeg",
+      "source_type": "flf.lu",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701001.png",
+      "background": [
+        253,
+        99,
+        99
+      ],
+      "bytes": 6469,
+      "sha256": "bf3c2c5d66753a2ad05eeaf9bd3c52f5a9bc5e39dc38c88a93351f62ac82a80e"
+    },
+    {
+      "id": 1901262701002,
+      "name": "US Mondorf-les-Bains",
+      "group": "l0",
+      "status": "ok",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/luxembourg/US_Mondorf-les-Bains.svg",
+      "source_type": "github:J.A.football-logos",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701002.png",
+      "background": [
+        114,
+        222,
+        130
+      ],
+      "bytes": 11880,
+      "sha256": "f13029aa0ad2201d407995d280103aa7e926e95e2a37d3a18df4d60e097e836a"
+    },
+    {
+      "id": 1901262701003,
+      "name": "Racing FC Union Luxembourg",
+      "group": "l0",
+      "status": "ok",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/luxembourg/Racing_Union.svg",
+      "source_type": "github:J.A.football-logos",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701003.png",
+      "background": [
+        99,
+        145,
+        191
+      ],
+      "bytes": 9172,
+      "sha256": "5c481451814cd517e1949daa18ebfd63d9ff03842fa1cf546bebace735703c36"
+    },
+    {
+      "id": 1901262701004,
+      "name": "Progrès Niederkorn",
+      "group": "l0",
+      "status": "ok",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/luxembourg/Progrès.svg",
+      "source_type": "github:J.A.football-logos",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701004.png",
+      "background": [
+        253,
+        237,
+        99
+      ],
+      "bytes": 9969,
+      "sha256": "134360fb75b75eaf7f842fb9c661211c5a283afdd93c40d75a7606e2e2d35587"
+    },
+    {
+      "id": 1901262701005,
+      "name": "UN Käerjeng 97",
+      "group": "l0",
+      "status": "ok",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/luxembourg/Käerjéng.svg",
+      "source_type": "github:J.A.football-logos",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701005.png",
+      "background": [
+        237,
+        99,
+        114
+      ],
+      "bytes": 5536,
+      "sha256": "6eb49adf35772093c2a71371a09354933e9f3cbbea9ce806007cc6ef6e96c3f1"
+    },
+    {
+      "id": 1901262701006,
+      "name": "FC Atert Bissen",
+      "group": "l0",
+      "status": "ok",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/luxembourg/FC_Atert_Bissen.svg",
+      "source_type": "github:J.A.football-logos",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701006.png",
+      "background": [
+        253,
+        237,
+        99
+      ],
+      "bytes": 9921,
+      "sha256": "cca6e26144bb81c992caecb6ed0d76b19897cd0dab3caa77d32dc5f5f1785ad4"
+    },
+    {
+      "id": 1901262701007,
+      "name": "Résidence Walferdange",
+      "group": "l0",
+      "status": "ok",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/luxembourg/Résidence_Walferdange.svg",
+      "source_type": "github:J.A.football-logos",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701007.png",
+      "background": [
+        114,
+        176,
+        222
+      ],
+      "bytes": 9885,
+      "sha256": "096f514729b9806f378a7a00bd028ec90cd3ac7510ecde98f504439c2e5b8f11"
+    },
+    {
+      "id": 1901262701008,
+      "name": "US Hostert",
+      "group": "l0",
+      "status": "ok",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/luxembourg/Hostert.svg",
+      "source_type": "github:J.A.football-logos",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701008.png",
+      "background": [
+        160,
+        207,
+        145
+      ],
+      "bytes": 14067,
+      "sha256": "9d3cea9ed5e1b72bc6730c891ce60709105f035397c112b0333101808d46ec32"
+    },
+    {
+      "id": 1901262701009,
+      "name": "AS La Jeunesse d’Esch/Alzette",
+      "group": "l0",
+      "status": "ok",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/luxembourg/Jeunesse_Esch.svg",
+      "source_type": "github:J.A.football-logos",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701009.png",
+      "background": [
+        253,
+        253,
+        99
+      ],
+      "bytes": 9051,
+      "sha256": "388decb72d7dee9b35f24469e94cfbf72c8ccecee001a797a0fed0d7d3566410"
+    },
+    {
+      "id": 1901262701010,
+      "name": "F91 Dudelange",
+      "group": "l0",
+      "status": "ok",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/luxembourg/Diddeleng.svg",
+      "source_type": "github:J.A.football-logos",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701010.png",
+      "background": [
+        130,
+        191,
+        237
+      ],
+      "bytes": 6586,
+      "sha256": "fa6621d23bd750a4f71c193bfe33a4979175d1fb86fab1aaa8a4da68ee38e6f7"
+    },
+    {
+      "id": 1901262701011,
+      "name": "US Rumelange",
+      "group": "l0",
+      "status": "ok",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/luxembourg/Rumelange.svg",
+      "source_type": "github:J.A.football-logos",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701011.png",
+      "background": [
+        99,
+        145,
+        191
+      ],
+      "bytes": 12685,
+      "sha256": "0222b663fa23e4b050a0a85076e27af305317a137077beb465a5e0f248508318"
+    },
+    {
+      "id": 1901262701012,
+      "name": "Victoria Rosport",
+      "group": "l0",
+      "status": "ok",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/luxembourg/Victoria_Rosport.svg",
+      "source_type": "github:J.A.football-logos",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701012.png",
+      "background": [
+        222,
+        114,
+        114
+      ],
+      "bytes": 10802,
+      "sha256": "4b091583058794ef6985d3b47dcf768ac4ac39719d244f9067f79e1fab3d513e"
+    },
+    {
+      "id": 1901262701013,
+      "name": "Etzella Ettelbruck",
+      "group": "l0",
+      "status": "ok",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/luxembourg/Etzella_Ettelbruck.svg",
+      "source_type": "github:J.A.football-logos",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701013.png",
+      "background": [
+        114,
+        176,
+        222
+      ],
+      "bytes": 8752,
+      "sha256": "742b8c8a1f1ff541a9f81c6130b7af0718a8a8009feb5105a4794cb7acb61fc9"
+    },
+    {
+      "id": 1901262701014,
+      "name": "FC Wiltz 71",
+      "group": "l0",
+      "status": "ok",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/luxembourg/FC_Wiltz_71.svg",
+      "source_type": "github:J.A.football-logos",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701014.png",
+      "background": [
+        237,
+        99,
+        99
+      ],
+      "bytes": 12315,
+      "sha256": "23590e858d484fa13c3acbc2421138e482a13d4678719a55965b396d76f5373e"
+    },
+    {
+      "id": 1901262701015,
+      "name": "Swift Hesperange",
+      "group": "l0",
+      "status": "ok",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/luxembourg/Swift_Hesper.svg",
+      "source_type": "github:J.A.football-logos",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701015.png",
+      "background": [
+        237,
+        114,
+        130
+      ],
+      "bytes": 7557,
+      "sha256": "769e1d485cb2c33c8aa2000b781b85e7cddf0216732e4dc18996c5c82b0b7fb5"
+    },
+    {
+      "id": 1901262701016,
+      "name": "CS Fola Esch-Alzette",
+      "group": "lp",
+      "status": "ok",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/luxembourg/Fola.svg",
+      "source_type": "github:J.A.football-logos",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701016.png",
+      "background": [
+        237,
+        114,
+        114
+      ],
+      "bytes": 5799,
+      "sha256": "6284b6994467f07cd853ce3df918db6c409911494196a4db555472e9b034664a"
+    },
+    {
+      "id": 1901262701017,
+      "name": "FC Mamer 32",
+      "group": "lp",
+      "status": "ok",
+      "source_url": "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/fc-mamer-32-356_1598611695.png",
+      "source_type": "flf.lu",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701017.png",
+      "background": [
+        253,
+        99,
+        99
+      ],
+      "bytes": 5862,
+      "sha256": "9f2fa1080262d90275bf178c7141c2ed606dc3cb96647c09c89fd5f79f0bf279"
+    },
+    {
+      "id": 1901262701018,
+      "name": "FC Lorentzweiler",
+      "group": "lp",
+      "status": "ok",
+      "source_url": "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/fc-lorentzweiler-14738_1708540500.png",
+      "source_type": "flf.lu",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701018.png",
+      "background": [
+        237,
+        145,
+        114
+      ],
+      "bytes": 7266,
+      "sha256": "ca48934d25ef0b3bc2df053e826972c9333125cecb01e772b99ba58ceb09741e"
+    },
+    {
+      "id": 1901262701019,
+      "name": "Berdenia Berbourg",
+      "group": "lp",
+      "status": "ok",
+      "source_url": "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/fc-berdenia-berbourg-14755_1566846622.png",
+      "source_type": "flf.lu",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701019.png",
+      "background": [
+        253,
+        160,
+        114
+      ],
+      "bytes": 7258,
+      "sha256": "5552f2a48e6380ead541cc06fcef22747ee36b003b424b19ffc36bbe850b2807"
+    },
+    {
+      "id": 1901262701020,
+      "name": "FC Rodange 91",
+      "group": "lp",
+      "status": "ok",
+      "source_url": "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/fcr91-rodange-14735.png",
+      "source_type": "flf.lu",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701020.png",
+      "background": [
+        253,
+        99,
+        99
+      ],
+      "bytes": 7009,
+      "sha256": "191e330e3e411169e2517e6044629fb24bea06361051faad0796ede77739b7a6"
+    },
+    {
+      "id": 1901262701021,
+      "name": "Union Titus Pétange",
+      "group": "lp",
+      "status": "ok",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/luxembourg/Union_Titus_Pétange.svg",
+      "source_type": "github:J.A.football-logos",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701021.png",
+      "background": [
+        207,
+        191,
+        145
+      ],
+      "bytes": 10547,
+      "sha256": "0bcc72e588f609e15b0a52470e8ef5118217233948bac971f470d05e1153ac66"
+    },
+    {
+      "id": 1901262701022,
+      "name": "US Feulen",
+      "group": "lp",
+      "status": "ok",
+      "source_url": "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/us-feulen-14758_1663840199.png",
+      "source_type": "flf.lu",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701022.png",
+      "background": [
+        237,
+        114,
+        130
+      ],
+      "bytes": 9630,
+      "sha256": "4eec6750068e9499356d8afb72e3f5ef5afb0ba710aff53ea33fa2466244cd71"
+    },
+    {
+      "id": 1901262701023,
+      "name": "SC Bettembourg",
+      "group": "lp",
+      "status": "ok",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/luxembourg/SC_Bettembourg.svg",
+      "source_type": "github:J.A.football-logos",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701023.png",
+      "background": [
+        114,
+        145,
+        222
+      ],
+      "bytes": 11440,
+      "sha256": "cee506bebeecfa0f70fa5c383be36d85fb970daf260369bac237367b8cfec181"
+    },
+    {
+      "id": 1901262701024,
+      "name": "Avenir Beggen",
+      "group": "lp",
+      "status": "ok",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/luxembourg/Avenir.svg",
+      "source_type": "github:J.A.football-logos",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701024.png",
+      "background": [
+        253,
+        237,
+        99
+      ],
+      "bytes": 9022,
+      "sha256": "6165e672678bba07a8569c2858b8c49c1dace703cdd2466ecd6bf496a6415222"
+    },
+    {
+      "id": 1901262701025,
+      "name": "Koeppchen Wormeldange",
+      "group": "lp",
+      "status": "ok",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/luxembourg/FC_Koeppchen_Wormeldange.svg",
+      "source_type": "github:J.A.football-logos",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701025.png",
+      "background": [
+        99,
+        207,
+        191
+      ],
+      "bytes": 12763,
+      "sha256": "5d8ea80cc9ea1106f014594a95b6de4dc0566e9d41b84da5db93ae8e49f21c01"
+    },
+    {
+      "id": 1901262701026,
+      "name": "FC Luxembourg City",
+      "group": "lp",
+      "status": "ok",
+      "source_url": "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/rm-hamm-benfica-54_1658131845.png",
+      "source_type": "flf.lu",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701026.png",
+      "background": [
+        237,
+        114,
+        114
+      ],
+      "bytes": 9648,
+      "sha256": "07b8b3554db6bcf1a22f89812ae48f7cbee953cdd169e243ddfcc2de851286f1"
+    },
+    {
+      "id": 1901262701027,
+      "name": "FC The Belval Belvaux",
+      "group": "lp",
+      "status": "ok",
+      "source_url": "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/fc-the-belval-belvaux-14785_1678353832.png",
+      "source_type": "flf.lu",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701027.png",
+      "background": [
+        99,
+        160,
+        207
+      ],
+      "bytes": 4353,
+      "sha256": "d55bd047b52fe5a7a7b4cb27e7d2a83c16fbc7f32f4220b7b26feb41de7238bb"
+    },
+    {
+      "id": 1901262701028,
+      "name": "Jeunesse Canach",
+      "group": "lp",
+      "status": "ok",
+      "source_url": "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/jeunesse-canach-241_1594367462.png",
+      "source_type": "flf.lu",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701028.png",
+      "background": [
+        114,
+        114,
+        160
+      ],
+      "bytes": 6551,
+      "sha256": "4b692f98f480f2918793182aca08c00a821297fa1e04d76c368adf0cca94b33e"
+    },
+    {
+      "id": 1901262701029,
+      "name": "FC Mondercange",
+      "group": "lp",
+      "status": "ok",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/luxembourg/Mondercange.svg",
+      "source_type": "github:J.A.football-logos",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701029.png",
+      "background": [
+        253,
+        99,
+        99
+      ],
+      "bytes": 6122,
+      "sha256": "5afd26c22f881463ca34b9c362ae4913e203e75a627aeb24b6fbc6bc4e55406a"
+    },
+    {
+      "id": 1901262701030,
+      "name": "Union Remich/Bous",
+      "group": "lp",
+      "status": "ok",
+      "source_url": "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/remich-bous-14750.png",
+      "source_type": "flf.lu",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701030.png",
+      "background": [
+        253,
+        222,
+        114
+      ],
+      "bytes": 7135,
+      "sha256": "c967ee88ec43de2cc9c940ecc78d145fc32b998b6c3d2db06398eb3ac273f60f"
+    },
+    {
+      "id": 1901262701031,
+      "name": "Marisca Mersch",
+      "group": "lp",
+      "status": "ok",
+      "source_url": "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/fc-marisca-mersch-14741.png",
+      "source_type": "flf.lu",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701031.png",
+      "background": [
+        99,
+        145,
+        191
+      ],
+      "bytes": 8697,
+      "sha256": "6ec51cfa44a1f4742bdaf27ed2c041459033d5ea9b097cbf9c00d475810b8575"
+    },
+    {
+      "id": 1901262701032,
+      "name": "Minerva Lintgen",
+      "group": "l1a",
+      "status": "ok",
+      "source_url": "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/fc-minerva-lintgen-246_1631540260.png",
+      "source_type": "flf.lu",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701032.png",
+      "background": [
+        114,
+        191,
+        237
+      ],
+      "bytes": 5264,
+      "sha256": "46544b5c089145a3e8c70ac4c436aca727fd968d279798ae2d74d7a0de3abbda"
+    },
+    {
+      "id": 1901262701033,
+      "name": "Young Boys Diekirch",
+      "group": "l1a",
+      "status": "ok",
+      "source_url": "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/fcm-young-boys-diekirch-248.png",
+      "source_type": "flf.lu",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701033.png",
+      "background": [
+        253,
+        222,
+        114
+      ],
+      "bytes": 10744,
+      "sha256": "d1c90da1b4465af57c1286a2efb09ece3a59c9793c7188e289c251f2a796e320"
+    },
+    {
+      "id": 1901262701034,
+      "name": "Jeunesse Useldange",
+      "group": "l1a",
+      "status": "ok",
+      "source_url": "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/fc-jeunesse-useldange-14765.png",
+      "source_type": "flf.lu",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701034.png",
+      "background": [
+        99,
+        145,
+        191
+      ],
+      "bytes": 8815,
+      "sha256": "1c8da630952f71a8c195393cddfb5db8ffc2384394091eec1f20273fdb4bfdd3"
+    },
+    {
+      "id": 1901262701035,
+      "name": "Blo-Wäiss Medernach",
+      "group": "l1a",
+      "status": "ok",
+      "source_url": "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/blo-weiss-medernach-14767.png",
+      "source_type": "flf.lu",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701035.png",
+      "background": [
+        130,
+        130,
+        191
+      ],
+      "bytes": 11119,
+      "sha256": "238c78f7ee5550f97cd2b4a947a8319dc13dc5941f89f667ca0295268af0639f"
+    },
+    {
+      "id": 1901262701036,
+      "name": "Daring Echternach",
+      "group": "l1a",
+      "status": "ok",
+      "source_url": "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/daring-club-echternach-14777_1629361373.png",
+      "source_type": "flf.lu",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701036.png",
+      "background": [
+        253,
+        222,
+        99
+      ],
+      "bytes": 5306,
+      "sha256": "ee9775bce79c6320ae8ebe7f54950a625b9c7aa45d0ab6875227a4264cd77abe"
+    },
+    {
+      "id": 1901262701037,
+      "name": "Green-Boys 77 Harlange-Tarchamps",
+      "group": "l1a",
+      "status": "ok",
+      "source_url": "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/fc-green-boys-77-harlange-tarchamps-14746.png",
+      "source_type": "flf.lu",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701037.png",
+      "background": [
+        99,
+        176,
+        145
+      ],
+      "bytes": 6916,
+      "sha256": "3182b88f3fa56156d4b9765c8052612a9fd315c1230a29284466fa7401dfad2f"
+    },
+    {
+      "id": 1901262701038,
+      "name": "FC72 Erpeldange",
+      "group": "l1a",
+      "status": "ok",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/luxembourg/FC_Erpeldange_72.svg",
+      "source_type": "github:J.A.football-logos",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701038.png",
+      "background": [
+        253,
+        145,
+        99
+      ],
+      "bytes": 6354,
+      "sha256": "7d1869099876dc875a470ca851ceb0be797f319ffd3eb39b995696963fd17a2f"
+    },
+    {
+      "id": 1901262701039,
+      "name": "FC Käerch",
+      "group": "l1a",
+      "status": "ok",
+      "source_url": "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/fc-koerich-20043_1540805794.png",
+      "source_type": "flf.lu",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701039.png",
+      "background": [
+        222,
+        99,
+        130
+      ],
+      "bytes": 5302,
+      "sha256": "92e8c20d5a9673d19f3e43603c36e5f128021c8da42e4d6907a04d4032366691"
+    },
+    {
+      "id": 1901262701040,
+      "name": "Jeunesse Schieren",
+      "group": "l1a",
+      "status": "ok",
+      "source_url": "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/jeunesse-schieren-251.png",
+      "source_type": "flf.lu",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701040.png",
+      "background": [
+        253,
+        253,
+        145
+      ],
+      "bytes": 9533,
+      "sha256": "707868f03127d586d52c6eb94568db7faa5bacce0e84b2aea6e057840d65da1c"
+    },
+    {
+      "id": 1901262701041,
+      "name": "FF Norden 02 Weiswampach-Hupperdange",
+      "group": "l1a",
+      "status": "ok",
+      "source_url": "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/ff-norden-02-15581_1543487469.png",
+      "source_type": "flf.lu",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701041.png",
+      "background": [
+        99,
+        130,
+        191
+      ],
+      "bytes": 7544,
+      "sha256": "4b539499801ce344fa2428600a073541d78f90ef14993d6ecc7a23cc9b1e8028"
+    },
+    {
+      "id": 1901262701042,
+      "name": "Sporting Mertzig",
+      "group": "l1a",
+      "status": "ok",
+      "source_url": "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/sporting-mertzig-14759.png",
+      "source_type": "flf.lu",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701042.png",
+      "background": [
+        99,
+        99,
+        176
+      ],
+      "bytes": 6351,
+      "sha256": "63fb8960f3659fb41428c68b28c81d0e0dcf197fae81ed49ff8d16dbb8cd1be6"
+    },
+    {
+      "id": 1901262701043,
+      "name": "Alisontia Steinsel",
+      "group": "l1a",
+      "status": "ok",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/luxembourg/FC_Alisontia_Steinsel.svg",
+      "source_type": "github:J.A.football-logos",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701043.png",
+      "background": [
+        99,
+        130,
+        191
+      ],
+      "bytes": 8903,
+      "sha256": "bd4aba79644ab93bce6603d0ab72fb28bda3b492073b73b91e7975601ef071ff"
+    },
+    {
+      "id": 1901262701044,
+      "name": "AS Hosingen",
+      "group": "l1a",
+      "status": "ok",
+      "source_url": "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/hosingen-14763.png",
+      "source_type": "flf.lu",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701044.png",
+      "background": [
+        130,
+        130,
+        176
+      ],
+      "bytes": 5948,
+      "sha256": "824f614e7842f65c8c7e91f14d6b2ef727d9d57204de59e04a65b3bb0119f8b7"
+    },
+    {
+      "id": 1901262701045,
+      "name": "Olympia Christnach-Waldbillig",
+      "group": "l1a",
+      "status": "ok",
+      "source_url": "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/fc-olympia-christnach-waldbillig-14768_1629807344.png",
+      "source_type": "flf.lu",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701045.png",
+      "background": [
+        127,
+        148,
+        178
+      ],
+      "bytes": 9318,
+      "sha256": "368e7e800ac124a41fd00ed578d8da7acc1624e04b2f4e38d51db77955af7510"
+    },
+    {
+      "id": 1901262701046,
+      "name": "US Folschette",
+      "group": "l1a",
+      "status": "ok",
+      "source_url": "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/us-folschette-15987_1647690720.png",
+      "source_type": "flf.lu",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701046.png",
+      "background": [
+        253,
+        237,
+        99
+      ],
+      "bytes": 8853,
+      "sha256": "532f36a0220248933567a96111bbd38798b9ff302ba4765cc27ea1babed12ce6"
+    },
+    {
+      "id": 1901262701047,
+      "name": "Jeunesse Gilsdorf",
+      "group": "l1a",
+      "status": "ok",
+      "source_url": "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/jeunesse-gilsdorf-14766.png",
+      "source_type": "flf.lu",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701047.png",
+      "background": [
+        253,
+        237,
+        99
+      ],
+      "bytes": 9714,
+      "sha256": "ac51ae5755798925c656b40f08f7f6051423024b3be9b71bbd0ea617a7633c13"
+    },
+    {
+      "id": 1901262701048,
+      "name": "CS Grevenmacher",
+      "group": "l1b",
+      "status": "ok",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/luxembourg/Grevenmacher.svg",
+      "source_type": "github:J.A.football-logos",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701048.png",
+      "background": [
+        191,
+        160,
+        114
+      ],
+      "bytes": 14683,
+      "sha256": "02015fb754073a56f54886749c631a01d3c89aec116845e60d3c38dbf1d0f7dd"
+    },
+    {
+      "id": 1901262701049,
+      "name": "Yellow Boys Weiler-la-Tour",
+      "group": "l1b",
+      "status": "ok",
+      "source_url": "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/weiler_la-tour-14749.png",
+      "source_type": "flf.lu",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701049.png",
+      "background": [
+        253,
+        253,
+        99
+      ],
+      "bytes": 4408,
+      "sha256": "af8c801348888c324880cf85678252e0012a1b762bee6282b099a1930870cfcf"
+    },
+    {
+      "id": 1901262701050,
+      "name": "AS Red Black Luxembourg",
+      "group": "l1b",
+      "status": "ok",
+      "source_url": "https://www.s50static.com/images/teams/noteampic_small.png",
+      "source_type": "flf.lu",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701050.png",
+      "background": [
+        127,
+        148,
+        178
+      ],
+      "bytes": 5470,
+      "sha256": "86cdcb26753d6ce9ba498138dc317be2c97c445692216e145d6093477d04ad57"
+    },
+    {
+      "id": 1901262701051,
+      "name": "Sporting Bertrange",
+      "group": "l1b",
+      "status": "ok",
+      "source_url": "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/sporting-bertrange-14754.png",
+      "source_type": "flf.lu",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701051.png",
+      "background": [
+        253,
+        253,
+        99
+      ],
+      "bytes": 8443,
+      "sha256": "4fb845c76d26b5cad9d9f58768b9e6f4d4c6b000f3fddc0496b840b012142c88"
+    },
+    {
+      "id": 1901262701052,
+      "name": "FC Kehlen",
+      "group": "l1b",
+      "status": "ok",
+      "source_url": "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/fc-kehlen-359_1631540354.png",
+      "source_type": "flf.lu",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701052.png",
+      "background": [
+        222,
+        114,
+        114
+      ],
+      "bytes": 6317,
+      "sha256": "22b41f9e2e1b4c14a801b5c4f0d08e5b882a847edfe23a548c93c590a78b9145"
+    },
+    {
+      "id": 1901262701053,
+      "name": "FC Blo-Wäiss Izeg",
+      "group": "l1b",
+      "status": "ok",
+      "source_url": "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/fc-blo-waeiss-izeg-14778_1602775874.png",
+      "source_type": "flf.lu",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701053.png",
+      "background": [
+        191,
+        207,
+        237
+      ],
+      "bytes": 8380,
+      "sha256": "6aa8423359eb9fef8e6ca6142c9e75e1c11234578cf7dfdab40ddb7c1ebcd325"
+    },
+    {
+      "id": 1901262701054,
+      "name": "Union Mertert-Wasserbillig",
+      "group": "l1b",
+      "status": "ok",
+      "source_url": "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/3374/logo/96x96_union-mertert-wasserbillig_1738335374.png",
+      "source_type": "flf.lu",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701054.png",
+      "background": [
+        237,
+        222,
+        160
+      ],
+      "bytes": 5181,
+      "sha256": "d851d8666d6217de6596be74ed8afe1fa6333cd6e9bacc537a6a3d2c92408f97"
+    },
+    {
+      "id": 1901262701055,
+      "name": "Red Star Merl-Belair",
+      "group": "l1b",
+      "status": "ok",
+      "source_url": "https://www.s50static.com/images/teams/noteampic_small.png",
+      "source_type": "flf.lu",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701055.png",
+      "background": [
+        127,
+        148,
+        178
+      ],
+      "bytes": 5470,
+      "sha256": "86cdcb26753d6ce9ba498138dc317be2c97c445692216e145d6093477d04ad57"
+    },
+    {
+      "id": 1901262701056,
+      "name": "CS Sanem",
+      "group": "l1b",
+      "status": "ok",
+      "source_url": "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/club-sportif-sanem-14774_1629463283.png",
+      "source_type": "flf.lu",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701056.png",
+      "background": [
+        99,
+        114,
+        207
+      ],
+      "bytes": 8782,
+      "sha256": "90fee63d26a68fc3175912d5d71a5281e1de4df6d0b167b0ba8d2262c5684484"
+    },
+    {
+      "id": 1901262701057,
+      "name": "Jeunesse Biwer",
+      "group": "l1b",
+      "status": "ok",
+      "source_url": "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/jeunesse-biwer-14775.png",
+      "source_type": "flf.lu",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701057.png",
+      "background": [
+        99,
+        253,
+        145
+      ],
+      "bytes": 6901,
+      "sha256": "f94888c019cc8c852c56a48bad4a5dec6f85614d14ec0adc06d1049305af6b71"
+    },
+    {
+      "id": 1901262701058,
+      "name": "Syra Mensdorf",
+      "group": "l1b",
+      "status": "ok",
+      "source_url": "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/f-c--syra-mensdorf-14780_1654496842.png",
+      "source_type": "flf.lu",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701058.png",
+      "background": [
+        145,
+        160,
+        191
+      ],
+      "bytes": 7746,
+      "sha256": "d9cf9b0e8a864822dc7518d8b7b49614cd13ea50f13bbe4ae64f0c41d9fc4a7a"
+    },
+    {
+      "id": 1901262701059,
+      "name": "FC Schengen",
+      "group": "l1b",
+      "status": "ok",
+      "source_url": "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/fc-schengen-16011_1664897436.png",
+      "source_type": "flf.lu",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701059.png",
+      "background": [
+        99,
+        145,
+        176
+      ],
+      "bytes": 4383,
+      "sha256": "fd3f6016d3a82b1d76a457de4f4aee255b418d994c1e50ca904ee794d911f80a"
+    },
+    {
+      "id": 1901262701060,
+      "name": "FC Schifflange 95",
+      "group": "l1b",
+      "status": "ok",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/luxembourg/FC_Schifflange_95.svg",
+      "source_type": "github:J.A.football-logos",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701060.png",
+      "background": [
+        253,
+        222,
+        99
+      ],
+      "bytes": 6488,
+      "sha256": "924be0cf07626a5c77682387d45b7ba49433b1ed358ddab83e8f4a297ec17aba"
+    },
+    {
+      "id": 1901262701061,
+      "name": "FC Kopstal 33",
+      "group": "l1b",
+      "status": "ok",
+      "source_url": "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/kopstal-fc-15828.png",
+      "source_type": "flf.lu",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701061.png",
+      "background": [
+        99,
+        99,
+        176
+      ],
+      "bytes": 8568,
+      "sha256": "d5cfddab10bcbb19d14791744c12de3326189340158ad452cc177711c72cd7a8"
+    },
+    {
+      "id": 1901262701062,
+      "name": "FC Munsbach",
+      "group": "l1b",
+      "status": "ok",
+      "source_url": "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/fc-munsbach-14772.png",
+      "source_type": "flf.lu",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701062.png",
+      "background": [
+        127,
+        148,
+        178
+      ],
+      "bytes": 4412,
+      "sha256": "af00a94584c8bb6e9007f810169c31153efb1d0f64e13dc9a0cf4fc122c83095"
+    },
+    {
+      "id": 1901262701063,
+      "name": "US Moutfort-Medingen",
+      "group": "l1b",
+      "status": "ok",
+      "source_url": "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/moutfort-medingen-14782.png",
+      "source_type": "flf.lu",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701063.png",
+      "background": [
+        127,
+        148,
+        178
+      ],
+      "bytes": 5060,
+      "sha256": "3e0da9b6c7435d30d54e1995d696f9a98f63e2f1bdb0950d6de5756a5df397be"
+    },
+    {
+      "id": 1901262701064,
+      "name": "Kiischpelt Wilwerwiltz",
+      "group": "l2a",
+      "status": "ok",
+      "source_url": "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/fc-kischpelt-wilwerwiltz-16005_1599247457.png",
+      "source_type": "flf.lu",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701064.png",
+      "background": [
+        127,
+        148,
+        178
+      ],
+      "bytes": 6402,
+      "sha256": "180134ff5d4c2c1b3f30be9e3c33daf6b2e0aa988c8c0833ee34a6dceb7e260e"
+    },
+    {
+      "id": 1901262701065,
+      "name": "CS Bourscheid",
+      "group": "l2a",
+      "status": "ok",
+      "source_url": "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/bourscheid-cs-15986.png",
+      "source_type": "flf.lu",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701065.png",
+      "background": [
+        191,
+        99,
+        99
+      ],
+      "bytes": 9885,
+      "sha256": "84ad7cbdea8defdb56c472be97c8644c2a465530cdd7400a5858948e60fafd7c"
+    },
+    {
+      "id": 1901262701066,
+      "name": "Orania Vianden",
+      "group": "l2a",
+      "status": "ok",
+      "source_url": "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/orania-vianden-fc-14744.png",
+      "source_type": "flf.lu",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701066.png",
+      "background": [
+        176,
+        99,
+        99
+      ],
+      "bytes": 4120,
+      "sha256": "9623d5148bc7744401a7e3008b55a7226f5a7227765bb1daa4eb67c4aa06231e"
+    },
+    {
+      "id": 1901262701067,
+      "name": "FC Biekerech",
+      "group": "l2a",
+      "status": "ok",
+      "source_url": "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/fc-biekerech-16002_1631196620.png",
+      "source_type": "flf.lu",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701067.png",
+      "background": [
+        114,
+        176,
+        130
+      ],
+      "bytes": 5715,
+      "sha256": "2830fcab04c0af5b87a4e442016129bfcab8b2d0db66ef23291daaad45de83c2"
+    },
+    {
+      "id": 1901262701068,
+      "name": "FC Pratzerthal-Redange",
+      "group": "l2a",
+      "status": "ok",
+      "source_url": "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/fc-pratzerthal-redange-14760_1642505992.png",
+      "source_type": "flf.lu",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701068.png",
+      "background": [
+        130,
+        130,
+        191
+      ],
+      "bytes": 5864,
+      "sha256": "a35d516f75c975e5c1f7726a832857aff16ed05f5a1be88a102b724759167202"
+    },
+    {
+      "id": 1901262701069,
+      "name": "Racing Troisvierges",
+      "group": "l2a",
+      "status": "ok",
+      "source_url": "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/racing-troisvierges-14764.png",
+      "source_type": "flf.lu",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701069.png",
+      "background": [
+        127,
+        148,
+        178
+      ],
+      "bytes": 7322,
+      "sha256": "f5a7edb4caa9fd20f9e3d5b2b1b79c4077a365e53b93feb59c7caad51baa3a2d"
+    },
+    {
+      "id": 1901262701070,
+      "name": "AS Wincrange",
+      "group": "l2a",
+      "status": "ok",
+      "source_url": "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/wincrange-fc-14740.png",
+      "source_type": "flf.lu",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701070.png",
+      "background": [
+        253,
+        191,
+        114
+      ],
+      "bytes": 9775,
+      "sha256": "914c0a624acc75f8a0521273dcc036d81a014e4ca15938cc280929acb203cb8a"
+    },
+    {
+      "id": 1901262701071,
+      "name": "US Rambrouch",
+      "group": "l2a",
+      "status": "ok",
+      "source_url": "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/us-rambrouch-16004_1632476050.png",
+      "source_type": "flf.lu",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701071.png",
+      "background": [
+        99,
+        176,
+        207
+      ],
+      "bytes": 6249,
+      "sha256": "00e9d9dac7f244d561e421267b98ca9bcddc833afc3cada094b262e8db74f8f4"
+    },
+    {
+      "id": 1901262701072,
+      "name": "US Reisdorf",
+      "group": "l2a",
+      "status": "ok",
+      "source_url": "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/us-reisdorf.jpg",
+      "source_type": "flf.lu",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701072.png",
+      "background": [
+        253,
+        99,
+        99
+      ],
+      "bytes": 6893,
+      "sha256": "b440b69ca696e71a83027056c0b05c5742a9645470853cf06799c190e51de4cd"
+    },
+    {
+      "id": 1901262701073,
+      "name": "US Boevange-Attert",
+      "group": "l2a",
+      "status": "ok",
+      "source_url": "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/boevange-attert-14742.png",
+      "source_type": "flf.lu",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701073.png",
+      "background": [
+        114,
+        130,
+        207
+      ],
+      "bytes": 9139,
+      "sha256": "950b8b649a021ff182f89af82eec0eda24f871c5d04a8cb7b6114dfabc2576b9"
+    },
+    {
+      "id": 1901262701074,
+      "name": "Racing Heiderscheid-Eschdorf",
+      "group": "l2a",
+      "status": "ok",
+      "source_url": "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/fc-racing-heiderscheid-eschdorf-16006_1659442500.png",
+      "source_type": "flf.lu",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701074.png",
+      "background": [
+        99,
+        176,
+        114
+      ],
+      "bytes": 6109,
+      "sha256": "9f1e645c4d8d650e3bc19ab1c0b04529fc0cc64854aa1bc24125aa3015cb9083"
+    },
+    {
+      "id": 1901262701075,
+      "name": "AS Rupensia Lusitanos Larochette",
+      "group": "l2a",
+      "status": "ok",
+      "source_url": "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/as-rupensia-lusitanos-larochette-14769_1597938400.jpeg",
+      "source_type": "flf.lu",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701075.png",
+      "background": [
+        237,
+        114,
+        114
+      ],
+      "bytes": 7753,
+      "sha256": "5a33ae19f5990a7efb5c275137dcdcd8519a866c337ad89ec8ae02f791fe5445"
+    },
+    {
+      "id": 1901262701076,
+      "name": "SC Ell",
+      "group": "l2a",
+      "status": "ok",
+      "source_url": "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/ell-sc-15984.png",
+      "source_type": "flf.lu",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701076.png",
+      "background": [
+        160,
+        99,
+        191
+      ],
+      "bytes": 6200,
+      "sha256": "aaa341807d482c2494ec73b7f4996634d7a8719e4b418dbd7bf7c8707124f428"
+    },
+    {
+      "id": 1901262701077,
+      "name": "FC Bastendorf 47",
+      "group": "l2a",
+      "status": "ok",
+      "source_url": "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/bastendorf-fc-14745.png",
+      "source_type": "flf.lu",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701077.png",
+      "background": [
+        253,
+        145,
+        145
+      ],
+      "bytes": 7280,
+      "sha256": "bf92f0740b4b2eb74bc4c797b42a8923ebc48f57559a44c17cbc0f8498ab28f3"
+    },
+    {
+      "id": 1901262701078,
+      "name": "Jeunesse Junglinster",
+      "group": "l2b",
+      "status": "ok",
+      "source_url": "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/jeunesse-junglinster-14757_1674465871.png",
+      "source_type": "flf.lu",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701078.png",
+      "background": [
+        160,
+        207,
+        130
+      ],
+      "bytes": 3590,
+      "sha256": "ac468ad893ab869d6bdb9d39ec2298674dc1e19092e3b7c25f025273b9c4c47d"
+    },
+    {
+      "id": 1901262701079,
+      "name": "US Sandweiler",
+      "group": "l2b",
+      "status": "ok",
+      "source_url": "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/us-sandweiler-15594.png",
+      "source_type": "flf.lu",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701079.png",
+      "background": [
+        237,
+        99,
+        114
+      ],
+      "bytes": 6789,
+      "sha256": "df637f643cc505f1c99b09f3c009abab56724a9207881aa9a78927543aae5db8"
+    },
+    {
+      "id": 1901262701080,
+      "name": "Tricolore Gasperich",
+      "group": "l2b",
+      "status": "ok",
+      "source_url": "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/tricolore-gasperich-14783.png",
+      "source_type": "flf.lu",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701080.png",
+      "background": [
+        99,
+        191,
+        222
+      ],
+      "bytes": 7555,
+      "sha256": "f5d260a22716a5bf23e731569656d1591aa27175dcb22b10486686b95ab199e6"
+    },
+    {
+      "id": 1901262701081,
+      "name": "Union 05 Kayl-Tétange",
+      "group": "l2b",
+      "status": "ok",
+      "source_url": "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/union-05-kayl-tetingen-252.png",
+      "source_type": "flf.lu",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701081.png",
+      "background": [
+        237,
+        114,
+        114
+      ],
+      "bytes": 4122,
+      "sha256": "6ef2bb43cfba2ff9a9c6959c8c7515fcb84b39af7b098172b91a9ac881ea7fc8"
+    },
+    {
+      "id": 1901262701082,
+      "name": "FC Ehlerange",
+      "group": "l2b",
+      "status": "ok",
+      "source_url": "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/ehlerange-fc-15623.png",
+      "source_type": "flf.lu",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701082.png",
+      "background": [
+        99,
+        191,
+        130
+      ],
+      "bytes": 9992,
+      "sha256": "20a4e5e701960f0ef507a539f50651d9e052f60cfcf8903391b414b5245e4075"
+    },
+    {
+      "id": 1901262701083,
+      "name": "FC Stengefort",
+      "group": "l2b",
+      "status": "ok",
+      "source_url": "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/fc-stengefort-139843_1634888948.png",
+      "source_type": "flf.lu",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701083.png",
+      "background": [
+        222,
+        99,
+        130
+      ],
+      "bytes": 5913,
+      "sha256": "38718e84fc2d2600db643ed04eb6ad70d3accfa79ada73e789d1f32ce3cea171"
+    },
+    {
+      "id": 1901262701084,
+      "name": "Etoile Sportive Schouweiler",
+      "group": "l2b",
+      "status": "ok",
+      "source_url": "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/etoile-sportive-schouweiler-15747_1604674123.png",
+      "source_type": "flf.lu",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701084.png",
+      "background": [
+        145,
+        222,
+        130
+      ],
+      "bytes": 3763,
+      "sha256": "66a510e5f1d39d21095ccf16befe49f0ca2d36ccbe583bf30d71b4a886e2b026"
+    },
+    {
+      "id": 1901262701085,
+      "name": "Red Boys Aspelt",
+      "group": "l2b",
+      "status": "ok",
+      "source_url": "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/aspelt-red-boys-14776.png",
+      "source_type": "flf.lu",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701085.png",
+      "background": [
+        222,
+        114,
+        130
+      ],
+      "bytes": 7330,
+      "sha256": "67a4f2386b4985d3eb0e676630a6c99f288a62d619f35d1d45f45384de882b04"
+    },
+    {
+      "id": 1901262701086,
+      "name": "US Berdorf-Consdorf 01",
+      "group": "l2b",
+      "status": "ok",
+      "source_url": "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/us-bc-01-berdorf-consdorf-14756_1715601363.png",
+      "source_type": "flf.lu",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701086.png",
+      "background": [
+        237,
+        99,
+        99
+      ],
+      "bytes": 8597,
+      "sha256": "62fc0af5b766503fe425e5b48afc88e88712b64a3c1d9af8de0f972c8565fa16"
+    },
+    {
+      "id": 1901262701087,
+      "name": "FC Les Aiglons Dalheim",
+      "group": "l2b",
+      "status": "ok",
+      "source_url": "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/fc-les-aiglons-dalheim-15823_1662371080.png",
+      "source_type": "flf.lu",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701087.png",
+      "background": [
+        160,
+        99,
+        114
+      ],
+      "bytes": 4082,
+      "sha256": "9a181ec916705df53db83647de69d2b4a33c1df4f4fc11d1a0bf729a74a05b36"
+    },
+    {
+      "id": 1901262701088,
+      "name": "CS Oberkorn",
+      "group": "l2b",
+      "status": "ok",
+      "source_url": "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/cs_oberkorn-247.png",
+      "source_type": "flf.lu",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701088.png",
+      "background": [
+        114,
+        176,
+        222
+      ],
+      "bytes": 10698,
+      "sha256": "74e5be000ded6e884b271cc333796491b84e210fe70b57d836c6c36ead9aa038"
+    },
+    {
+      "id": 1901262701089,
+      "name": "Alliance Aischdall Hobscheid-Eischen",
+      "group": "l2b",
+      "status": "ok",
+      "source_url": "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/alliance-aischdall-hobscheid-eischen-14748_1538489135.png",
+      "source_type": "flf.lu",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701089.png",
+      "background": [
+        114,
+        145,
+        176
+      ],
+      "bytes": 5285,
+      "sha256": "aad6ebe2b4446c9fb3478d0fa69ef68892804ca10957334ebc16b901f58776e3"
+    },
+    {
+      "id": 1901262701090,
+      "name": "Minière Lasauvage",
+      "group": "l2b",
+      "status": "ok",
+      "source_url": "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/miniere-lasauvage-15605.png",
+      "source_type": "flf.lu",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701090.png",
+      "background": [
+        222,
+        145,
+        114
+      ],
+      "bytes": 10685,
+      "sha256": "81e44a16c1b3329212f16fafeca765698f547b358187e64d4367ea30be7b3910"
+    },
+    {
+      "id": 1901262701091,
+      "name": "Etoile Sportive Clemency",
+      "group": "l2b",
+      "status": "ok",
+      "source_url": "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/etoile-sportive-clemency-15741.png",
+      "source_type": "flf.lu",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701091.png",
+      "background": [
+        99,
+        145,
+        207
+      ],
+      "bytes": 4387,
+      "sha256": "9110eb4047b125e13ee50adad4de6606ad18923830b1742a3f00f81d3db06b2e"
+    },
+    {
+      "id": 1901262701092,
+      "name": "Excelsior Grevels",
+      "group": "l3",
+      "status": "ok",
+      "source_url": "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/fc-excelsior-grevels.jpg",
+      "source_type": "flf.lu",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701092.png",
+      "background": [
+        222,
+        160,
+        130
+      ],
+      "bytes": 10234,
+      "sha256": "5925ec0629e5ec478831a5784d766283a7ce031eaedc4b531510b3ee3764d64d"
+    },
+    {
+      "id": 1901262701093,
+      "name": "FC Brouch",
+      "group": "l3",
+      "status": "ok",
+      "source_url": "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/5077/logo/96x96_fc-brouch_1791186776.png",
+      "source_type": "flf.lu",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701093.png",
+      "background": [
+        207,
+        99,
+        99
+      ],
+      "bytes": 9197,
+      "sha256": "89453dbef3196c8dedc73ac0235f337ffde489b4a1b7728826e786f7405381b7"
+    },
+    {
+      "id": 1901262701094,
+      "name": "FC Les Ardoisiers Perlé",
+      "group": "l3",
+      "status": "ok",
+      "source_url": "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/les-ardoisiers-perle-15931.png",
+      "source_type": "flf.lu",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701094.png",
+      "background": [
+        222,
+        99,
+        99
+      ],
+      "bytes": 8764,
+      "sha256": "21975b3cad38c91efe63086465bf5d84ba9aacad943e41296debb9ab0894dd69"
+    },
+    {
+      "id": 1901262701095,
+      "name": "AS Colmarberg",
+      "group": "l3",
+      "status": "ok",
+      "source_url": "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/as_colmar-berg-253.png",
+      "source_type": "flf.lu",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701095.png",
+      "background": [
+        145,
+        176,
+        191
+      ],
+      "bytes": 5471,
+      "sha256": "c60017ab1589453a5fccdc861ba6fe3479725ce173bfbaed045ebb22830e5027"
+    },
+    {
+      "id": 1901262701096,
+      "name": "US Esch-Alzette",
+      "group": "l3",
+      "status": "ok",
+      "source_url": "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/union-sportive-esch-14752.png",
+      "source_type": "flf.lu",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701096.png",
+      "background": [
+        114,
+        114,
+        145
+      ],
+      "bytes": 5534,
+      "sha256": "594f6da0a8edf45275e091832c1fd9985ba03b7ca8338d74dadbc839716f910d"
+    },
+    {
+      "id": 1901262701097,
+      "name": "Luna Oberkorn",
+      "group": "l3",
+      "status": "ok",
+      "source_url": "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/luna-oberkorn-14747.png",
+      "source_type": "flf.lu",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701097.png",
+      "background": [
+        237,
+        114,
+        114
+      ],
+      "bytes": 9320,
+      "sha256": "815dc13d55c659bc73f492bfb7b36b344b09c30996719911ee907edf004f3e0f"
+    },
+    {
+      "id": 1901262701098,
+      "name": "FC Noertzange H.F.",
+      "group": "l3",
+      "status": "ok",
+      "source_url": "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/fc-noertzange-hf.jpg",
+      "source_type": "flf.lu",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701098.png",
+      "background": [
+        99,
+        130,
+        114
+      ],
+      "bytes": 9434,
+      "sha256": "7d97e3bb0e03b2b6b7c14692d9a0b94eb4ef1279b29fbc45220e071e49d0fdb9"
+    },
+    {
+      "id": 1901262701099,
+      "name": "Claravallis Clervaux",
+      "group": "l3",
+      "status": "ok",
+      "source_url": "https://clubee-websites-prod.s3.eu-central-1.amazonaws.com/images/teams/clervaux-claravallis-16003.png",
+      "source_type": "flf.lu",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1901262701099.png",
+      "background": [
+        114,
+        130,
+        191
+      ],
+      "bytes": 9061,
+      "sha256": "90b4937bcc80561ad33d27594948713228d71bb774170bdba959440d22f811b6"
+    }
+  ]
+}
