@@ -155,6 +155,79 @@ for i,division in enumerate(divisions,1):
  sources.append({"division":division,"url":url,"found":coverage[division],"expected":len(group_clubs),"table_rows":len(table),"error":error,"unmatched_clubs":matches,"candidates":possible[:1]})
  print(f"[{i:02d}/{len(divisions)}] {division}: {coverage[division]}/{len(group_clubs)} (source {url})",flush=True)
  time.sleep(.25)
+
+# Supplement missing Step 5 leagues from the five 2026-27 Wikipedia seasonal tables.
+# Where entries do not match the exact 2026/27 roster, no rating is claimed.
+wikileagues={
+ "Midland Football League Premier Division":"2026%E2%80%9327_Midland_Football_League",
+ "North West Counties League Premier Division":"2026%E2%80%9327_North_West_Counties_Football_League",
+ "Southern Combination League Premier Division":"2026%E2%80%9327_Southern_Combination_Football_League",
+ "Wessex League Premier Division":"2026%E2%80%9327_Wessex_Football_League",
+ "Western League Premier Division":"2026%E2%80%9327_Western_Football_League"
+}
+def parse_wiki(html):
+    parsed_groups=[]
+    soup=BeautifulSoup(html,"html.parser")
+    for table in soup.select("table.wikitable"):
+        parsed=[]
+        for tr in table.select("tr"):
+            els=tr.find_all(["th","td"],recursive=False)
+            vals=[e.get_text(" ",strip=True) for e in els]
+            if len(vals)<10 or not re.match(r"^\\s*\\d{1,2}\\b",vals[0]):continue
+            try:
+                pos=int(re.search(r"\\d+",vals[0]).group())
+                name=re.sub(r"\\[[^]]*\\]","",vals[1]).strip()
+                a=[int(re.search(r"-?\\d+",v.replace("−","-")).group()) for v in vals[2:10]]
+                p,w,d,l,gf,ga,gd,points=a
+                if p<=0 or p!=w+d+l or gf-ga!=gd:continue
+                parsed.append({"name":name,"rank":pos,"played":p,"points":points,"gd":gd,"gf":gf,"ga":ga})
+            except (AttributeError, ValueError, IndexError):continue
+        if parsed:parsed_groups.append(parsed)
+    return parsed_groups
+for div,wiki_slug in wikileagues.items():
+    targets=[r for r in records if r["division"]==div and r["played"] is None]
+    if not targets:continue
+    url="https://en.wikipedia.org/wiki/"+wiki_slug
+    matched=0
+    try:
+        req=session.get(url,timeout=30);req.raise_for_status()
+        candidate_tables=parse_wiki(req.text)
+        table=max(candidate_tables,key=lambda t:sum(matched_club(row,t)[0] is not None for row in targets),default=[])
+        used=set()
+        for row in targets:
+            t,method,confidence=matched_club(row,table)
+            if t and t["name"] not in used:
+                used.add(t["name"])
+                row.update({"played":t["played"],"points":t["points"],"gd":t["gd"],"gf":t["gf"],"ga":t["ga"],
+                            "source_team":t["name"],"match_type":"wiki_"+method})
+                matched+=1
+        src=next(s for s in sources if s["division"]==div)
+        src.update({"found":matched,"table_rows":len(table),"url":url,"error":None if matched else "No matching table values"})
+        src["unmatched_clubs"]=[x["name"] for x in targets if x["played"] is None]
+        print(f"WIKIPEDIA {div}: {matched}/{len(targets)}",flush=True)
+    except Exception as exc:
+        print("WIKIPEDIA ERROR",div,str(exc),flush=True)
+
+# Carefully scoped real-name variants for clubs whose FWP shorthand differs from the FA allocation.
+alias_fix={"Emley":"Emley AFC","Consett":"Consett AFC","Campion":"Campion AFC",
+ "Pickering Town Community":"Pickering Town","Thackley Association":"Thackley",
+ "Boro Rangers":"Boro Rangers FC","Holmesdale":"Holmesdale FC",
+ "Bugbrooke St Michael":"Bugbrooke St Michaels","Coton Green Saturday":"Coton Green"}
+for group in sources:
+ if not group["url"] or "footballwebpages.co.uk" not in group["url"]:continue
+ unresolved=[r for r in records if r["division"]==group["division"] and r["played"] is None and r["name"] in alias_fix]
+ if not unresolved:continue
+ try:
+  fetched=session.get(group["url"],timeout=20)
+  parsed=parse_table(fetched.text)
+  for row in unresolved:
+   q=normalize(alias_fix[row["name"]]);pick=next((t for t in parsed if normalize(t["name"])==q),None)
+   if pick:
+    row.update({"played":pick["played"],"points":pick["points"],"gd":pick["gd"],"gf":pick["gf"],"ga":pick["ga"],"source_team":pick["name"],"match_type":"verified_alias"})
+    group["found"]+=1
+    if row["name"] in group["unmatched_clubs"]:group["unmatched_clubs"].remove(row["name"])
+ except Exception as exc:print("ALIAS SOURCE ERROR",group["division"],str(exc))
+
 assert len(records)==750
 out=Path("docs/english-ratings-research");out.mkdir(parents=True,exist_ok=True)
 data={"as_of":"2026-10-23","method":"FWP public web league tables, points and goals (not match-by-match Elo)","source_groups":sources,"records":records}
