@@ -260,8 +260,11 @@ for i,row in enumerate(rows,1):
  if row['division'] in ('D3','D4','D5E','D5W') and slflkey in slflpack:candidates.append(slflpack[slflkey])
  if norm(needle) in logos:candidates.append(logos[norm(needle)])
  if norm(needle) in guardian:candidates.append(guardian[norm(needle)])
- for result in (club_logo_archive(name),club_verified_tm_badge(name)):
-  if result:candidates.append(result)
+ tm_candidate=club_verified_tm_badge(name)
+ if tm_candidate:candidates.append(tm_candidate)
+ if not candidates:
+  known_candidate=club_logo_archive(name)
+  if known_candidate:candidates.append(known_candidate)
  status={"id":row["club_id"],"club":name,"division":row["division"],"state":"MISSING","source_url":"","source_provider":"","matched_name":"","file":"","dimensions_verified":False,"visual_identity_reviewed":False}
  for url,provider,matched in candidates:
   im=process(url)
