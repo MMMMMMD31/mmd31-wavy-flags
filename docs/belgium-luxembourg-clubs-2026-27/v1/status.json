@@ -1,7 +1,7 @@
 {
   "expected": 133,
-  "ok": 132,
-  "missing": 1,
+  "ok": 133,
+  "missing": 0,
   "size": [
     120,
     96
@@ -143,10 +143,17 @@
       "id": 1900262701001,
       "name": "Club Brugge KV",
       "group": "b1",
-      "status": "missing",
-      "source_url": null,
-      "source_type": null,
-      "problem": "No unique authentic crest source"
+      "status": "ok",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/belgium/Club_Brugge.svg",
+      "source_type": "github:J.A.football-logos",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-crests-test-2026/docs/belgium-luxembourg-clubs-2026-27/v1/1900262701001.png",
+      "background": [
+        112,
+        160,
+        213
+      ],
+      "bytes": 10130,
+      "sha256": "138bcd51f9841e10aa7683e1acda57aacc798c43a9d0192fc30c7e0b698e9917"
     },
     {
       "id": 1900262701002,
