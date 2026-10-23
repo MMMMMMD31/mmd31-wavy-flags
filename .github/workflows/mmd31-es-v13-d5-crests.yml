@@ -1,0 +1,55 @@
+name: Generate Spanish D5 authentic club crest candidates
+on:
+  push:
+    branches: [mmd31-es-v13-crests-20261023]
+    paths:
+      - 'tools/mmd31_es_v13_d5_real_crests.py'
+      - '.github/workflows/mmd31-es-v13-d5-crests.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  d5:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install requests beautifulsoup4 rapidfuzz scipy numpy pillow
+      - name: D5 groups 1-6
+        run: python tools/mmd31_es_v13_d5_real_crests.py --from-group 1 --to-group 6
+      - name: Save intermediate G1-6
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/spanish-clubs-2026-27/v13/ data/mmd31_es_v13_d5_g*.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Add D5 source crest candidates groups 1 to 6"
+            git pull --rebase origin mmd31-es-v13-crests-20261023
+            git push origin HEAD:mmd31-es-v13-crests-20261023
+          fi
+      - name: D5 groups 7-12
+        run: python tools/mmd31_es_v13_d5_real_crests.py --from-group 7 --to-group 12
+      - name: Save intermediate G7-12
+        shell: bash
+        run: |
+          git add docs/spanish-clubs-2026-27/v13/ data/mmd31_es_v13_d5_g*.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Add D5 source crest candidates groups 7 to 12"
+            git pull --rebase origin mmd31-es-v13-crests-20261023
+            git push origin HEAD:mmd31-es-v13-crests-20261023
+          fi
+      - name: D5 groups 13-18
+        run: python tools/mmd31_es_v13_d5_real_crests.py --from-group 13 --to-group 18
+      - name: Save intermediate G13-18
+        shell: bash
+        run: |
+          git add docs/spanish-clubs-2026-27/v13/ data/mmd31_es_v13_d5_g*.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Add D5 source crest candidates groups 13 to 18"
+            git pull --rebase origin mmd31-es-v13-crests-20261023
+            git push origin HEAD:mmd31-es-v13-crests-20261023
+          fi
