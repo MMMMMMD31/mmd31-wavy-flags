@@ -285,5 +285,15 @@
     "}\\nfunction elo_ch(v) {\\n  if (v==null) return '<span class=\"nlhq-z\">—</span>';\\n  if (v>0) return '<span class=\"nlhq-p\">+'+v.toFixed(1)+'</span>';",
     "W.addEventListener('click', function(e) {\\n  const tabBtn = e.target.closest('.nlhq-elo-tab');\\n  if (tabBtn) {\\n    const tab = tabBtn.dataset.tab;",
     "    if (!tab || tab === activeTab) return;\\n    W.querySelectorAll('.nlhq-elo-tab').forEach(b => b.classList.toggle('active', b.dataset.tab === tab));\\n    activeTab = tab;\\n    if (!loaded[tab]) { loaded[tab] = true; loadTab(tab); }"
-  ]
+  ],
+  "rpc_names": [
+    "get_goals_leaderboard_with_movement",
+    "get_league_competitiveness",
+    "get_league_leaders",
+    "get_overall_league_competitiveness"
+  ],
+  "selectable_tables": [
+    "rpc"
+  ],
+  "scan_error": "missing ), unterminated subpattern at position 9"
 }
