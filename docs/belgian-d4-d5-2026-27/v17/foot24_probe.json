@@ -1,0 +1,542 @@
+[
+  {
+    "text": "SV. ZULTE-WAREGEM",
+    "href": "https://www.foot24.be/nl/clubs/sv-zulte-waregem/1-b-2529",
+    "img": null,
+    "parent": "<span class=\"min-w-0 flex-1 truncate font-semibold\">\n<a class=\"text-on-deep hover:text-on-deep\" href=\"https://www.foot24.be/nl/clubs/sv-zulte-waregem/1-b-2529\">SV. ZULTE-WAREGEM</a>\n<span class=\"mx-0.5 text-[13px] font-normal text-on-deep-muted\">tegen</span>\n<a class=\"text-on-deep hover:text-on-deep\" href=\"https://www.foot24.be/nl/clubs/kfc-voorde-appelterre/1-a-2619\">KFC VOORDE-APPELTERRE</a>\n</span>"
+  },
+  {
+    "text": "KFC VOORDE-APPELTERRE",
+    "href": "https://www.foot24.be/nl/clubs/kfc-voorde-appelterre/1-a-2619",
+    "img": null,
+    "parent": "<span class=\"min-w-0 flex-1 truncate font-semibold\">\n<a class=\"text-on-deep hover:text-on-deep\" href=\"https://www.foot24.be/nl/clubs/sv-zulte-waregem/1-b-2529\">SV. ZULTE-WAREGEM</a>\n<span class=\"mx-0.5 text-[13px] font-normal text-on-deep-muted\">tegen</span>\n<a class=\"text-on-deep hover:text-on-deep\" href=\"https://www.foot24.be/nl/clubs/kfc-voorde-appelterre/1-a-2619\">KFC VOORDE-APPELTERRE</a>\n</span>"
+  },
+  {
+    "text": "VK. NINOVE",
+    "href": "https://www.foot24.be/nl/clubs/vk-ninove/1-a-2507",
+    "img": null,
+    "parent": "<span class=\"min-w-0 flex-1 truncate font-semibold\">\n<a class=\"text-on-deep hover:text-on-deep\" href=\"https://www.foot24.be/nl/clubs/vk-ninove/1-a-2507\">VK. NINOVE</a>\n<span class=\"mx-0.5 text-[13px] font-normal text-on-deep-muted\">tegen</span>\n<a class=\"text-on-deep hover:text-on-deep\" href=\"https://www.foot24.be/nl/clubs/kfc-sparta-petegem/1-a-2602\">SPARTA PETEGEM DEINZE</a>\n</span>"
+  },
+  {
+    "text": "SPARTA PETEGEM DEINZE",
+    "href": "https://www.foot24.be/nl/clubs/kfc-sparta-petegem/1-a-2602",
+    "img": null,
+    "parent": "<span class=\"min-w-0 flex-1 truncate font-semibold\">\n<a class=\"text-on-deep hover:text-on-deep\" href=\"https://www.foot24.be/nl/clubs/vk-ninove/1-a-2507\">VK. NINOVE</a>\n<span class=\"mx-0.5 text-[13px] font-normal text-on-deep-muted\">tegen</span>\n<a class=\"text-on-deep hover:text-on-deep\" href=\"https://www.foot24.be/nl/clubs/kfc-sparta-petegem/1-a-2602\">SPARTA PETEGEM DEINZE</a>\n</span>"
+  },
+  {
+    "text": "KSV. OUDENAARDE",
+    "href": "https://www.foot24.be/nl/clubs/ksv-oudenaarde/1-6340",
+    "img": null,
+    "parent": "<span class=\"min-w-0 flex-1 truncate font-semibold\">\n<a class=\"text-on-deep hover:text-on-deep\" href=\"https://www.foot24.be/nl/clubs/ksv-oudenaarde/1-6340\">KSV. OUDENAARDE</a>\n<span class=\"mx-0.5 text-[13px] font-normal text-on-deep-muted\">tegen</span>\n<a class=\"text-on-deep hover:text-on-deep\" href=\"https://www.foot24.be/nl/clubs/fc-lebbeke/1-6890\">FC LEBBEKE</a>\n</span>"
+  },
+  {
+    "text": "FC LEBBEKE",
+    "href": "https://www.foot24.be/nl/clubs/fc-lebbeke/1-6890",
+    "img": null,
+    "parent": "<span class=\"min-w-0 flex-1 truncate font-semibold\">\n<a class=\"text-on-deep hover:text-on-deep\" href=\"https://www.foot24.be/nl/clubs/ksv-oudenaarde/1-6340\">KSV. OUDENAARDE</a>\n<span class=\"mx-0.5 text-[13px] font-normal text-on-deep-muted\">tegen</span>\n<a class=\"text-on-deep hover:text-on-deep\" href=\"https://www.foot24.be/nl/clubs/fc-lebbeke/1-6890\">FC LEBBEKE</a>\n</span>"
+  },
+  {
+    "text": "YELLOW RED KV. MECHELEN",
+    "href": "https://www.foot24.be/nl/clubs/yellow-red-kv-mechelen/1-b-2211",
+    "img": null,
+    "parent": "<span class=\"min-w-0 flex-1 truncate font-semibold\">\n<a class=\"text-on-deep hover:text-on-deep\" href=\"https://www.foot24.be/nl/clubs/yellow-red-kv-mechelen/1-b-2211\">YELLOW RED KV. MECHELEN</a>\n<span class=\"mx-0.5 text-[13px] font-normal text-on-deep-muted\">tegen</span>\n<a class=\"text-on-deep hover:text-on-deep\" href=\"https://www.foot24.be/nl/clubs/kvcsv-oostkamp/1-a-2730\">KSV. OOSTKAMP</a>\n</span>"
+  },
+  {
+    "text": "KSV. OOSTKAMP",
+    "href": "https://www.foot24.be/nl/clubs/kvcsv-oostkamp/1-a-2730",
+    "img": null,
+    "parent": "<span class=\"min-w-0 flex-1 truncate font-semibold\">\n<a class=\"text-on-deep hover:text-on-deep\" href=\"https://www.foot24.be/nl/clubs/yellow-red-kv-mechelen/1-b-2211\">YELLOW RED KV. MECHELEN</a>\n<span class=\"mx-0.5 text-[13px] font-normal text-on-deep-muted\">tegen</span>\n<a class=\"text-on-deep hover:text-on-deep\" href=\"https://www.foot24.be/nl/clubs/kvcsv-oostkamp/1-a-2730\">KSV. OOSTKAMP</a>\n</span>"
+  },
+  {
+    "text": "SV. ZULTE-WAREGEM",
+    "href": "https://www.foot24.be/nl/clubs/sv-zulte-waregem/1-b-2529",
+    "img": null,
+    "parent": "<div class=\"flex min-w-0 items-center gap-2 text-[15px]\">\n<span aria-hidden=\"true\" class=\"flex shrink-0 items-center justify-center overflow-hidden font-display font-bold leading-none bg-white ring-1 ring-inset ring-line\" style=\"width: 24px; height: 24px; border-radius: 6px; font-size: 10px\">\n<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/05381.jpg\"/>\n</span>\n<a class=\"min-w-0 truncate text-ink no-underline hover:text-ink hover:underline\" href=\"https://www.foot24.be/nl/clubs/sv-zulte-waregem/1-b-2529\">SV. ZULTE-WAREGEM</a>\n</div>"
+  },
+  {
+    "text": "KFC VOORDE-APPELTERRE",
+    "href": "https://www.foot24.be/nl/clubs/kfc-voorde-appelterre/1-a-2619",
+    "img": null,
+    "parent": "<div class=\"flex min-w-0 items-center gap-2 text-[15px]\">\n<span aria-hidden=\"true\" class=\"flex shrink-0 items-center justify-center overflow-hidden font-display font-bold leading-none bg-white ring-1 ring-inset ring-line\" style=\"width: 24px; height: 24px; border-radius: 6px; font-size: 10px\">\n<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/03964.jpg\"/>\n</span>\n<a class=\"min-w-0 truncate text-ink no-underline hover:text-ink hover:underline\" href=\"https://www.foot24.be/nl/clubs/kfc-voorde-appelterre/1-a-2619\">KFC VOORDE-APPELTERRE</a>\n</div>"
+  },
+  {
+    "text": "SV. ZULTE-WAREGEM",
+    "href": "https://www.foot24.be/nl/clubs/sv-zulte-waregem/1-b-2529",
+    "img": null,
+    "parent": "<div class=\"flex min-w-0 items-center gap-2.5 text-base order-2 justify-end text-right\">\n<span aria-hidden=\"true\" class=\"flex shrink-0 items-center justify-center overflow-hidden font-display font-bold leading-none bg-white ring-1 ring-inset ring-line order-last\" style=\"width: 30px; height: 30px; border-radius: 8px; font-size: 13px\">\n<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/05381.jpg\"/>\n</span>\n<a class=\"min-w-0 truncate text-ink no-underline hover:text-ink hover:underline\" href=\"https://www.foot24.be/nl/clubs/sv-zulte-waregem/1-b-2529\">SV. ZULTE-WAREGEM</a>\n</div>"
+  },
+  {
+    "text": "KFC VOORDE-APPELTERRE",
+    "href": "https://www.foot24.be/nl/clubs/kfc-voorde-appelterre/1-a-2619",
+    "img": null,
+    "parent": "<div class=\"flex min-w-0 items-center gap-2.5 text-base order-4\">\n<span aria-hidden=\"true\" class=\"flex shrink-0 items-center justify-center overflow-hidden font-display font-bold leading-none bg-white ring-1 ring-inset ring-line\" style=\"width: 30px; height: 30px; border-radius: 8px; font-size: 13px\">\n<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/03964.jpg\"/>\n</span>\n<a class=\"min-w-0 truncate text-ink no-underline hover:text-ink hover:underline\" href=\"https://www.foot24.be/nl/clubs/kfc-voorde-appelterre/1-a-2619\">KFC VOORDE-APPELTERRE</a>\n</div>"
+  },
+  {
+    "text": "VK. NINOVE",
+    "href": "https://www.foot24.be/nl/clubs/vk-ninove/1-a-2507",
+    "img": null,
+    "parent": "<div class=\"flex min-w-0 items-center gap-2 text-[15px]\">\n<span aria-hidden=\"true\" class=\"flex shrink-0 items-center justify-center overflow-hidden font-display font-bold leading-none bg-white ring-1 ring-inset ring-line\" style=\"width: 24px; height: 24px; border-radius: 6px; font-size: 10px\">\n<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/02373.jpg\"/>\n</span>\n<a class=\"min-w-0 truncate text-ink no-underline hover:text-ink hover:underline\" href=\"https://www.foot24.be/nl/clubs/vk-ninove/1-a-2507\">VK. NINOVE</a>\n</div>"
+  },
+  {
+    "text": "SPARTA PETEGEM DEINZE",
+    "href": "https://www.foot24.be/nl/clubs/kfc-sparta-petegem/1-a-2602",
+    "img": null,
+    "parent": "<div class=\"flex min-w-0 items-center gap-2 text-[15px]\">\n<span aria-hidden=\"true\" class=\"flex shrink-0 items-center justify-center overflow-hidden font-display font-bold leading-none bg-white ring-1 ring-inset ring-line\" style=\"width: 24px; height: 24px; border-radius: 6px; font-size: 10px\">\n<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/03821.jpg\"/>\n</span>\n<a class=\"min-w-0 truncate text-ink no-underline hover:text-ink hover:underline\" href=\"https://www.foot24.be/nl/clubs/kfc-sparta-petegem/1-a-2602\">SPARTA PETEGEM DEINZE</a>\n</div>"
+  },
+  {
+    "text": "VK. NINOVE",
+    "href": "https://www.foot24.be/nl/clubs/vk-ninove/1-a-2507",
+    "img": null,
+    "parent": "<div class=\"flex min-w-0 items-center gap-2.5 text-base order-2 justify-end text-right\">\n<span aria-hidden=\"true\" class=\"flex shrink-0 items-center justify-center overflow-hidden font-display font-bold leading-none bg-white ring-1 ring-inset ring-line order-last\" style=\"width: 30px; height: 30px; border-radius: 8px; font-size: 13px\">\n<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/02373.jpg\"/>\n</span>\n<a class=\"min-w-0 truncate text-ink no-underline hover:text-ink hover:underline\" href=\"https://www.foot24.be/nl/clubs/vk-ninove/1-a-2507\">VK. NINOVE</a>\n</div>"
+  },
+  {
+    "text": "SPARTA PETEGEM DEINZE",
+    "href": "https://www.foot24.be/nl/clubs/kfc-sparta-petegem/1-a-2602",
+    "img": null,
+    "parent": "<div class=\"flex min-w-0 items-center gap-2.5 text-base order-4\">\n<span aria-hidden=\"true\" class=\"flex shrink-0 items-center justify-center overflow-hidden font-display font-bold leading-none bg-white ring-1 ring-inset ring-line\" style=\"width: 30px; height: 30px; border-radius: 8px; font-size: 13px\">\n<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/03821.jpg\"/>\n</span>\n<a class=\"min-w-0 truncate text-ink no-underline hover:text-ink hover:underline\" href=\"https://www.foot24.be/nl/clubs/kfc-sparta-petegem/1-a-2602\">SPARTA PETEGEM DEINZE</a>\n</div>"
+  },
+  {
+    "text": "KSV. OUDENAARDE",
+    "href": "https://www.foot24.be/nl/clubs/ksv-oudenaarde/1-6340",
+    "img": null,
+    "parent": "<div class=\"flex min-w-0 items-center gap-2 text-[15px]\">\n<span aria-hidden=\"true\" class=\"flex shrink-0 items-center justify-center overflow-hidden font-display font-bold leading-none bg-white ring-1 ring-inset ring-line\" style=\"width: 24px; height: 24px; border-radius: 6px; font-size: 10px\">\n<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/00081.jpg\"/>\n</span>\n<a class=\"min-w-0 truncate text-ink no-underline hover:text-ink hover:underline\" href=\"https://www.foot24.be/nl/clubs/ksv-oudenaarde/1-6340\">KSV. OUDENAARDE</a>\n</div>"
+  },
+  {
+    "text": "FC LEBBEKE",
+    "href": "https://www.foot24.be/nl/clubs/fc-lebbeke/1-6890",
+    "img": null,
+    "parent": "<div class=\"flex min-w-0 items-center gap-2 text-[15px]\">\n<span aria-hidden=\"true\" class=\"flex shrink-0 items-center justify-center overflow-hidden font-display font-bold leading-none bg-white ring-1 ring-inset ring-line\" style=\"width: 24px; height: 24px; border-radius: 6px; font-size: 10px\">\n<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/08601.jpg\"/>\n</span>\n<a class=\"min-w-0 truncate text-ink no-underline hover:text-ink hover:underline\" href=\"https://www.foot24.be/nl/clubs/fc-lebbeke/1-6890\">FC LEBBEKE</a>\n</div>"
+  },
+  {
+    "text": "KSV. OUDENAARDE",
+    "href": "https://www.foot24.be/nl/clubs/ksv-oudenaarde/1-6340",
+    "img": null,
+    "parent": "<div class=\"flex min-w-0 items-center gap-2.5 text-base order-2 justify-end text-right\">\n<span aria-hidden=\"true\" class=\"flex shrink-0 items-center justify-center overflow-hidden font-display font-bold leading-none bg-white ring-1 ring-inset ring-line order-last\" style=\"width: 30px; height: 30px; border-radius: 8px; font-size: 13px\">\n<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/00081.jpg\"/>\n</span>\n<a class=\"min-w-0 truncate text-ink no-underline hover:text-ink hover:underline\" href=\"https://www.foot24.be/nl/clubs/ksv-oudenaarde/1-6340\">KSV. OUDENAARDE</a>\n</div>"
+  },
+  {
+    "text": "FC LEBBEKE",
+    "href": "https://www.foot24.be/nl/clubs/fc-lebbeke/1-6890",
+    "img": null,
+    "parent": "<div class=\"flex min-w-0 items-center gap-2.5 text-base order-4\">\n<span aria-hidden=\"true\" class=\"flex shrink-0 items-center justify-center overflow-hidden font-display font-bold leading-none bg-white ring-1 ring-inset ring-line\" style=\"width: 30px; height: 30px; border-radius: 8px; font-size: 13px\">\n<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/08601.jpg\"/>\n</span>\n<a class=\"min-w-0 truncate text-ink no-underline hover:text-ink hover:underline\" href=\"https://www.foot24.be/nl/clubs/fc-lebbeke/1-6890\">FC LEBBEKE</a>\n</div>"
+  },
+  {
+    "text": "YELLOW RED KV. MECHELEN",
+    "href": "https://www.foot24.be/nl/clubs/yellow-red-kv-mechelen/1-b-2211",
+    "img": null,
+    "parent": "<div class=\"flex min-w-0 items-center gap-2 text-[15px]\">\n<span aria-hidden=\"true\" class=\"flex shrink-0 items-center justify-center overflow-hidden font-display font-bold leading-none bg-white ring-1 ring-inset ring-line\" style=\"width: 24px; height: 24px; border-radius: 6px; font-size: 10px\">\n<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/00025.jpg\"/>\n</span>\n<a class=\"min-w-0 truncate text-ink no-underline hover:text-ink hover:underline\" href=\"https://www.foot24.be/nl/clubs/yellow-red-kv-mechelen/1-b-2211\">YELLOW RED KV. MECHELEN</a>\n</div>"
+  },
+  {
+    "text": "KSV. OOSTKAMP",
+    "href": "https://www.foot24.be/nl/clubs/kvcsv-oostkamp/1-a-2730",
+    "img": null,
+    "parent": "<div class=\"flex min-w-0 items-center gap-2 text-[15px]\">\n<span aria-hidden=\"true\" class=\"flex shrink-0 items-center justify-center overflow-hidden font-display font-bold leading-none bg-white ring-1 ring-inset ring-line\" style=\"width: 24px; height: 24px; border-radius: 6px; font-size: 10px\">\n<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/05956.jpg\"/>\n</span>\n<a class=\"min-w-0 truncate text-ink no-underline hover:text-ink hover:underline\" href=\"https://www.foot24.be/nl/clubs/kvcsv-oostkamp/1-a-2730\">KSV. OOSTKAMP</a>\n</div>"
+  },
+  {
+    "text": "YELLOW RED KV. MECHELEN",
+    "href": "https://www.foot24.be/nl/clubs/yellow-red-kv-mechelen/1-b-2211",
+    "img": null,
+    "parent": "<div class=\"flex min-w-0 items-center gap-2.5 text-base order-2 justify-end text-right\">\n<span aria-hidden=\"true\" class=\"flex shrink-0 items-center justify-center overflow-hidden font-display font-bold leading-none bg-white ring-1 ring-inset ring-line order-last\" style=\"width: 30px; height: 30px; border-radius: 8px; font-size: 13px\">\n<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/00025.jpg\"/>\n</span>\n<a class=\"min-w-0 truncate text-ink no-underline hover:text-ink hover:underline\" href=\"https://www.foot24.be/nl/clubs/yellow-red-kv-mechelen/1-b-2211\">YELLOW RED KV. MECHELEN</a>\n</div>"
+  },
+  {
+    "text": "KSV. OOSTKAMP",
+    "href": "https://www.foot24.be/nl/clubs/kvcsv-oostkamp/1-a-2730",
+    "img": null,
+    "parent": "<div class=\"flex min-w-0 items-center gap-2.5 text-base order-4\">\n<span aria-hidden=\"true\" class=\"flex shrink-0 items-center justify-center overflow-hidden font-display font-bold leading-none bg-white ring-1 ring-inset ring-line\" style=\"width: 30px; height: 30px; border-radius: 8px; font-size: 13px\">\n<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/05956.jpg\"/>\n</span>\n<a class=\"min-w-0 truncate text-ink no-underline hover:text-ink hover:underline\" href=\"https://www.foot24.be/nl/clubs/kvcsv-oostkamp/1-a-2730\">KSV. OOSTKAMP</a>\n</div>"
+  },
+  {
+    "text": "KFC. VIGOR WUITENS HAMME",
+    "href": "https://www.foot24.be/nl/clubs/kfc-vigor-wuitens-hamme/1-6354",
+    "img": null,
+    "parent": "<div class=\"flex min-w-0 items-center gap-2 text-[15px]\">\n<span aria-hidden=\"true\" class=\"flex shrink-0 items-center justify-center overflow-hidden font-display font-bold leading-none bg-white ring-1 ring-inset ring-line\" style=\"width: 24px; height: 24px; border-radius: 6px; font-size: 10px\">\n<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/00211.jpg\"/>\n</span>\n<a class=\"min-w-0 truncate text-ink no-underline hover:text-ink hover:underline\" href=\"https://www.foot24.be/nl/clubs/kfc-vigor-wuitens-hamme/1-6354\">KFC. VIGOR WUITENS HAMME</a>\n</div>"
+  },
+  {
+    "img": "<img alt=\"foot24.be\" class=\"h-11 w-auto dark:invert md:h-14\" src=\"/img/foot24.svg\"/>",
+    "context": ""
+  },
+  {
+    "img": "<img alt=\"\" class=\"object-contain size-5\" height=\"20\" src=\"/img/ical.png\" width=\"20\"/>",
+    "context": ""
+  },
+  {
+    "img": "<img alt=\"\" class=\"object-contain size-5\" height=\"20\" src=\"/img/google.png\" width=\"20\"/>",
+    "context": ""
+  },
+  {
+    "img": "<img alt=\"\" class=\"object-contain size-5\" height=\"20\" src=\"/img/outlook.png\" width=\"20\"/>",
+    "context": ""
+  },
+  {
+    "img": "<img alt=\"\" class=\"object-contain size-full\" height=\"20\" src=\"/img/teamy2.jpeg\" width=\"20\"/>",
+    "context": ""
+  },
+  {
+    "img": "<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/05381.jpg\"/>",
+    "context": ""
+  },
+  {
+    "img": "<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/03964.jpg\"/>",
+    "context": ""
+  },
+  {
+    "img": "<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/05381.jpg\"/>",
+    "context": ""
+  },
+  {
+    "img": "<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/03964.jpg\"/>",
+    "context": ""
+  },
+  {
+    "img": "<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/02373.jpg\"/>",
+    "context": ""
+  },
+  {
+    "img": "<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/03821.jpg\"/>",
+    "context": ""
+  },
+  {
+    "img": "<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/02373.jpg\"/>",
+    "context": ""
+  },
+  {
+    "img": "<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/03821.jpg\"/>",
+    "context": ""
+  },
+  {
+    "img": "<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/00081.jpg\"/>",
+    "context": ""
+  },
+  {
+    "img": "<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/08601.jpg\"/>",
+    "context": ""
+  },
+  {
+    "img": "<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/00081.jpg\"/>",
+    "context": ""
+  },
+  {
+    "img": "<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/08601.jpg\"/>",
+    "context": ""
+  },
+  {
+    "img": "<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/00025.jpg\"/>",
+    "context": ""
+  },
+  {
+    "img": "<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/05956.jpg\"/>",
+    "context": ""
+  },
+  {
+    "img": "<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/00025.jpg\"/>",
+    "context": ""
+  },
+  {
+    "img": "<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/05956.jpg\"/>",
+    "context": ""
+  },
+  {
+    "img": "<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/00211.jpg\"/>",
+    "context": ""
+  },
+  {
+    "img": "<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/00011.jpg\"/>",
+    "context": ""
+  },
+  {
+    "img": "<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/00211.jpg\"/>",
+    "context": ""
+  },
+  {
+    "img": "<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/00011.jpg\"/>",
+    "context": ""
+  },
+  {
+    "img": "<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/03630.jpg\"/>",
+    "context": ""
+  },
+  {
+    "img": "<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/04139.jpg\"/>",
+    "context": ""
+  },
+  {
+    "img": "<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/03630.jpg\"/>",
+    "context": ""
+  },
+  {
+    "img": "<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/04139.jpg\"/>",
+    "context": ""
+  },
+  {
+    "img": "<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/00095.jpg\"/>",
+    "context": ""
+  },
+  {
+    "text": "WS SCHOONBEEK-BILZEN",
+    "href": "https://www.foot24.be/nl/clubs/ews-schoonbeek-beverst/1-a-2530",
+    "img": null,
+    "parent": "<span class=\"min-w-0 flex-1 truncate font-semibold\">\n<a class=\"text-on-deep hover:text-on-deep\" href=\"https://www.foot24.be/nl/clubs/ews-schoonbeek-beverst/1-a-2530\">WS SCHOONBEEK-BILZEN</a>\n<span class=\"mx-0.5 text-[13px] font-normal text-on-deep-muted\">tegen</span>\n<a class=\"text-on-deep hover:text-on-deep\" href=\"https://www.foot24.be/nl/clubs/k-berg-en-dal-vv/1-6477\">K. BERG EN DAL VV.</a>\n</span>"
+  },
+  {
+    "text": "K. BERG EN DAL VV.",
+    "href": "https://www.foot24.be/nl/clubs/k-berg-en-dal-vv/1-6477",
+    "img": null,
+    "parent": "<span class=\"min-w-0 flex-1 truncate font-semibold\">\n<a class=\"text-on-deep hover:text-on-deep\" href=\"https://www.foot24.be/nl/clubs/ews-schoonbeek-beverst/1-a-2530\">WS SCHOONBEEK-BILZEN</a>\n<span class=\"mx-0.5 text-[13px] font-normal text-on-deep-muted\">tegen</span>\n<a class=\"text-on-deep hover:text-on-deep\" href=\"https://www.foot24.be/nl/clubs/k-berg-en-dal-vv/1-6477\">K. BERG EN DAL VV.</a>\n</span>"
+  },
+  {
+    "text": "FC. WEZEL SPORT",
+    "href": "https://www.foot24.be/nl/clubs/fc-wezel-sport/1-a-2442",
+    "img": null,
+    "parent": "<span class=\"min-w-0 flex-1 truncate font-semibold\">\n<a class=\"text-on-deep hover:text-on-deep\" href=\"https://www.foot24.be/nl/clubs/fc-wezel-sport/1-a-2442\">FC. WEZEL SPORT</a>\n<span class=\"mx-0.5 text-[13px] font-normal text-on-deep-muted\">tegen</span>\n<a class=\"text-on-deep hover:text-on-deep\" href=\"https://www.foot24.be/nl/clubs/k-achel-vv/1-a-2532\">K. ACHEL VV.</a>\n</span>"
+  },
+  {
+    "text": "K. ACHEL VV.",
+    "href": "https://www.foot24.be/nl/clubs/k-achel-vv/1-a-2532",
+    "img": null,
+    "parent": "<span class=\"min-w-0 flex-1 truncate font-semibold\">\n<a class=\"text-on-deep hover:text-on-deep\" href=\"https://www.foot24.be/nl/clubs/fc-wezel-sport/1-a-2442\">FC. WEZEL SPORT</a>\n<span class=\"mx-0.5 text-[13px] font-normal text-on-deep-muted\">tegen</span>\n<a class=\"text-on-deep hover:text-on-deep\" href=\"https://www.foot24.be/nl/clubs/k-achel-vv/1-a-2532\">K. ACHEL VV.</a>\n</span>"
+  },
+  {
+    "text": "KVC LILLE UNITED",
+    "href": "https://www.foot24.be/nl/clubs/vc-lille-united/1-a-2523",
+    "img": null,
+    "parent": "<span class=\"min-w-0 flex-1 truncate font-semibold\">\n<a class=\"text-on-deep hover:text-on-deep\" href=\"https://www.foot24.be/nl/clubs/vc-lille-united/1-a-2523\">KVC LILLE UNITED</a>\n<span class=\"mx-0.5 text-[13px] font-normal text-on-deep-muted\">tegen</span>\n<a class=\"text-on-deep hover:text-on-deep\" href=\"https://www.foot24.be/nl/clubs/gs-bree-beek/1-a-2818\">GS BREE-BEEK</a>\n</span>"
+  },
+  {
+    "text": "GS BREE-BEEK",
+    "href": "https://www.foot24.be/nl/clubs/gs-bree-beek/1-a-2818",
+    "img": null,
+    "parent": "<span class=\"min-w-0 flex-1 truncate font-semibold\">\n<a class=\"text-on-deep hover:text-on-deep\" href=\"https://www.foot24.be/nl/clubs/vc-lille-united/1-a-2523\">KVC LILLE UNITED</a>\n<span class=\"mx-0.5 text-[13px] font-normal text-on-deep-muted\">tegen</span>\n<a class=\"text-on-deep hover:text-on-deep\" href=\"https://www.foot24.be/nl/clubs/gs-bree-beek/1-a-2818\">GS BREE-BEEK</a>\n</span>"
+  },
+  {
+    "text": "KAC. BETEKOM",
+    "href": "https://www.foot24.be/nl/clubs/kac-betekom/1-a-2591",
+    "img": null,
+    "parent": "<span class=\"min-w-0 flex-1 truncate font-semibold\">\n<a class=\"text-on-deep hover:text-on-deep\" href=\"https://www.foot24.be/nl/clubs/kac-betekom/1-a-2591\">KAC. BETEKOM</a>\n<span class=\"mx-0.5 text-[13px] font-normal text-on-deep-muted\">tegen</span>\n<a class=\"text-on-deep hover:text-on-deep\" href=\"https://www.foot24.be/nl/clubs/k-nieuwmoer-fc/1-a-2701\">K. NIEUWMOER FC.</a>\n</span>"
+  },
+  {
+    "text": "K. NIEUWMOER FC.",
+    "href": "https://www.foot24.be/nl/clubs/k-nieuwmoer-fc/1-a-2701",
+    "img": null,
+    "parent": "<span class=\"min-w-0 flex-1 truncate font-semibold\">\n<a class=\"text-on-deep hover:text-on-deep\" href=\"https://www.foot24.be/nl/clubs/kac-betekom/1-a-2591\">KAC. BETEKOM</a>\n<span class=\"mx-0.5 text-[13px] font-normal text-on-deep-muted\">tegen</span>\n<a class=\"text-on-deep hover:text-on-deep\" href=\"https://www.foot24.be/nl/clubs/k-nieuwmoer-fc/1-a-2701\">K. NIEUWMOER FC.</a>\n</span>"
+  },
+  {
+    "text": "WS SCHOONBEEK-BILZEN",
+    "href": "https://www.foot24.be/nl/clubs/ews-schoonbeek-beverst/1-a-2530",
+    "img": null,
+    "parent": "<div class=\"flex min-w-0 items-center gap-2 text-[15px]\">\n<span aria-hidden=\"true\" class=\"flex shrink-0 items-center justify-center overflow-hidden font-display font-bold leading-none bg-white ring-1 ring-inset ring-line\" style=\"width: 24px; height: 24px; border-radius: 6px; font-size: 10px\">\n<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/02727.jpg\"/>\n</span>\n<a class=\"min-w-0 truncate text-ink no-underline hover:text-ink hover:underline\" href=\"https://www.foot24.be/nl/clubs/ews-schoonbeek-beverst/1-a-2530\">WS SCHOONBEEK-BILZEN</a>\n</div>"
+  },
+  {
+    "text": "K. BERG EN DAL VV.",
+    "href": "https://www.foot24.be/nl/clubs/k-berg-en-dal-vv/1-6477",
+    "img": null,
+    "parent": "<div class=\"flex min-w-0 items-center gap-2 text-[15px]\">\n<span aria-hidden=\"true\" class=\"flex shrink-0 items-center justify-center overflow-hidden font-display font-bold leading-none bg-white ring-1 ring-inset ring-line\" style=\"width: 24px; height: 24px; border-radius: 6px; font-size: 10px\">\n<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/03057.jpg\"/>\n</span>\n<a class=\"min-w-0 truncate text-ink no-underline hover:text-ink hover:underline\" href=\"https://www.foot24.be/nl/clubs/k-berg-en-dal-vv/1-6477\">K. BERG EN DAL VV.</a>\n</div>"
+  },
+  {
+    "text": "WS SCHOONBEEK-BILZEN",
+    "href": "https://www.foot24.be/nl/clubs/ews-schoonbeek-beverst/1-a-2530",
+    "img": null,
+    "parent": "<div class=\"flex min-w-0 items-center gap-2.5 text-base order-2 justify-end text-right\">\n<span aria-hidden=\"true\" class=\"flex shrink-0 items-center justify-center overflow-hidden font-display font-bold leading-none bg-white ring-1 ring-inset ring-line order-last\" style=\"width: 30px; height: 30px; border-radius: 8px; font-size: 13px\">\n<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/02727.jpg\"/>\n</span>\n<a class=\"min-w-0 truncate text-ink no-underline hover:text-ink hover:underline\" href=\"https://www.foot24.be/nl/clubs/ews-schoonbeek-beverst/1-a-2530\">WS SCHOONBEEK-BILZEN</a>\n</div>"
+  },
+  {
+    "text": "K. BERG EN DAL VV.",
+    "href": "https://www.foot24.be/nl/clubs/k-berg-en-dal-vv/1-6477",
+    "img": null,
+    "parent": "<div class=\"flex min-w-0 items-center gap-2.5 text-base order-4\">\n<span aria-hidden=\"true\" class=\"flex shrink-0 items-center justify-center overflow-hidden font-display font-bold leading-none bg-white ring-1 ring-inset ring-line\" style=\"width: 30px; height: 30px; border-radius: 8px; font-size: 13px\">\n<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/03057.jpg\"/>\n</span>\n<a class=\"min-w-0 truncate text-ink no-underline hover:text-ink hover:underline\" href=\"https://www.foot24.be/nl/clubs/k-berg-en-dal-vv/1-6477\">K. BERG EN DAL VV.</a>\n</div>"
+  },
+  {
+    "text": "FC. WEZEL SPORT",
+    "href": "https://www.foot24.be/nl/clubs/fc-wezel-sport/1-a-2442",
+    "img": null,
+    "parent": "<div class=\"flex min-w-0 items-center gap-2 text-[15px]\">\n<span aria-hidden=\"true\" class=\"flex shrink-0 items-center justify-center overflow-hidden font-display font-bold leading-none bg-white ring-1 ring-inset ring-line\" style=\"width: 24px; height: 24px; border-radius: 6px; font-size: 10px\">\n<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/00844.jpg\"/>\n</span>\n<a class=\"min-w-0 truncate text-ink no-underline hover:text-ink hover:underline\" href=\"https://www.foot24.be/nl/clubs/fc-wezel-sport/1-a-2442\">FC. WEZEL SPORT</a>\n</div>"
+  },
+  {
+    "text": "K. ACHEL VV.",
+    "href": "https://www.foot24.be/nl/clubs/k-achel-vv/1-a-2532",
+    "img": null,
+    "parent": "<div class=\"flex min-w-0 items-center gap-2 text-[15px]\">\n<span aria-hidden=\"true\" class=\"flex shrink-0 items-center justify-center overflow-hidden font-display font-bold leading-none bg-white ring-1 ring-inset ring-line\" style=\"width: 24px; height: 24px; border-radius: 6px; font-size: 10px\">\n<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/02753.jpg\"/>\n</span>\n<a class=\"min-w-0 truncate text-ink no-underline hover:text-ink hover:underline\" href=\"https://www.foot24.be/nl/clubs/k-achel-vv/1-a-2532\">K. ACHEL VV.</a>\n</div>"
+  },
+  {
+    "text": "FC. WEZEL SPORT",
+    "href": "https://www.foot24.be/nl/clubs/fc-wezel-sport/1-a-2442",
+    "img": null,
+    "parent": "<div class=\"flex min-w-0 items-center gap-2.5 text-base order-2 justify-end text-right\">\n<span aria-hidden=\"true\" class=\"flex shrink-0 items-center justify-center overflow-hidden font-display font-bold leading-none bg-white ring-1 ring-inset ring-line order-last\" style=\"width: 30px; height: 30px; border-radius: 8px; font-size: 13px\">\n<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/00844.jpg\"/>\n</span>\n<a class=\"min-w-0 truncate text-ink no-underline hover:text-ink hover:underline\" href=\"https://www.foot24.be/nl/clubs/fc-wezel-sport/1-a-2442\">FC. WEZEL SPORT</a>\n</div>"
+  },
+  {
+    "text": "K. ACHEL VV.",
+    "href": "https://www.foot24.be/nl/clubs/k-achel-vv/1-a-2532",
+    "img": null,
+    "parent": "<div class=\"flex min-w-0 items-center gap-2.5 text-base order-4\">\n<span aria-hidden=\"true\" class=\"flex shrink-0 items-center justify-center overflow-hidden font-display font-bold leading-none bg-white ring-1 ring-inset ring-line\" style=\"width: 30px; height: 30px; border-radius: 8px; font-size: 13px\">\n<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/02753.jpg\"/>\n</span>\n<a class=\"min-w-0 truncate text-ink no-underline hover:text-ink hover:underline\" href=\"https://www.foot24.be/nl/clubs/k-achel-vv/1-a-2532\">K. ACHEL VV.</a>\n</div>"
+  },
+  {
+    "text": "KVC LILLE UNITED",
+    "href": "https://www.foot24.be/nl/clubs/vc-lille-united/1-a-2523",
+    "img": null,
+    "parent": "<div class=\"flex min-w-0 items-center gap-2 text-[15px]\">\n<span aria-hidden=\"true\" class=\"flex shrink-0 items-center justify-center overflow-hidden font-display font-bold leading-none bg-white ring-1 ring-inset ring-line\" style=\"width: 24px; height: 24px; border-radius: 6px; font-size: 10px\">\n<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/02618.jpg\"/>\n</span>\n<a class=\"min-w-0 truncate text-ink no-underline hover:text-ink hover:underline\" href=\"https://www.foot24.be/nl/clubs/vc-lille-united/1-a-2523\">KVC LILLE UNITED</a>\n</div>"
+  },
+  {
+    "text": "GS BREE-BEEK",
+    "href": "https://www.foot24.be/nl/clubs/gs-bree-beek/1-a-2818",
+    "img": null,
+    "parent": "<div class=\"flex min-w-0 items-center gap-2 text-[15px]\">\n<span aria-hidden=\"true\" class=\"flex shrink-0 items-center justify-center overflow-hidden font-display font-bold leading-none bg-white ring-1 ring-inset ring-line\" style=\"width: 24px; height: 24px; border-radius: 6px; font-size: 10px\">\n<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/07314.jpg\"/>\n</span>\n<a class=\"min-w-0 truncate text-ink no-underline hover:text-ink hover:underline\" href=\"https://www.foot24.be/nl/clubs/gs-bree-beek/1-a-2818\">GS BREE-BEEK</a>\n</div>"
+  },
+  {
+    "text": "KVC LILLE UNITED",
+    "href": "https://www.foot24.be/nl/clubs/vc-lille-united/1-a-2523",
+    "img": null,
+    "parent": "<div class=\"flex min-w-0 items-center gap-2.5 text-base order-2 justify-end text-right\">\n<span aria-hidden=\"true\" class=\"flex shrink-0 items-center justify-center overflow-hidden font-display font-bold leading-none bg-white ring-1 ring-inset ring-line order-last\" style=\"width: 30px; height: 30px; border-radius: 8px; font-size: 13px\">\n<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/02618.jpg\"/>\n</span>\n<a class=\"min-w-0 truncate text-ink no-underline hover:text-ink hover:underline\" href=\"https://www.foot24.be/nl/clubs/vc-lille-united/1-a-2523\">KVC LILLE UNITED</a>\n</div>"
+  },
+  {
+    "text": "GS BREE-BEEK",
+    "href": "https://www.foot24.be/nl/clubs/gs-bree-beek/1-a-2818",
+    "img": null,
+    "parent": "<div class=\"flex min-w-0 items-center gap-2.5 text-base order-4\">\n<span aria-hidden=\"true\" class=\"flex shrink-0 items-center justify-center overflow-hidden font-display font-bold leading-none bg-white ring-1 ring-inset ring-line\" style=\"width: 30px; height: 30px; border-radius: 8px; font-size: 13px\">\n<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/07314.jpg\"/>\n</span>\n<a class=\"min-w-0 truncate text-ink no-underline hover:text-ink hover:underline\" href=\"https://www.foot24.be/nl/clubs/gs-bree-beek/1-a-2818\">GS BREE-BEEK</a>\n</div>"
+  },
+  {
+    "text": "KAC. BETEKOM",
+    "href": "https://www.foot24.be/nl/clubs/kac-betekom/1-a-2591",
+    "img": null,
+    "parent": "<div class=\"flex min-w-0 items-center gap-2 text-[15px]\">\n<span aria-hidden=\"true\" class=\"flex shrink-0 items-center justify-center overflow-hidden font-display font-bold leading-none bg-white ring-1 ring-inset ring-line\" style=\"width: 24px; height: 24px; border-radius: 6px; font-size: 10px\">\n<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/03634.jpg\"/>\n</span>\n<a class=\"min-w-0 truncate text-ink no-underline hover:text-ink hover:underline\" href=\"https://www.foot24.be/nl/clubs/kac-betekom/1-a-2591\">KAC. BETEKOM</a>\n</div>"
+  },
+  {
+    "text": "K. NIEUWMOER FC.",
+    "href": "https://www.foot24.be/nl/clubs/k-nieuwmoer-fc/1-a-2701",
+    "img": null,
+    "parent": "<div class=\"flex min-w-0 items-center gap-2 text-[15px]\">\n<span aria-hidden=\"true\" class=\"flex shrink-0 items-center justify-center overflow-hidden font-display font-bold leading-none bg-white ring-1 ring-inset ring-line\" style=\"width: 24px; height: 24px; border-radius: 6px; font-size: 10px\">\n<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/05627.jpg\"/>\n</span>\n<a class=\"min-w-0 truncate text-ink no-underline hover:text-ink hover:underline\" href=\"https://www.foot24.be/nl/clubs/k-nieuwmoer-fc/1-a-2701\">K. NIEUWMOER FC.</a>\n</div>"
+  },
+  {
+    "text": "KAC. BETEKOM",
+    "href": "https://www.foot24.be/nl/clubs/kac-betekom/1-a-2591",
+    "img": null,
+    "parent": "<div class=\"flex min-w-0 items-center gap-2.5 text-base order-2 justify-end text-right\">\n<span aria-hidden=\"true\" class=\"flex shrink-0 items-center justify-center overflow-hidden font-display font-bold leading-none bg-white ring-1 ring-inset ring-line order-last\" style=\"width: 30px; height: 30px; border-radius: 8px; font-size: 13px\">\n<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/03634.jpg\"/>\n</span>\n<a class=\"min-w-0 truncate text-ink no-underline hover:text-ink hover:underline\" href=\"https://www.foot24.be/nl/clubs/kac-betekom/1-a-2591\">KAC. BETEKOM</a>\n</div>"
+  },
+  {
+    "text": "K. NIEUWMOER FC.",
+    "href": "https://www.foot24.be/nl/clubs/k-nieuwmoer-fc/1-a-2701",
+    "img": null,
+    "parent": "<div class=\"flex min-w-0 items-center gap-2.5 text-base order-4\">\n<span aria-hidden=\"true\" class=\"flex shrink-0 items-center justify-center overflow-hidden font-display font-bold leading-none bg-white ring-1 ring-inset ring-line\" style=\"width: 30px; height: 30px; border-radius: 8px; font-size: 13px\">\n<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/05627.jpg\"/>\n</span>\n<a class=\"min-w-0 truncate text-ink no-underline hover:text-ink hover:underline\" href=\"https://www.foot24.be/nl/clubs/k-nieuwmoer-fc/1-a-2701\">K. NIEUWMOER FC.</a>\n</div>"
+  },
+  {
+    "text": "LOMMEL SK",
+    "href": "https://www.foot24.be/nl/clubs/kfc-lommelse-sk/1-b-2366",
+    "img": null,
+    "parent": "<div class=\"flex min-w-0 items-center gap-2 text-[15px]\">\n<span aria-hidden=\"true\" class=\"flex shrink-0 items-center justify-center overflow-hidden font-display font-bold leading-none bg-white ring-1 ring-inset ring-line\" style=\"width: 24px; height: 24px; border-radius: 6px; font-size: 10px\">\n<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/01986.jpg\"/>\n</span>\n<a class=\"min-w-0 truncate text-ink no-underline hover:text-ink hover:underline\" href=\"https://www.foot24.be/nl/clubs/kfc-lommelse-sk/1-b-2366\">LOMMEL SK</a>\n</div>"
+  },
+  {
+    "img": "<img alt=\"foot24.be\" class=\"h-11 w-auto dark:invert md:h-14\" src=\"/img/foot24.svg\"/>",
+    "context": ""
+  },
+  {
+    "img": "<img alt=\"\" class=\"object-contain size-5\" height=\"20\" src=\"/img/ical.png\" width=\"20\"/>",
+    "context": ""
+  },
+  {
+    "img": "<img alt=\"\" class=\"object-contain size-5\" height=\"20\" src=\"/img/google.png\" width=\"20\"/>",
+    "context": ""
+  },
+  {
+    "img": "<img alt=\"\" class=\"object-contain size-5\" height=\"20\" src=\"/img/outlook.png\" width=\"20\"/>",
+    "context": ""
+  },
+  {
+    "img": "<img alt=\"\" class=\"object-contain size-full\" height=\"20\" src=\"/img/teamy2.jpeg\" width=\"20\"/>",
+    "context": ""
+  },
+  {
+    "img": "<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/02727.jpg\"/>",
+    "context": ""
+  },
+  {
+    "img": "<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/03057.jpg\"/>",
+    "context": ""
+  },
+  {
+    "img": "<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/02727.jpg\"/>",
+    "context": ""
+  },
+  {
+    "img": "<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/03057.jpg\"/>",
+    "context": ""
+  },
+  {
+    "img": "<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/00844.jpg\"/>",
+    "context": ""
+  },
+  {
+    "img": "<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/02753.jpg\"/>",
+    "context": ""
+  },
+  {
+    "img": "<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/00844.jpg\"/>",
+    "context": ""
+  },
+  {
+    "img": "<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/02753.jpg\"/>",
+    "context": ""
+  },
+  {
+    "img": "<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/02618.jpg\"/>",
+    "context": ""
+  },
+  {
+    "img": "<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/07314.jpg\"/>",
+    "context": ""
+  },
+  {
+    "img": "<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/02618.jpg\"/>",
+    "context": ""
+  },
+  {
+    "img": "<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/07314.jpg\"/>",
+    "context": ""
+  },
+  {
+    "img": "<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/03634.jpg\"/>",
+    "context": ""
+  },
+  {
+    "img": "<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/05627.jpg\"/>",
+    "context": ""
+  },
+  {
+    "img": "<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/03634.jpg\"/>",
+    "context": ""
+  },
+  {
+    "img": "<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/05627.jpg\"/>",
+    "context": ""
+  },
+  {
+    "img": "<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/01986.jpg\"/>",
+    "context": ""
+  },
+  {
+    "img": "<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/02169.jpg\"/>",
+    "context": ""
+  },
+  {
+    "img": "<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/01986.jpg\"/>",
+    "context": ""
+  },
+  {
+    "img": "<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/02169.jpg\"/>",
+    "context": ""
+  },
+  {
+    "img": "<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/02030.jpg\"/>",
+    "context": ""
+  },
+  {
+    "img": "<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/00148.jpg\"/>",
+    "context": ""
+  },
+  {
+    "img": "<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/02030.jpg\"/>",
+    "context": ""
+  },
+  {
+    "img": "<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/00148.jpg\"/>",
+    "context": ""
+  },
+  {
+    "img": "<img alt=\"\" class=\"h-full w-full object-contain p-1\" loading=\"lazy\" src=\"/logos/08522.jpg\"/>",
+    "context": ""
+  }
+]
