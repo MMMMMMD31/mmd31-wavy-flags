@@ -50,6 +50,13 @@ def acquire(pair,i):
   if url:prospects.append((url,meta))
  url,meta=wikipedia(page)
  if url:prospects.append((url,meta))
+
+ # Exact-match club-badge sources separately identified against team names and federation/club pages.
+ known_urls={"1900264000102":["https://images.seeklogo.com/logo-png/49/1/fc-brera-strumica-logo-png_seeklogo-493901.png","FC Brera Strumica"],"1900264000106":["https://i.ibb.co/h2fZC3H/fk-euromilk-gorno-lisice-1960.png","FK Euromilk Gorno Lisice"],"1900264000108":["https://images.seeklogo.com/logo-png/20/1/fk-novaci-logo-png_seeklogo-201049.png","FK Novaci"],"1900264000114":["https://static.cdnlogo.com/logos/f/41/fudbalski-klub-teteks_800.png","FK Teteks Tetovo"],"1900264100106":["https://seeklogo.com/images/F/fk-lokomotiv-gorna-oryahovitsa-logo-7866807028-seeklogo.com.png","Lokomotiv Gorna Oryahovitsa"],"1900264100107":["https://seeklogo.com/images/F/fk-hebar-pazardzhik-logo-30E158928C-seeklogo.com.png","FK Hebar Pazardzhik"],"1900264100115":["https://www.logotypes101.com/logos/518/8EF57A3C4375307B4A8B01A5C5645879/montana%20%5BConverted%5D.png","FK Montana"],"1900264200102":["https://www.frf-ajf.ro/upload/echipe/10895.jpg","CSL Stefanestii (football regional association photo)"],"1900264200106":["https://www.fcbihor.ro/media/stiri/FC-Bihor-sigla.jpg","FC Bihor (official club badge)"],"1900264200107":["https://commons.wikimedia.org/wiki/Special:FilePath/FC_Steaua_Bucure%C5%9Fti.png","CSA Steaua Bucharest 2025"],"1900264200108":["https://assets.football-logos.cc/logos/romania/1500x1500/chindia-targoviste.bf43227b.png","Chindia Targoviste"]}
+ if str(id) in known_urls:
+  url,title=known_urls[str(id)]
+  prospects.insert(0,(url,{"provider":"Exact-identity catalog or federation image","identity":title,"sourceImage":url}))
+
  # Two separately verified Macedonian club crests; never confuse Tetovo and Haraçinë.
  if id==999999000006:
   prospects.append(("https://r2.thesportsdb.com/images/media/team/badge/lec0bk1779941482.png",{"provider":"TheSportsDB club 155729, Shkëndija Haraçinë 1977","sourcePage":"https://www.thesportsdb.com/team/155729-shk%C3%ABndija-hara%C3%A7in%C3%AB"}))
