@@ -1,0 +1,26 @@
+{
+  "BLR": {
+    "status": "MISSING",
+    "provider": "UEFA member association emblem",
+    "source": "https://img.uefa.com/imgml/uefacom/elements/logos/ma/BLR.svg",
+    "error": "HTTPSConnectionPool(host='img.uefa.com', port=443): Read timed out. (read timeout=18)"
+  },
+  "UKR": {
+    "status": "MISSING",
+    "provider": "UEFA member association emblem",
+    "source": "https://img.uefa.com/imgml/uefacom/elements/logos/ma/UKR.svg",
+    "error": "HTTPSConnectionPool(host='img.uefa.com', port=443): Read timed out. (read timeout=18)"
+  },
+  "MDA": {
+    "status": "MISSING",
+    "provider": "UEFA member association emblem",
+    "source": "https://img.uefa.com/imgml/uefacom/elements/logos/ma/MDA.svg",
+    "error": "HTTPSConnectionPool(host='img.uefa.com', port=443): Read timed out. (read timeout=18)"
+  },
+  "GEO": {
+    "status": "MISSING",
+    "provider": "UEFA member association emblem",
+    "source": "https://img.uefa.com/imgml/uefacom/elements/logos/ma/GEO.svg",
+    "error": "HTTPSConnectionPool(host='img.uefa.com', port=443): Read timed out. (read timeout=18)"
+  }
+}
