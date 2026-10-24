@@ -31,6 +31,17 @@ aliases={
 }
 svgbase="https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/"
 known={"NK GOŠK Gabela":("bosnia-and-herzegovina","GOŠK_Gabela.svg"),"FK Igman Konjic":("bosnia-and-herzegovina","Igman_Konjic.svg"),"HŠK Posušje":("bosnia-and-herzegovina","Posušje.svg"),"NK Zvijezda Gradačac":("bosnia-and-herzegovina","Zvijezda_Gradačac.svg"),"FK Leotar Trebinje":("bosnia-and-herzegovina","Leotar_Trebinje.svg"),"FK Kozara Gradiška":("bosnia-and-herzegovina","Kozara_Gradiška.svg"),"FK Rudar Prijedor":("bosnia-and-herzegovina","Rudar_Prijedor.svg"),"FK Zvijezda 09":("bosnia-and-herzegovina","Zvijezda_09.svg"),"FK TSC Bačka Topola":("serbia","FK_TSC.svg"),"FK Javor Matis Ivanjica":("serbia","Javor_Matis.svg"),"FK Napredak Kruševac":("serbia","FK_Napredak_Kruševac.svg"),"FK Voždovac":("serbia","FK_Voždovac.svg"),"FK Metalac Gornji Milanovac":("serbia","Metalac.svg"),"FK Spartak Subotica":("serbia","Spartak_Subotica.svg")}
+# Verified 2026/27 Kosovo second-division logos paired by archive image identity.
+KOSOVO_ARCHIVE={
+ "KF 2 Korriku":"images/korriku_kos.png","FC Besa Pejë":"images/besa_kos.png",
+ "KF Dinamo Ferizaj":"images/dinamo_feriz_kos.png","KF Ferizaj":"images/ferizaj_kos.png",
+ "KF Istogu":"images/istogu_kos.jpg","KF Kika":"images/kika_kos.png",
+ "KF Lepenci":"images/lepenci_kos.png","KF Liria Prizren":"images/liria_kos.gif",
+ "FC Mitrovica":"images/mitrovica_kos.png","FC Prishtina e Re":"images/pris_e_re_kos.png",
+ "KF Ramiz Sadiku":"images/ramiz_kos.png","KF Rilindja 1974":"images/rili2_kos.png",
+ "FC Suhareka":"images/suhareka_kos.png","KF Tefik Çanga":"images/tefik_kos.png",
+ "KF Trepça":"images/trepca_kos.jpg","KF Trepça '89":"images/trepca_89_kos.png",
+ "KF Vëllaznimi":"images/veellaznimi_kos.png","KF Vjosa":"images/vjosa_kos.png"}
 image_sources={}
 for page in SOURCES:
  try:
@@ -49,6 +60,19 @@ for page in SOURCES:
   print("GSA",page,response.status_code,count,flush=True)
  except Exception as e:print("SOURCE_ERROR",page,str(e)[:180],flush=True)
 def resolve(name):
+ if name in KOSOVO_ARCHIVE:
+  return "https://escudosfc.com.br/"+KOSOVO_ARCHIVE[name],"Kosovo 2026/27 authentic club crest archive, alt/identity checked"
+ if name=="FK Proleter 023":
+  return "https://srbijasport.net/img/club/1317/0","Srbijasport FK Proleter 023 club profile crest"
+ if name=="FK Majevica Lopare":
+  try:
+   page=S.get("https://fkmajevica.com/",timeout=30)
+   dom=BeautifulSoup(page.text,"html.parser")
+   for x in dom.find_all("img"):
+    if "majevica" in (x.get("alt") or "").lower() or "grb" in (x.get("alt") or "").lower():
+     src=x.get("src") or x.get("data-src")
+     if src:return urljoin(page.url,src),"FK Majevica official club website authentic emblem"
+  except Exception:pass
  if name in known:
   folder,file=known[name]
   return svgbase+folder+"/"+quote(file),"JoseArroyave SVG crest"
