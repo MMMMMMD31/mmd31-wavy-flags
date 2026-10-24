@@ -1,0 +1,47 @@
+{
+  "assets": [
+    {
+      "id": 1900262703033,
+      "name": "R Aywaille FC",
+      "source": "https://vectorportal.com/storage/royal_aywaille_fc.jpg",
+      "status": "FAILED",
+      "error": "403 Client Error: Forbidden for url: https://vectorportal.com/storage/royal_aywaille_fc.jpg"
+    },
+    {
+      "id": 1900262703037,
+      "name": "FC Ganshoren",
+      "source": "https://images.seeklogo.com/logo-png/38/1/fc-ganshoren-logo-png_seeklogo-387821.png",
+      "status": "SOURCE_LINKED_PUBLISHED_CANDIDATE",
+      "size": [
+        120,
+        96
+      ],
+      "sha256": "5acacfee33888c5fbab3ef5d461c8554bebdab9003acd55425d3ec2f6ab9b4de",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-d4-d5-v17-crests-fast/docs/belgian-d4-d5-2026-27/v17/1900262703037.png"
+    },
+    {
+      "id": 1900262703038,
+      "name": "Union Hutoise",
+      "source": "https://www.voetbalinbelgie.be/images/club_logo_van_voetbalvereniging_union-hutoise-r_uit_huy.png?v=20250716095358",
+      "status": "SOURCE_LINKED_PUBLISHED_CANDIDATE",
+      "size": [
+        120,
+        96
+      ],
+      "sha256": "324041621892f22987fcbff2f78cca4afda8cb35de2c262ab40dfbbac67a08a1",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-d4-d5-v17-crests-fast/docs/belgian-d4-d5-2026-27/v17/1900262703038.png"
+    },
+    {
+      "id": 1900262703048,
+      "name": "UR Namur",
+      "source": "https://cdn.freebiesupply.com/logos/large/2x/union-royale-namur-logo-png-transparent.png",
+      "status": "SOURCE_LINKED_PUBLISHED_CANDIDATE",
+      "size": [
+        120,
+        96
+      ],
+      "sha256": "e330279e9ce01a63d73f134fb93a02788d3b31e01a911dbb1a2b9c2aa736c0d6",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-d4-d5-v17-crests-fast/docs/belgian-d4-d5-2026-27/v17/1900262703048.png"
+    }
+  ]
+}
