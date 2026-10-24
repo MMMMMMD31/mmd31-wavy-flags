@@ -1,0 +1,21 @@
+{
+  "replacements": [
+    {
+      "id": 1900262703000,
+      "name": "Koninklijke Eendracht Aalst Lede",
+      "source": "https://www.voetbalinbelgie.be/images/club_logo_van_voetbalvereniging_eendracht-aalst-lede_uit_aalst.png?v=20250626101013",
+      "source_verification": "Official club revealed a new black/white EA monogram in May 2025; reference voetbalinbelgie.be",
+      "status": "PUBLISHED_CURRENT_CREST",
+      "size": [
+        120,
+        96
+      ],
+      "sha256": "c90bacab65f04b3440da0584d0bff2bb342cefcaa79bb315d37175fd10be997c",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-d4-d5-v17-crests-fast/docs/belgian-d4-d5-2026-27/v17/1900262703000.png"
+    }
+  ],
+  "rejected_old_logos": [
+    1900262703001,
+    1900262703012
+  ]
+}
