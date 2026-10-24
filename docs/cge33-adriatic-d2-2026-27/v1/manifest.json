@@ -157,18 +157,24 @@
       "teamId": 1942700200100,
       "name": "NK Sesvete",
       "country": "croatia",
-      "source": null,
+      "source": "https://c.ff.hr/logos/sesvete.png",
       "sourceCandidate": "sesvete",
-      "status": "MISSING_REAL_CREST"
+      "status": "PNG_REAL_SOURCE_CANDIDATE",
+      "sha256": "8fb131f012e289df6665a498fabda267eca4d016874b9e1541e0d684b426365a",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background": "#B7CDEA"
     },
     {
       "teamId": 1942700200101,
       "name": "NK Dugopolje",
       "country": "croatia",
-      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/croatia/NK_Dugopolje.svg",
+      "source": "https://c.ff.hr/logos/dugopolje.png",
       "sourceCandidate": "NK_Dugopolje.svg",
       "status": "PNG_REAL_SOURCE_CANDIDATE",
-      "sha256": "c16e6321e63614e50e6a44b64bdfec0299c396c2fb5826483f197c403ed792c8",
+      "sha256": "40b0fec0246b6fa0008fc6b22152873bc2807c2f3209ea765fa46168b7e22077",
       "dimensions": [
         120,
         96
@@ -179,9 +185,15 @@
       "teamId": 1942700200102,
       "name": "NK Mladost Ždralovi",
       "country": "croatia",
-      "source": null,
+      "source": "https://c.ff.hr/logos/mladost-zdralovi.png",
       "sourceCandidate": "mladost-zdralovi",
-      "status": "MISSING_REAL_CREST"
+      "status": "PNG_REAL_SOURCE_CANDIDATE",
+      "sha256": "4f71a4f3aba4efbc28e878aa415d886ff98fc4a7e726c0e33032fd3b7761815a",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background": "#B7CDEA"
     },
     {
       "teamId": 1942700200103,
@@ -201,10 +213,10 @@
       "teamId": 1942700200104,
       "name": "GNK Dinamo Zagreb II",
       "country": "croatia",
-      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/croatia/GNK_Dinamo_Zagreb.svg",
+      "source": "https://c.ff.hr/logos/dinamo-zagreb.png",
       "sourceCandidate": "GNK_Dinamo_Zagreb.svg",
       "status": "PNG_REAL_SOURCE_CANDIDATE",
-      "sha256": "b852c77239b7cc67a4034b4321da3f2e5e837e09d3577b2117886475be9bae20",
+      "sha256": "3a681c2128f266b8d27bf39408d5aac91f209c71c64b681a712a69c7bde9d195",
       "dimensions": [
         120,
         96
@@ -223,25 +235,43 @@
       "teamId": 1942700200106,
       "name": "NK Croatia Zmijavci",
       "country": "croatia",
-      "source": null,
+      "source": "https://c.ff.hr/logos/croatia-zmijavci.png",
       "sourceCandidate": "croatia-zmijavci",
-      "status": "MISSING_REAL_CREST"
+      "status": "PNG_REAL_SOURCE_CANDIDATE",
+      "sha256": "0da5ae8a525154e8649b792238551211e51a7c37450fdd539a8b2fca3c6c3912",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background": "#B7CDEA"
     },
     {
       "teamId": 1942700200107,
       "name": "NK Jadran Luka Ploče",
       "country": "croatia",
-      "source": null,
+      "source": "https://c.ff.hr/logos/jadran-luka-ploce.png",
       "sourceCandidate": "jadran-luka-ploce",
-      "status": "MISSING_REAL_CREST"
+      "status": "PNG_REAL_SOURCE_CANDIDATE",
+      "sha256": "10fb737d6f150374cc36057f6160609e0a845e93c9d0ffc46bfabb6c07db03a9",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background": "#B7CDEA"
     },
     {
       "teamId": 1942700200108,
       "name": "NK Opatija",
       "country": "croatia",
-      "source": null,
+      "source": "https://c.ff.hr/logos/opatija.png",
       "sourceCandidate": "opatija",
-      "status": "MISSING_REAL_CREST"
+      "status": "PNG_REAL_SOURCE_CANDIDATE",
+      "sha256": "93086f2094409ae6da6f4ac7b3c3e3ec22e8570cadf233748cd6efa3d8bea0c6",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background": "#B7CDEA"
     },
     {
       "teamId": 1942700200109,
@@ -255,9 +285,15 @@
       "teamId": 1942700200110,
       "name": "NK Dubrava Tim Kabel",
       "country": "croatia",
-      "source": null,
+      "source": "https://c.ff.hr/logos/dubrava.png",
       "sourceCandidate": "dubrava",
-      "status": "MISSING_REAL_CREST"
+      "status": "PNG_REAL_SOURCE_CANDIDATE",
+      "sha256": "451a6907e7be41db2639b560726f34f72da64e63af7370281678e5cabfd37d65",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background": "#B7CDEA"
     },
     {
       "teamId": 1942700200111,
@@ -530,5 +566,5 @@
       "status": "MISSING_REAL_CREST"
     }
   ],
-  "published": 16
+  "published": 22
 }
