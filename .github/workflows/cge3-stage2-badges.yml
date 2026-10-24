@@ -1,0 +1,31 @@
+name: MMD31 CGE3 Stage2 Swiss Austrian Liechtenstein club badges
+on:
+  push:
+    branches: [mmd31-cge3-suisse-autriche-sanmarin-20261024]
+    paths:
+      - 'scripts/cge3/stage2_badges.py'
+      - '.github/workflows/cge3-stage2-badges.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  badges:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.11'}
+      - run: python -m pip install requests pillow beautifulsoup4
+      - run: python scripts/cge3/stage2_badges.py
+      - name: Commit verified image harvest & inventory
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add flags/clubs/standard/cge3-europe-2026-27 audit/cge3-europe-2026-27/stage2_new_club_badges.json
+          if ! git diff --cached --quiet; then
+            git commit -m "CGE3: publish available authentic new D2 and Liechtenstein crests"
+            git pull --rebase origin "$GITHUB_REF_NAME"
+            git push origin "HEAD:refs/heads/$GITHUB_REF_NAME"
+          fi
