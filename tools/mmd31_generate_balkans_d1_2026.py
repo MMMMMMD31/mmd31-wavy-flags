@@ -19,10 +19,11 @@ def source_for(country,key):
  if key=="FFK_Vushtrria":return GSA_FC_VUSHTRRIA,"Global Sports Archive verified club roster crest","gsa"
  if key.startswith("FFK_"):
   alt=FFK_KEY[key]
-  matches=[q for q in SOURCE["FFK historical"]["images"] if q["alt"]==alt and "/wp-content/uploads/" in q["src"]]
-  if not matches:raise ValueError("Official federation FFK logo missing "+alt)
-  src=matches[0]["src"].replace("http://","https://")
-  return src,"Federata e Futbollit e Kosovës match club image","ffk"
+  # Official federation CDN blocks hotlinking; use identified football competition imagery.
+  matches=[q for q in SOURCE["Kosovo competition"]["images"] if q["alt"].lower().startswith("logo of ") and q["alt"].lower().endswith(alt.lower()) and "/50x50/" in q["src"]]
+  if not matches:raise ValueError("No identifiable club crest in verified sports competition source "+alt)
+  src=matches[0]["src"]
+  return src,"Global Sports Archive original competition logo, match checked by team name","gsa"
  return SVGS_BASE+{"BA":"bosnia-and-herzegovina","RS":"serbia"}[country]+"/"+urllib.parse.quote(key),"JoseArroyave football logos / originally sourced SVG","svg"
 assets=[];missing=[]
 for c,id,name,key,color in R:
