@@ -1,0 +1,30 @@
+name: Research one FSRS football badge
+on:
+  push:
+    branches:
+      - mmd31-balkans-d1-2026-test
+    paths:
+      - tools/mmd31_discover_fsrs_logo.py
+      - .github/workflows/mmd31-fsrs-logo.yml
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  inspect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install requests beautifulsoup4
+      - run: python tools/mmd31_discover_fsrs_logo.py
+      - name: Save public federation image references
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add docs/balkans-d2-2026/v1/fsrs_logo_discovery.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Track federation crest URL evidence'
+            git push origin HEAD:refs/heads/$GITHUB_REF_NAME
+          fi
