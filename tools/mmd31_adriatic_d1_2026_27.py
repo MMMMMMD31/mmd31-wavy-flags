@@ -63,6 +63,8 @@ def source_image(country,name,gh_name,slug):
   urls.append("https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/"+country+"/"+urllib.parse.quote(gh_name))
  urls.append(f"https://assets.footylogos.com/logos/{slug}/{slug}-logo-footylogos.svg")
  # Montenegro and any missing club: source site lists individually.
+ if slug=="otrant-olympic": urls.append("https://seeklogo.com/vector-logo/302254/fk-otrant-olympic-ulcinj-ulqin")
+ if slug=="mladost-donja-gorica": urls.append("https://www.escudosdefutbolyequipaciones.com/ESCUDO%2BOFK%20MLADOST%20DONJA%20GORICA")
  urls.append("https://football-logos.cc/"+country+"/"+slug+"/")
  if country=="montenegro":
   urls.append(f"https://www.footylogos.com/logos/{slug}")
@@ -118,3 +120,28 @@ for ci,(country,teams) in enumerate(COUNTRIES):
   print(country,ti,name,rec["status"],source,flush=True)
 (BASE/"manifest.json").write_text(json.dumps({"season":"2026-27","catalog":"MMD31 first division genuine crest candidates","total":len(records),"published":sum(x["status"].startswith("PNG") for x in records),"assets":records},ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
 print("PUBLISHED",sum(x["status"].startswith("PNG") for x in records),"/",len(records),flush=True)
+
+FEDERATIONS={
+"slovenia":("Nogometna zveza Slovenije","https://www.nzs.si/sites/default/files/styles/default/public/media/image/NZS_osnovni_pokoncni_color-01.png.webp?itok=CTSxhNF9"),
+"croatia":("Hrvatski nogometni savez","https://hns.family/files/images/0000050025.png"),
+"montenegro":("Fudbalski savez Crne Gore","https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/montenegro/Montenegro_National_Team.svg"),
+"albania":("Federata Shqiptare e Futbollit","https://upload.wikimedia.org/wikipedia/commons/f/f1/Albanian_Football_Federation.svg")
+}
+federation_records=[]
+for country,(name,url) in FEDERATIONS.items():
+ binary,ctype=get(url)
+ try:
+  if not binary: raise ValueError("No source response")
+  if b"<svg" in binary[:1500]: im=Image.open(io.BytesIO(cairosvg.svg2png(bytestring=binary,output_width=500)))
+  else: im=Image.open(io.BytesIO(binary))
+  im=im.convert("RGBA")
+  im.thumbnail((260,260),Image.Resampling.LANCZOS)
+  canvas=Image.new("RGBA",(280,280),(255,255,255,0))
+  canvas.alpha_composite(im,((280-im.width)//2,(280-im.height)//2))
+  dest=BASE/("federation_"+country+".png")
+  canvas.save(dest,optimize=True)
+  federation_records.append({"country":country,"name":name,"source":url,"status":"PNG_280x280_PUBLISHED","sha256":hashlib.sha256(dest.read_bytes()).hexdigest()})
+ except Exception as ex:
+  federation_records.append({"country":country,"name":name,"source":url,"status":"FEDERATION_LOGO_SOURCE_UNVERIFIED","error":str(ex)[:130]})
+(BASE/"federations.json").write_text(json.dumps(federation_records,ensure_ascii=False,indent=2),encoding="utf-8")
+print("FEDERATION LOGOS",[(a["country"],a["status"]) for a in federation_records],flush=True)
