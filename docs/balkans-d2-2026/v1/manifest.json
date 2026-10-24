@@ -1,7 +1,7 @@
 {
   "expected": 64,
-  "published": 45,
-  "missing": 19,
+  "published": 63,
+  "missing": 1,
   "assets": [
     {
       "id": 1947271000001,
@@ -404,6 +404,16 @@
       "background": "#B6C4D7"
     },
     {
+      "id": 1947271000212,
+      "league": "RS",
+      "name": "FK Proleter 023",
+      "source_url": "https://srbijasport.net/img/club/1317/0",
+      "provenance": "Srbijasport FK Proleter 023 club profile crest",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d2-2026/v1/1947271000212.png",
+      "sha256": "6be294fb6be5636ed9eed49be4717ac5dd01e1341a9ef37d698a6ff1073001bf",
+      "background": "#B6C4D7"
+    },
+    {
       "id": 1947271000213,
       "league": "RS",
       "name": "FK Teleoptik Zemun",
@@ -444,13 +454,183 @@
       "background": "#B6C4D7"
     },
     {
+      "id": 1947271000301,
+      "league": "XK",
+      "name": "KF 2 Korriku",
+      "source_url": "https://escudosfc.com.br/images/korriku_kos.png",
+      "provenance": "Kosovo 2026/27 authentic club crest archive, alt/identity checked",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d2-2026/v1/1947271000301.png",
+      "sha256": "5b2cc77a60502794d9bd8f5d1a57bf8a5e140683c6a735bf09604697c1f32e43",
+      "background": "#A2CBDC"
+    },
+    {
+      "id": 1947271000302,
+      "league": "XK",
+      "name": "FC Besa Pejë",
+      "source_url": "https://escudosfc.com.br/images/besa_kos.png",
+      "provenance": "Kosovo 2026/27 authentic club crest archive, alt/identity checked",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d2-2026/v1/1947271000302.png",
+      "sha256": "f892795629efd8642086a22e4d2e6f11fcf85f73e0b814e2cbbfd09bb62908f7",
+      "background": "#A2CBDC"
+    },
+    {
+      "id": 1947271000303,
+      "league": "XK",
+      "name": "KF Dinamo Ferizaj",
+      "source_url": "https://escudosfc.com.br/images/dinamo_feriz_kos.png",
+      "provenance": "Kosovo 2026/27 authentic club crest archive, alt/identity checked",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d2-2026/v1/1947271000303.png",
+      "sha256": "d24e953f68b9b5c9e8137cddc887d1a49c0e448a616bf02caa147653acd5d365",
+      "background": "#A2CBDC"
+    },
+    {
+      "id": 1947271000304,
+      "league": "XK",
+      "name": "KF Ferizaj",
+      "source_url": "https://escudosfc.com.br/images/ferizaj_kos.png",
+      "provenance": "Kosovo 2026/27 authentic club crest archive, alt/identity checked",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d2-2026/v1/1947271000304.png",
+      "sha256": "3cbda1d0fc839e1a62a7b4217116406945040b1ba9ef15d68bafe1c18062af9a",
+      "background": "#A2CBDC"
+    },
+    {
+      "id": 1947271000305,
+      "league": "XK",
+      "name": "KF Istogu",
+      "source_url": "https://escudosfc.com.br/images/istogu_kos.jpg",
+      "provenance": "Kosovo 2026/27 authentic club crest archive, alt/identity checked",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d2-2026/v1/1947271000305.png",
+      "sha256": "00739f6e09082f5b3d079cd9e2dcb6de2c599d52b91239c08ac6853bbdbffe43",
+      "background": "#A2CBDC"
+    },
+    {
+      "id": 1947271000306,
+      "league": "XK",
+      "name": "KF Kika",
+      "source_url": "https://escudosfc.com.br/images/kika_kos.png",
+      "provenance": "Kosovo 2026/27 authentic club crest archive, alt/identity checked",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d2-2026/v1/1947271000306.png",
+      "sha256": "d47111122afd94320c7f6e76594a7485d8cb03852447066e95ef9f14f5993b8b",
+      "background": "#A2CBDC"
+    },
+    {
+      "id": 1947271000307,
+      "league": "XK",
+      "name": "KF Lepenci",
+      "source_url": "https://escudosfc.com.br/images/lepenci_kos.png",
+      "provenance": "Kosovo 2026/27 authentic club crest archive, alt/identity checked",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d2-2026/v1/1947271000307.png",
+      "sha256": "2730759e20f64f27871ec9fc63d4fbd2121e305ba870fb639cabbc02ccbf807e",
+      "background": "#A2CBDC"
+    },
+    {
       "id": 1947271000308,
       "league": "XK",
       "name": "KF Liria Prizren",
-      "source_url": "https://dsg-images.com/clubs/200x200/14711.png",
-      "provenance": "Global Sports Archive photo from https://globalsportsarchive.com/en/soccer/team/kf-liria-prizren/14711/",
+      "source_url": "https://escudosfc.com.br/images/liria_kos.gif",
+      "provenance": "Kosovo 2026/27 authentic club crest archive, alt/identity checked",
       "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d2-2026/v1/1947271000308.png",
-      "sha256": "d8865efc1706b64fa46a80a654fb2a14e26b2096468377210f7b1ea98673dc73",
+      "sha256": "4603a3c70c9e03b7fc573af9b6b70364dc2e4d5aaceb31ef10a280d16905946e",
+      "background": "#A2CBDC"
+    },
+    {
+      "id": 1947271000309,
+      "league": "XK",
+      "name": "FC Mitrovica",
+      "source_url": "https://escudosfc.com.br/images/mitrovica_kos.png",
+      "provenance": "Kosovo 2026/27 authentic club crest archive, alt/identity checked",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d2-2026/v1/1947271000309.png",
+      "sha256": "ef14ee2d0c87e6fefad9bf3bd7f48bc36c118648a091f2e4bb747324491f4ca4",
+      "background": "#A2CBDC"
+    },
+    {
+      "id": 1947271000310,
+      "league": "XK",
+      "name": "FC Prishtina e Re",
+      "source_url": "https://escudosfc.com.br/images/pris_e_re_kos.png",
+      "provenance": "Kosovo 2026/27 authentic club crest archive, alt/identity checked",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d2-2026/v1/1947271000310.png",
+      "sha256": "6c60b96e6ae6f960931d6e426f370aab77863e3c9636c0da149fa71c661afb48",
+      "background": "#A2CBDC"
+    },
+    {
+      "id": 1947271000311,
+      "league": "XK",
+      "name": "KF Ramiz Sadiku",
+      "source_url": "https://escudosfc.com.br/images/ramiz_kos.png",
+      "provenance": "Kosovo 2026/27 authentic club crest archive, alt/identity checked",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d2-2026/v1/1947271000311.png",
+      "sha256": "5d476bdb18b2a79a03f0938d75c71145225a313776aa4962d63bd5c24c83a529",
+      "background": "#A2CBDC"
+    },
+    {
+      "id": 1947271000312,
+      "league": "XK",
+      "name": "KF Rilindja 1974",
+      "source_url": "https://escudosfc.com.br/images/rili2_kos.png",
+      "provenance": "Kosovo 2026/27 authentic club crest archive, alt/identity checked",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d2-2026/v1/1947271000312.png",
+      "sha256": "ecc9509b54e8b8fcf9b3a4c0d81657000bd38281e7e385bf3039882a6b1dd086",
+      "background": "#A2CBDC"
+    },
+    {
+      "id": 1947271000313,
+      "league": "XK",
+      "name": "FC Suhareka",
+      "source_url": "https://escudosfc.com.br/images/suhareka_kos.png",
+      "provenance": "Kosovo 2026/27 authentic club crest archive, alt/identity checked",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d2-2026/v1/1947271000313.png",
+      "sha256": "79e8661f843293f184c46432589f26213908d3934e463d680015131a129b3640",
+      "background": "#A2CBDC"
+    },
+    {
+      "id": 1947271000314,
+      "league": "XK",
+      "name": "KF Tefik Çanga",
+      "source_url": "https://escudosfc.com.br/images/tefik_kos.png",
+      "provenance": "Kosovo 2026/27 authentic club crest archive, alt/identity checked",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d2-2026/v1/1947271000314.png",
+      "sha256": "9ff40d0c7b680ae625ba77b6d4f9a525640764696009d4fafa164d8f3aa934bb",
+      "background": "#A2CBDC"
+    },
+    {
+      "id": 1947271000315,
+      "league": "XK",
+      "name": "KF Trepça",
+      "source_url": "https://escudosfc.com.br/images/trepca_kos.jpg",
+      "provenance": "Kosovo 2026/27 authentic club crest archive, alt/identity checked",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d2-2026/v1/1947271000315.png",
+      "sha256": "2f079fcef6fb80438d453af7aa9fb5a5a3cbc22bbdc1af1374a9bc2ad5afdafc",
+      "background": "#A2CBDC"
+    },
+    {
+      "id": 1947271000316,
+      "league": "XK",
+      "name": "KF Trepça '89",
+      "source_url": "https://escudosfc.com.br/images/trepca_89_kos.png",
+      "provenance": "Kosovo 2026/27 authentic club crest archive, alt/identity checked",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d2-2026/v1/1947271000316.png",
+      "sha256": "c51f895656812bfeda333466524e10151d656b7fbf4c311599309c498307d174",
+      "background": "#A2CBDC"
+    },
+    {
+      "id": 1947271000317,
+      "league": "XK",
+      "name": "KF Vëllaznimi",
+      "source_url": "https://escudosfc.com.br/images/veellaznimi_kos.png",
+      "provenance": "Kosovo 2026/27 authentic club crest archive, alt/identity checked",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d2-2026/v1/1947271000317.png",
+      "sha256": "5812da93ad839c9a5027ba21a83ef98898a7a7ea9c90454d4393ebbd1727db68",
+      "background": "#A2CBDC"
+    },
+    {
+      "id": 1947271000318,
+      "league": "XK",
+      "name": "KF Vjosa",
+      "source_url": "https://escudosfc.com.br/images/vjosa_kos.png",
+      "provenance": "Kosovo 2026/27 authentic club crest archive, alt/identity checked",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d2-2026/v1/1947271000318.png",
+      "sha256": "930477acd01415609a8257488e4903223e6b857183732a64de8dbf40a3f1defb",
       "background": "#A2CBDC"
     }
   ],
@@ -459,114 +639,6 @@
       "id": 1947271000104,
       "league": "BA_RS",
       "name": "FK Majevica Lopare",
-      "status": "NO_VERIFIED_IMAGE"
-    },
-    {
-      "id": 1947271000212,
-      "league": "RS",
-      "name": "FK Proleter 023",
-      "status": "NO_VERIFIED_IMAGE"
-    },
-    {
-      "id": 1947271000301,
-      "league": "XK",
-      "name": "KF 2 Korriku",
-      "status": "NO_VERIFIED_IMAGE"
-    },
-    {
-      "id": 1947271000302,
-      "league": "XK",
-      "name": "FC Besa Pejë",
-      "status": "NO_VERIFIED_IMAGE"
-    },
-    {
-      "id": 1947271000303,
-      "league": "XK",
-      "name": "KF Dinamo Ferizaj",
-      "status": "NO_VERIFIED_IMAGE"
-    },
-    {
-      "id": 1947271000304,
-      "league": "XK",
-      "name": "KF Ferizaj",
-      "status": "NO_VERIFIED_IMAGE"
-    },
-    {
-      "id": 1947271000305,
-      "league": "XK",
-      "name": "KF Istogu",
-      "status": "NO_VERIFIED_IMAGE"
-    },
-    {
-      "id": 1947271000306,
-      "league": "XK",
-      "name": "KF Kika",
-      "status": "NO_VERIFIED_IMAGE"
-    },
-    {
-      "id": 1947271000307,
-      "league": "XK",
-      "name": "KF Lepenci",
-      "status": "NO_VERIFIED_IMAGE"
-    },
-    {
-      "id": 1947271000309,
-      "league": "XK",
-      "name": "FC Mitrovica",
-      "status": "NO_VERIFIED_IMAGE"
-    },
-    {
-      "id": 1947271000310,
-      "league": "XK",
-      "name": "FC Prishtina e Re",
-      "status": "NO_VERIFIED_IMAGE"
-    },
-    {
-      "id": 1947271000311,
-      "league": "XK",
-      "name": "KF Ramiz Sadiku",
-      "status": "NO_VERIFIED_IMAGE"
-    },
-    {
-      "id": 1947271000312,
-      "league": "XK",
-      "name": "KF Rilindja 1974",
-      "status": "NO_VERIFIED_IMAGE"
-    },
-    {
-      "id": 1947271000313,
-      "league": "XK",
-      "name": "FC Suhareka",
-      "status": "NO_VERIFIED_IMAGE"
-    },
-    {
-      "id": 1947271000314,
-      "league": "XK",
-      "name": "KF Tefik Çanga",
-      "status": "NO_VERIFIED_IMAGE"
-    },
-    {
-      "id": 1947271000315,
-      "league": "XK",
-      "name": "KF Trepça",
-      "status": "NO_VERIFIED_IMAGE"
-    },
-    {
-      "id": 1947271000316,
-      "league": "XK",
-      "name": "KF Trepça '89",
-      "status": "NO_VERIFIED_IMAGE"
-    },
-    {
-      "id": 1947271000317,
-      "league": "XK",
-      "name": "KF Vëllaznimi",
-      "status": "NO_VERIFIED_IMAGE"
-    },
-    {
-      "id": 1947271000318,
-      "league": "XK",
-      "name": "KF Vjosa",
       "status": "NO_VERIFIED_IMAGE"
     }
   ]
