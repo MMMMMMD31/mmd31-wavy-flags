@@ -95,6 +95,7 @@ CURATED_ALIASES = {
     "1898200000664": "File:Logo Alsterbrüder, Hamburg.png",
     "1898200000699": "File:Wappen der SGG Rot-Schwarz Kiel.gif",
     "1898200000066": "File:VfV Hildesheim Logo.svg",
+    "1898200000399": "File:Cöthener FC Germania 03.svg",
 }
 
 
@@ -171,7 +172,9 @@ def render(item):
         item["background_rgb"] = rgb
         item["sha256"] = hashlib.sha256(target.read_bytes()).hexdigest()
         return item
-    except Exception:
+    except Exception as exc:
+        print(f"Logo download failed ({item['club']}): {type(exc).__name__}: {exc}",
+              flush=True)
         return None
 
 
