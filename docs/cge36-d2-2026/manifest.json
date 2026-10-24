@@ -1,0 +1,973 @@
+{
+  "expected": 58,
+  "published": 41,
+  "missing": 17,
+  "clubs": [
+    {
+      "country": "EE",
+      "teamId": 1897600005001,
+      "club": "Tartu JK Welco",
+      "expected_size": [
+        120,
+        96
+      ],
+      "state": "published",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Welco.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_type": "wikimedia-exact-identified-filename",
+      "path": "docs/cge36-d2-2026/clubs/EE/1897600005001.png",
+      "background_rgb": [
+        231,
+        208,
+        186
+      ],
+      "sha256": "177b1b56910b2e24a84d7577c49959dc7dc769971fa53f9eee8d1cf6325d55a4"
+    },
+    {
+      "country": "EE",
+      "teamId": 1897600005002,
+      "club": "Viimsi JK",
+      "expected_size": [
+        120,
+        96
+      ],
+      "state": "published",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Viimsi_JK.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_type": "wikimedia-exact-identified-filename",
+      "path": "docs/cge36-d2-2026/clubs/EE/1897600005002.png",
+      "background_rgb": [
+        245,
+        208,
+        208
+      ],
+      "sha256": "98c79e78b27e7c9d641c99333d4727e29bd6458625cb4e156feb971e25fc12b4"
+    },
+    {
+      "country": "EE",
+      "teamId": 1897600005003,
+      "club": "Tallinna FC Flora U21",
+      "expected_size": [
+        120,
+        96
+      ],
+      "state": "published",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/estonia/Flora_Tallinn.svg",
+      "source_type": "josearroyave-authentic-club-svg",
+      "path": "docs/cge36-d2-2026/clubs/EE/1897600005003.png",
+      "background_rgb": [
+        119,
+        186,
+        141
+      ],
+      "sha256": "6330e1dfe5ee8a38d8b2c155080af415f51c0e5d0b13caa74505b6f14245d68a"
+    },
+    {
+      "country": "EE",
+      "teamId": 1897600005004,
+      "club": "Tallinna FCI Levadia U21",
+      "expected_size": [
+        120,
+        96
+      ],
+      "state": "published",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/estonia/Levadia.svg",
+      "source_type": "josearroyave-authentic-club-svg",
+      "path": "docs/cge36-d2-2026/clubs/EE/1897600005004.png",
+      "background_rgb": [
+        141,
+        208,
+        163
+      ],
+      "sha256": "273afaf2ac916e8222bd92b7ebadfcf813667c7e6b53fb1168d55a1d3b3c5910"
+    },
+    {
+      "country": "EE",
+      "teamId": 1897600005005,
+      "club": "FC Elva",
+      "expected_size": [
+        120,
+        96
+      ],
+      "state": "missing",
+      "problem": "No securely identified real club logo; do not publish placeholder"
+    },
+    {
+      "country": "EE",
+      "teamId": 1897600005006,
+      "club": "JK Tallinna Kalev",
+      "expected_size": [
+        120,
+        96
+      ],
+      "state": "published",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/estonia/Kalev.svg",
+      "source_type": "josearroyave-authentic-club-svg",
+      "path": "docs/cge36-d2-2026/clubs/EE/1897600005006.png",
+      "background_rgb": [
+        119,
+        163,
+        208
+      ],
+      "sha256": "0a42a2a62ea372004ef77b97b852ce97685e683ba21f1cc76da20f77664d50c1"
+    },
+    {
+      "country": "EE",
+      "teamId": 1897600005007,
+      "club": "FC Nõmme United U21",
+      "expected_size": [
+        120,
+        96
+      ],
+      "state": "published",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/estonia/FC_N%C3%B5mme_United.svg",
+      "source_type": "josearroyave-authentic-club-svg",
+      "path": "docs/cge36-d2-2026/clubs/EE/1897600005007.png",
+      "background_rgb": [
+        186,
+        119,
+        119
+      ],
+      "sha256": "6469986ad880af776af1ef9d369fbd809b71f6cffa4eee98b0d4ab928abed187"
+    },
+    {
+      "country": "EE",
+      "teamId": 1897600005008,
+      "club": "FC Tallinn",
+      "expected_size": [
+        120,
+        96
+      ],
+      "state": "missing",
+      "problem": "No securely identified real club logo; do not publish placeholder"
+    },
+    {
+      "country": "EE",
+      "teamId": 1897600005009,
+      "club": "Nõmme Kalju FC U21",
+      "expected_size": [
+        120,
+        96
+      ],
+      "state": "published",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/estonia/N%C3%B5mme_Kalju.svg",
+      "source_type": "josearroyave-authentic-club-svg",
+      "path": "docs/cge36-d2-2026/clubs/EE/1897600005009.png",
+      "background_rgb": [
+        201,
+        213,
+        228
+      ],
+      "sha256": "9fc80412895e3e9a434bc678ba437dfb2d66bc9f6814e4feb36b2640c1917060"
+    },
+    {
+      "country": "EE",
+      "teamId": 1897600005010,
+      "club": "Maardu Linnameeskond",
+      "expected_size": [
+        120,
+        96
+      ],
+      "state": "missing",
+      "problem": "No securely identified real club logo; do not publish placeholder"
+    },
+    {
+      "country": "LV",
+      "teamId": 1897600006001,
+      "club": "FK Metta",
+      "expected_size": [
+        120,
+        96
+      ],
+      "state": "published",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/latvia/Metta.svg",
+      "source_type": "josearroyave-authentic-club-svg",
+      "path": "docs/cge36-d2-2026/clubs/LV/1897600006001.png",
+      "background_rgb": [
+        119,
+        186,
+        119
+      ],
+      "sha256": "d28fbebd3d0b729c7b22fbc030254438b0ba68f8619260e93096b35ca5422c41"
+    },
+    {
+      "country": "LV",
+      "teamId": 1897600006002,
+      "club": "Valmiera FC",
+      "expected_size": [
+        120,
+        96
+      ],
+      "state": "published",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/latvia/Valmiera.svg",
+      "source_type": "josearroyave-authentic-club-svg",
+      "path": "docs/cge36-d2-2026/clubs/LV/1897600006002.png",
+      "background_rgb": [
+        201,
+        213,
+        228
+      ],
+      "sha256": "1fc80041c18e3a52a19d143ca3ed6226cf9f52b13b79c4f0a770b5b37acb8f39"
+    },
+    {
+      "country": "LV",
+      "teamId": 1897600006003,
+      "club": "Leevon PPK",
+      "expected_size": [
+        120,
+        96
+      ],
+      "state": "missing",
+      "problem": "No securely identified real club logo; do not publish placeholder"
+    },
+    {
+      "country": "LV",
+      "teamId": 1897600006004,
+      "club": "Riga Mariners",
+      "expected_size": [
+        120,
+        96
+      ],
+      "state": "missing",
+      "problem": "No securely identified real club logo; do not publish placeholder"
+    },
+    {
+      "country": "LV",
+      "teamId": 1897600006005,
+      "club": "JDFS Alberts",
+      "expected_size": [
+        120,
+        96
+      ],
+      "state": "missing",
+      "problem": "No securely identified real club logo; do not publish placeholder"
+    },
+    {
+      "country": "LV",
+      "teamId": 1897600006006,
+      "club": "Mārupes SC",
+      "expected_size": [
+        120,
+        96
+      ],
+      "state": "missing",
+      "problem": "No securely identified real club logo; do not publish placeholder"
+    },
+    {
+      "country": "LV",
+      "teamId": 1897600006007,
+      "club": "Riga FC II",
+      "expected_size": [
+        120,
+        96
+      ],
+      "state": "published",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/latvia/Riga.svg",
+      "source_type": "josearroyave-authentic-club-svg",
+      "path": "docs/cge36-d2-2026/clubs/LV/1897600006007.png",
+      "background_rgb": [
+        119,
+        141,
+        163
+      ],
+      "sha256": "0704f0a0aedebf91ac63b5def0c838cc03a3982763f983826ee1b3d3a8d25b3d"
+    },
+    {
+      "country": "LV",
+      "teamId": 1897600006008,
+      "club": "SK Super Nova II",
+      "expected_size": [
+        120,
+        96
+      ],
+      "state": "published",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/latvia/SK_Super_Nova.svg",
+      "source_type": "josearroyave-authentic-club-svg",
+      "path": "docs/cge36-d2-2026/clubs/LV/1897600006008.png",
+      "background_rgb": [
+        141,
+        141,
+        163
+      ],
+      "sha256": "a0da028d21d280592a5f92c2074d48a759c275ce3d4e6c26e2b3d392b935360d"
+    },
+    {
+      "country": "LV",
+      "teamId": 1897600006009,
+      "club": "Skanstes SK",
+      "expected_size": [
+        120,
+        96
+      ],
+      "state": "missing",
+      "problem": "No securely identified real club logo; do not publish placeholder"
+    },
+    {
+      "country": "LV",
+      "teamId": 1897600006010,
+      "club": "FK Smiltene/BJSS",
+      "expected_size": [
+        120,
+        96
+      ],
+      "state": "missing",
+      "problem": "No securely identified real club logo; do not publish placeholder"
+    },
+    {
+      "country": "LV",
+      "teamId": 1897600006011,
+      "club": "FK Tukums 2000 II",
+      "expected_size": [
+        120,
+        96
+      ],
+      "state": "published",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/latvia/Tukums_2000.svg",
+      "source_type": "josearroyave-authentic-club-svg",
+      "path": "docs/cge36-d2-2026/clubs/LV/1897600006011.png",
+      "background_rgb": [
+        119,
+        186,
+        141
+      ],
+      "sha256": "f5167c1761dd0f3341f3ddfa803249b6aea6a44e5a76a9b167faf776b64cdbba"
+    },
+    {
+      "country": "LV",
+      "teamId": 1897600006012,
+      "club": "FC RFS II",
+      "expected_size": [
+        120,
+        96
+      ],
+      "state": "published",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/latvia/RFS.svg",
+      "source_type": "josearroyave-authentic-club-svg",
+      "path": "docs/cge36-d2-2026/clubs/LV/1897600006012.png",
+      "background_rgb": [
+        119,
+        163,
+        231
+      ],
+      "sha256": "515565dd3ab97ff04fc4571a2bf00845ee032a56e6bbbc4aca0c3971c90b4f82"
+    },
+    {
+      "country": "LV",
+      "teamId": 1897600006013,
+      "club": "JFK Ventspils",
+      "expected_size": [
+        120,
+        96
+      ],
+      "state": "missing",
+      "problem": "No securely identified real club logo; do not publish placeholder"
+    },
+    {
+      "country": "LV",
+      "teamId": 1897600006014,
+      "club": "Rēzeknes FA/BJSS",
+      "expected_size": [
+        120,
+        96
+      ],
+      "state": "published",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/latvia/Rezeknes_BJSS.svg",
+      "source_type": "josearroyave-authentic-club-svg",
+      "path": "docs/cge36-d2-2026/clubs/LV/1897600006014.png",
+      "background_rgb": [
+        119,
+        119,
+        141
+      ],
+      "sha256": "f08efe79968ac456fd6fddb58b35e8b98a639a8e4119db0eb7b144539455deae"
+    },
+    {
+      "country": "LT",
+      "teamId": 1897600007001,
+      "club": "FK Minija Kretinga",
+      "expected_size": [
+        120,
+        96
+      ],
+      "state": "missing",
+      "problem": "No securely identified real club logo; do not publish placeholder"
+    },
+    {
+      "country": "LT",
+      "teamId": 1897600007002,
+      "club": "FK Babrungas Plungė",
+      "expected_size": [
+        120,
+        96
+      ],
+      "state": "missing",
+      "problem": "No securely identified real club logo; do not publish placeholder"
+    },
+    {
+      "country": "LT",
+      "teamId": 1897600007003,
+      "club": "FK Be1",
+      "expected_size": [
+        120,
+        96
+      ],
+      "state": "missing",
+      "problem": "No securely identified real club logo; do not publish placeholder"
+    },
+    {
+      "country": "LT",
+      "teamId": 1897600007004,
+      "club": "FC Neptūnas Klaipėda",
+      "expected_size": [
+        120,
+        96
+      ],
+      "state": "missing",
+      "problem": "No securely identified real club logo; do not publish placeholder"
+    },
+    {
+      "country": "LT",
+      "teamId": 1897600007005,
+      "club": "FK Žalgiris Vilnius B",
+      "expected_size": [
+        120,
+        96
+      ],
+      "state": "published",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/lithuania/%C5%BDalgiris_Vilnius.svg",
+      "source_type": "josearroyave-authentic-club-svg",
+      "path": "docs/cge36-d2-2026/clubs/LT/1897600007005.png",
+      "background_rgb": [
+        119,
+        186,
+        163
+      ],
+      "sha256": "acc8f31950472998c525ea1f285c9d372df67db996073d5f5654de22b2f24c5c"
+    },
+    {
+      "country": "LT",
+      "teamId": 1897600007006,
+      "club": "Vilniaus BFA",
+      "expected_size": [
+        120,
+        96
+      ],
+      "state": "missing",
+      "problem": "No securely identified real club logo; do not publish placeholder"
+    },
+    {
+      "country": "LT",
+      "teamId": 1897600007007,
+      "club": "FK Tauras Tauragė",
+      "expected_size": [
+        120,
+        96
+      ],
+      "state": "published",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/lithuania/Tauras.svg",
+      "source_type": "josearroyave-authentic-club-svg",
+      "path": "docs/cge36-d2-2026/clubs/LT/1897600007007.png",
+      "background_rgb": [
+        231,
+        119,
+        141
+      ],
+      "sha256": "5c82796871cc2e6b87c257811e245621bdf08874b1d27bfed73865a504252787"
+    },
+    {
+      "country": "LT",
+      "teamId": 1897600007008,
+      "club": "DFK Dainava Alytus",
+      "expected_size": [
+        120,
+        96
+      ],
+      "state": "published",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/lithuania/Dainava.svg",
+      "source_type": "josearroyave-authentic-club-svg",
+      "path": "docs/cge36-d2-2026/clubs/LT/1897600007008.png",
+      "background_rgb": [
+        119,
+        141,
+        163
+      ],
+      "sha256": "42d01d514a9dd9f4e373b9886dd5898c8496dcff589e7c5f1d9bed38a1f2c84d"
+    },
+    {
+      "country": "LT",
+      "teamId": 1897600007009,
+      "club": "FK Atmosfera Mažeikiai",
+      "expected_size": [
+        120,
+        96
+      ],
+      "state": "missing",
+      "problem": "No securely identified real club logo; do not publish placeholder"
+    },
+    {
+      "country": "LT",
+      "teamId": 1897600007010,
+      "club": "FK Jonava",
+      "expected_size": [
+        120,
+        96
+      ],
+      "state": "published",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/lithuania/Jonava.svg",
+      "source_type": "josearroyave-authentic-club-svg",
+      "path": "docs/cge36-d2-2026/clubs/LT/1897600007010.png",
+      "background_rgb": [
+        119,
+        119,
+        141
+      ],
+      "sha256": "24935e10184df3687ede0f5202895bc9f14f18129a543c2e797e3f0c771267a0"
+    },
+    {
+      "country": "LT",
+      "teamId": 1897600007011,
+      "club": "FK Garliava",
+      "expected_size": [
+        120,
+        96
+      ],
+      "state": "missing",
+      "problem": "No securely identified real club logo; do not publish placeholder"
+    },
+    {
+      "country": "LT",
+      "teamId": 1897600007012,
+      "club": "FK TransINVEST B",
+      "expected_size": [
+        120,
+        96
+      ],
+      "state": "published",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/lithuania/TransINVEST.svg",
+      "source_type": "josearroyave-authentic-club-svg",
+      "path": "docs/cge36-d2-2026/clubs/LT/1897600007012.png",
+      "background_rgb": [
+        119,
+        141,
+        186
+      ],
+      "sha256": "ffa56ffec17f945ec53252b4f91f9d8a5bb56bdf44b1bc6e06659f953c6dc0a3"
+    },
+    {
+      "country": "LT",
+      "teamId": 1897600007013,
+      "club": "FK Kauno Žalgiris B",
+      "expected_size": [
+        120,
+        96
+      ],
+      "state": "published",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/lithuania/Kauno_%C5%BDalgiris.svg",
+      "source_type": "josearroyave-authentic-club-svg",
+      "path": "docs/cge36-d2-2026/clubs/LT/1897600007013.png",
+      "background_rgb": [
+        119,
+        186,
+        141
+      ],
+      "sha256": "4815f0214357eaae429ce68760ca0321a60ebc4215494a9a68aeda4d6600b794"
+    },
+    {
+      "country": "LT",
+      "teamId": 1897600007014,
+      "club": "FC Hegelmann B",
+      "expected_size": [
+        120,
+        96
+      ],
+      "state": "published",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/lithuania/Hegelmann.svg",
+      "source_type": "josearroyave-authentic-club-svg",
+      "path": "docs/cge36-d2-2026/clubs/LT/1897600007014.png",
+      "background_rgb": [
+        119,
+        163,
+        208
+      ],
+      "sha256": "77a17843c7736ad4e7fac1ab7e4ff2858f05552c370534ad3dc2e04a8b389c23"
+    },
+    {
+      "country": "LT",
+      "teamId": 1897600007015,
+      "club": "FK Ekranas Panevėžys",
+      "expected_size": [
+        120,
+        96
+      ],
+      "state": "published",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/lithuania/Ekranas.svg",
+      "source_type": "josearroyave-authentic-club-svg",
+      "path": "docs/cge36-d2-2026/clubs/LT/1897600007015.png",
+      "background_rgb": [
+        119,
+        163,
+        208
+      ],
+      "sha256": "a8ebf07889adb84648537c3f181b8ecb78a1c20e359368cfc87e5159152d5947"
+    },
+    {
+      "country": "LT",
+      "teamId": 1897600007016,
+      "club": "FA Šiauliai B",
+      "expected_size": [
+        120,
+        96
+      ],
+      "state": "published",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/lithuania/%C5%A0iauliai.svg",
+      "source_type": "josearroyave-authentic-club-svg",
+      "path": "docs/cge36-d2-2026/clubs/LT/1897600007016.png",
+      "background_rgb": [
+        245,
+        231,
+        119
+      ],
+      "sha256": "7fae414a7df05952d6882cfe18397cf3618dc8dcd861c76f29f7f3b390d4eddc"
+    },
+    {
+      "country": "PL",
+      "teamId": 1897600008001,
+      "club": "Pogoń Grodzisk Mazowiecki",
+      "expected_size": [
+        120,
+        96
+      ],
+      "state": "published",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/poland/Pogo%C5%84_Grodzisk_Mazowiecki.svg",
+      "source_type": "josearroyave-authentic-club-svg",
+      "path": "docs/cge36-d2-2026/clubs/PL/1897600008001.png",
+      "background_rgb": [
+        231,
+        119,
+        119
+      ],
+      "sha256": "0ece0ad43c3f396d55fb826add9833d1728567c214dec32d328dea5a54bdbf31"
+    },
+    {
+      "country": "PL",
+      "teamId": 1897600008002,
+      "club": "Polonia Warszawa",
+      "expected_size": [
+        120,
+        96
+      ],
+      "state": "published",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/poland/Polonia_Warszawa.svg",
+      "source_type": "josearroyave-authentic-club-svg",
+      "path": "docs/cge36-d2-2026/clubs/PL/1897600008002.png",
+      "background_rgb": [
+        231,
+        119,
+        119
+      ],
+      "sha256": "3ccf642fa4a9572c0db2ac27d3dcc24b13055c2275a1d79ee584d8d9c103aca9"
+    },
+    {
+      "country": "PL",
+      "teamId": 1897600008003,
+      "club": "Bruk-Bet Termalica Nieciecza",
+      "expected_size": [
+        120,
+        96
+      ],
+      "state": "published",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/poland/Bruk-Bet_Termalica_Nieciecza.svg",
+      "source_type": "josearroyave-authentic-club-svg",
+      "path": "docs/cge36-d2-2026/clubs/PL/1897600008003.png",
+      "background_rgb": [
+        245,
+        163,
+        119
+      ],
+      "sha256": "8cc70a076f6c25f541efa7131bf181c75a4aff5968e40c1e4bc002ea183668ee"
+    },
+    {
+      "country": "PL",
+      "teamId": 1897600008004,
+      "club": "Lechia Gdańsk",
+      "expected_size": [
+        120,
+        96
+      ],
+      "state": "published",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/poland/Lechia_Gda%C5%84sk.svg",
+      "source_type": "josearroyave-authentic-club-svg",
+      "path": "docs/cge36-d2-2026/clubs/PL/1897600008004.png",
+      "background_rgb": [
+        141,
+        163,
+        141
+      ],
+      "sha256": "0066de39203dc1710897a92b342fa702979c07d734ce87a1d338bd10aebb339a"
+    },
+    {
+      "country": "PL",
+      "teamId": 1897600008005,
+      "club": "Miedź Legnica",
+      "expected_size": [
+        120,
+        96
+      ],
+      "state": "published",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/poland/Mied%C5%BA_Legnica.svg",
+      "source_type": "josearroyave-authentic-club-svg",
+      "path": "docs/cge36-d2-2026/clubs/PL/1897600008005.png",
+      "background_rgb": [
+        231,
+        208,
+        141
+      ],
+      "sha256": "eadda937e8cf69e6dd25b9e9a083f35028a7579e795d4b18f37aafe8b28c643e"
+    },
+    {
+      "country": "PL",
+      "teamId": 1897600008006,
+      "club": "Warta Poznań",
+      "expected_size": [
+        120,
+        96
+      ],
+      "state": "published",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/poland/Warta_Pozna%C5%84.svg",
+      "source_type": "josearroyave-authentic-club-svg",
+      "path": "docs/cge36-d2-2026/clubs/PL/1897600008006.png",
+      "background_rgb": [
+        119,
+        186,
+        141
+      ],
+      "sha256": "79cae94c58b8a984d90fe251cd1f974f4c3e94c8f83769ce6d419b3c096dd1e6"
+    },
+    {
+      "country": "PL",
+      "teamId": 1897600008007,
+      "club": "ŁKS Łódź",
+      "expected_size": [
+        120,
+        96
+      ],
+      "state": "published",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/poland/%C5%81KS_%C5%81%C3%B3d%C5%BA.svg",
+      "source_type": "josearroyave-authentic-club-svg",
+      "path": "docs/cge36-d2-2026/clubs/PL/1897600008007.png",
+      "background_rgb": [
+        231,
+        119,
+        141
+      ],
+      "sha256": "4c3afb9865fc7b7613a6f5b8999c5662f21af0ced4b06ae891b65794b03084d9"
+    },
+    {
+      "country": "PL",
+      "teamId": 1897600008008,
+      "club": "Ruch Chorzów",
+      "expected_size": [
+        120,
+        96
+      ],
+      "state": "published",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/poland/Ruch_Chorz%C3%B3w.svg",
+      "source_type": "josearroyave-authentic-club-svg",
+      "path": "docs/cge36-d2-2026/clubs/PL/1897600008008.png",
+      "background_rgb": [
+        119,
+        163,
+        208
+      ],
+      "sha256": "307d0ca13ff4e98126a76bda59ba036568d68a241631c77ad3cb79be63a1085a"
+    },
+    {
+      "country": "PL",
+      "teamId": 1897600008009,
+      "club": "Stal Rzeszów",
+      "expected_size": [
+        120,
+        96
+      ],
+      "state": "published",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/poland/Stal_Rzesz%C3%B3w.svg",
+      "source_type": "josearroyave-authentic-club-svg",
+      "path": "docs/cge36-d2-2026/clubs/PL/1897600008009.png",
+      "background_rgb": [
+        163,
+        208,
+        231
+      ],
+      "sha256": "3c5af3e125bf8a42707f9e90d0be7c88ff2cce99f7790cf1b7f95f0587c5d14c"
+    },
+    {
+      "country": "PL",
+      "teamId": 1897600008010,
+      "club": "Polonia Bytom",
+      "expected_size": [
+        120,
+        96
+      ],
+      "state": "published",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/poland/Polonia_Bytom.svg",
+      "source_type": "josearroyave-authentic-club-svg",
+      "path": "docs/cge36-d2-2026/clubs/PL/1897600008010.png",
+      "background_rgb": [
+        231,
+        119,
+        119
+      ],
+      "sha256": "dc4c816a18785d98b8cf6af6d33d43e2173d0774340e78b7ef0cf2e63e6be3bd"
+    },
+    {
+      "country": "PL",
+      "teamId": 1897600008011,
+      "club": "Pogoń Siedlce",
+      "expected_size": [
+        120,
+        96
+      ],
+      "state": "published",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/poland/Pogo%C5%84_Siedlce.svg",
+      "source_type": "josearroyave-authentic-club-svg",
+      "path": "docs/cge36-d2-2026/clubs/PL/1897600008011.png",
+      "background_rgb": [
+        231,
+        119,
+        119
+      ],
+      "sha256": "b3e11cf51bbea9d9a8e582a6db7c9ad67a9e5a7e2e4e5a4f8fc9913adf29a99e"
+    },
+    {
+      "country": "PL",
+      "teamId": 1897600008012,
+      "club": "Chrobry Głogów",
+      "expected_size": [
+        120,
+        96
+      ],
+      "state": "published",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/poland/Chrobry_G%C5%82og%C3%B3w.svg",
+      "source_type": "josearroyave-authentic-club-svg",
+      "path": "docs/cge36-d2-2026/clubs/PL/1897600008012.png",
+      "background_rgb": [
+        186,
+        141,
+        119
+      ],
+      "sha256": "6b50ec442583377cd7c0562c765e6d70d056f413c8d6c87ef998a102a22e67fb"
+    },
+    {
+      "country": "PL",
+      "teamId": 1897600008013,
+      "club": "Odra Opole",
+      "expected_size": [
+        120,
+        96
+      ],
+      "state": "published",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/poland/Odra_Opole.svg",
+      "source_type": "josearroyave-authentic-club-svg",
+      "path": "docs/cge36-d2-2026/clubs/PL/1897600008013.png",
+      "background_rgb": [
+        119,
+        163,
+        186
+      ],
+      "sha256": "169af1c9c2e6555c3105e09f7d61bf84683294ec1c0fd562610beec90afb105a"
+    },
+    {
+      "country": "PL",
+      "teamId": 1897600008014,
+      "club": "Stal Mielec",
+      "expected_size": [
+        120,
+        96
+      ],
+      "state": "published",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/poland/Stal_Mielec.svg",
+      "source_type": "josearroyave-authentic-club-svg",
+      "path": "docs/cge36-d2-2026/clubs/PL/1897600008014.png",
+      "background_rgb": [
+        119,
+        186,
+        231
+      ],
+      "sha256": "7ef0af9439db4767a923fe299e32beae07a55169555c85db6d9aabc5638b6d12"
+    },
+    {
+      "country": "PL",
+      "teamId": 1897600008015,
+      "club": "Arka Gdynia",
+      "expected_size": [
+        120,
+        96
+      ],
+      "state": "published",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/poland/Arka_Gdynia.svg",
+      "source_type": "josearroyave-authentic-club-svg",
+      "path": "docs/cge36-d2-2026/clubs/PL/1897600008015.png",
+      "background_rgb": [
+        245,
+        245,
+        119
+      ],
+      "sha256": "b32c3674b5a76c3abf94f71364066fcdf34fcdf4aa4fe2ff04142779a38f0bc0"
+    },
+    {
+      "country": "PL",
+      "teamId": 1897600008016,
+      "club": "Puszcza Niepołomice",
+      "expected_size": [
+        120,
+        96
+      ],
+      "state": "published",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/poland/Puszcza_Niepo%C5%82omice.svg",
+      "source_type": "josearroyave-authentic-club-svg",
+      "path": "docs/cge36-d2-2026/clubs/PL/1897600008016.png",
+      "background_rgb": [
+        186,
+        141,
+        141
+      ],
+      "sha256": "29de4db446f5bb12048c0bc31dace1089abe28299b9cc0e698047edb691a4318"
+    },
+    {
+      "country": "PL",
+      "teamId": 1897600008017,
+      "club": "Unia Skierniewice",
+      "expected_size": [
+        120,
+        96
+      ],
+      "state": "published",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/poland/Unia_Skierniewice.svg",
+      "source_type": "josearroyave-authentic-club-svg",
+      "path": "docs/cge36-d2-2026/clubs/PL/1897600008017.png",
+      "background_rgb": [
+        119,
+        141,
+        186
+      ],
+      "sha256": "7528b6d75c6e5ee972adeccfe900a64fd935a67be44afac26a8770ad3d26d37f"
+    },
+    {
+      "country": "PL",
+      "teamId": 1897600008018,
+      "club": "Podbeskidzie Bielsko-Biała",
+      "expected_size": [
+        120,
+        96
+      ],
+      "state": "published",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/poland/Podbeskidzie_Bielsko-Bia%C5%82a.svg",
+      "source_type": "josearroyave-authentic-club-svg",
+      "path": "docs/cge36-d2-2026/clubs/PL/1897600008018.png",
+      "background_rgb": [
+        231,
+        119,
+        119
+      ],
+      "sha256": "7286e5d2d2e0dcd719e5f398e303473208afec51ade4d693be16dac98add0d5f"
+    }
+  ]
+}
