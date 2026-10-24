@@ -1,0 +1,72 @@
+[
+  {
+    "teamId": "1898200000003",
+    "club": "FC Kilia Kiel",
+    "source": "https://image.fupa.net/club/M5LrJPaVHnQf/32x32.jpeg",
+    "source_page": "https://www.fupa.net/club/fc-kilia-kiel",
+    "source_type": "fupa_exact_club_profile",
+    "background_rgb": [
+      149,
+      78,
+      78
+    ],
+    "png_path": "docs/german-clubs-2026-27/fupa-authenticated-20261024/1898200000003.png",
+    "sha256": "64b5c0adb2b4fb5f68b3511cf5c0544aa82d6ae6d658aac8c53fffbb91dbc9e2"
+  },
+  {
+    "teamId": "1898200000005",
+    "club": "VfR Neumünster",
+    "source": "https://image.fupa.net/club/MCuEJJOsXyjl/32x32.jpeg",
+    "source_page": "https://www.fupa.net/club/vfr-neumuenster",
+    "source_type": "fupa_exact_club_profile",
+    "background_rgb": [
+      149,
+      101,
+      172
+    ],
+    "png_path": "docs/german-clubs-2026-27/fupa-authenticated-20261024/1898200000005.png",
+    "sha256": "4ef811d5cd077e50a3b1e35d7ac96dc44e41a9feec4159ed9ff594c088237fbb"
+  },
+  {
+    "teamId": "1898200000008",
+    "club": "TSV Nordmark Satrup",
+    "source": "https://image.fupa.net/club/aOu0UH0tSqSP/32x32.jpeg",
+    "source_page": "https://www.fupa.net/club/tsv-nordmark-satrup",
+    "source_type": "fupa_exact_club_profile",
+    "background_rgb": [
+      101,
+      78,
+      78
+    ],
+    "png_path": "docs/german-clubs-2026-27/fupa-authenticated-20261024/1898200000008.png",
+    "sha256": "6f996d6e658882cc92635c49dfd91f2b9d2b278d45c3c355c0002f714478973b"
+  },
+  {
+    "teamId": "1898200000011",
+    "club": "MTSV Hohenwestedt",
+    "source": "https://image.fupa.net/club/JQwmnNU04KKl/32x32.jpeg",
+    "source_page": "https://www.fupa.net/club/mtsv-hohenwestedt",
+    "source_type": "fupa_exact_club_profile",
+    "background_rgb": [
+      78,
+      125,
+      101
+    ],
+    "png_path": "docs/german-clubs-2026-27/fupa-authenticated-20261024/1898200000011.png",
+    "sha256": "44d2b7cf47f9dbf40964563f3673837238846aa11e76c773ab26636592d72367"
+  },
+  {
+    "teamId": "1898200000013",
+    "club": "SC Rapid Lübeck",
+    "source": "https://image.fupa.net/club/Urti1t7oMh3g/32x32.jpeg",
+    "source_page": "https://www.fupa.net/club/sc-rapid-luebeck",
+    "source_type": "fupa_exact_club_profile",
+    "background_rgb": [
+      78,
+      78,
+      125
+    ],
+    "png_path": "docs/german-clubs-2026-27/fupa-authenticated-20261024/1898200000013.png",
+    "sha256": "e940a03a999486cfc963c9b29502d155a6048d9fdc807500e6f644e2dd53ba2f"
+  }
+]

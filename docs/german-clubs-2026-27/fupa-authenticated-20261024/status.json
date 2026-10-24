@@ -1,0 +1,24 @@
+{
+  "offset": 0,
+  "limit": 8,
+  "profiles_checked": 8,
+  "added": 5,
+  "total": 5,
+  "failed": [
+    {
+      "teamId": "1898200000007",
+      "club": "PSV Union Neumünster",
+      "reason": "club profile HTTP 404"
+    },
+    {
+      "teamId": "1898200000009",
+      "club": "Kaltenkirchener TS",
+      "reason": "club profile HTTP 404"
+    },
+    {
+      "teamId": "1898200000012",
+      "club": "Oldenburger SV",
+      "reason": "club profile HTTP 404"
+    }
+  ]
+}
