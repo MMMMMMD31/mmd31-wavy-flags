@@ -1,0 +1,27 @@
+name: MMD31 PTGI remaining confirmed club crests
+on:
+  push:
+    branches: [mmd31-ptgi-logos-20261023-test]
+    paths:
+      - '.github/workflows/mmd31-ptgi-remaining3.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install requests pillow
+      - run: python tools/generate_ptgi_remaining3_20261024.py
+      - run: |
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git add docs/portugal-gibraltar-clubs-2026-27/v1/
+          if ! git diff --cached --quiet; then
+            git commit -m "Publish additional genuine Azores crest flags"
+            git push origin HEAD:refs/heads/${GITHUB_REF_NAME}
+          fi
