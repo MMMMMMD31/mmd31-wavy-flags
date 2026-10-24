@@ -125,6 +125,10 @@ def main():
         print(category, len(selected), flush=True)
         titles.update(selected)
     print("Unique Commons file titles:", len(titles), flush=True)
+    (ROOT / "catalog_titles.json").write_text(
+        json.dumps(sorted(titles), ensure_ascii=False, indent=2) + "\n",
+        encoding="utf-8",
+    )
     matches = []
     for row in teams:
         found = [title for title in titles if tolerant_exact(row["club"], title)]
