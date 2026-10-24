@@ -102,6 +102,48 @@ def sportsdb(name):
      return x['strBadge'],"TheSportsDB exact identity",x['strTeam']
   except Exception:pass
  return None
+
+def footylogos_candidate(name,country):
+ # Exact club identity check via the club's own source page.
+ try:
+  from bs4 import BeautifulSoup
+  aliases={'Feniks-Mariupol':'fenix-mariupol',
+           'Probiy Horodenka':'nk-probiy-horodenka',
+           'Ahrobiznes Volochysk':'fc-ahrobiznes-volochysk',
+           'FC Oleksandriya':'fc-oleksandriya',
+           'UCSA Tarasivka':'fc-ucsa-tarasivka',
+           'Chernihiv':'fc-chernihiv',
+           'Nyva Ternopil':'fc-nyva-ternopil',
+           'Inhulets Petrove':'fc-inhulets-petrove',
+           'Metalist Kharkiv':'fc-metalist-kharkiv',
+           'Viktoriya Sumy':'fc-viktoriya-sumy',
+           'Prykarpattia-Blaho':'fc-prykarpattia-blaho'}
+  wanted=norm(name); v=aliases.get(name,slug(name))
+  r=get('https://www.footylogos.com/logos/'+v,timeout=12)
+  if not r:return None
+  soup=BeautifulSoup(r.text,'html.parser')
+  head=soup.find('h1')
+  if not head or ('logo' not in head.get_text(' ',strip=True).lower()):return None
+  heading=norm(head.get_text(' ',strip=True).split('logo')[0])
+  if wanted not in heading and heading not in wanted and norm(v) not in heading:return None
+  pics=[]
+  for img in soup.find_all('img'):
+   desc=img.get('alt','').lower()
+   if 'logo' not in desc or ('club' in desc and 'logo' not in desc):continue
+   if not any(norm(x) in norm(desc) for x in (name,v)) and wanted not in norm(desc):continue
+   for key in ('src','data-src','srcset'):
+    raw=img.get(key)
+    if not raw:continue
+    for part in raw.split(','):
+     u=part.strip().split(' ')[0]
+     if u.startswith('//'):u='https:'+u
+     if u.startswith('/'):u='https://www.footylogos.com'+u
+     if u.startswith('https://assets.footylogos.com') and u.split('?')[0].lower().endswith(('.png','.webp','.svg')):
+      pics.append(u)
+  if pics:return (pics[0],'FootyLogos exact club logo page',name)
+ except Exception:pass
+ return None
+
 def wiki(name):
  # Wikipedia page photo must be a crest, rather than a stadium or team photograph.
  for alt in aliases(name)[:3]:
@@ -206,6 +248,9 @@ for row in ROWS:
  if tm_id:cand.append((f'https://tmssl.akamaized.net/images/wappen/head/{tm_id}.png','Transfermarkt club identity verified via public league roster',team))
  extra=sportsdb(team)
  if extra:cand.append(extra)
+ if not cand:
+  extra=footylogos_candidate(team,country)
+  if extra:cand.append(extra)
  if not cand:
   extra=wiki(team)
   if extra:cand.append(extra)
