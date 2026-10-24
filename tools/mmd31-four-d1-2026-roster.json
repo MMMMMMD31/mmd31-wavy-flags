@@ -1,0 +1,326 @@
+[
+  {
+    "id": 1906242000001,
+    "country": "wales",
+    "name": "Airbus UK Broughton",
+    "source_logo_name": "Airbus_UK_Broughton.svg"
+  },
+  {
+    "id": 1906242000002,
+    "country": "wales",
+    "name": "Ammanford",
+    "source_logo_name": "Ammanford_AFC.svg"
+  },
+  {
+    "id": 1906242000003,
+    "country": "wales",
+    "name": "Barry Town United",
+    "source_logo_name": "Barry_Town_United.svg"
+  },
+  {
+    "id": 1906242000004,
+    "country": "wales",
+    "name": "Briton Ferry Llansawel",
+    "source_logo_name": "Briton_Ferry_Llansawel.svg"
+  },
+  {
+    "id": 1906242000005,
+    "country": "wales",
+    "name": "Caernarfon Town",
+    "source_logo_name": "Caernarfon_Town.svg"
+  },
+  {
+    "id": 1906242000006,
+    "country": "wales",
+    "name": "Cambrian United",
+    "source_logo_name": "Cambrian_United.svg"
+  },
+  {
+    "id": 1906242000007,
+    "country": "wales",
+    "name": "Cardiff Metropolitan University",
+    "source_logo_name": "Cardiff_Metropolitan_University.svg"
+  },
+  {
+    "id": 1906242000008,
+    "country": "wales",
+    "name": "Colwyn Bay",
+    "source_logo_name": "Colwyn_Bay.svg"
+  },
+  {
+    "id": 1906242000009,
+    "country": "wales",
+    "name": "Connah's Quay Nomads",
+    "source_logo_name": "Connah's_Quay_Nomads.svg"
+  },
+  {
+    "id": 1906242000010,
+    "country": "wales",
+    "name": "Flint Town United",
+    "source_logo_name": "Flint_Town_United.svg"
+  },
+  {
+    "id": 1906242000011,
+    "country": "wales",
+    "name": "Haverfordwest County",
+    "source_logo_name": "Haverfordwest_County.svg"
+  },
+  {
+    "id": 1906242000012,
+    "country": "wales",
+    "name": "Holywell Town",
+    "source_logo_name": "Holywell_Town.svg"
+  },
+  {
+    "id": 1906242000013,
+    "country": "wales",
+    "name": "Llandudno",
+    "source_logo_name": "Llandudno.svg"
+  },
+  {
+    "id": 1906242000014,
+    "country": "wales",
+    "name": "Penybont",
+    "source_logo_name": "Penybont.svg"
+  },
+  {
+    "id": 1906242000015,
+    "country": "wales",
+    "name": "The New Saints",
+    "source_logo_name": "The_New_Saints.svg"
+  },
+  {
+    "id": 1906242000016,
+    "country": "wales",
+    "name": "Trefelin BGC",
+    "source_logo_name": "Trefelin_BGC.svg"
+  },
+  {
+    "id": 1906242000017,
+    "country": "iceland",
+    "name": "Víkingur Reykjavík",
+    "source_logo_name": "Víkingur_R..svg"
+  },
+  {
+    "id": 1906242000018,
+    "country": "iceland",
+    "name": "Fram",
+    "source_logo_name": "Fram.svg"
+  },
+  {
+    "id": 1906242000019,
+    "country": "iceland",
+    "name": "KR",
+    "source_logo_name": "KR.svg"
+  },
+  {
+    "id": 1906242000020,
+    "country": "iceland",
+    "name": "Breiðablik",
+    "source_logo_name": "Breidablik.svg"
+  },
+  {
+    "id": 1906242000021,
+    "country": "iceland",
+    "name": "ÍA",
+    "source_logo_name": "ÍA.svg"
+  },
+  {
+    "id": 1906242000022,
+    "country": "iceland",
+    "name": "Keflavík",
+    "source_logo_name": "Keflavík.svg"
+  },
+  {
+    "id": 1906242000023,
+    "country": "iceland",
+    "name": "Stjarnan",
+    "source_logo_name": "Stjarnan.svg"
+  },
+  {
+    "id": 1906242000024,
+    "country": "iceland",
+    "name": "Valur",
+    "source_logo_name": "Valur.svg"
+  },
+  {
+    "id": 1906242000025,
+    "country": "iceland",
+    "name": "FH",
+    "source_logo_name": "FH.svg"
+  },
+  {
+    "id": 1906242000026,
+    "country": "iceland",
+    "name": "Þór Akureyri",
+    "source_logo_name": "Thór.svg"
+  },
+  {
+    "id": 1906242000027,
+    "country": "iceland",
+    "name": "KA",
+    "source_logo_name": "KA.svg"
+  },
+  {
+    "id": 1906242000028,
+    "country": "iceland",
+    "name": "ÍBV",
+    "source_logo_name": "ÍBV.svg"
+  },
+  {
+    "id": 1906242000029,
+    "country": "faroe",
+    "name": "NSÍ Runavík",
+    "source_logo_name": "NSÍ Runavík"
+  },
+  {
+    "id": 1906242000030,
+    "country": "faroe",
+    "name": "KÍ Klaksvík",
+    "source_logo_name": "KÍ Klaksvík"
+  },
+  {
+    "id": 1906242000031,
+    "country": "faroe",
+    "name": "HB Tórshavn",
+    "source_logo_name": "Havnar Bóltfelag"
+  },
+  {
+    "id": 1906242000032,
+    "country": "faroe",
+    "name": "Víkingur Gøta",
+    "source_logo_name": "Víkingur Gøta"
+  },
+  {
+    "id": 1906242000033,
+    "country": "faroe",
+    "name": "B36 Tórshavn",
+    "source_logo_name": "B36 Tórshavn"
+  },
+  {
+    "id": 1906242000034,
+    "country": "faroe",
+    "name": "EB/Streymur",
+    "source_logo_name": "EB/Streymur"
+  },
+  {
+    "id": 1906242000035,
+    "country": "faroe",
+    "name": "Skála ÍF",
+    "source_logo_name": "Skála ÍF"
+  },
+  {
+    "id": 1906242000036,
+    "country": "faroe",
+    "name": "AB Argir",
+    "source_logo_name": "Argja Bóltfelag"
+  },
+  {
+    "id": 1906242000037,
+    "country": "faroe",
+    "name": "07 Vestur",
+    "source_logo_name": "07 Vestur"
+  },
+  {
+    "id": 1906242000038,
+    "country": "faroe",
+    "name": "B68 Toftir",
+    "source_logo_name": "B68 Toftir"
+  },
+  {
+    "id": 1906242000039,
+    "country": "norway",
+    "name": "Bodø/Glimt",
+    "source_logo_name": "BodøGlimt.svg"
+  },
+  {
+    "id": 1906242000040,
+    "country": "norway",
+    "name": "Viking FK",
+    "source_logo_name": "Viking_FK.svg"
+  },
+  {
+    "id": 1906242000041,
+    "country": "norway",
+    "name": "Molde",
+    "source_logo_name": "Molde.svg"
+  },
+  {
+    "id": 1906242000042,
+    "country": "norway",
+    "name": "Rosenborg",
+    "source_logo_name": "Rosenborg.svg"
+  },
+  {
+    "id": 1906242000043,
+    "country": "norway",
+    "name": "Tromsø",
+    "source_logo_name": "Tromsø.svg"
+  },
+  {
+    "id": 1906242000044,
+    "country": "norway",
+    "name": "Lillestrøm",
+    "source_logo_name": "Lillestrøm.svg"
+  },
+  {
+    "id": 1906242000045,
+    "country": "norway",
+    "name": "Brann",
+    "source_logo_name": "Brann.svg"
+  },
+  {
+    "id": 1906242000046,
+    "country": "norway",
+    "name": "Vålerenga",
+    "source_logo_name": "Vålerenga.svg"
+  },
+  {
+    "id": 1906242000047,
+    "country": "norway",
+    "name": "Fredrikstad",
+    "source_logo_name": "Fredrikstad.svg"
+  },
+  {
+    "id": 1906242000048,
+    "country": "norway",
+    "name": "KFUM Oslo",
+    "source_logo_name": "KFUM.svg"
+  },
+  {
+    "id": 1906242000049,
+    "country": "norway",
+    "name": "Sarpsborg 08",
+    "source_logo_name": "Sarpsborg_08.svg"
+  },
+  {
+    "id": 1906242000050,
+    "country": "norway",
+    "name": "HamKam",
+    "source_logo_name": "Hamarkameratene.svg"
+  },
+  {
+    "id": 1906242000051,
+    "country": "norway",
+    "name": "Sandefjord",
+    "source_logo_name": "Sandefjord.svg"
+  },
+  {
+    "id": 1906242000052,
+    "country": "norway",
+    "name": "Aalesund",
+    "source_logo_name": "Aalesund.svg"
+  },
+  {
+    "id": 1906242000053,
+    "country": "norway",
+    "name": "Kristiansund",
+    "source_logo_name": "Kristiansund.svg"
+  },
+  {
+    "id": 1906242000054,
+    "country": "norway",
+    "name": "IK Start",
+    "source_logo_name": "IK_Start.svg"
+  }
+]
