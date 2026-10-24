@@ -1,0 +1,31 @@
+name: MMD31 Greece Cyprus Malta Israel D2 crests
+on:
+  push:
+    branches: [mmd31-cge-greece-cyprus-malta-israel-20261024]
+    paths:
+      - 'tools/cge_four_d2_crests_2026.py'
+      - '.github/workflows/mmd31-cge-four-d2-crests.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  crests:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install requests beautifulsoup4 pillow cairosvg
+      - run: python tools/cge_four_d2_crests_2026.py
+      - shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/cge-four-second-divisions-2026-27-crests.json docs/cge-four-second-divisions-2026-27
+          if ! git diff --cached --quiet; then
+            git commit -m "Publish 2026/27 D2 authentic crest candidates and provenance"
+            git pull --rebase origin mmd31-cge-greece-cyprus-malta-israel-20261024
+            git push origin HEAD:mmd31-cge-greece-cyprus-malta-israel-20261024
+          fi
