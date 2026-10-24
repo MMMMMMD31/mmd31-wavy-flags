@@ -142,20 +142,9 @@
       "id": 1900264000105,
       "country": "MK",
       "name": "FK Kozhuf Gevgelija",
-      "status": "SOURCE_IDENTIFIED",
+      "status": "NO_CREST_FOUND",
       "candidate": "Kozhuf Gevgelija",
-      "url": "https://upload.wikimedia.org/wikipedia/en/e/eb/FK_Kozhuf_Gevgelija.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
-      "provider": {
-        "provider": "Wikipedia infobox (en)",
-        "sourcePage": "https://en.wikipedia.org/wiki/FK_Ko%C5%BEuf",
-        "alt": "logo"
-      },
-      "sha256": "40f8ede7a1bccfb4f7ea5e43ea10aa67df7c6310aac3271d655ca23bda0c7638",
-      "dimensions": [
-        120,
-        96
-      ],
-      "output": "docs/europe-d2-cups-2026-27/v1/1900264000105.png"
+      "last_error": "429 Client Error: Too Many Requests (015d12c) for url: https://upload.wikimedia.org/wikipedia/en/e/eb/FK_Kozhuf_Gevgelija.png?utm_source=en.wikipedia.org&utm_ca"
     },
     {
       "id": 1900264000106,
@@ -226,7 +215,7 @@
         "sourcePage": "https://en.wikipedia.org/wiki/FK_Ohrid",
         "alt": ""
       },
-      "sha256": "1d331f752717ff463a350ae71c9958149c5e55003004874af0f5cbd41107089a",
+      "sha256": "7b39e064e14a97fda2ee114f0498ff292b355f2e07e21dc9a8745fb51e0769a6",
       "dimensions": [
         120,
         96
@@ -237,20 +226,9 @@
       "id": 1900264000110,
       "country": "MK",
       "name": "FK Osogovo Kočani",
-      "status": "SOURCE_IDENTIFIED",
+      "status": "NO_CREST_FOUND",
       "candidate": "Osogovo Kocani",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Gfk-osogovo-kocani-logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
-      "provider": {
-        "provider": "Wikipedia infobox (en)",
-        "sourcePage": "https://en.wikipedia.org/wiki/FK_Osogovo",
-        "alt": "logo"
-      },
-      "sha256": "dac87df18ee7f291448614844b7c1e3ff8730f20ce1e3686cf0e8a29b4a886e8",
-      "dimensions": [
-        120,
-        96
-      ],
-      "output": "docs/europe-d2-cups-2026-27/v1/1900264000110.png"
+      "last_error": "429 Client Error: Too Many Requests (015d12c) for url: https://upload.wikimedia.org/wikipedia/commons/3/3c/Gfk-osogovo-kocani-logo.png?utm_source=en.wikipedia.o"
     },
     {
       "id": 1900264000111,
@@ -264,7 +242,7 @@
         "sourcePage": "https://en.wikipedia.org/wiki/FK_Pelister",
         "alt": ""
       },
-      "sha256": "d8386ec7af66e32bf70431c7bc77e1ff48b5d3347f92f39df3efd334406e25eb",
+      "sha256": "f3b61dd93e29cfd8915413b6ffd3dec4fb2dd76cb4d4242a489e45bcc801517e",
       "dimensions": [
         120,
         96
@@ -397,7 +375,7 @@
         "sourcePage": "https://en.wikipedia.org/wiki/FC_Fratria",
         "alt": ""
       },
-      "sha256": "fbc66f20c4ca33adad83fcb5acaf1302980af4188b984484119dda9bdd670d59",
+      "sha256": "6fd079d4c98b69bcfc8419169c9767275f06044f0f6e0dd5e07dbb35db8e7d73",
       "dimensions": [
         120,
         96
@@ -530,7 +508,7 @@
         "sourcePage": "https://en.wikipedia.org/wiki/PFC_Nesebar",
         "alt": ""
       },
-      "sha256": "c611bec45e561fbab5728aa55316f1bcc8085062dea8cf87704dac66d94f2a65",
+      "sha256": "ea0fb8f619b21d718b6b62acc23ca8456bda8298ca899d6f8a79963b8e9e6a7e",
       "dimensions": [
         120,
         96
@@ -549,7 +527,7 @@
         "sourcePage": "https://en.wikipedia.org/wiki/OFC_Spartak_Pleven",
         "alt": ""
       },
-      "sha256": "3c4ac9903dfff6858513178475cf9485ea0936ed8feebdfa0f5eb197a128d678",
+      "sha256": "716f363ec09640b5cab4a41636a247317ea19221dc31099b4fbb01049312a910",
       "dimensions": [
         120,
         96
@@ -568,7 +546,7 @@
         "sourcePage": "https://en.wikipedia.org/wiki/FC_Etar_Veliko_Tarnovo",
         "alt": ""
       },
-      "sha256": "16a303e9c1ccab2d82b307b30297afd993b8eae34ec2ee19c70de522ad5d85af",
+      "sha256": "3d395321ed4e95c7096371e252eb04708276da2b215634dabcfedc01a36556fc",
       "dimensions": [
         120,
         96
@@ -644,7 +622,7 @@
         "sourcePage": "https://en.wikipedia.org/wiki/PFC_Dobrudzha_Dobrich",
         "alt": ""
       },
-      "sha256": "a7c6fa1bdc9be26b5309752c11643b084ca65ae54c4be5f6e4c252a773985b27",
+      "sha256": "e8de426c695944240101b633fb983404e5c1e18cb69bdb36beb6f677c1a813e3",
       "dimensions": [
         120,
         96
@@ -720,7 +698,7 @@
         "sourcePage": "https://en.wikipedia.org/wiki/SCM_R%C3%A2mnicu_V%C3%A2lcea",
         "alt": ""
       },
-      "sha256": "158f1388ffdacc2858deee1f316e0395395c345b1c9d216895160ca3521d7f49",
+      "sha256": "381feba168bee77ad1cfd6e71ea0ab4890245769f94938daa9ab94b2b7c56aba",
       "dimensions": [
         120,
         96
@@ -750,9 +728,20 @@
       "id": 1900264200105,
       "country": "RO",
       "name": "SC Popești-Leordeni",
-      "status": "NO_CREST_FOUND",
+      "status": "SOURCE_IDENTIFIED",
       "candidate": "Popesti-Leordeni",
-      "last_error": "429 Client Error: Too many requests (f061ab2) for url: https://upload.wikimedia.org/wikipedia/en/f/f4/SC_Pope%C8%99ti-Leordeni_logo.png?utm_source=en.wikipedia."
+      "url": "https://www.europlan-online.de/files/f4709692ab9cd6fcf556e2b1e678a0d4.png",
+      "provider": {
+        "provider": "Exact-identity catalog or federation image",
+        "identity": "SC Popesti-Leordeni",
+        "sourceImage": "https://www.europlan-online.de/files/f4709692ab9cd6fcf556e2b1e678a0d4.png"
+      },
+      "sha256": "fcac08dee9d7aa393dfd3ca2eadbf5b70aca637107f4a06c9c92bfaaf6805279",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d2-cups-2026-27/v1/1900264200105.png"
     },
     {
       "id": 1900264200106,
@@ -779,14 +768,13 @@
       "name": "CSA Steaua București",
       "status": "SOURCE_IDENTIFIED",
       "candidate": "Steaua Bucuresti",
-      "last_error": "429 Client Error: Too many requests (f061ab2) for url: https://upload.wikimedia.org/wikipedia/commons/1/1b/FC_Steaua_Bucure%C5%9Fti.png?utm_source=commons.wikim",
-      "url": "https://upload.wikimedia.org/wikipedia/en/9/90/CSASteaua.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/FC_Steaua_Bucure%C5%9Fti.png",
       "provider": {
-        "provider": "Wikipedia infobox (en)",
-        "sourcePage": "https://en.wikipedia.org/wiki/CSA_Steaua_Bucure%C8%99ti",
-        "alt": ""
+        "provider": "Exact-identity catalog or federation image",
+        "identity": "CSA Steaua Bucharest 2025",
+        "sourceImage": "https://commons.wikimedia.org/wiki/Special:FilePath/FC_Steaua_Bucure%C5%9Fti.png"
       },
-      "sha256": "ae79c8b464a825875459b857298f1c853a13911278848db446c0c09b27bf0f87",
+      "sha256": "973095ad7a4a8f7961217268370665d4d0f4a8e7c745f74e495aad65c0d2bb25",
       "dimensions": [
         120,
         96
@@ -816,8 +804,20 @@
       "id": 1900264200109,
       "country": "RO",
       "name": "AFC ASA Târgu Mureș",
-      "status": "NO_CREST_FOUND",
-      "candidate": "ASA Targu Mures"
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "ASA Targu Mures",
+      "url": "https://seeklogo.com/images/A/asa-tg-mures-logo-CBFEE72A6D-seeklogo.com.png",
+      "provider": {
+        "provider": "Exact-identity catalog or federation image",
+        "identity": "ASA Targu Mures",
+        "sourceImage": "https://seeklogo.com/images/A/asa-tg-mures-logo-CBFEE72A6D-seeklogo.com.png"
+      },
+      "sha256": "aa3b86c110d6f143274f6b0f96c0bba4269807a910f2208fe0254870fd031409",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d2-cups-2026-27/v1/1900264200109.png"
     },
     {
       "id": 1900264200110,
@@ -842,15 +842,39 @@
       "id": 1900264200111,
       "country": "RO",
       "name": "CSM Slatina",
-      "status": "NO_CREST_FOUND",
-      "candidate": "CSM Slatina"
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "CSM Slatina",
+      "url": "https://images.seeklogo.com/logo-png/64/1/csm-slatina-logo-png_seeklogo-647022.png",
+      "provider": {
+        "provider": "Exact-identity catalog or federation image",
+        "identity": "CSM Slatina",
+        "sourceImage": "https://images.seeklogo.com/logo-png/64/1/csm-slatina-logo-png_seeklogo-647022.png"
+      },
+      "sha256": "d3ae641e6a61f85b18749a36d217b92d224a78ce56d7f50e26683ca8ecccc4aa",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d2-cups-2026-27/v1/1900264200111.png"
     },
     {
       "id": 1900264200112,
       "country": "RO",
       "name": "CS Gloria Bistrița",
-      "status": "NO_CREST_FOUND",
-      "candidate": "Gloria Bistrita"
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "Gloria Bistrita",
+      "url": "https://pbs.twimg.com/profile_images/1031091525437063168/Nt9l0Cf3.jpg",
+      "provider": {
+        "provider": "Exact-identity catalog or federation image",
+        "identity": "CS Gloria 2018 Bistrita Nasaud",
+        "sourceImage": "https://pbs.twimg.com/profile_images/1031091525437063168/Nt9l0Cf3.jpg"
+      },
+      "sha256": "074753ab0271a6eb700ac558cb8f11ddd7acb0c88502e03e5e34d2e0daf9820c",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d2-cups-2026-27/v1/1900264200112.png"
     },
     {
       "id": 1900264200113,
@@ -902,7 +926,7 @@
         "sourcePage": "https://en.wikipedia.org/wiki/CSM_Re%C8%99i%C8%9Ba",
         "alt": ""
       },
-      "sha256": "645ca061b726d3f5851db1636dbdb861c41601e1dd1f7f26350888733db24fd4",
+      "sha256": "efaeafe55c1b1be9471d6c4dbd2079117222d351b587c237b0402b16ee4dedd5",
       "dimensions": [
         120,
         96
@@ -913,9 +937,20 @@
       "id": 1900264200116,
       "country": "RO",
       "name": "CS Afumați",
-      "status": "NO_CREST_FOUND",
+      "status": "SOURCE_IDENTIFIED",
       "candidate": "CS Afumati",
-      "last_error": "429 Client Error: Too many requests (f061ab2) for url: https://upload.wikimedia.org/wikipedia/en/0/0e/CS_Afuma%C8%9Bi_logo.png?utm_source=en.wikipedia.org&utm_c"
+      "url": "https://images.seeklogo.com/logo-png/29/1/cs-afumai-logo-png_seeklogo-292122.png",
+      "provider": {
+        "provider": "Exact-identity catalog or federation image",
+        "identity": "CS Afumati",
+        "sourceImage": "https://images.seeklogo.com/logo-png/29/1/cs-afumai-logo-png_seeklogo-292122.png"
+      },
+      "sha256": "d15c04e8493648e0cf8004d4d30042773c4a11344b14f003b75a3d0f35545bae",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d2-cups-2026-27/v1/1900264200116.png"
     },
     {
       "id": 1900264200117,
@@ -975,7 +1010,7 @@
         "sourcePage": "https://en.wikipedia.org/wiki/FC_Hermannstadt",
         "alt": ""
       },
-      "sha256": "4158127af6887736d446f37ce1fdabc26bfce982f008826cf5654eafe00830a4",
+      "sha256": "668b985ca1cdcabac2605ab7cbe092107c748b6388b56ca173087b969e2eea1e",
       "dimensions": [
         120,
         96
@@ -1024,27 +1059,28 @@
       "id": 1900264200201,
       "country": "RO",
       "name": "ACS Minerul Lupeni",
-      "status": "SOURCE_IDENTIFIED",
+      "status": "NO_CREST_FOUND",
       "candidate": "Minerul Lupeni",
-      "url": "https://upload.wikimedia.org/wikipedia/en/8/81/Sigla_CS_Minerul_Lupeni.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
-      "provider": {
-        "provider": "Wikipedia infobox (en)",
-        "sourcePage": "https://en.wikipedia.org/wiki/CS_Minerul_Lupeni",
-        "alt": ""
-      },
-      "sha256": "30bbbf0b6d03c5c07d6d9a049b8def45c5f0aef5391870336c8a9a99c62585d1",
-      "dimensions": [
-        120,
-        96
-      ],
-      "output": "docs/europe-d2-cups-2026-27/v1/1900264200201.png"
+      "last_error": "429 Client Error: Too many requests (f061ab2) for url: https://upload.wikimedia.org/wikipedia/en/8/81/Sigla_CS_Minerul_Lupeni.png?utm_source=en.wikipedia.org&ut"
     },
     {
       "id": 1900264200202,
       "country": "RO",
       "name": "CS Progresul Spartac",
-      "status": "NO_CREST_FOUND",
-      "candidate": "Progresul Spartac"
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "Progresul Spartac",
+      "url": "https://ligapunctelorpenny.ro/storage/media/137/Progresul_Spartac.svg.png",
+      "provider": {
+        "provider": "Exact-identity catalog or federation image",
+        "identity": "AFC Progresul Spartac",
+        "sourceImage": "https://ligapunctelorpenny.ro/storage/media/137/Progresul_Spartac.svg.png"
+      },
+      "sha256": "915a7fdf0f7493b725f5bce690534cb245320ff904d85e02f1551a5c6baeab86",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d2-cups-2026-27/v1/1900264200202.png"
     },
     {
       "id": 1900264200203,
@@ -1069,9 +1105,20 @@
       "id": 1900264200204,
       "country": "RO",
       "name": "CSM Corona Brașov",
-      "status": "NO_CREST_FOUND",
+      "status": "SOURCE_IDENTIFIED",
       "candidate": "Corona Brasov",
-      "last_error": ""
+      "url": "https://www.frf-ajf.ro/upload/echipe/8858.jpg",
+      "provider": {
+        "provider": "Exact-identity catalog or federation image",
+        "identity": "CSM Corona Brasov (regional association)",
+        "sourceImage": "https://www.frf-ajf.ro/upload/echipe/8858.jpg"
+      },
+      "sha256": "7a9e67c32be22563306afc223e5a9a7f4833de74c6d161053a3a4f761ccc2967",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d2-cups-2026-27/v1/1900264200204.png"
     },
     {
       "id": 1900264100201,
