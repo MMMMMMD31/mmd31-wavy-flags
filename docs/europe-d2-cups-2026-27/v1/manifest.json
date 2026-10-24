@@ -164,20 +164,9 @@
       "id": 1900264000108,
       "country": "MK",
       "name": "FK Novaci",
-      "status": "SOURCE_IDENTIFIED",
+      "status": "NO_CREST_FOUND",
       "candidate": "Novaci",
-      "url": "https://upload.wikimedia.org/wikipedia/en/1/1c/FK_Novaci_Logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
-      "provider": {
-        "provider": "Wikipedia infobox (en)",
-        "sourcePage": "https://en.wikipedia.org/wiki/FK_Novaci",
-        "alt": ""
-      },
-      "sha256": "15c6bef8bc0b0c6cf1c1f9a0e0cfaf8dd454e9b478fc9fb6fabe23dbc0bbf412",
-      "dimensions": [
-        120,
-        96
-      ],
-      "output": "docs/europe-d2-cups-2026-27/v1/1900264000108.png"
+      "last_error": "429 Client Error: Too Many Requests (015d12c) for url: https://upload.wikimedia.org/wikipedia/en/1/1c/FK_Novaci_Logo.png?utm_source=en.wikipedia.org&utm_campaig"
     },
     {
       "id": 1900264000109,
@@ -191,7 +180,7 @@
         "sourcePage": "https://en.wikipedia.org/wiki/FK_Ohrid",
         "alt": ""
       },
-      "sha256": "7b39e064e14a97fda2ee114f0498ff292b355f2e07e21dc9a8745fb51e0769a6",
+      "sha256": "1d331f752717ff463a350ae71c9958149c5e55003004874af0f5cbd41107089a",
       "dimensions": [
         120,
         96
@@ -202,9 +191,20 @@
       "id": 1900264000110,
       "country": "MK",
       "name": "FK Osogovo Kočani",
-      "status": "NO_CREST_FOUND",
+      "status": "SOURCE_IDENTIFIED",
       "candidate": "Osogovo Kocani",
-      "last_error": "429 Client Error: Too Many Requests (015d12c) for url: https://upload.wikimedia.org/wikipedia/commons/3/3c/Gfk-osogovo-kocani-logo.png?utm_source=en.wikipedia.o"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Gfk-osogovo-kocani-logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/FK_Osogovo",
+        "alt": "logo"
+      },
+      "sha256": "dac87df18ee7f291448614844b7c1e3ff8730f20ce1e3686cf0e8a29b4a886e8",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d2-cups-2026-27/v1/1900264000110.png"
     },
     {
       "id": 1900264000111,
@@ -218,7 +218,7 @@
         "sourcePage": "https://en.wikipedia.org/wiki/FK_Pelister",
         "alt": ""
       },
-      "sha256": "f3b61dd93e29cfd8915413b6ffd3dec4fb2dd76cb4d4242a489e45bcc801517e",
+      "sha256": "d8386ec7af66e32bf70431c7bc77e1ff48b5d3347f92f39df3efd334406e25eb",
       "dimensions": [
         120,
         96
@@ -340,7 +340,7 @@
         "sourcePage": "https://en.wikipedia.org/wiki/FC_Fratria",
         "alt": ""
       },
-      "sha256": "6fd079d4c98b69bcfc8419169c9767275f06044f0f6e0dd5e07dbb35db8e7d73",
+      "sha256": "fbc66f20c4ca33adad83fcb5acaf1302980af4188b984484119dda9bdd670d59",
       "dimensions": [
         120,
         96
@@ -372,7 +372,7 @@
       "name": "FC Lokomotiv Gorna Oryahovitsa",
       "status": "NO_CREST_FOUND",
       "candidate": "Lokomotiv Gorna Oryahovitsa",
-      "last_error": "429 Client Error: Too many requests (f061ab2) for url: https://upload.wikimedia.org/wikipedia/commons/d/d8/Kit_left_arm_loko_go_20_21_h.png?utm_source=en.wikipe"
+      "last_error": ""
     },
     {
       "id": 1900264100107,
@@ -405,20 +405,9 @@
       "id": 1900264100109,
       "country": "BG",
       "name": "FC Rilski Sportist Samokov",
-      "status": "SOURCE_IDENTIFIED",
+      "status": "NO_CREST_FOUND",
       "candidate": "Rilski Sportist Samokov",
-      "url": "https://upload.wikimedia.org/wikipedia/en/6/6a/Rilski-sportist_small.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
-      "provider": {
-        "provider": "Wikipedia infobox (en)",
-        "sourcePage": "https://en.wikipedia.org/wiki/FC_Rilski_Sportist_Samokov",
-        "alt": ""
-      },
-      "sha256": "b80740999201392aaff40ad86a930930744c9ce92f8124c5e738a5622eb11b97",
-      "dimensions": [
-        120,
-        96
-      ],
-      "output": "docs/europe-d2-cups-2026-27/v1/1900264100109.png"
+      "last_error": "429 Client Error: Too many requests (f061ab2) for url: https://upload.wikimedia.org/wikipedia/en/6/6a/Rilski-sportist_small.png?utm_source=en.wikipedia.org&utm_"
     },
     {
       "id": 1900264100110,
@@ -451,7 +440,7 @@
         "sourcePage": "https://en.wikipedia.org/wiki/PFC_Nesebar",
         "alt": ""
       },
-      "sha256": "ea0fb8f619b21d718b6b62acc23ca8456bda8298ca899d6f8a79963b8e9e6a7e",
+      "sha256": "c611bec45e561fbab5728aa55316f1bcc8085062dea8cf87704dac66d94f2a65",
       "dimensions": [
         120,
         96
@@ -470,7 +459,7 @@
         "sourcePage": "https://en.wikipedia.org/wiki/OFC_Spartak_Pleven",
         "alt": ""
       },
-      "sha256": "716f363ec09640b5cab4a41636a247317ea19221dc31099b4fbb01049312a910",
+      "sha256": "3c4ac9903dfff6858513178475cf9485ea0936ed8feebdfa0f5eb197a128d678",
       "dimensions": [
         120,
         96
@@ -489,7 +478,7 @@
         "sourcePage": "https://en.wikipedia.org/wiki/FC_Etar_Veliko_Tarnovo",
         "alt": ""
       },
-      "sha256": "3d395321ed4e95c7096371e252eb04708276da2b215634dabcfedc01a36556fc",
+      "sha256": "16a303e9c1ccab2d82b307b30297afd993b8eae34ec2ee19c70de522ad5d85af",
       "dimensions": [
         120,
         96
@@ -519,20 +508,9 @@
       "id": 1900264100115,
       "country": "BG",
       "name": "PFC Montana",
-      "status": "SOURCE_IDENTIFIED",
+      "status": "NO_CREST_FOUND",
       "candidate": "Montana",
-      "url": "https://upload.wikimedia.org/wikipedia/en/e/ee/PFC_Montana_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
-      "provider": {
-        "provider": "Wikipedia infobox (en)",
-        "sourcePage": "https://en.wikipedia.org/wiki/PFC_Montana",
-        "alt": ""
-      },
-      "sha256": "ff82daa482f711143f5c3d7a3bb6fc15d7395727b35aaa9a955b5d29faf14747",
-      "dimensions": [
-        120,
-        96
-      ],
-      "output": "docs/europe-d2-cups-2026-27/v1/1900264100115.png"
+      "last_error": "429 Client Error: Too many requests (f061ab2) for url: https://upload.wikimedia.org/wikipedia/en/e/ee/PFC_Montana_logo.png?utm_source=en.wikipedia.org&utm_campa"
     },
     {
       "id": 1900264100116,
@@ -565,7 +543,7 @@
         "sourcePage": "https://en.wikipedia.org/wiki/PFC_Dobrudzha_Dobrich",
         "alt": ""
       },
-      "sha256": "e8de426c695944240101b633fb983404e5c1e18cb69bdb36beb6f677c1a813e3",
+      "sha256": "a7c6fa1bdc9be26b5309752c11643b084ca65ae54c4be5f6e4c252a773985b27",
       "dimensions": [
         120,
         96
@@ -630,7 +608,7 @@
         "sourcePage": "https://en.wikipedia.org/wiki/SCM_R%C3%A2mnicu_V%C3%A2lcea",
         "alt": ""
       },
-      "sha256": "381feba168bee77ad1cfd6e71ea0ab4890245769f94938daa9ab94b2b7c56aba",
+      "sha256": "158f1388ffdacc2858deee1f316e0395395c345b1c9d216895160ca3521d7f49",
       "dimensions": [
         120,
         96
@@ -675,20 +653,9 @@
       "id": 1900264200107,
       "country": "RO",
       "name": "CSA Steaua București",
-      "status": "SOURCE_IDENTIFIED",
+      "status": "NO_CREST_FOUND",
       "candidate": "Steaua Bucuresti",
-      "url": "https://upload.wikimedia.org/wikipedia/en/9/90/CSASteaua.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
-      "provider": {
-        "provider": "Wikipedia infobox (en)",
-        "sourcePage": "https://en.wikipedia.org/wiki/CSA_Steaua_Bucure%C8%99ti",
-        "alt": ""
-      },
-      "sha256": "ae79c8b464a825875459b857298f1c853a13911278848db446c0c09b27bf0f87",
-      "dimensions": [
-        120,
-        96
-      ],
-      "output": "docs/europe-d2-cups-2026-27/v1/1900264200107.png"
+      "last_error": "429 Client Error: Too many requests (f061ab2) for url: https://upload.wikimedia.org/wikipedia/en/9/90/CSASteaua.png?utm_source=en.wikipedia.org&utm_campaign=par"
     },
     {
       "id": 1900264200108,
@@ -696,7 +663,7 @@
       "name": "AFC Chindia Târgoviște",
       "status": "NO_CREST_FOUND",
       "candidate": "Chindia Targoviste",
-      "last_error": "429 Client Error: Too many requests (f061ab2) for url: https://upload.wikimedia.org/wikipedia/en/8/82/Chindia_T%C3%A2rgovi%C5%9Fte.png?utm_source=en.wikipedia.o"
+      "last_error": "429 Client Error: Too many requests. Please contact noc@wikimedia.org for further information (0068e25) for url: https://upload.wikimedia.org/wikipedia/en/8/82/"
     },
     {
       "id": 1900264200109,
@@ -711,7 +678,7 @@
       "name": "AFC Metalul Buzău",
       "status": "NO_CREST_FOUND",
       "candidate": "Metalul Buzau",
-      "last_error": "429 Client Error: Too many requests (f061ab2) for url: https://upload.wikimedia.org/wikipedia/en/4/41/AFC_Metalul_Buz%C4%83u_logo.png?utm_source=en.wikipedia.or"
+      "last_error": "429 Client Error: Too many requests. Please contact noc@wikimedia.org for further information (0068e25) for url: https://upload.wikimedia.org/wikipedia/en/4/41/"
     },
     {
       "id": 1900264200111,
@@ -777,7 +744,7 @@
         "sourcePage": "https://en.wikipedia.org/wiki/CSM_Re%C8%99i%C8%9Ba",
         "alt": ""
       },
-      "sha256": "efaeafe55c1b1be9471d6c4dbd2079117222d351b587c237b0402b16ee4dedd5",
+      "sha256": "645ca061b726d3f5851db1636dbdb861c41601e1dd1f7f26350888733db24fd4",
       "dimensions": [
         120,
         96
@@ -850,7 +817,7 @@
         "sourcePage": "https://en.wikipedia.org/wiki/FC_Hermannstadt",
         "alt": ""
       },
-      "sha256": "668b985ca1cdcabac2605ab7cbe092107c748b6388b56ca173087b969e2eea1e",
+      "sha256": "4158127af6887736d446f37ce1fdabc26bfce982f008826cf5654eafe00830a4",
       "dimensions": [
         120,
         96
@@ -936,6 +903,44 @@
       "status": "NO_CREST_FOUND",
       "candidate": "Corona Brasov",
       "last_error": ""
+    },
+    {
+      "id": 1900264100201,
+      "country": "BG",
+      "name": "FC Neftohimik Burgas",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "Neftohimik Burgas",
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/6/68/Neftochimic_Burgas_1962_logo.png/250px-Neftochimic_Burgas_1962_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/PFC_Neftochimic_Burgas",
+        "alt": ""
+      },
+      "sha256": "bd925ff8e55455ed079c5b7e9c22ab8b9a9e164b15d3f1993c34822b839d9c19",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d2-cups-2026-27/v1/1900264100201.png"
+    },
+    {
+      "id": 1900264100202,
+      "country": "BG",
+      "name": "PFC Spartak 1947 Plovdiv",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "Spartak Plovdiv",
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/3/37/Spartak_Plovdiv_logo.png/250px-Spartak_Plovdiv_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/FC_Spartak_Plovdiv",
+        "alt": ""
+      },
+      "sha256": "869c7d96c8e3063e3d7819c61de39a2db344d54b3d9dbcfc9c34ff30a0d7fa8e",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d2-cups-2026-27/v1/1900264100202.png"
     }
   ],
   "federationLogos": [
