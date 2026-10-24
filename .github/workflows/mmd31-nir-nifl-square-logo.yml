@@ -1,0 +1,28 @@
+name: Format Northern Ireland Football League logo square
+on:
+  push:
+    paths:
+      - 'tools/nir_nifl_square_logo.py'
+      - '.github/workflows/mmd31-nir-nifl-square-logo.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install pillow
+      - run: python tools/nir_nifl_square_logo.py
+      - name: Publish NIFL square PNG + metadata
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/nir-clubs-2026-27/competition/northern_ireland_football_league_square.png docs/nir-clubs-2026-27/competition/northern_ireland_football_league_square.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Publish NIFL competition logo in 1:1 format"
+            git push origin HEAD:refs/heads/${GITHUB_REF_NAME}
+          fi
