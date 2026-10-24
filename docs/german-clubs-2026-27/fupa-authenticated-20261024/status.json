@@ -1,44 +1,29 @@
 {
-  "offset": 499,
-  "limit": 35,
-  "profiles_checked": 35,
-  "added": 28,
-  "total": 182,
+  "offset": 534,
+  "limit": 47,
+  "profiles_checked": 47,
+  "added": 43,
+  "total": 225,
   "failed": [
     {
-      "teamId": "1898200000784",
-      "club": "SV Union Lohne 1920",
+      "teamId": "1898200000105",
+      "club": "SC St. Tönis 11/20",
       "reason": "club profile HTTP 404"
     },
     {
-      "teamId": "1898200000789",
-      "club": "VfL Wildeshausen",
+      "teamId": "1898200000496",
+      "club": "FSV Wacker 90 Nordhausen",
+      "reason": "crest image unavailable or invalid"
+    },
+    {
+      "teamId": "1898200000546",
+      "club": "SG Finnentrop-Bamenohl",
       "reason": "club profile HTTP 404"
     },
     {
-      "teamId": "1898200000808",
-      "club": "TuS Immendorf",
-      "reason": "club profile HTTP 404"
-    },
-    {
-      "teamId": "1898200000809",
-      "club": "FV Hunsrückhöhe Morbach",
-      "reason": "club profile HTTP 404"
-    },
-    {
-      "teamId": "1898200000810",
-      "club": "FC Bitburg",
-      "reason": "club profile HTTP 404"
-    },
-    {
-      "teamId": "1898200000819",
-      "club": "SG Malberg",
-      "reason": "club profile HTTP 404"
-    },
-    {
-      "teamId": "1898200000822",
-      "club": "TuS Kirchberg",
-      "reason": "club profile HTTP 404"
+      "teamId": "1898200000490",
+      "club": "SV Blau-Weiß 90 Neustadt/Orla",
+      "reason": "crest image unavailable or invalid"
     }
   ]
 }
