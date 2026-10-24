@@ -46,7 +46,7 @@ def extract(id,url):
    alt=img.get("alt","")
    if "footeo.com" in r.url or "ichpeyi" in r.url or re.search(r"logo|crest|écusson|blason",alt,re.I):
     imgs.append({"alt":alt[:90],"url":urljoin(r.url,x)[:370]})
-  return {"id":id,"url":r.url,"status":r.status_code,"title":title,"count":len(imgs),"images":imgs[:40]}
+  return {"id":id,"url":r.url,"status":r.status_code,"title":title,"count":len(imgs),"images":imgs[:130]}
  except Exception as e:return {"id":id,"url":url,"error":str(e)[:100]}
 with ThreadPoolExecutor(max_workers=16) as ex:r=list(ex.map(lambda a:extract(*a),[(k,u) for k,urls in S.items() for u in urls]))
 Path("audit/outremer-2026-27/lot10_page_images_audit.json").write_text(json.dumps(r,ensure_ascii=False,indent=2)+"\n")
