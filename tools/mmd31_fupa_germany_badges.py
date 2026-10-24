@@ -29,6 +29,14 @@ BASE = "https://www.fupa.net/club/"
 UA = "MMD31-AuthenticCrestAudit/1.0 (https://github.com/MMMMMMD31/mmd31-wavy-flags)"
 HEADERS = {"User-Agent": UA, "Accept": "text/html,image/avif,image/webp,image/*,*/*"}
 
+# Cross-checked against FuPa's own 2026/27 club profile headings.
+# Short game names do not always equal the legal association name.
+VERIFIED_PROFILE_NAMES = {
+    "PSV Union Neumünster": "Polizei SV Union Neumünster",
+    "Kaltenkirchener TS": "Kaltenkirchener Turnerschaft",
+    "Oldenburger SV": "Oldenburger SV 1865",
+}
+
 
 def de_ascii(s):
     for a, b in (("ä", "ae"), ("ö", "oe"), ("ü", "ue"), ("ß", "ss")):
@@ -80,7 +88,7 @@ def candidate_logos(html, expected):
 
 def fetch_one(row, robots):
     name = row["club"]
-    expected = root_club(name)
+    expected = VERIFIED_PROFILE_NAMES.get(root_club(name), root_club(name))
     url = BASE + slug(expected)
     if not robots_allowed("www.fupa.net", url, robots):
         return {"teamId": row["teamId"], "club": name,
