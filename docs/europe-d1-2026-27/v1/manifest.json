@@ -1,0 +1,796 @@
+{
+  "date": "2026-10-24",
+  "base": "MMD31 Club Badges 2026/27",
+  "crests": [
+    {
+      "id": 1900264000001,
+      "country": "MK",
+      "name": "FK Shkëndija",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "Shkendija",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/KF_Shk%C3%ABndija_Logo.svg/250px-KF_Shk%C3%ABndija_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/KF_Shk%C3%ABndija",
+        "alt": ""
+      },
+      "sha256": "2d392a7168e746e1aa34ffe08d1f0d58f52e5452f20c2f5ebf1356d013cceea3",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d1-2026-27/v1/1900264000001.png"
+    },
+    {
+      "id": 1900264000002,
+      "country": "MK",
+      "name": "FC Struga Trim-Lum",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "Struga Trim Lum",
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/3/3a/FC_Struga_Trim_%26_Lum.png/250px-FC_Struga_Trim_%26_Lum.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/FC_Struga",
+        "alt": ""
+      },
+      "sha256": "62c7b5e61a12918fbc49b22339826d2fa3a255db8b99a5e2bd6af1225ab0896e",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d1-2026-27/v1/1900264000002.png"
+    },
+    {
+      "id": 1900264000003,
+      "country": "MK",
+      "name": "FK Vardar",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "Vardar",
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/8/83/FK_Vardar.png/250px-FK_Vardar.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/FK_Vardar",
+        "alt": ""
+      },
+      "sha256": "7f5b0151ddec670a52dc40170f4ff3edca8d55a3b7b954562e9cff3fbee56428",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d1-2026-27/v1/1900264000003.png"
+    },
+    {
+      "id": 1900264000004,
+      "country": "MK",
+      "name": "GFK Tikveš",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "Tikves",
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/1/13/GFK_Tikvesh.png/250px-GFK_Tikvesh.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/GFK_Tikve%C5%A1",
+        "alt": ""
+      },
+      "sha256": "55e8ac51ae2822411b41ceb8715eb05f3052ac7416e63002a8dbfe30c0ed3b48",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d1-2026-27/v1/1900264000004.png"
+    },
+    {
+      "id": 1900264000005,
+      "country": "MK",
+      "name": "FK Sileks",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "Sileks",
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/6/65/FK_Sileks_logo.svg/250px-FK_Sileks_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/FK_Sileks",
+        "alt": ""
+      },
+      "sha256": "b4b76f0692d5c5df828d9e23ebd8080786bf3669dd296131141eca08d4f3cfce",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d1-2026-27/v1/1900264000005.png"
+    },
+    {
+      "id": 1900264000006,
+      "country": "MK",
+      "name": "KF Shkëndija Haraçinë 77",
+      "status": "NO_CREST_FOUND",
+      "candidate": "Shkendija Haracine"
+    },
+    {
+      "id": 1900264000007,
+      "country": "MK",
+      "name": "FK Bregalnica Štip",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "Bregalnica Stip",
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/e/e6/BregalnicaStip.png/250px-BregalnicaStip.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/FK_Bregalnica_%C5%A0tip",
+        "alt": ""
+      },
+      "sha256": "20a87f96623c76e6a1f86bf426f8001567ade9355f4b4bcc4b6691ec46fcd594",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d1-2026-27/v1/1900264000007.png"
+    },
+    {
+      "id": 1900264000008,
+      "country": "MK",
+      "name": "KF Arsimi 1973",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "KF Arsimi",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/KF_Arsimi_%C3%87egran.svg/250px-KF_Arsimi_%C3%87egran.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/KF_Arsimi",
+        "alt": ""
+      },
+      "sha256": "b60672ae71911d749614ec04e5597c27f56eda5354365f119aa5aa469ac083c9",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d1-2026-27/v1/1900264000008.png"
+    },
+    {
+      "id": 1900264000009,
+      "country": "MK",
+      "name": "KF Bashkimi 1947",
+      "status": "NO_CREST_FOUND",
+      "candidate": "FK Bashkimi Kumanovo"
+    },
+    {
+      "id": 1900264000010,
+      "country": "MK",
+      "name": "FK Skopje",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "FK Skopje",
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/0/03/FB_IMG_1784745584523.jpg/250px-FB_IMG_1784745584523.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/FK_Skopje",
+        "alt": ""
+      },
+      "sha256": "cefed550c501b865f57566c8c5656f9d61037fc477e32ea838c93dacc3e5990b",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d1-2026-27/v1/1900264000010.png"
+    },
+    {
+      "id": 1900264100001,
+      "country": "BG",
+      "name": "PFC Levski Sofia",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "Levski Sofia",
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/e/e6/Levski_Sofia_crest_%282026%29.svg/250px-Levski_Sofia_crest_%282026%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/PFC_Levski_Sofia",
+        "alt": ""
+      },
+      "sha256": "e67f64b052b12889a3caec3342972aaa1dd6cc308f31bae2ba6cf9bf3c503186",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d1-2026-27/v1/1900264100001.png"
+    },
+    {
+      "id": 1900264100002,
+      "country": "BG",
+      "name": "PFC CSKA Sofia",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "CSKA Sofia",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/CSKA_Sofia_logo.svg/250px-CSKA_Sofia_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/PFC_CSKA_Sofia",
+        "alt": ""
+      },
+      "sha256": "480918318a5af32b026a0274069cd71d2401a79aaf5dfba1c162dd565ba83178",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d1-2026-27/v1/1900264100002.png"
+    },
+    {
+      "id": 1900264100003,
+      "country": "BG",
+      "name": "PFC Ludogorets Razgrad",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "Ludogorets Razgrad",
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/3/3d/PFC_Ludogorets.svg/250px-PFC_Ludogorets.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/PFC_Ludogorets_Razgrad",
+        "alt": ""
+      },
+      "sha256": "30babc2d9f293c4e2982e2e8e5af88bfdc9d75d0c590f42003e4471b880aef3b",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d1-2026-27/v1/1900264100003.png"
+    },
+    {
+      "id": 1900264100004,
+      "country": "BG",
+      "name": "FC CSKA 1948 Sofia",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "CSKA 1948 Sofia",
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/1/1e/FC_CSKA_1948_Sofia_logo.svg/120px-FC_CSKA_1948_Sofia_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/FC_CSKA_1948_Sofia",
+        "alt": ""
+      },
+      "sha256": "e7d5bfd1745f26b384784f383f690854ef3d3558999b10f25c5fca4c326f09d8",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d1-2026-27/v1/1900264100004.png"
+    },
+    {
+      "id": 1900264100005,
+      "country": "BG",
+      "name": "PFC Botev Plovdiv",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "Botev Plovdiv",
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/6/62/Botev_Plovdiv_logo.svg/250px-Botev_Plovdiv_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/PFC_Botev_Plovdiv",
+        "alt": "club crest"
+      },
+      "sha256": "6885a250ca271a5971f68811698414073348ad97667ab7ad29ebabef043f5175",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d1-2026-27/v1/1900264100005.png"
+    },
+    {
+      "id": 1900264100006,
+      "country": "BG",
+      "name": "PFC Arda Kardzhali",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "Arda Kardzhali",
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/d/d2/FC_Arda_Kardzhali_logo.svg/250px-FC_Arda_Kardzhali_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/FC_Arda_Kardzhali",
+        "alt": ""
+      },
+      "sha256": "f75785fe5f9c227f777ea73066ffd192f74a27f6768776c8508065625ed32b04",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d1-2026-27/v1/1900264100006.png"
+    },
+    {
+      "id": 1900264100007,
+      "country": "BG",
+      "name": "PFC Spartak Varna",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "Spartak Varna",
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/e/e0/FC_Spartak_Varna_logo.svg/250px-FC_Spartak_Varna_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/FC_Spartak_Varna",
+        "alt": ""
+      },
+      "sha256": "7d52634362510afb642ba54ae6ad633bd07f6ba8c4b762464426861aedac0e2e",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d1-2026-27/v1/1900264100007.png"
+    },
+    {
+      "id": 1900264100008,
+      "country": "BG",
+      "name": "PFC Slavia Sofia",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "Slavia Sofia",
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/5/52/PFC_Slavia_Sofia.svg/250px-PFC_Slavia_Sofia.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/PFC_Slavia_Sofia",
+        "alt": ""
+      },
+      "sha256": "dd00cbe035e8c40f82258916bc16bf61481b2af0521ecef531f105e6cf17aeed",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d1-2026-27/v1/1900264100008.png"
+    },
+    {
+      "id": 1900264100009,
+      "country": "BG",
+      "name": "POFC Botev Vratsa",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "Botev Vratsa",
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/2/28/POFC_Botev_Vratsa_logo.svg/250px-POFC_Botev_Vratsa_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/POFC_Botev_Vratsa",
+        "alt": ""
+      },
+      "sha256": "66bf99c8d2e95fb9484b8d56e87e3877ed1f6102b4a907a443aaac5ef20cf142",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d1-2026-27/v1/1900264100009.png"
+    },
+    {
+      "id": 1900264100010,
+      "country": "BG",
+      "name": "PFC Lokomotiv Sofia 1929",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "Lokomotiv Sofia",
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/9/97/FC_Lokomotiv_1929_Sofia_logo.svg/250px-FC_Lokomotiv_1929_Sofia_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/PFC_Lokomotiv_Sofia",
+        "alt": ""
+      },
+      "sha256": "e88b714fbde8b02f0ff20809b511a7f367e05326dc9fda4b3793c8cfc812597d",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d1-2026-27/v1/1900264100010.png"
+    },
+    {
+      "id": 1900264100011,
+      "country": "BG",
+      "name": "FC Dunav Ruse",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "Dunav Ruse",
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/b/b1/FC_Dunav_Ruse_logo.svg/250px-FC_Dunav_Ruse_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/FC_Dunav_Ruse",
+        "alt": ""
+      },
+      "sha256": "6ee06de91393d71662e8aab58b51063b1933dbf276284062cfd85522db9b6f34",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d1-2026-27/v1/1900264100011.png"
+    },
+    {
+      "id": 1900264100012,
+      "country": "BG",
+      "name": "PFC Lokomotiv Plovdiv",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "Lokomotiv Plovdiv",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/PFC_Lokomotiv_Plovdiv_Logo.svg/250px-PFC_Lokomotiv_Plovdiv_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/PFC_Lokomotiv_Plovdiv",
+        "alt": ""
+      },
+      "sha256": "c1a30098494ac774027e7983d6333de4932658f7f61fd86d97c3cfae5a252cd3",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d1-2026-27/v1/1900264100012.png"
+    },
+    {
+      "id": 1900264100013,
+      "country": "BG",
+      "name": "PFC Septemvri Sofia",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "Septemvri Sofia",
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/f/f6/PFC_Septemvri_Sofia_logo.svg/250px-PFC_Septemvri_Sofia_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/PFC_Septemvri_Sofia",
+        "alt": ""
+      },
+      "sha256": "1fb80e8ce4973f3e213ad13c95429ab92de7fd9eaf4939bfe6f26b6e85b7aa7d",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d1-2026-27/v1/1900264100013.png"
+    },
+    {
+      "id": 1900264100014,
+      "country": "BG",
+      "name": "PFC Cherno More Varna",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "Cherno More Varna",
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/a/af/Cherno_More_Varna.svg/250px-Cherno_More_Varna.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/PFC_Cherno_More_Varna",
+        "alt": ""
+      },
+      "sha256": "7e5261c3c6005b57e393f8f53df44bf46778a2d3c5529e5f342e7559ecb617b3",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d1-2026-27/v1/1900264100014.png"
+    },
+    {
+      "id": 1900264200001,
+      "country": "RO",
+      "name": "FC Dinamo București",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "Dinamo Bucuresti",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/FC_Dinamo_Bucure%C8%99ti_-_logo_2026.svg/250px-FC_Dinamo_Bucure%C8%99ti_-_logo_2026.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/FC_Dinamo_Bucure%C8%99ti",
+        "alt": ""
+      },
+      "sha256": "07106fbbba70358306a1c89a4ae5e9a90e68a7ace77c923285d497bfe2e07846",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d1-2026-27/v1/1900264200001.png"
+    },
+    {
+      "id": 1900264200002,
+      "country": "RO",
+      "name": "FC Rapid București",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "Rapid Bucuresti",
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/8/82/FC_Rapid_Bucuresti_logo.svg/250px-FC_Rapid_Bucuresti_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/FC_Rapid_Bucure%C8%99ti",
+        "alt": ""
+      },
+      "sha256": "d8beefbdaa757f56e777be1798547d2e0f00c32cb788b120320f3d1bb7cf6cb4",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d1-2026-27/v1/1900264200002.png"
+    },
+    {
+      "id": 1900264200003,
+      "country": "RO",
+      "name": "CS Universitatea Craiova",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "Universitatea Craiova",
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/0/02/CS_Universitatea_Craiova_logo.svg/250px-CS_Universitatea_Craiova_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/CS_Universitatea_Craiova",
+        "alt": ""
+      },
+      "sha256": "d4fa8e976eab9d3e973a5f83bc97cb22fa8c7739bc0cc9ca35d5946dd65bec94",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d1-2026-27/v1/1900264200003.png"
+    },
+    {
+      "id": 1900264200004,
+      "country": "RO",
+      "name": "FC Petrolul Ploiești",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "Petrolul Ploiesti",
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/7/7c/FC_Petrolul_Ploie%C8%99ti_logo.svg/250px-FC_Petrolul_Ploie%C8%99ti_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/FC_Petrolul_Ploie%C8%99ti",
+        "alt": ""
+      },
+      "sha256": "5d769df4d982067dbcd2fce0dad23308fac7e4e13cde6156953bc87b29407f46",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d1-2026-27/v1/1900264200004.png"
+    },
+    {
+      "id": 1900264200005,
+      "country": "RO",
+      "name": "FC Universitatea Cluj",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "Universitatea Cluj",
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/5/52/U_Cluj_Logo.svg/250px-U_Cluj_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/FC_Universitatea_Cluj",
+        "alt": ""
+      },
+      "sha256": "3d32a58db291d8bafe4234587289587ac37a67100a85905e5457e62a7ba2ae3e",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d1-2026-27/v1/1900264200005.png"
+    },
+    {
+      "id": 1900264200006,
+      "country": "RO",
+      "name": "FCSB",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "FCSB",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Fcsb-logo.svg/250px-Fcsb-logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/FCSB",
+        "alt": ""
+      },
+      "sha256": "a3d8ff697ae994cbbac4f5167c66ad5365cd58be3c73dc148852ec3f265a2513",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d1-2026-27/v1/1900264200006.png"
+    },
+    {
+      "id": 1900264200007,
+      "country": "RO",
+      "name": "FC Farul Constanța",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "Farul Constanta",
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/d/dd/FC_Farul_Constanta.svg/250px-FC_Farul_Constanta.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/FC_Farul_Constan%C8%9Ba",
+        "alt": ""
+      },
+      "sha256": "895fe60db4752168dc65f1f7dcc441e45ac57b9c5871e24e911247de4767259e",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d1-2026-27/v1/1900264200007.png"
+    },
+    {
+      "id": 1900264200008,
+      "country": "RO",
+      "name": "CFR Cluj",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "CFR Cluj",
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/7/7e/CFR_Cluj_badge.svg/250px-CFR_Cluj_badge.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/CFR_Cluj",
+        "alt": ""
+      },
+      "sha256": "32393cb3a67a015105837afd8258480ef05a5f664ef81f68abff0a972fafde3f",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d1-2026-27/v1/1900264200008.png"
+    },
+    {
+      "id": 1900264200009,
+      "country": "RO",
+      "name": "CS Corvinul Hunedoara",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "Corvinul Hunedoara",
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/3/3e/FC_Corvinul_Hunedoara.svg/250px-FC_Corvinul_Hunedoara.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/FC_Corvinul_Hunedoara",
+        "alt": ""
+      },
+      "sha256": "dfbe1e821a806a75d1ab03fe64c8c1814b0fcfc4eb7f59bccb0e93acee73621d",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d1-2026-27/v1/1900264200009.png"
+    },
+    {
+      "id": 1900264200010,
+      "country": "RO",
+      "name": "FC UTA Arad",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "UTA Arad",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/UTA_Arad_logo.svg/250px-UTA_Arad_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/FC_UTA_Arad",
+        "alt": "crest"
+      },
+      "sha256": "5133df3abcea66524a75af4f0449d608e983bb9c4079430fe6b77843d9def066",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d1-2026-27/v1/1900264200010.png"
+    },
+    {
+      "id": 1900264200011,
+      "country": "RO",
+      "name": "FC Botoșani",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "FC Botosani",
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/e/e7/FC_Botosani_2022_logo.svg/250px-FC_Botosani_2022_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/FC_Boto%C8%99ani",
+        "alt": ""
+      },
+      "sha256": "126f0d3108da8ed4eb249e572485484c31b8f990aabb95d0d44bc2a0ba52494f",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d1-2026-27/v1/1900264200011.png"
+    },
+    {
+      "id": 1900264200012,
+      "country": "RO",
+      "name": "Sepsi OSK Sfântu Gheorghe",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "Sepsi OSK",
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/e/ec/ACS_Sepsi_OSK_Sfantu_Gheorghe_logo.svg/250px-ACS_Sepsi_OSK_Sfantu_Gheorghe_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/Sepsi_OSK_Sf%C3%A2ntu_Gheorghe",
+        "alt": ""
+      },
+      "sha256": "76c29b9ece6127c61f4ccdfe25f3e75895b851fdb90aa618ded8f712bf56100a",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d1-2026-27/v1/1900264200012.png"
+    },
+    {
+      "id": 1900264200013,
+      "country": "RO",
+      "name": "FC Argeș Pitești",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "FC Arges",
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/d/da/FC_Arge%C8%99_Pite%C8%99ti_logo.svg/250px-FC_Arge%C8%99_Pite%C8%99ti_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/FC_Arge%C8%99_Pite%C8%99ti",
+        "alt": ""
+      },
+      "sha256": "7648ea0c62fa522b31efaaa25ebea30e70f39be05aa532681d823291936afdd8",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d1-2026-27/v1/1900264200013.png"
+    },
+    {
+      "id": 1900264200014,
+      "country": "RO",
+      "name": "ASC Oțelul Galați",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "Otelul Galati",
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/f/f1/ASC_Otelul_Galati_logo.svg/250px-ASC_Otelul_Galati_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/ASC_O%C8%9Belul_Gala%C8%9Bi",
+        "alt": ""
+      },
+      "sha256": "3cda808c36a780a4d1d752db02b1fb19c41f8ac94986d5d412f56a6281fad74f",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d1-2026-27/v1/1900264200014.png"
+    },
+    {
+      "id": 1900264200015,
+      "country": "RO",
+      "name": "FC Voluntari",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "FC Voluntari",
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/d/d9/FC_Voluntari.svg/250px-FC_Voluntari.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/FC_Voluntari",
+        "alt": ""
+      },
+      "sha256": "57dc7fbb0eb77483335a096df94901f6038da68e932c233f3ad63947e6bc4e28",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d1-2026-27/v1/1900264200015.png"
+    },
+    {
+      "id": 1900264200016,
+      "country": "RO",
+      "name": "FK Csíkszereda Miercurea Ciuc",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "Csikszereda",
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/f/fd/FK_Cs%C3%ADkszereda_Miercurea_Ciuc_logo.svg/250px-FK_Cs%C3%ADkszereda_Miercurea_Ciuc_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/FK_Cs%C3%ADkszereda_Miercurea_Ciuc",
+        "alt": ""
+      },
+      "sha256": "0ca121b6b36e63d11156c824a4b2d19b4b0feeab130fc9805c45cf5fe7bfb54e",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d1-2026-27/v1/1900264200016.png"
+    }
+  ],
+  "federationLogos": [
+    {
+      "country": "MK",
+      "organizer": "Football Federation of Macedonia",
+      "status": "SOURCE_IDENTIFIED",
+      "sourceImage": "https://thumb.wikimedia.org/wikipedia/en/thumb/e/e6/Football_Federation_of_Macedonia_logo.svg/250px-Football_Federation_of_Macedonia_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/Football_Federation_of_Macedonia",
+        "alt": ""
+      },
+      "sha256": "60b03f759c522491a678ad806c6c5a599cd188903e581ac6fca28e21331830de",
+      "output": "docs/europe-d1-2026-27/v1/federation_MK.png",
+      "dimensions": [
+        512,
+        512
+      ]
+    },
+    {
+      "country": "BG",
+      "organizer": "Bulgarian Football Union",
+      "status": "SOURCE_IDENTIFIED",
+      "sourceImage": "https://thumb.wikimedia.org/wikipedia/en/thumb/6/69/Bulgarian_Football_Union_logo.svg/250px-Bulgarian_Football_Union_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/Bulgarian_Football_Union",
+        "alt": ""
+      },
+      "sha256": "94458f500e1cfb24920db7c0ecec28ecd1d55fd6c1e0401d1df182eb0a606557",
+      "output": "docs/europe-d1-2026-27/v1/federation_BG.png",
+      "dimensions": [
+        512,
+        512
+      ]
+    },
+    {
+      "country": "RO",
+      "organizer": "Romanian Football Federation",
+      "status": "SOURCE_IDENTIFIED",
+      "sourceImage": "https://thumb.wikimedia.org/wikipedia/en/thumb/2/2c/Romanian_Football_Federation_logo_%282019%29.svg/250px-Romanian_Football_Federation_logo_%282019%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/Romanian_Football_Federation",
+        "alt": ""
+      },
+      "sha256": "2bc913e72eaa071142b1e85d0e393566b62e6fa3778cf7cff786b30a0c2433d0",
+      "output": "docs/europe-d1-2026-27/v1/federation_RO.png",
+      "dimensions": [
+        512,
+        512
+      ]
+    }
+  ],
+  "status": "DOWNLOADS_CHECKED_BYTES_NOT_MANUAL_VISUAL_AUTHENTICATION"
+}
