@@ -1,0 +1,2746 @@
+{
+  "FFK historical": {
+    "status": 200,
+    "title": "BKT Superliga - Federata e Futbollit e Kosovës",
+    "images": [
+      {
+        "alt": "Federata e Futbollit e Kosovës",
+        "src": "https://www.ffk-ks.com/wp-content/uploads/2021/12/ffklogoheader.png",
+        "class": "sh-standard-logo"
+      },
+      {
+        "alt": "Federata e Futbollit e Kosovës",
+        "src": "https://www.ffk-ks.com/wp-content/uploads/2021/12/ffklogoheader.png",
+        "class": "lazyload sh-standard-logo"
+      },
+      {
+        "alt": "Federata e Futbollit e Kosovës",
+        "src": "https://www.ffk-ks.com/wp-content/uploads/2021/12/ffklogoheader.png",
+        "class": "sh-sticky-logo"
+      },
+      {
+        "alt": "Federata e Futbollit e Kosovës",
+        "src": "https://www.ffk-ks.com/wp-content/uploads/2021/12/ffklogoheader.png",
+        "class": "lazyload sh-sticky-logo"
+      },
+      {
+        "alt": "Federata e Futbollit e Kosovës",
+        "src": "https://www.ffk-ks.com/wp-content/uploads/2021/12/ffklogoheader.png",
+        "class": "sh-light-logo"
+      },
+      {
+        "alt": "Federata e Futbollit e Kosovës",
+        "src": "https://www.ffk-ks.com/wp-content/uploads/2021/12/ffklogoheader.png",
+        "class": "lazyload sh-light-logo"
+      },
+      {
+        "alt": "Federata e Futbollit e Kosovës",
+        "src": "https://www.ffk-ks.com/wp-content/uploads/2021/12/ffklogoheader.png",
+        "class": "sh-standard-logo"
+      },
+      {
+        "alt": "Federata e Futbollit e Kosovës",
+        "src": "https://www.ffk-ks.com/wp-content/uploads/2021/12/ffklogoheader.png",
+        "class": "lazyload sh-standard-logo"
+      },
+      {
+        "alt": "Federata e Futbollit e Kosovës",
+        "src": "https://www.ffk-ks.com/wp-content/uploads/2021/12/ffklogoheader.png",
+        "class": "sh-sticky-logo"
+      },
+      {
+        "alt": "Federata e Futbollit e Kosovës",
+        "src": "https://www.ffk-ks.com/wp-content/uploads/2021/12/ffklogoheader.png",
+        "class": "lazyload sh-sticky-logo"
+      },
+      {
+        "alt": "Federata e Futbollit e Kosovës",
+        "src": "https://www.ffk-ks.com/wp-content/uploads/2021/12/ffklogoheader.png",
+        "class": "sh-light-logo"
+      },
+      {
+        "alt": "Federata e Futbollit e Kosovës",
+        "src": "https://www.ffk-ks.com/wp-content/uploads/2021/12/ffklogoheader.png",
+        "class": "lazyload sh-light-logo"
+      },
+      {
+        "alt": "",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757-300x120.png",
+        "class": "alignnone size-medium wp-image-58726"
+      },
+      {
+        "alt": "",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757-300x120.png",
+        "class": "lazyload alignnone size-medium wp-image-58726"
+      },
+      {
+        "alt": "Ballkani",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/10/ballkannni.png",
+        "class": "anwp-object-contain mr-2 anwp-w-25 anwp-h-25"
+      },
+      {
+        "alt": "Ballkani",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/10/ballkannni.png",
+        "class": "lazyload anwp-object-contain mr-2 anwp-w-25 anwp-h-25"
+      },
+      {
+        "alt": "Drita",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/drita-logo-small.png",
+        "class": "anwp-object-contain mr-2 anwp-w-25 anwp-h-25"
+      },
+      {
+        "alt": "Drita",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/drita-logo-small.png",
+        "class": "lazyload anwp-object-contain mr-2 anwp-w-25 anwp-h-25"
+      },
+      {
+        "alt": "Gjilani",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2024/08/LogoSCGjilani.png",
+        "class": "anwp-object-contain mr-2 anwp-w-25 anwp-h-25"
+      },
+      {
+        "alt": "Gjilani",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2024/08/LogoSCGjilani.png",
+        "class": "lazyload anwp-object-contain mr-2 anwp-w-25 anwp-h-25"
+      },
+      {
+        "alt": "Llapi",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/Llapi_KF_logo-small.png",
+        "class": "anwp-object-contain mr-2 anwp-w-25 anwp-h-25"
+      },
+      {
+        "alt": "Llapi",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/Llapi_KF_logo-small.png",
+        "class": "lazyload anwp-object-contain mr-2 anwp-w-25 anwp-h-25"
+      },
+      {
+        "alt": "Prishtina",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/prishtinalogo-small.png",
+        "class": "anwp-object-contain mr-2 anwp-w-25 anwp-h-25"
+      },
+      {
+        "alt": "Prishtina",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/prishtinalogo-small.png",
+        "class": "lazyload anwp-object-contain mr-2 anwp-w-25 anwp-h-25"
+      },
+      {
+        "alt": "Drenica",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/drenicalogo-small.png",
+        "class": "anwp-object-contain mr-2 anwp-w-25 anwp-h-25"
+      },
+      {
+        "alt": "Drenica",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/drenicalogo-small.png",
+        "class": "lazyload anwp-object-contain mr-2 anwp-w-25 anwp-h-25"
+      },
+      {
+        "alt": "Dukagjini",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/dukagjini-small.png",
+        "class": "anwp-object-contain mr-2 anwp-w-25 anwp-h-25"
+      },
+      {
+        "alt": "Dukagjini",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/dukagjini-small.png",
+        "class": "lazyload anwp-object-contain mr-2 anwp-w-25 anwp-h-25"
+      },
+      {
+        "alt": "Malisheva",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/malisheva-small.png",
+        "class": "anwp-object-contain mr-2 anwp-w-25 anwp-h-25"
+      },
+      {
+        "alt": "Malisheva",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/malisheva-small.png",
+        "class": "lazyload anwp-object-contain mr-2 anwp-w-25 anwp-h-25"
+      },
+      {
+        "alt": "Ulpiana 1926",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/KF-ULPIANA-small.jpg",
+        "class": "anwp-object-contain mr-2 anwp-w-25 anwp-h-25"
+      },
+      {
+        "alt": "Ulpiana 1926",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/KF-ULPIANA-small.jpg",
+        "class": "lazyload anwp-object-contain mr-2 anwp-w-25 anwp-h-25"
+      },
+      {
+        "alt": "Feronikeli 74",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2023/08/feronikelilogo1.png",
+        "class": "anwp-object-contain mr-2 anwp-w-25 anwp-h-25"
+      },
+      {
+        "alt": "Feronikeli 74",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2023/08/feronikelilogo1.png",
+        "class": "lazyload anwp-object-contain mr-2 anwp-w-25 anwp-h-25"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "lazyload anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "Drita",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/drita-logo-small.png",
+        "class": "anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Drita",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/drita-logo-small.png",
+        "class": "lazyload anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Feronikeli 74",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2023/08/feronikelilogo1.png",
+        "class": "anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Feronikeli 74",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2023/08/feronikelilogo1.png",
+        "class": "lazyload anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "lazyload anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "Drenica",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/drenicalogo-small.png",
+        "class": "anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Drenica",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/drenicalogo-small.png",
+        "class": "lazyload anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Gjilani",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2024/08/LogoSCGjilani.png",
+        "class": "anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Gjilani",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2024/08/LogoSCGjilani.png",
+        "class": "lazyload anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "lazyload anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "Llapi",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/Llapi_KF_logo-small.png",
+        "class": "anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Llapi",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/Llapi_KF_logo-small.png",
+        "class": "lazyload anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Ulpiana 1926",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/KF-ULPIANA-small.jpg",
+        "class": "anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Ulpiana 1926",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/KF-ULPIANA-small.jpg",
+        "class": "lazyload anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "lazyload anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "Malisheva",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/malisheva-small.png",
+        "class": "anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Malisheva",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/malisheva-small.png",
+        "class": "lazyload anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Prishtina",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/prishtinalogo-small.png",
+        "class": "anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Prishtina",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/prishtinalogo-small.png",
+        "class": "lazyload anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "lazyload anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "Ballkani",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/10/ballkannni.png",
+        "class": "anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Ballkani",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/10/ballkannni.png",
+        "class": "lazyload anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Dukagjini",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/dukagjini-small.png",
+        "class": "anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Dukagjini",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/dukagjini-small.png",
+        "class": "lazyload anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "lazyload anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "Drita",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/drita-logo-small.png",
+        "class": "anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Drita",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/drita-logo-small.png",
+        "class": "lazyload anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Llapi",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/Llapi_KF_logo-small.png",
+        "class": "anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Llapi",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/Llapi_KF_logo-small.png",
+        "class": "lazyload anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "lazyload anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "Feronikeli 74",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2023/08/feronikelilogo1.png",
+        "class": "anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Feronikeli 74",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2023/08/feronikelilogo1.png",
+        "class": "lazyload anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Gjilani",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2024/08/LogoSCGjilani.png",
+        "class": "anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Gjilani",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2024/08/LogoSCGjilani.png",
+        "class": "lazyload anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "lazyload anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "Ulpiana 1926",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/KF-ULPIANA-small.jpg",
+        "class": "anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Ulpiana 1926",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/KF-ULPIANA-small.jpg",
+        "class": "lazyload anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Malisheva",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/malisheva-small.png",
+        "class": "anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Malisheva",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/malisheva-small.png",
+        "class": "lazyload anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "lazyload anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "Dukagjini",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/dukagjini-small.png",
+        "class": "anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Dukagjini",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/dukagjini-small.png",
+        "class": "lazyload anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Drenica",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/drenicalogo-small.png",
+        "class": "anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Drenica",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/drenicalogo-small.png",
+        "class": "lazyload anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "lazyload anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "Prishtina",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/prishtinalogo-small.png",
+        "class": "anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Prishtina",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/prishtinalogo-small.png",
+        "class": "lazyload anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Ballkani",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/10/ballkannni.png",
+        "class": "anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Ballkani",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/10/ballkannni.png",
+        "class": "lazyload anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "lazyload anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "Malisheva",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/malisheva-small.png",
+        "class": "anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Malisheva",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/malisheva-small.png",
+        "class": "lazyload anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Drita",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/drita-logo-small.png",
+        "class": "anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Drita",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/drita-logo-small.png",
+        "class": "lazyload anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "lazyload anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "Gjilani",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2024/08/LogoSCGjilani.png",
+        "class": "anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Gjilani",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2024/08/LogoSCGjilani.png",
+        "class": "lazyload anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Dukagjini",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/dukagjini-small.png",
+        "class": "anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Dukagjini",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/dukagjini-small.png",
+        "class": "lazyload anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "lazyload anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "Llapi",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/Llapi_KF_logo-small.png",
+        "class": "anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Llapi",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/Llapi_KF_logo-small.png",
+        "class": "lazyload anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Feronikeli 74",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2023/08/feronikelilogo1.png",
+        "class": "anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Feronikeli 74",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2023/08/feronikelilogo1.png",
+        "class": "lazyload anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "lazyload anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "Drenica",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/drenicalogo-small.png",
+        "class": "anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Drenica",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/drenicalogo-small.png",
+        "class": "lazyload anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Prishtina",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/prishtinalogo-small.png",
+        "class": "anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Prishtina",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/prishtinalogo-small.png",
+        "class": "lazyload anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "lazyload anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "Ballkani",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/10/ballkannni.png",
+        "class": "anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Ballkani",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/10/ballkannni.png",
+        "class": "lazyload anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Ulpiana 1926",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/KF-ULPIANA-small.jpg",
+        "class": "anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Ulpiana 1926",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/KF-ULPIANA-small.jpg",
+        "class": "lazyload anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "lazyload anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "Feronikeli 74",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2023/08/feronikelilogo1.png",
+        "class": "anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Feronikeli 74",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2023/08/feronikelilogo1.png",
+        "class": "lazyload anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Dukagjini",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/dukagjini-small.png",
+        "class": "anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Dukagjini",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/dukagjini-small.png",
+        "class": "lazyload anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "lazyload anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "Drita",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/drita-logo-small.png",
+        "class": "anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Drita",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/drita-logo-small.png",
+        "class": "lazyload anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Ballkani",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/10/ballkannni.png",
+        "class": "anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Ballkani",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/10/ballkannni.png",
+        "class": "lazyload anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "lazyload anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "Llapi",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/Llapi_KF_logo-small.png",
+        "class": "anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Llapi",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/Llapi_KF_logo-small.png",
+        "class": "lazyload anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Malisheva",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/malisheva-small.png",
+        "class": "anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Malisheva",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/malisheva-small.png",
+        "class": "lazyload anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "lazyload anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "Prishtina",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/prishtinalogo-small.png",
+        "class": "anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Prishtina",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/prishtinalogo-small.png",
+        "class": "lazyload anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Gjilani",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2024/08/LogoSCGjilani.png",
+        "class": "anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Gjilani",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2024/08/LogoSCGjilani.png",
+        "class": "lazyload anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "lazyload anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "Ulpiana 1926",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/KF-ULPIANA-small.jpg",
+        "class": "anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Ulpiana 1926",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/KF-ULPIANA-small.jpg",
+        "class": "lazyload anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Drenica",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/drenicalogo-small.png",
+        "class": "anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Drenica",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/drenicalogo-small.png",
+        "class": "lazyload anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "lazyload anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "Gjilani",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2024/08/LogoSCGjilani.png",
+        "class": "anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Gjilani",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2024/08/LogoSCGjilani.png",
+        "class": "lazyload anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Ulpiana 1926",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/KF-ULPIANA-small.jpg",
+        "class": "anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Ulpiana 1926",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/KF-ULPIANA-small.jpg",
+        "class": "lazyload anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "lazyload anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "Malisheva",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/malisheva-small.png",
+        "class": "anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Malisheva",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/malisheva-small.png",
+        "class": "lazyload anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Feronikeli 74",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2023/08/feronikelilogo1.png",
+        "class": "anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Feronikeli 74",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2023/08/feronikelilogo1.png",
+        "class": "lazyload anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "lazyload anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "Dukagjini",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/dukagjini-small.png",
+        "class": "anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Dukagjini",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/dukagjini-small.png",
+        "class": "lazyload anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Prishtina",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/prishtinalogo-small.png",
+        "class": "anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Prishtina",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/prishtinalogo-small.png",
+        "class": "lazyload anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "lazyload anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "Drenica",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/drenicalogo-small.png",
+        "class": "anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Drenica",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/drenicalogo-small.png",
+        "class": "lazyload anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Drita",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/drita-logo-small.png",
+        "class": "anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Drita",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/drita-logo-small.png",
+        "class": "lazyload anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "lazyload anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "Ballkani",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/10/ballkannni.png",
+        "class": "anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Ballkani",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/10/ballkannni.png",
+        "class": "lazyload anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Llapi",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/Llapi_KF_logo-small.png",
+        "class": "anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Llapi",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/Llapi_KF_logo-small.png",
+        "class": "lazyload anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "lazyload anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "Ulpiana 1926",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/KF-ULPIANA-small.jpg",
+        "class": "anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Ulpiana 1926",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/KF-ULPIANA-small.jpg",
+        "class": "lazyload anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Dukagjini",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/dukagjini-small.png",
+        "class": "anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Dukagjini",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/dukagjini-small.png",
+        "class": "lazyload anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "lazyload anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "Llapi",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/Llapi_KF_logo-small.png",
+        "class": "anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Llapi",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/Llapi_KF_logo-small.png",
+        "class": "lazyload anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Drenica",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/drenicalogo-small.png",
+        "class": "anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Drenica",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/drenicalogo-small.png",
+        "class": "lazyload anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "lazyload anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "Drita",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/drita-logo-small.png",
+        "class": "anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Drita",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/drita-logo-small.png",
+        "class": "lazyload anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Gjilani",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2024/08/LogoSCGjilani.png",
+        "class": "anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Gjilani",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2024/08/LogoSCGjilani.png",
+        "class": "lazyload anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "lazyload anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "Malisheva",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/malisheva-small.png",
+        "class": "anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Malisheva",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/malisheva-small.png",
+        "class": "lazyload anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Ballkani",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/10/ballkannni.png",
+        "class": "anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Ballkani",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/10/ballkannni.png",
+        "class": "lazyload anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "lazyload anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "Feronikeli 74",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2023/08/feronikelilogo1.png",
+        "class": "anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Feronikeli 74",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2023/08/feronikelilogo1.png",
+        "class": "lazyload anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Prishtina",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/prishtinalogo-small.png",
+        "class": "anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Prishtina",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/prishtinalogo-small.png",
+        "class": "lazyload anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "lazyload anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "Gjilani",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2024/08/LogoSCGjilani.png",
+        "class": "anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Gjilani",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2024/08/LogoSCGjilani.png",
+        "class": "lazyload anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Llapi",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/Llapi_KF_logo-small.png",
+        "class": "anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Llapi",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/Llapi_KF_logo-small.png",
+        "class": "lazyload anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "lazyload anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "Ballkani",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/10/ballkannni.png",
+        "class": "anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Ballkani",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/10/ballkannni.png",
+        "class": "lazyload anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Feronikeli 74",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2023/08/feronikelilogo1.png",
+        "class": "anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Feronikeli 74",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2023/08/feronikelilogo1.png",
+        "class": "lazyload anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "lazyload anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "Drenica",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/drenicalogo-small.png",
+        "class": "anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Drenica",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/drenicalogo-small.png",
+        "class": "lazyload anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Malisheva",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/malisheva-small.png",
+        "class": "anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Malisheva",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/malisheva-small.png",
+        "class": "lazyload anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "lazyload anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "Prishtina",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/prishtinalogo-small.png",
+        "class": "anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Prishtina",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/prishtinalogo-small.png",
+        "class": "lazyload anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Ulpiana 1926",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/KF-ULPIANA-small.jpg",
+        "class": "anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Ulpiana 1926",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/KF-ULPIANA-small.jpg",
+        "class": "lazyload anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "lazyload anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "Dukagjini",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/dukagjini-small.png",
+        "class": "anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Dukagjini",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/dukagjini-small.png",
+        "class": "lazyload anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Drita",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/drita-logo-small.png",
+        "class": "anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Drita",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/drita-logo-small.png",
+        "class": "lazyload anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "lazyload anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "Ballkani",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/10/ballkannni.png",
+        "class": "anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Ballkani",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/10/ballkannni.png",
+        "class": "lazyload anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Drenica",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/drenicalogo-small.png",
+        "class": "anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Drenica",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/drenicalogo-small.png",
+        "class": "lazyload anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "lazyload anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "Malisheva",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/malisheva-small.png",
+        "class": "anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Malisheva",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/malisheva-small.png",
+        "class": "lazyload anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Gjilani",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2024/08/LogoSCGjilani.png",
+        "class": "anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Gjilani",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2024/08/LogoSCGjilani.png",
+        "class": "lazyload anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "lazyload anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "Drita",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/drita-logo-small.png",
+        "class": "anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Drita",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/drita-logo-small.png",
+        "class": "lazyload anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Prishtina",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/prishtinalogo-small.png",
+        "class": "anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Prishtina",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/prishtinalogo-small.png",
+        "class": "lazyload anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "lazyload anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "Llapi",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/Llapi_KF_logo-small.png",
+        "class": "anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Llapi",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/Llapi_KF_logo-small.png",
+        "class": "lazyload anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Dukagjini",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/dukagjini-small.png",
+        "class": "anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Dukagjini",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/dukagjini-small.png",
+        "class": "lazyload anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "lazyload anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "Feronikeli 74",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2023/08/feronikelilogo1.png",
+        "class": "anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Feronikeli 74",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2023/08/feronikelilogo1.png",
+        "class": "lazyload anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Ulpiana 1926",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/KF-ULPIANA-small.jpg",
+        "class": "anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Ulpiana 1926",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/KF-ULPIANA-small.jpg",
+        "class": "lazyload anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "lazyload anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "Ulpiana 1926",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/KF-ULPIANA-small.jpg",
+        "class": "anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Ulpiana 1926",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/KF-ULPIANA-small.jpg",
+        "class": "lazyload anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Drita",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/drita-logo-small.png",
+        "class": "anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Drita",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/drita-logo-small.png",
+        "class": "lazyload anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "lazyload anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "Dukagjini",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/dukagjini-small.png",
+        "class": "anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Dukagjini",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/dukagjini-small.png",
+        "class": "lazyload anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Malisheva",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/malisheva-small.png",
+        "class": "anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Malisheva",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/malisheva-small.png",
+        "class": "lazyload anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "lazyload anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "Gjilani",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2024/08/LogoSCGjilani.png",
+        "class": "anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Gjilani",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2024/08/LogoSCGjilani.png",
+        "class": "lazyload anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Ballkani",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/10/ballkannni.png",
+        "class": "anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Ballkani",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/10/ballkannni.png",
+        "class": "lazyload anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "lazyload anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "Prishtina",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/prishtinalogo-small.png",
+        "class": "anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Prishtina",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/prishtinalogo-small.png",
+        "class": "lazyload anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Llapi",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/Llapi_KF_logo-small.png",
+        "class": "anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Llapi",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/Llapi_KF_logo-small.png",
+        "class": "lazyload anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "lazyload anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "Drenica",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/drenicalogo-small.png",
+        "class": "anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Drenica",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/drenicalogo-small.png",
+        "class": "lazyload anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Feronikeli 74",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2023/08/feronikelilogo1.png",
+        "class": "anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Feronikeli 74",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2023/08/feronikelilogo1.png",
+        "class": "lazyload anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "lazyload anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "Prishtina",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/prishtinalogo-small.png",
+        "class": "anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Prishtina",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/prishtinalogo-small.png",
+        "class": "lazyload anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Malisheva",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/malisheva-small.png",
+        "class": "anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Malisheva",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/malisheva-small.png",
+        "class": "lazyload anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "lazyload anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "Ulpiana 1926",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/KF-ULPIANA-small.jpg",
+        "class": "anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Ulpiana 1926",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/KF-ULPIANA-small.jpg",
+        "class": "lazyload anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Llapi",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/Llapi_KF_logo-small.png",
+        "class": "anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Llapi",
+        "src": "http://ffk-kosova.com/wp-content/uploads/2019/08/Llapi_KF_logo-small.png",
+        "class": "lazyload anwp-object-contain match-slim__team-away-logo anwp-flex-none ml-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "BKT Superliga",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2021/09/BKTSuperliga_Logo-e1631454949757.png",
+        "class": "lazyload anwp-object-contain anwp-w-20 anwp-h-20 anwp-w-sm-30 anwp-h-sm-30 match-slim__competition-logo anwp-flex-none mr-0"
+      },
+      {
+        "alt": "Feronikeli 74",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2023/08/feronikelilogo1.png",
+        "class": "anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      },
+      {
+        "alt": "Feronikeli 74",
+        "src": "http://www.ffk-ks.com/wp-content/uploads/2023/08/feronikelilogo1.png",
+        "class": "lazyload anwp-object-contain match-slim__team-home-logo anwp-flex-none mr-sm-3 anwp-w-30 anwp-h-30"
+      }
+    ],
+    "html_bytes": 920587
+  },
+  "FFK new": {
+    "status": 200,
+    "title": "Federata e Futbollit e KosovÃ«s",
+    "images": [],
+    "html_bytes": 1406
+  },
+  "Kosovo competition": {
+    "status": 200,
+    "title": "Kosovo - Albi Mall Superliga 2026/2027 - Standings, Fixtures & Stats - Soccer | Global Sports Archive",
+    "images": [
+      {
+        "alt": "Global Sports Archive Logo",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/logo.svg?v=1732708957",
+        "class": "gsa-header__banner-menu__logo gsa-flex-center gsa-mr-lg-3 gsa-mr-10"
+      },
+      {
+        "alt": "star",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/icons/star.svg?v=1732708957",
+        "class": "gsa-pr-1"
+      },
+      {
+        "alt": "logo",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/countries/usa.svg?v=1732708957",
+        "class": "gsa-shrink-0 gsa-w-20"
+      },
+      {
+        "alt": "logo",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/countries/usa.svg?v=1732708957",
+        "class": "gsa-shrink-0 gsa-w-20"
+      },
+      {
+        "alt": "avatar",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/icons/grey-person.svg?v=1732708957",
+        "class": "gsa-pr-1"
+      },
+      {
+        "alt": "search",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/icons/search.svg?v=1732708957",
+        "class": "gsa-cursor-pointer gsa-ml-3 gsa-pr-3"
+      },
+      {
+        "alt": "menu",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/icons/menu.svg?v=1732708957",
+        "class": "gsa-cursor-pointer gsa-flex gsa-mx-3"
+      },
+      {
+        "alt": "close",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/icons/close.svg?v=1732708957",
+        "class": "gsa-cursor-pointer gsa-mx-3 gsa-d-none"
+      },
+      {
+        "alt": "avatar",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/icons/person.svg?v=1732708957",
+        "class": "gsa-header__banner-dropdown__user-avatar gsa-pr-2"
+      },
+      {
+        "alt": "logo",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/countries/usa.svg?v=1732708957",
+        "class": "gsa-shrink-0 gsa-w-20"
+      },
+      {
+        "alt": "logo",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/countries/usa.svg?v=1732708957",
+        "class": "gsa-shrink-0 gsa-w-20"
+      },
+      {
+        "alt": "Soccer",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/soccer.svg?v=1732708957",
+        "class": "gsa-w-full"
+      },
+      {
+        "alt": "Tennis",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/tennis.svg?v=1732708957",
+        "class": "gsa-w-full"
+      },
+      {
+        "alt": "Table Tennis",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/table-tennis.svg?v=1736326195",
+        "class": "gsa-w-full"
+      },
+      {
+        "alt": "Alpine Skiing",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/alpine-skiing.svg?v=1732708957",
+        "class": "gsa-w-full"
+      },
+      {
+        "alt": "American Football",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/american-football.svg?v=1732708957",
+        "class": "gsa-w-full"
+      },
+      {
+        "alt": "Artistic Swimming",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/artistic-swimming.svg?v=1732708957",
+        "class": "gsa-w-full"
+      },
+      {
+        "alt": "Australian Football",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/australian-football.svg?v=1732708957",
+        "class": "gsa-w-full"
+      },
+      {
+        "alt": "Baseball",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/baseball.svg?v=1732708957",
+        "class": "gsa-w-full"
+      },
+      {
+        "alt": "Alpine Skiing",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/alpine-skiing.svg?v=1732708957",
+        "class": "gsa-w-full"
+      },
+      {
+        "alt": "American Football",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/american-football.svg?v=1732708957",
+        "class": "gsa-w-full"
+      },
+      {
+        "alt": "Artistic Swimming",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/artistic-swimming.svg?v=1732708957",
+        "class": "gsa-w-full"
+      },
+      {
+        "alt": "Australian Football",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/australian-football.svg?v=1732708957",
+        "class": "gsa-w-full"
+      },
+      {
+        "alt": "Baseball",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/baseball.svg?v=1732708957",
+        "class": "gsa-w-full"
+      },
+      {
+        "alt": "Basketball",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/basketball.svg?v=1732708957",
+        "class": "gsa-w-full"
+      },
+      {
+        "alt": "Biathlon",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/biathlon.svg?v=1732708957",
+        "class": "gsa-w-full"
+      },
+      {
+        "alt": "Bobsledding",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/bobsledding.svg?v=1732708957",
+        "class": "gsa-w-full"
+      },
+      {
+        "alt": "Canoeing",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/canoeing.svg?v=1732708957",
+        "class": "gsa-w-full"
+      },
+      {
+        "alt": "Counter Strike 2",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/counterstrikego.svg?v=1732708957",
+        "class": "gsa-w-full"
+      },
+      {
+        "alt": "Cricket",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/cricket.svg?v=1732708957",
+        "class": "gsa-w-full"
+      },
+      {
+        "alt": "Cross-country skiing",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/cross-country-skiing.svg?v=1732708957",
+        "class": "gsa-w-full"
+      },
+      {
+        "alt": "Diving",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/diving.svg?v=1732708957",
+        "class": "gsa-w-full"
+      },
+      {
+        "alt": "Field Hockey",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/field-hockey.svg?v=1732708957",
+        "class": "gsa-w-full"
+      },
+      {
+        "alt": "Figure Skating",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/figure-skating.svg?v=1732708957",
+        "class": "gsa-w-full"
+      },
+      {
+        "alt": "Floorball",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/floorball.svg?v=1732708957",
+        "class": "gsa-w-full"
+      },
+      {
+        "alt": "Freestyle Skiing",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/freestyle-skiing.svg?v=1700583342",
+        "class": "gsa-w-full"
+      },
+      {
+        "alt": "Gymnastics",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/gymnastics.svg?v=1732708957",
+        "class": "gsa-w-full"
+      },
+      {
+        "alt": "Handball",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/handball.svg?v=1732708957",
+        "class": "gsa-w-full"
+      },
+      {
+        "alt": "Ice Hockey",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/ice-hockey.svg?v=1732708957",
+        "class": "gsa-w-full"
+      },
+      {
+        "alt": "Kabaddi",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/kabaddi.svg?v=1732708957",
+        "class": "gsa-w-full"
+      },
+      {
+        "alt": "League of Legends",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/leagueoflegends.svg?v=1732708957",
+        "class": "gsa-w-full"
+      },
+      {
+        "alt": "Luge",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/luge.svg?v=1732788816",
+        "class": "gsa-w-full"
+      },
+      {
+        "alt": "Modern Pentathlon",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/modern-pentathlon.svg?v=1732708957",
+        "class": "gsa-w-full"
+      },
+      {
+        "alt": "Motorsports",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/motorsports.svg?v=1732708957",
+        "class": "gsa-w-full"
+      },
+      {
+        "alt": "Nordic Combined",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/nordic-combined.svg?v=1732708957",
+        "class": "gsa-w-full"
+      },
+      {
+        "alt": "Overwatch",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/overwatch.svg?v=1736326195",
+        "class": "gsa-w-full"
+      },
+      {
+        "alt": "Powerlifting",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/powerlifting.svg?v=1732795454",
+        "class": "gsa-w-full"
+      },
+      {
+        "alt": "Rainbow Six",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/rainbowsix.svg?v=1732708957",
+        "class": "gsa-w-full"
+      },
+      {
+        "alt": "Rocket League",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/rocketleague.svg?v=1732708957",
+        "class": "gsa-w-full"
+      },
+      {
+        "alt": "Rowing",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/rowing.svg?v=1732708957",
+        "class": "gsa-w-full"
+      },
+      {
+        "alt": "Rugby",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/rugby.svg?v=1732708957",
+        "class": "gsa-w-full"
+      },
+      {
+        "alt": "Sailing",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/sailing.svg?v=1732708957",
+        "class": "gsa-w-full"
+      },
+      {
+        "alt": "Short track speed skating",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/short-track-speed-skating.svg?v=1732708957",
+        "class": "gsa-w-full"
+      },
+      {
+        "alt": "Skateboarding",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/skateboarding.svg?v=1732708957",
+        "class": "gsa-w-full"
+      },
+      {
+        "alt": "Ski Jumping",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/ski-jumping.svg?v=1732708957",
+        "class": "gsa-w-full"
+      },
+      {
+        "alt": "Snowboarding",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/snowboarding.svg?v=1732708957",
+        "class": "gsa-w-full"
+      },
+      {
+        "alt": "Soccer",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/soccer.svg?v=1732708957",
+        "class": "gsa-w-full"
+      },
+      {
+        "alt": "Speed skating",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/speed-skating.svg?v=1732708957",
+        "class": "gsa-w-full"
+      },
+      {
+        "alt": "Surfing",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/surfing.svg?v=1732708957",
+        "class": "gsa-w-full"
+      },
+      {
+        "alt": "Swimming",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/swimming.svg?v=1732708957",
+        "class": "gsa-w-full"
+      },
+      {
+        "alt": "Table Tennis",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/table-tennis.svg?v=1736326195",
+        "class": "gsa-w-full"
+      },
+      {
+        "alt": "Tennis",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/tennis.svg?v=1732708957",
+        "class": "gsa-w-full"
+      },
+      {
+        "alt": "Triathlon",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/triathlon.svg?v=1732708957",
+        "class": "gsa-w-full"
+      },
+      {
+        "alt": "Volleyball",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/volleyball.svg?v=1732708957",
+        "class": "gsa-w-full"
+      },
+      {
+        "alt": "Water Polo",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/water-polo.svg?v=1736326195",
+        "class": "gsa-w-full"
+      },
+      {
+        "alt": "Weightlifting",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/sports/weightlifting.svg?v=1732708957",
+        "class": "gsa-w-full"
+      },
+      {
+        "alt": "Soccer Banner",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/banner/soccer_desk.png?v=1734445887",
+        "class": "gsa-comp-banner gsa-d-sm-none gsa-w-full"
+      },
+      {
+        "alt": "close",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/icons/black-close.svg?v=1732708957",
+        "class": ""
+      },
+      {
+        "alt": "logo",
+        "src": "https://www.dsg-images.com/comps/100x100/106_3.png",
+        "class": "gsa-competition-summary__back"
+      },
+      {
+        "alt": "logo of Albi Mall Superliga 2026/2027",
+        "src": "https://www.dsg-images.com/comps/100x100/106_3.png",
+        "class": "gsa-competition-summary__logo gsa-mr-3"
+      },
+      {
+        "alt": "logo of Albi Mall Superliga 2026/2027",
+        "src": "https://www.dsg-images.com/comps/100x100/106_3.png",
+        "class": "gsa-competition-summary__mobile-logo gsa-mr-3"
+      },
+      {
+        "alt": "website",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/icons/grey-website.svg?v=1733497774",
+        "class": "gsa-competition-summary__sites-icon__img"
+      },
+      {
+        "alt": "instagram",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/icons/grey-instagram.svg?v=1732708957",
+        "class": "gsa-competition-summary__sites-icon__img"
+      },
+      {
+        "alt": "youtube",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/icons/grey-youtube.svg?v=1732708957",
+        "class": "gsa-competition-summary__sites-icon__img"
+      },
+      {
+        "alt": "facebook",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/icons/grey-facebook.svg?v=1732708957",
+        "class": "gsa-competition-summary__sites-icon__img"
+      },
+      {
+        "alt": "twitter",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/icons/grey-twitter.svg?v=1732708957",
+        "class": "gsa-competition-summary__sites-icon__img"
+      },
+      {
+        "alt": "logo of SC Gjilani",
+        "src": "https://dsg-images.com/clubs/50x50/14714.png",
+        "class": "gsa-match-row__logo"
+      },
+      {
+        "alt": "logo of KF Llapi",
+        "src": "https://dsg-images.com/clubs/50x50/14722.png",
+        "class": "gsa-match-row__logo"
+      },
+      {
+        "alt": "Lineups available",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/icons/grey_shirt.svg?v=1743779439",
+        "class": ""
+      },
+      {
+        "alt": "logo of FC Vushtrria",
+        "src": "https://dsg-images.com/clubs/50x50/14707.png",
+        "class": "gsa-match-row__logo"
+      },
+      {
+        "alt": "logo of FC Ballkani",
+        "src": "https://dsg-images.com/clubs/50x50/14715.png",
+        "class": "gsa-match-row__logo"
+      },
+      {
+        "alt": "Lineups available",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/icons/grey_shirt.svg?v=1743779439",
+        "class": ""
+      },
+      {
+        "alt": "logo of KF Drenica",
+        "src": "https://www.dsg-images.com/sport_entity/50x50/5615.png",
+        "class": "gsa-match-row__logo"
+      },
+      {
+        "alt": "logo of FC Malisheva",
+        "src": "https://dsg-images.com/clubs/50x50/50994.png",
+        "class": "gsa-match-row__logo"
+      },
+      {
+        "alt": "Lineups available",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/icons/grey_shirt.svg?v=1743779439",
+        "class": ""
+      },
+      {
+        "alt": "logo of FC Feronikeli 74",
+        "src": "https://dsg-images.com/clubs/50x50/14705.png",
+        "class": "gsa-match-row__logo"
+      },
+      {
+        "alt": "logo of KF Dukagjini Klinë",
+        "src": "https://dsg-images.com/clubs/50x50/14721.png",
+        "class": "gsa-match-row__logo"
+      },
+      {
+        "alt": "Lineups available",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/icons/grey_shirt.svg?v=1743779439",
+        "class": ""
+      },
+      {
+        "alt": "logo of FC Prishtina",
+        "src": "https://dsg-images.com/clubs/50x50/14698.png",
+        "class": "gsa-match-row__logo"
+      },
+      {
+        "alt": "logo of FC Drita",
+        "src": "https://dsg-images.com/clubs/50x50/14700.png",
+        "class": "gsa-match-row__logo"
+      },
+      {
+        "alt": "Lineups available",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/icons/grey_shirt.svg?v=1743779439",
+        "class": ""
+      },
+      {
+        "alt": "logo of FC Malisheva",
+        "src": "https://www.dsg-images.com/clubs/30x30/50994.png",
+        "class": "gsa-w-full"
+      },
+      {
+        "alt": "logo of FC Prishtina",
+        "src": "https://www.dsg-images.com/clubs/30x30/14698.png",
+        "class": "gsa-w-full"
+      },
+      {
+        "alt": "logo of SC Gjilani",
+        "src": "https://www.dsg-images.com/clubs/30x30/14714.png",
+        "class": "gsa-w-full"
+      },
+      {
+        "alt": "logo of FC Drita",
+        "src": "https://www.dsg-images.com/clubs/30x30/14700.png",
+        "class": "gsa-w-full"
+      },
+      {
+        "alt": "logo of KF Dukagjini Klinë",
+        "src": "https://www.dsg-images.com/clubs/30x30/14721.png",
+        "class": "gsa-w-full"
+      },
+      {
+        "alt": "logo of FC Ballkani",
+        "src": "https://www.dsg-images.com/clubs/30x30/14715.png",
+        "class": "gsa-w-full"
+      },
+      {
+        "alt": "logo of KF Drenica",
+        "src": "https://www.dsg-images.com/sport_entity/30x30/5615.png",
+        "class": "gsa-w-full"
+      },
+      {
+        "alt": "logo of FC Feronikeli 74",
+        "src": "https://www.dsg-images.com/clubs/30x30/14705.png",
+        "class": "gsa-w-full"
+      },
+      {
+        "alt": "logo of KF Llapi",
+        "src": "https://www.dsg-images.com/clubs/30x30/14722.png",
+        "class": "gsa-w-full"
+      },
+      {
+        "alt": "logo of FC Vushtrria",
+        "src": "https://www.dsg-images.com/clubs/30x30/14707.png",
+        "class": "gsa-w-full"
+      },
+      {
+        "alt": "Soccer Banner",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/footer-banner/soccer_desk.png?v=1734445887",
+        "class": "gsa-footer__banners-banner__image gsa-d-sm-none gsa-w-full"
+      },
+      {
+        "alt": "Soccer Banner",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/footer-banner/soccer_mob.png?v=1734445887",
+        "class": "gsa-footer__banners-banner__image gsa-d-none gsa-d-sm-flex gsa-w-full"
+      },
+      {
+        "alt": "Basketball Banner",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/footer-banner/basketball_desk.png?v=1734445887",
+        "class": "gsa-footer__banners-banner__image gsa-d-sm-none gsa-w-full"
+      },
+      {
+        "alt": "Basketball Banner",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/footer-banner/basketball_mob.png?v=1734445887",
+        "class": "gsa-footer__banners-banner__image gsa-d-none gsa-d-sm-flex gsa-w-full"
+      },
+      {
+        "alt": "Tennis Banner",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/footer-banner/tennis_desk.png?v=1734445887",
+        "class": "gsa-footer__banners-banner__image gsa-d-sm-none gsa-w-full"
+      },
+      {
+        "alt": "Tennis Banner",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/footer-banner/tennis_mob.png?v=1734445887",
+        "class": "gsa-footer__banners-banner__image gsa-d-none gsa-d-sm-flex gsa-w-full"
+      },
+      {
+        "alt": "Cricket Banner",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/footer-banner/cricket_desk.png?v=1734445887",
+        "class": "gsa-footer__banners-banner__image gsa-d-sm-none gsa-w-full"
+      },
+      {
+        "alt": "Cricket Banner",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/footer-banner/cricket_mob.png?v=1734445887",
+        "class": "gsa-footer__banners-banner__image gsa-d-none gsa-d-sm-flex gsa-w-full"
+      },
+      {
+        "alt": "Global Sports Archive Logo",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/logo.svg?v=1732708957",
+        "class": "gsa-footer__nav-logo"
+      },
+      {
+        "alt": "twitter",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/icons/twitter.svg?v=1732708957",
+        "class": ""
+      },
+      {
+        "alt": "Today",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/icons/matches.svg?v=1736326195",
+        "class": "gsa-bottom-nav__item-img"
+      },
+      {
+        "alt": "Leagues",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/icons/white-cup.svg?v=1736326195",
+        "class": "gsa-bottom-nav__item-img"
+      },
+      {
+        "alt": "Sports",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/icons/menu-goal.svg?v=1742545075",
+        "class": "gsa-bottom-nav__item-img"
+      },
+      {
+        "alt": "Favourites",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/icons/favorites.svg?v=1736326195",
+        "class": "gsa-bottom-nav__item-img"
+      },
+      {
+        "alt": "Profile",
+        "src": "https://globalsportsarchive.com/en/resources/assets/images/icons/profile.svg?v=1736326195",
+        "class": "gsa-bottom-nav__item-img"
+      }
+    ],
+    "html_bytes": 100470
+  },
+  "Bosnia competition": {
+    "status": 200,
+    "title": "WWIN liga Bosne i Hercegovine 2026/27",
+    "images": [
+      {
+        "alt": "NFSBiH",
+        "src": "https://www.nfsbih.ba/templates/nfsbih2/images/logo.png",
+        "class": ""
+      },
+      {
+        "alt": "English (UK)",
+        "src": "https://www.nfsbih.ba/templates/nfsbih/images/flags/en_gb.png",
+        "class": ""
+      },
+      {
+        "alt": "UEFA.COM",
+        "src": "https://www.nfsbih.ba/images/0A-WU-17-2022/SRP_uefa.com.png",
+        "class": ""
+      },
+      {
+        "alt": "",
+        "src": "https://www.nfsbih.ba/images/2023-A/mbckg11.jpg",
+        "class": "img-responsive"
+      },
+      {
+        "alt": "",
+        "src": "https://www.nfsbih.ba/images/2026-D/008_avgust/WWin1.png",
+        "class": "img-responsive"
+      },
+      {
+        "alt": "select banner 02",
+        "src": "https://www.nfsbih.ba/images/2018-A/select-banner-04.png",
+        "class": "img-responsive"
+      },
+      {
+        "alt": "",
+        "src": "https://www.nfsbih.ba/nsbih_userfiles/image/tim/517.gif",
+        "class": "grb"
+      },
+      {
+        "alt": "",
+        "src": "https://www.nfsbih.ba/nsbih_userfiles/image/tim/530.gif",
+        "class": "grb"
+      },
+      {
+        "alt": "",
+        "src": "https://www.nfsbih.ba/nsbih_userfiles/image/tim/831.gif",
+        "class": "grb"
+      },
+      {
+        "alt": "",
+        "src": "https://www.nfsbih.ba/nsbih_userfiles/image/tim/462.gif",
+        "class": "grb"
+      },
+      {
+        "alt": "",
+        "src": "https://www.nfsbih.ba/nsbih_userfiles/image/tim/409.gif",
+        "class": "grb"
+      },
+      {
+        "alt": "",
+        "src": "https://www.nfsbih.ba/nsbih_userfiles/image/tim/411.gif",
+        "class": "grb"
+      },
+      {
+        "alt": "",
+        "src": "https://www.nfsbih.ba/nsbih_userfiles/image/tim/424.gif",
+        "class": "grb"
+      },
+      {
+        "alt": "",
+        "src": "https://www.nfsbih.ba/nsbih_userfiles/image/tim/593.gif",
+        "class": "grb"
+      },
+      {
+        "alt": "",
+        "src": "https://www.nfsbih.ba/nsbih_userfiles/image/tim/607.gif",
+        "class": "grb"
+      },
+      {
+        "alt": "",
+        "src": "https://www.nfsbih.ba/nsbih_userfiles/image/tim/436.gif",
+        "class": "grb"
+      },
+      {
+        "alt": "",
+        "src": "https://www.nfsbih.ba/nsbih_userfiles/image/tim/517.gif",
+        "class": "grb"
+      },
+      {
+        "alt": "",
+        "src": "https://www.nfsbih.ba/nsbih_userfiles/image/tim/424.gif",
+        "class": "grb"
+      },
+      {
+        "alt": "",
+        "src": "https://www.nfsbih.ba/nsbih_userfiles/image/tim/409.gif",
+        "class": "grb"
+      },
+      {
+        "alt": "",
+        "src": "https://www.nfsbih.ba/nsbih_userfiles/image/tim/831.gif",
+        "class": "grb"
+      },
+      {
+        "alt": "",
+        "src": "https://www.nfsbih.ba/nsbih_userfiles/image/tim/411.gif",
+        "class": "grb"
+      },
+      {
+        "alt": "",
+        "src": "https://www.nfsbih.ba/nsbih_userfiles/image/tim/462.gif",
+        "class": "grb"
+      },
+      {
+        "alt": "",
+        "src": "https://www.nfsbih.ba/nsbih_userfiles/image/tim/436.gif",
+        "class": "grb"
+      },
+      {
+        "alt": "",
+        "src": "https://www.nfsbih.ba/nsbih_userfiles/image/tim/593.gif",
+        "class": "grb"
+      },
+      {
+        "alt": "",
+        "src": "https://www.nfsbih.ba/nsbih_userfiles/image/tim/530.gif",
+        "class": "grb"
+      },
+      {
+        "alt": "",
+        "src": "https://www.nfsbih.ba/nsbih_userfiles/image/tim/607.gif",
+        "class": "grb"
+      },
+      {
+        "alt": "Be a Referee 9x16 NA Bosnia and Herzegovina",
+        "src": "https://www.nfsbih.ba/images/ZENSKA-A-REPREZENTACIJA-FOTO/GRBOVI_REPREZENTACIJA/Be_a_Referee_-_9x16_-_NA_Bosnia_and_Herzegovina.jpg",
+        "class": ""
+      },
+      {
+        "alt": "logo wide",
+        "src": "https://www.nfsbih.ba/images/UEFA_PLAYMAKERS/logo-wide.png",
+        "class": "padded img-responsive grayscale"
+      },
+      {
+        "alt": "",
+        "src": "https://www.nfsbih.ba/img/link_baner_3.jpg",
+        "class": ""
+      },
+      {
+        "alt": "Kelme",
+        "src": "https://www.nfsbih.ba/images/sponsors/2026/kelme.png",
+        "class": "img-responsive center-block grayscale"
+      },
+      {
+        "alt": "Coca Cola",
+        "src": "https://www.nfsbih.ba/images/sponsors/2026/coca_cola.png",
+        "class": "img-responsive center-block grayscale"
+      },
+      {
+        "alt": "Raiffeisen Bank",
+        "src": "https://www.nfsbih.ba/images/sponsors/2026/raiffeisen_bank.png",
+        "class": "img-responsive center-block grayscale"
+      },
+      {
+        "alt": "ASA Central osiguranje",
+        "src": "https://www.nfsbih.ba/images/sponsors/2026/asa_central_osig.png",
+        "class": "img-responsive center-block grayscale"
+      },
+      {
+        "alt": "Toyota",
+        "src": "https://www.nfsbih.ba/images/sponsors/2026/toyota.png",
+        "class": "img-responsive center-block grayscale"
+      },
+      {
+        "alt": "Violeta",
+        "src": "https://www.nfsbih.ba/images/sponsors/2026/violeta.png",
+        "class": "img-responsive center-block grayscale"
+      },
+      {
+        "alt": "Zlatna dzezva",
+        "src": "https://www.nfsbih.ba/images/sponsors/2026/zlatna_dzezva.png",
+        "class": "img-responsive center-block grayscale"
+      },
+      {
+        "alt": "Lutrija BiH",
+        "src": "https://www.nfsbih.ba/images/sponsors/2026/lutrija_bih.png",
+        "class": "img-responsive center-block grayscale"
+      },
+      {
+        "alt": "Dnevni Avaz",
+        "src": "https://www.nfsbih.ba/images/sponsors/2026/dnevni_avaz.png",
+        "class": "img-responsive center-block grayscale"
+      },
+      {
+        "alt": "Moj san",
+        "src": "https://www.nfsbih.ba/images/sponsors/2026/moj_san.png",
+        "class": "img-responsive center-block grayscale"
+      },
+      {
+        "alt": "Struktura",
+        "src": "https://www.nfsbih.ba/images/sponsors/2026/struktura_jajce.png",
+        "class": "img-responsive center-block grayscale"
+      },
+      {
+        "alt": "Kovgrad",
+        "src": "https://www.nfsbih.ba/images/sponsors/2026/kovgrad_buzim.png",
+        "class": "img-responsive center-block grayscale"
+      },
+      {
+        "alt": "Dobojputevi",
+        "src": "https://www.nfsbih.ba/images/sponsors/2026/doboj_putevi.png",
+        "class": "img-responsive center-block grayscale"
+      },
+      {
+        "alt": "Međunarodni aerodrom Sarajevo",
+        "src": "https://www.nfsbih.ba/images/sponsors/2026/aerodrom_sarajevo_small.png",
+        "class": "img-responsive center-block grayscale"
+      },
+      {
+        "alt": "Maestro Suits",
+        "src": "https://www.nfsbih.ba/images/sponsors/2026/maestro_suits_small.png",
+        "class": "img-responsive center-block grayscale"
+      },
+      {
+        "alt": "Big Bang",
+        "src": "https://www.nfsbih.ba/images/sponsors/2026/big_bang_small.png",
+        "class": "img-responsive center-block grayscale"
+      },
+      {
+        "alt": "BH GAS",
+        "src": "https://www.nfsbih.ba/images/sponsors/2026/bh_gas.png",
+        "class": "img-responsive center-block grayscale"
+      },
+      {
+        "alt": "",
+        "src": "https://www.nfsbih.ba/images/sponsors/vlada_fbih_logo.png",
+        "class": "img-responsive grayscale"
+      },
+      {
+        "alt": "mob apps nsbih",
+        "src": "https://www.nfsbih.ba/images/2026-D/mob_apps_nsbih.png",
+        "class": ""
+      },
+      {
+        "alt": "applestore",
+        "src": "https://www.nfsbih.ba/images/2026-D/applestore.png",
+        "class": ""
+      },
+      {
+        "alt": "googleplay",
+        "src": "https://www.nfsbih.ba/images/2026-D/googleplay.png",
+        "class": ""
+      },
+      {
+        "alt": "mob apps tribina",
+        "src": "https://www.nfsbih.ba/images/2026-D/mob_apps_tribina.png",
+        "class": ""
+      },
+      {
+        "alt": "applestore",
+        "src": "https://www.nfsbih.ba/images/2026-D/applestore.png",
+        "class": ""
+      },
+      {
+        "alt": "googleplay",
+        "src": "https://www.nfsbih.ba/images/2026-D/googleplay.png",
+        "class": ""
+      }
+    ],
+    "html_bytes": 62258
+  },
+  "FK BSK": {
+    "status": 200,
+    "title": "FK BSK Banja Luka - Wikipedia",
+    "images": [
+      {
+        "alt": "",
+        "src": "https://en.wikipedia.org/static/images/icons/enwiki-25.svg",
+        "class": "mw-logo-icon"
+      },
+      {
+        "alt": "Wikipedia",
+        "src": "https://en.wikipedia.org/static/images/mobile/copyright/wikipedia-wordmark-en-25.svg",
+        "class": "mw-logo-wordmark"
+      },
+      {
+        "alt": "The Free Encyclopedia",
+        "src": "https://en.wikipedia.org/static/images/mobile/copyright/wikipedia-tagline-en-25.svg",
+        "class": "mw-logo-tagline"
+      },
+      {
+        "alt": "",
+        "src": "https://thumb.wikimedia.org/wikipedia/en/thumb/1/15/FK_BSK_Banja_Luka_%281%29.png/250px-FK_BSK_Banja_Luka_%281%29.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "class": "mw-file-element"
+      },
+      {
+        "alt": "",
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Kit_left_arm.svg/40px-Kit_left_arm.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "class": "mw-file-element"
+      },
+      {
+        "alt": "",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Kit_body_whitestripes.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+        "class": "mw-file-element"
+      },
+      {
+        "alt": "",
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Kit_body.svg/40px-Kit_body.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "class": "mw-file-element"
+      },
+      {
+        "alt": "",
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Kit_right_arm.svg/40px-Kit_right_arm.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "class": "mw-file-element"
+      },
+      {
+        "alt": "",
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Kit_shorts.svg/120px-Kit_shorts.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "class": "mw-file-element"
+      },
+      {
+        "alt": "",
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Kit_socks_long.svg/120px-Kit_socks_long.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "class": "mw-file-element"
+      },
+      {
+        "alt": "",
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Kit_left_arm.svg/40px-Kit_left_arm.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "class": "mw-file-element"
+      },
+      {
+        "alt": "",
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Kit_body.svg/40px-Kit_body.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "class": "mw-file-element"
+      },
+      {
+        "alt": "",
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Kit_right_arm.svg/40px-Kit_right_arm.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "class": "mw-file-element"
+      },
+      {
+        "alt": "",
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Kit_shorts.svg/120px-Kit_shorts.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "class": "mw-file-element"
+      },
+      {
+        "alt": "",
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Kit_socks_long.svg/120px-Kit_socks_long.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "class": "mw-file-element"
+      },
+      {
+        "alt": "",
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/40px-Flag_of_Bosnia_and_Herzegovina.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "class": "mw-file-element"
+      },
+      {
+        "alt": "",
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/40px-Flag_of_Senegal.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "class": "mw-file-element"
+      },
+      {
+        "alt": "",
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/40px-Flag_of_Bosnia_and_Herzegovina.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "class": "mw-file-element"
+      },
+      {
+        "alt": "",
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/40px-Flag_of_Bosnia_and_Herzegovina.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "class": "mw-file-element"
+      },
+      {
+        "alt": "",
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/40px-Flag_of_Bosnia_and_Herzegovina.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "class": "mw-file-element"
+      },
+      {
+        "alt": "",
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/40px-Flag_of_Bosnia_and_Herzegovina.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "class": "mw-file-element"
+      },
+      {
+        "alt": "",
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/40px-Flag_of_Bosnia_and_Herzegovina.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "class": "mw-file-element"
+      },
+      {
+        "alt": "",
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/40px-Flag_of_Bosnia_and_Herzegovina.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "class": "mw-file-element"
+      },
+      {
+        "alt": "",
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/40px-Flag_of_Serbia.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "class": "mw-file-element"
+      },
+      {
+        "alt": "",
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/40px-Flag_of_Bosnia_and_Herzegovina.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "class": "mw-file-element"
+      },
+      {
+        "alt": "",
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/40px-Flag_of_Bosnia_and_Herzegovina.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "class": "mw-file-element"
+      },
+      {
+        "alt": "",
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/40px-Flag_of_Bosnia_and_Herzegovina.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "class": "mw-file-element"
+      },
+      {
+        "alt": "",
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/40px-Flag_of_Bosnia_and_Herzegovina.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "class": "mw-file-element"
+      },
+      {
+        "alt": "",
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/40px-Flag_of_Bosnia_and_Herzegovina.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "class": "mw-file-element"
+      },
+      {
+        "alt": "",
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/40px-Flag_of_Bosnia_and_Herzegovina.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "class": "mw-file-element"
+      },
+      {
+        "alt": "",
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/40px-Flag_of_Bosnia_and_Herzegovina.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "class": "mw-file-element"
+      },
+      {
+        "alt": "",
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/40px-Flag_of_Bosnia_and_Herzegovina.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "class": "mw-file-element"
+      },
+      {
+        "alt": "",
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/40px-Flag_of_Austria.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "class": "mw-file-element"
+      },
+      {
+        "alt": "",
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/40px-Flag_of_Bosnia_and_Herzegovina.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "class": "mw-file-element"
+      },
+      {
+        "alt": "",
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/40px-Flag_of_Bosnia_and_Herzegovina.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "class": "mw-file-element"
+      },
+      {
+        "alt": "",
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/40px-Flag_of_Bosnia_and_Herzegovina.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "class": "mw-file-element"
+      },
+      {
+        "alt": "",
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/40px-Flag_of_Austria.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "class": "mw-file-element"
+      },
+      {
+        "alt": "",
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/40px-Flag_of_Croatia.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "class": "mw-file-element"
+      },
+      {
+        "alt": "",
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/40px-Flag_of_Bosnia_and_Herzegovina.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "class": "mw-file-element"
+      },
+      {
+        "alt": "",
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/40px-Flag_of_Croatia.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "class": "mw-file-element"
+      },
+      {
+        "alt": "",
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_North_Macedonia.svg/40px-Flag_of_North_Macedonia.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "class": "mw-file-element"
+      },
+      {
+        "alt": "",
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/40px-Flag_of_Bosnia_and_Herzegovina.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "class": "mw-file-element"
+      },
+      {
+        "alt": "",
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/40px-Flag_of_Bosnia_and_Herzegovina.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "class": "mw-file-element"
+      },
+      {
+        "alt": "",
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/40px-Flag_of_Bosnia_and_Herzegovina.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "class": "mw-file-element"
+      },
+      {
+        "alt": "",
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/40px-Flag_of_Bosnia_and_Herzegovina.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "class": "mw-file-element"
+      },
+      {
+        "alt": "",
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/40px-Flag_of_Bosnia_and_Herzegovina.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "class": "mw-file-element"
+      },
+      {
+        "alt": "",
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/40px-Flag_of_Bosnia_and_Herzegovina.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "class": "mw-file-element"
+      },
+      {
+        "alt": "Bosnia and Herzegovina",
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/40px-Flag_of_Bosnia_and_Herzegovina.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "class": "mw-file-element"
+      },
+      {
+        "alt": "Flag of Bosnia and Herzegovina",
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/60px-Flag_of_Bosnia_and_Herzegovina.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "class": "mw-file-element"
+      },
+      {
+        "alt": "Soccer icon",
+        "src": "https://thumb.wikimedia.org/wikipedia/en/thumb/4/4e/Soccerball_mask.svg/60px-Soccerball_mask.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "class": "mw-file-element"
+      },
+      {
+        "alt": "",
+        "src": "https://en.wikipedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&type=1x1&usesul3=1",
+        "class": ""
+      },
+      {
+        "alt": "Wikimedia Foundation",
+        "src": "https://en.wikipedia.org/static/images/footer/wikimedia.svg",
+        "class": ""
+      },
+      {
+        "alt": "Powered by MediaWiki",
+        "src": "https://en.wikipedia.org/w/resources/assets/mediawiki_compact.svg",
+        "class": ""
+      }
+    ],
+    "html_bytes": 194693
+  }
+}
