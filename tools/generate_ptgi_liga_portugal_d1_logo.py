@@ -11,7 +11,7 @@ r.raise_for_status()
 logo=Image.open(io.BytesIO(r.content)).convert("RGBA")
 assert logo.width>=200 and logo.height>=200,(logo.size)
 logo.thumbnail((470,485),Image.Resampling.LANCZOS)
-canvas=Image.new("RGBA",(512,512),(0,0,0,0))
+canvas=Image.new("RGBA",(512,512),(255,255,255,255))
 canvas.alpha_composite(logo,((512-logo.width)//2,(512-logo.height)//2))
 target=out/"liga_portugal_d1_logo.png"
 canvas.save(target,format="PNG",optimize=True)
