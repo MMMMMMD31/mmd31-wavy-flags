@@ -1,0 +1,34 @@
+name: MMD31 East Europe D2 2026 true crest pipeline
+on:
+  push:
+    branches: [mmd31-east-europe-d1-2026-v13-badges]
+    paths:
+      - .github/workflows/mmd31-east-europe-2026-d2-badges.yml
+      - east-europe-d2-2026/clubs.csv
+      - east-europe-d2-2026/generate.py
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 24
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: mmd31-east-europe-d1-2026-v13-badges
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install requests pillow cairosvg
+      - run: python east-europe-d2-2026/generate.py
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add east-europe-d2-2026/badges-manifest.json
+          if [ -d docs/club-flags/east-europe-d2-2026 ]; then git add docs/club-flags/east-europe-d2-2026; fi
+          if ! git diff --cached --quiet; then
+            git commit -m "Publish verified-source D2 club crests (120x96)"
+            git push
+          fi
