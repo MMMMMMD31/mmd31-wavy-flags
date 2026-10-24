@@ -1,0 +1,687 @@
+{
+  "assets": [
+    {
+      "id": 1900262703000,
+      "name": "Koninklijke Eendracht Aalst Lede",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Koninklijke+Eendracht+Aalst+Lede"
+    },
+    {
+      "id": 1900262703001,
+      "name": "KV Diksmuide-Oostende",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=KV+Diksmuide-Oostende"
+    },
+    {
+      "id": 1900262703002,
+      "name": "Racing Club Gent",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Racing+Club+Gent"
+    },
+    {
+      "id": 1900262703003,
+      "name": "KFC Vigor Wuitens Hamme",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=KFC+Vigor+Wuitens+Hamme"
+    },
+    {
+      "id": 1900262703004,
+      "status": "PARENT_REUSED_IN_JSON",
+      "name": "SV Zulte Waregem B"
+    },
+    {
+      "id": 1900262703005,
+      "status": "PARENT_REUSED_IN_JSON",
+      "name": "KV Mechelen B"
+    },
+    {
+      "id": 1900262703006,
+      "name": "KFC HO Kalken",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=KFC+HO+Kalken"
+    },
+    {
+      "id": 1900262703007,
+      "name": "FC Lebbeke",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=FC+Lebbeke"
+    },
+    {
+      "id": 1900262703008,
+      "name": "K Londerzeel SK",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=K+Londerzeel+SK"
+    },
+    {
+      "id": 1900262703009,
+      "name": "VK Ninove",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=VK+Ninove"
+    },
+    {
+      "id": 1900262703010,
+      "name": "KSV Oudenaarde",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=KSV+Oudenaarde"
+    },
+    {
+      "id": 1900262703011,
+      "name": "KVCSV Oostkamp",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=KVCSV+Oostkamp"
+    },
+    {
+      "id": 1900262703012,
+      "name": "Sparta Petegem-Deinze",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Sparta+Petegem-Deinze"
+    },
+    {
+      "id": 1900262703013,
+      "name": "KM Torhout",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=KM+Torhout"
+    },
+    {
+      "id": 1900262703014,
+      "name": "KFC Voorde-Appelterre",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=KFC+Voorde-Appelterre"
+    },
+    {
+      "id": 1900262703015,
+      "name": "RFC Wetteren",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=RFC+Wetteren"
+    },
+    {
+      "id": 1900262703016,
+      "name": "Bocholter VV",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Bocholter+VV"
+    },
+    {
+      "id": 1900262703017,
+      "name": "R Cappellen FC",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=R+Cappellen+FC"
+    },
+    {
+      "id": 1900262703018,
+      "name": "KFC De Kempen TL",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=KFC+De+Kempen+TL"
+    },
+    {
+      "id": 1900262703019,
+      "name": "K Diegem Sport",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=K+Diegem+Sport"
+    },
+    {
+      "id": 1900262703020,
+      "name": "RC Hades Kiewit",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=RC+Hades+Kiewit"
+    },
+    {
+      "id": 1900262703021,
+      "name": "K Racing Mechelen",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=K+Racing+Mechelen"
+    },
+    {
+      "id": 1900262703022,
+      "name": "KFC Nijlen",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=KFC+Nijlen"
+    },
+    {
+      "id": 1900262703023,
+      "name": "Tempo Overijse",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Tempo+Overijse"
+    },
+    {
+      "id": 1900262703024,
+      "name": "Sportief Rotselaar",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Sportief+Rotselaar"
+    },
+    {
+      "id": 1900262703025,
+      "name": "Rupel Boom",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Rupel+Boom"
+    },
+    {
+      "id": 1900262703026,
+      "status": "PARENT_REUSED_IN_JSON",
+      "name": "Sint-Truidense VV B"
+    },
+    {
+      "id": 1900262703027,
+      "name": "Eendracht Termien",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Eendracht+Termien"
+    },
+    {
+      "id": 1900262703028,
+      "name": "KSK Tongeren",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=KSK+Tongeren"
+    },
+    {
+      "id": 1900262703029,
+      "name": "KVK Wellen",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=KVK+Wellen"
+    },
+    {
+      "id": 1900262703030,
+      "name": "KVC Wilrijk",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=KVC+Wilrijk"
+    },
+    {
+      "id": 1900262703031,
+      "status": "PARENT_REUSED_IN_JSON",
+      "name": "Royal Antwerp FC B"
+    },
+    {
+      "id": 1900262703032,
+      "name": "RUS Acren-Lessines",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=RUS+Acren-Lessines"
+    },
+    {
+      "id": 1900262703033,
+      "name": "R Aywaille FC",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=R+Aywaille+FC"
+    },
+    {
+      "id": 1900262703034,
+      "name": "RUS Binche",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=RUS+Binche"
+    },
+    {
+      "id": 1900262703035,
+      "name": "RCS Brainois",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=RCS+Brainois"
+    },
+    {
+      "id": 1900262703036,
+      "status": "PARENT_REUSED_IN_JSON",
+      "name": "KAS Eupen U23"
+    },
+    {
+      "id": 1900262703037,
+      "name": "FC Ganshoren",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=FC+Ganshoren"
+    },
+    {
+      "id": 1900262703038,
+      "name": "Union Hutoise",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Union+Hutoise"
+    },
+    {
+      "id": 1900262703039,
+      "name": "RSD Jette",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=RSD+Jette"
+    },
+    {
+      "id": 1900262703040,
+      "name": "RFC La Calamine",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=RFC+La+Calamine"
+    },
+    {
+      "id": 1900262703041,
+      "name": "RFC Manageoise",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=RFC+Manageoise"
+    },
+    {
+      "id": 1900262703042,
+      "name": "Stade Mouscronnois",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Stade+Mouscronnois"
+    },
+    {
+      "id": 1900262703043,
+      "name": "Ostiches-Ath",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Ostiches-Ath"
+    },
+    {
+      "id": 1900262703044,
+      "name": "Richelle United",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Richelle+United"
+    },
+    {
+      "id": 1900262703045,
+      "name": "Crossing Schaerbeek",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Crossing+Schaerbeek"
+    },
+    {
+      "id": 1900262703046,
+      "name": "Union Saint-Ghislain Tertre Hautrage",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Union+Saint-Ghislain+Tertre+Hautrage"
+    },
+    {
+      "id": 1900262703047,
+      "name": "RRC Stockay-Warfusée",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=RRC+Stockay-Warfus%C3%A9e"
+    },
+    {
+      "id": 1900262703048,
+      "name": "UR Namur",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=UR+Namur"
+    },
+    {
+      "id": 1900262703049,
+      "name": "RCS Verviétois",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=RCS+Vervi%C3%A9tois"
+    },
+    {
+      "id": 1900262703050,
+      "name": "Avanti Stekene",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Avanti+Stekene"
+    },
+    {
+      "id": 1900262703051,
+      "name": "K Berchem Sport",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=K+Berchem+Sport"
+    },
+    {
+      "id": 1900262703052,
+      "name": "KSC Blankenberge",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=KSC+Blankenberge"
+    },
+    {
+      "id": 1900262703053,
+      "name": "Olsa Brakel",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Olsa+Brakel"
+    },
+    {
+      "id": 1900262703054,
+      "name": "SC City Pirates Antwerpen",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=SC+City+Pirates+Antwerpen"
+    },
+    {
+      "id": 1900262703055,
+      "name": "KVE Drongen",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=KVE+Drongen"
+    },
+    {
+      "id": 1900262703056,
+      "name": "Eendracht Elene-Grotenberge",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Eendracht+Elene-Grotenberge"
+    },
+    {
+      "id": 1900262703057,
+      "name": "KCVV Elewijt",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=KCVV+Elewijt"
+    },
+    {
+      "id": 1900262703058,
+      "name": "Erpe-Mere United",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Erpe-Mere+United"
+    },
+    {
+      "id": 1900262703059,
+      "name": "FC Gullegem",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=FC+Gullegem"
+    },
+    {
+      "id": 1900262703060,
+      "name": "KVK Ieper",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=KVK+Ieper"
+    },
+    {
+      "id": 1900262703061,
+      "name": "KWS Club Lauwe",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=KWS+Club+Lauwe"
+    },
+    {
+      "id": 1900262703062,
+      "name": "KSV Rumbeke",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=KSV+Rumbeke"
+    },
+    {
+      "id": 1900262703063,
+      "name": "KVV Sint-Denijs Sport",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=KVV+Sint-Denijs+Sport"
+    },
+    {
+      "id": 1900262703064,
+      "name": "KFC Wambeek-Ternat",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=KFC+Wambeek-Ternat"
+    },
+    {
+      "id": 1900262703065,
+      "name": "Zwevegem Sport",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Zwevegem+Sport"
+    },
+    {
+      "id": 1900262703066,
+      "name": "K Achel VV",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=K+Achel+VV"
+    },
+    {
+      "id": 1900262703067,
+      "name": "FC Averbode Testelt Okselaar",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=FC+Averbode+Testelt+Okselaar"
+    },
+    {
+      "id": 1900262703068,
+      "name": "K Berg en Dal VV",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=K+Berg+en+Dal+VV"
+    },
+    {
+      "id": 1900262703069,
+      "name": "KAC Betekom",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=KAC+Betekom"
+    },
+    {
+      "id": 1900262703070,
+      "name": "GS Bree-Beek",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=GS+Bree-Beek"
+    },
+    {
+      "id": 1900262703071,
+      "name": "Esperanza Pelt",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Esperanza+Pelt"
+    },
+    {
+      "id": 1900262703072,
+      "name": "ASV Geel",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=ASV+Geel"
+    },
+    {
+      "id": 1900262703073,
+      "name": "OHR Huldenberg",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=OHR+Huldenberg"
+    },
+    {
+      "id": 1900262703074,
+      "name": "KVC Lille United",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=KVC+Lille+United"
+    },
+    {
+      "id": 1900262703075,
+      "name": "VK Linden",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=VK+Linden"
+    },
+    {
+      "id": 1900262703076,
+      "status": "PARENT_REUSED_IN_JSON",
+      "name": "Lommel SK B"
+    },
+    {
+      "id": 1900262703077,
+      "name": "K Nieuwmoer FC",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=K+Nieuwmoer+FC"
+    },
+    {
+      "id": 1900262703078,
+      "name": "WS Schoonbeek-Beverst",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=WS+Schoonbeek-Beverst"
+    },
+    {
+      "id": 1900262703079,
+      "name": "KFC Sint-Lenaarts",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=KFC+Sint-Lenaarts"
+    },
+    {
+      "id": 1900262703080,
+      "name": "KFC Turnhout",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=KFC+Turnhout"
+    },
+    {
+      "id": 1900262703081,
+      "name": "FC Wezel Sport",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=FC+Wezel+Sport"
+    },
+    {
+      "id": 1900262703082,
+      "name": "KVV Zepperen-Brustem",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=KVV+Zepperen-Brustem"
+    },
+    {
+      "id": 1900262703083,
+      "name": "Arquet",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Arquet"
+    },
+    {
+      "id": 1900262703084,
+      "name": "R Biesme",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=R+Biesme"
+    },
+    {
+      "id": 1900262703085,
+      "name": "RCS Buzet",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=RCS+Buzet"
+    },
+    {
+      "id": 1900262703086,
+      "name": "RFC Ciney",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=RFC+Ciney"
+    },
+    {
+      "id": 1900262703087,
+      "name": "Evelette-Jallet",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Evelette-Jallet"
+    },
+    {
+      "id": 1900262703088,
+      "name": "Stade Everois",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Stade+Everois"
+    },
+    {
+      "id": 1900262703089,
+      "name": "USC Jemappes",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=USC+Jemappes"
+    },
+    {
+      "id": 1900262703090,
+      "name": "FC Kosova Schaerbeek",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=FC+Kosova+Schaerbeek"
+    },
+    {
+      "id": 1900262703091,
+      "name": "R Léopold FC",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=R+L%C3%A9opold+FC"
+    },
+    {
+      "id": 1900262703092,
+      "name": "RUS Molenbaix",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=RUS+Molenbaix"
+    },
+    {
+      "id": 1900262703093,
+      "name": "RUS Monceau",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=RUS+Monceau"
+    },
+    {
+      "id": 1900262703094,
+      "name": "SC Néchin",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=SC+N%C3%A9chin"
+    },
+    {
+      "id": 1900262703095,
+      "status": "PARENT_REUSED_IN_JSON",
+      "name": "Union Rochefortoise B"
+    },
+    {
+      "id": 1900262703096,
+      "name": "RUS Soignies",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=RUS+Soignies"
+    },
+    {
+      "id": 1900262703097,
+      "name": "Sporting Bruxelles",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Sporting+Bruxelles"
+    },
+    {
+      "id": 1900262703098,
+      "name": "Saint-Michel FC",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Saint-Michel+FC"
+    },
+    {
+      "id": 1900262703099,
+      "name": "FC Ans",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=FC+Ans"
+    },
+    {
+      "id": 1900262703100,
+      "name": "R Aubel FC",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=R+Aubel+FC"
+    },
+    {
+      "id": 1900262703101,
+      "name": "RFC du Geer",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=RFC+du+Geer"
+    },
+    {
+      "id": 1900262703102,
+      "name": "RUS Elsaute",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=RUS+Elsaute"
+    },
+    {
+      "id": 1900262703103,
+      "status": "PARENT_REUSED_IN_JSON",
+      "name": "RCS Habay-la-Neuve B"
+    },
+    {
+      "id": 1900262703104,
+      "name": "RUS Longlier",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=RUS+Longlier"
+    },
+    {
+      "id": 1900262703105,
+      "name": "RFC Libramont",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=RFC+Libramont"
+    },
+    {
+      "id": 1900262703106,
+      "name": "RFC Malmedy",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=RFC+Malmedy"
+    },
+    {
+      "id": 1900262703107,
+      "name": "RFC Meix-devant-Virton",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=RFC+Meix-devant-Virton"
+    },
+    {
+      "id": 1900262703108,
+      "name": "RUS Messancy",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=RUS+Messancy"
+    },
+    {
+      "id": 1900262703109,
+      "name": "R Momalloise",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=R+Momalloise"
+    },
+    {
+      "id": 1900262703110,
+      "name": "RUS Mormont",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=RUS+Mormont"
+    },
+    {
+      "id": 1900262703111,
+      "name": "Sprimont Comblain Sport",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Sprimont+Comblain+Sport"
+    },
+    {
+      "id": 1900262703112,
+      "name": "RCS Tilff",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=RCS+Tilff"
+    },
+    {
+      "id": 1900262703113,
+      "name": "RCS Verlaine",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=RCS+Verlaine"
+    },
+    {
+      "id": 1900262703114,
+      "name": "Stade Waremmien",
+      "status": "NOT_FOUND",
+      "error": "403 Client Error: Forbidden for url: https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=Stade+Waremmien"
+    }
+  ],
+  "sourced": 0
+}
