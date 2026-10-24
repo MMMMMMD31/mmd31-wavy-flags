@@ -1,0 +1,37 @@
+name: Render four European first divisions authentic club badges
+on:
+  push:
+    paths:
+      - tools/mmd31-four-d1-2026-roster.json
+      - tools/mmd31-four-d1-2026-render.py
+      - .github/workflows/mmd31-four-d1-2026-render.yml
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 28
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.11' }
+      - run: python -m pip install requests pillow cairosvg beautifulsoup4
+      - run: python tools/mmd31-four-d1-2026-render.py
+      - name: Verify 54 logos and push to test branch
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          from PIL import Image
+          p=Path('docs/mmd31-four-first-divisions-2026')
+          m=json.loads((p/'manifest.json').read_text())
+          assert len(m['clubs'])==54 and len(m['federations'])==4
+          for row in m['clubs']:
+            assert Image.open(row['github_path']).size==(120,96)
+          print('verified 54 real club images and 4 association symbols')
+          PY
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add docs/mmd31-four-first-divisions-2026/
+          git diff --cached --quiet || (git commit -m 'Publish real Welsh Icelandic Faroese Norwegian club images' && git push origin HEAD)
