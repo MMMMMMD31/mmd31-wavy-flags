@@ -34,7 +34,7 @@ jobs:
       - name: Fetch verified club crests
         env:
           OFFSET: ${{ inputs.offset || '0' }}
-          LIMIT: ${{ inputs.limit || '8' }}
+          LIMIT: ${{ inputs.limit || '300' }}
         run: python tools/mmd31_fupa_germany_badges.py --offset "$OFFSET" --limit "$LIMIT"
       - name: Save sourced images and manifest
         run: |
