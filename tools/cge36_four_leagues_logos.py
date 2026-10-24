@@ -68,7 +68,7 @@ for key,info in DATA.items():
          'sha256':hashlib.sha256(dest.read_bytes()).hexdigest()})
     except Exception as e:record['error']=str(e)
     manifest.append(record)
-(ROOT/'manifest.json').write_text(json.dumps({'expected_clubs':48,'clubs_ok':sum(r['status']=='ok' and r.get('teamId') for r in manifest),
+(ROOT/'manifest.json').write_text(json.dumps({'expected_clubs':48,'clubs_ok':sum(1 for r in manifest if r['status']=='ok' and r.get('teamId') is not None),
   'federations_ok':sum(r['status']=='ok' and r.get('type')=='federation_logo' for r in manifest),
   'items':manifest},ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
 if any(r['status']!='ok' for r in manifest):
