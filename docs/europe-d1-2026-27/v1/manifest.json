@@ -52,7 +52,7 @@
         "sourcePage": "https://en.wikipedia.org/wiki/FK_Vardar",
         "alt": ""
       },
-      "sha256": "7f5b0151ddec670a52dc40170f4ff3edca8d55a3b7b954562e9cff3fbee56428",
+      "sha256": "b20d4280f04ecf035a5f8caa556e17b3fd242f44d0fb9031e5fdcd622339cbdc",
       "dimensions": [
         120,
         96
@@ -71,7 +71,7 @@
         "sourcePage": "https://en.wikipedia.org/wiki/GFK_Tikve%C5%A1",
         "alt": ""
       },
-      "sha256": "55e8ac51ae2822411b41ceb8715eb05f3052ac7416e63002a8dbfe30c0ed3b48",
+      "sha256": "0fd2920a426c97a52dccf8fadd0ce67810baec03bb437cf2b6bdf20130b629d4",
       "dimensions": [
         120,
         96
@@ -101,8 +101,19 @@
       "id": 1900264000006,
       "country": "MK",
       "name": "KF Shkëndija Haraçinë 77",
-      "status": "NO_CREST_FOUND",
-      "candidate": "Shkendija Haracine"
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "Shkendija Haracine",
+      "url": "https://r2.thesportsdb.com/images/media/team/badge/lec0bk1779941482.png",
+      "provider": {
+        "provider": "TheSportsDB club 155729, Shkëndija Haraçinë 1977",
+        "sourcePage": "https://www.thesportsdb.com/team/155729-shk%C3%ABndija-hara%C3%A7in%C3%AB"
+      },
+      "sha256": "efb826016bbe4d1074fbdd71596f4e24fd38271eeb576a13cb9a0916919e8983",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d1-2026-27/v1/1900264000006.png"
     },
     {
       "id": 1900264000007,
@@ -146,8 +157,19 @@
       "id": 1900264000009,
       "country": "MK",
       "name": "KF Bashkimi 1947",
-      "status": "NO_CREST_FOUND",
-      "candidate": "FK Bashkimi Kumanovo"
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "FK Bashkimi Kumanovo",
+      "url": "https://images.seeklogo.com/logo-png/62/1/fc-bashkimi-kumanovo-logo-png_seeklogo-626423.png",
+      "provider": {
+        "provider": "Seeklogo FC Bashkimi Kumanovë 1947",
+        "sourcePage": "https://seeklogo.com/vector-logo/626423/fc-bashkimi-kumanovo"
+      },
+      "sha256": "570712caeaff751ef8fc9b15040cea069af9f2ff03fd69684a5fc2bf63c675e3",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d1-2026-27/v1/1900264000009.png"
     },
     {
       "id": 1900264000010,
