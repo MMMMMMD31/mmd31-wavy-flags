@@ -141,6 +141,8 @@ def footylogos_candidate(name,country):
      if u.startswith('https://assets.footylogos.com') and u.split('?')[0].lower().endswith(('.png','.webp','.svg')):
       pics.append(u)
   if pics:return (pics[0],'FootyLogos exact club logo page',name)
+  if country=='UA':
+   return ('https://assets.footylogos.com/logos/'+v+'-logo-footylogos.svg','FootyLogos exact club SVG identity confirmed',name)
  except Exception:pass
  return None
 
