@@ -1,0 +1,1679 @@
+{
+  "project": "MMD31 BELUX D4-D5",
+  "season": "2026-2027",
+  "imageCount": 88,
+  "clubs": [
+    {
+      "id": 1900262703001,
+      "club": "KV Diksmuide-Oostende",
+      "clubPageTitle2026": "KV. DIKSMUIDE OOSTENDE",
+      "crestSource": "https://kv-do.be/wp-content/uploads/elementor/thumbs/KVDO-Ploeg-logo-rhzg0h2t4j1xux4s9j0ag9ajtlvvq25pwceorw7oq0.webp",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/ksv-diksmuide",
+      "sourceType": "official_club_website",
+      "sourceSha256": "7841c83d6bdef53fbb350794c30b7e04003f71e0ec45c2293118afc014c6dcdf",
+      "pngSha256": "6e5374a44ca7ebd3619559eff2da886cc425fca307001ac549368c145cf88626",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        241,
+        239,
+        206
+      ],
+      "remarks": "current KVDO logo from official club website"
+    },
+    {
+      "id": 1900262703012,
+      "club": "Sparta Petegem-Deinze",
+      "clubPageTitle2026": "SPARTA PETEGEM DEINZE",
+      "crestSource": "https://www.spartadeinze.be/uploadsClub/436/imgLogo/logo.b7e70e.png",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/kfc-sparta-petegem",
+      "sourceType": "official_club_website",
+      "sourceSha256": "5f8566947bcc24b47437b4475c00413d35bdc2bdb0f502016ce4d52febaefaf3",
+      "pngSha256": "15417858d91f31a79f53eb28814a1daf98f42d949b6bc6db9e39965b367990ef",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        206,
+        241,
+        209
+      ],
+      "remarks": "current Sparta Deinze logo from official club website"
+    },
+    {
+      "id": 1900262703014,
+      "club": "KFC Voorde-Appelterre",
+      "clubPageTitle2026": "KFC VOORDE-APPELTERRE",
+      "crestSource": "https://www.foot24.be/logos/03964.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/kfc-voorde-appelterre",
+      "sourceType": "same_2026_27_competition_roster",
+      "sourceSha256": "b32d03d42d87193f76ba5ea1f5021ee4f33015734ddefaf49ea5cc9375ad68a4",
+      "pngSha256": "a8a0b1653a2dd3e016bda10380d03dc9e1fe17872d1cf583ccc47eb26149187c",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        206,
+        241,
+        209
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703016,
+      "club": "Bocholter VV",
+      "clubPageTitle2026": "K. BOCHOLTER VV.",
+      "crestSource": "https://www.foot24.be/logos/00595.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/k-bocholter-vv",
+      "sourceType": "same_2026_27_competition_roster",
+      "sourceSha256": "62b692880448b8a5a8a76792a210b0436c0aced56307990fd41c1bb4588fb247",
+      "pngSha256": "9b48e0af1c791fd472cc55f4367c0d54f9773b77805921607c26cbfa161cbf07",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        241,
+        226,
+        206
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703017,
+      "club": "R Cappellen FC",
+      "clubPageTitle2026": "R. CAPPELLEN FC.",
+      "crestSource": "https://www.foot24.be/logos/00043.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/r-cappellen-fc",
+      "sourceType": "same_2026_27_competition_roster",
+      "sourceSha256": "db94fd5fae5f1325f280d771831b3b2e0037e22bb429ab4f3de09ef0887d187c",
+      "pngSha256": "43e3c8484423fac1a48119a32aabb928155f094a537d5e8c6a071ec1b920669a",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        241,
+        213,
+        206
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703018,
+      "club": "KFC De Kempen TL",
+      "clubPageTitle2026": "KFC DE KEMPEN TIELEN-LICHTAART",
+      "crestSource": "https://www.foot24.be/logos/04469.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/kfc-de-kempen-tielen-lichtaart",
+      "sourceType": "directory_manual_name_match",
+      "sourceSha256": "2a3e3b343ce8417c504269b175c85a8acea7fe2d2c3e2271a8393d73b06d8a55",
+      "pngSha256": "40b3ead9126d4d2a637d45a9cb960b868637be4a0048c5c13e66af51cf818920",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        206,
+        221,
+        241
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703019,
+      "club": "K Diegem Sport",
+      "clubPageTitle2026": "K. DIEGEM SPORT",
+      "crestSource": "https://www.foot24.be/logos/03887.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/k-diegem-sport",
+      "sourceType": "same_2026_27_competition_roster",
+      "sourceSha256": "73fc65b9777792cfeadf93b85865739723184c5e5e7a81e14c14f7f2f00c9b1b",
+      "pngSha256": "61f55354a7c99f6894ba227a242b11bbee713c64ccc331315a356b2ba79425ca",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        217,
+        241,
+        206
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703021,
+      "club": "K Racing Mechelen",
+      "clubPageTitle2026": "KRC. MECHELEN",
+      "crestSource": "https://www.foot24.be/logos/00024.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/krc-mechelen",
+      "sourceType": "same_2026_27_competition_roster",
+      "sourceSha256": "7dfae90f5db25d83dfc376f75a49551b8efcb2b905e53b528d99ede7741a1528",
+      "pngSha256": "7a2a591080f2e68af24c450f1b4ca4655bfb04d45a670d039b52e3117e5842ad",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        206,
+        241,
+        234
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703022,
+      "club": "KFC Nijlen",
+      "clubPageTitle2026": "KFC. NIJLEN",
+      "crestSource": "https://www.foot24.be/logos/01065.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/kfc-nijlen",
+      "sourceType": "same_2026_27_competition_roster",
+      "sourceSha256": "8b5918d51c3aa3baf8aeb0b455582328e6abb33fc3f2e4d4087397e8e61dcf77",
+      "pngSha256": "837fecc4859622b2bbd0422bce67929fc906f3c68381eff804cdae19fcb7fc6c",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        206,
+        209,
+        241
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703023,
+      "club": "Tempo Overijse",
+      "clubPageTitle2026": "TEMPO OVERIJSE",
+      "crestSource": "https://www.foot24.be/logos/08715.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/tempo-overijse",
+      "sourceType": "same_2026_27_competition_roster",
+      "sourceSha256": "31a093ed88f68063b4f0d832081999b065b30c414c0eb4e8412b040bc43a8ef4",
+      "pngSha256": "1f5c6ce262830b35d9bb6f5fdb516c8832bdf5f2e5977092937daa04bc32cef0",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        241,
+        206,
+        213
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703024,
+      "club": "Sportief Rotselaar",
+      "clubPageTitle2026": "SPORTIEF ROTSELAAR",
+      "crestSource": "https://www.foot24.be/logos/06909.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/sportief-rotselaar",
+      "sourceType": "same_2026_27_competition_roster",
+      "sourceSha256": "4a1e50ea656e4e305b8c8e69865fdc6077e28b8b9e12f6d948f2b29f86d1137a",
+      "pngSha256": "0ef21e2e17a6d56e564d020b191befc915aa6046ec187e69a19ef9406b218506",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        241,
+        239,
+        206
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703025,
+      "club": "Rupel Boom",
+      "clubPageTitle2026": "K. RUPEL BOOM FC.",
+      "crestSource": "https://www.foot24.be/logos/02138.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/k-rupel-boom-fc",
+      "sourceType": "same_2026_27_competition_roster",
+      "sourceSha256": "86ad33320a10085a0455e7f11f315595645a6991d37989105148e9fd04dbbf81",
+      "pngSha256": "e5d03a513ba53723d61c042e068d0ee12533ca2c243b0de33efb44d7fe1da227",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        206,
+        221,
+        241
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703027,
+      "club": "Eendracht Termien",
+      "clubPageTitle2026": "EENDRACHT TERMIEN",
+      "crestSource": "https://www.foot24.be/logos/07919.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/eendracht-termien",
+      "sourceType": "same_2026_27_competition_roster",
+      "sourceSha256": "f86f1ab969b52883bdb2f8b02b7eb028ab74c946cbff5fa2d450aa47dfc2e247",
+      "pngSha256": "376124ecb2b03c41a78cd3a7147bacdb7f02b174f697c3eaafc5b22810762628",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        206,
+        221,
+        241
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703028,
+      "club": "KSK Tongeren",
+      "clubPageTitle2026": "KSK TONGEREN",
+      "crestSource": "https://www.foot24.be/logos/00054.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/ksk-tongeren",
+      "sourceType": "same_2026_27_competition_roster",
+      "sourceSha256": "9961ba97d74da98e6f818cd064bc1b547b0edab93e65a9ca4cb37e7bdf84ee34",
+      "pngSha256": "3c064e091ebe67ab75b4e0b81d25aa1dc8e1f581b5ea9cb743dea70e990eecd8",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        206,
+        221,
+        241
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703030,
+      "club": "KVC Wilrijk",
+      "clubPageTitle2026": "KVC WILRIJK",
+      "crestSource": "https://www.foot24.be/logos/09307.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/vc-wilrijk",
+      "sourceType": "same_2026_27_competition_roster",
+      "sourceSha256": "982ce4d8da6784beb6b62e9751f8efc20e9227f30d97c28e4c2b525f7f045635",
+      "pngSha256": "e71ccc9ca3c5374dab66d8850a6cee942e511be479a8bb3c94a6d8fdd70ec2dd",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        241,
+        239,
+        206
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703032,
+      "club": "RUS Acren-Lessines",
+      "clubPageTitle2026": "ENTENTE ACREN LESSINES",
+      "crestSource": "https://www.foot24.be/logos/02774.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/entente-acren-lessines",
+      "sourceType": "directory_manual_name_match",
+      "sourceSha256": "4e1be18af9d638667ae15a80f47bc0bac9b80cf1d63fba1e0995a60267b7c52c",
+      "pngSha256": "bd929a3ad57dab434b575c1f39629297b5638a047a5acbec5718e4e6af7e04a8",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        206,
+        234,
+        241
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703033,
+      "club": "R Aywaille FC",
+      "clubPageTitle2026": "R. AYWAILLE FC.",
+      "crestSource": "https://www.foot24.be/logos/01979.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/r-aywaille-fc",
+      "sourceType": "directory_manual_name_match",
+      "sourceSha256": "a71ddc885c69443ff63730416b5379aaa13828644e138d0bf48009f05b5ec088",
+      "pngSha256": "d9df89fec775c4cd1604ef41356eb57f82aa27daab6b7981d6cf248a238ba275",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        206,
+        209,
+        241
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703034,
+      "club": "RUS Binche",
+      "clubPageTitle2026": "RUS. BINCHE",
+      "crestSource": "https://www.foot24.be/logos/03835.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/rus-binche",
+      "sourceType": "directory_manual_name_match",
+      "sourceSha256": "04dace2815a94376ed18eddb8fee2781a6749abd07a025a6f503437e6f482fe6",
+      "pngSha256": "6a397114d3e3c0de5b15a48cd8d09b0d2c92260cb86be3e6a3646cb44b1ce605",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        241,
+        239,
+        206
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703035,
+      "club": "RCS Brainois",
+      "clubPageTitle2026": "RCS. BRAINOIS",
+      "crestSource": "https://www.foot24.be/logos/00075.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/rcs-brainois",
+      "sourceType": "directory_manual_name_match",
+      "sourceSha256": "ba478a9068b9329baffb61513e244de36c25a45bdee8419e5a650fe883762131",
+      "pngSha256": "0da09c7ed9092cbaa42289bf8526618d28227f7003c2fbfa63f23bd4080bd1b6",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        206,
+        221,
+        241
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703039,
+      "club": "RSD Jette",
+      "clubPageTitle2026": "RSD. JETTE",
+      "crestSource": "https://www.foot24.be/logos/00474.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/rsd-jette",
+      "sourceType": "directory_manual_name_match",
+      "sourceSha256": "08c03b20cb45cbf066eab6c9737129f0a4aa3269441bbf8d0fdb649e4618429f",
+      "pngSha256": "1e0caa5b766871ae3aabef6d3ebe2ba6590d136d32b4b430ed5a57f0bfb81d5b",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        206,
+        221,
+        241
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703040,
+      "club": "RFC La Calamine",
+      "clubPageTitle2026": "RFC UN. LA CALAMINE",
+      "crestSource": "https://www.foot24.be/logos/00526.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/rfc-un-la-calamine",
+      "sourceType": "directory_manual_name_match",
+      "sourceSha256": "9e1f2a45a2dcec0531f57d8d51e993618e26bd0c7b4a598bbcbc56c2e75a95fb",
+      "pngSha256": "ce5c923d429d5bcece557f5860b2293c3b41f2aaf79cb3d9218362adee65dd53",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        206,
+        241,
+        209
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703041,
+      "club": "RFC Manageoise",
+      "clubPageTitle2026": "CS. ENTITE MANAGEOISE",
+      "crestSource": "https://www.foot24.be/logos/08470.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/cs-entite-manageoise",
+      "sourceType": "directory_manual_name_match",
+      "sourceSha256": "7215f1ce2c93ebee9b7a88c6a2393c3d62b57325a47fceb15e4c80b3247467e2",
+      "pngSha256": "2c2a8164ea9739d4db338877cea33e64fb724ca6e6dab246eabb17fe256196b9",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        241,
+        239,
+        206
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703042,
+      "club": "Stade Mouscronnois",
+      "clubPageTitle2026": "SB STADE MOUSCRONNOIS",
+      "crestSource": "https://www.foot24.be/logos/09702.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/la-squadra-mouscron-2",
+      "sourceType": "directory_manual_name_match",
+      "sourceSha256": "98f0bce0365ed3b069485a39916d7dfa1a28908eb9ca3ec743d4a44c9d67f870",
+      "pngSha256": "7526b546112be8ec9011f37fdbb4110e5fa4d2d95b9366abc7090659677379f8",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        241,
+        206,
+        213
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703043,
+      "club": "Ostiches-Ath",
+      "clubPageTitle2026": "CS PAYS VERT OSTICHES-ATH",
+      "crestSource": "https://www.foot24.be/logos/09245.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/cs-pays-vert-ostiches-ath",
+      "sourceType": "directory_manual_name_match",
+      "sourceSha256": "0cfbe32415a92594fff3d5cea7843ad3a6a48196ddf1d9cbcc4f8660833c250f",
+      "pngSha256": "15ef1621a604fd7aef50f54093623d1bd5b894d05e177a44ac3a38806ff85a06",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        241,
+        239,
+        206
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703044,
+      "club": "Richelle United",
+      "clubPageTitle2026": "FCR. VISE UNITED",
+      "crestSource": "https://fcrichelleunited.wordpress.com/wp-content/uploads/2026/06/cropped-180.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/fc-united-richelle",
+      "sourceType": "official_club_website",
+      "sourceSha256": "8a9e0702c740c030446584d96f1ed512d2e7a48666255bc87761089dba618365",
+      "pngSha256": "f953610614888efe58fd4fc716053973317f515d17e0caabbc43cfc3fefb060e",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        206,
+        221,
+        241
+      ],
+      "remarks": "FCR Visé United logo from official club website, post 1 July 2026 rename"
+    },
+    {
+      "id": 1900262703045,
+      "club": "Crossing Schaerbeek",
+      "clubPageTitle2026": "CROSSING SCHAERBEEK",
+      "crestSource": "https://www.foot24.be/logos/04070.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/crossing-schaerbeek",
+      "sourceType": "directory_manual_name_match",
+      "sourceSha256": "798f4c12b763bb780f773e40bdf6c3c38ebd07da4f829632587637bac3370ecc",
+      "pngSha256": "19e3271da1c5ce00c52cee8787e2df14d8a2cca9ce924ffe8f56e659b024a52b",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        241,
+        226,
+        206
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703046,
+      "club": "Union Saint-Ghislain Tertre Hautrage",
+      "clubPageTitle2026": "U. ST-GHISL. TERTRE-HAUTR.",
+      "crestSource": "https://www.foot24.be/logos/01708.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/u-st-ghisl-tertre-hautr",
+      "sourceType": "directory_manual_name_match",
+      "sourceSha256": "b528f7aa380ab615980137d12d2c292cf5baab8d5c0b90f6fa623f4a882161ac",
+      "pngSha256": "6099722aab249d26710782d4348e6eea7c5089bc4d73bb516d3b8ecfcaf862ee",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        206,
+        221,
+        241
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703047,
+      "club": "RRC Stockay-Warfusée",
+      "clubPageTitle2026": "ROYAL STOCKAY SAINT-GEORGES S/M",
+      "crestSource": "https://www.foot24.be/logos/02239.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/rrc-stockay-warfusee",
+      "sourceType": "directory_manual_name_match",
+      "sourceSha256": "590747c10996f778a93829719a88c49b9840772e3bb4f7c49671d7c9fcf965c5",
+      "pngSha256": "9c3227bee2a4799e5aa575bc36e02320e033e007590ddae69493fdbfebed53c3",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        241,
+        213,
+        206
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703049,
+      "club": "RCS Verviétois",
+      "clubPageTitle2026": "STADE VERVIETOIS",
+      "crestSource": "https://www.foot24.be/logos/00033.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/racing-club-star-verviers",
+      "sourceType": "directory_manual_name_match",
+      "sourceSha256": "a8525195c73e3396cac3e1bd57de33e65567fc18791bf555a3b2be0bd50c0f8d",
+      "pngSha256": "36567717852dfa8c87c4f338b36b400e6c4a4f5654cb8205902715aaaa578d7c",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        231,
+        236,
+        239
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703050,
+      "club": "Avanti Stekene",
+      "clubPageTitle2026": "AVANTI STEKENE",
+      "crestSource": "https://www.foot24.be/logos/08552.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/avanti-stekene",
+      "sourceType": "same_2026_27_competition_roster",
+      "sourceSha256": "eda238b884a3c3537c559e6e6838c1faf5341ab182c966611e16dc5a62644714",
+      "pngSha256": "be261b34ecc48585959b03a400eb559891ea59c095580d237180ae4bdec05e43",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        206,
+        209,
+        241
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703051,
+      "club": "K Berchem Sport",
+      "clubPageTitle2026": "K. BERCHEM SPORT 2004",
+      "crestSource": "https://www.foot24.be/logos/00028.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/k-berchem-sport-2004",
+      "sourceType": "same_2026_27_competition_roster",
+      "sourceSha256": "023a290ad40a59322f839e41212a422e168b1e9c3854978db2311baea084d219",
+      "pngSha256": "796fbd8ea4b4cd156cf4846d31edfea204b0a2571b89eece9bb06ebffd2eb71e",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        241,
+        239,
+        206
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703052,
+      "club": "KSC Blankenberge",
+      "clubPageTitle2026": "KSC. BLANKENBERGE",
+      "crestSource": "https://www.foot24.be/logos/00048.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/ksc-blankenberge",
+      "sourceType": "same_2026_27_competition_roster",
+      "sourceSha256": "c0eb5af3ccc76ed730c1cb4343f9724fa79b2864dcd2f14940a082b0d8b9f514",
+      "pngSha256": "78d3eaa5f5585cd6187a1df6b52e3817c1f3c00bf4bfbc12fc454762e83abd8d",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        241,
+        213,
+        206
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703053,
+      "club": "Olsa Brakel",
+      "clubPageTitle2026": "OLSA BRAKEL",
+      "crestSource": "https://www.foot24.be/logos/05553.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/olsa-brakel",
+      "sourceType": "same_2026_27_competition_roster",
+      "sourceSha256": "faa0a962bde46363c1aa27903d1f9217775e91ddb1f09941eaf42f735b69f414",
+      "pngSha256": "e4fb164475b9637013f2ef7dca94c9a1d50d38f2997c54259f1c40091d16c4d6",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        241,
+        239,
+        206
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703054,
+      "club": "SC City Pirates Antwerpen",
+      "clubPageTitle2026": "SC. CITY PIRATES ANTWERPEN",
+      "crestSource": "https://www.foot24.be/logos/00544.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/sc-city-pirates-antwerpen",
+      "sourceType": "same_2026_27_competition_roster",
+      "sourceSha256": "89b8ba9f197759771c7c83ede119da13fb630e804c7dfbcee9749549e9935b10",
+      "pngSha256": "879d4b811cde3fefb5c5533463d2703d2666dc63b6a9c265d4721837f12a0c0a",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        206,
+        221,
+        241
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703055,
+      "club": "KVE Drongen",
+      "clubPageTitle2026": "KVE. DRONGEN",
+      "crestSource": "https://www.foot24.be/logos/03851.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/kve-drongen",
+      "sourceType": "same_2026_27_competition_roster",
+      "sourceSha256": "4c4dd533c61e71ce9d5f5833c0f6569ebda361777cef1f833a482e66490ed49b",
+      "pngSha256": "582b00cbb1a77175f73aa753a143f7e6160bcb04eb69b82cf56710f61244e414",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        206,
+        234,
+        241
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703056,
+      "club": "Eendracht Elene-Grotenberge",
+      "clubPageTitle2026": "EENDR. ELENE-GROTENBERGE",
+      "crestSource": "https://www.foot24.be/logos/03861.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/eendr-elene-grotenberge",
+      "sourceType": "same_2026_27_competition_roster",
+      "sourceSha256": "b1e83ad0c1cf6279a83e78a537fbdf10291a4fa2ebcb4c5db0fb7d57bfed904a",
+      "pngSha256": "4786d39603d26a44fb1224f925d5c4dca69760b3e6623250b593be3ec3aee968",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        206,
+        209,
+        241
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703058,
+      "club": "Erpe-Mere United",
+      "clubPageTitle2026": "ERPE-MERE UNITED",
+      "crestSource": "https://www.foot24.be/logos/05343.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/erpe-mere-united",
+      "sourceType": "same_2026_27_competition_roster",
+      "sourceSha256": "03642c5f791e5b8dcad089cc60b79bb08aa35d53912f495bc1e6ba34844a28b9",
+      "pngSha256": "86bff18c87c59c958ba8341fb83c467cc44e8a3e5fefbc0196c922fa1e65ffe5",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        241,
+        213,
+        206
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703059,
+      "club": "FC Gullegem",
+      "clubPageTitle2026": "FOOTBALL CLUB GULLEGEM",
+      "crestSource": "https://www.foot24.be/logos/09512.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/football-club-gullegem",
+      "sourceType": "same_2026_27_competition_roster",
+      "sourceSha256": "a8b312065b3656c995211c1a3ed725205acef69da9e9b6de412f55aa8b02f6c2",
+      "pngSha256": "d791797596c94917abe6ab75d7b8fd19dee59443a48865c86d6a6caa7844ddd5",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        241,
+        213,
+        206
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703060,
+      "club": "KVK Ieper",
+      "clubPageTitle2026": "KVK. IEPER",
+      "crestSource": "https://www.foot24.be/logos/00100.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/kvk-westhoek",
+      "sourceType": "same_2026_27_competition_roster",
+      "sourceSha256": "8fffb3eb64d1437cb9bac460e2b6f50f42a00d8164b3d9b6a9e3c923be03d58e",
+      "pngSha256": "8aeeb05d04c7034b2a82e22b1cd4f5c6cba672a3f76c671af81434771677bc64",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        206,
+        221,
+        241
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703061,
+      "club": "KWS Club Lauwe",
+      "clubPageTitle2026": "KWS. CLUB LAUWE",
+      "crestSource": "https://www.foot24.be/logos/00535.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/kws-club-lauwe",
+      "sourceType": "same_2026_27_competition_roster",
+      "sourceSha256": "339a83cdf4a5f4a3f81f2051196048ceb965dc7ba7e80a1258db0a1fde683624",
+      "pngSha256": "7b69c59c6db80789c6a5d8546e53d1a0b71c8e44883747b950742cb92ce1e8c0",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        241,
+        239,
+        206
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703062,
+      "club": "KSV Rumbeke",
+      "clubPageTitle2026": "KSV. RUMBEKE",
+      "crestSource": "https://www.foot24.be/logos/05181.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/ksv-rumbeke",
+      "sourceType": "same_2026_27_competition_roster",
+      "sourceSha256": "bc5b67085ca0d78998b82a3067205bdbe8693c74ec56968c999169940e14001a",
+      "pngSha256": "c62155999a05cd519f5731f50fde445dc6f8610ca19d9aa5f9351066452e273e",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        206,
+        209,
+        241
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703063,
+      "club": "KVV Sint-Denijs Sport",
+      "clubPageTitle2026": "KVV. ST-DENIJS SPORT",
+      "crestSource": "https://www.foot24.be/logos/02533.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/kvv-st-denijs-sport",
+      "sourceType": "same_2026_27_competition_roster",
+      "sourceSha256": "ff30ff1963d275ae3185a44076775af0d8183b47b0673c17e05c601eb8b237e7",
+      "pngSha256": "88e3199444e1a9b172e57830f696701d191210e04c293bac440b7932f67fa448",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        206,
+        241,
+        221
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703064,
+      "club": "KFC Wambeek-Ternat",
+      "clubPageTitle2026": "KFC WAMBEEK TERNAT",
+      "crestSource": "https://www.foot24.be/logos/05661.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/kfc-wambeek-ternat",
+      "sourceType": "same_2026_27_competition_roster",
+      "sourceSha256": "7babc85573231cee788c162b37ea0b44def410645bfdec05aa7545c1966f890c",
+      "pngSha256": "9b9de9362880580b79d957b05326ece4b03e2ea3b065ef501bce99edcd77a0d9",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        206,
+        241,
+        221
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703065,
+      "club": "Zwevegem Sport",
+      "clubPageTitle2026": "ZWEVEGEM SPORT",
+      "crestSource": "https://www.foot24.be/logos/zwevegem.png",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/vc-k-zwevegem-sport",
+      "sourceType": "directory_manual_name_match",
+      "sourceSha256": "3833cb27a30698961ae386492935e5b6d57f7ec410ce52c8570a8cc4f9e6a6f0",
+      "pngSha256": "5afa497b9362b98bcf00d2256a35ba5f2576335ab06b106ddc067b11ab60338d",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        241,
+        206,
+        213
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703067,
+      "club": "FC Averbode Testelt Okselaar",
+      "clubPageTitle2026": "FC. AVERBODE TESTELT OKSELAAR",
+      "crestSource": "https://www.foot24.be/logos/02030.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/fc-averbode-okselaar",
+      "sourceType": "same_2026_27_competition_roster",
+      "sourceSha256": "3037acfb7064280cbf4614f3918e56a82fd9e71328b2fbf62efc843fc7fec4c4",
+      "pngSha256": "adb839671302091db4b5c9918bfb2060311c8900f43c8d4ecadd8d02fce153cb",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        206,
+        241,
+        209
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703068,
+      "club": "K Berg en Dal VV",
+      "clubPageTitle2026": "K. BERG EN DAL VV.",
+      "crestSource": "https://www.foot24.be/logos/03057.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/k-berg-en-dal-vv",
+      "sourceType": "same_2026_27_competition_roster",
+      "sourceSha256": "3804504f3093f086e0815847169f7e7a774c91c26ff81d6e37d0ea8357c4e18b",
+      "pngSha256": "14dfa10ffd7e65386338db5037c1e188e143135038ae3a7c885c39acbef830c6",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        206,
+        241,
+        221
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703069,
+      "club": "KAC Betekom",
+      "clubPageTitle2026": "KAC. BETEKOM",
+      "crestSource": "https://www.foot24.be/logos/03634.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/kac-betekom",
+      "sourceType": "same_2026_27_competition_roster",
+      "sourceSha256": "cd443ed2ddb0394318ec32458b938fde2a6655652db1447b3213e90306fcde40",
+      "pngSha256": "e04d0afd37c490f3527b867b7beeec2bae09bef6fcf8cb4b12506f8df7d38985",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        241,
+        206,
+        213
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703070,
+      "club": "GS Bree-Beek",
+      "clubPageTitle2026": "GS BREE-BEEK",
+      "crestSource": "https://www.foot24.be/logos/07314.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/gs-bree-beek",
+      "sourceType": "same_2026_27_competition_roster",
+      "sourceSha256": "5bccfe08b7a331a04b68468a71e388657bb2fd1185d11b1f96ada09464901374",
+      "pngSha256": "cf1b06869ab3be57d8a577063ba8bfc59fca319dde80e2bff6720475c23768c5",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        206,
+        241,
+        221
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703071,
+      "club": "Esperanza Pelt",
+      "clubPageTitle2026": "FC. ESPERANZA PELT",
+      "crestSource": "https://www.foot24.be/logos/02529.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/fc-esperanza-pelt",
+      "sourceType": "same_2026_27_competition_roster",
+      "sourceSha256": "2fb04906bc3f6ba8a4d926bd6ce26f53cf7190a2a9e154776e8faae8369fee03",
+      "pngSha256": "7d02c97cb7d8c86447e0ad7535c568b0e3150d0f873af0ef9ffd2ceb76a4c5ec",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        241,
+        239,
+        206
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703072,
+      "club": "ASV Geel",
+      "clubPageTitle2026": "AS. VERBROEDERING GEEL",
+      "crestSource": "https://www.foot24.be/logos/02169.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/as-verbroedering-geel",
+      "sourceType": "directory_manual_name_match",
+      "sourceSha256": "d1a29e9d12b173f27fd53c83c782cb6d51907f39cb16b4ab1eece0fec01ad01a",
+      "pngSha256": "13d79a7268f8997d32e1cff36e51f198205809020d44e24570c6f199de01433b",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        206,
+        209,
+        241
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703073,
+      "club": "OHR Huldenberg",
+      "clubPageTitle2026": "OHR. HULDENBERG",
+      "crestSource": "https://www.foot24.be/logos/06827.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/ohr-huldenberg",
+      "sourceType": "same_2026_27_competition_roster",
+      "sourceSha256": "90f4efd40e75147da0abf25221e55021a292655ecbad318a959a27740a19d417",
+      "pngSha256": "a9214ca68de8c543d9b2ec50bdc570c8b1649c8ac964e7dcfe21dd30e49a7389",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        241,
+        206,
+        213
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703074,
+      "club": "KVC Lille United",
+      "clubPageTitle2026": "KVC LILLE UNITED",
+      "crestSource": "https://www.foot24.be/logos/02618.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/vc-lille-united",
+      "sourceType": "same_2026_27_competition_roster",
+      "sourceSha256": "b944a6bd62d757dd5c1dc6a2aa9ef325c77927890b0d6d88417028d39ecaa9b7",
+      "pngSha256": "13b6e3af1167ba96ae9cc19f8f1b03bdaa86556ce91a7a5fd2e97a40e25ca376",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        217,
+        241,
+        206
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703075,
+      "club": "VK Linden",
+      "clubPageTitle2026": "VK. LINDEN",
+      "crestSource": "https://www.foot24.be/logos/08522.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/vk-linden",
+      "sourceType": "same_2026_27_competition_roster",
+      "sourceSha256": "15114c3e0b67752399ccf5f88eacae7aca10f2084c0fed7498e6fc0ee24f79cf",
+      "pngSha256": "939592b80c1d4fc336720bc029a3b11457be44f8a25abf9d91c72f1b8616e154",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        206,
+        241,
+        221
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703077,
+      "club": "K Nieuwmoer FC",
+      "clubPageTitle2026": "K. NIEUWMOER FC.",
+      "crestSource": "https://www.foot24.be/logos/05627.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/k-nieuwmoer-fc",
+      "sourceType": "same_2026_27_competition_roster",
+      "sourceSha256": "d58aa7a6446d5a5cbbee3e44f6aea8a2aa819631a6933ab51af2c3f90fa4833d",
+      "pngSha256": "9c69d15440877bc6c6edd6289239db0d863c4cfed8ee1152a614638cba3e1ea0",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        241,
+        206,
+        213
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703078,
+      "club": "WS Schoonbeek-Beverst",
+      "clubPageTitle2026": "WS SCHOONBEEK-BILZEN",
+      "crestSource": "https://www.foot24.be/logos/02727.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/ews-schoonbeek-beverst",
+      "sourceType": "directory_manual_name_match",
+      "sourceSha256": "6598866ffc4f6d1b6a29d7d320f706fec23b29aaf81b4a61543ee298b998e414",
+      "pngSha256": "d3fb1a0399d9b04267fabe58e0dc801bb256772973a476f163e3f143134a2ea1",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        206,
+        241,
+        209
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703079,
+      "club": "KFC Sint-Lenaarts",
+      "clubPageTitle2026": "KFC. ST.-LENAARTS",
+      "crestSource": "https://www.foot24.be/logos/01357.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/kfc-st-lenaarts",
+      "sourceType": "same_2026_27_competition_roster",
+      "sourceSha256": "bff1e16696e55667d699778167774378e51ebb7cb363fef449263a461cbd0a06",
+      "pngSha256": "19fb9d1beb928f9127a74f1b0a33f61f94b14e35cd1343eb3d1a91071911ae62",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        206,
+        241,
+        209
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703081,
+      "club": "FC Wezel Sport",
+      "clubPageTitle2026": "FC. WEZEL SPORT",
+      "crestSource": "https://www.foot24.be/logos/00844.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/fc-wezel-sport",
+      "sourceType": "same_2026_27_competition_roster",
+      "sourceSha256": "ec6eb9c5711623c77744e34b399de6837a5babd3fadd1e51514da69ad63bfc22",
+      "pngSha256": "3a6e22bddc17e07bb37a37d2d136ecdeada5fa1c2c7abee4d0029a02c3d16c41",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        206,
+        221,
+        241
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703082,
+      "club": "KVV Zepperen-Brustem",
+      "clubPageTitle2026": "KVV. ZEPPEREN-BRUSTEM",
+      "crestSource": "https://www.foot24.be/logos/08250.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/kvv-zepperen-brustem",
+      "sourceType": "same_2026_27_competition_roster",
+      "sourceSha256": "4eb3a2c334e59a04fb5654c24655f3d97e33870e7f7b578457d1d8e56f2b7e4d",
+      "pngSha256": "930561fc65a4d65d525746dced1b99799194b6e4e259b4ef8171c53a2a64014d",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        230,
+        206,
+        241
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703083,
+      "club": "Arquet",
+      "clubPageTitle2026": "R. ARQUET NAMUR",
+      "crestSource": "https://www.foot24.be/logos/04210.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/r-arquet-fc",
+      "sourceType": "directory_manual_name_match",
+      "sourceSha256": "7aa6bbdff24dee34c41a3b244a5f28fec2682f8a3adbf2a6b2a995fe811330f9",
+      "pngSha256": "997835a6b43033615a1268c8e21fe6e922ee3f9b0fafeff84eb1fd0ee792cfae",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        206,
+        209,
+        241
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703084,
+      "club": "R Biesme",
+      "clubPageTitle2026": "RUS. BIESME",
+      "crestSource": "https://www.foot24.be/logos/04504.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/rus-biesme",
+      "sourceType": "directory_manual_name_match",
+      "sourceSha256": "fd93081f6761e5f9366a6129f906b7cf77d8206abde4857fdb4c40a6b0ce85f9",
+      "pngSha256": "fd41b4c1047350f897b33f5dee679d0d8363c4806019371b65573e349e191725",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        206,
+        221,
+        241
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703085,
+      "club": "RCS Buzet",
+      "clubPageTitle2026": "PONT-A-CELLES-BUZET",
+      "crestSource": "https://www.foot24.be/logos/07021.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/pont-a-celles-buzet",
+      "sourceType": "directory_manual_name_match",
+      "sourceSha256": "c84d09e41dd46e8a6cb0f188789fd501cc6a0b9d8e3405d8d630dd9ec1e782ff",
+      "pngSha256": "e4271d5b8f56b854418fdaf116fce87d1600abaa91aee214198f8a5fa6c83965",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        206,
+        209,
+        241
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703086,
+      "club": "RFC Ciney",
+      "clubPageTitle2026": "RU. WALLONNE CINEY",
+      "crestSource": "https://www.foot24.be/logos/00460.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/ru-wallonne-ciney",
+      "sourceType": "directory_manual_name_match",
+      "sourceSha256": "e633b44ae6dcdcfb7a67c09670bb348d4242576558b9ad59f1e7093c5d9fc09a",
+      "pngSha256": "47e75772661981ded4dddea0113f14abf61871faa2a5dac038957fd17fcbfc79",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        206,
+        209,
+        241
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703087,
+      "club": "Evelette-Jallet",
+      "clubPageTitle2026": "Andenne Evelette Sports Football",
+      "crestSource": "https://www.foot24.be/logos/01476.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/exc-fc-evelette-jallet",
+      "sourceType": "directory_manual_name_match",
+      "sourceSha256": "8b7165d909c835ff55a5d74fd334b5468abc711fd594eedbd1217ad0758d22f2",
+      "pngSha256": "1e4b1e84102f53a22325b51ed28be48edad4e3aa7e3022cd854a77fb4e09b0bd",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        241,
+        239,
+        206
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703088,
+      "club": "Stade Everois",
+      "clubPageTitle2026": "STADE EVEROIS RACING CLUB",
+      "crestSource": "https://www.foot24.be/logos/09332.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/stade-everois-racing-club",
+      "sourceType": "directory_manual_name_match",
+      "sourceSha256": "06dd59cdaffd7f73d5067949b2f15ca49eacf033fc7cc11bda1ed892cc521c8f",
+      "pngSha256": "8d36d6dd92a3e3f4a0ae423f69b72473665aa804d50263c0dc60c12ba607c1f6",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        241,
+        206,
+        213
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703089,
+      "club": "USC Jemappes",
+      "clubPageTitle2026": "UNION SPORTING CLUB JEMAPPES",
+      "crestSource": "https://www.foot24.be/logos/09592.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/union-sporting-club-jemappes",
+      "sourceType": "directory_manual_name_match",
+      "sourceSha256": "b01b5195376c6dc81d2330feef55799a5e931774d7a9d4600fd7cd92d2395898",
+      "pngSha256": "042ba431698fc23b87926ea0ea9cf749130588273b56d229b886cb292fc40310",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        206,
+        209,
+        241
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703090,
+      "club": "FC Kosova Schaerbeek",
+      "clubPageTitle2026": "FC. KOSOVA SCHAERBEEK",
+      "crestSource": "https://www.foot24.be/logos/09267.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/fc-kosova-schaerbeek",
+      "sourceType": "directory_manual_name_match",
+      "sourceSha256": "34b463635ffa54650c78c7e28908c7914ff7c3506b3b2cc603d83b42b89c9560",
+      "pngSha256": "aca78d5a6d64ed2ddebbdb5b2ac7885bd785e38c0592a658bcf68a1fe7c1c5d3",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        241,
+        206,
+        213
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703091,
+      "club": "R Léopold FC",
+      "clubPageTitle2026": "R. LEOPOLD FC.",
+      "crestSource": "https://www.foot24.be/logos/00005.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/r-leopold-fc",
+      "sourceType": "directory_manual_name_match",
+      "sourceSha256": "fbcab6fc23b3aa99fb043ed2fd46a86b65f58c5de4a9e6b1a1cad5afda9f38b1",
+      "pngSha256": "e07952b1e8c04c8ff2d4cdd64f6e9ef12ca19a8394ff302363188d82b5c8f157",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        241,
+        206,
+        213
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703092,
+      "club": "RUS Molenbaix",
+      "clubPageTitle2026": "RFC. MOLENBAIX",
+      "crestSource": "https://www.foot24.be/logos/05591.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/rfc-molenbaix",
+      "sourceType": "directory_manual_name_match",
+      "sourceSha256": "94a84e89aa7b82ca7e371872f8028720e5edb6a756347687f6d3d49059ebfa9b",
+      "pngSha256": "5a59918e11c7fb5a7fbbaa16770c79bcb54281313964cc87120af6812a8c06c9",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        206,
+        209,
+        241
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703093,
+      "club": "RUS Monceau",
+      "clubPageTitle2026": "RAS. MONCEAU",
+      "crestSource": "https://www.foot24.be/logos/04143.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/ras-monceau",
+      "sourceType": "directory_manual_name_match",
+      "sourceSha256": "1efb40446deb5818579ebfa24deeeebb4d0010cb2cae7f188bd67718f5f613bc",
+      "pngSha256": "ecce93bd61ddfce026cba3791d64a12a02b91ebaa000059a28834b6165b28b38",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        206,
+        221,
+        241
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703094,
+      "club": "SC Néchin",
+      "clubPageTitle2026": "SC. DE NECHIN",
+      "crestSource": "https://www.foot24.be/logos/06616.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/sc-de-nechin",
+      "sourceType": "directory_manual_name_match",
+      "sourceSha256": "ad5445abc942efb89a8472f5d22c8172b3b35c3e629c3af7cdd410fdd77ddfe4",
+      "pngSha256": "82f7576fb69b82a540c1df8ec10634899c62f96e47163e063b90cd32e9ab4abf",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        206,
+        241,
+        209
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703096,
+      "club": "RUS Soignies",
+      "clubPageTitle2026": "R. SOIGNIES SPORTS",
+      "crestSource": "https://www.foot24.be/logos/01678.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/r-soignies-sports",
+      "sourceType": "directory_manual_name_match",
+      "sourceSha256": "f425ec082b0b8cd9be036463dbe3335f42ea365e94c45fb7185009931ed909dd",
+      "pngSha256": "ce083d9fac2e5725e28268812979947799045f43ae1a59331113529e0930b9d9",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        241,
+        213,
+        206
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703097,
+      "club": "Sporting Bruxelles",
+      "clubPageTitle2026": "SPORTING BRUXELLES",
+      "crestSource": "https://www.foot24.be/logos/06576.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/sporting-bruxelles",
+      "sourceType": "directory_manual_name_match",
+      "sourceSha256": "dfe84c3cce66b19b8ed8a9df0be8b87a7314318c4319e4f83134a58cd4910336",
+      "pngSha256": "687728478f11ecf47b447dc516125df24e19c4d8fe14933b79da9424311244d6",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        241,
+        226,
+        206
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703098,
+      "club": "Saint-Michel FC",
+      "clubPageTitle2026": "RFC. SAINT-MICHEL",
+      "crestSource": "https://www.foot24.be/logos/07774.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/fc-saint-michel",
+      "sourceType": "directory_manual_name_match",
+      "sourceSha256": "db18ee2e8e69079f8119f3a1014a9937ab9a0009b3b7bd95b524ff7b9c987a58",
+      "pngSha256": "ede48ce9af66993c823efaffd8d858930d89fb8736634c4faba62ee6e9bcbebd",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        241,
+        206,
+        213
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703099,
+      "club": "FC Ans",
+      "clubPageTitle2026": "FC. ANS",
+      "crestSource": "https://www.foot24.be/logos/02913.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/fc-tilleur",
+      "sourceType": "directory_manual_name_match",
+      "sourceSha256": "05dc3c80aaf05383f1b03ee2740188cc059e695e26feca043873f65343966ef5",
+      "pngSha256": "78369d900ba631d9794529a65b3899f1f91a5771e79d33307a65e63c5e90b98e",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        206,
+        221,
+        241
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703100,
+      "club": "R Aubel FC",
+      "clubPageTitle2026": "R. AUBEL FC.",
+      "crestSource": "https://www.foot24.be/logos/02816.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/r-aubel-fc",
+      "sourceType": "directory_manual_name_match",
+      "sourceSha256": "7248b9a58965489a5d74c66b89d77bf2679f0d0cc601d7f48e82271fbde1f6b2",
+      "pngSha256": "796059c11b36e1869b1b83a2e1dd08cc8408c2678e72fa3977fe6d57e167a6c4",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        230,
+        241,
+        206
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703101,
+      "club": "RFC du Geer",
+      "clubPageTitle2026": "ESFC. DU GEER",
+      "crestSource": "https://www.foot24.be/logos/07495.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/esfc-du-geer",
+      "sourceType": "directory_manual_name_match",
+      "sourceSha256": "af91c94af39efc2bb347088b8e02d63c2f961a3064f6855819bff08f24d0a9c2",
+      "pngSha256": "6c2a4aa5c9f011fa17744e2dd706246c98b018984df7e6e534cff0e7021a6e9b",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        206,
+        221,
+        241
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703102,
+      "club": "RUS Elsaute",
+      "clubPageTitle2026": "ET. ELSAUTOISE",
+      "crestSource": "https://www.foot24.be/logos/06548.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/et-elsautoise",
+      "sourceType": "directory_manual_name_match",
+      "sourceSha256": "c5464793070390d60df1aada1e63eb5f10c61db7ace34d0c0a19ec603cf88157",
+      "pngSha256": "d4b29f2c5442e0c893d31eab8431e4af2e01e5f4ea86aee933391d703434d322",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        206,
+        241,
+        209
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703104,
+      "club": "RUS Longlier",
+      "clubPageTitle2026": "RRC. LONGLIER",
+      "crestSource": "https://www.foot24.be/logos/03189.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/rrc-longlier",
+      "sourceType": "directory_manual_name_match",
+      "sourceSha256": "06256cd3dea1185a0af3b4493b0e356cd828f2598ecc54eba043af1f1b189f65",
+      "pngSha256": "dd68a704d1a90a8b127628c2749bffdba75a020bd8f17d99d1be93a7bfaa05a8",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        241,
+        239,
+        206
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703105,
+      "club": "RFC Libramont",
+      "clubPageTitle2026": "RCS. LIBRAMONTOIS",
+      "crestSource": "https://www.foot24.be/logos/01590.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/rcs-libramontois",
+      "sourceType": "directory_manual_name_match",
+      "sourceSha256": "3940ff36ce7fa0cc4496455a16c07ebb8d00d6ec1cc4fd4437ea4b13376ca530",
+      "pngSha256": "42bb84d6020e71ce5d3b5dacc52191c51638ee048a1efe269e3c90e2bcfb97e9",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        217,
+        206,
+        241
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703106,
+      "club": "RFC Malmedy",
+      "clubPageTitle2026": "RFC. MALMUNDARIA 1904",
+      "crestSource": "https://www.foot24.be/logos/00188.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/rfc-malmundaria-1904",
+      "sourceType": "directory_manual_name_match",
+      "sourceSha256": "62e124327bf379822906f76e2ec49cd6327bfa2ea39c2bcbbb1fc8b76480f2a0",
+      "pngSha256": "6b63c878f0045247f50e3468f43fd1b1d6351080862658697ba94d27923c2e88",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        217,
+        241,
+        206
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703107,
+      "club": "RFC Meix-devant-Virton",
+      "clubPageTitle2026": "ROC. MEIX DT-VIRTON",
+      "crestSource": "https://www.foot24.be/logos/03201.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/roc-meix-dt-virton",
+      "sourceType": "directory_manual_name_match",
+      "sourceSha256": "90f88579dd2ccf171c2b53d5fc21e72edf28234c61013afc6c3048d46e2442ec",
+      "pngSha256": "54a8bbb9365481ca1b908663fc9265b91b1e485d205e915132eea495793466a1",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        206,
+        209,
+        241
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703108,
+      "club": "RUS Messancy",
+      "clubPageTitle2026": "RFC. MESSANCY",
+      "crestSource": "https://www.foot24.be/logos/00990.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/rfc-messancy",
+      "sourceType": "directory_manual_name_match",
+      "sourceSha256": "2bc9d034beb816329a9f434e475ebbb0e77c1e572bc9a8bf10291e0eed917a1b",
+      "pngSha256": "4abd5c7a00654678a8a2cf228e1a0ea7019969f9e7a69a0b3d4d79ecd0293bb2",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        241,
+        239,
+        206
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703109,
+      "club": "R Momalloise",
+      "clubPageTitle2026": "R. UNION MOMALLOISE",
+      "crestSource": "https://www.foot24.be/logos/02947.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/r-union-momalloise",
+      "sourceType": "directory_manual_name_match",
+      "sourceSha256": "14fa44b63e867c35fce33ed46f85719e03128bf1d59074ff6fd3b7d88e3944a5",
+      "pngSha256": "864568f08672f0e52e3250243bbc2625c99975e1027f2c25d6652d3fdf834a20",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        241,
+        239,
+        206
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703110,
+      "club": "RUS Mormont",
+      "clubPageTitle2026": "RRC. MORMONT",
+      "crestSource": "https://www.foot24.be/logos/03816.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/rrc-mormont",
+      "sourceType": "directory_manual_name_match",
+      "sourceSha256": "60dbd96aa4cf762ba81c49698b5bf8388fa2527964caa7ede6de53fa93a2fe1b",
+      "pngSha256": "60b316ca0e29d1404d1fa27e2702b90c8391c0965e1d45202822f9db8a87e3a6",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        241,
+        213,
+        206
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703111,
+      "club": "Sprimont Comblain Sport",
+      "clubPageTitle2026": "ROYAL SPRIMONT BANNEUX",
+      "crestSource": "https://www.foot24.be/logos/00260.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/fcb-sprimont",
+      "sourceType": "directory_manual_name_match",
+      "sourceSha256": "f639479cda05fd98629dca72f3465bdb149520179ddfca0d3faa2372badfb679",
+      "pngSha256": "0091311c465bac22601ac47aa422b0d86327b1bfb41fa59e1241ac4911e55804",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        241,
+        239,
+        206
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703112,
+      "club": "RCS Tilff",
+      "clubPageTitle2026": "RSC. TILFFOIS",
+      "crestSource": "https://www.foot24.be/logos/00172.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/rsc-tilffois",
+      "sourceType": "directory_manual_name_match",
+      "sourceSha256": "c43004af748265ab95cc78d4b876ad10850f1a9ff16c0e1e3069a466aa882661",
+      "pngSha256": "989c6e8c51fea18258554e154d1053766b918368783cf41eddefbed3cdd5099f",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        217,
+        206,
+        241
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703113,
+      "club": "RCS Verlaine",
+      "clubPageTitle2026": "RCS. VERLAINE",
+      "crestSource": "https://www.foot24.be/logos/02871.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/rcs-verlaine",
+      "sourceType": "directory_manual_name_match",
+      "sourceSha256": "b89897a145307e778eadaa0548bacd0374619d949ad7a9505ed99973f2bbce64",
+      "pngSha256": "08a4ff9bd995308f63422e5ea54ece0da504ea53140f95404d3b7d5860d1e285",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        206,
+        241,
+        209
+      ],
+      "remarks": ""
+    },
+    {
+      "id": 1900262703114,
+      "club": "Stade Waremmien",
+      "clubPageTitle2026": "R. STADE WAREMMIEN FC.",
+      "crestSource": "https://www.foot24.be/logos/00190.jpg",
+      "clubEvidencePage": "https://www.foot24.be/fr/clubs/r-stade-waremmien-fc",
+      "sourceType": "directory_manual_name_match",
+      "sourceSha256": "63ebf68cacb0d0e2a880cfbcdcf1d57b1151e49617a4cd4f7a5a2a1c25fb9d84",
+      "pngSha256": "3bc4d5036a6f008c9313fb93c94bcdc9d60a8a161316682e43377872de16a058",
+      "format": "png",
+      "width": 120,
+      "height": 96,
+      "backgroundRgb": [
+        241,
+        213,
+        206
+      ],
+      "remarks": ""
+    }
+  ]
+}
