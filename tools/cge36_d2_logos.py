@@ -90,6 +90,39 @@ def find_logo(country,name,filename):
      return img,url,'official-club-or-federation-table-strict-image-alt'
     except Exception:continue
   except Exception:pass
+
+ # Verified named assets visible in football club crest catalogues or team services.
+ known={
+   'Mārupes SC':'https://images.seeklogo.com/logo-png/38/1/mrupe-sc-logo-png_seeklogo-384577.png',
+   'JFK Ventspils':'https://r2.thesportsdb.com/images/media/team/badge/ow928b1734112963.png',
+   'Vilniaus BFA':'https://www.statarea.com/images/teams/embl/21416.png',
+   'FK Garliava':'https://images.seeklogo.com/logo-png/52/1/fk-garliava-logo-png_seeklogo-520848.png',
+ }
+ if name in known:
+  u=known[name]
+  try:return get(u),u,'exact-club-identified-independent-badge'
+  except Exception as e: print('Known image could not be retrieved:',name,str(e)[:130],flush=True)
+ if name=='Riga Mariners':
+  # Own official Riga Mariners website; only its navigation/header logo.
+  for site in ['https://rigamariners.lv/','https://rigamariners.lv/par-mums/']:
+   try:
+    soup=BeautifulSoup(S.get(site,timeout=24).text,'html.parser')
+    candidates=[]
+    for img in soup.find_all('img'):
+     parent=img.find_parent(['header','nav'])
+     alt=img.get('alt') or ''
+     classes=' '.join(img.get('class') or [])
+     src=img.get('data-src') or img.get('src') or ''
+     if (parent or 'custom-logo' in classes or norm(alt)==norm(name)) and src and not src.startswith('data:'):
+      candidates.append((src,alt,classes))
+    for src,alt,cls in candidates:
+     url=urljoin(site,src)
+     try:
+      im=get(url)
+      if 0.55<=im.width/im.height<=1.8:
+       return im,url,'club-official-website-header-logo'
+     except Exception: pass
+   except Exception as e:print('Riga official website lookup',str(e)[:120],flush=True)
  raise ValueError('No securely identified real club logo; do not publish placeholder')
 manifest=[]
 for cc,groups in CLUBS.items():
