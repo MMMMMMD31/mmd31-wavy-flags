@@ -1,0 +1,474 @@
+[
+  {
+    "id": 1906100001001,
+    "name": "Olympia Yerevan",
+    "country": "armenia",
+    "source": null,
+    "parent_crest_allowed": false,
+    "status": "source to research, never fabricate"
+  },
+  {
+    "id": 1906100001002,
+    "name": "Andranik",
+    "country": "armenia",
+    "source": null,
+    "parent_crest_allowed": false,
+    "status": "source to research, never fabricate"
+  },
+  {
+    "id": 1906100001003,
+    "name": "BKMA II",
+    "country": "armenia",
+    "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/armenia/BKMA_Yerevan.svg",
+    "parent_crest_allowed": true,
+    "status": "repository-specific logo source"
+  },
+  {
+    "id": 1906100001004,
+    "name": "Bentonit Ijevan",
+    "country": "armenia",
+    "source": null,
+    "parent_crest_allowed": false,
+    "status": "source to research, never fabricate"
+  },
+  {
+    "id": 1906100001005,
+    "name": "Avshar Ararat",
+    "country": "armenia",
+    "source": null,
+    "parent_crest_allowed": false,
+    "status": "source to research, never fabricate"
+  },
+  {
+    "id": 1906100001006,
+    "name": "Lernayin Artsakh",
+    "country": "armenia",
+    "source": null,
+    "parent_crest_allowed": false,
+    "status": "source to research, never fabricate"
+  },
+  {
+    "id": 1906100001007,
+    "name": "Mika Yerevan",
+    "country": "armenia",
+    "source": null,
+    "parent_crest_allowed": false,
+    "status": "source to research, never fabricate"
+  },
+  {
+    "id": 1906100001008,
+    "name": "Pyunik Academy",
+    "country": "armenia",
+    "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/armenia/Pyunik.svg",
+    "parent_crest_allowed": true,
+    "status": "repository-specific logo source"
+  },
+  {
+    "id": 1906100001009,
+    "name": "Shirak II",
+    "country": "armenia",
+    "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/armenia/Shirak.svg",
+    "parent_crest_allowed": true,
+    "status": "repository-specific logo source"
+  },
+  {
+    "id": 1906100001010,
+    "name": "Ararat II",
+    "country": "armenia",
+    "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/armenia/Ararat.svg",
+    "parent_crest_allowed": true,
+    "status": "repository-specific logo source"
+  },
+  {
+    "id": 1906100001011,
+    "name": "Sardarapat II",
+    "country": "armenia",
+    "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/armenia/Sardarapat_FC.svg",
+    "parent_crest_allowed": true,
+    "status": "repository-specific logo source"
+  },
+  {
+    "id": 1906100001012,
+    "name": "Urartu II",
+    "country": "armenia",
+    "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/armenia/Urartu.svg",
+    "parent_crest_allowed": true,
+    "status": "repository-specific logo source"
+  },
+  {
+    "id": 1906100001013,
+    "name": "Noah II",
+    "country": "armenia",
+    "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/armenia/Noah.svg",
+    "parent_crest_allowed": true,
+    "status": "repository-specific logo source"
+  },
+  {
+    "id": 1906100001014,
+    "name": "Ararat-Armenia II",
+    "country": "armenia",
+    "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/armenia/Ararat-Armenia.svg",
+    "parent_crest_allowed": true,
+    "status": "repository-specific logo source"
+  },
+  {
+    "id": 1906100001015,
+    "name": "Hayq",
+    "country": "armenia",
+    "source": null,
+    "parent_crest_allowed": false,
+    "status": "source to research, never fabricate"
+  },
+  {
+    "id": 1906200001001,
+    "name": "MOİK",
+    "country": "azerbaijan",
+    "source": null,
+    "parent_crest_allowed": false,
+    "status": "source to research, never fabricate"
+  },
+  {
+    "id": 1906200001002,
+    "name": "Şahdağ Qusar",
+    "country": "azerbaijan",
+    "source": null,
+    "parent_crest_allowed": false,
+    "status": "source to research, never fabricate"
+  },
+  {
+    "id": 1906200001003,
+    "name": "Şimal",
+    "country": "azerbaijan",
+    "source": null,
+    "parent_crest_allowed": false,
+    "status": "source to research, never fabricate"
+  },
+  {
+    "id": 1906200001004,
+    "name": "Gəncəbasar",
+    "country": "azerbaijan",
+    "source": null,
+    "parent_crest_allowed": false,
+    "status": "source to research, never fabricate"
+  },
+  {
+    "id": 1906200001005,
+    "name": "Xankəndi",
+    "country": "azerbaijan",
+    "source": null,
+    "parent_crest_allowed": false,
+    "status": "source to research, never fabricate"
+  },
+  {
+    "id": 1906200001006,
+    "name": "Səbail",
+    "country": "azerbaijan",
+    "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/azerbaijan/Sabail.svg",
+    "parent_crest_allowed": false,
+    "status": "repository-specific logo source"
+  },
+  {
+    "id": 1906200001007,
+    "name": "Mingəçevir",
+    "country": "azerbaijan",
+    "source": null,
+    "parent_crest_allowed": false,
+    "status": "source to research, never fabricate"
+  },
+  {
+    "id": 1906200001008,
+    "name": "Zaqatala",
+    "country": "azerbaijan",
+    "source": null,
+    "parent_crest_allowed": false,
+    "status": "source to research, never fabricate"
+  },
+  {
+    "id": 1906200001009,
+    "name": "Baku Sportinq",
+    "country": "azerbaijan",
+    "source": null,
+    "parent_crest_allowed": false,
+    "status": "source to research, never fabricate"
+  },
+  {
+    "id": 1906200001010,
+    "name": "Karvan-Yevlax",
+    "country": "azerbaijan",
+    "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/azerbaijan/Karvan.svg",
+    "parent_crest_allowed": false,
+    "status": "repository-specific logo source"
+  },
+  {
+    "id": 1906300001001,
+    "name": "Shakhter Karagandy",
+    "country": "kazakhstan",
+    "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/kazakhstan/Shakhter.svg",
+    "parent_crest_allowed": false,
+    "status": "repository-specific logo source"
+  },
+  {
+    "id": 1906300001002,
+    "name": "Kairat-Zhastar",
+    "country": "kazakhstan",
+    "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/kazakhstan/Kairat.svg",
+    "parent_crest_allowed": true,
+    "status": "repository-specific logo source"
+  },
+  {
+    "id": 1906300001003,
+    "name": "Turan Turkistan",
+    "country": "kazakhstan",
+    "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/kazakhstan/Turan.svg",
+    "parent_crest_allowed": false,
+    "status": "repository-specific logo source"
+  },
+  {
+    "id": 1906300001004,
+    "name": "Academy Ontustyk",
+    "country": "kazakhstan",
+    "source": null,
+    "parent_crest_allowed": true,
+    "status": "source to research, never fabricate"
+  },
+  {
+    "id": 1906300001005,
+    "name": "Astana Zhastar",
+    "country": "kazakhstan",
+    "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/kazakhstan/Astana.svg",
+    "parent_crest_allowed": true,
+    "status": "repository-specific logo source"
+  },
+  {
+    "id": 1906300001006,
+    "name": "Taraz",
+    "country": "kazakhstan",
+    "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/kazakhstan/Taraz.svg",
+    "parent_crest_allowed": false,
+    "status": "repository-specific logo source"
+  },
+  {
+    "id": 1906300001007,
+    "name": "Arys",
+    "country": "kazakhstan",
+    "source": null,
+    "parent_crest_allowed": false,
+    "status": "source to research, never fabricate"
+  },
+  {
+    "id": 1906300001008,
+    "name": "Zhaiyk",
+    "country": "kazakhstan",
+    "source": null,
+    "parent_crest_allowed": false,
+    "status": "source to research, never fabricate"
+  },
+  {
+    "id": 1906300001009,
+    "name": "Khan Tengri",
+    "country": "kazakhstan",
+    "source": null,
+    "parent_crest_allowed": false,
+    "status": "source to research, never fabricate"
+  },
+  {
+    "id": 1906300001010,
+    "name": "Kaspiy Zhastar",
+    "country": "kazakhstan",
+    "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/kazakhstan/Kaspiy.svg",
+    "parent_crest_allowed": true,
+    "status": "repository-specific logo source"
+  },
+  {
+    "id": 1906300001011,
+    "name": "Batyr",
+    "country": "kazakhstan",
+    "source": null,
+    "parent_crest_allowed": false,
+    "status": "source to research, never fabricate"
+  },
+  {
+    "id": 1906300001012,
+    "name": "Aktobe Zhastar",
+    "country": "kazakhstan",
+    "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/kazakhstan/Aktobe.svg",
+    "parent_crest_allowed": true,
+    "status": "repository-specific logo source"
+  },
+  {
+    "id": 1906300001013,
+    "name": "Tobol Zhastar",
+    "country": "kazakhstan",
+    "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/kazakhstan/Tobol.svg",
+    "parent_crest_allowed": true,
+    "status": "repository-specific logo source"
+  },
+  {
+    "id": 1906300001014,
+    "name": "Yelimay Zhastar",
+    "country": "kazakhstan",
+    "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/kazakhstan/Yelimay.svg",
+    "parent_crest_allowed": true,
+    "status": "repository-specific logo source"
+  },
+  {
+    "id": 1906400001001,
+    "name": "Kayserispor",
+    "country": "turkey",
+    "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Kayserispor.svg",
+    "parent_crest_allowed": false,
+    "status": "repository-specific logo source"
+  },
+  {
+    "id": 1906400001002,
+    "name": "Bursaspor",
+    "country": "turkey",
+    "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Bursaspor.svg",
+    "parent_crest_allowed": false,
+    "status": "repository-specific logo source"
+  },
+  {
+    "id": 1906400001003,
+    "name": "Iğdır FK",
+    "country": "turkey",
+    "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/I%C4%9Fd%C4%B1r_FK.svg",
+    "parent_crest_allowed": false,
+    "status": "repository-specific logo source"
+  },
+  {
+    "id": 1906400001004,
+    "name": "Ankara Keçiörengücü",
+    "country": "turkey",
+    "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Ke%C3%A7i%C3%B6reng%C3%BCc%C3%BC.svg",
+    "parent_crest_allowed": false,
+    "status": "repository-specific logo source"
+  },
+  {
+    "id": 1906400001005,
+    "name": "Batman Petrolspor",
+    "country": "turkey",
+    "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Batman_Petrolspor.svg",
+    "parent_crest_allowed": false,
+    "status": "repository-specific logo source"
+  },
+  {
+    "id": 1906400001006,
+    "name": "Mardin 1969 Spor",
+    "country": "turkey",
+    "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Mardin_1969_Spor.svg",
+    "parent_crest_allowed": false,
+    "status": "repository-specific logo source"
+  },
+  {
+    "id": 1906400001007,
+    "name": "Antalyaspor",
+    "country": "turkey",
+    "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Antalyaspor.svg",
+    "parent_crest_allowed": false,
+    "status": "repository-specific logo source"
+  },
+  {
+    "id": 1906400001008,
+    "name": "Sarıyer",
+    "country": "turkey",
+    "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Sar%C4%B1yer.svg",
+    "parent_crest_allowed": false,
+    "status": "repository-specific logo source"
+  },
+  {
+    "id": 1906400001009,
+    "name": "Muğlaspor",
+    "country": "turkey",
+    "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Mu%C4%9Flaspor.svg",
+    "parent_crest_allowed": false,
+    "status": "repository-specific logo source"
+  },
+  {
+    "id": 1906400001010,
+    "name": "Bandırmaspor",
+    "country": "turkey",
+    "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Band%C4%B1rmaspor.svg",
+    "parent_crest_allowed": false,
+    "status": "repository-specific logo source"
+  },
+  {
+    "id": 1906400001011,
+    "name": "Bodrum FK",
+    "country": "turkey",
+    "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Bodrum_FK.svg",
+    "parent_crest_allowed": false,
+    "status": "repository-specific logo source"
+  },
+  {
+    "id": 1906400001012,
+    "name": "Sivasspor",
+    "country": "turkey",
+    "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Sivasspor.svg",
+    "parent_crest_allowed": false,
+    "status": "repository-specific logo source"
+  },
+  {
+    "id": 1906400001013,
+    "name": "Fatih Karagümrük",
+    "country": "turkey",
+    "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Fatih_Karag%C3%BCmr%C3%BCk.svg",
+    "parent_crest_allowed": false,
+    "status": "repository-specific logo source"
+  },
+  {
+    "id": 1906400001014,
+    "name": "Esenler Erokspor",
+    "country": "turkey",
+    "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Esenler_Erokspor.svg",
+    "parent_crest_allowed": false,
+    "status": "repository-specific logo source"
+  },
+  {
+    "id": 1906400001015,
+    "name": "Ümraniyespor",
+    "country": "turkey",
+    "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/%C3%9Cmraniyespor.svg",
+    "parent_crest_allowed": false,
+    "status": "repository-specific logo source"
+  },
+  {
+    "id": 1906400001016,
+    "name": "Manisa FK",
+    "country": "turkey",
+    "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Manisa_FK.svg",
+    "parent_crest_allowed": false,
+    "status": "repository-specific logo source"
+  },
+  {
+    "id": 1906400001017,
+    "name": "Pendikspor",
+    "country": "turkey",
+    "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Pendikspor.svg",
+    "parent_crest_allowed": false,
+    "status": "repository-specific logo source"
+  },
+  {
+    "id": 1906400001018,
+    "name": "Vanspor FK",
+    "country": "turkey",
+    "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Van_Spor_FK.svg",
+    "parent_crest_allowed": false,
+    "status": "repository-specific logo source"
+  },
+  {
+    "id": 1906400001019,
+    "name": "İstanbulspor",
+    "country": "turkey",
+    "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/%C4%B0stanbulspor.svg",
+    "parent_crest_allowed": false,
+    "status": "repository-specific logo source"
+  },
+  {
+    "id": 1906400001020,
+    "name": "Boluspor",
+    "country": "turkey",
+    "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Boluspor.svg",
+    "parent_crest_allowed": false,
+    "status": "repository-specific logo source"
+  }
+]
