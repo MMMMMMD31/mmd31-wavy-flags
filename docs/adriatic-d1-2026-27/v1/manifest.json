@@ -2,7 +2,7 @@
   "season": "2026-27",
   "catalog": "MMD31 first division genuine crest candidates",
   "total": 40,
-  "published": 39,
+  "published": 40,
   "assets": [
     {
       "id": 1942600200000,
@@ -345,9 +345,12 @@
       "country": "montenegro",
       "name": "FK Otrant-Olympic",
       "background": "#BFD1E7",
-      "source": null,
+      "source": "https://images.seeklogo.com/logo-png/30/1/fk-otrant-olympic-ulcinj-ulqin-logo-png_seeklogo-302254.png",
       "sourceCandidate": "otrant-olympic",
-      "status": "CREST_SOURCE_UNVERIFIED"
+      "status": "PNG_120x96_PUBLISHED_IN_BRANCH",
+      "sha256": "df7c4e809f55b18346908568030fbf0226b9bb1883f4e3ad90f805fd776d02e6",
+      "width": 120,
+      "height": 96
     },
     {
       "id": 1942600200209,
