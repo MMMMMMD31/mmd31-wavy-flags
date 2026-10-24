@@ -74,7 +74,7 @@ def faroe_lookup(name):
      if not src.startswith("https://"):continue
      fn=src.split("/")[-1].lower()
      if any(word in fn for word in ("kit","shirt","jersey","stadium","ground","home_colours","away_colours","flag_of")):continue
-     if not re.search(r"\\.(png|jpe?g|webp|svg)(?:\\?|$)",src,re.I):continue
+     if not re.search(r"\.(png|jpe?g|webp|svg)(?:\\?|$)",src,re.I):continue
      try:
       logo=load_logo(src)
       return logo,src,url
