@@ -1,0 +1,740 @@
+{
+  "assets": [
+    {
+      "id": 1900262703000,
+      "name": "Koninklijke Eendracht Aalst Lede",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703001,
+      "name": "KV Diksmuide-Oostende",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703002,
+      "name": "Racing Club Gent",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703003,
+      "name": "KFC Vigor Wuitens Hamme",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703004,
+      "name": "SV Zulte Waregem B",
+      "status": "PARENT_REUSED_IN_JSON",
+      "source": null
+    },
+    {
+      "id": 1900262703005,
+      "name": "KV Mechelen B",
+      "status": "PARENT_REUSED_IN_JSON",
+      "source": null
+    },
+    {
+      "id": 1900262703006,
+      "name": "KFC HO Kalken",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703007,
+      "name": "FC Lebbeke",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703008,
+      "name": "K Londerzeel SK",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703009,
+      "name": "VK Ninove",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703010,
+      "name": "KSV Oudenaarde",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703011,
+      "name": "KVCSV Oostkamp",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703012,
+      "name": "Sparta Petegem-Deinze",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703013,
+      "name": "KM Torhout",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703014,
+      "name": "KFC Voorde-Appelterre",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703015,
+      "name": "RFC Wetteren",
+      "status": "PUBLIC_SOURCE_CANDIDATE_PUBLISHED",
+      "source": "https://commons.wikimedia.org/wiki/Special:Redirect/file/RFC%20Wetteren%20logo.png",
+      "source_metadata": {
+        "wikidata": "Q2843738",
+        "label": "Royal Football Club Wetteren",
+        "description": "Flemish association football club",
+        "file": "RFC Wetteren logo.png"
+      },
+      "background": [
+        255,
+        248,
+        213
+      ],
+      "sha256": "d1a9d6478024fe38c9a40ede98edfe1a67d3212e49e7eed8772d97528e10a518",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-d4-d5-v17-crests-test/docs/belgian-d4-d5-2026-27/v17/1900262703015.png"
+    },
+    {
+      "id": 1900262703016,
+      "name": "Bocholter VV",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703017,
+      "name": "R Cappellen FC",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703018,
+      "name": "KFC De Kempen TL",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703019,
+      "name": "K Diegem Sport",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703020,
+      "name": "RC Hades Kiewit",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703021,
+      "name": "K Racing Mechelen",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703022,
+      "name": "KFC Nijlen",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703023,
+      "name": "Tempo Overijse",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703024,
+      "name": "Sportief Rotselaar",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703025,
+      "name": "Rupel Boom",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703026,
+      "name": "Sint-Truidense VV B",
+      "status": "PARENT_REUSED_IN_JSON",
+      "source": null
+    },
+    {
+      "id": 1900262703027,
+      "name": "Eendracht Termien",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703028,
+      "name": "KSK Tongeren",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703029,
+      "name": "KVK Wellen",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703030,
+      "name": "KVC Wilrijk",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703031,
+      "name": "Royal Antwerp FC B",
+      "status": "PARENT_REUSED_IN_JSON",
+      "source": null
+    },
+    {
+      "id": 1900262703032,
+      "name": "RUS Acren-Lessines",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703033,
+      "name": "R Aywaille FC",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703034,
+      "name": "RUS Binche",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703035,
+      "name": "RCS Brainois",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703036,
+      "name": "KAS Eupen U23",
+      "status": "PARENT_REUSED_IN_JSON",
+      "source": null
+    },
+    {
+      "id": 1900262703037,
+      "name": "FC Ganshoren",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703038,
+      "name": "Union Hutoise",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703039,
+      "name": "RSD Jette",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703040,
+      "name": "RFC La Calamine",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703041,
+      "name": "RFC Manageoise",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703042,
+      "name": "Stade Mouscronnois",
+      "status": "PUBLIC_SOURCE_CANDIDATE_PUBLISHED",
+      "source": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Logo%20Stade%20Mouscronnois.png",
+      "source_metadata": {
+        "commons_file": "File:Logo Stade Mouscronnois.png"
+      },
+      "background": [
+        244,
+        209,
+        210
+      ],
+      "sha256": "2404ded5621b08da19cd300dafbfa862461f69307c63a275ec180e25224981df",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-d4-d5-v17-crests-test/docs/belgian-d4-d5-2026-27/v17/1900262703042.png"
+    },
+    {
+      "id": 1900262703043,
+      "name": "Ostiches-Ath",
+      "status": "PUBLIC_SOURCE_CANDIDATE_PUBLISHED",
+      "source": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Logo%20CSPV%20Ostiches-Ath.png",
+      "source_metadata": {
+        "commons_file": "File:Logo CSPV Ostiches-Ath.png"
+      },
+      "background": [
+        250,
+        214,
+        218
+      ],
+      "sha256": "f5078eccb6d29cbae9c48f9e445a786094308356854345554dc8db2cb244b551",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-d4-d5-v17-crests-test/docs/belgian-d4-d5-2026-27/v17/1900262703043.png"
+    },
+    {
+      "id": 1900262703044,
+      "name": "Richelle United",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703045,
+      "name": "Crossing Schaerbeek",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703046,
+      "name": "Union Saint-Ghislain Tertre Hautrage",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703047,
+      "name": "RRC Stockay-Warfusée",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703048,
+      "name": "UR Namur",
+      "status": "PUBLIC_SOURCE_CANDIDATE_PUBLISHED",
+      "source": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Logo%20Union%20Namur.png",
+      "source_metadata": {
+        "commons_file": "File:Logo Union Namur.png"
+      },
+      "background": [
+        255,
+        252,
+        209
+      ],
+      "sha256": "697cc7a8b6442b61f2b1ff6af7db73eb8e39e8348f4dd7922c9969d153ef7918",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-d4-d5-v17-crests-test/docs/belgian-d4-d5-2026-27/v17/1900262703048.png"
+    },
+    {
+      "id": 1900262703049,
+      "name": "RCS Verviétois",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703050,
+      "name": "Avanti Stekene",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703051,
+      "name": "K Berchem Sport",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703052,
+      "name": "KSC Blankenberge",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703053,
+      "name": "Olsa Brakel",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703054,
+      "name": "SC City Pirates Antwerpen",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703055,
+      "name": "KVE Drongen",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703056,
+      "name": "Eendracht Elene-Grotenberge",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703057,
+      "name": "KCVV Elewijt",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703058,
+      "name": "Erpe-Mere United",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703059,
+      "name": "FC Gullegem",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703060,
+      "name": "KVK Ieper",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703061,
+      "name": "KWS Club Lauwe",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703062,
+      "name": "KSV Rumbeke",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703063,
+      "name": "KVV Sint-Denijs Sport",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703064,
+      "name": "KFC Wambeek-Ternat",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703065,
+      "name": "Zwevegem Sport",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703066,
+      "name": "K Achel VV",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703067,
+      "name": "FC Averbode Testelt Okselaar",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703068,
+      "name": "K Berg en Dal VV",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703069,
+      "name": "KAC Betekom",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703070,
+      "name": "GS Bree-Beek",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703071,
+      "name": "Esperanza Pelt",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703072,
+      "name": "ASV Geel",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703073,
+      "name": "OHR Huldenberg",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703074,
+      "name": "KVC Lille United",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703075,
+      "name": "VK Linden",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703076,
+      "name": "Lommel SK B",
+      "status": "PARENT_REUSED_IN_JSON",
+      "source": null
+    },
+    {
+      "id": 1900262703077,
+      "name": "K Nieuwmoer FC",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703078,
+      "name": "WS Schoonbeek-Beverst",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703079,
+      "name": "KFC Sint-Lenaarts",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703080,
+      "name": "KFC Turnhout",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703081,
+      "name": "FC Wezel Sport",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703082,
+      "name": "KVV Zepperen-Brustem",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703083,
+      "name": "Arquet",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703084,
+      "name": "R Biesme",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703085,
+      "name": "RCS Buzet",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703086,
+      "name": "RFC Ciney",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703087,
+      "name": "Evelette-Jallet",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703088,
+      "name": "Stade Everois",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703089,
+      "name": "USC Jemappes",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703090,
+      "name": "FC Kosova Schaerbeek",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703091,
+      "name": "R Léopold FC",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703092,
+      "name": "RUS Molenbaix",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703093,
+      "name": "RUS Monceau",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703094,
+      "name": "SC Néchin",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703095,
+      "name": "Union Rochefortoise B",
+      "status": "PARENT_REUSED_IN_JSON",
+      "source": null
+    },
+    {
+      "id": 1900262703096,
+      "name": "RUS Soignies",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703097,
+      "name": "Sporting Bruxelles",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703098,
+      "name": "Saint-Michel FC",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703099,
+      "name": "FC Ans",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703100,
+      "name": "R Aubel FC",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703101,
+      "name": "RFC du Geer",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703102,
+      "name": "RUS Elsaute",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703103,
+      "name": "RCS Habay-la-Neuve B",
+      "status": "PARENT_REUSED_IN_JSON",
+      "source": null
+    },
+    {
+      "id": 1900262703104,
+      "name": "RUS Longlier",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703105,
+      "name": "RFC Libramont",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703106,
+      "name": "RFC Malmedy",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703107,
+      "name": "RFC Meix-devant-Virton",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703108,
+      "name": "RUS Messancy",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703109,
+      "name": "R Momalloise",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703110,
+      "name": "RUS Mormont",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703111,
+      "name": "Sprimont Comblain Sport",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703112,
+      "name": "RCS Tilff",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703113,
+      "name": "RCS Verlaine",
+      "status": "NON_SOURCE",
+      "source": null
+    },
+    {
+      "id": 1900262703114,
+      "name": "Stade Waremmien",
+      "status": "NON_SOURCE",
+      "source": null
+    }
+  ],
+  "complete": true,
+  "sourced": 4,
+  "missing": 103
+}
