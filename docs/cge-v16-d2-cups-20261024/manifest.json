@@ -1,8 +1,8 @@
 {
   "generated": "2026-10-24",
   "number": 59,
-  "published": 39,
-  "missing": 20,
+  "published": 50,
+  "missing": 9,
   "items": [
     {
       "id": 1906100001001,
@@ -17,10 +17,18 @@
       "id": 1906100001002,
       "name": "Andranik",
       "country": "armenia",
-      "source": null,
+      "source": "https://r2.thesportsdb.com/images/media/team/badge/6wd8p31742400922.png",
       "parent_crest_allowed": false,
-      "status": "MISSING_NO_VERIFIED_CRESt",
-      "error": "API unavailable"
+      "status": "PUBLISHED_SOURCE_NAMED_VISUAL_AUDIT_PENDING",
+      "source_basis": "identified first-team emblem",
+      "source_sha256": "23e8173a314fed255bcb9b63679ad7a4c245c815c6bd014aac5e4593e0c6f0bd",
+      "background": [
+        110,
+        126,
+        188
+      ],
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v16-d2-cups-20261024-test/docs/cge-v16-d2-cups-20261024/1906100001002.png",
+      "png_sha256": "3a131fcb9842b3cb5d32f34ebb344e86272860c7ff8ebf91562574f3402e5a53"
     },
     {
       "id": 1906100001003,
@@ -43,10 +51,18 @@
       "id": 1906100001004,
       "name": "Bentonit Ijevan",
       "country": "armenia",
-      "source": null,
+      "source": "https://r2.thesportsdb.com/images/media/team/badge/tj7wno1742401072.png",
       "parent_crest_allowed": false,
-      "status": "MISSING_NO_VERIFIED_CRESt",
-      "error": "API unavailable"
+      "status": "PUBLISHED_SOURCE_NAMED_VISUAL_AUDIT_PENDING",
+      "source_basis": "identified first-team emblem",
+      "source_sha256": "57ae53b748e860da591e87244feea3ce50a755e988ad8140d0fcbc9e45025eb0",
+      "background": [
+        255,
+        255,
+        255
+      ],
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v16-d2-cups-20261024-test/docs/cge-v16-d2-cups-20261024/1906100001004.png",
+      "png_sha256": "86970d37fe96333a6a280537ed2be03bb459868a2134d8c602e7c78b4b31665e"
     },
     {
       "id": 1906100001005,
@@ -61,19 +77,35 @@
       "id": 1906100001006,
       "name": "Lernayin Artsakh",
       "country": "armenia",
-      "source": null,
+      "source": "https://images.seeklogo.com/logo-png/61/1/fc-lernayin-artsakh-logo-png_seeklogo-613113.png",
       "parent_crest_allowed": false,
-      "status": "MISSING_NO_VERIFIED_CRESt",
-      "error": "API unavailable"
+      "status": "PUBLISHED_SOURCE_NAMED_VISUAL_AUDIT_PENDING",
+      "source_basis": "identified first-team emblem",
+      "source_sha256": "d39607b4142d326c2a087a5e631f10f476402a8922b183e7cd8d652ce1efa938",
+      "background": [
+        126,
+        110,
+        204
+      ],
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v16-d2-cups-20261024-test/docs/cge-v16-d2-cups-20261024/1906100001006.png",
+      "png_sha256": "54e00eabe464a7cfb4985c2879eb436fbcee164a7c7be76d1b85c534cb006a41"
     },
     {
       "id": 1906100001007,
       "name": "Mika Yerevan",
       "country": "armenia",
-      "source": null,
+      "source": "https://images.seeklogo.com/logo-png/38/1/fc-mika-yerevan-2013-logo-png_seeklogo-387013.png",
       "parent_crest_allowed": false,
-      "status": "MISSING_NO_VERIFIED_CRESt",
-      "error": "API unavailable"
+      "status": "PUBLISHED_SOURCE_NAMED_VISUAL_AUDIT_PENDING",
+      "source_basis": "identified first-team emblem",
+      "source_sha256": "216f51fe6e3023d789f4673664b88c96bfad8b0a131969a306ee499e55896fb8",
+      "background": [
+        110,
+        141,
+        204
+      ],
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v16-d2-cups-20261024-test/docs/cge-v16-d2-cups-20261024/1906100001007.png",
+      "png_sha256": "dd6b9b42f63fb43968f3f89ce5ba7484fd4937a5147ec0cd958453dc6f34c71b"
     },
     {
       "id": 1906100001008,
@@ -207,19 +239,35 @@
       "id": 1906200001001,
       "name": "MOİK",
       "country": "azerbaijan",
-      "source": null,
+      "source": "https://www.logotypes101.com/logos/834/DB79F2984F6ECB28AB2416D8796429B7/moik_baki.png",
       "parent_crest_allowed": false,
-      "status": "MISSING_NO_VERIFIED_CRESt",
-      "error": "API unavailable"
+      "status": "PUBLISHED_SOURCE_NAMED_VISUAL_AUDIT_PENDING",
+      "source_basis": "identified first-team emblem",
+      "source_sha256": "60b120411c74c3ef77084fc9fe02b298dc0b8c530e66609bc40fecbd8e28b1c6",
+      "background": [
+        235,
+        110,
+        110
+      ],
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v16-d2-cups-20261024-test/docs/cge-v16-d2-cups-20261024/1906200001001.png",
+      "png_sha256": "9f797d5e5182e0c5241e5ad0b88f8cf6839e6cd374fff61b0cbc513cc62fe8a1"
     },
     {
       "id": 1906200001002,
       "name": "Şahdağ Qusar",
       "country": "azerbaijan",
-      "source": null,
+      "source": "https://r2.thesportsdb.com/images/media/team/badge/26s8tu1731817178.png",
       "parent_crest_allowed": false,
-      "status": "MISSING_NO_VERIFIED_CRESt",
-      "error": "API unavailable"
+      "status": "PUBLISHED_SOURCE_NAMED_VISUAL_AUDIT_PENDING",
+      "source_basis": "identified first-team emblem",
+      "source_sha256": "e8c7b69014ed9809923faae036eeab4a9a7d9987afde6e935f6c0229fb80e50b",
+      "background": [
+        95,
+        110,
+        126
+      ],
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v16-d2-cups-20261024-test/docs/cge-v16-d2-cups-20261024/1906200001002.png",
+      "png_sha256": "9b70cf872d2d71ab7182eeee6305e7aea98fbcbe04f0541e11101500889fcd39"
     },
     {
       "id": 1906200001003,
@@ -287,10 +335,18 @@
       "id": 1906200001009,
       "name": "Baku Sportinq",
       "country": "azerbaijan",
-      "source": null,
+      "source": "https://r2.thesportsdb.com/images/media/team/badge/6ps7db1730771041.png",
       "parent_crest_allowed": false,
-      "status": "MISSING_NO_VERIFIED_CRESt",
-      "error": "API unavailable"
+      "status": "PUBLISHED_SOURCE_NAMED_VISUAL_AUDIT_PENDING",
+      "source_basis": "identified first-team emblem",
+      "source_sha256": "0c0e631a766298b9a7f4bcb3cd3cee9c109db893a1e77e33a6ded90ff181aa0f",
+      "background": [
+        110,
+        126,
+        157
+      ],
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v16-d2-cups-20261024-test/docs/cge-v16-d2-cups-20261024/1906200001009.png",
+      "png_sha256": "b037af5a7fd5b9a3d20187c4d7e657819faa746593a751fdef4955e69b28e1d2"
     },
     {
       "id": 1906200001010,
@@ -364,10 +420,18 @@
       "id": 1906300001004,
       "name": "Academy Ontustyk",
       "country": "kazakhstan",
-      "source": null,
+      "source": "https://qfl.kz/upload/teams/dd0/a2eiu9igt6q6iqq6bpskizzoqdirbr3r.png",
       "parent_crest_allowed": true,
-      "status": "MISSING_NO_VERIFIED_CRESt",
-      "error": "API unavailable"
+      "status": "PUBLISHED_SOURCE_NAMED_VISUAL_AUDIT_PENDING",
+      "source_basis": "existing sourced parent emblem",
+      "source_sha256": "3c4e239eaa9f40e68e7f52e31d3d749512ea63a68bfb873098b5e3c46bb1d87d",
+      "background": [
+        110,
+        126,
+        141
+      ],
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v16-d2-cups-20261024-test/docs/cge-v16-d2-cups-20261024/1906300001004.png",
+      "png_sha256": "076188f2b1f3147467f006677e37e6314111a2f37f9a0c0d3434bb5a41199b85"
     },
     {
       "id": 1906300001005,
@@ -407,28 +471,52 @@
       "id": 1906300001007,
       "name": "Arys",
       "country": "kazakhstan",
-      "source": null,
+      "source": "https://r2.thesportsdb.com/images/media/team/badge/epev2a1754258431.png",
       "parent_crest_allowed": false,
-      "status": "MISSING_NO_VERIFIED_CRESt",
-      "error": "API unavailable"
+      "status": "PUBLISHED_SOURCE_NAMED_VISUAL_AUDIT_PENDING",
+      "source_basis": "identified first-team emblem",
+      "source_sha256": "6cbc1d9fc82c9a94079ae4d2ddbf91f70de5d8cf289c3f364d5d8c2c5a74e678",
+      "background": [
+        95,
+        95,
+        204
+      ],
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v16-d2-cups-20261024-test/docs/cge-v16-d2-cups-20261024/1906300001007.png",
+      "png_sha256": "baa0497249391b840ac0d17138f2dd6ff48e3e70a3a467db100f3856fbf2b610"
     },
     {
       "id": 1906300001008,
       "name": "Zhaiyk",
       "country": "kazakhstan",
-      "source": null,
+      "source": "https://api.qjl.kz/storage/club-images/FC_Jaiyq.webp",
       "parent_crest_allowed": false,
-      "status": "MISSING_NO_VERIFIED_CRESt",
-      "error": "API unavailable"
+      "status": "PUBLISHED_SOURCE_NAMED_VISUAL_AUDIT_PENDING",
+      "source_basis": "identified first-team emblem",
+      "source_sha256": "53bc09fc6b66350814a3eaf98f0ebb5da8e80f989959783e8e2a9c8f5546a253",
+      "background": [
+        95,
+        110,
+        157
+      ],
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v16-d2-cups-20261024-test/docs/cge-v16-d2-cups-20261024/1906300001008.png",
+      "png_sha256": "cd025740a5fa2cd4517f06d9bc4c7c23e3bf56ab44ccc56a37c78223f0500af2"
     },
     {
       "id": 1906300001009,
       "name": "Khan Tengri",
       "country": "kazakhstan",
-      "source": null,
+      "source": "https://qfl.kz/upload/teams/7dd/tynw7x1m6a9atmbm0uuagaw4irzfgfnd.png",
       "parent_crest_allowed": false,
-      "status": "MISSING_NO_VERIFIED_CRESt",
-      "error": "API unavailable"
+      "status": "PUBLISHED_SOURCE_NAMED_VISUAL_AUDIT_PENDING",
+      "source_basis": "identified first-team emblem",
+      "source_sha256": "21608a11726b075b143877f498540d97a95b6587f29d81bf0c74ec3771021870",
+      "background": [
+        95,
+        157,
+        219
+      ],
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v16-d2-cups-20261024-test/docs/cge-v16-d2-cups-20261024/1906300001009.png",
+      "png_sha256": "32dfec89201ad0153a144406e978789dfe9ddb1ac362bbb07f32b93c92006eaf"
     },
     {
       "id": 1906300001010,
