@@ -564,16 +564,17 @@
     "country": "MLT",
     "wikipedia": "Birkirkara F.C.",
     "repositoryStem": null,
-    "source": "https://upload.wikimedia.org/wikipedia/commons/4/47/Kit_left_arm_nikestrike4r25r.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+    "source": "https://www.birkirkarafc.com/crest.png",
     "authentic_source": true,
     "validation": "source_retrieved_120x96_visual_review_pending",
     "background": [
-      255,
-      96,
-      96
+      252,
+      232,
+      127
     ],
     "file": "docs/cge-four-first-divisions-2026-27/1884510000208.png",
-    "sha256": "9281879d71cd04d0ad7ba1c3bc2ae99aa1a616266cbf1ffd0d494e6dbffbdc30"
+    "sha256": "b00fefe5c56998ce457a49192cb814bc165feb6f668b0a10203a0405019fcc59",
+    "original_source": "official_club_website"
   },
   {
     "id": 1884510000209,
@@ -628,16 +629,17 @@
     "country": "MLT",
     "wikipedia": "Birżebbuġa St. Peter's F.C.",
     "repositoryStem": null,
-    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Soccerball_current_event.svg/40px-Soccerball_current_event.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "source": "https://bspfc.com/wp-content/uploads/2026/09/FULL-CLR-Copy-scaled.png",
     "authentic_source": true,
     "validation": "source_retrieved_120x96_visual_review_pending",
     "background": [
-      215,
-      194,
-      200
+      160,
+      168,
+      199
     ],
     "file": "docs/cge-four-first-divisions-2026-27/1884510000212.png",
-    "sha256": "53923a88463865f3cc72d66f5398dd3bd5decdb9dd214e445af48af5229e2469"
+    "sha256": "8fa555f3216c3616de554741837a2e4e2f166793a8e6015041be17a13fafd39d",
+    "original_source": "official_club_website"
   },
   {
     "id": 1884510000301,
