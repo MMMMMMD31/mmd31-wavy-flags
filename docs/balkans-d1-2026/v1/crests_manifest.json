@@ -1,0 +1,548 @@
+{
+  "expected": 34,
+  "created": 25,
+  "missing": 9,
+  "format": "120x96 authentic crest on club-color solid rectangle",
+  "assets": [
+    {
+      "id": 1947261000001,
+      "country": "BA",
+      "club": "HŠK Zrinjski Mostar",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/bosnia-and-herzegovina/Zrinjski_Mostar.svg",
+      "source_description": "JoseArroyave football logos / originally sourced SVG",
+      "background": "#E2A6B4",
+      "source_size_bytes": 25851,
+      "image_size": [
+        120,
+        96
+      ],
+      "sha256": "788b38d8b40920be5a279c01ac8ba88e44ccf93c170994dede343359917d5312",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d1-2026/v1/1947261000001.png",
+      "source_resolution": [
+        86,
+        86
+      ]
+    },
+    {
+      "id": 1947261000002,
+      "country": "BA",
+      "club": "FK Borac Banja Luka",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/bosnia-and-herzegovina/Borac_Banja_Luka.svg",
+      "source_description": "JoseArroyave football logos / originally sourced SVG",
+      "background": "#BB8AC9",
+      "source_size_bytes": 34637,
+      "image_size": [
+        120,
+        96
+      ],
+      "sha256": "32babae7fd59975ca28a56c1653366cc5e949146038f66c4907df25700697117",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d1-2026/v1/1947261000002.png",
+      "source_resolution": [
+        84,
+        86
+      ]
+    },
+    {
+      "id": 1947261000003,
+      "country": "BA",
+      "club": "FK Sarajevo",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/bosnia-and-herzegovina/Sarajevo.svg",
+      "source_description": "JoseArroyave football logos / originally sourced SVG",
+      "background": "#BD83A5",
+      "source_size_bytes": 6863,
+      "image_size": [
+        120,
+        96
+      ],
+      "sha256": "1fb4aec85b40305521dad06e376f67a2a57ad4b349c394594fa2a59163ccb594",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d1-2026/v1/1947261000003.png",
+      "source_resolution": [
+        65,
+        86
+      ]
+    },
+    {
+      "id": 1947261000004,
+      "country": "BA",
+      "club": "NK Široki Brijeg",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/bosnia-and-herzegovina/%C5%A0iroki_Brijeg.svg",
+      "source_description": "JoseArroyave football logos / originally sourced SVG",
+      "background": "#8EAFDE",
+      "source_size_bytes": 10198,
+      "image_size": [
+        120,
+        96
+      ],
+      "sha256": "8b1e5d4d48fbb5d45ec2c8faa79d7f38a11a1fa88adf583dcb25b9e022b86d37",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d1-2026/v1/1947261000004.png",
+      "source_resolution": [
+        78,
+        86
+      ]
+    },
+    {
+      "id": 1947261000005,
+      "country": "BA",
+      "club": "FK Željezničar Sarajevo",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/bosnia-and-herzegovina/%C5%BDeljezni%C4%8Dar.svg",
+      "source_description": "JoseArroyave football logos / originally sourced SVG",
+      "background": "#8BAED7",
+      "source_size_bytes": 77119,
+      "image_size": [
+        120,
+        96
+      ],
+      "sha256": "9a64a98fa51886e949ac03a08676517e0938db3ad00ea2c74b9d98477c11ff58",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d1-2026/v1/1947261000005.png",
+      "source_resolution": [
+        86,
+        86
+      ]
+    },
+    {
+      "id": 1947261000006,
+      "country": "BA",
+      "club": "FK BSK Banja Luka",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/en/thumb/1/15/FK_BSK_Banja_Luka_%281%29.png/250px-FK_BSK_Banja_Luka_%281%29.png",
+      "source_description": "Wikipedia club crest (250px verified)",
+      "background": "#A2B9C9",
+      "source_size_bytes": 65377,
+      "image_size": [
+        120,
+        96
+      ],
+      "sha256": "a82a60378851a405957de118e6979d9be3a7ee4433aa8e70bf0e2b75b2ef8915",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d1-2026/v1/1947261000006.png",
+      "source_resolution": [
+        68,
+        86
+      ]
+    },
+    {
+      "id": 1947261000007,
+      "country": "BA",
+      "club": "NK Čelik Zenica",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/bosnia-and-herzegovina/%C4%8Celik_Zenica.svg",
+      "source_description": "JoseArroyave football logos / originally sourced SVG",
+      "background": "#DB93A1",
+      "source_size_bytes": 41201,
+      "image_size": [
+        120,
+        96
+      ],
+      "sha256": "e4ff0ec713dbe6b9601919990f1d5a811fbf5a619003b8ef670dc1fc1e587dcb",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d1-2026/v1/1947261000007.png",
+      "source_resolution": [
+        55,
+        86
+      ]
+    },
+    {
+      "id": 1947261000008,
+      "country": "BA",
+      "club": "FK Sloga Doboj",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/bosnia-and-herzegovina/Sloga_Doboj.svg",
+      "source_description": "JoseArroyave football logos / originally sourced SVG",
+      "background": "#B9A4DD",
+      "source_size_bytes": 14002,
+      "image_size": [
+        120,
+        96
+      ],
+      "sha256": "e0b5744711130a6cec001efb177c85443c932a7efc11f177595ef23b7e30e775",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d1-2026/v1/1947261000008.png",
+      "source_resolution": [
+        68,
+        86
+      ]
+    },
+    {
+      "id": 1947261000009,
+      "country": "BA",
+      "club": "FK Radnik Bijeljina",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/bosnia-and-herzegovina/Radnik_Bijeljina.svg",
+      "source_description": "JoseArroyave football logos / originally sourced SVG",
+      "background": "#8FBBE0",
+      "source_size_bytes": 8612,
+      "image_size": [
+        120,
+        96
+      ],
+      "sha256": "a75d8230c0f75a15b14d6df4fce93e905b804026eb80f95daf97dc54645a45c3",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d1-2026/v1/1947261000009.png",
+      "source_resolution": [
+        86,
+        86
+      ]
+    },
+    {
+      "id": 1947261000010,
+      "country": "BA",
+      "club": "FK Velež Mostar",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/bosnia-and-herzegovina/Vele%C5%BE_Mostar.svg",
+      "source_description": "JoseArroyave football logos / originally sourced SVG",
+      "background": "#E19B9B",
+      "source_size_bytes": 27422,
+      "image_size": [
+        120,
+        96
+      ],
+      "sha256": "e7d8ab34cdb03a54b30cc1f3e7c0ee11cfdff199d0316cc59770a46bfb7b563b",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d1-2026/v1/1947261000010.png",
+      "source_resolution": [
+        86,
+        86
+      ]
+    },
+    {
+      "id": 1947262000001,
+      "country": "RS",
+      "club": "FK Crvena zvezda",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/serbia/Crvena_Zvezda.svg",
+      "source_description": "JoseArroyave football logos / originally sourced SVG",
+      "background": "#DE9494",
+      "source_size_bytes": 2430,
+      "image_size": [
+        120,
+        96
+      ],
+      "sha256": "98d3c726939490e24ca2f63fcfc3569e768cf05ff52ef9fa1eb37cfc0e7ee935",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d1-2026/v1/1947262000001.png",
+      "source_resolution": [
+        55,
+        86
+      ]
+    },
+    {
+      "id": 1947262000002,
+      "country": "RS",
+      "club": "FK Vojvodina",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/serbia/FK_Vojvodina.svg",
+      "source_description": "JoseArroyave football logos / originally sourced SVG",
+      "background": "#D69AA4",
+      "source_size_bytes": 6029,
+      "image_size": [
+        120,
+        96
+      ],
+      "sha256": "0cbf553a1b3423fe79d017d8988b694ff86e4eb65c2ba8d318835850d0bc6e1d",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d1-2026/v1/1947262000002.png",
+      "source_resolution": [
+        59,
+        86
+      ]
+    },
+    {
+      "id": 1947262000003,
+      "country": "RS",
+      "club": "FK Železničar Pančevo",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/serbia/Zeleznicar_Pancevo.svg",
+      "source_description": "JoseArroyave football logos / originally sourced SVG",
+      "background": "#99BCE0",
+      "source_size_bytes": 36331,
+      "image_size": [
+        120,
+        96
+      ],
+      "sha256": "46dd8c4f93cde5e9505312f3b566cc7b9266efaeb4e84553e9b888ccd23e4ee2",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d1-2026/v1/1947262000003.png",
+      "source_resolution": [
+        85,
+        86
+      ]
+    },
+    {
+      "id": 1947262000004,
+      "country": "RS",
+      "club": "FK IMT Novi Beograd",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/serbia/FK_IMT.svg",
+      "source_description": "JoseArroyave football logos / originally sourced SVG",
+      "background": "#C0B3D8",
+      "source_size_bytes": 11698,
+      "image_size": [
+        120,
+        96
+      ],
+      "sha256": "1ee9e8904a8da04eb38ccf6d4d35e4125ce01493904c67985861ddb9cfa7ea94",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d1-2026/v1/1947262000004.png",
+      "source_resolution": [
+        86,
+        86
+      ]
+    },
+    {
+      "id": 1947262000005,
+      "country": "RS",
+      "club": "FK Radnički 1923 Kragujevac",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/serbia/Radni%C4%8Dki_1923.svg",
+      "source_description": "JoseArroyave football logos / originally sourced SVG",
+      "background": "#C68BA1",
+      "source_size_bytes": 21795,
+      "image_size": [
+        120,
+        96
+      ],
+      "sha256": "a184470dca80904f483f3d7d9931d2b9d4e767bcfdea98889f5e79f845d6eb8a",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d1-2026/v1/1947262000005.png",
+      "source_resolution": [
+        72,
+        86
+      ]
+    },
+    {
+      "id": 1947262000006,
+      "country": "RS",
+      "club": "FK Radnik Surdulica",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/serbia/Radnik_Surdulica.svg",
+      "source_description": "JoseArroyave football logos / originally sourced SVG",
+      "background": "#87B3D6",
+      "source_size_bytes": 17048,
+      "image_size": [
+        120,
+        96
+      ],
+      "sha256": "72c96ec5608e96a8910627b82c2a033680706d783978b04a54abc8143aeb3166",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d1-2026/v1/1947262000006.png",
+      "source_resolution": [
+        90,
+        86
+      ]
+    },
+    {
+      "id": 1947262000007,
+      "country": "RS",
+      "club": "FK Mladost Lučani",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/serbia/FK_Mladost_Lu%C4%8Dani.svg",
+      "source_description": "JoseArroyave football logos / originally sourced SVG",
+      "background": "#B8A2CA",
+      "source_size_bytes": 67161,
+      "image_size": [
+        120,
+        96
+      ],
+      "sha256": "1533a80b341bf39c633e4701345dc7e9dc88b95c9d99c26e6301424056744574",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d1-2026/v1/1947262000007.png",
+      "source_resolution": [
+        72,
+        86
+      ]
+    },
+    {
+      "id": 1947262000008,
+      "country": "RS",
+      "club": "FK Novi Pazar",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/serbia/FK_Novi_Pazar.svg",
+      "source_description": "JoseArroyave football logos / originally sourced SVG",
+      "background": "#94C5B1",
+      "source_size_bytes": 4971,
+      "image_size": [
+        120,
+        96
+      ],
+      "sha256": "d94d5e4f16e718dbe6a4f55b67dc03b24ba8afc234c9730684fbba4d273f58fa",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d1-2026/v1/1947262000008.png",
+      "source_resolution": [
+        63,
+        86
+      ]
+    },
+    {
+      "id": 1947262000009,
+      "country": "RS",
+      "club": "FK Čukarički",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/serbia/FK_%C4%8Cukari%C4%8Dki.svg",
+      "source_description": "JoseArroyave football logos / originally sourced SVG",
+      "background": "#A8A8A8",
+      "source_size_bytes": 12029,
+      "image_size": [
+        120,
+        96
+      ],
+      "sha256": "ecefb5c4cb54e442c762dec275a14e3f37673332afab9060a659f6b71d454e9f",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d1-2026/v1/1947262000009.png",
+      "source_resolution": [
+        77,
+        86
+      ]
+    },
+    {
+      "id": 1947262000010,
+      "country": "RS",
+      "club": "FK Partizan",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/serbia/FK_Partizan.svg",
+      "source_description": "JoseArroyave football logos / originally sourced SVG",
+      "background": "#BCBCBC",
+      "source_size_bytes": 14164,
+      "image_size": [
+        120,
+        96
+      ],
+      "sha256": "07fd93a284da0194a48323257d9c4d909aaa79b0441f8e5c164872d771774499",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d1-2026/v1/1947262000010.png",
+      "source_resolution": [
+        56,
+        86
+      ]
+    },
+    {
+      "id": 1947262000011,
+      "country": "RS",
+      "club": "OFK Beograd",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/serbia/OFK_Beograd.svg",
+      "source_description": "JoseArroyave football logos / originally sourced SVG",
+      "background": "#8DB9DF",
+      "source_size_bytes": 11610,
+      "image_size": [
+        120,
+        96
+      ],
+      "sha256": "5e209bc599defcf7b79ef627546ea461036c091eb1681790538f9c5807232294",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d1-2026/v1/1947262000011.png",
+      "source_resolution": [
+        73,
+        86
+      ]
+    },
+    {
+      "id": 1947262000012,
+      "country": "RS",
+      "club": "FK Mačva Šabac",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/serbia/Macva_Sabac.svg",
+      "source_description": "JoseArroyave football logos / originally sourced SVG",
+      "background": "#C899B0",
+      "source_size_bytes": 8057,
+      "image_size": [
+        120,
+        96
+      ],
+      "sha256": "248e55950d458991f6c1561efd7e06cc698e4fed07a81b8252d2d6ee8dd20c7b",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d1-2026/v1/1947262000012.png",
+      "source_resolution": [
+        86,
+        86
+      ]
+    },
+    {
+      "id": 1947262000013,
+      "country": "RS",
+      "club": "FK Radnički Niš",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/serbia/Radnicki_Ni%C5%A1.svg",
+      "source_description": "JoseArroyave football logos / originally sourced SVG",
+      "background": "#C2A4AC",
+      "source_size_bytes": 10816,
+      "image_size": [
+        120,
+        96
+      ],
+      "sha256": "a21443a990a00f5788fd81a9817ec115b560eb7150267a5eba1e287331f20b1a",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d1-2026/v1/1947262000013.png",
+      "source_resolution": [
+        73,
+        86
+      ]
+    },
+    {
+      "id": 1947262000014,
+      "country": "RS",
+      "club": "FK Zemun",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/serbia/FK_Zemun.svg",
+      "source_description": "JoseArroyave football logos / originally sourced SVG",
+      "background": "#9CA9D2",
+      "source_size_bytes": 23195,
+      "image_size": [
+        120,
+        96
+      ],
+      "sha256": "123ae2462ed1462f846909a815be4ba04d6e6251b16a39bd77f3e31ced940074",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d1-2026/v1/1947262000014.png",
+      "source_resolution": [
+        66,
+        86
+      ]
+    },
+    {
+      "id": 1947263000010,
+      "country": "XK",
+      "club": "FC Vushtrria",
+      "source_url": "https://dsg-images.com/clubs/50x50/14707.png",
+      "source_description": "Global Sports Archive verified club roster crest",
+      "background": "#B1C1D8",
+      "source_size_bytes": 7100,
+      "image_size": [
+        120,
+        96
+      ],
+      "sha256": "f983ed0f506f6255e8ffbe6a01b63a54dd0b80c7d59ca2acbc6ba90158288790",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d1-2026/v1/1947263000010.png",
+      "source_resolution": [
+        38,
+        50
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "id": 1947263000001,
+      "country": "XK",
+      "name": "FC Malisheva",
+      "error": "cannot identify image file <_io.BytesIO object at 0x7f2bba95dd00>",
+      "source_key": "FFK_Malisheva"
+    },
+    {
+      "id": 1947263000002,
+      "country": "XK",
+      "name": "FC Prishtina",
+      "error": "cannot identify image file <_io.BytesIO object at 0x7f2bb992e610>",
+      "source_key": "FFK_Prishtina"
+    },
+    {
+      "id": 1947263000003,
+      "country": "XK",
+      "name": "FC Drita",
+      "error": "cannot identify image file <_io.BytesIO object at 0x7f2bba95dd00>",
+      "source_key": "FFK_Drita"
+    },
+    {
+      "id": 1947263000004,
+      "country": "XK",
+      "name": "SC Gjilani",
+      "error": "403 Client Error: Forbidden for url: https://www.ffk-ks.com/wp-content/uploads/2024/08/LogoSCGjilani.png",
+      "source_key": "FFK_Gjilani"
+    },
+    {
+      "id": 1947263000005,
+      "country": "XK",
+      "name": "KF Dukagjini",
+      "error": "cannot identify image file <_io.BytesIO object at 0x7f2bba95dd00>",
+      "source_key": "FFK_Dukagjini"
+    },
+    {
+      "id": 1947263000006,
+      "country": "XK",
+      "name": "FC Ballkani",
+      "error": "cannot identify image file <_io.BytesIO object at 0x7f2bb992e610>",
+      "source_key": "FFK_Ballkani"
+    },
+    {
+      "id": 1947263000007,
+      "country": "XK",
+      "name": "KF Drenica",
+      "error": "cannot identify image file <_io.BytesIO object at 0x7f2bba95dd00>",
+      "source_key": "FFK_Drenica"
+    },
+    {
+      "id": 1947263000008,
+      "country": "XK",
+      "name": "FC Feronikeli 74",
+      "error": "403 Client Error: Forbidden for url: https://www.ffk-ks.com/wp-content/uploads/2023/08/feronikelilogo1.png",
+      "source_key": "FFK_Feronikeli"
+    },
+    {
+      "id": 1947263000009,
+      "country": "XK",
+      "name": "KF Llapi",
+      "error": "cannot identify image file <_io.BytesIO object at 0x7f2bba95dd00>",
+      "source_key": "FFK_Llapi"
+    }
+  ]
+}
