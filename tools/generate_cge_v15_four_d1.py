@@ -50,7 +50,7 @@ def background(im):
   for r,g,b,a in sample.getdata():
     if a<160 or max(r,g,b)-min(r,g,b)<45 or max(r,g,b)<75:continue
     scores[(r//24,g//24,b//24)]+=1
-  if not scores:return (216,220,224),"neutral due to monochrome source"
+  if not scores:return (255,255,255),"white secondary color for monochrome black/white club crest"
   k=scores.most_common(1)[0][0]
   col=tuple(min(255,x*24+12) for x in k)
   mix=.42 if sum(col)<350 else .22
