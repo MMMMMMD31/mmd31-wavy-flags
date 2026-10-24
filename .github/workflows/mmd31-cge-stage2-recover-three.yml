@@ -1,0 +1,26 @@
+name: CGE stage 2 recover three authentic club logos
+on:
+  push:
+    branches: [mmd31-cge-greece-cyprus-malta-israel-20261024]
+    paths:
+      - 'tools/cge_stage2_recover_3_crests.py'
+      - '.github/workflows/mmd31-cge-stage2-recover-three.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install requests pillow
+      - run: python tools/cge_stage2_recover_3_crests.py
+      - shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/cge-four-second-divisions-2026-27-crests.json docs/cge-four-second-divisions-2026-27/
+          git commit -m "Publish identified D2 badges with real provenance"
+          git pull --rebase origin mmd31-cge-greece-cyprus-malta-israel-20261024
+          git push origin HEAD:mmd31-cge-greece-cyprus-malta-israel-20261024
