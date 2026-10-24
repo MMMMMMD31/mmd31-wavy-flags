@@ -1,0 +1,64 @@
+[
+  {
+    "id": "2026102404101",
+    "name": "FC Balzers",
+    "source": "https://commons.wikimedia.org/wiki/Special:FilePath/FC%20Balzers.png",
+    "status": "PUBLISHED",
+    "sha256": "7da66bdf35c619fe34e0ed693b0c2e2283cdd386c828182a087cb073b1b54035"
+  },
+  {
+    "id": "2026102404103",
+    "name": "FC Ruggell",
+    "source": "https://www.footballlogosandkits.com/images_esc3/UEFA/LIECHTENSTEIN/plantillas/LOGO-FC%20RUGGELL-FR.png",
+    "status": "PUBLISHED",
+    "sha256": "49f00adf47264695773317a0b14f7c3599e07242f069ab9b6d55cd918d7f6d41"
+  },
+  {
+    "id": "2026102404104",
+    "name": "FC Schaan",
+    "source": "https://commons.wikimedia.org/wiki/Special:FilePath/FC%20Schaan.png",
+    "status": "PUBLISHED",
+    "sha256": "891d8ee75621a88a874c6d41d92dbeab4dee3da0809e503d550a2408fa834d76"
+  },
+  {
+    "id": "2026102404106",
+    "name": "FC Triesenberg",
+    "source": "https://www.footballlogosandkits.com/images_esc3/UEFA/LIECHTENSTEIN/plantillas/LOGO-FC%20TRIESENBERG-FR.png",
+    "status": "PUBLISHED",
+    "sha256": "6f554da8e3a1544fabb5337efbc71746bd3707a65bdfaad7f681a20e8c4500cc"
+  },
+  {
+    "name": "LI_federation.png",
+    "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo%20Liechtensteiner%20Fussballverband.jpg",
+    "status": "PUBLISHED",
+    "organisation": "LFV",
+    "sha256": "e7e01561d3eff7d724f0622d3c0f24d75bf0ff16f94f75c3df50d25772fb07f9",
+    "dimensions": [
+      600,
+      402
+    ]
+  },
+  {
+    "name": "AT_cup_federation.png",
+    "source": "https://www.oefb.at/assets/oefb3/images/menu-logo_2025.png",
+    "status": "PUBLISHED",
+    "organisation": "ÖFB",
+    "sha256": "8f352fb6e8aa5af89cce03385784f9d151ee72e2ebd20f3e8c353dd0bfb442e7",
+    "dimensions": [
+      426,
+      150
+    ]
+  },
+  {
+    "name": "CH_cup_federation.png",
+    "source_page": "https://football-logos.cc/switzerland/swiss-football-association/",
+    "status": "PUBLISHED",
+    "organisation": "Association Suisse de Football",
+    "source_url": "https://assets.football-logos.cc/logos/switzerland/700x700/swiss-football-association.087751f7.png",
+    "sha256": "bddbd443c4f0a9822003f29c5650ceb5fef3ed697703c8a23b20d79823d11501",
+    "dimensions": [
+      600,
+      600
+    ]
+  }
+]
