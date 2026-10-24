@@ -85,8 +85,20 @@
       "id": 1900264000102,
       "country": "MK",
       "name": "FC AP Brera Strumica",
-      "status": "NO_CREST_FOUND",
-      "candidate": "Brera Strumica"
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "Brera Strumica",
+      "url": "https://images.seeklogo.com/logo-png/49/1/fc-brera-strumica-logo-png_seeklogo-493901.png",
+      "provider": {
+        "provider": "Exact-identity catalog or federation image",
+        "identity": "FC Brera Strumica",
+        "sourceImage": "https://images.seeklogo.com/logo-png/49/1/fc-brera-strumica-logo-png_seeklogo-493901.png"
+      },
+      "sha256": "e55f4b35c7a267bc7fde43c82c2f8a27332bd9a1bdcf3c5dff34507b319ace2e",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d2-cups-2026-27/v1/1900264000102.png"
     },
     {
       "id": 1900264000103,
@@ -130,16 +142,39 @@
       "id": 1900264000105,
       "country": "MK",
       "name": "FK Kozhuf Gevgelija",
-      "status": "NO_CREST_FOUND",
+      "status": "SOURCE_IDENTIFIED",
       "candidate": "Kozhuf Gevgelija",
-      "last_error": "429 Client Error: Too Many Requests (015d12c) for url: https://upload.wikimedia.org/wikipedia/en/e/eb/FK_Kozhuf_Gevgelija.png?utm_source=en.wikipedia.org&utm_ca"
+      "url": "https://upload.wikimedia.org/wikipedia/en/e/eb/FK_Kozhuf_Gevgelija.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/FK_Ko%C5%BEuf",
+        "alt": "logo"
+      },
+      "sha256": "40f8ede7a1bccfb4f7ea5e43ea10aa67df7c6310aac3271d655ca23bda0c7638",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d2-cups-2026-27/v1/1900264000105.png"
     },
     {
       "id": 1900264000106,
       "country": "MK",
       "name": "FK Euromilk Gorno Lisiche",
-      "status": "NO_CREST_FOUND",
-      "candidate": "Euromilk"
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "Euromilk",
+      "url": "https://i.ibb.co/h2fZC3H/fk-euromilk-gorno-lisice-1960.png",
+      "provider": {
+        "provider": "Exact-identity catalog or federation image",
+        "identity": "FK Euromilk Gorno Lisice",
+        "sourceImage": "https://i.ibb.co/h2fZC3H/fk-euromilk-gorno-lisice-1960.png"
+      },
+      "sha256": "79b2de06d6edc777ee4819b09b631f12d330740e1a352c4beca9a1d5dedcfe60",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d2-cups-2026-27/v1/1900264000106.png"
     },
     {
       "id": 1900264000107,
@@ -164,9 +199,20 @@
       "id": 1900264000108,
       "country": "MK",
       "name": "FK Novaci",
-      "status": "NO_CREST_FOUND",
+      "status": "SOURCE_IDENTIFIED",
       "candidate": "Novaci",
-      "last_error": "429 Client Error: Too Many Requests (015d12c) for url: https://upload.wikimedia.org/wikipedia/en/1/1c/FK_Novaci_Logo.png?utm_source=en.wikipedia.org&utm_campaig"
+      "url": "https://images.seeklogo.com/logo-png/20/1/fk-novaci-logo-png_seeklogo-201049.png",
+      "provider": {
+        "provider": "Exact-identity catalog or federation image",
+        "identity": "FK Novaci",
+        "sourceImage": "https://images.seeklogo.com/logo-png/20/1/fk-novaci-logo-png_seeklogo-201049.png"
+      },
+      "sha256": "4ff58e0e2a92e85dde7d3dbc9865e7500d4a8bedd0e609af6ae24a56e8be5cdc",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d2-cups-2026-27/v1/1900264000108.png"
     },
     {
       "id": 1900264000109,
@@ -267,9 +313,20 @@
       "id": 1900264000114,
       "country": "MK",
       "name": "FK Teteks Tetovo",
-      "status": "NO_CREST_FOUND",
+      "status": "SOURCE_IDENTIFIED",
       "candidate": "Teteks Tetovo",
-      "last_error": ""
+      "url": "https://static.cdnlogo.com/logos/f/41/fudbalski-klub-teteks_800.png",
+      "provider": {
+        "provider": "Exact-identity catalog or federation image",
+        "identity": "FK Teteks Tetovo",
+        "sourceImage": "https://static.cdnlogo.com/logos/f/41/fudbalski-klub-teteks_800.png"
+      },
+      "sha256": "f1e093c6deef0aa96ddb87e8fdff217f50e2f1158f28b4a5ea59536d75b625d5",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d2-cups-2026-27/v1/1900264000114.png"
     },
     {
       "id": 1900264100101,
@@ -370,17 +427,39 @@
       "id": 1900264100106,
       "country": "BG",
       "name": "FC Lokomotiv Gorna Oryahovitsa",
-      "status": "NO_CREST_FOUND",
+      "status": "SOURCE_IDENTIFIED",
       "candidate": "Lokomotiv Gorna Oryahovitsa",
-      "last_error": ""
+      "url": "https://seeklogo.com/images/F/fk-lokomotiv-gorna-oryahovitsa-logo-7866807028-seeklogo.com.png",
+      "provider": {
+        "provider": "Exact-identity catalog or federation image",
+        "identity": "Lokomotiv Gorna Oryahovitsa",
+        "sourceImage": "https://seeklogo.com/images/F/fk-lokomotiv-gorna-oryahovitsa-logo-7866807028-seeklogo.com.png"
+      },
+      "sha256": "490d8fb73dbe89644dc1c15c3b5ed3045212404bb9710f9503102794de22f57c",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d2-cups-2026-27/v1/1900264100106.png"
     },
     {
       "id": 1900264100107,
       "country": "BG",
       "name": "FC Hebar Pazardzhik",
-      "status": "NO_CREST_FOUND",
+      "status": "SOURCE_IDENTIFIED",
       "candidate": "Hebar Pazardzhik",
-      "last_error": ""
+      "url": "https://seeklogo.com/images/F/fk-hebar-pazardzhik-logo-30E158928C-seeklogo.com.png",
+      "provider": {
+        "provider": "Exact-identity catalog or federation image",
+        "identity": "FK Hebar Pazardzhik",
+        "sourceImage": "https://seeklogo.com/images/F/fk-hebar-pazardzhik-logo-30E158928C-seeklogo.com.png"
+      },
+      "sha256": "4715e423b69de6a6933a6efe03f355a86c672501968f5940260d20c38715c975",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d2-cups-2026-27/v1/1900264100107.png"
     },
     {
       "id": 1900264100108,
@@ -405,9 +484,20 @@
       "id": 1900264100109,
       "country": "BG",
       "name": "FC Rilski Sportist Samokov",
-      "status": "NO_CREST_FOUND",
+      "status": "SOURCE_IDENTIFIED",
       "candidate": "Rilski Sportist Samokov",
-      "last_error": "429 Client Error: Too many requests (f061ab2) for url: https://upload.wikimedia.org/wikipedia/en/6/6a/Rilski-sportist_small.png?utm_source=en.wikipedia.org&utm_"
+      "url": "https://upload.wikimedia.org/wikipedia/en/6/6a/Rilski-sportist_small.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/FC_Rilski_Sportist_Samokov",
+        "alt": ""
+      },
+      "sha256": "b80740999201392aaff40ad86a930930744c9ce92f8124c5e738a5622eb11b97",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d2-cups-2026-27/v1/1900264100109.png"
     },
     {
       "id": 1900264100110,
@@ -508,9 +598,20 @@
       "id": 1900264100115,
       "country": "BG",
       "name": "PFC Montana",
-      "status": "NO_CREST_FOUND",
+      "status": "SOURCE_IDENTIFIED",
       "candidate": "Montana",
-      "last_error": "429 Client Error: Too many requests (f061ab2) for url: https://upload.wikimedia.org/wikipedia/en/e/ee/PFC_Montana_logo.png?utm_source=en.wikipedia.org&utm_campa"
+      "url": "https://www.logotypes101.com/logos/518/8EF57A3C4375307B4A8B01A5C5645879/montana%20%5BConverted%5D.png",
+      "provider": {
+        "provider": "Exact-identity catalog or federation image",
+        "identity": "FK Montana",
+        "sourceImage": "https://www.logotypes101.com/logos/518/8EF57A3C4375307B4A8B01A5C5645879/montana%20%5BConverted%5D.png"
+      },
+      "sha256": "af8da812c169c8b1dc3535f4e17192ede97f1456f2ddb6a17f72784474d5e923",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d2-cups-2026-27/v1/1900264100115.png"
     },
     {
       "id": 1900264100116,
@@ -592,9 +693,20 @@
       "id": 1900264200102,
       "country": "RO",
       "name": "CSL Ștefăneștii de Jos",
-      "status": "NO_CREST_FOUND",
+      "status": "SOURCE_IDENTIFIED",
       "candidate": "Stefanestii de Jos",
-      "last_error": "429 Client Error: Too many requests (f061ab2) for url: https://upload.wikimedia.org/wikipedia/en/8/8b/CSL_%C8%98tef%C4%83ne%C8%99ti_logo.png?utm_source=en.wikip"
+      "url": "https://www.frf-ajf.ro/upload/echipe/10895.jpg",
+      "provider": {
+        "provider": "Exact-identity catalog or federation image",
+        "identity": "CSL Stefanestii (football regional association photo)",
+        "sourceImage": "https://www.frf-ajf.ro/upload/echipe/10895.jpg"
+      },
+      "sha256": "7740b91ab65703b3d30ed0bdf9302d96fae435369dc0f58c22d91573ad25cb5d",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d2-cups-2026-27/v1/1900264200102.png"
     },
     {
       "id": 1900264200103,
@@ -646,24 +758,59 @@
       "id": 1900264200106,
       "country": "RO",
       "name": "FC Bihor Oradea",
-      "status": "NO_CREST_FOUND",
-      "candidate": "FC Bihor Oradea"
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "FC Bihor Oradea",
+      "url": "https://www.fcbihor.ro/media/stiri/FC-Bihor-sigla.jpg",
+      "provider": {
+        "provider": "Exact-identity catalog or federation image",
+        "identity": "FC Bihor (official club badge)",
+        "sourceImage": "https://www.fcbihor.ro/media/stiri/FC-Bihor-sigla.jpg"
+      },
+      "sha256": "2f07a3627f5332029f96b9a687e221caab992d06db4376097f68c37956795490",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d2-cups-2026-27/v1/1900264200106.png"
     },
     {
       "id": 1900264200107,
       "country": "RO",
       "name": "CSA Steaua București",
-      "status": "NO_CREST_FOUND",
+      "status": "SOURCE_IDENTIFIED",
       "candidate": "Steaua Bucuresti",
-      "last_error": "429 Client Error: Too many requests (f061ab2) for url: https://upload.wikimedia.org/wikipedia/en/9/90/CSASteaua.png?utm_source=en.wikipedia.org&utm_campaign=par"
+      "last_error": "429 Client Error: Too many requests (f061ab2) for url: https://upload.wikimedia.org/wikipedia/commons/1/1b/FC_Steaua_Bucure%C5%9Fti.png?utm_source=commons.wikim",
+      "url": "https://upload.wikimedia.org/wikipedia/en/9/90/CSASteaua.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/CSA_Steaua_Bucure%C8%99ti",
+        "alt": ""
+      },
+      "sha256": "ae79c8b464a825875459b857298f1c853a13911278848db446c0c09b27bf0f87",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d2-cups-2026-27/v1/1900264200107.png"
     },
     {
       "id": 1900264200108,
       "country": "RO",
       "name": "AFC Chindia Târgoviște",
-      "status": "NO_CREST_FOUND",
+      "status": "SOURCE_IDENTIFIED",
       "candidate": "Chindia Targoviste",
-      "last_error": "429 Client Error: Too many requests. Please contact noc@wikimedia.org for further information (0068e25) for url: https://upload.wikimedia.org/wikipedia/en/8/82/"
+      "url": "https://assets.football-logos.cc/logos/romania/1500x1500/chindia-targoviste.bf43227b.png",
+      "provider": {
+        "provider": "Exact-identity catalog or federation image",
+        "identity": "Chindia Targoviste",
+        "sourceImage": "https://assets.football-logos.cc/logos/romania/1500x1500/chindia-targoviste.bf43227b.png"
+      },
+      "sha256": "d28c37d7791887392f12ebd7eb6b1d6a1dc34afe01a0070b67f52d00ee050768",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d2-cups-2026-27/v1/1900264200108.png"
     },
     {
       "id": 1900264200109,
@@ -676,9 +823,20 @@
       "id": 1900264200110,
       "country": "RO",
       "name": "AFC Metalul Buzău",
-      "status": "NO_CREST_FOUND",
+      "status": "SOURCE_IDENTIFIED",
       "candidate": "Metalul Buzau",
-      "last_error": "429 Client Error: Too many requests. Please contact noc@wikimedia.org for further information (0068e25) for url: https://upload.wikimedia.org/wikipedia/en/4/41/"
+      "url": "https://upload.wikimedia.org/wikipedia/en/4/41/AFC_Metalul_Buz%C4%83u_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/AFC_Metalul_Buz%C4%83u",
+        "alt": ""
+      },
+      "sha256": "d20a9a4b7aecc9556de5cf5e7203b18bcd68e09c9287d586d20b38b19cba087c",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d2-cups-2026-27/v1/1900264200110.png"
     },
     {
       "id": 1900264200111,
@@ -757,7 +915,7 @@
       "name": "CS Afumați",
       "status": "NO_CREST_FOUND",
       "candidate": "CS Afumati",
-      "last_error": "429 Client Error: Too many requests. Please contact noc@wikimedia.org for further information (0068e25) for url: https://upload.wikimedia.org/wikipedia/en/0/0e/"
+      "last_error": "429 Client Error: Too many requests (f061ab2) for url: https://upload.wikimedia.org/wikipedia/en/0/0e/CS_Afuma%C8%9Bi_logo.png?utm_source=en.wikipedia.org&utm_c"
     },
     {
       "id": 1900264200117,
@@ -803,7 +961,7 @@
       "name": "CS Dinamo București",
       "status": "NO_CREST_FOUND",
       "candidate": "CS Dinamo Bucuresti",
-      "last_error": "429 Client Error: Too many requests. Please contact noc@wikimedia.org for further information (0068e25) for url: https://upload.wikimedia.org/wikipedia/en/6/69/"
+      "last_error": "429 Client Error: Too many requests (f061ab2) for url: https://upload.wikimedia.org/wikipedia/en/6/69/CS_Dinamo_Bucure%C8%99ti_logo.png?utm_source=en.wikipedia."
     },
     {
       "id": 1900264200120,
@@ -866,9 +1024,20 @@
       "id": 1900264200201,
       "country": "RO",
       "name": "ACS Minerul Lupeni",
-      "status": "NO_CREST_FOUND",
+      "status": "SOURCE_IDENTIFIED",
       "candidate": "Minerul Lupeni",
-      "last_error": "429 Client Error: Too many requests. Please contact noc@wikimedia.org for further information (0068e25) for url: https://upload.wikimedia.org/wikipedia/en/8/81/"
+      "url": "https://upload.wikimedia.org/wikipedia/en/8/81/Sigla_CS_Minerul_Lupeni.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/CS_Minerul_Lupeni",
+        "alt": ""
+      },
+      "sha256": "30bbbf0b6d03c5c07d6d9a049b8def45c5f0aef5391870336c8a9a99c62585d1",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d2-cups-2026-27/v1/1900264200201.png"
     },
     {
       "id": 1900264200202,
