@@ -1,0 +1,31 @@
+name: CGE 3.6 D2 authentic logos EE LV LT PL
+on:
+  push:
+    paths:
+      - 'tools/cge36_d2_logos.py'
+      - '.github/workflows/cge36-d2-logos.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 23
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install pillow cairosvg requests beautifulsoup4
+      - run: python tools/cge36_d2_logos.py
+      - name: Publish genuine logos and audited missing list
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/cge36-d2-2026/
+          if ! git diff --cached --quiet; then
+            git commit -m "CGE D2 club crest assets and verification manifest"
+            git pull --rebase origin "$GITHUB_REF_NAME"
+            git push origin HEAD:"$GITHUB_REF_NAME"
+          fi
