@@ -9,6 +9,7 @@ import csv
 import hashlib
 import json
 import re
+import time
 from pathlib import Path
 
 import requests
@@ -207,9 +208,21 @@ def main():
     print("Exact club name matches:", len(matches), flush=True)
     new_matches = [x for x in matches if x["teamId"] not in previous_ids]
     print("Matches not yet published:", len(new_matches), flush=True)
-    with concurrent.futures.ThreadPoolExecutor(max_workers=5) as pool:
-        metadata = [x for x in pool.map(image_metadata, new_matches) if x]
-        rendered = [x for x in pool.map(render, metadata) if x]
+    pending = {x["teamId"]: x for x in new_matches}
+    rendered = []
+    for attempt in range(1, 5):
+        if not pending:
+            break
+        with concurrent.futures.ThreadPoolExecutor(max_workers=3) as pool:
+            metadata = [x for x in pool.map(image_metadata, pending.values()) if x]
+            batch = [x for x in pool.map(render, metadata) if x]
+        for item in batch:
+            pending.pop(item["teamId"], None)
+            rendered.append(item)
+        print(f"Attempt {attempt}: metadata={len(metadata)}, "
+              f"rendered={len(batch)}, pending={len(pending)}", flush=True)
+        if pending and attempt < 4:
+            time.sleep(attempt * 3)
     combined = already_published + rendered
     (ROOT / "manifest.json").write_text(
         json.dumps(combined, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
