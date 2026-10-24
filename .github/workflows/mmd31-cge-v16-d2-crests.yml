@@ -1,0 +1,30 @@
+name: CGE V16 D2 badge authenticity workflow
+on:
+  push:
+    branches: [mmd31-cge-v16-d2-cups-20261024-test]
+    paths:
+      - 'tools/cge-v16-d2-logo-sources.json'
+      - 'tools/generate_cge_v16_d2_badges.py'
+      - '.github/workflows/mmd31-cge-v16-d2-crests.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 22
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install requests pillow cairosvg
+      - run: python tools/generate_cge_v16_d2_badges.py
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/cge-v16-d2-cups-20261024/
+          if ! git diff --cached --quiet; then
+            git commit -m "Publish real D2 flags and audit missing clubs"
+            git push origin HEAD:refs/heads/${GITHUB_REF_NAME}
+          fi
