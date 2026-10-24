@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1905100000419,
+    "name": "Guadalupe",
+    "url": "https://www.ogol.com.br/img/logos/equipas/5666_imgbank_1766857712.png",
+    "ok": true,
+    "file": "docs/portugal-gibraltar-clubs-2026-27/v1/1905100000419.png",
+    "sha256": "6008314045e48b7500914a5f9087ab10b1dd22cbb8605dce9877f1a9e9e0e46b"
+  },
+  {
+    "id": 1905100000422,
+    "name": "FC Calheta",
+    "url": "https://cdn-img.zerozero.pt/img/logos/equipas/19571_imgbank_1711622224.png",
+    "ok": true,
+    "file": "docs/portugal-gibraltar-clubs-2026-27/v1/1905100000422.png",
+    "sha256": "bc386f508c61117adb9db930cfe0dbddb2b6d3adcfa559022ec3e2970b3a102e"
+  },
+  {
+    "id": 1905100000423,
+    "name": "GD Velense",
+    "url": "https://www.zerozero.pt/img/logos/equipas/3714_imgbank_1709047235.png",
+    "ok": true,
+    "file": "docs/portugal-gibraltar-clubs-2026-27/v1/1905100000423.png",
+    "sha256": "3ed248535fe1d36f26e0fed1fd74d831a2593f3d30b76c4e0789ad15c5fbbc3c"
+  }
+]
