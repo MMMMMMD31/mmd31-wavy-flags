@@ -1,0 +1,851 @@
+{
+  "generated": "2026-10-24",
+  "number": 59,
+  "published": 39,
+  "missing": 20,
+  "items": [
+    {
+      "id": 1906100001001,
+      "name": "Olympia Yerevan",
+      "country": "armenia",
+      "source": null,
+      "parent_crest_allowed": false,
+      "status": "MISSING_NO_VERIFIED_CRESt",
+      "error": "API unavailable"
+    },
+    {
+      "id": 1906100001002,
+      "name": "Andranik",
+      "country": "armenia",
+      "source": null,
+      "parent_crest_allowed": false,
+      "status": "MISSING_NO_VERIFIED_CRESt",
+      "error": "API unavailable"
+    },
+    {
+      "id": 1906100001003,
+      "name": "BKMA II",
+      "country": "armenia",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/armenia/BKMA_Yerevan.svg",
+      "parent_crest_allowed": true,
+      "status": "PUBLISHED_SOURCE_NAMED_VISUAL_AUDIT_PENDING",
+      "source_basis": "existing sourced parent emblem",
+      "source_sha256": "90fc2f14fddd8da12801b12ba391772d2acdcfcdbc6b6044977982fd9ec30e72",
+      "background": [
+        98,
+        155,
+        194
+      ],
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v16-d2-cups-20261024-test/docs/cge-v16-d2-cups-20261024/1906100001003.png",
+      "png_sha256": "86719aa21ffbbd70d33dbc5dbfe97edbfb5b4dfdb6a24f21afe02e56d849eae3"
+    },
+    {
+      "id": 1906100001004,
+      "name": "Bentonit Ijevan",
+      "country": "armenia",
+      "source": null,
+      "parent_crest_allowed": false,
+      "status": "MISSING_NO_VERIFIED_CRESt",
+      "error": "API unavailable"
+    },
+    {
+      "id": 1906100001005,
+      "name": "Avshar Ararat",
+      "country": "armenia",
+      "source": null,
+      "parent_crest_allowed": false,
+      "status": "MISSING_NO_VERIFIED_CRESt",
+      "error": "API unavailable"
+    },
+    {
+      "id": 1906100001006,
+      "name": "Lernayin Artsakh",
+      "country": "armenia",
+      "source": null,
+      "parent_crest_allowed": false,
+      "status": "MISSING_NO_VERIFIED_CRESt",
+      "error": "API unavailable"
+    },
+    {
+      "id": 1906100001007,
+      "name": "Mika Yerevan",
+      "country": "armenia",
+      "source": null,
+      "parent_crest_allowed": false,
+      "status": "MISSING_NO_VERIFIED_CRESt",
+      "error": "API unavailable"
+    },
+    {
+      "id": 1906100001008,
+      "name": "Pyunik Academy",
+      "country": "armenia",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/armenia/Pyunik.svg",
+      "parent_crest_allowed": true,
+      "status": "PUBLISHED_SOURCE_NAMED_VISUAL_AUDIT_PENDING",
+      "source_basis": "existing sourced parent emblem",
+      "source_sha256": "28c26596df595aac2e13fc8d69d6ab025d60f1b6d6fb265c0879eea178245f1a",
+      "background": [
+        95,
+        110,
+        173
+      ],
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v16-d2-cups-20261024-test/docs/cge-v16-d2-cups-20261024/1906100001008.png",
+      "png_sha256": "32eda59f4543c466cd73cc695458a3a05ad0c9b7909d297406c8f12605c5b35b"
+    },
+    {
+      "id": 1906100001009,
+      "name": "Shirak II",
+      "country": "armenia",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/armenia/Shirak.svg",
+      "parent_crest_allowed": true,
+      "status": "PUBLISHED_SOURCE_NAMED_VISUAL_AUDIT_PENDING",
+      "source_basis": "existing sourced parent emblem",
+      "source_sha256": "c8da2be97ea33ae54a9d148040d43a177b857f2ce6b73b9f95086ad9aeccdbe3",
+      "background": [
+        232,
+        155,
+        78
+      ],
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v16-d2-cups-20261024-test/docs/cge-v16-d2-cups-20261024/1906100001009.png",
+      "png_sha256": "54ea07bb4bd64730ae299ab6a31070ac3fb4c9bff3a382deb7904a25fbd9e1c2"
+    },
+    {
+      "id": 1906100001010,
+      "name": "Ararat II",
+      "country": "armenia",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/armenia/Ararat.svg",
+      "parent_crest_allowed": true,
+      "status": "PUBLISHED_SOURCE_NAMED_VISUAL_AUDIT_PENDING",
+      "source_basis": "existing sourced parent emblem",
+      "source_sha256": "d0186811b10d9f2872ac0a814e7e29f80b204a17003980cfb77e125c0c9245d8",
+      "background": [
+        251,
+        95,
+        95
+      ],
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v16-d2-cups-20261024-test/docs/cge-v16-d2-cups-20261024/1906100001010.png",
+      "png_sha256": "8be92036ee67a9bc0a0a3cb06bc12b11e83acf2259f513e50f92ab9f6e0a6ae8"
+    },
+    {
+      "id": 1906100001011,
+      "name": "Sardarapat II",
+      "country": "armenia",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/armenia/Sardarapat_FC.svg",
+      "parent_crest_allowed": true,
+      "status": "PUBLISHED_SOURCE_NAMED_VISUAL_AUDIT_PENDING",
+      "source_basis": "existing sourced parent emblem",
+      "source_sha256": "c69d5e0cd4b2291f08287c36d7906bde7af2363eb1e7ddb15f1cd2e67d3dc3ba",
+      "background": [
+        188,
+        110,
+        95
+      ],
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v16-d2-cups-20261024-test/docs/cge-v16-d2-cups-20261024/1906100001011.png",
+      "png_sha256": "da86a912172c1345603eb0077a4d9fcfba4604f730741bd3ec2ee3c72c4b5dc8"
+    },
+    {
+      "id": 1906100001012,
+      "name": "Urartu II",
+      "country": "armenia",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/armenia/Urartu.svg",
+      "parent_crest_allowed": true,
+      "status": "PUBLISHED_SOURCE_NAMED_VISUAL_AUDIT_PENDING",
+      "source_basis": "existing sourced parent emblem",
+      "source_sha256": "1ba841e2c9c4f96446ba6ec892eb7db083e3bad0d7dbb7b31f0c9104ef29452b",
+      "background": [
+        141,
+        110,
+        188
+      ],
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v16-d2-cups-20261024-test/docs/cge-v16-d2-cups-20261024/1906100001012.png",
+      "png_sha256": "23ca8cb92a1e17dffacccd83dba7cba3d45a85a238856b492750c88a8ad2ec07"
+    },
+    {
+      "id": 1906100001013,
+      "name": "Noah II",
+      "country": "armenia",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/armenia/Noah.svg",
+      "parent_crest_allowed": true,
+      "status": "PUBLISHED_SOURCE_NAMED_VISUAL_AUDIT_PENDING",
+      "source_basis": "existing sourced parent emblem",
+      "source_sha256": "e2d03774594b671e1d7dfedb86353657d2172f1d6b2d97768714c3fbe87a53dc",
+      "background": [
+        255,
+        255,
+        255
+      ],
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v16-d2-cups-20261024-test/docs/cge-v16-d2-cups-20261024/1906100001013.png",
+      "png_sha256": "93c4a5d71cfc3a16afa134e18110edc80b0079026860a3a2ac6f99b07c2cac3b"
+    },
+    {
+      "id": 1906100001014,
+      "name": "Ararat-Armenia II",
+      "country": "armenia",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/armenia/Ararat-Armenia.svg",
+      "parent_crest_allowed": true,
+      "status": "PUBLISHED_SOURCE_NAMED_VISUAL_AUDIT_PENDING",
+      "source_basis": "existing sourced parent emblem",
+      "source_sha256": "f2f46431ee4b77d4585568aa278d82c6590f82688c217a81c88ccc60e7237fce",
+      "background": [
+        255,
+        255,
+        255
+      ],
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v16-d2-cups-20261024-test/docs/cge-v16-d2-cups-20261024/1906100001014.png",
+      "png_sha256": "e6f2c0aec52c0b9a921aed3795e0c24e81c2b77692ac7af3a3ee6efff6b96b7e"
+    },
+    {
+      "id": 1906100001015,
+      "name": "Hayq",
+      "country": "armenia",
+      "source": null,
+      "parent_crest_allowed": false,
+      "status": "MISSING_NO_VERIFIED_CRESt",
+      "error": "API unavailable"
+    },
+    {
+      "id": 1906200001001,
+      "name": "MOİK",
+      "country": "azerbaijan",
+      "source": null,
+      "parent_crest_allowed": false,
+      "status": "MISSING_NO_VERIFIED_CRESt",
+      "error": "API unavailable"
+    },
+    {
+      "id": 1906200001002,
+      "name": "Şahdağ Qusar",
+      "country": "azerbaijan",
+      "source": null,
+      "parent_crest_allowed": false,
+      "status": "MISSING_NO_VERIFIED_CRESt",
+      "error": "API unavailable"
+    },
+    {
+      "id": 1906200001003,
+      "name": "Şimal",
+      "country": "azerbaijan",
+      "source": null,
+      "parent_crest_allowed": false,
+      "status": "MISSING_NO_VERIFIED_CRESt",
+      "error": "API unavailable"
+    },
+    {
+      "id": 1906200001004,
+      "name": "Gəncəbasar",
+      "country": "azerbaijan",
+      "source": null,
+      "parent_crest_allowed": false,
+      "status": "MISSING_NO_VERIFIED_CRESt",
+      "error": "API unavailable"
+    },
+    {
+      "id": 1906200001005,
+      "name": "Xankəndi",
+      "country": "azerbaijan",
+      "source": null,
+      "parent_crest_allowed": false,
+      "status": "MISSING_NO_VERIFIED_CRESt",
+      "error": "API unavailable"
+    },
+    {
+      "id": 1906200001006,
+      "name": "Səbail",
+      "country": "azerbaijan",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/azerbaijan/Sabail.svg",
+      "parent_crest_allowed": false,
+      "status": "PUBLISHED_SOURCE_NAMED_VISUAL_AUDIT_PENDING",
+      "source_basis": "identified first-team emblem",
+      "source_sha256": "4807fa45f342cc6ec9079a76576316bbc968db8b9498a0b13ea315a4d62cefc0",
+      "background": [
+        110,
+        126,
+        141
+      ],
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v16-d2-cups-20261024-test/docs/cge-v16-d2-cups-20261024/1906200001006.png",
+      "png_sha256": "4e4532a010e23cbae93050a8ec4f41a35d83f7ce69e4bf5b155db05aa112eb8b"
+    },
+    {
+      "id": 1906200001007,
+      "name": "Mingəçevir",
+      "country": "azerbaijan",
+      "source": null,
+      "parent_crest_allowed": false,
+      "status": "MISSING_NO_VERIFIED_CRESt",
+      "error": "API unavailable"
+    },
+    {
+      "id": 1906200001008,
+      "name": "Zaqatala",
+      "country": "azerbaijan",
+      "source": null,
+      "parent_crest_allowed": false,
+      "status": "MISSING_NO_VERIFIED_CRESt",
+      "error": "API unavailable"
+    },
+    {
+      "id": 1906200001009,
+      "name": "Baku Sportinq",
+      "country": "azerbaijan",
+      "source": null,
+      "parent_crest_allowed": false,
+      "status": "MISSING_NO_VERIFIED_CRESt",
+      "error": "API unavailable"
+    },
+    {
+      "id": 1906200001010,
+      "name": "Karvan-Yevlax",
+      "country": "azerbaijan",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/azerbaijan/Karvan.svg",
+      "parent_crest_allowed": false,
+      "status": "PUBLISHED_SOURCE_NAMED_VISUAL_AUDIT_PENDING",
+      "source_basis": "identified first-team emblem",
+      "source_sha256": "aab96a7c50e18dc00a355c440c8cc72ed96365240a36a0d397cbe3b3f5ebbd9d",
+      "background": [
+        235,
+        110,
+        126
+      ],
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v16-d2-cups-20261024-test/docs/cge-v16-d2-cups-20261024/1906200001010.png",
+      "png_sha256": "752740016fe9691375ac7106d3a1bf437002ff9eebccbc15e73508149a7b7efb"
+    },
+    {
+      "id": 1906300001001,
+      "name": "Shakhter Karagandy",
+      "country": "kazakhstan",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/kazakhstan/Shakhter.svg",
+      "parent_crest_allowed": false,
+      "status": "PUBLISHED_SOURCE_NAMED_VISUAL_AUDIT_PENDING",
+      "source_basis": "identified first-team emblem",
+      "source_sha256": "ac99e92be026a76e2fb7a98881dff93181cf193bd13b13e1d2f7a9ac7b430399",
+      "background": [
+        213,
+        174,
+        117
+      ],
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v16-d2-cups-20261024-test/docs/cge-v16-d2-cups-20261024/1906300001001.png",
+      "png_sha256": "1d72941f48e8b89490679704123b26a8cf8f4ea2f872ed6c7fd8e270b5904542"
+    },
+    {
+      "id": 1906300001002,
+      "name": "Kairat-Zhastar",
+      "country": "kazakhstan",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/kazakhstan/Kairat.svg",
+      "parent_crest_allowed": true,
+      "status": "PUBLISHED_SOURCE_NAMED_VISUAL_AUDIT_PENDING",
+      "source_basis": "existing sourced parent emblem",
+      "source_sha256": "259914c7530bf775da4e36d8a0b904d4bb16d32977a2dfb521fcb8158e959533",
+      "background": [
+        251,
+        213,
+        78
+      ],
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v16-d2-cups-20261024-test/docs/cge-v16-d2-cups-20261024/1906300001002.png",
+      "png_sha256": "d9e567d725cc683d29ddd745c1eb9e1143d0fe9ea03b0fe8697249bedba341f1"
+    },
+    {
+      "id": 1906300001003,
+      "name": "Turan Turkistan",
+      "country": "kazakhstan",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/kazakhstan/Turan.svg",
+      "parent_crest_allowed": false,
+      "status": "PUBLISHED_SOURCE_NAMED_VISUAL_AUDIT_PENDING",
+      "source_basis": "identified first-team emblem",
+      "source_sha256": "d17aafa5b89c36daeb895e7a27d3ff9dc255f53a2eefe2eab8b062b3600edd5a",
+      "background": [
+        110,
+        126,
+        188
+      ],
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v16-d2-cups-20261024-test/docs/cge-v16-d2-cups-20261024/1906300001003.png",
+      "png_sha256": "85fda31ae176b36f8baa8a7d8a2a13df34cc128f777e5a5c894e6911e0aa3dd3"
+    },
+    {
+      "id": 1906300001004,
+      "name": "Academy Ontustyk",
+      "country": "kazakhstan",
+      "source": null,
+      "parent_crest_allowed": true,
+      "status": "MISSING_NO_VERIFIED_CRESt",
+      "error": "API unavailable"
+    },
+    {
+      "id": 1906300001005,
+      "name": "Astana Zhastar",
+      "country": "kazakhstan",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/kazakhstan/Astana.svg",
+      "parent_crest_allowed": true,
+      "status": "PUBLISHED_SOURCE_NAMED_VISUAL_AUDIT_PENDING",
+      "source_basis": "existing sourced parent emblem",
+      "source_sha256": "bd5625bd5986cf1c2feec9918c337e9f3ef035ce43cbd0accbfe3592c62f5685",
+      "background": [
+        59,
+        174,
+        194
+      ],
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v16-d2-cups-20261024-test/docs/cge-v16-d2-cups-20261024/1906300001005.png",
+      "png_sha256": "61643b716c255293848dc4adc9ec14c4fe3e4c0f2da801a9d17dcc935b4c3abe"
+    },
+    {
+      "id": 1906300001006,
+      "name": "Taraz",
+      "country": "kazakhstan",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/kazakhstan/Taraz.svg",
+      "parent_crest_allowed": false,
+      "status": "PUBLISHED_SOURCE_NAMED_VISUAL_AUDIT_PENDING",
+      "source_basis": "identified first-team emblem",
+      "source_sha256": "dda87f780d07f6e1084a3684278506dc41545dbfb355cff969be764b348e5e28",
+      "background": [
+        95,
+        157,
+        204
+      ],
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v16-d2-cups-20261024-test/docs/cge-v16-d2-cups-20261024/1906300001006.png",
+      "png_sha256": "2ad2d1de881366c669bd3fcd0e12b2b57a6d49b51fb608dd13e8037bcb0beae8"
+    },
+    {
+      "id": 1906300001007,
+      "name": "Arys",
+      "country": "kazakhstan",
+      "source": null,
+      "parent_crest_allowed": false,
+      "status": "MISSING_NO_VERIFIED_CRESt",
+      "error": "API unavailable"
+    },
+    {
+      "id": 1906300001008,
+      "name": "Zhaiyk",
+      "country": "kazakhstan",
+      "source": null,
+      "parent_crest_allowed": false,
+      "status": "MISSING_NO_VERIFIED_CRESt",
+      "error": "API unavailable"
+    },
+    {
+      "id": 1906300001009,
+      "name": "Khan Tengri",
+      "country": "kazakhstan",
+      "source": null,
+      "parent_crest_allowed": false,
+      "status": "MISSING_NO_VERIFIED_CRESt",
+      "error": "API unavailable"
+    },
+    {
+      "id": 1906300001010,
+      "name": "Kaspiy Zhastar",
+      "country": "kazakhstan",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/kazakhstan/Kaspiy.svg",
+      "parent_crest_allowed": true,
+      "status": "PUBLISHED_SOURCE_NAMED_VISUAL_AUDIT_PENDING",
+      "source_basis": "existing sourced parent emblem",
+      "source_sha256": "14762fa25937ec174b97357e07d6cf1ea7114488dc63128de65ba973b2e0af73",
+      "background": [
+        98,
+        174,
+        232
+      ],
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v16-d2-cups-20261024-test/docs/cge-v16-d2-cups-20261024/1906300001010.png",
+      "png_sha256": "169df0dbdcb18f05fffd8cc8638ac675384cdfbd023882af2ac9918797504468"
+    },
+    {
+      "id": 1906300001011,
+      "name": "Batyr",
+      "country": "kazakhstan",
+      "source": null,
+      "parent_crest_allowed": false,
+      "status": "MISSING_NO_VERIFIED_CRESt",
+      "error": "API unavailable"
+    },
+    {
+      "id": 1906300001012,
+      "name": "Aktobe Zhastar",
+      "country": "kazakhstan",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/kazakhstan/Aktobe.svg",
+      "parent_crest_allowed": true,
+      "status": "PUBLISHED_SOURCE_NAMED_VISUAL_AUDIT_PENDING",
+      "source_basis": "existing sourced parent emblem",
+      "source_sha256": "cf66a46c413f912407d242eac1b508d13dc85d0b8435ca28c4c2fcdfa6ca5d2b",
+      "background": [
+        251,
+        110,
+        110
+      ],
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v16-d2-cups-20261024-test/docs/cge-v16-d2-cups-20261024/1906300001012.png",
+      "png_sha256": "7898c83f0820ac2858247bb84406ca15b7d626f61efd2f8bb6b13c780e4cc5ff"
+    },
+    {
+      "id": 1906300001013,
+      "name": "Tobol Zhastar",
+      "country": "kazakhstan",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/kazakhstan/Tobol.svg",
+      "parent_crest_allowed": true,
+      "status": "PUBLISHED_SOURCE_NAMED_VISUAL_AUDIT_PENDING",
+      "source_basis": "existing sourced parent emblem",
+      "source_sha256": "75baf8a38a2e6806846610558934deed30cd99c1049ceada7362047655b18123",
+      "background": [
+        251,
+        232,
+        59
+      ],
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v16-d2-cups-20261024-test/docs/cge-v16-d2-cups-20261024/1906300001013.png",
+      "png_sha256": "00f489c043cc7550f9aa30dc75e345b408e99a74305ec7d4cf83df9fb8f74fc5"
+    },
+    {
+      "id": 1906300001014,
+      "name": "Yelimay Zhastar",
+      "country": "kazakhstan",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/kazakhstan/Yelimay.svg",
+      "parent_crest_allowed": true,
+      "status": "PUBLISHED_SOURCE_NAMED_VISUAL_AUDIT_PENDING",
+      "source_basis": "existing sourced parent emblem",
+      "source_sha256": "05d7787215493cf8589b8691c2650cd4bbc903e1fbfe61b343096bd1dd2303f8",
+      "background": [
+        95,
+        157,
+        141
+      ],
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v16-d2-cups-20261024-test/docs/cge-v16-d2-cups-20261024/1906300001014.png",
+      "png_sha256": "a22d98835915f69b3139a3fda117ad603614e683a1d167ff69b32ea335e6b61c"
+    },
+    {
+      "id": 1906400001001,
+      "name": "Kayserispor",
+      "country": "turkey",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Kayserispor.svg",
+      "parent_crest_allowed": false,
+      "status": "PUBLISHED_SOURCE_NAMED_VISUAL_AUDIT_PENDING",
+      "source_basis": "identified first-team emblem",
+      "source_sha256": "92139b3115539f6970589b76a50a8ed62bd2730c821947f85e45fba1680ed69b",
+      "background": [
+        204,
+        95,
+        110
+      ],
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v16-d2-cups-20261024-test/docs/cge-v16-d2-cups-20261024/1906400001001.png",
+      "png_sha256": "7e7f0078b07ea155b3cf9df895de4e6bbba97fce5f8323f835cfe5a3982a428b"
+    },
+    {
+      "id": 1906400001002,
+      "name": "Bursaspor",
+      "country": "turkey",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Bursaspor.svg",
+      "parent_crest_allowed": false,
+      "status": "PUBLISHED_SOURCE_NAMED_VISUAL_AUDIT_PENDING",
+      "source_basis": "identified first-team emblem",
+      "source_sha256": "59b9ea16896631b00aea91f420e3e327b19a256770c3c0d61822ceea5590442d",
+      "background": [
+        95,
+        173,
+        126
+      ],
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v16-d2-cups-20261024-test/docs/cge-v16-d2-cups-20261024/1906400001002.png",
+      "png_sha256": "0a64f25b8625e9b76975233dfdc98336e600e4bf86eafb503674db8c3cf9006c"
+    },
+    {
+      "id": 1906400001003,
+      "name": "Iğdır FK",
+      "country": "turkey",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/I%C4%9Fd%C4%B1r_FK.svg",
+      "parent_crest_allowed": false,
+      "status": "PUBLISHED_SOURCE_NAMED_VISUAL_AUDIT_PENDING",
+      "source_basis": "identified first-team emblem",
+      "source_sha256": "14068f6d4334feb5a9fc802529b56116ef8bb28e1ae5ca2400493bd5c60c0044",
+      "background": [
+        95,
+        173,
+        126
+      ],
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v16-d2-cups-20261024-test/docs/cge-v16-d2-cups-20261024/1906400001003.png",
+      "png_sha256": "47d53cff9147e0620cb7557b19143ac3e37c077b518803c9a2d418e6c66f0948"
+    },
+    {
+      "id": 1906400001004,
+      "name": "Ankara Keçiörengücü",
+      "country": "turkey",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Ke%C3%A7i%C3%B6reng%C3%BCc%C3%BC.svg",
+      "parent_crest_allowed": false,
+      "status": "PUBLISHED_SOURCE_NAMED_VISUAL_AUDIT_PENDING",
+      "source_basis": "identified first-team emblem",
+      "source_sha256": "6c8079ad16510c06cfb2e96c14a0beacf59eeffa1dcdaae290c5fc6a2fd22d0a",
+      "background": [
+        157,
+        110,
+        157
+      ],
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v16-d2-cups-20261024-test/docs/cge-v16-d2-cups-20261024/1906400001004.png",
+      "png_sha256": "4730712153eea14bb5ff90c3b5c9aaaa18ac92893aa676287d8ace55e9dc7f9d"
+    },
+    {
+      "id": 1906400001005,
+      "name": "Batman Petrolspor",
+      "country": "turkey",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Batman_Petrolspor.svg",
+      "parent_crest_allowed": false,
+      "status": "PUBLISHED_SOURCE_NAMED_VISUAL_AUDIT_PENDING",
+      "source_basis": "identified first-team emblem",
+      "source_sha256": "e29f9f7310b8bce128d24b7c0654f7e44c9fa64619ae7ae707b8b526b1ac48f9",
+      "background": [
+        235,
+        95,
+        95
+      ],
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v16-d2-cups-20261024-test/docs/cge-v16-d2-cups-20261024/1906400001005.png",
+      "png_sha256": "2fd3e7f2336c5231f90b54a55b42e54df2cf61d40125bbbfc6cde599900eccf2"
+    },
+    {
+      "id": 1906400001006,
+      "name": "Mardin 1969 Spor",
+      "country": "turkey",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Mardin_1969_Spor.svg",
+      "parent_crest_allowed": false,
+      "status": "PUBLISHED_SOURCE_NAMED_VISUAL_AUDIT_PENDING",
+      "source_basis": "identified first-team emblem",
+      "source_sha256": "95021b9af30c9f87da0de291223f57af4e89e2e4e3c6d06d43c131d03dc4a3dd",
+      "background": [
+        59,
+        194,
+        232
+      ],
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v16-d2-cups-20261024-test/docs/cge-v16-d2-cups-20261024/1906400001006.png",
+      "png_sha256": "8a6a908026eeaf77fbae8eef469874b66370ce2c1d1279e5cd825f49983f7a4a"
+    },
+    {
+      "id": 1906400001007,
+      "name": "Antalyaspor",
+      "country": "turkey",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Antalyaspor.svg",
+      "parent_crest_allowed": false,
+      "status": "PUBLISHED_SOURCE_NAMED_VISUAL_AUDIT_PENDING",
+      "source_basis": "identified first-team emblem",
+      "source_sha256": "429bd55dc7fd87b67be13c76603d6ad517db716e52a2e9de06747d91560de3d2",
+      "background": [
+        235,
+        110,
+        110
+      ],
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v16-d2-cups-20261024-test/docs/cge-v16-d2-cups-20261024/1906400001007.png",
+      "png_sha256": "24dbba1853f6992c4ff27b7c2d811312591901ca4a6aadfa77ac208d2c877894"
+    },
+    {
+      "id": 1906400001008,
+      "name": "Sarıyer",
+      "country": "turkey",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Sar%C4%B1yer.svg",
+      "parent_crest_allowed": false,
+      "status": "PUBLISHED_SOURCE_NAMED_VISUAL_AUDIT_PENDING",
+      "source_basis": "identified first-team emblem",
+      "source_sha256": "5a9de4c4827024e4ee7d981800d6ed9e2e65d15fb376d2e0ad2aa1775e7906fb",
+      "background": [
+        95,
+        126,
+        204
+      ],
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v16-d2-cups-20261024-test/docs/cge-v16-d2-cups-20261024/1906400001008.png",
+      "png_sha256": "f2d97ad9d2b42b1807a239db2c97c7ac1cf4ce3c54c556a5ff9858abbe7c2b07"
+    },
+    {
+      "id": 1906400001009,
+      "name": "Muğlaspor",
+      "country": "turkey",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Mu%C4%9Flaspor.svg",
+      "parent_crest_allowed": false,
+      "status": "PUBLISHED_SOURCE_NAMED_VISUAL_AUDIT_PENDING",
+      "source_basis": "identified first-team emblem",
+      "source_sha256": "3f856f83385cc6bfecd70715c5fe07ab5b2479e3881c5ca7187b8412290d74c4",
+      "background": [
+        95,
+        173,
+        126
+      ],
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v16-d2-cups-20261024-test/docs/cge-v16-d2-cups-20261024/1906400001009.png",
+      "png_sha256": "d18fa6f8c09b3e5df2d60882f9e0a4d983158de7a4ff0b861af12c9adecdb2e0"
+    },
+    {
+      "id": 1906400001010,
+      "name": "Bandırmaspor",
+      "country": "turkey",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Band%C4%B1rmaspor.svg",
+      "parent_crest_allowed": false,
+      "status": "PUBLISHED_SOURCE_NAMED_VISUAL_AUDIT_PENDING",
+      "source_basis": "identified first-team emblem",
+      "source_sha256": "a53a1d187aac42c044f67d7b3fcc0e319fcc8f3ed5b485b32c813e6b35d6de9b",
+      "background": [
+        157,
+        110,
+        110
+      ],
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v16-d2-cups-20261024-test/docs/cge-v16-d2-cups-20261024/1906400001010.png",
+      "png_sha256": "b7862a400b26d469ab772cce863bda86b65260f0aa053b13f49caaee56646531"
+    },
+    {
+      "id": 1906400001011,
+      "name": "Bodrum FK",
+      "country": "turkey",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Bodrum_FK.svg",
+      "parent_crest_allowed": false,
+      "status": "PUBLISHED_SOURCE_NAMED_VISUAL_AUDIT_PENDING",
+      "source_basis": "identified first-team emblem",
+      "source_sha256": "97eb35cf6408260be4a20d627b016249e99e19569e787ac7ec2ab85424f9a42e",
+      "background": [
+        110,
+        157,
+        126
+      ],
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v16-d2-cups-20261024-test/docs/cge-v16-d2-cups-20261024/1906400001011.png",
+      "png_sha256": "b8f4fb9c166edb4dda7efa66a5eac247a7811df9e5ee9125f78d8819996d00ac"
+    },
+    {
+      "id": 1906400001012,
+      "name": "Sivasspor",
+      "country": "turkey",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Sivasspor.svg",
+      "parent_crest_allowed": false,
+      "status": "PUBLISHED_SOURCE_NAMED_VISUAL_AUDIT_PENDING",
+      "source_basis": "identified first-team emblem",
+      "source_sha256": "e1fd46efd7e7619e7e129418cc8854dd6f19b250652ffabaf1245bde3224745b",
+      "background": [
+        235,
+        95,
+        110
+      ],
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v16-d2-cups-20261024-test/docs/cge-v16-d2-cups-20261024/1906400001012.png",
+      "png_sha256": "eaafe096ba26d3daef58442ae34768f03749df9406793a1f16967b50389c495e"
+    },
+    {
+      "id": 1906400001013,
+      "name": "Fatih Karagümrük",
+      "country": "turkey",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Fatih_Karag%C3%BCmr%C3%BCk.svg",
+      "parent_crest_allowed": false,
+      "status": "PUBLISHED_SOURCE_NAMED_VISUAL_AUDIT_PENDING",
+      "source_basis": "identified first-team emblem",
+      "source_sha256": "449d7f905833c30cff4e32e3279f9b4e226cb14c16aeb90f0af3b8d8483bcffb",
+      "background": [
+        235,
+        110,
+        110
+      ],
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v16-d2-cups-20261024-test/docs/cge-v16-d2-cups-20261024/1906400001013.png",
+      "png_sha256": "8972a1f524ea2bf09643eb8d5e70977c366985a59f5d8e7fa65ae28f150268d8"
+    },
+    {
+      "id": 1906400001014,
+      "name": "Esenler Erokspor",
+      "country": "turkey",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Esenler_Erokspor.svg",
+      "parent_crest_allowed": false,
+      "status": "PUBLISHED_SOURCE_NAMED_VISUAL_AUDIT_PENDING",
+      "source_basis": "identified first-team emblem",
+      "source_sha256": "a0bba696f49391b78223bfff1e97da7ffdae9a871616003ea1eed35d324dc5d5",
+      "background": [
+        251,
+        232,
+        59
+      ],
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v16-d2-cups-20261024-test/docs/cge-v16-d2-cups-20261024/1906400001014.png",
+      "png_sha256": "ea6766fc6181919ab3d6be7ff1f95c4f3622e2d8e87499084b902fd431372e57"
+    },
+    {
+      "id": 1906400001015,
+      "name": "Ümraniyespor",
+      "country": "turkey",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/%C3%9Cmraniyespor.svg",
+      "parent_crest_allowed": false,
+      "status": "PUBLISHED_SOURCE_NAMED_VISUAL_AUDIT_PENDING",
+      "source_basis": "identified first-team emblem",
+      "source_sha256": "a825b48bf0749d06cbf0f53b37a61274f71a2f1fc28a03cc0c2a3fb3de76ebce",
+      "background": [
+        219,
+        95,
+        95
+      ],
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v16-d2-cups-20261024-test/docs/cge-v16-d2-cups-20261024/1906400001015.png",
+      "png_sha256": "7b1bb9bb9e15397f9d9e22487f4e0385be1ce2c94bd7e9055e6c33d37aa14490"
+    },
+    {
+      "id": 1906400001016,
+      "name": "Manisa FK",
+      "country": "turkey",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Manisa_FK.svg",
+      "parent_crest_allowed": false,
+      "status": "PUBLISHED_SOURCE_NAMED_VISUAL_AUDIT_PENDING",
+      "source_basis": "identified first-team emblem",
+      "source_sha256": "3d677299a8135695e56e2c9389092f5175db1e8a47eb8ac72715066068aa2142",
+      "background": [
+        255,
+        255,
+        255
+      ],
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v16-d2-cups-20261024-test/docs/cge-v16-d2-cups-20261024/1906400001016.png",
+      "png_sha256": "af256751c6f63ebc9406966b486ccd56abec5c28366d54645e9ad3e9b11b1156"
+    },
+    {
+      "id": 1906400001017,
+      "name": "Pendikspor",
+      "country": "turkey",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Pendikspor.svg",
+      "parent_crest_allowed": false,
+      "status": "PUBLISHED_SOURCE_NAMED_VISUAL_AUDIT_PENDING",
+      "source_basis": "identified first-team emblem",
+      "source_sha256": "4b1aa3cf3e42923e396a8a51f17d757c163c4e20d98d58a66785af368400fc2f",
+      "background": [
+        219,
+        95,
+        95
+      ],
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v16-d2-cups-20261024-test/docs/cge-v16-d2-cups-20261024/1906400001017.png",
+      "png_sha256": "0049ed397067b3d9d5fe5bb7cd62f29f6d838f63cefe2e175853ec33bb298195"
+    },
+    {
+      "id": 1906400001018,
+      "name": "Vanspor FK",
+      "country": "turkey",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Van_Spor_FK.svg",
+      "parent_crest_allowed": false,
+      "status": "PUBLISHED_SOURCE_NAMED_VISUAL_AUDIT_PENDING",
+      "source_basis": "identified first-team emblem",
+      "source_sha256": "ba6898f51a24f4b4cc7cde2c2796bc20389cc3dc7ded8233aebb25f2340c6a5a",
+      "background": [
+        251,
+        95,
+        95
+      ],
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v16-d2-cups-20261024-test/docs/cge-v16-d2-cups-20261024/1906400001018.png",
+      "png_sha256": "a3ef5114aa58c8ef8f79cbac58d1ef355999732e9fe7f1471d40b73fb2e21a6f"
+    },
+    {
+      "id": 1906400001019,
+      "name": "İstanbulspor",
+      "country": "turkey",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/%C4%B0stanbulspor.svg",
+      "parent_crest_allowed": false,
+      "status": "PUBLISHED_SOURCE_NAMED_VISUAL_AUDIT_PENDING",
+      "source_basis": "identified first-team emblem",
+      "source_sha256": "7cd662e3854ba5dc67359e52675e9df24a5ea491cac0eff6c2f7e54457a33434",
+      "background": [
+        251,
+        232,
+        59
+      ],
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v16-d2-cups-20261024-test/docs/cge-v16-d2-cups-20261024/1906400001019.png",
+      "png_sha256": "a8ee9ada48c17b415edd0e93bdab4859aa6f7c8abcf9958cdc0cfa0717c4c13e"
+    },
+    {
+      "id": 1906400001020,
+      "name": "Boluspor",
+      "country": "turkey",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Boluspor.svg",
+      "parent_crest_allowed": false,
+      "status": "PUBLISHED_SOURCE_NAMED_VISUAL_AUDIT_PENDING",
+      "source_basis": "identified first-team emblem",
+      "source_sha256": "2da478cc7ca5f952ea5ab502020a1c819ddae88c4162be3390908aba1a4495f2",
+      "background": [
+        235,
+        110,
+        110
+      ],
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v16-d2-cups-20261024-test/docs/cge-v16-d2-cups-20261024/1906400001020.png",
+      "png_sha256": "19524820042602e401d636d4ae0823a8fcc0d29fa3a16f5e4a0820bc0db07324"
+    }
+  ]
+}
