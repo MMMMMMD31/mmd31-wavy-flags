@@ -4,6 +4,8 @@ import io,json,hashlib,re,unicodedata,time
 from pathlib import Path
 from urllib.parse import quote
 import requests,cairosvg
+from bs4 import BeautifulSoup
+from urllib.parse import urljoin
 from PIL import Image
 CLUBS={"EE":[["Tartu JK Welco","Welco"],["Viimsi JK","Viimsi"],["Tallinna FC Flora U21","Flora_Tallinn.svg"],["Tallinna FCI Levadia U21","Levadia.svg"],["FC Elva","Elva"],["JK Tallinna Kalev","Kalev.svg"],["FC Nõmme United U21","FC_Nõmme_United.svg"],["FC Tallinn","Tallinn"],["Nõmme Kalju FC U21","Nõmme_Kalju.svg"],["Maardu Linnameeskond","Maardu"]],"LV":[["FK Metta","Metta.svg"],["Valmiera FC","Valmiera.svg"],["Leevon PPK","Leevon PPK"],["Riga Mariners","Riga Mariners"],["JDFS Alberts","JDFS Alberts"],["Mārupes SC","Marupes SC"],["Riga FC II","Riga.svg"],["SK Super Nova II","SK_Super_Nova.svg"],["Skanstes SK","Skanstes SK"],["FK Smiltene/BJSS","Smiltene BJSS"],["FK Tukums 2000 II","Tukums_2000.svg"],["FC RFS II","RFS.svg"],["JFK Ventspils","JFK Ventspils"],["Rēzeknes FA/BJSS","Rezeknes_BJSS.svg"]],"LT":[["FK Minija Kretinga","Minija"],["FK Babrungas Plungė","Babrungas"],["FK Be1","Be1"],["FC Neptūnas Klaipėda","Neptunas"],["FK Žalgiris Vilnius B","Žalgiris_Vilnius.svg"],["Vilniaus BFA","Vilniaus BFA"],["FK Tauras Tauragė","Tauras.svg"],["DFK Dainava Alytus","Dainava.svg"],["FK Atmosfera Mažeikiai","Atmosfera"],["FK Jonava","Jonava.svg"],["FK Garliava","Garliava"],["FK TransINVEST B","TransINVEST.svg"],["FK Kauno Žalgiris B","Kauno_Žalgiris.svg"],["FC Hegelmann B","Hegelmann.svg"],["FK Ekranas Panevėžys","Ekranas.svg"],["FA Šiauliai B","Šiauliai.svg"]],"PL":[["Pogoń Grodzisk Mazowiecki","Pogoń_Grodzisk_Mazowiecki.svg"],["Polonia Warszawa","Polonia_Warszawa.svg"],["Bruk-Bet Termalica Nieciecza","Bruk-Bet_Termalica_Nieciecza.svg"],["Lechia Gdańsk","Lechia_Gdańsk.svg"],["Miedź Legnica","Miedź_Legnica.svg"],["Warta Poznań","Warta_Poznań.svg"],["ŁKS Łódź","ŁKS_Łódź.svg"],["Ruch Chorzów","Ruch_Chorzów.svg"],["Stal Rzeszów","Stal_Rzeszów.svg"],["Polonia Bytom","Polonia_Bytom.svg"],["Pogoń Siedlce","Pogoń_Siedlce.svg"],["Chrobry Głogów","Chrobry_Głogów.svg"],["Odra Opole","Odra_Opole.svg"],["Stal Mielec","Stal_Mielec.svg"],["Arka Gdynia","Arka_Gdynia.svg"],["Puszcza Niepołomice","Puszcza_Niepołomice.svg"],["Unia Skierniewice","Unia_Skierniewice.svg"],["Podbeskidzie Bielsko-Biała","Podbeskidzie_Bielsko-Biała.svg"]]}
 COUNTRY={'EE':'estonia','LV':'latvia','LT':'lithuania','PL':'poland'}
@@ -62,6 +64,31 @@ def find_logo(country,name,filename):
     for ii in page.get('imageinfo',[]):
      url=ii.get('url')
      if url:return get(url),url,'wikimedia-exact-identified-filename'
+  except Exception:pass
+ # Official football-association/club tables provide real crests with club-labelled image alt text.
+ # Match strict team/alias name; do not accept a league logo or player photograph.
+ sites={'EE':['https://jalgpall.ee/voistlused/53/esiliiga'],
+        'LV':['https://leevonppk.com/','https://marupesfutbols.lv/'],
+        'LT':['https://www.fkbabrungas.lt/','https://lietuvosfutbolas.lt/varzybos/vyru/i-lyga/']}
+ target=norm(filename)
+ allowed=[norm(name),target]
+ for webpage in sites.get(country,[]):
+  try:
+   html=S.get(webpage,timeout=20).text
+   soup=BeautifulSoup(html,'html.parser')
+   for tag in soup.find_all('img'):
+    alt=(tag.get('alt') or '').strip()
+    val=norm(alt)
+    if not alt or val not in allowed and val not in [target+'logo','logo'+target]:
+     continue
+    raw=tag.get('data-src') or tag.get('src') or tag.get('data-lazy-src') or ''
+    if not raw or raw.startswith('data:'):continue
+    url=urljoin(webpage,raw)
+    try:
+     img=get(url)
+     if img.width/img.height>1.6 or img.height/img.width>1.6:continue
+     return img,url,'official-club-or-federation-table-strict-image-alt'
+    except Exception:continue
   except Exception:pass
  raise ValueError('No securely identified real club logo; do not publish placeholder')
 manifest=[]
