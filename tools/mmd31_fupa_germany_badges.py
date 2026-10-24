@@ -76,6 +76,8 @@ VERIFIED_PROFILE_NAMES = {
 
 # Public profile addresses are sometimes not the game's normalized club name.
 VERIFIED_PROFILE_SLUGS = {
+    "SC St. Tönis 11/20": "sc-st-toenis-191120",
+    "SG Finnentrop-Bamenohl": "sg-finnentrop-bamenohl-1227",
     "SC Eintracht Miersdorf/Zeuthen": "sc-eintracht-miersdorfzeuthen",
     "SV Blau-Weiß 90 Neustadt/Orla": "sv-blau-weiss-90-neustadtorla",
     "SG Kleinalmerode/Hundelshausen/Dohrenbach": "sg-kleinalmerodehundelshausendohrenbach",
