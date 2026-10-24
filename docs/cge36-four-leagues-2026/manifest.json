@@ -1,0 +1,927 @@
+{
+  "expected_clubs": 48,
+  "clubs_ok": 48,
+  "federations_ok": 4,
+  "items": [
+    {
+      "nation": "EE",
+      "teamId": 1897600001001,
+      "source_filename": "Levadia.svg",
+      "status": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/estonia/Levadia.svg",
+      "path": "docs/cge36-four-leagues-2026/clubs/EE/1897600001001.png",
+      "background_rgb": [
+        103,
+        194,
+        140
+      ],
+      "size": [
+        120,
+        96
+      ],
+      "sha256": "5332b3f819df157e159d69c739cf0918ded1282136283a42d0f6b09a5615a0dd"
+    },
+    {
+      "nation": "EE",
+      "teamId": 1897600001002,
+      "source_filename": "Flora_Tallinn.svg",
+      "status": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/estonia/Flora_Tallinn.svg",
+      "path": "docs/cge36-four-leagues-2026/clubs/EE/1897600001002.png",
+      "background_rgb": [
+        85,
+        176,
+        122
+      ],
+      "size": [
+        120,
+        96
+      ],
+      "sha256": "8fbe77588167849f855c2f95fef5d61b67dd7116f6e11fda60d18af10912a1db"
+    },
+    {
+      "nation": "EE",
+      "teamId": 1897600001003,
+      "source_filename": "Paide.svg",
+      "status": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/estonia/Paide.svg",
+      "path": "docs/cge36-four-leagues-2026/clubs/EE/1897600001003.png",
+      "background_rgb": [
+        103,
+        158,
+        194
+      ],
+      "size": [
+        120,
+        96
+      ],
+      "sha256": "a0027b2cec792d0940bc7efe3eaeffbb1502d946ca3c226b14a0ca7025e9278b"
+    },
+    {
+      "nation": "EE",
+      "teamId": 1897600001004,
+      "source_filename": "Nõmme_Kalju.svg",
+      "status": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/estonia/N%C3%B5mme_Kalju.svg",
+      "path": "docs/cge36-four-leagues-2026/clubs/EE/1897600001004.png",
+      "background_rgb": [
+        111,
+        147,
+        188
+      ],
+      "size": [
+        120,
+        96
+      ],
+      "sha256": "08b086465ef8722001f1a544b56894974f909a736e21ef8bd52b5f3724f2b6f1"
+    },
+    {
+      "nation": "EE",
+      "teamId": 1897600001005,
+      "source_filename": "Tammeka.svg",
+      "status": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/estonia/Tammeka.svg",
+      "path": "docs/cge36-four-leagues-2026/clubs/EE/1897600001005.png",
+      "background_rgb": [
+        85,
+        103,
+        231
+      ],
+      "size": [
+        120,
+        96
+      ],
+      "sha256": "f39d39dbe8f28fb7bc4c290df64c8da654160662e2f495bdf5c896dd6cb7923c"
+    },
+    {
+      "nation": "EE",
+      "teamId": 1897600001006,
+      "source_filename": "Harju_JK.svg",
+      "status": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/estonia/Harju_JK.svg",
+      "path": "docs/cge36-four-leagues-2026/clubs/EE/1897600001006.png",
+      "background_rgb": [
+        231,
+        103,
+        103
+      ],
+      "size": [
+        120,
+        96
+      ],
+      "sha256": "79b914e749e35e5467e7b1de1cfc7499ce426fd4cda5b10c21a4d257743781ce"
+    },
+    {
+      "nation": "EE",
+      "teamId": 1897600001007,
+      "source_filename": "Pärnu_JK_Vaprus.svg",
+      "status": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/estonia/P%C3%A4rnu_JK_Vaprus.svg",
+      "path": "docs/cge36-four-leagues-2026/clubs/EE/1897600001007.png",
+      "background_rgb": [
+        231,
+        213,
+        85
+      ],
+      "size": [
+        120,
+        96
+      ],
+      "sha256": "ae0f9bee58b542d375039b2899451a366506f69bca96ba758738f36cdd379b00"
+    },
+    {
+      "nation": "EE",
+      "teamId": 1897600001008,
+      "source_filename": "Kuressaare.svg",
+      "status": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/estonia/Kuressaare.svg",
+      "path": "docs/cge36-four-leagues-2026/clubs/EE/1897600001008.png",
+      "background_rgb": [
+        231,
+        194,
+        103
+      ],
+      "size": [
+        120,
+        96
+      ],
+      "sha256": "12bf8c2fff842573f9bb2903154d043b37c7b0bb9353c4ecd91030dfafbcb76f"
+    },
+    {
+      "nation": "EE",
+      "teamId": 1897600001009,
+      "source_filename": "FC_Nõmme_United.svg",
+      "status": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/estonia/FC_N%C3%B5mme_United.svg",
+      "path": "docs/cge36-four-leagues-2026/clubs/EE/1897600001009.png",
+      "background_rgb": [
+        158,
+        85,
+        85
+      ],
+      "size": [
+        120,
+        96
+      ],
+      "sha256": "e7eb2b001bde96f33d0716a9611edc17cfe6819b845cbcda997b1072ccfb6c4f"
+    },
+    {
+      "nation": "EE",
+      "teamId": 1897600001010,
+      "source_filename": "Narva_Trans.svg",
+      "status": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/estonia/Narva_Trans.svg",
+      "path": "docs/cge36-four-leagues-2026/clubs/EE/1897600001010.png",
+      "background_rgb": [
+        85,
+        140,
+        194
+      ],
+      "size": [
+        120,
+        96
+      ],
+      "sha256": "5665b6f71608396830651041b6073097fafc6af876160aed50dd5a86bf4e40ba"
+    },
+    {
+      "nation": "EE",
+      "teamId": null,
+      "type": "federation_logo",
+      "source_filename": "Estonia_National_Team.svg",
+      "status": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/estonia/Estonia_National_Team.svg",
+      "path": "docs/cge36-four-leagues-2026/federations/ee.png",
+      "size": [
+        512,
+        512
+      ],
+      "sha256": "7316a1ecb62e186c2f302cf6f4b76d610b5e1fcadc748ec189584f89f0bf6e84"
+    },
+    {
+      "nation": "LV",
+      "teamId": 1897600002001,
+      "source_filename": "RFS.svg",
+      "status": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/latvia/RFS.svg",
+      "path": "docs/cge36-four-leagues-2026/clubs/LV/1897600002001.png",
+      "background_rgb": [
+        85,
+        158,
+        213
+      ],
+      "size": [
+        120,
+        96
+      ],
+      "sha256": "f2cf0d79ea3f1e5990f962458bb3ee66a171de7afe3c58a67783d95955068eb9"
+    },
+    {
+      "nation": "LV",
+      "teamId": 1897600002002,
+      "source_filename": "Riga.svg",
+      "status": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/latvia/Riga.svg",
+      "path": "docs/cge36-four-leagues-2026/clubs/LV/1897600002002.png",
+      "background_rgb": [
+        85,
+        103,
+        122
+      ],
+      "size": [
+        120,
+        96
+      ],
+      "sha256": "fccdd7413ec75d8336465d5cfa0c28ef40848586aaf7999c3fbd5ebc9daccd58"
+    },
+    {
+      "nation": "LV",
+      "teamId": 1897600002003,
+      "source_filename": "Auda.svg",
+      "status": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/latvia/Auda.svg",
+      "path": "docs/cge36-four-leagues-2026/clubs/LV/1897600002003.png",
+      "background_rgb": [
+        103,
+        176,
+        122
+      ],
+      "size": [
+        120,
+        96
+      ],
+      "sha256": "02f90aa3c67c703e5b707254dc56de64d5e0fc65cef6af2b6e52e55bee333be3"
+    },
+    {
+      "nation": "LV",
+      "teamId": 1897600002004,
+      "source_filename": "Liepāja.svg",
+      "status": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/latvia/Liep%C4%81ja.svg",
+      "path": "docs/cge36-four-leagues-2026/clubs/LV/1897600002004.png",
+      "background_rgb": [
+        85,
+        158,
+        122
+      ],
+      "size": [
+        120,
+        96
+      ],
+      "sha256": "e1ef1d03655d90cdde3fc5402dcc24dd1a88e6ca27d2e150329a09f6bda7446a"
+    },
+    {
+      "nation": "LV",
+      "teamId": 1897600002005,
+      "source_filename": "Daugavpils.svg",
+      "status": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/latvia/Daugavpils.svg",
+      "path": "docs/cge36-four-leagues-2026/clubs/LV/1897600002005.png",
+      "background_rgb": [
+        85,
+        85,
+        122
+      ],
+      "size": [
+        120,
+        96
+      ],
+      "sha256": "b0c9ec2d080884ece17ce741ff451e2c3ad8a2ffba858b665e63cfb1ceb25fd3"
+    },
+    {
+      "nation": "LV",
+      "teamId": 1897600002006,
+      "source_filename": "SK_Super_Nova.svg",
+      "status": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/latvia/SK_Super_Nova.svg",
+      "path": "docs/cge36-four-leagues-2026/clubs/LV/1897600002006.png",
+      "background_rgb": [
+        103,
+        103,
+        140
+      ],
+      "size": [
+        120,
+        96
+      ],
+      "sha256": "64e40308e7d5b60388914ac3184a42e835949acf79acb2f6453e326ff9d2a953"
+    },
+    {
+      "nation": "LV",
+      "teamId": 1897600002007,
+      "source_filename": "Jelgava.svg",
+      "status": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/latvia/Jelgava.svg",
+      "path": "docs/cge36-four-leagues-2026/clubs/LV/1897600002007.png",
+      "background_rgb": [
+        111,
+        147,
+        188
+      ],
+      "size": [
+        120,
+        96
+      ],
+      "sha256": "25440dd8f10cb8f6534dcca0b1c392320aaf3b6c02f1802306f6e73768d243a7"
+    },
+    {
+      "nation": "LV",
+      "teamId": 1897600002008,
+      "source_filename": "Grobiņa.svg",
+      "status": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/latvia/Grobi%C5%86a.svg",
+      "path": "docs/cge36-four-leagues-2026/clubs/LV/1897600002008.png",
+      "background_rgb": [
+        122,
+        122,
+        176
+      ],
+      "size": [
+        120,
+        96
+      ],
+      "sha256": "993a3ac32263e0cadcd1cd8e11c325879171f311b5fdcb5118be4b2cb218b6a3"
+    },
+    {
+      "nation": "LV",
+      "teamId": 1897600002009,
+      "source_filename": "Tukums_2000.svg",
+      "status": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/latvia/Tukums_2000.svg",
+      "path": "docs/cge36-four-leagues-2026/clubs/LV/1897600002009.png",
+      "background_rgb": [
+        85,
+        158,
+        122
+      ],
+      "size": [
+        120,
+        96
+      ],
+      "sha256": "3356bb543f32554bd05d62dc320be70d47d55a9b24cfd45df1345c99d526386c"
+    },
+    {
+      "nation": "LV",
+      "teamId": 1897600002010,
+      "source_filename": "Ogre_United.svg",
+      "status": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/latvia/Ogre_United.svg",
+      "path": "docs/cge36-four-leagues-2026/clubs/LV/1897600002010.png",
+      "background_rgb": [
+        85,
+        122,
+        140
+      ],
+      "size": [
+        120,
+        96
+      ],
+      "sha256": "e8e8706d48d8f09c6362a84fd0afc8348bd613a5279d79e25f3e2818ef10a27d"
+    },
+    {
+      "nation": "LV",
+      "teamId": null,
+      "type": "federation_logo",
+      "source_filename": "Latvia_National_Team.svg",
+      "status": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/latvia/Latvia_National_Team.svg",
+      "path": "docs/cge36-four-leagues-2026/federations/lv.png",
+      "size": [
+        512,
+        512
+      ],
+      "sha256": "bb2056c606167c62cc41644ba661842e1978c80811ea5ad00f4c4d10f639d647"
+    },
+    {
+      "nation": "LT",
+      "teamId": 1897600003001,
+      "source_filename": "Kauno_Žalgiris.svg",
+      "status": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/lithuania/Kauno_%C5%BDalgiris.svg",
+      "path": "docs/cge36-four-leagues-2026/clubs/LT/1897600003001.png",
+      "background_rgb": [
+        85,
+        158,
+        122
+      ],
+      "size": [
+        120,
+        96
+      ],
+      "sha256": "895c6ebc7d1450c28b141dc7e615537d2f6ce66aa179c8c8d9fbf67c720399c2"
+    },
+    {
+      "nation": "LT",
+      "teamId": 1897600003002,
+      "source_filename": "Žalgiris_Vilnius.svg",
+      "status": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/lithuania/%C5%BDalgiris_Vilnius.svg",
+      "path": "docs/cge36-four-leagues-2026/clubs/LT/1897600003002.png",
+      "background_rgb": [
+        85,
+        158,
+        140
+      ],
+      "size": [
+        120,
+        96
+      ],
+      "sha256": "379d362d2872d24d17ad641dedd567cf7eb74754ae5dc8d8a1463d0c5e0efcf8"
+    },
+    {
+      "nation": "LT",
+      "teamId": 1897600003003,
+      "source_filename": "Sūduva.svg",
+      "status": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/lithuania/S%C5%ABduva.svg",
+      "path": "docs/cge36-four-leagues-2026/clubs/LT/1897600003003.png",
+      "background_rgb": [
+        249,
+        85,
+        85
+      ],
+      "size": [
+        120,
+        96
+      ],
+      "sha256": "6f8c355aaf39e5c85994306db9314fedf5ae5624f7865f90f8341b64eb7162a0"
+    },
+    {
+      "nation": "LT",
+      "teamId": 1897600003004,
+      "source_filename": "TransINVEST.svg",
+      "status": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/lithuania/TransINVEST.svg",
+      "path": "docs/cge36-four-leagues-2026/clubs/LT/1897600003004.png",
+      "background_rgb": [
+        85,
+        103,
+        158
+      ],
+      "size": [
+        120,
+        96
+      ],
+      "sha256": "8b0d6b73b8bd27b99a278cb267ea9ed3994e2e7afd6fc741ade1c7bab4330ce6"
+    },
+    {
+      "nation": "LT",
+      "teamId": 1897600003005,
+      "source_filename": "Banga.svg",
+      "status": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/lithuania/Banga.svg",
+      "path": "docs/cge36-four-leagues-2026/clubs/LT/1897600003005.png",
+      "background_rgb": [
+        85,
+        103,
+        140
+      ],
+      "size": [
+        120,
+        96
+      ],
+      "sha256": "6a786951a89c44abf453d9e432f481cfee518ab4c6732bececd0cc09bdf5e2c8"
+    },
+    {
+      "nation": "LT",
+      "teamId": 1897600003006,
+      "source_filename": "Džiugas.svg",
+      "status": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/lithuania/D%C5%BEiugas.svg",
+      "path": "docs/cge36-four-leagues-2026/clubs/LT/1897600003006.png",
+      "background_rgb": [
+        122,
+        85,
+        85
+      ],
+      "size": [
+        120,
+        96
+      ],
+      "sha256": "03677aa98276d81d5d2b6b313cde2e7405d7da3388ee0e7ee0a0e93cacf60fec"
+    },
+    {
+      "nation": "LT",
+      "teamId": 1897600003007,
+      "source_filename": "Panevėžys.svg",
+      "status": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/lithuania/Panev%C4%97%C5%BEys.svg",
+      "path": "docs/cge36-four-leagues-2026/clubs/LT/1897600003007.png",
+      "background_rgb": [
+        213,
+        85,
+        85
+      ],
+      "size": [
+        120,
+        96
+      ],
+      "sha256": "63f0dde62bb12f4a09891892382af4c630b64b2c47ba72e91c7403d148cec7c4"
+    },
+    {
+      "nation": "LT",
+      "teamId": 1897600003008,
+      "source_filename": "Hegelmann.svg",
+      "status": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/lithuania/Hegelmann.svg",
+      "path": "docs/cge36-four-leagues-2026/clubs/LT/1897600003008.png",
+      "background_rgb": [
+        85,
+        122,
+        158
+      ],
+      "size": [
+        120,
+        96
+      ],
+      "sha256": "bcc900c89af52b5da599e01c5fbd664d8ff53014cefae1b7c723402eb1c30700"
+    },
+    {
+      "nation": "LT",
+      "teamId": 1897600003009,
+      "source_filename": "Šiauliai.svg",
+      "status": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/lithuania/%C5%A0iauliai.svg",
+      "path": "docs/cge36-four-leagues-2026/clubs/LT/1897600003009.png",
+      "background_rgb": [
+        249,
+        213,
+        85
+      ],
+      "size": [
+        120,
+        96
+      ],
+      "sha256": "8dc6d3b75fc40365e8628e3b4d3beba9ce98b14479dd17b98aceee996eb9bfd8"
+    },
+    {
+      "nation": "LT",
+      "teamId": 1897600003010,
+      "source_filename": "Riteriai.svg",
+      "status": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/lithuania/Riteriai.svg",
+      "path": "docs/cge36-four-leagues-2026/clubs/LT/1897600003010.png",
+      "background_rgb": [
+        213,
+        249,
+        85
+      ],
+      "size": [
+        120,
+        96
+      ],
+      "sha256": "b4477e65d5a0ef23d8ba73bc76c6a1567e33e50b5bc8095cdc8275ea0571ba63"
+    },
+    {
+      "nation": "LT",
+      "teamId": null,
+      "type": "federation_logo",
+      "source_filename": "Lithuania_National_Team.svg",
+      "status": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/lithuania/Lithuania_National_Team.svg",
+      "path": "docs/cge36-four-leagues-2026/federations/lt.png",
+      "size": [
+        512,
+        512
+      ],
+      "sha256": "3aebfe8d9a4ed3fa2d9e5efe6a223792c46c86f96ce71d861a88f106066f0c9d"
+    },
+    {
+      "nation": "PL",
+      "teamId": 1897600004001,
+      "source_filename": "Górnik_Zabrze.svg",
+      "status": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/poland/G%C3%B3rnik_Zabrze.svg",
+      "path": "docs/cge36-four-leagues-2026/clubs/PL/1897600004001.png",
+      "background_rgb": [
+        103,
+        122,
+        176
+      ],
+      "size": [
+        120,
+        96
+      ],
+      "sha256": "d3494cfcff2b16d26db706dfaf4aaae58ac72e3892b1b36969f0edf9650b0f62"
+    },
+    {
+      "nation": "PL",
+      "teamId": 1897600004002,
+      "source_filename": "Lech_Poznań.svg",
+      "status": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/poland/Lech_Pozna%C5%84.svg",
+      "path": "docs/cge36-four-leagues-2026/clubs/PL/1897600004002.png",
+      "background_rgb": [
+        85,
+        122,
+        176
+      ],
+      "size": [
+        120,
+        96
+      ],
+      "sha256": "afeb9e3d2e7382d5c298576a995c45c0faf02f3491ca5a23caa64caa9ac28e39"
+    },
+    {
+      "nation": "PL",
+      "teamId": 1897600004003,
+      "source_filename": "Pogoń_Szczecin.svg",
+      "status": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/poland/Pogo%C5%84_Szczecin.svg",
+      "path": "docs/cge36-four-leagues-2026/clubs/PL/1897600004003.png",
+      "background_rgb": [
+        85,
+        103,
+        140
+      ],
+      "size": [
+        120,
+        96
+      ],
+      "sha256": "4b463704de11b794c8b34a71e96855444ea6355a714a01992eb9dfbf1c58e557"
+    },
+    {
+      "nation": "PL",
+      "teamId": 1897600004004,
+      "source_filename": "Legia_Warszawa.svg",
+      "status": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/poland/Legia_Warszawa.svg",
+      "path": "docs/cge36-four-leagues-2026/clubs/PL/1897600004004.png",
+      "background_rgb": [
+        85,
+        158,
+        122
+      ],
+      "size": [
+        120,
+        96
+      ],
+      "sha256": "c0aa416ddbc1cb3815ae4c04f5c44cfea3fd3d3d9a05ad73c59d330f1aae9d3d"
+    },
+    {
+      "nation": "PL",
+      "teamId": 1897600004005,
+      "source_filename": "Piast_Gliwice.svg",
+      "status": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/poland/Piast_Gliwice.svg",
+      "path": "docs/cge36-four-leagues-2026/clubs/PL/1897600004005.png",
+      "background_rgb": [
+        213,
+        176,
+        122
+      ],
+      "size": [
+        120,
+        96
+      ],
+      "sha256": "4eccabf0f2c8c257ca371956d8d8ca602ee211d35c71d23ae3351e57fab0766a"
+    },
+    {
+      "nation": "PL",
+      "teamId": 1897600004006,
+      "source_filename": "Wisła_Kraków.svg",
+      "status": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/poland/Wis%C5%82a_Krak%C3%B3w.svg",
+      "path": "docs/cge36-four-leagues-2026/clubs/PL/1897600004006.png",
+      "background_rgb": [
+        231,
+        103,
+        103
+      ],
+      "size": [
+        120,
+        96
+      ],
+      "sha256": "87eb9213db4137f8efa25e4901c65866ec223bde33a56134d4c8ff5d9ddc46e6"
+    },
+    {
+      "nation": "PL",
+      "teamId": 1897600004007,
+      "source_filename": "Zagłębie_Lubin.svg",
+      "status": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/poland/Zag%C5%82%C4%99bie_Lubin.svg",
+      "path": "docs/cge36-four-leagues-2026/clubs/PL/1897600004007.png",
+      "background_rgb": [
+        231,
+        158,
+        85
+      ],
+      "size": [
+        120,
+        96
+      ],
+      "sha256": "cbc55126dabe708c6f2adc350e35e5d45e3ebdfdbaa55291fb0e8336f97bdfe1"
+    },
+    {
+      "nation": "PL",
+      "teamId": 1897600004008,
+      "source_filename": "GKS_Katowice.svg",
+      "status": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/poland/GKS_Katowice.svg",
+      "path": "docs/cge36-four-leagues-2026/clubs/PL/1897600004008.png",
+      "background_rgb": [
+        103,
+        158,
+        122
+      ],
+      "size": [
+        120,
+        96
+      ],
+      "sha256": "09bee93b1b384d3d629ddc487994582c8302fcbcc4dd680b2d1a3850e97f0181"
+    },
+    {
+      "nation": "PL",
+      "teamId": 1897600004009,
+      "source_filename": "Korona_Kielce.svg",
+      "status": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/poland/Korona_Kielce.svg",
+      "path": "docs/cge36-four-leagues-2026/clubs/PL/1897600004009.png",
+      "background_rgb": [
+        231,
+        103,
+        103
+      ],
+      "size": [
+        120,
+        96
+      ],
+      "sha256": "11d9a5e63b7cbd570ce65ae9d307f04f613b2efca3148988ce6c72fc7543eafe"
+    },
+    {
+      "nation": "PL",
+      "teamId": 1897600004010,
+      "source_filename": "Wisła_Płock.svg",
+      "status": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/poland/Wis%C5%82a_P%C5%82ock.svg",
+      "path": "docs/cge36-four-leagues-2026/clubs/PL/1897600004010.png",
+      "background_rgb": [
+        122,
+        158,
+        194
+      ],
+      "size": [
+        120,
+        96
+      ],
+      "sha256": "ad2597cf0bb001364446ac2afa627f296898fe249e54eec59427d2d55ed05f8e"
+    },
+    {
+      "nation": "PL",
+      "teamId": 1897600004011,
+      "source_filename": "Motor_Lublin.svg",
+      "status": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/poland/Motor_Lublin.svg",
+      "path": "docs/cge36-four-leagues-2026/clubs/PL/1897600004011.png",
+      "background_rgb": [
+        213,
+        176,
+        122
+      ],
+      "size": [
+        120,
+        96
+      ],
+      "sha256": "f6486d7dc276ac40f47cf236f1a0385123bc15b33be865bd3a10429a4abb9536"
+    },
+    {
+      "nation": "PL",
+      "teamId": 1897600004012,
+      "source_filename": "Jagiellonia_Białystok.svg",
+      "status": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/poland/Jagiellonia_Bia%C5%82ystok.svg",
+      "path": "docs/cge36-four-leagues-2026/clubs/PL/1897600004012.png",
+      "background_rgb": [
+        213,
+        85,
+        103
+      ],
+      "size": [
+        120,
+        96
+      ],
+      "sha256": "fe78b29895df7333fa04b3259564f91252faa433ea404de30618c1256e145323"
+    },
+    {
+      "nation": "PL",
+      "teamId": 1897600004013,
+      "source_filename": "Cracovia.svg",
+      "status": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/poland/Cracovia.svg",
+      "path": "docs/cge36-four-leagues-2026/clubs/PL/1897600004013.png",
+      "background_rgb": [
+        213,
+        85,
+        103
+      ],
+      "size": [
+        120,
+        96
+      ],
+      "sha256": "49008878cf6e194374a8e5edb63e18b0ba6857e77193ed04036403c924512e4d"
+    },
+    {
+      "nation": "PL",
+      "teamId": 1897600004014,
+      "source_filename": "Widzew_Lodz.svg",
+      "status": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/poland/Widzew_Lodz.svg",
+      "path": "docs/cge36-four-leagues-2026/clubs/PL/1897600004014.png",
+      "background_rgb": [
+        194,
+        176,
+        140
+      ],
+      "size": [
+        120,
+        96
+      ],
+      "sha256": "954931440c812ed50e5cb4a8f571315c09b98e6df3d500fa9e67df7692008888"
+    },
+    {
+      "nation": "PL",
+      "teamId": 1897600004015,
+      "source_filename": "Wieczysta_Kraków.svg",
+      "status": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/poland/Wieczysta_Krak%C3%B3w.svg",
+      "path": "docs/cge36-four-leagues-2026/clubs/PL/1897600004015.png",
+      "background_rgb": [
+        249,
+        231,
+        103
+      ],
+      "size": [
+        120,
+        96
+      ],
+      "sha256": "8f28186f52b87c31d5e585226a38dfd910a061df600e718088763ee4c2cb7f59"
+    },
+    {
+      "nation": "PL",
+      "teamId": 1897600004016,
+      "source_filename": "Radomiak_Radom.svg",
+      "status": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/poland/Radomiak_Radom.svg",
+      "path": "docs/cge36-four-leagues-2026/clubs/PL/1897600004016.png",
+      "background_rgb": [
+        85,
+        158,
+        103
+      ],
+      "size": [
+        120,
+        96
+      ],
+      "sha256": "492104138ad41e530c84d11ea473d6c91bbceb71d66034271874d96cd3ef3288"
+    },
+    {
+      "nation": "PL",
+      "teamId": 1897600004017,
+      "source_filename": "Raków_Częstochowa.svg",
+      "status": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/poland/Rak%C3%B3w_Cz%C4%99stochowa.svg",
+      "path": "docs/cge36-four-leagues-2026/clubs/PL/1897600004017.png",
+      "background_rgb": [
+        231,
+        85,
+        85
+      ],
+      "size": [
+        120,
+        96
+      ],
+      "sha256": "41c19f2d60b3cc48cf00320c0475e378b9e24f744327ae21722e12520a87ff07"
+    },
+    {
+      "nation": "PL",
+      "teamId": 1897600004018,
+      "source_filename": "Śląsk_Wrocław.svg",
+      "status": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/poland/%C5%9Al%C4%85sk_Wroc%C5%82aw.svg",
+      "path": "docs/cge36-four-leagues-2026/clubs/PL/1897600004018.png",
+      "background_rgb": [
+        85,
+        176,
+        122
+      ],
+      "size": [
+        120,
+        96
+      ],
+      "sha256": "7d98fb8ec92b2c26bef59105ae4db4d92098520891401f92000de853f1ddf7a3"
+    },
+    {
+      "nation": "PL",
+      "teamId": null,
+      "type": "federation_logo",
+      "source_filename": "Polish_Football_Association.svg",
+      "status": "ok",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/poland/Polish_Football_Association.svg",
+      "path": "docs/cge36-four-leagues-2026/federations/pl.png",
+      "size": [
+        512,
+        512
+      ],
+      "sha256": "bfcbe23eb11295c8c7e21272e57bd27be4dad796045fb3bd42f3c77ffe8c530a"
+    }
+  ]
+}
