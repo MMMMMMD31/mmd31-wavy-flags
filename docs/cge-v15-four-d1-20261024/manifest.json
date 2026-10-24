@@ -8,16 +8,16 @@
       "source_sha256": "e2d03774594b671e1d7dfedb86353657d2172f1d6b2d97768714c3fbe87a53dc",
       "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v15-four-d1-20261024-test/docs/cge-v15-four-d1-20261024/1906100000001.png",
       "file": "docs/cge-v15-four-d1-20261024/1906100000001.png",
-      "sha256": "d622eeef8505f1f5a71b3326b75fe0b945c7a096a42b7dd4bbc5decfe041b144",
+      "sha256": "e17ec0bc1adb46c9373c9e248482befb6588d0ab21140baa3e6495a3b9c867e9",
       "dimensions": [
         120,
         96
       ],
       "status": "PUBLISHED; CLUB EMBLEM SOURCE MATCHED; visual review required",
       "background": [
-        216,
-        220,
-        224
+        255,
+        255,
+        255
       ]
     },
     {
@@ -48,16 +48,16 @@
       "source_sha256": "f2f46431ee4b77d4585568aa278d82c6590f82688c217a81c88ccc60e7237fce",
       "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v15-four-d1-20261024-test/docs/cge-v15-four-d1-20261024/1906100000003.png",
       "file": "docs/cge-v15-four-d1-20261024/1906100000003.png",
-      "sha256": "828fb288296ed23d7788c207699306ee08948fe607b1173ab92778c262727015",
+      "sha256": "def8d0719bfa59aa1fcea16d3ff63bfb835dcd353741f784d87cea518e1b1c62",
       "dimensions": [
         120,
         96
       ],
       "status": "PUBLISHED; CLUB EMBLEM SOURCE MATCHED; visual review required",
       "background": [
-        216,
-        220,
-        224
+        255,
+        255,
+        255
       ]
     },
     {
