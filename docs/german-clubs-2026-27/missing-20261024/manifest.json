@@ -1,0 +1,573 @@
+[
+  {
+    "teamId": "1898200000223",
+    "club": "FC 1920 Gundelfingen",
+    "source_type": "jose_verified",
+    "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/FC_Gundelfingen.svg",
+    "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000223.png",
+    "sha256": "3328e2dded838a706a989f4984c94d00a4667508328d1b999f2f56948e542d1a"
+  },
+  {
+    "teamId": "1898200000199",
+    "club": "FSV Fernwald",
+    "source_type": "jose_verified",
+    "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/FSV_1926_Fernwald.svg",
+    "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000199.png",
+    "sha256": "704dd96c150ff2f8fc31bc316b4b0abce5978367f1d1f8ef63e3894da0542f3b"
+  },
+  {
+    "teamId": "1898200000101",
+    "club": "SSVg Velbert",
+    "source_type": "jose_verified",
+    "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/SSVg_Velbert_02.svg",
+    "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000101.png",
+    "sha256": "f8b85bb532f2efd0096dd951c0a8cde98bca1e3b2500801cb0b2a34e1844ab6b"
+  },
+  {
+    "teamId": "1898200000241",
+    "club": "1. FC 1911 Passau",
+    "source_type": "jose_verified",
+    "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/1._FC_Passau.svg",
+    "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000241.png",
+    "sha256": "3478982c47160f3f2c5c7c98932d46d70852d28a21c662c392b99a21feb97a4c"
+  },
+  {
+    "teamId": "1898200000513",
+    "club": "Dresdner SC 1898",
+    "source_type": "jose_verified",
+    "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/Dresdner_SC.svg",
+    "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000513.png",
+    "sha256": "bbe301185b8a7a5adb656b41a1794c7d5719b25cc5fe176737daf58736a34097"
+  },
+  {
+    "teamId": "1898200000208",
+    "club": "DJK Don Bosco Bamberg",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/8d/DJK_Don_Bosco_Bamberg_Logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "wikidata": "Q1153961",
+    "source_type": "wikidata_verified",
+    "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000208.png",
+    "sha256": "c6d0f19184da22955d9c9afe1264dbe02b2ba7c8dfaa8a5f55017608133884d8"
+  },
+  {
+    "teamId": "1898200000216",
+    "club": "SpVgg Bayern Hof",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/17/SpVgg_Hof.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "wikidata": "Q665977",
+    "source_type": "wikidata_verified",
+    "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000216.png",
+    "sha256": "7b918787c3b6b443ab6d4a7b2192f6999de2ad752db31a07017145be2381f762"
+  },
+  {
+    "teamId": "1898200000217",
+    "club": "SpVgg SV Weiden",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/75/SpVgg_SV_Weiden.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "wikidata": "Q15848066",
+    "source_type": "wikidata_verified",
+    "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000217.png",
+    "sha256": "948c657929d1eb67d56309a9e750513ac0c26265d693d44f7d7327991d6f714f"
+  },
+  {
+    "teamId": "1898200000222",
+    "club": "Würzburger FV 04",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/93/Logo_WFV04.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "wikidata": "Q566187",
+    "source_type": "wikidata_verified",
+    "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000222.png",
+    "sha256": "f4a3d84349818f87f54771596eb99fd1e3c72f9b5e05e6c2441437209df97fb8"
+  },
+  {
+    "teamId": "1898200000226",
+    "club": "FC Pipinsried",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/b5/FC_Pipinsried_Logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "wikidata": "Q13634402",
+    "source_type": "wikidata_verified",
+    "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000226.png",
+    "sha256": "edf5278ede1e1ddbfc35a84e7e2206d895f3485dfe0aa837b39fa9d659814903"
+  },
+  {
+    "teamId": "1898200000231",
+    "club": "SV Kirchanschöring",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/91/SV_Kirchanschoering_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "wikidata": "Q19958315",
+    "source_type": "wikidata_verified",
+    "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000231.png",
+    "sha256": "233b91746575e8cd3cd6c7475118e33f236163ef7c916b23a8a1a749ce298222"
+  },
+  {
+    "teamId": "1898200000234",
+    "club": "SpVgg Landshut",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Spvgg_Landshut_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "wikidata": "Q112528",
+    "source_type": "wikidata_verified",
+    "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000234.png",
+    "sha256": "bd5991f1fd290d215ed5e31bf5a6e625f3c5a5343887bcc12a0ba4b31cef0818"
+  },
+  {
+    "teamId": "1898200000017",
+    "club": "Blumenthaler SV",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Blumenthaler_SV_Logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "wikidata": "Q537188",
+    "source_type": "wikidata_verified",
+    "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000017.png",
+    "sha256": "a9169a94bc4ebfb4e888cada816c4bf3fce1fd45dab12178e639c70f4f9406f2"
+  },
+  {
+    "teamId": "1898200000025",
+    "club": "FC Oberneuland",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/2b/FC_Oberneuland.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "wikidata": "Q782387",
+    "source_type": "wikidata_verified",
+    "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000025.png",
+    "sha256": "a3cbfd38ace9531bddf6de96e82e5d6648eccc8189c7d7e6b7eed72dd7561aca"
+  },
+  {
+    "teamId": "1898200000023",
+    "club": "FC Union 60 Bremen",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Union_60_Bremen.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "wikidata": "Q1387777",
+    "source_type": "wikidata_verified",
+    "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000023.png",
+    "sha256": "1aa794842d10347ace55099788f3e1420e94cf78273beb24cbf9f447891c47c1"
+  },
+  {
+    "teamId": "1898200000191",
+    "club": "FC Gießen",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/b6/FC_Giessen_Logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "wikidata": "Q21175456",
+    "source_type": "wikidata_verified",
+    "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000191.png",
+    "sha256": "2b44e28486ef13f1042c546819005a50b0c3fceb84558901653ae11a18ee5ba3"
+  },
+  {
+    "teamId": "1898200000132",
+    "club": "FC Hürth",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/ba/FC_Huerth_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "wikidata": "Q113698",
+    "source_type": "wikidata_verified",
+    "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000132.png",
+    "sha256": "0fdc2d9773ccc09d60b40270ddcc9fd92730e385990f2533ea6747ab1daca989"
+  },
+  {
+    "teamId": "1898200000121",
+    "club": "FC Wegberg-Beeck",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/82/FC_Wegberg-Beeck_Logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "wikidata": "Q1387871",
+    "source_type": "wikidata_verified",
+    "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000121.png",
+    "sha256": "f95fe2fb7f3aadfdb6f055a9df856e2c9dda9accffd005e72c96d7882345cf0b"
+  },
+  {
+    "teamId": "1898200000082",
+    "club": "FC Mecklenburg Schwerin",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/a2/FC_Mecklenburg_Schwerin_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "wikidata": "Q693383",
+    "source_type": "wikidata_verified",
+    "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000082.png",
+    "sha256": "122dcdce91e42b4904793c1aefe4d7082fd127da38e2a56132369c751800a493"
+  },
+  {
+    "teamId": "1898200000081",
+    "club": "Füchse Berlin Reinickendorf",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/f6/F%C3%BCchse_Berlin_Reinickendorf_Logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "wikidata": "Q656960",
+    "source_type": "wikidata_verified",
+    "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000081.png",
+    "sha256": "7a762f744fe36060466e150decbe3389f1b14d26a0466954fe3b2fa7ef44999f"
+  },
+  {
+    "teamId": "1898200000070",
+    "club": "TSG Neustrelitz",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/f6/TSG_Neustr_Logo.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "wikidata": "Q176168",
+    "source_type": "wikidata_verified",
+    "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000070.png",
+    "sha256": "99e0cbdef68596dd1b05748f0b1c37422df83e933220bb57ab3821e2a3519d9b"
+  },
+  {
+    "teamId": "1898200000078",
+    "club": "Tennis Borussia Berlin",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Tennis_Borussia_Berlin_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "wikidata": "Q639560",
+    "source_type": "wikidata_verified",
+    "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000078.png",
+    "sha256": "46ee4d985e356ff132b4661621a873cf69931d8cb4684cb88585c6d58160c729"
+  },
+  {
+    "teamId": "1898200000074",
+    "club": "TuS Makkabi Berlin",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/e2/TuS_Makkabi_Berlin_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "wikidata": "Q476929",
+    "source_type": "wikidata_verified",
+    "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000074.png",
+    "sha256": "faf6e57ba319e7ea1505b8e7a95f77d9045dcc812faa1b5a051015b6d5aaf021"
+  },
+  {
+    "teamId": "1898200000172",
+    "club": "FC Nöttingen",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/50/FC_N%C3%B6ttingen_logo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "wikidata": "Q464066",
+    "source_type": "wikidata_verified",
+    "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000172.png",
+    "sha256": "77cb520f9ae7a9d0b1aadfb830e557343d8c38b77c50d8400b8a764b14669ccc"
+  },
+  {
+    "teamId": "1898200000184",
+    "club": "FC Teningen",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/07/Teningen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "wikidata": "Q1387714",
+    "source_type": "wikidata_verified",
+    "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000184.png",
+    "sha256": "b09d606873fb9abc14612b0dda350770cb34470ac0950cab16c421170282ce6f"
+  },
+  {
+    "teamId": "1898200000177",
+    "club": "SSV Reutlingen 05",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/dc/SSV_Reutlingen_05.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "wikidata": "Q819367",
+    "source_type": "wikidata_verified",
+    "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000177.png",
+    "sha256": "4230b2c976648b21aefea4f022498f2a8fa46d1b046c48a019ba54641d069824"
+  },
+  {
+    "teamId": "1898200000041",
+    "club": "FC Süderelbe",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/88/FC_S%C3%BCderelbe.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "wikidata": "Q17321578",
+    "source_type": "wikidata_verified",
+    "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000041.png",
+    "sha256": "6b98d4bb5f2b78d4fc13c0a92522dfca567a29c08f1dd70e8ba9addbca60d115"
+  },
+  {
+    "teamId": "1898200000109",
+    "club": "Sportfreunde Baumberg",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/54/SF_Baumberg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "wikidata": "Q764358",
+    "source_type": "wikidata_verified",
+    "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000109.png",
+    "sha256": "85982c51fa9f57d7ee8b0aad6982370e115fedf567ec585b9826a3fef3ee9026"
+  },
+  {
+    "teamId": "1898200000157",
+    "club": "FC Rot-Weiss Koblenz",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/bf/FC_Rot-Wei%C3%9F_Koblenz_Logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "wikidata": "Q107406697",
+    "source_type": "wikidata_verified",
+    "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000157.png",
+    "sha256": "9722b18aacad3df4a4732492b8d6db785a83d849e78ca0bdc549ec2454f88fe7"
+  },
+  {
+    "teamId": "1898200000156",
+    "club": "FV Engers 07",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/03/FV_Engers_07.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "wikidata": "Q566242",
+    "source_type": "wikidata_verified",
+    "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000156.png",
+    "sha256": "34898ffa53b8db75d16f901da247f6401047430831897f2f5c9394e01ed7caa7"
+  },
+  {
+    "teamId": "1898200000163",
+    "club": "SV Auersmacher",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/e0/SV_Auersmacher_Logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "wikidata": "Q2374021",
+    "source_type": "wikidata_verified",
+    "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000163.png",
+    "sha256": "a3d195b6aad4bf6e61a984b6c12c82032b646e7026a4a0d96c016db5db275a77"
+  },
+  {
+    "teamId": "1898200000155",
+    "club": "TuS Koblenz",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/04/TuS_Koblenz.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "wikidata": "Q155452",
+    "source_type": "wikidata_verified",
+    "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000155.png",
+    "sha256": "5e4dc2a324fb5c384ddb1cf3e222ff5feb5f31c4dc1dd4e04f58926b2f12a871"
+  },
+  {
+    "teamId": "1898200000006",
+    "club": "Heider SV",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/12/Heider_SV_Logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "wikidata": "Q566161",
+    "source_type": "wikidata_verified",
+    "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000006.png",
+    "sha256": "3f71f3aeed45455b26b20bc49653419ad99a7fcf188983b4700dd1c1b7d928c5"
+  },
+  {
+    "teamId": "1898200000004",
+    "club": "SV Eichede",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/d0/SV_Eichede.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "wikidata": "Q2208389",
+    "source_type": "wikidata_verified",
+    "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000004.png",
+    "sha256": "f3dc44cd6a79d8875fe2805a773fa7a3c3e9e585abac16a9bf17f54267679a66"
+  },
+  {
+    "teamId": "1898200000142",
+    "club": "SV Schermbeck",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/55/SV_Schermbeck_2020_Logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "wikidata": "Q479265",
+    "source_type": "wikidata_verified",
+    "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000142.png",
+    "sha256": "d7b01d41d99d6e4a9102fabab3f607b66c200652f990a4e8b3fcc3557ded4bcb"
+  },
+  {
+    "teamId": "1898200000145",
+    "club": "SpVgg Erkenschwick",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/64/SpVgg_Erkenschwick_Logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "wikidata": "Q566145",
+    "source_type": "wikidata_verified",
+    "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000145.png",
+    "sha256": "7d9add6d37cabf98ca69f9b0181f91f85587be512e979c30383c0b9355b53a9b"
+  },
+  {
+    "teamId": "1898200000481",
+    "club": "1. FC Wilmersdorf",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/d7/1._FC_Wilmersdorf_1911_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "wikidata": "Q162423",
+    "source_type": "wikidata_verified",
+    "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000481.png",
+    "sha256": "85d946a92340851e913cea3d7610a9bf86bf73a1d1211179596e0d5b386a45d1"
+  },
+  {
+    "teamId": "1898200000483",
+    "club": "BFC Meteor 06",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/9a/BFC_Meteor_06_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "wikidata": "Q323858",
+    "source_type": "wikidata_verified",
+    "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000483.png",
+    "sha256": "5f4078243e93bbbdfd4ade585d55dc8330aefbb58cc733eab51343d1fc3f191e"
+  },
+  {
+    "teamId": "1898200000474",
+    "club": "Blau-Weiß Hohen Neuendorf",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/37/Logo_Hohen_Neuendorf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "wikidata": "Q882317",
+    "source_type": "wikidata_verified",
+    "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000474.png",
+    "sha256": "4cd71841c5b35639fbfc11c660306104cbaeea2241135b8213b17e5e89a6bc85"
+  },
+  {
+    "teamId": "1898200000473",
+    "club": "Frohnauer SC",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/92/Frohnauer_SC_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "wikidata": "Q1469600",
+    "source_type": "wikidata_verified",
+    "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000473.png",
+    "sha256": "1569725e7ba73b3cce6507ef72baa88647436b6ace11e5a9ef6e4e7065f52ace"
+  },
+  {
+    "teamId": "1898200000242",
+    "club": "1. FC Bad Kötzting",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/5f/1._FC_Bad_K%C3%B6tzting.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "wikidata": "Q162205",
+    "source_type": "wikidata_verified",
+    "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000242.png",
+    "sha256": "0d20dde269ff2df85864c50bade9684553a8cdf28867bb06e1307455b8b07546"
+  },
+  {
+    "teamId": "1898200000269",
+    "club": "SG Quelle Fürth",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/4d/SG_Quelle_F%C3%BCrth_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "wikidata": "Q879389",
+    "source_type": "wikidata_verified",
+    "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000269.png",
+    "sha256": "a289e9e2b8fb504f6481dbfb5630f43cb7018807f6d88165a381036afa3c3756"
+  },
+  {
+    "teamId": "1898200000271",
+    "club": "SpVgg Jahn Forchheim",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Jahnforchheim.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "wikidata": "Q746114",
+    "source_type": "wikidata_verified",
+    "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000271.png",
+    "sha256": "e1c72167bed67af53b345df41cac7ca182d838a40192057329fdc919eb281399"
+  },
+  {
+    "teamId": "1898200000298",
+    "club": "FC Unterföhring",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/2f/FC_Unterfoehring_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "wikidata": "Q1387794",
+    "source_type": "wikidata_verified",
+    "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000298.png",
+    "sha256": "08c239a9520bdea547680095c1a7490805b334fc6fbc882efdecdd0ecefcc134"
+  },
+  {
+    "teamId": "1898200000299",
+    "club": "FC Wacker München",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Wappen-FC-Wacker-M%C3%BCnchen.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "wikidata": "Q681889",
+    "source_type": "wikidata_verified",
+    "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000299.png",
+    "sha256": "00a2c7bc825f50dcc460e3ff241a653df3c87086b80c1b6e18dfe4173b6b4faa"
+  },
+  {
+    "teamId": "1898200000800",
+    "club": "1. FC Burg",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/6a/1FC_Burg_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "wikidata": "Q162207",
+    "source_type": "wikidata_verified",
+    "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000800.png",
+    "sha256": "e8b869df4fe72c6f1f52c646cab6c48dd6191cb33fa0c05cd943ca748ae3b945"
+  },
+  {
+    "teamId": "1898200000795",
+    "club": "BSC Hastedt",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Logo_BSC_Hastedt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "wikidata": "Q44126778",
+    "source_type": "wikidata_verified",
+    "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000795.png",
+    "sha256": "c63fd91b1a8ab79859a5e2ec62bee081e0d907b938e277184e2c6eb1ba2417a1"
+  },
+  {
+    "teamId": "1898200000680",
+    "club": "FC Türkiye Wilhelmsburg",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/FC_T%C3%BCrkiye_Wilhelmsburg.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "wikidata": "Q19964187",
+    "source_type": "wikidata_verified",
+    "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000680.png",
+    "sha256": "8d209b88e480022db2aaed53e34dcae340825d54b9136c433e0aea529d63a6f0"
+  },
+  {
+    "teamId": "1898200000412",
+    "club": "SV Schlebusch",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/f5/SV_Schlebusch_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "wikidata": "Q1394812",
+    "source_type": "wikidata_verified",
+    "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000412.png",
+    "sha256": "1e27da513ca902b3cd507820174761808883fa5b6b3cb6ff1a59c94c9a1dc880"
+  },
+  {
+    "teamId": "1898200000363",
+    "club": "DJK Arminia Klosterhardt",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/b2/DJK-Arminia-Klosterhardt-Logo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "wikidata": "Q136159048",
+    "source_type": "wikidata_verified",
+    "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000363.png",
+    "sha256": "a720d0851a1421247d9254ff46e5fe53e7e030024b93399a1fac25aac33f8a2d"
+  },
+  {
+    "teamId": "1898200000728",
+    "club": "MTV Wolfenbüttel",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/5f/MTV_Wolfenb%C3%BCttel.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "wikidata": "Q1882012",
+    "source_type": "wikidata_verified",
+    "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000728.png",
+    "sha256": "a16256ae1ae3f72cbc45c44a880ca5109a4cf5ed0392aff3e0e35a869de6b99e"
+  },
+  {
+    "teamId": "1898200000754",
+    "club": "OSV Hannover",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/ce/OSV_Hannover.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "wikidata": "Q472214",
+    "source_type": "wikidata_verified",
+    "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000754.png",
+    "sha256": "bcef9c9558c4ca608f3f1549ddb91ca163e59cf83e389c9dc125b487b9d384c1"
+  },
+  {
+    "teamId": "1898200000746",
+    "club": "SV Arminia Hannover",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/d7/SV_Arminia_Hannover_Logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "wikidata": "Q639482",
+    "source_type": "wikidata_verified",
+    "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000746.png",
+    "sha256": "86a468a3b2b2f6941c3bb0d8410e7d0ab157b83787570dddcc5c9c0c509f5af3"
+  },
+  {
+    "teamId": "1898200000748",
+    "club": "SV Bavenstedt",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/32/SV_Bavenstedt_Logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "wikidata": "Q1655772",
+    "source_type": "wikidata_verified",
+    "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000748.png",
+    "sha256": "a80b3f0438c8fcfce7b87b3471603e92ebca677b20d83d14ba02693b8e429f9e"
+  },
+  {
+    "teamId": "1898200000709",
+    "club": "TSV Kropp",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/5e/TSV_Kropp.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "wikidata": "Q885203",
+    "source_type": "wikidata_verified",
+    "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000709.png",
+    "sha256": "cb128184983f7523618dac280659bc44dcceb2c6482ddb742a5b491810ce0c0c"
+  },
+  {
+    "teamId": "1898200000433",
+    "club": "FSV Jägersburg",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/a5/FSV_Viktoria_J%C3%A4gersburg_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "wikidata": "Q1389671",
+    "source_type": "wikidata_verified",
+    "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000433.png",
+    "sha256": "aaa6c0a2edae395685f58fb244819637b94c4aa68bfb9807b6f9d8a9eb60e4e0"
+  },
+  {
+    "teamId": "1898200000486",
+    "club": "SV Schott Jena",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Schott_Jena_Logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "wikidata": "Q831921",
+    "source_type": "wikidata_verified",
+    "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000486.png",
+    "sha256": "d48eb7a65a2376bf9442529ac623ad3b40a8f080af098b71ddfb13143b3cbfb6"
+  },
+  {
+    "teamId": "1898200000569",
+    "club": "SV Spielberg",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/79/Spielberg_SV.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "wikidata": "Q831875",
+    "source_type": "wikidata_verified",
+    "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000569.png",
+    "sha256": "047f6349d8512dac86339987eec058c9aac492e78211f9d75ea546d3fe9327eb"
+  },
+  {
+    "teamId": "1898200000599",
+    "club": "1. FC Neubrandenburg 04",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/0b/1.FC_Neubrandenburg_04.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "wikidata": "Q162342",
+    "source_type": "wikidata_verified",
+    "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000599.png",
+    "sha256": "4dfec743b7d23fdda32263e52b20342436540ade7bbb7b334cdc9a295412a002"
+  },
+  {
+    "teamId": "1898200000605",
+    "club": "FC Schönberg 95",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/94/Logo_FC_Sch%C3%B6nberg_95_%28ab_2002%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "wikidata": "Q479296",
+    "source_type": "wikidata_verified",
+    "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000605.png",
+    "sha256": "b38f0c462bab18ed1fe6c20405304264bb580bda88236688e608dfc673b0a41c"
+  },
+  {
+    "teamId": "1898200000385",
+    "club": "BSV Halle-Ammendorf",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/40/BSV_Halle-Ammendorf.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "wikidata": "Q797015",
+    "source_type": "wikidata_verified",
+    "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000385.png",
+    "sha256": "8d7d27e8ee2724b95d719ef05260aa876fc2fc0146148be409e5cb7c390c8d50"
+  },
+  {
+    "teamId": "1898200000339",
+    "club": "SV Alemannia Waldalgesheim",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/b5/SV_Alemannia_Waldalgesheim_Logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "wikidata": "Q204207",
+    "source_type": "wikidata_verified",
+    "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000339.png",
+    "sha256": "7da0f1a8a6ef31ec0b3650863ab8f87ef4ef01b6dc8ac0b1603bf684a7df16a3"
+  },
+  {
+    "teamId": "1898200000554",
+    "club": "Sportfreunde Dorfmerkingen",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/84/Sportfreunde_Dorfmerkingen_Logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "wikidata": "Q2312455",
+    "source_type": "wikidata_verified",
+    "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000554.png",
+    "sha256": "9ffd460b05172555d0adfb75928bb7055aaade48ac97fb2582f41f20d3309953"
+  },
+  {
+    "teamId": "1898200000548",
+    "club": "SSV Buer 07/28",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/09/SSV_Buer_Logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "wikidata": "Q285327",
+    "source_type": "wikidata_verified",
+    "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000548.png",
+    "sha256": "30201bbf834eef5126917691f9e8778f088c773e0249f18f2bce6aed67c3ac33"
+  }
+]
