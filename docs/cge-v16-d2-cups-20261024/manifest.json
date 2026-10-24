@@ -1,8 +1,8 @@
 {
   "generated": "2026-10-24",
   "number": 59,
-  "published": 50,
-  "missing": 9,
+  "published": 55,
+  "missing": 4,
   "items": [
     {
       "id": 1906100001001,
@@ -230,10 +230,18 @@
       "id": 1906100001015,
       "name": "Hayq",
       "country": "armenia",
-      "source": null,
+      "source": "https://escudosfc.com.br/images/hayq_arm.jpg",
       "parent_crest_allowed": false,
-      "status": "MISSING_NO_VERIFIED_CRESt",
-      "error": "API unavailable"
+      "status": "PUBLISHED_SOURCE_NAMED_VISUAL_AUDIT_PENDING",
+      "source_basis": "identified first-team emblem",
+      "source_sha256": "0dd7c19ec3d58a3eeb7cd133e9bc887d75a266c59ecf6396382264de34404736",
+      "background": [
+        110,
+        126,
+        157
+      ],
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v16-d2-cups-20261024-test/docs/cge-v16-d2-cups-20261024/1906100001015.png",
+      "png_sha256": "6645bfd7ad76bf41169845c603279500e121116ba9e0da3ec161adedd287da5a"
     },
     {
       "id": 1906200001001,
@@ -273,10 +281,18 @@
       "id": 1906200001003,
       "name": "Şimal",
       "country": "azerbaijan",
-      "source": null,
+      "source": "https://sportnews.az/storage/photos/2025/09/12/2da90b1b-1354-4331-8a4a-24a767d2e0ce.webp",
       "parent_crest_allowed": false,
-      "status": "MISSING_NO_VERIFIED_CRESt",
-      "error": "API unavailable"
+      "status": "PUBLISHED_SOURCE_NAMED_VISUAL_AUDIT_PENDING",
+      "source_basis": "identified first-team emblem",
+      "source_sha256": "7ccb201c483e191b8750120b53a6f459136f86c0c4a1bbaf6474429d9fdee11c",
+      "background": [
+        110,
+        126,
+        141
+      ],
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v16-d2-cups-20261024-test/docs/cge-v16-d2-cups-20261024/1906200001003.png",
+      "png_sha256": "29912cb5b1b880c1e1c35e0adebf582fd7e76473209c4c5f3d7bdea1e17a6930"
     },
     {
       "id": 1906200001004,
@@ -291,10 +307,18 @@
       "id": 1906200001005,
       "name": "Xankəndi",
       "country": "azerbaijan",
-      "source": null,
+      "source": "https://r2.thesportsdb.com/images/media/team/badge/zusweo1761889881.png",
       "parent_crest_allowed": false,
-      "status": "MISSING_NO_VERIFIED_CRESt",
-      "error": "API unavailable"
+      "status": "PUBLISHED_SOURCE_NAMED_VISUAL_AUDIT_PENDING",
+      "source_basis": "identified first-team emblem",
+      "source_sha256": "2fa4c20ae10de551bbe156c3c9450906308186012b2499c20515b98d1d56837d",
+      "background": [
+        95,
+        110,
+        141
+      ],
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v16-d2-cups-20261024-test/docs/cge-v16-d2-cups-20261024/1906200001005.png",
+      "png_sha256": "ebc5d57b497730d463ca32ed4907f719a5d326f40a66703e11f6c4d402bcabee"
     },
     {
       "id": 1906200001006,
@@ -317,19 +341,35 @@
       "id": 1906200001007,
       "name": "Mingəçevir",
       "country": "azerbaijan",
-      "source": null,
+      "source": "https://pfl.az/storage/clubs/6724b58315dc731.png",
       "parent_crest_allowed": false,
-      "status": "MISSING_NO_VERIFIED_CRESt",
-      "error": "API unavailable"
+      "status": "PUBLISHED_SOURCE_NAMED_VISUAL_AUDIT_PENDING",
+      "source_basis": "identified first-team emblem",
+      "source_sha256": "91263a04997f4ef4f030a97d79f0a4ac919d3cf5bba29ab456cbe6056d9db7ad",
+      "background": [
+        95,
+        157,
+        204
+      ],
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v16-d2-cups-20261024-test/docs/cge-v16-d2-cups-20261024/1906200001007.png",
+      "png_sha256": "eaa61493d3d2c1c8b55e1a92725e418333aa7b4d974f2b0238e129ed9d20a971"
     },
     {
       "id": 1906200001008,
       "name": "Zaqatala",
       "country": "azerbaijan",
-      "source": null,
+      "source": "https://images.seeklogo.com/logo-png/34/1/fk-zaqatala-logo-png_seeklogo-346540.png",
       "parent_crest_allowed": false,
-      "status": "MISSING_NO_VERIFIED_CRESt",
-      "error": "API unavailable"
+      "status": "PUBLISHED_SOURCE_NAMED_VISUAL_AUDIT_PENDING",
+      "source_basis": "identified first-team emblem",
+      "source_sha256": "6562254018dae3d6e243dab5289aea20534e1db6389849a4d4a01f957171cfff",
+      "background": [
+        126,
+        219,
+        95
+      ],
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v16-d2-cups-20261024-test/docs/cge-v16-d2-cups-20261024/1906200001008.png",
+      "png_sha256": "d0a671cf4a1742bc0b884babbabd7df154d04de7ece2bd6b1e732ef40258a5fe"
     },
     {
       "id": 1906200001009,
