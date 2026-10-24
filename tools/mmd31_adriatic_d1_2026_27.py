@@ -63,7 +63,7 @@ def source_image(country,name,gh_name,slug):
   urls.append("https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/"+country+"/"+urllib.parse.quote(gh_name))
  urls.append(f"https://assets.footylogos.com/logos/{slug}/{slug}-logo-footylogos.svg")
  # Montenegro and any missing club: source site lists individually.
- if slug=="otrant-olympic": urls.append("https://seeklogo.com/vector-logo/302254/fk-otrant-olympic-ulcinj-ulqin")
+ if slug=="otrant-olympic": urls.append("https://images.seeklogo.com/logo-png/30/1/fk-otrant-olympic-ulcinj-ulqin-logo-png_seeklogo-302254.png")
  if slug=="mladost-donja-gorica": urls.append("https://www.escudosdefutbolyequipaciones.com/ESCUDO%2BOFK%20MLADOST%20DONJA%20GORICA")
  urls.append("https://football-logos.cc/"+country+"/"+slug+"/")
  if country=="montenegro":
