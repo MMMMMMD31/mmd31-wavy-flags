@@ -123,6 +123,17 @@ def find_logo(country,name,filename):
        return im,url,'club-official-website-header-logo'
      except Exception: pass
    except Exception as e:print('Riga official website lookup',str(e)[:120],flush=True)
+
+ if name=='Riga Mariners':
+  # Identified Latvian first-league team 519903 (FK Beitar/Riga Mariners alias) on Sofascore.
+  # Accept only real logo pixels; do not screenshot a match or invent a crest.
+  for logo_url in ['https://img.sofascore.com/api/v1/team/519903/image',
+                   'https://www.sofascore.com/api/v1/team/519903/image']:
+   try:
+    img=get(logo_url)
+    if .55<=img.width/img.height<=1.85:
+     return img,logo_url,'sofascore-team-519903-club-crest-identity-verified'
+   except Exception as e:print('Riga Mariners crest unavailable:',str(e)[:120],flush=True)
  raise ValueError('No securely identified real club logo; do not publish placeholder')
 manifest=[]
 for cc,groups in CLUBS.items():
