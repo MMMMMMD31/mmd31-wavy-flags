@@ -1,7 +1,7 @@
 {
   "expected": 58,
-  "published": 53,
-  "missing": 5,
+  "published": 57,
+  "missing": 1,
   "clubs": [
     {
       "country": "EE",
@@ -288,8 +288,16 @@
         120,
         96
       ],
-      "state": "missing",
-      "problem": "No securely identified real club logo; do not publish placeholder"
+      "state": "published",
+      "source": "https://images.seeklogo.com/logo-png/38/1/mrupe-sc-logo-png_seeklogo-384577.png",
+      "source_type": "exact-club-identified-independent-badge",
+      "path": "docs/cge36-d2-2026/clubs/LV/1897600006006.png",
+      "background_rgb": [
+        119,
+        163,
+        141
+      ],
+      "sha256": "81bf54508f406fc382166abab7cf7a773f5fc041b7fc562548cd2029c41f309f"
     },
     {
       "country": "LV",
@@ -413,8 +421,16 @@
         120,
         96
       ],
-      "state": "missing",
-      "problem": "No securely identified real club logo; do not publish placeholder"
+      "state": "published",
+      "source": "https://r2.thesportsdb.com/images/media/team/badge/ow928b1734112963.png",
+      "source_type": "exact-club-identified-independent-badge",
+      "path": "docs/cge36-d2-2026/clubs/LV/1897600006013.png",
+      "background_rgb": [
+        245,
+        208,
+        119
+      ],
+      "sha256": "5c27c6d4efee6eac32a89ae6430c06b6bfee0e5a942295327be52ca1b7e80b03"
     },
     {
       "country": "LV",
@@ -538,8 +554,16 @@
         120,
         96
       ],
-      "state": "missing",
-      "problem": "No securely identified real club logo; do not publish placeholder"
+      "state": "published",
+      "source": "https://www.statarea.com/images/teams/embl/21416.png",
+      "source_type": "exact-club-identified-independent-badge",
+      "path": "docs/cge36-d2-2026/clubs/LT/1897600007006.png",
+      "background_rgb": [
+        141,
+        141,
+        186
+      ],
+      "sha256": "9f215665813df7ccba2a5e6099fe9b922c32dc7ad3a64f0c7086ecc29d951905"
     },
     {
       "country": "LT",
@@ -625,8 +649,16 @@
         120,
         96
       ],
-      "state": "missing",
-      "problem": "No securely identified real club logo; do not publish placeholder"
+      "state": "published",
+      "source": "https://images.seeklogo.com/logo-png/52/1/fk-garliava-logo-png_seeklogo-520848.png",
+      "source_type": "exact-club-identified-independent-badge",
+      "path": "docs/cge36-d2-2026/clubs/LT/1897600007011.png",
+      "background_rgb": [
+        245,
+        119,
+        119
+      ],
+      "sha256": "40d5e1f6a4ccde780ac48a0395cb97699507cb7167cf8f0d303dfc6b875b12a8"
     },
     {
       "country": "LT",
