@@ -1,0 +1,30 @@
+[
+  {
+    "country": "slovenia",
+    "name": "Nogometna zveza Slovenije",
+    "source": "https://www.nzs.si/sites/default/files/styles/default/public/media/image/NZS_osnovni_pokoncni_color-01.png.webp?itok=CTSxhNF9",
+    "status": "PNG_280x280_PUBLISHED",
+    "sha256": "b277dc2f8bafea42b06e7a51b1a10d237a827175a1134c0bd053921ec7b9b2d0"
+  },
+  {
+    "country": "croatia",
+    "name": "Hrvatski nogometni savez",
+    "source": "https://hns.family/files/images/0000050025.png",
+    "status": "PNG_280x280_PUBLISHED",
+    "sha256": "a189628ac74c2657b0bfadc696e52f858bc1472d3f2256331f58cc74d10f8945"
+  },
+  {
+    "country": "montenegro",
+    "name": "Fudbalski savez Crne Gore",
+    "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/montenegro/Montenegro_National_Team.svg",
+    "status": "PNG_280x280_PUBLISHED",
+    "sha256": "2b4840ce4d2d1c630b9b0429a976e9c08bb7b2668a54cd2d069b1b41d1dc9a72"
+  },
+  {
+    "country": "albania",
+    "name": "Federata Shqiptare e Futbollit",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Albanian_Football_Federation.svg",
+    "status": "PNG_280x280_PUBLISHED",
+    "sha256": "5c21fc5757cd4cb6a4be36d29b8e527db0ba2d5a48449fc8fce700d1f164c9de"
+  }
+]
