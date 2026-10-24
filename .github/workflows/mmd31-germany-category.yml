@@ -4,6 +4,7 @@ on:
     branches: [mmd31-germany-remaining-crests-20261024]
     paths:
       - '.github/workflows/mmd31-germany-category.yml'
+      - 'tools/mmd31_commons_category_germany.py'
   workflow_dispatch:
 permissions:
   contents: write
