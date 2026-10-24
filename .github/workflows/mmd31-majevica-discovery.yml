@@ -1,0 +1,30 @@
+name: Diagnose single official club emblem source
+on:
+  push:
+    branches:
+      - mmd31-balkans-d1-2026-test
+    paths:
+      - tools/mmd31_majevica_logo_discovery.py
+      - .github/workflows/mmd31-majevica-discovery.yml
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  inspect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install requests beautifulsoup4
+      - run: python tools/mmd31_majevica_logo_discovery.py
+      - name: Preserve candidates
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add docs/balkans-d2-2026/v1/majevica_discovery.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Inspect remaining club logo source metadata'
+            git push origin HEAD:refs/heads/$GITHUB_REF_NAME
+          fi
