@@ -350,5 +350,181 @@
       101
     ],
     "sha256": "fb39d27a846ea0072711c632c0840cf6d2630ee1956cc46b8c354a0d63396ae2"
+  },
+  {
+    "teamId": "1898200000207",
+    "club": "DJK Ammerthal",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/d8/DJK_Ammerthal_logo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_type": "commons_german_football_category",
+    "commons_file": "File:DJK Ammerthal logo.png",
+    "source_page": "https://commons.wikimedia.org/wiki/File:DJK_Ammerthal_logo.png",
+    "license": "CC BY-SA 3.0 de",
+    "png_path": "docs/german-clubs-2026-27/commons-category-20261024/1898200000207.png",
+    "background_rgb": [
+      78,
+      196,
+      101
+    ],
+    "sha256": "926ec34c8f5525428bacf707032252d719fc13aeeaf1a4b9743b3775464c301c"
+  },
+  {
+    "teamId": "1898200000131",
+    "club": "TuS Chlodwig Zülpich",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/79/TuS_Chlodwig_Z%C3%BClpich_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_type": "commons_german_football_category",
+    "commons_file": "File:TuS Chlodwig Zülpich logo.svg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:TuS_Chlodwig_Zülpich_logo.svg",
+    "license": "Public domain",
+    "png_path": "docs/german-clubs-2026-27/commons-category-20261024/1898200000131.png",
+    "background_rgb": [
+      243,
+      78,
+      78
+    ],
+    "sha256": "0923e298b31089611126133447698b6c0087101705ff48dac3dd1be63634b4fe"
+  },
+  {
+    "teamId": "1898200000112",
+    "club": "SV Sonsbeck",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/e9/SV_Sonsbeck_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_type": "commons_german_football_category",
+    "commons_file": "File:SV Sonsbeck logo.svg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:SV_Sonsbeck_logo.svg",
+    "license": "Public domain",
+    "png_path": "docs/german-clubs-2026-27/commons-category-20261024/1898200000112.png",
+    "background_rgb": [
+      220,
+      78,
+      101
+    ],
+    "sha256": "be86aad1ae3f187e4ac31a368f0cb3eaf1923b3d6ceb7bfcae02191cbed0e43a"
+  },
+  {
+    "teamId": "1898200000053",
+    "club": "FC Verden 04",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/32/FC_Verden_04_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_type": "commons_german_football_category",
+    "commons_file": "File:FC Verden 04 logo.svg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:FC_Verden_04_logo.svg",
+    "license": "Public domain",
+    "png_path": "docs/german-clubs-2026-27/commons-category-20261024/1898200000053.png",
+    "background_rgb": [
+      78,
+      149,
+      196
+    ],
+    "sha256": "0f539b4b272316b3486bd3be481217b71330f4f13814a2cc37a5d59b171cf8a7"
+  },
+  {
+    "teamId": "1898200000058",
+    "club": "SC Spelle-Venhaus",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/a8/SC_Spelle-Venhaus.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_type": "commons_german_football_category",
+    "commons_file": "File:SC Spelle-Venhaus.gif",
+    "source_page": "https://commons.wikimedia.org/wiki/File:SC_Spelle-Venhaus.gif",
+    "license": "Public domain",
+    "png_path": "docs/german-clubs-2026-27/commons-category-20261024/1898200000058.png",
+    "background_rgb": [
+      102,
+      119,
+      148
+    ],
+    "sha256": "e7688ef823877841f4a62721145e395f80a7530a156170ac957d87e81fc59350"
+  },
+  {
+    "teamId": "1898200000060",
+    "club": "SSV Vorsfelde",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/0c/SSV_Vorsfelde.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_type": "commons_german_football_category",
+    "commons_file": "File:SSV Vorsfelde.gif",
+    "source_page": "https://commons.wikimedia.org/wiki/File:SSV_Vorsfelde.gif",
+    "license": "Public domain",
+    "png_path": "docs/german-clubs-2026-27/commons-category-20261024/1898200000060.png",
+    "background_rgb": [
+      101,
+      149,
+      149
+    ],
+    "sha256": "a0e3d18208c4ff8a3edf94bc5833da1f3790b1e3c91e50749c86e9ad93401887"
+  },
+  {
+    "teamId": "1898200000166",
+    "club": "TuS Mechtersheim",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/93/TuS_Mechtersheim.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_type": "commons_german_football_category",
+    "commons_file": "File:TuS Mechtersheim.gif",
+    "source_page": "https://commons.wikimedia.org/wiki/File:TuS_Mechtersheim.gif",
+    "license": "Public domain",
+    "png_path": "docs/german-clubs-2026-27/commons-category-20261024/1898200000166.png",
+    "background_rgb": [
+      125,
+      101,
+      149
+    ],
+    "sha256": "77e0221180c97ad2da5fe4c326a34a671b854f026a6ee69c4afafd7b612a11e8"
+  },
+  {
+    "teamId": "1898200000010",
+    "club": "TuS Rotenhof",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/7e/TuS_Rotenhof_logo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_type": "commons_german_football_category",
+    "commons_file": "File:TuS Rotenhof logo.png",
+    "source_page": "https://commons.wikimedia.org/wiki/File:TuS_Rotenhof_logo.png",
+    "license": "Public domain",
+    "png_path": "docs/german-clubs-2026-27/commons-category-20261024/1898200000010.png",
+    "background_rgb": [
+      78,
+      78,
+      243
+    ],
+    "sha256": "1bef080e59e60f3fb376cc1de11ec990f2ff0a8a5f896739321c1948002465e0"
+  },
+  {
+    "teamId": "1898200000133",
+    "club": "1. FC Gievenbeck",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/c8/1._FC_Gievenbeck.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_type": "commons_german_football_category",
+    "commons_file": "File:1. FC Gievenbeck.gif",
+    "source_page": "https://commons.wikimedia.org/wiki/File:1._FC_Gievenbeck.gif",
+    "license": "Public domain",
+    "png_path": "docs/german-clubs-2026-27/commons-category-20261024/1898200000133.png",
+    "background_rgb": [
+      78,
+      78,
+      149
+    ],
+    "sha256": "ceb302a48e5cba3610d705a8b1e412204c437bb256fcba76328adf6360222af0"
+  },
+  {
+    "teamId": "1898200000477",
+    "club": "FSV Spandauer Kickers",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/eb/FSV_Spandauer_Kickers_Logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_type": "commons_german_football_category",
+    "commons_file": "File:FSV Spandauer Kickers Logo.svg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:FSV_Spandauer_Kickers_Logo.svg",
+    "license": "Public domain",
+    "png_path": "docs/german-clubs-2026-27/commons-category-20261024/1898200000477.png",
+    "background_rgb": [
+      78,
+      125,
+      172
+    ],
+    "sha256": "29bf8e81ca7d8f9f19aac45ebea23dc4412f19934841e5f7bee70ae4c8cfa654"
+  },
+  {
+    "teamId": "1898200000741",
+    "club": "SSV Vorsfelde II",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/0c/SSV_Vorsfelde.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_type": "commons_german_football_category",
+    "commons_file": "File:SSV Vorsfelde.gif",
+    "source_page": "https://commons.wikimedia.org/wiki/File:SSV_Vorsfelde.gif",
+    "license": "Public domain",
+    "png_path": "docs/german-clubs-2026-27/commons-category-20261024/1898200000741.png",
+    "background_rgb": [
+      101,
+      149,
+      149
+    ],
+    "sha256": "a0e3d18208c4ff8a3edf94bc5833da1f3790b1e3c91e50749c86e9ad93401887"
   }
 ]
