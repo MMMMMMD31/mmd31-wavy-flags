@@ -1,24 +1,259 @@
 {
-  "offset": 0,
-  "limit": 8,
-  "profiles_checked": 8,
-  "added": 5,
-  "total": 5,
+  "offset": 300,
+  "limit": 231,
+  "profiles_checked": 199,
+  "added": 149,
+  "total": 154,
   "failed": [
     {
-      "teamId": "1898200000007",
-      "club": "PSV Union Neumünster",
+      "teamId": "1898200000526",
+      "club": "FC RW Kirchlengern",
       "reason": "club profile HTTP 404"
     },
     {
-      "teamId": "1898200000009",
-      "club": "Kaltenkirchener TS",
+      "teamId": "1898200000532",
+      "club": "RW Ahlen",
       "reason": "club profile HTTP 404"
     },
     {
-      "teamId": "1898200000012",
-      "club": "Oldenburger SV",
+      "teamId": "1898200000534",
+      "club": "FC Iserlohn 46/49",
       "reason": "club profile HTTP 404"
+    },
+    {
+      "teamId": "1898200000536",
+      "club": "SV Concordia Wiemelhausen",
+      "reason": "club profile HTTP 404"
+    },
+    {
+      "teamId": "1898200000541",
+      "club": "SpVg Hagen 11",
+      "reason": "no precise club-name crest on page"
+    },
+    {
+      "teamId": "1898200000546",
+      "club": "SG Finnentrop-Bamenohl",
+      "reason": "club profile HTTP 404"
+    },
+    {
+      "teamId": "1898200000566",
+      "club": "1. FC Bruchsal",
+      "reason": "no precise club-name crest on page"
+    },
+    {
+      "teamId": "1898200000567",
+      "club": "Fortuna Heddesheim",
+      "reason": "club profile HTTP 404"
+    },
+    {
+      "teamId": "1898200000570",
+      "club": "DJK/FC Ziegelhausen-Peterstal",
+      "reason": "club profile HTTP 404"
+    },
+    {
+      "teamId": "1898200000577",
+      "club": "Türkspor Mosbach",
+      "reason": "no precise club-name crest on page"
+    },
+    {
+      "teamId": "1898200000580",
+      "club": "FC Denzlingen",
+      "reason": "crest image unavailable or invalid"
+    },
+    {
+      "teamId": "1898200000583",
+      "club": "FC Auggen",
+      "reason": "crest image unavailable or invalid"
+    },
+    {
+      "teamId": "1898200000595",
+      "club": "SpVgg Gundelfingen/Wildtal",
+      "reason": "club profile HTTP 404"
+    },
+    {
+      "teamId": "1898200000598",
+      "club": "Malchower SV",
+      "reason": "club profile HTTP 404"
+    },
+    {
+      "teamId": "1898200000603",
+      "club": "FC Förderkader René Schneider Rostock",
+      "reason": "club profile HTTP 404"
+    },
+    {
+      "teamId": "1898200000609",
+      "club": "SV Hafen Rostock",
+      "reason": "club profile HTTP 404"
+    },
+    {
+      "teamId": "1898200000612",
+      "club": "SV Adler Weidenhausen",
+      "reason": "club profile HTTP 404"
+    },
+    {
+      "teamId": "1898200000616",
+      "club": "FSV Rot-Weiß Wolfhagen",
+      "reason": "club profile HTTP 404"
+    },
+    {
+      "teamId": "1898200000621",
+      "club": "SG Kleinalmerode/Hundelshausen/Dohrenbach",
+      "reason": "club profile HTTP 404"
+    },
+    {
+      "teamId": "1898200000623",
+      "club": "SG Calden/Meimbressen",
+      "reason": "club profile HTTP 404"
+    },
+    {
+      "teamId": "1898200000626",
+      "club": "TuSpo Rengershausen",
+      "reason": "club profile HTTP 404"
+    },
+    {
+      "teamId": "1898200000627",
+      "club": "SG Viktoria Bronnzell",
+      "reason": "club profile HTTP 404"
+    },
+    {
+      "teamId": "1898200000628",
+      "club": "TuSpo Grebenstein",
+      "reason": "club profile HTTP 404"
+    },
+    {
+      "teamId": "1898200000635",
+      "club": "SF/BG Marburg",
+      "reason": "club profile HTTP 404"
+    },
+    {
+      "teamId": "1898200000644",
+      "club": "SG Obbornhofen/Bellersheim",
+      "reason": "club profile HTTP 404"
+    },
+    {
+      "teamId": "1898200000646",
+      "club": "1. Hanauer FC 93",
+      "reason": "club profile HTTP 404"
+    },
+    {
+      "teamId": "1898200000647",
+      "club": "SG Bornheim/GW",
+      "reason": "club profile HTTP 404"
+    },
+    {
+      "teamId": "1898200000650",
+      "club": "SG Rot-Weiss Frankfurt",
+      "reason": "club profile HTTP 404"
+    },
+    {
+      "teamId": "1898200000659",
+      "club": "SV Bosnien und Herzegowina Frankfurt",
+      "reason": "club profile HTTP 404"
+    },
+    {
+      "teamId": "1898200000670",
+      "club": "USC Paloma Hamburg II",
+      "reason": "club profile HTTP 404"
+    },
+    {
+      "teamId": "1898200000674",
+      "club": "SSV Rantzau",
+      "reason": "club profile HTTP 404"
+    },
+    {
+      "teamId": "1898200000714",
+      "club": "TSV 1982 Lübeck",
+      "reason": "club profile HTTP 404"
+    },
+    {
+      "teamId": "1898200000716",
+      "club": "SV Preußen 09 Reinfeld",
+      "reason": "club profile HTTP 404"
+    },
+    {
+      "teamId": "1898200000717",
+      "club": "SVT Bad Oldesloe",
+      "reason": "club profile HTTP 404"
+    },
+    {
+      "teamId": "1898200000719",
+      "club": "Eutiner SV 08",
+      "reason": "club profile HTTP 404"
+    },
+    {
+      "teamId": "1898200000722",
+      "club": "SC Rönnau 74",
+      "reason": "club profile HTTP 404"
+    },
+    {
+      "teamId": "1898200000730",
+      "club": "U.S.I. Lupo Martini Wolfsburg",
+      "reason": "club profile HTTP 404"
+    },
+    {
+      "teamId": "1898200000733",
+      "club": "FT Braunschweig",
+      "reason": "crest image unavailable or invalid"
+    },
+    {
+      "teamId": "1898200000734",
+      "club": "Eintracht Northeim",
+      "reason": "club profile HTTP 404"
+    },
+    {
+      "teamId": "1898200000738",
+      "club": "SG Landolfshausen/Seulingen",
+      "reason": "club profile HTTP 404"
+    },
+    {
+      "teamId": "1898200000744",
+      "club": "SV Ramlingen-Ehlershausen",
+      "reason": "club profile HTTP 404"
+    },
+    {
+      "teamId": "1898200000745",
+      "club": "TSV Krähenwinkel-Kaltenweide",
+      "reason": "club profile HTTP 404"
+    },
+    {
+      "teamId": "1898200000749",
+      "club": "SV Iraklis Hellas",
+      "reason": "club profile HTTP 404"
+    },
+    {
+      "teamId": "1898200000750",
+      "club": "TSV Pattensen",
+      "reason": "crest image unavailable or invalid"
+    },
+    {
+      "teamId": "1898200000752",
+      "club": "TSV Mühlenfeld",
+      "reason": "crest image unavailable or invalid"
+    },
+    {
+      "teamId": "1898200000755",
+      "club": "SV Blau-Weiß Neuhof",
+      "reason": "club profile HTTP 404"
+    },
+    {
+      "teamId": "1898200000759",
+      "club": "SV Blau-Weiß Bornreihe",
+      "reason": "club profile HTTP 404"
+    },
+    {
+      "teamId": "1898200000762",
+      "club": "FC Hagen/Uthlede",
+      "reason": "club profile HTTP 404"
+    },
+    {
+      "teamId": "1898200000764",
+      "club": "SV Scharmbeck-Pattensen-Axstedt",
+      "reason": "club profile HTTP 404"
+    },
+    {
+      "teamId": "1898200000780",
+      "club": "TV Dinklage",
+      "reason": "crest image unavailable or invalid"
     }
   ]
 }
