@@ -1,0 +1,1250 @@
+{
+  "clubs": [
+    {
+      "id": 1906100000001,
+      "name": "Noah",
+      "country": "armenia",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/armenia/Noah.svg",
+      "source_sha256": "e2d03774594b671e1d7dfedb86353657d2172f1d6b2d97768714c3fbe87a53dc",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v15-four-d1-20261024-test/docs/cge-v15-four-d1-20261024/1906100000001.png",
+      "file": "docs/cge-v15-four-d1-20261024/1906100000001.png",
+      "sha256": "d622eeef8505f1f5a71b3326b75fe0b945c7a096a42b7dd4bbc5decfe041b144",
+      "dimensions": [
+        120,
+        96
+      ],
+      "status": "PUBLISHED; CLUB EMBLEM SOURCE MATCHED; visual review required",
+      "background": [
+        216,
+        220,
+        224
+      ]
+    },
+    {
+      "id": 1906100000002,
+      "name": "Pyunik",
+      "country": "armenia",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/armenia/Pyunik.svg",
+      "source_sha256": "28c26596df595aac2e13fc8d69d6ab025d60f1b6d6fb265c0879eea178245f1a",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v15-four-d1-20261024-test/docs/cge-v15-four-d1-20261024/1906100000002.png",
+      "file": "docs/cge-v15-four-d1-20261024/1906100000002.png",
+      "sha256": "5096741ed3047a2722e456f6f00b473be8b73f75c2d7caaf080e952005dcca12",
+      "dimensions": [
+        120,
+        96
+      ],
+      "status": "PUBLISHED; CLUB EMBLEM SOURCE MATCHED; visual review required",
+      "background": [
+        110,
+        124,
+        179
+      ]
+    },
+    {
+      "id": 1906100000003,
+      "name": "Ararat-Armenia",
+      "country": "armenia",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/armenia/Ararat-Armenia.svg",
+      "source_sha256": "f2f46431ee4b77d4585568aa278d82c6590f82688c217a81c88ccc60e7237fce",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v15-four-d1-20261024-test/docs/cge-v15-four-d1-20261024/1906100000003.png",
+      "file": "docs/cge-v15-four-d1-20261024/1906100000003.png",
+      "sha256": "828fb288296ed23d7788c207699306ee08948fe607b1173ab92778c262727015",
+      "dimensions": [
+        120,
+        96
+      ],
+      "status": "PUBLISHED; CLUB EMBLEM SOURCE MATCHED; visual review required",
+      "background": [
+        216,
+        220,
+        224
+      ]
+    },
+    {
+      "id": 1906100000004,
+      "name": "Alashkert",
+      "country": "armenia",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/armenia/Alashkert.svg",
+      "source_sha256": "a9ec88a2cb3410f4b56971b3110e61e65240d1533feb7d78d4d0c9ce40593ef6",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v15-four-d1-20261024-test/docs/cge-v15-four-d1-20261024/1906100000004.png",
+      "file": "docs/cge-v15-four-d1-20261024/1906100000004.png",
+      "sha256": "15a942b34e18507f176db4ed60976504691fad4acfc400cbc71febeb2e987070",
+      "dimensions": [
+        120,
+        96
+      ],
+      "status": "PUBLISHED; CLUB EMBLEM SOURCE MATCHED; visual review required",
+      "background": [
+        231,
+        231,
+        119
+      ]
+    },
+    {
+      "id": 1906100000005,
+      "name": "Urartu",
+      "country": "armenia",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/armenia/Urartu.svg",
+      "source_sha256": "1ba841e2c9c4f96446ba6ec892eb7db083e3bad0d7dbb7b31f0c9104ef29452b",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v15-four-d1-20261024-test/docs/cge-v15-four-d1-20261024/1906100000005.png",
+      "file": "docs/cge-v15-four-d1-20261024/1906100000005.png",
+      "sha256": "491b702f823ed78ab3a669f2e8db5c61f24274bb19befd805b344de7b0f9a118",
+      "dimensions": [
+        120,
+        96
+      ],
+      "status": "PUBLISHED; CLUB EMBLEM SOURCE MATCHED; visual review required",
+      "background": [
+        152,
+        124,
+        193
+      ]
+    },
+    {
+      "id": 1906100000006,
+      "name": "Sardarapat",
+      "country": "armenia",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/armenia/Sardarapat_FC.svg",
+      "source_sha256": "c69d5e0cd4b2291f08287c36d7906bde7af2363eb1e7ddb15f1cd2e67d3dc3ba",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v15-four-d1-20261024-test/docs/cge-v15-four-d1-20261024/1906100000006.png",
+      "file": "docs/cge-v15-four-d1-20261024/1906100000006.png",
+      "sha256": "d0ad3b8d713b734363e4c88a8c404e85f012eb9a0b4963cf923141a202577302",
+      "dimensions": [
+        120,
+        96
+      ],
+      "status": "PUBLISHED; CLUB EMBLEM SOURCE MATCHED; visual review required",
+      "background": [
+        193,
+        124,
+        110
+      ]
+    },
+    {
+      "id": 1906100000007,
+      "name": "Shirak",
+      "country": "armenia",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/armenia/Shirak.svg",
+      "source_sha256": "c8da2be97ea33ae54a9d148040d43a177b857f2ce6b73b9f95086ad9aeccdbe3",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v15-four-d1-20261024-test/docs/cge-v15-four-d1-20261024/1906100000007.png",
+      "file": "docs/cge-v15-four-d1-20261024/1906100000007.png",
+      "sha256": "6ae2e3cffdb018f235e7c9c6f770280e8acbc4468f21d5fa5cbc0cb51e3f17d0",
+      "dimensions": [
+        120,
+        96
+      ],
+      "status": "PUBLISHED; CLUB EMBLEM SOURCE MATCHED; visual review required",
+      "background": [
+        231,
+        157,
+        82
+      ]
+    },
+    {
+      "id": 1906100000008,
+      "name": "Ararat",
+      "country": "armenia",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/armenia/Ararat.svg",
+      "source_sha256": "d0186811b10d9f2872ac0a814e7e29f80b204a17003980cfb77e125c0c9245d8",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v15-four-d1-20261024-test/docs/cge-v15-four-d1-20261024/1906100000008.png",
+      "file": "docs/cge-v15-four-d1-20261024/1906100000008.png",
+      "sha256": "eac3a429acb1de57884d62ee977865dee4b089dce48e15ccef1e34fc69dfbf8e",
+      "dimensions": [
+        120,
+        96
+      ],
+      "status": "PUBLISHED; CLUB EMBLEM SOURCE MATCHED; visual review required",
+      "background": [
+        249,
+        110,
+        110
+      ]
+    },
+    {
+      "id": 1906100000009,
+      "name": "BKMA Yerevan",
+      "country": "armenia",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/armenia/BKMA_Yerevan.svg",
+      "source_sha256": "90fc2f14fddd8da12801b12ba391772d2acdcfcdbc6b6044977982fd9ec30e72",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v15-four-d1-20261024-test/docs/cge-v15-four-d1-20261024/1906100000009.png",
+      "file": "docs/cge-v15-four-d1-20261024/1906100000009.png",
+      "sha256": "f2944f93c8f380efae6ec66a316281d5032818d9f04ab2e44e4e43c10dba4563",
+      "dimensions": [
+        120,
+        96
+      ],
+      "status": "PUBLISHED; CLUB EMBLEM SOURCE MATCHED; visual review required",
+      "background": [
+        100,
+        157,
+        194
+      ]
+    },
+    {
+      "id": 1906100000010,
+      "name": "Van",
+      "country": "armenia",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/armenia/Van.svg",
+      "source_sha256": "adca9ffb7fb1ea4507f34ee7ee5504cc4a727fb086eb24b96a6d38e12a961b09",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v15-four-d1-20261024-test/docs/cge-v15-four-d1-20261024/1906100000010.png",
+      "file": "docs/cge-v15-four-d1-20261024/1906100000010.png",
+      "sha256": "9f3722e39aea22555af443f52c9a5a6625522e1d749d0be65a4124d5426974df",
+      "dimensions": [
+        120,
+        96
+      ],
+      "status": "PUBLISHED; CLUB EMBLEM SOURCE MATCHED; visual review required",
+      "background": [
+        193,
+        110,
+        124
+      ]
+    },
+    {
+      "id": 1906100000011,
+      "name": "Syunik",
+      "country": "armenia",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/armenia/FC_Syunik.svg",
+      "source_sha256": "e674c6191a1c80eebc651e63c1dbb9f9527ab71b2533f717426db2dafc7cb4b2",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v15-four-d1-20261024-test/docs/cge-v15-four-d1-20261024/1906100000011.png",
+      "file": "docs/cge-v15-four-d1-20261024/1906100000011.png",
+      "sha256": "5ceec304de0d6a599bb563b2bc687c37e2524d6193d31b7662775e1f9c08cd2c",
+      "dimensions": [
+        120,
+        96
+      ],
+      "status": "PUBLISHED; CLUB EMBLEM SOURCE MATCHED; visual review required",
+      "background": [
+        110,
+        124,
+        152
+      ]
+    },
+    {
+      "id": 1906100000012,
+      "name": "Gandzasar",
+      "country": "armenia",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/armenia/Gandzasar.svg",
+      "source_sha256": "7d7e3fe9e3267421ecfb5a38d2c5a00e3f0a0e2ec0eef018b4f00e60965836c2",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v15-four-d1-20261024-test/docs/cge-v15-four-d1-20261024/1906100000012.png",
+      "file": "docs/cge-v15-four-d1-20261024/1906100000012.png",
+      "sha256": "f53963c1ed936c5937fe93cb3500e1907c31b8a498a55a26aad249c54993d553",
+      "dimensions": [
+        120,
+        96
+      ],
+      "status": "PUBLISHED; CLUB EMBLEM SOURCE MATCHED; visual review required",
+      "background": [
+        110,
+        138,
+        179
+      ]
+    },
+    {
+      "id": 1906200000001,
+      "name": "Neftçi",
+      "country": "azerbaijan",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/azerbaijan/Neft%C3%A7i.svg",
+      "source_sha256": "c792de928860319e81dbfd50e6f0d288b4533f5fcc240863973d15b6e5ae5686",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v15-four-d1-20261024-test/docs/cge-v15-four-d1-20261024/1906200000001.png",
+      "file": "docs/cge-v15-four-d1-20261024/1906200000001.png",
+      "sha256": "8751d90d7c151f09c7aa0f5326ecad911b616c16c56710392f1297fe85a22f02",
+      "dimensions": [
+        120,
+        96
+      ],
+      "status": "PUBLISHED; CLUB EMBLEM SOURCE MATCHED; visual review required",
+      "background": [
+        250,
+        194,
+        63
+      ]
+    },
+    {
+      "id": 1906200000002,
+      "name": "Sabah",
+      "country": "azerbaijan",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/azerbaijan/Sabah.svg",
+      "source_sha256": "1e6f71585792504b3c8003f193e317f11f6e1bca18b9597efd1d8e8ae80f5cea",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v15-four-d1-20261024-test/docs/cge-v15-four-d1-20261024/1906200000002.png",
+      "file": "docs/cge-v15-four-d1-20261024/1906200000002.png",
+      "sha256": "81b2c911ad7686bc1423fbda7d095e474384afffa88e80453c06ee167442416c",
+      "dimensions": [
+        120,
+        96
+      ],
+      "status": "PUBLISHED; CLUB EMBLEM SOURCE MATCHED; visual review required",
+      "background": [
+        231,
+        119,
+        175
+      ]
+    },
+    {
+      "id": 1906200000003,
+      "name": "Qarabağ",
+      "country": "azerbaijan",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/azerbaijan/Qaraba%C4%9F.svg",
+      "source_sha256": "73145bdaea7f1dfd62c275b216deaef31a3af21f1f8b7de938d9f34a18d915b7",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v15-four-d1-20261024-test/docs/cge-v15-four-d1-20261024/1906200000003.png",
+      "file": "docs/cge-v15-four-d1-20261024/1906200000003.png",
+      "sha256": "841922de161a597f298ef7e30867708a61ddd6db2f81abb371a0a933ac1e3e55",
+      "dimensions": [
+        120,
+        96
+      ],
+      "status": "PUBLISHED; CLUB EMBLEM SOURCE MATCHED; visual review required",
+      "background": [
+        124,
+        124,
+        165
+      ]
+    },
+    {
+      "id": 1906200000004,
+      "name": "Turan Tovuz",
+      "country": "azerbaijan",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/azerbaijan/Turan_Tovuz.svg",
+      "source_sha256": "fbd6a9560d9fd8a1f2c3e9ac4bc12c4239aee9015ee6d172644a362e84820cbe",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v15-four-d1-20261024-test/docs/cge-v15-four-d1-20261024/1906200000004.png",
+      "file": "docs/cge-v15-four-d1-20261024/1906200000004.png",
+      "sha256": "043fca47172e788706f396ef88134f7183fe57ae5881ff0fad5eeb9b3e27e188",
+      "dimensions": [
+        120,
+        96
+      ],
+      "status": "PUBLISHED; CLUB EMBLEM SOURCE MATCHED; visual review required",
+      "background": [
+        82,
+        157,
+        213
+      ]
+    },
+    {
+      "id": 1906200000005,
+      "name": "Zirə",
+      "country": "azerbaijan",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/azerbaijan/Zire.svg",
+      "source_sha256": "66246956d64a1a26d3ffeb5f2da7a8e8510113ed936508bb024aa464f0e6466c",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v15-four-d1-20261024-test/docs/cge-v15-four-d1-20261024/1906200000005.png",
+      "file": "docs/cge-v15-four-d1-20261024/1906200000005.png",
+      "sha256": "4bef92aa15f62756e472b8970c115e24f55116b47ef68e9dde92432d7e8e3bdb",
+      "dimensions": [
+        120,
+        96
+      ],
+      "status": "PUBLISHED; CLUB EMBLEM SOURCE MATCHED; visual review required",
+      "background": [
+        110,
+        124,
+        152
+      ]
+    },
+    {
+      "id": 1906200000006,
+      "name": "Kəpəz",
+      "country": "azerbaijan",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/azerbaijan/K%C3%A4p%C3%A4z.svg",
+      "source_sha256": "5a5c54e40b18be85c2e9abd3a727106daa26605306a9d35766543cf50b483792",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v15-four-d1-20261024-test/docs/cge-v15-four-d1-20261024/1906200000006.png",
+      "file": "docs/cge-v15-four-d1-20261024/1906200000006.png",
+      "sha256": "72e6cec09217328694258064ab409ac8792236f98e8e860e2e48195a6786b55b",
+      "dimensions": [
+        120,
+        96
+      ],
+      "status": "PUBLISHED; CLUB EMBLEM SOURCE MATCHED; visual review required",
+      "background": [
+        138,
+        152,
+        193
+      ]
+    },
+    {
+      "id": 1906200000007,
+      "name": "Şamaxı",
+      "country": "azerbaijan",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/azerbaijan/%C5%9Eamax%C4%B1.svg",
+      "source_sha256": "6114dc0d7fd0bcff2cf0833b14bcfa35d958a339b4c33608c5e98f84d8e09f1c",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v15-four-d1-20261024-test/docs/cge-v15-four-d1-20261024/1906200000007.png",
+      "file": "docs/cge-v15-four-d1-20261024/1906200000007.png",
+      "sha256": "be044dbe66540ac63f5b6cd438ed8ae7e7a633b8943618242b7802efca138a84",
+      "dimensions": [
+        120,
+        96
+      ],
+      "status": "PUBLISHED; CLUB EMBLEM SOURCE MATCHED; visual review required",
+      "background": [
+        152,
+        124,
+        193
+      ]
+    },
+    {
+      "id": 1906200000008,
+      "name": "Sumqayıt",
+      "country": "azerbaijan",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/azerbaijan/Sumqay%C4%B1t.svg",
+      "source_sha256": "91f68aa36ca728e12cb565e63893486abe7e5e0b7b1fe9e9ff602f1cb86187b8",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v15-four-d1-20261024-test/docs/cge-v15-four-d1-20261024/1906200000008.png",
+      "file": "docs/cge-v15-four-d1-20261024/1906200000008.png",
+      "sha256": "433e03ab4a5a06dd5224ac43149e2c6a12b47b6b3a1f9ca17253fef48ce1a433",
+      "dimensions": [
+        120,
+        96
+      ],
+      "status": "PUBLISHED; CLUB EMBLEM SOURCE MATCHED; visual review required",
+      "background": [
+        157,
+        119,
+        175
+      ]
+    },
+    {
+      "id": 1906200000009,
+      "name": "İmişli",
+      "country": "azerbaijan",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/azerbaijan/%C4%B0mi%C5%9Fli.svg",
+      "source_sha256": "3fdbc104af25c7ea8f0d0bc8fb7cb228b336b5102652943f747408a086883593",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v15-four-d1-20261024-test/docs/cge-v15-four-d1-20261024/1906200000009.png",
+      "file": "docs/cge-v15-four-d1-20261024/1906200000009.png",
+      "sha256": "e15a784eb6518fe1196d46d080b558d3bfdb9d8f320241ef7c1444680015b3b2",
+      "dimensions": [
+        120,
+        96
+      ],
+      "status": "PUBLISHED; CLUB EMBLEM SOURCE MATCHED; visual review required",
+      "background": [
+        193,
+        110,
+        152
+      ]
+    },
+    {
+      "id": 1906200000010,
+      "name": "Qəbələ",
+      "country": "azerbaijan",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/azerbaijan/Gabala.svg",
+      "source_sha256": "6af235498d91fa169c68a00905ba788a9b15c64c577d102c811c60198853a656",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v15-four-d1-20261024-test/docs/cge-v15-four-d1-20261024/1906200000010.png",
+      "file": "docs/cge-v15-four-d1-20261024/1906200000010.png",
+      "sha256": "4bbb7e53b9ca344089795078ccc83c9608fed46ead7b3eb53663e4270c1e631e",
+      "dimensions": [
+        120,
+        96
+      ],
+      "status": "PUBLISHED; CLUB EMBLEM SOURCE MATCHED; visual review required",
+      "background": [
+        207,
+        124,
+        124
+      ]
+    },
+    {
+      "id": 1906200000011,
+      "name": "Şəfa Bakı",
+      "country": "azerbaijan",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/azerbaijan/Shafa_Baku.svg",
+      "source_sha256": "faf68f0ea200aa5936020a1c6b6fd336fd2cf8910398379c051336b4ee5ad806",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v15-four-d1-20261024-test/docs/cge-v15-four-d1-20261024/1906200000011.png",
+      "file": "docs/cge-v15-four-d1-20261024/1906200000011.png",
+      "sha256": "93d1cde2121147cbbca297707a8f5bd7e3fa95a369a28b31a8ef6bb2ae020874",
+      "dimensions": [
+        120,
+        96
+      ],
+      "status": "PUBLISHED; CLUB EMBLEM SOURCE MATCHED; visual review required",
+      "background": [
+        110,
+        124,
+        179
+      ]
+    },
+    {
+      "id": 1906200000012,
+      "name": "Araz-Naxçıvan",
+      "country": "azerbaijan",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/azerbaijan/Araz-Nax%C3%A7%C4%B1van_PFK.svg",
+      "source_sha256": "9f8e0d55540332d0112f3aba2582ecb39db755a6b58347e4778243358ca12275",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v15-four-d1-20261024-test/docs/cge-v15-four-d1-20261024/1906200000012.png",
+      "file": "docs/cge-v15-four-d1-20261024/1906200000012.png",
+      "sha256": "224f1dadb10a7f45de05b164cd6609433a127963b652ad5f95d7bcd48c3e213f",
+      "dimensions": [
+        120,
+        96
+      ],
+      "status": "PUBLISHED; CLUB EMBLEM SOURCE MATCHED; visual review required",
+      "background": [
+        221,
+        124,
+        124
+      ]
+    },
+    {
+      "id": 1906300000001,
+      "name": "Ordabasy",
+      "country": "kazakhstan",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/kazakhstan/Ordabasy.svg",
+      "source_sha256": "807bbece8ace3b2c700d626d745bd7c7dd8fed572a57b9237d9308c504e7c6be",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v15-four-d1-20261024-test/docs/cge-v15-four-d1-20261024/1906300000001.png",
+      "file": "docs/cge-v15-four-d1-20261024/1906300000001.png",
+      "sha256": "d355e71feebd4af236dc080aa4ad162d11a2522720d5e6d96b28bf8a7d1c156e",
+      "dimensions": [
+        120,
+        96
+      ],
+      "status": "PUBLISHED; CLUB EMBLEM SOURCE MATCHED; visual review required",
+      "background": [
+        124,
+        152,
+        207
+      ]
+    },
+    {
+      "id": 1906300000002,
+      "name": "Qairat",
+      "country": "kazakhstan",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/kazakhstan/Kairat.svg",
+      "source_sha256": "259914c7530bf775da4e36d8a0b904d4bb16d32977a2dfb521fcb8158e959533",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v15-four-d1-20261024-test/docs/cge-v15-four-d1-20261024/1906300000002.png",
+      "file": "docs/cge-v15-four-d1-20261024/1906300000002.png",
+      "sha256": "fd394deba7d551bfd8c9640ba3f460361fb7e90b7f9f2db0eb2e59e54051a29c",
+      "dimensions": [
+        120,
+        96
+      ],
+      "status": "PUBLISHED; CLUB EMBLEM SOURCE MATCHED; visual review required",
+      "background": [
+        250,
+        213,
+        82
+      ]
+    },
+    {
+      "id": 1906300000003,
+      "name": "Astana",
+      "country": "kazakhstan",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/kazakhstan/Astana.svg",
+      "source_sha256": "bd5625bd5986cf1c2feec9918c337e9f3ef035ce43cbd0accbfe3592c62f5685",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v15-four-d1-20261024-test/docs/cge-v15-four-d1-20261024/1906300000003.png",
+      "file": "docs/cge-v15-four-d1-20261024/1906300000003.png",
+      "sha256": "657954954330ac74f436797540f7a03a1ba7517ea09335cbb86e2a29f8e4cfbe",
+      "dimensions": [
+        120,
+        96
+      ],
+      "status": "PUBLISHED; CLUB EMBLEM SOURCE MATCHED; visual review required",
+      "background": [
+        110,
+        193,
+        193
+      ]
+    },
+    {
+      "id": 1906300000004,
+      "name": "Aqtöbe",
+      "country": "kazakhstan",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/kazakhstan/Aktobe.svg",
+      "source_sha256": "cf66a46c413f912407d242eac1b508d13dc85d0b8435ca28c4c2fcdfa6ca5d2b",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v15-four-d1-20261024-test/docs/cge-v15-four-d1-20261024/1906300000004.png",
+      "file": "docs/cge-v15-four-d1-20261024/1906300000004.png",
+      "sha256": "b4b898f8d13fa13669838601de59dd93fb3bb9126a371f24b0739b897beb834e",
+      "dimensions": [
+        120,
+        96
+      ],
+      "status": "PUBLISHED; CLUB EMBLEM SOURCE MATCHED; visual review required",
+      "background": [
+        249,
+        124,
+        124
+      ]
+    },
+    {
+      "id": 1906300000005,
+      "name": "Oqjetpes",
+      "country": "kazakhstan",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/kazakhstan/Okzhetpes.svg",
+      "source_sha256": "c4267b6e87a5514f1ffe24bbdb9ba17ad1e1e392eacb36ed8f96763636e2df4e",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v15-four-d1-20261024-test/docs/cge-v15-four-d1-20261024/1906300000005.png",
+      "file": "docs/cge-v15-four-d1-20261024/1906300000005.png",
+      "sha256": "2a9425b8e20fbe1d0061777944a8e06d9a84b9f224a20e36e18102c2471fdcd4",
+      "dimensions": [
+        120,
+        96
+      ],
+      "status": "PUBLISHED; CLUB EMBLEM SOURCE MATCHED; visual review required",
+      "background": [
+        138,
+        152,
+        193
+      ]
+    },
+    {
+      "id": 1906300000006,
+      "name": "Elımai",
+      "country": "kazakhstan",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/kazakhstan/Yelimay.svg",
+      "source_sha256": "05d7787215493cf8589b8691c2650cd4bbc903e1fbfe61b343096bd1dd2303f8",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v15-four-d1-20261024-test/docs/cge-v15-four-d1-20261024/1906300000006.png",
+      "file": "docs/cge-v15-four-d1-20261024/1906300000006.png",
+      "sha256": "0294fcf1f36e7f0a5f7ebd25d11804f7bc324d0931e8f74f9ef97f266cfdd1f4",
+      "dimensions": [
+        120,
+        96
+      ],
+      "status": "PUBLISHED; CLUB EMBLEM SOURCE MATCHED; visual review required",
+      "background": [
+        110,
+        165,
+        152
+      ]
+    },
+    {
+      "id": 1906300000007,
+      "name": "Tobyl",
+      "country": "kazakhstan",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/kazakhstan/Tobol.svg",
+      "source_sha256": "75baf8a38a2e6806846610558934deed30cd99c1049ceada7362047655b18123",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v15-four-d1-20261024-test/docs/cge-v15-four-d1-20261024/1906300000007.png",
+      "file": "docs/cge-v15-four-d1-20261024/1906300000007.png",
+      "sha256": "41f299eda0902e743cfef63130fddf5a2a2992563206c9f32361ed00965162c8",
+      "dimensions": [
+        120,
+        96
+      ],
+      "status": "PUBLISHED; CLUB EMBLEM SOURCE MATCHED; visual review required",
+      "background": [
+        250,
+        231,
+        63
+      ]
+    },
+    {
+      "id": 1906300000008,
+      "name": "Ulytaw",
+      "country": "kazakhstan",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/kazakhstan/Ulytau.svg",
+      "source_sha256": "928cc2b853ead3d19c9b0a37ecc1a3f67194aa66adae5dc7e855a40055359271",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v15-four-d1-20261024-test/docs/cge-v15-four-d1-20261024/1906300000008.png",
+      "file": "docs/cge-v15-four-d1-20261024/1906300000008.png",
+      "sha256": "0a9fd28f137abccd563da829a6f03249e52baabd8821966abe5c32c6f7c3ba71",
+      "dimensions": [
+        120,
+        96
+      ],
+      "status": "PUBLISHED; CLUB EMBLEM SOURCE MATCHED; visual review required",
+      "background": [
+        110,
+        124,
+        152
+      ]
+    },
+    {
+      "id": 1906300000009,
+      "name": "Jeñıs",
+      "country": "kazakhstan",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/kazakhstan/Jenis.svg",
+      "source_sha256": "c59cd4fae59782a54e782d76164a5a48d4607d6d29f1018ce2b20bb8c30a0645",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v15-four-d1-20261024-test/docs/cge-v15-four-d1-20261024/1906300000009.png",
+      "file": "docs/cge-v15-four-d1-20261024/1906300000009.png",
+      "sha256": "ed3e7ac511e73555fe777268e5c2c350b8620647f7d27714a4b9e55cfceaae5b",
+      "dimensions": [
+        120,
+        96
+      ],
+      "status": "PUBLISHED; CLUB EMBLEM SOURCE MATCHED; visual review required",
+      "background": [
+        250,
+        231,
+        82
+      ]
+    },
+    {
+      "id": 1906300000010,
+      "name": "Kaspi",
+      "country": "kazakhstan",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/kazakhstan/Kaspiy.svg",
+      "source_sha256": "14762fa25937ec174b97357e07d6cf1ea7114488dc63128de65ba973b2e0af73",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v15-four-d1-20261024-test/docs/cge-v15-four-d1-20261024/1906300000010.png",
+      "file": "docs/cge-v15-four-d1-20261024/1906300000010.png",
+      "sha256": "85936f640e6c9432feb557f937272fd35cbd2936768694536afd7c0b415f50df",
+      "dimensions": [
+        120,
+        96
+      ],
+      "status": "PUBLISHED; CLUB EMBLEM SOURCE MATCHED; visual review required",
+      "background": [
+        100,
+        175,
+        231
+      ]
+    },
+    {
+      "id": 1906300000011,
+      "name": "Qyzyljar",
+      "country": "kazakhstan",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/kazakhstan/Kyzylzhar.svg",
+      "source_sha256": "5ba3f83521728c92f908db7288969977cb4f45e03f43c435b90fd3ae75a03fa5",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v15-four-d1-20261024-test/docs/cge-v15-four-d1-20261024/1906300000011.png",
+      "file": "docs/cge-v15-four-d1-20261024/1906300000011.png",
+      "sha256": "3a391cf4d212bc46dcf59b0f4761ffbadab12be61f0864a141b0bde94a3ae913",
+      "dimensions": [
+        120,
+        96
+      ],
+      "status": "PUBLISHED; CLUB EMBLEM SOURCE MATCHED; visual review required",
+      "background": [
+        250,
+        231,
+        157
+      ]
+    },
+    {
+      "id": 1906300000012,
+      "name": "Atyraw",
+      "country": "kazakhstan",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/kazakhstan/Atyrau.svg",
+      "source_sha256": "d64cb3bdee752a178c9f2f21778a1c51a32c801072e2c6b293d9e1ea69c3b6b3",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v15-four-d1-20261024-test/docs/cge-v15-four-d1-20261024/1906300000012.png",
+      "file": "docs/cge-v15-four-d1-20261024/1906300000012.png",
+      "sha256": "e10c72801b89d053c9c2ad55ecf3bf5d25044bde9f016f05a0b57517bb3a416e",
+      "dimensions": [
+        120,
+        96
+      ],
+      "status": "PUBLISHED; CLUB EMBLEM SOURCE MATCHED; visual review required",
+      "background": [
+        110,
+        179,
+        138
+      ]
+    },
+    {
+      "id": 1906300000013,
+      "name": "Ertıs",
+      "country": "kazakhstan",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/kazakhstan/Irtysh.svg",
+      "source_sha256": "8829d7854e7c5b1fd0fbf79b922c65c67dec6c33caa486d0b1a37682e050409d",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v15-four-d1-20261024-test/docs/cge-v15-four-d1-20261024/1906300000013.png",
+      "file": "docs/cge-v15-four-d1-20261024/1906300000013.png",
+      "sha256": "3a6a779e3c13716c29955770cb0cb643c1aae42aeb6b3974f098daa29f31fa1d",
+      "dimensions": [
+        120,
+        96
+      ],
+      "status": "PUBLISHED; CLUB EMBLEM SOURCE MATCHED; visual review required",
+      "background": [
+        124,
+        138,
+        193
+      ]
+    },
+    {
+      "id": 1906300000014,
+      "name": "Altai Öskemen",
+      "country": "kazakhstan",
+      "source": "https://kaz-football.kz/images/ust24.jpg",
+      "source_sha256": "9e6d353341b1be31e70e90649c729300555a2254c7078e09372726162472833c",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v15-four-d1-20261024-test/docs/cge-v15-four-d1-20261024/1906300000014.png",
+      "file": "docs/cge-v15-four-d1-20261024/1906300000014.png",
+      "sha256": "b9cadb0d245c1d47d13d58950c5b7ec1a01bd4fe3081bc12cd19580b20be020c",
+      "dimensions": [
+        120,
+        96
+      ],
+      "status": "PUBLISHED; CLUB EMBLEM SOURCE MATCHED; visual review required",
+      "background": [
+        110,
+        124,
+        152
+      ]
+    },
+    {
+      "id": 1906300000015,
+      "name": "Qaisar",
+      "country": "kazakhstan",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/kazakhstan/Kaysar.svg",
+      "source_sha256": "891438edcfb445bac4f866bf6f31816a1e6ca9d7bf2cb27cc84e23a3dc826968",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v15-four-d1-20261024-test/docs/cge-v15-four-d1-20261024/1906300000015.png",
+      "file": "docs/cge-v15-four-d1-20261024/1906300000015.png",
+      "sha256": "d9590302428032ffce90e46968b3179cde8e1ddd8a858dab35fb939097de6110",
+      "dimensions": [
+        120,
+        96
+      ],
+      "status": "PUBLISHED; CLUB EMBLEM SOURCE MATCHED; visual review required",
+      "background": [
+        235,
+        110,
+        110
+      ]
+    },
+    {
+      "id": 1906300000016,
+      "name": "Jetısū",
+      "country": "kazakhstan",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/kazakhstan/Jetisu.svg",
+      "source_sha256": "dcc83ef54f7c3ac38cbacab9efaa0b3c24626d1881f6f7abded9ce86fe7c5e4e",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v15-four-d1-20261024-test/docs/cge-v15-four-d1-20261024/1906300000016.png",
+      "file": "docs/cge-v15-four-d1-20261024/1906300000016.png",
+      "sha256": "a89236412e8c3638b4174b54af58c43222f8de274cb398a70e995c5a43f2d4a7",
+      "dimensions": [
+        120,
+        96
+      ],
+      "status": "PUBLISHED; CLUB EMBLEM SOURCE MATCHED; visual review required",
+      "background": [
+        124,
+        152,
+        165
+      ]
+    },
+    {
+      "id": 1906400000001,
+      "name": "Galatasaray",
+      "country": "turkey",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Galatasaray.svg",
+      "source_sha256": "8bf3294a26d100264fee0d2b75a481cf34705527a29eadd46ade0b52d8743d91",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v15-four-d1-20261024-test/docs/cge-v15-four-d1-20261024/1906400000001.png",
+      "file": "docs/cge-v15-four-d1-20261024/1906400000001.png",
+      "sha256": "c3694c6c4ccf51682565f5be7308a078396cf024ae1891c103c107a3e9bb7b53",
+      "dimensions": [
+        120,
+        96
+      ],
+      "status": "PUBLISHED; CLUB EMBLEM SOURCE MATCHED; visual review required",
+      "background": [
+        250,
+        194,
+        63
+      ]
+    },
+    {
+      "id": 1906400000002,
+      "name": "Amed Sportif Faaliyetler",
+      "country": "turkey",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Amed_SFK.svg",
+      "source_sha256": "9c4732e1d78b2e7634b5b56c357e704ee8dbb7430cdeeb40f212965daffb3be7",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v15-four-d1-20261024-test/docs/cge-v15-four-d1-20261024/1906400000002.png",
+      "file": "docs/cge-v15-four-d1-20261024/1906400000002.png",
+      "sha256": "3f11d6a99966432d930ba5505eeb33c5bbcd4a89576e5421202e9ea62fedfaaf",
+      "dimensions": [
+        120,
+        96
+      ],
+      "status": "PUBLISHED; CLUB EMBLEM SOURCE MATCHED; visual review required",
+      "background": [
+        124,
+        165,
+        110
+      ]
+    },
+    {
+      "id": 1906400000003,
+      "name": "Fenerbahçe",
+      "country": "turkey",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Fenerbah%C3%A7e.svg",
+      "source_sha256": "3fad922745cf964cddc22c99c3156d6d3035165e0bb6e248a455f58db522e409",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v15-four-d1-20261024-test/docs/cge-v15-four-d1-20261024/1906400000003.png",
+      "file": "docs/cge-v15-four-d1-20261024/1906400000003.png",
+      "sha256": "ebcf580ff3405334b66a20f0ec6911c7d6e0378e44bfc981425c690c604627b5",
+      "dimensions": [
+        120,
+        96
+      ],
+      "status": "PUBLISHED; CLUB EMBLEM SOURCE MATCHED; visual review required",
+      "background": [
+        207,
+        110,
+        124
+      ]
+    },
+    {
+      "id": 1906400000004,
+      "name": "Trabzonspor",
+      "country": "turkey",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Trabzonspor.svg",
+      "source_sha256": "0dfe713ed945d31e9ab028e79fde35567b67d3cbd665f0f9f2a8e420a202816b",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v15-four-d1-20261024-test/docs/cge-v15-four-d1-20261024/1906400000004.png",
+      "file": "docs/cge-v15-four-d1-20261024/1906400000004.png",
+      "sha256": "ae74e17ee954cfad30750a1eac6f6c43fd9b3f5d2ded7cf14670a6895bda4231",
+      "dimensions": [
+        120,
+        96
+      ],
+      "status": "PUBLISHED; CLUB EMBLEM SOURCE MATCHED; visual review required",
+      "background": [
+        152,
+        110,
+        124
+      ]
+    },
+    {
+      "id": 1906400000005,
+      "name": "Kasımpaşa",
+      "country": "turkey",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Kas%C4%B1mpa%C5%9Fa.svg",
+      "source_sha256": "d9eebb282d025684fc15066be4d0086013359316c716f83e3622a50d9241ddd6",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v15-four-d1-20261024-test/docs/cge-v15-four-d1-20261024/1906400000005.png",
+      "file": "docs/cge-v15-four-d1-20261024/1906400000005.png",
+      "sha256": "c91d11f608745eb38f697367ff0804a54dbdaf62a71ebb99db46605434fc5f17",
+      "dimensions": [
+        120,
+        96
+      ],
+      "status": "PUBLISHED; CLUB EMBLEM SOURCE MATCHED; visual review required",
+      "background": [
+        110,
+        124,
+        165
+      ]
+    },
+    {
+      "id": 1906400000006,
+      "name": "Beşiktaş",
+      "country": "turkey",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Be%C5%9Fikta%C5%9F.svg",
+      "source_sha256": "ea3e6ea32aa0e8009f5a00a076696bb254a6123ccc23ce6d267cd785a10d8a91",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v15-four-d1-20261024-test/docs/cge-v15-four-d1-20261024/1906400000006.png",
+      "file": "docs/cge-v15-four-d1-20261024/1906400000006.png",
+      "sha256": "bd19d6430bf6f104350a67e682f3331d45d8d5f21d2c9d0f674cd8fd0a1a597c",
+      "dimensions": [
+        120,
+        96
+      ],
+      "status": "PUBLISHED; CLUB EMBLEM SOURCE MATCHED; visual review required",
+      "background": [
+        235,
+        110,
+        110
+      ]
+    },
+    {
+      "id": 1906400000007,
+      "name": "Kocaelispor",
+      "country": "turkey",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Kocaelispor.svg",
+      "source_sha256": "ef9faedaf361ed96d773db903caac1d5e4d810e462bf5f4316040c4259119f53",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v15-four-d1-20261024-test/docs/cge-v15-four-d1-20261024/1906400000007.png",
+      "file": "docs/cge-v15-four-d1-20261024/1906400000007.png",
+      "sha256": "bc3927158c971b817a0d81101a218dc3e44136fadb7844f5f0129dea43ef9373",
+      "dimensions": [
+        120,
+        96
+      ],
+      "status": "PUBLISHED; CLUB EMBLEM SOURCE MATCHED; visual review required",
+      "background": [
+        124,
+        152,
+        124
+      ]
+    },
+    {
+      "id": 1906400000008,
+      "name": "Erzurumspor FK",
+      "country": "turkey",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/erzurumspor.svg",
+      "source_sha256": "825785554a22c9c630425afdc6fd5daf18f1249bd294e94aaa26bf0fb616e1d6",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v15-four-d1-20261024-test/docs/cge-v15-four-d1-20261024/1906400000008.png",
+      "file": "docs/cge-v15-four-d1-20261024/1906400000008.png",
+      "sha256": "eaaa66dbd1a381aa06620c48d3168b05ae3f9cadefea5db4343d6bc43279616e",
+      "dimensions": [
+        120,
+        96
+      ],
+      "status": "PUBLISHED; CLUB EMBLEM SOURCE MATCHED; visual review required",
+      "background": [
+        100,
+        157,
+        213
+      ]
+    },
+    {
+      "id": 1906400000009,
+      "name": "Çorum FK",
+      "country": "turkey",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/%C3%87orum_FK.svg",
+      "source_sha256": "9904c5ed1f34898438e25820020df3645119db5a15b229fe02b876414f33205c",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v15-four-d1-20261024-test/docs/cge-v15-four-d1-20261024/1906400000009.png",
+      "file": "docs/cge-v15-four-d1-20261024/1906400000009.png",
+      "sha256": "93ab7c0f28d464a40821f15e53f2e5d1fb125d45247b7d5cbfbffb7864cb7be1",
+      "dimensions": [
+        120,
+        96
+      ],
+      "status": "PUBLISHED; CLUB EMBLEM SOURCE MATCHED; visual review required",
+      "background": [
+        235,
+        110,
+        110
+      ]
+    },
+    {
+      "id": 1906400000010,
+      "name": "Alanyaspor",
+      "country": "turkey",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Alanyaspor.svg",
+      "source_sha256": "e3a19cecfac9a7c81cd1bf091303c822681c5997edc06ca2a686ba6290789fe7",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v15-four-d1-20261024-test/docs/cge-v15-four-d1-20261024/1906400000010.png",
+      "file": "docs/cge-v15-four-d1-20261024/1906400000010.png",
+      "sha256": "a254f12d99628c11f272a2e433e5c67db9537f36c68b1b2edfd1cbbd15722644",
+      "dimensions": [
+        120,
+        96
+      ],
+      "status": "PUBLISHED; CLUB EMBLEM SOURCE MATCHED; visual review required",
+      "background": [
+        250,
+        157,
+        82
+      ]
+    },
+    {
+      "id": 1906400000011,
+      "name": "İstanbul Başakşehir",
+      "country": "turkey",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Ba%C5%9Fak%C5%9Fehir.svg",
+      "source_sha256": "0764593a24744c92ade0a4efef06f2c94e9fc9a8d4ca02fa54da556dd5cee0b3",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v15-four-d1-20261024-test/docs/cge-v15-four-d1-20261024/1906400000011.png",
+      "file": "docs/cge-v15-four-d1-20261024/1906400000011.png",
+      "sha256": "751cee6692bfc7d3bf702a296ca1b42f3cc6ada40e5ccce17958fe3fa5028fe1",
+      "dimensions": [
+        120,
+        96
+      ],
+      "status": "PUBLISHED; CLUB EMBLEM SOURCE MATCHED; visual review required",
+      "background": [
+        110,
+        124,
+        152
+      ]
+    },
+    {
+      "id": 1906400000012,
+      "name": "Çaykur Rizespor",
+      "country": "turkey",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/%C3%87aykur_Rizespor.svg",
+      "source_sha256": "05147948c0476acef0454e6499d475a7e14b7d69ca75a6fe8c061d101a08b534",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v15-four-d1-20261024-test/docs/cge-v15-four-d1-20261024/1906400000012.png",
+      "file": "docs/cge-v15-four-d1-20261024/1906400000012.png",
+      "sha256": "d461b06cdfdec943de7c1d56b71750f403cb75560d5168d9885330fb33e46111",
+      "dimensions": [
+        120,
+        96
+      ],
+      "status": "PUBLISHED; CLUB EMBLEM SOURCE MATCHED; visual review required",
+      "background": [
+        124,
+        138,
+        193
+      ]
+    },
+    {
+      "id": 1906400000013,
+      "name": "Göztepe",
+      "country": "turkey",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/G%C3%B6ztepe_Izmir.svg",
+      "source_sha256": "dc4ed9cfa0ff8d94fbe13318a2030df1e4948f572cf32b9bb6bb159a48a93ad0",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v15-four-d1-20261024-test/docs/cge-v15-four-d1-20261024/1906400000013.png",
+      "file": "docs/cge-v15-four-d1-20261024/1906400000013.png",
+      "sha256": "a1b140925ab7a06fc5e4e69c18add522720c5a8bf4b195a7b6ac220cad5fdcad",
+      "dimensions": [
+        120,
+        96
+      ],
+      "status": "PUBLISHED; CLUB EMBLEM SOURCE MATCHED; visual review required",
+      "background": [
+        250,
+        231,
+        63
+      ]
+    },
+    {
+      "id": 1906400000014,
+      "name": "Gaziantep FK",
+      "country": "turkey",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Gaziantep.svg",
+      "source_sha256": "bc0192feda674ccac0830e2dc347373836b84a823a5d1ccf19e215318395740e",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v15-four-d1-20261024-test/docs/cge-v15-four-d1-20261024/1906400000014.png",
+      "file": "docs/cge-v15-four-d1-20261024/1906400000014.png",
+      "sha256": "4edafc6c0097c3fd0683766a1e983bd5ffede00e137d6a43d4692566df776b70",
+      "dimensions": [
+        120,
+        96
+      ],
+      "status": "PUBLISHED; CLUB EMBLEM SOURCE MATCHED; visual review required",
+      "background": [
+        235,
+        138,
+        138
+      ]
+    },
+    {
+      "id": 1906400000015,
+      "name": "Gençlerbirliği",
+      "country": "turkey",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Gen%C3%A7lerbirli%C4%9Fi.svg",
+      "source_sha256": "2003e0ef4d5caadd31641f830ce0ac48b2db43f335f3ec56ac9827af7f23e9d2",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v15-four-d1-20261024-test/docs/cge-v15-four-d1-20261024/1906400000015.png",
+      "file": "docs/cge-v15-four-d1-20261024/1906400000015.png",
+      "sha256": "f44ca86f04e4015c5d4984b8874cdf300b2e7b49e964f30741a859adaae543dc",
+      "dimensions": [
+        120,
+        96
+      ],
+      "status": "PUBLISHED; CLUB EMBLEM SOURCE MATCHED; visual review required",
+      "background": [
+        235,
+        110,
+        110
+      ]
+    },
+    {
+      "id": 1906400000016,
+      "name": "Konyaspor",
+      "country": "turkey",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Konyaspor.svg",
+      "source_sha256": "ba00c6b64b867a89d9a5d746adaeeb68b095b89008c03992b98dfe518426d135",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v15-four-d1-20261024-test/docs/cge-v15-four-d1-20261024/1906400000016.png",
+      "file": "docs/cge-v15-four-d1-20261024/1906400000016.png",
+      "sha256": "df3214557f3bef36eff3813cec34c69c06e7055b9ec19ee49f5c7fd4b3e1ab84",
+      "dimensions": [
+        120,
+        96
+      ],
+      "status": "PUBLISHED; CLUB EMBLEM SOURCE MATCHED; visual review required",
+      "background": [
+        110,
+        179,
+        152
+      ]
+    },
+    {
+      "id": 1906400000017,
+      "name": "Samsunspor",
+      "country": "turkey",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Samsunspor.svg",
+      "source_sha256": "16f6444f0ce4918101405ac8cd54bfa17de5c7a1949763df85513ea1591bb573",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v15-four-d1-20261024-test/docs/cge-v15-four-d1-20261024/1906400000017.png",
+      "file": "docs/cge-v15-four-d1-20261024/1906400000017.png",
+      "sha256": "1a4ec83f2bc453d4ddf1ad00279a3a9b8141606b3b6875becb89a35818d3f747",
+      "dimensions": [
+        120,
+        96
+      ],
+      "status": "PUBLISHED; CLUB EMBLEM SOURCE MATCHED; visual review required",
+      "background": [
+        249,
+        110,
+        124
+      ]
+    },
+    {
+      "id": 1906400000018,
+      "name": "Eyüpspor",
+      "country": "turkey",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Ey%C3%BCpspor.svg",
+      "source_sha256": "f8d28b501d2031adbc9a1ed09c88cad4ae12394e3cca40f199236798826f7e41",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v15-four-d1-20261024-test/docs/cge-v15-four-d1-20261024/1906400000018.png",
+      "file": "docs/cge-v15-four-d1-20261024/1906400000018.png",
+      "sha256": "4786b45de331290e7d10a486dc444b6215411dd9a07af87f2d55d8964f05381f",
+      "dimensions": [
+        120,
+        96
+      ],
+      "status": "PUBLISHED; CLUB EMBLEM SOURCE MATCHED; visual review required",
+      "background": [
+        165,
+        138,
+        193
+      ]
+    }
+  ],
+  "federations": [
+    {
+      "id": null,
+      "name": "armenia",
+      "country": "armenia",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/armenia/Armenia_National_Team.svg",
+      "source_sha256": "73c7e30dad4823e42860203949212426854bf868d5421d4b51e7872f75ae0b27",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v15-four-d1-20261024-test/docs/cge-v15-four-d1-20261024/armenia-federation.png",
+      "file": "docs/cge-v15-four-d1-20261024/armenia-federation.png",
+      "sha256": "93e825df15d5c82309d11ba8b26644de5bfe20fcf1b61246e4dccb422b0fb1fa",
+      "dimensions": [
+        512,
+        512
+      ],
+      "status": "PUBLISHED; CLUB EMBLEM SOURCE MATCHED; visual review required",
+      "background": [
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "id": null,
+      "name": "azerbaijan",
+      "country": "azerbaijan",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/azerbaijan/Azerbaijan_National_Team.svg",
+      "source_sha256": "6d31d1f4b7109152fb960563c1fb1eadf4933e085808ceb4bb0e56bbb0abf398",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v15-four-d1-20261024-test/docs/cge-v15-four-d1-20261024/azerbaijan-federation.png",
+      "file": "docs/cge-v15-four-d1-20261024/azerbaijan-federation.png",
+      "sha256": "173d494cb5d7d5c8c7e3f052501d83fcaeab9c76db0c501395ebf16fc5450afe",
+      "dimensions": [
+        512,
+        512
+      ],
+      "status": "PUBLISHED; CLUB EMBLEM SOURCE MATCHED; visual review required",
+      "background": [
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "id": null,
+      "name": "kazakhstan",
+      "country": "kazakhstan",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/kazakhstan/Kazakhstan_National_Team.svg",
+      "source_sha256": "bac8096c609b3d94b2f572bc665935506126c7d466be3983816076bea309f845",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v15-four-d1-20261024-test/docs/cge-v15-four-d1-20261024/kazakhstan-federation.png",
+      "file": "docs/cge-v15-four-d1-20261024/kazakhstan-federation.png",
+      "sha256": "eb8315016183e7c967e49c561a5e0c69c583dde0ac43f68f0a95bcf3559ac11c",
+      "dimensions": [
+        512,
+        512
+      ],
+      "status": "PUBLISHED; CLUB EMBLEM SOURCE MATCHED; visual review required",
+      "background": [
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "id": null,
+      "name": "turkey",
+      "country": "turkey",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Turkish_Football_Federation.svg",
+      "source_sha256": "46814b22e084015834096dd8d52af22de0ee173ebf1140ce865ad787a6d0c2a9",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-cge-v15-four-d1-20261024-test/docs/cge-v15-four-d1-20261024/turkey-federation.png",
+      "file": "docs/cge-v15-four-d1-20261024/turkey-federation.png",
+      "sha256": "f17e0ea2b3727c38fd11c37665f9f31e8862002dc23b6458757679e9767afd24",
+      "dimensions": [
+        512,
+        512
+      ],
+      "status": "PUBLISHED; CLUB EMBLEM SOURCE MATCHED; visual review required",
+      "background": [
+        255,
+        255,
+        255
+      ]
+    }
+  ],
+  "clubs_ok": 58,
+  "federations_ok": 4,
+  "clubs_expected": 58,
+  "federations_expected": 4
+}
