@@ -63,6 +63,11 @@ def acquire(pair,i):
   if url:prospects.append((url,meta))
  url,meta=wikipedia(page)
  if url:prospects.append((url,meta))
+ # Two separately verified Macedonian club crests; never confuse Tetovo and Haraçinë.
+ if id==1900264000006:
+  prospects.append(("https://r2.thesportsdb.com/images/media/team/badge/lec0bk1779941482.png",{"provider":"TheSportsDB club 155729, Shkëndija Haraçinë 1977","sourcePage":"https://www.thesportsdb.com/team/155729-shk%C3%ABndija-hara%C3%A7in%C3%AB"}))
+ if id==1900264000009:
+  prospects.append(("https://images.seeklogo.com/logo-png/62/1/fc-bashkimi-kumanovo-logo-png_seeklogo-626423.png",{"provider":"Seeklogo FC Bashkimi Kumanovë 1947","sourcePage":"https://seeklogo.com/vector-logo/626423/fc-bashkimi-kumanovo"}))
  for url,meta in prospects:
   try:
    r=get(url)
