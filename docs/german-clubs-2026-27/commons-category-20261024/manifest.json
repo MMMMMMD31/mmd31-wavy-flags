@@ -50,18 +50,18 @@
   {
     "teamId": "1898200000197",
     "club": "SV Rot-Weiß Walldorf",
-    "source": "https://upload.wikimedia.org/wikipedia/commons/8/84/SV_Rot-Weiss_Walldorf.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/fd/SV_Rot-Weiss_Walldorf_Logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "source_type": "commons_german_football_category",
-    "commons_file": "File:SV Rot-Weiss Walldorf.gif",
-    "source_page": "https://commons.wikimedia.org/wiki/File:SV_Rot-Weiss_Walldorf.gif",
+    "commons_file": "File:SV Rot-Weiss Walldorf Logo.svg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:SV_Rot-Weiss_Walldorf_Logo.svg",
     "license": "Public domain",
     "png_path": "docs/german-clubs-2026-27/commons-category-20261024/1898200000197.png",
     "background_rgb": [
-      220,
+      243,
       78,
       78
     ],
-    "sha256": "36e0ac8a2a452f6d17238907e0e46729934c97da178cdcdeaa64d7dbbb652917"
+    "sha256": "aaa599c0cb315fefa554f1d27b9941754bde82429086af5d144abd36a636c56b"
   },
   {
     "teamId": "1898200000204",
@@ -144,35 +144,51 @@
     "sha256": "d89b34522d5ceba0539ef2b858c9edfb30d760595ce985f0af6685a37008d052"
   },
   {
-    "teamId": "1898200000096",
-    "club": "1. FC Frankfurt (Oder)",
-    "source": "https://upload.wikimedia.org/wikipedia/commons/1/12/Logo_1._FC_Frankfurt_%28Oder%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "teamId": "1898200000086",
+    "club": "SC Freital",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/55/Wappen-SC-Freital.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "source_type": "commons_german_football_category",
-    "commons_file": "File:Logo 1. FC Frankfurt (Oder).svg",
-    "source_page": "https://commons.wikimedia.org/wiki/File:Logo_1._FC_Frankfurt_(Oder).svg",
+    "commons_file": "File:Wappen-SC-Freital.svg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Wappen-SC-Freital.svg",
     "license": "Public domain",
-    "png_path": "docs/german-clubs-2026-27/commons-category-20261024/1898200000096.png",
+    "png_path": "docs/german-clubs-2026-27/commons-category-20261024/1898200000086.png",
+    "background_rgb": [
+      172,
+      172,
+      125
+    ],
+    "sha256": "706d7468560e2fffe1f60f0b7e0808d34ffcb282950fa348383bb9ec0401b885"
+  },
+  {
+    "teamId": "1898200000510",
+    "club": "SC Freital II",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/55/Wappen-SC-Freital.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_type": "commons_german_football_category",
+    "commons_file": "File:Wappen-SC-Freital.svg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Wappen-SC-Freital.svg",
+    "license": "Public domain",
+    "png_path": "docs/german-clubs-2026-27/commons-category-20261024/1898200000510.png",
+    "background_rgb": [
+      172,
+      172,
+      125
+    ],
+    "sha256": "706d7468560e2fffe1f60f0b7e0808d34ffcb282950fa348383bb9ec0401b885"
+  },
+  {
+    "teamId": "1898200000657",
+    "club": "SV Rot-Weiss Walldorf II",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/fd/SV_Rot-Weiss_Walldorf_Logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_type": "commons_german_football_category",
+    "commons_file": "File:SV Rot-Weiss Walldorf Logo.svg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:SV_Rot-Weiss_Walldorf_Logo.svg",
+    "license": "Public domain",
+    "png_path": "docs/german-clubs-2026-27/commons-category-20261024/1898200000657.png",
     "background_rgb": [
       243,
       78,
       78
     ],
-    "sha256": "c158c4fe16a1ab87f262bd6bf4aff1c51002a8242da2f900b4563667ded93b78"
-  },
-  {
-    "teamId": "1898200000657",
-    "club": "SV Rot-Weiss Walldorf II",
-    "source": "https://upload.wikimedia.org/wikipedia/commons/8/84/SV_Rot-Weiss_Walldorf.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "source_type": "commons_german_football_category",
-    "commons_file": "File:SV Rot-Weiss Walldorf.gif",
-    "source_page": "https://commons.wikimedia.org/wiki/File:SV_Rot-Weiss_Walldorf.gif",
-    "license": "Public domain",
-    "png_path": "docs/german-clubs-2026-27/commons-category-20261024/1898200000657.png",
-    "background_rgb": [
-      220,
-      78,
-      78
-    ],
-    "sha256": "36e0ac8a2a452f6d17238907e0e46729934c97da178cdcdeaa64d7dbbb652917"
+    "sha256": "aaa599c0cb315fefa554f1d27b9941754bde82429086af5d144abd36a636c56b"
   }
 ]
