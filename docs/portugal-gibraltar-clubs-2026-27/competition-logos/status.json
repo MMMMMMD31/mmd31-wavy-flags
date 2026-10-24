@@ -1,0 +1,20 @@
+[
+  {
+    "slug": "portugal_fpf_2026",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/52/Federa%C3%A7%C3%A3o_Portuguesa_de_Futebol_logo_%282026%29.svg",
+    "source_sha256": "b296979cf0cd59dac5e0414e57a9df82e4fbb1807c5bc3e99cf54c1e8d235be3",
+    "path": "docs/portugal-gibraltar-clubs-2026-27/competition-logos/portugal_fpf_2026.png",
+    "png_sha256": "2596d8f9ee91a7a9a64c203b42552310bc5757fdda92f2680d5051ab06045a07",
+    "provenance": "Federação Portuguesa de Futebol — new 2026 logo, Wikimedia Commons",
+    "ok": true
+  },
+  {
+    "slug": "gibraltar_gfa",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Gibraltar_Football_Association_logo.svg",
+    "source_sha256": "14355f2180f283e08fb29a5d7c878d58dac6fe3c4ed77d61ecfb1a49592a6630",
+    "path": "docs/portugal-gibraltar-clubs-2026-27/competition-logos/gibraltar_gfa.png",
+    "png_sha256": "849ddf23931d29cd47ff6f49d61b53cce6be441cf7866a6e9bb9c23efb412d6d",
+    "provenance": "Gibraltar Football Association, Wikimedia Commons",
+    "ok": true
+  }
+]
