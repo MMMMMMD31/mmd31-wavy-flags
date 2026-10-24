@@ -24,7 +24,7 @@
     "country": "albania",
     "name": "Federata Shqiptare e Futbollit",
     "source": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Albanian_Football_Federation.svg",
-    "status": "PNG_280x280_PUBLISHED",
-    "sha256": "5c21fc5757cd4cb6a4be36d29b8e527db0ba2d5a48449fc8fce700d1f164c9de"
+    "status": "FEDERATION_LOGO_SOURCE_UNVERIFIED",
+    "error": "No source response"
   }
 ]
