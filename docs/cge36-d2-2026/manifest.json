@@ -1,7 +1,7 @@
 {
   "expected": 58,
-  "published": 57,
-  "missing": 1,
+  "published": 58,
+  "missing": 0,
   "clubs": [
     {
       "country": "EE",
@@ -258,8 +258,16 @@
         120,
         96
       ],
-      "state": "missing",
-      "problem": "No securely identified real club logo; do not publish placeholder"
+      "state": "published",
+      "source": "https://img.sofascore.com/api/v1/team/519903/image",
+      "source_type": "sofascore-team-519903-club-crest-identity-verified",
+      "path": "docs/cge36-d2-2026/clubs/LV/1897600006004.png",
+      "background_rgb": [
+        201,
+        213,
+        228
+      ],
+      "sha256": "eb1343d667db04cd9cefbd715f158e1300172b10a74909e6f49acbc7bdba81a0"
     },
     {
       "country": "LV",
