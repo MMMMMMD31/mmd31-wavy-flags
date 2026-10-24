@@ -1,0 +1,62 @@
+[
+  {
+    "robots": 200,
+    "allowed": true,
+    "url": "https://www.weltfussball.de/teams/te13259/",
+    "status": 403,
+    "final_url": "https://www.weltfussball.de/teams/te13259/",
+    "length": 5633,
+    "page_title": "Just a moment...",
+    "image_tags": [],
+    "related_links": [],
+    "image_tag_count": 0
+  },
+  {
+    "robots": 200,
+    "allowed": true,
+    "url": "https://www.weltfussball.de/teams/te13266/",
+    "status": 403,
+    "final_url": "https://www.weltfussball.de/teams/te13266/",
+    "length": 5633,
+    "page_title": "Just a moment...",
+    "image_tags": [],
+    "related_links": [],
+    "image_tag_count": 0
+  },
+  {
+    "robots": 200,
+    "allowed": true,
+    "url": "https://www.weltfussball.de/spielplan/oberliga-schleswig-holstein/",
+    "status": 403,
+    "final_url": "https://www.weltfussball.de/spielplan/oberliga-schleswig-holstein/",
+    "length": 5748,
+    "page_title": "Just a moment...",
+    "image_tags": [],
+    "related_links": [],
+    "image_tag_count": 0
+  },
+  {
+    "robots": 200,
+    "allowed": true,
+    "url": "https://www.fupa.net/club/fc-kilia-kiel",
+    "status": 200,
+    "final_url": "https://www.fupa.net/club/fc-kilia-kiel",
+    "length": 110870,
+    "page_title": "FC Kilia Kiel: Teams von Oberliga Schleswig-Holstein bis Jugend - FuPa",
+    "image_tags": [
+      "<img loading=\"lazy\" src=\"https://image.fupa.net/club/M5LrJPaVHnQf/32x32.jpeg\" alt=\"FC Kilia Kiel Vereinswappen\" title=\"\" width=\"32\" height=\"32\" class=\"sc-wadapo-3 eWJDMC\"/>",
+      "<img loading=\"lazy\" src=\"https://image.fupa.net/team-image/7QAhgN9Wj7hE/480x270.jpeg\" alt=\"Mannschaftsfoto: Herren - 1. Mannschaft - FC Kilia Kiel - Saison 26/27\" title=\"\" width=\"480\" height=\"270\" class=\"sc-wadapo-3 klmthQ\"/>",
+      "<img loading=\"lazy\" src=\"https://image.fupa.net/team-image/FcwELVo19Aez/image.svg\" alt=\"\" title=\"\" width=\"480\" height=\"270\" class=\"sc-wadapo-3 klmthQ\"/>",
+      "<img loading=\"lazy\" src=\"https://image.fupa.net/team-image/FcwELVo19Aez/image.svg\" alt=\"\" title=\"\" width=\"480\" height=\"270\" class=\"sc-wadapo-3 klmthQ\"/>",
+      "<img loading=\"lazy\" src=\"https://image.fupa.net/team-image/FcwELVo19Aez/image.svg\" alt=\"\" title=\"\" width=\"480\" height=\"270\" class=\"sc-wadapo-3 klmthQ\"/>",
+      "<img loading=\"lazy\" src=\"https://image.fupa.net/team-image/FcwELVo19Aez/image.svg\" alt=\"\" title=\"\" width=\"480\" height=\"270\" class=\"sc-wadapo-3 klmthQ\"/>",
+      "<img loading=\"lazy\" src=\"https://image.fupa.net/team-image/FcwELVo19Aez/image.svg\" alt=\"\" title=\"\" width=\"480\" height=\"270\" class=\"sc-wadapo-3 klmthQ\"/>",
+      "<img loading=\"lazy\" src=\"https://image.fupa.net/team-image/FcwELVo19Aez/image.svg\" alt=\"\" title=\"\" width=\"480\" height=\"270\" class=\"sc-wadapo-3 klmthQ\"/>",
+      "<img loading=\"lazy\" src=\"https://image.fupa.net/team-image/FcwELVo19Aez/image.svg\" alt=\"\" title=\"\" width=\"480\" height=\"270\" class=\"sc-wadapo-3 klmthQ\"/>",
+      "<img loading=\"lazy\" src=\"https://image.fupa.net/venue/xVbk9fZSFLK8/128x128.jpeg\" alt=\"Foto der Spielstätte A-Platz Friedrichsort - FC Kilia Kiel\" title=\"\" width=\"128\" height=\"128\" class=\"sc-wadapo-3 iAxWFH\"/>",
+      "<img loading=\"lazy\" src=\"https://image.fupa.net/venue/wDuZIkGJouSv/128x128.jpeg\" alt=\"Foto der Spielstätte Hans-Mohr-Sportplatz - FC Kilia Kiel\" title=\"\" width=\"128\" height=\"128\" class=\"sc-wadapo-3 iAxWFH\"/>"
+    ],
+    "related_links": [],
+    "image_tag_count": 11
+  }
+]
