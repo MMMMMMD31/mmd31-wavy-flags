@@ -1,0 +1,35 @@
+{
+  "count": 3,
+  "assets": [
+    {
+      "team_id": "1990262000200",
+      "club": "JS Marigot",
+      "page": "https://ichpeyi-a.com/clubs/",
+      "img": "https://ichpeyi-a.com/wp-content/uploads/2025/07/js-marigot.webp",
+      "evidence": "Foot Avenir Martinique club participant roster, labeled JS MARIGOT",
+      "source_sha256": "8169f2fcc00edcb3608b624297b9b220de73060263753aaff6076fc7c40cc307",
+      "png_sha256": "de3e35c210a22ec9c8409510c482e5c19d214e45463c9c2df0732296b4a6aec0",
+      "bytes": 15132
+    },
+    {
+      "team_id": "1990262000274",
+      "club": "FC Ligne Paradis",
+      "page": "https://fcligneparadis.footeo.com/",
+      "img": "https://s3.static-footeo.com/250/uploads/fcligneparadis/logo__76a9t1qdm.jpg",
+      "evidence": "Club-run site labeled logo du club FC LIGNE-PARADIS",
+      "source_sha256": "bb4bf363026a0a520ad7f61dfe6715e6954e90f7358540d4ffb8abab5253480e",
+      "png_sha256": "06eb68bf9321fe8c4a2b0730c70e38be6cf32df27bc0794838a041de983331d8",
+      "bytes": 12359
+    },
+    {
+      "team_id": "1990262000155",
+      "club": "AS Montgaillard",
+      "page": "https://as-montgaillard.footeo.com/",
+      "img": "https://s2.static-footeo.com/100/uploads/as-montgaillard/logo__76a9t1vur.png",
+      "evidence": "Club-run site labeled Logo du club AS Montgaillard",
+      "source_sha256": "a3fc0500574ac382d9ec8f82366f0691270ef0e89a6054436992f8ac849eb5f0",
+      "png_sha256": "98a3c0f49a3c2825e14b78aa44e83621794f65f0e0d7616381c1be41d5c86931",
+      "bytes": 4983
+    }
+  ]
+}
