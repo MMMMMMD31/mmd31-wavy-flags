@@ -1,0 +1,590 @@
+{
+  "url": "https://escudosfc.com.br/kos.htm",
+  "status": 200,
+  "images": [
+    {
+      "alt": null,
+      "title": null,
+      "src": "images/tit_head.gif",
+      "parent_text": "",
+      "row_text": "",
+      "around": "<a href=\"index.html\"><img border=\"0\" height=\"50\" src=\"images/tit_head.gif\" width=\"873\"/></a>"
+    },
+    {
+      "alt": null,
+      "title": null,
+      "src": "images/kosovo.png",
+      "parent_text": "Última atualização : 13/9/26",
+      "row_text": "Última atualização : 13/9/26",
+      "around": "<td bgcolor=\"#FFFFFF\" valign=\"top\"><div align=\"center\">\n<p><font face=\"Bookman Old Style\"><span class=\"style20\"> </span></font><font face=\"Bookman Old Style\"></font><font color=\"#ffffff\"><img height=\"131\" src=\"images/kos"
+    },
+    {
+      "alt": null,
+      "title": null,
+      "src": "images/kosovo_2.png",
+      "parent_text": "Última atualização : 13/9/26",
+      "row_text": "Última atualização : 13/9/26",
+      "around": "<td bgcolor=\"#FFFFFF\" valign=\"top\"><div align=\"center\">\n<p><font face=\"Bookman Old Style\"><span class=\"style20\"> </span></font><font face=\"Bookman Old Style\"></font><font color=\"#ffffff\"><img height=\"131\" src=\"images/kos"
+    },
+    {
+      "alt": "Ballkani",
+      "title": null,
+      "src": "images/balkani_kos.png",
+      "parent_text": "",
+      "row_text": "(bicampeão 2026) (P)",
+      "around": "<td valign=\"TOP\"><div align=\"center\"><img alt=\"Ballkani\" height=\"115\" src=\"images/balkani_kos.png\" width=\"115\"/></div></td>"
+    },
+    {
+      "alt": "Drenica",
+      "title": null,
+      "src": "images/drenica_kos.gif",
+      "parent_text": "",
+      "row_text": "(bicampeão 2026) (P)",
+      "around": "<td bgcolor=\"#FFFFFF\" valign=\"TOP\"><div align=\"center\"><img alt=\"Drenica\" height=\"115\" src=\"images/drenica_kos.gif\" width=\"95\"/></div></td>"
+    },
+    {
+      "alt": "Drita",
+      "title": null,
+      "src": "images/drita_kos.png",
+      "parent_text": "(bicampeão 2026)",
+      "row_text": "(bicampeão 2026) (P)",
+      "around": "<td bgcolor=\"#FFFFFF\" valign=\"TOP\" width=\"168\"><div align=\"center\"><img alt=\"Drita\" height=\"115\" src=\"images/drita_kos.png\" width=\"115\"/><br/>\n<span class=\"style26\">(bicampeão 2026)</span> <br/>\n</div></td>"
+    },
+    {
+      "alt": "Dukagjini",
+      "title": null,
+      "src": "images/dukagjini_kos.png",
+      "parent_text": "",
+      "row_text": "(bicampeão 2026) (P)",
+      "around": "<td valign=\"TOP\"><p align=\"CENTER\"><img alt=\"Dukagjini\" height=\"115\" src=\"images/dukagjini_kos.png\" width=\"115\"/></p></td>"
+    },
+    {
+      "alt": "Feronikeli",
+      "title": null,
+      "src": "images/feronikeli_kos.png",
+      "parent_text": "(P)",
+      "row_text": "(bicampeão 2026) (P)",
+      "around": "<td valign=\"TOP\"><div align=\"center\"><img alt=\"Feronikeli\" height=\"115\" src=\"images/feronikeli_kos.png\" width=\"115\"/><span class=\"style27\">(P)</span></div></td>"
+    },
+    {
+      "alt": "Gjilani",
+      "title": null,
+      "src": "images/gjilani_kos.png",
+      "parent_text": "",
+      "row_text": "(P)",
+      "around": "<td valign=\"TOP\"><div align=\"center\"><img alt=\"Gjilani\" height=\"115\" src=\"images/gjilani_kos.png\" width=\"115\"/></div></td>"
+    },
+    {
+      "alt": "Llapi",
+      "title": null,
+      "src": "images/llapi_kos.png",
+      "parent_text": "",
+      "row_text": "(P)",
+      "around": "<td bgcolor=\"#FFFFFF\" valign=\"TOP\"><div align=\"center\"><img alt=\"Llapi\" height=\"116\" src=\"images/llapi_kos.png\" width=\"134\"/></div></td>"
+    },
+    {
+      "alt": "Malisheva\t",
+      "title": null,
+      "src": "images/malisevo_kos.png",
+      "parent_text": "",
+      "row_text": "(P)",
+      "around": "<td valign=\"TOP\"><div align=\"center\"><img alt=\"Malisheva\t\" height=\"115\" src=\"images/malisevo_kos.png\" width=\"115\"/></div></td>"
+    },
+    {
+      "alt": "Prishtina",
+      "title": null,
+      "src": "images/pristina_kos.png",
+      "parent_text": "",
+      "row_text": "(P)",
+      "around": "<td bgcolor=\"#FFFFFF\" valign=\"TOP\"><p align=\"CENTER\"><img alt=\"Prishtina\" height=\"120\" src=\"images/pristina_kos.png\" width=\"76\"/></p></td>"
+    },
+    {
+      "alt": "Vushtrria",
+      "title": null,
+      "src": "images/vushtria_kos.png",
+      "parent_text": "(P)",
+      "row_text": "(P)",
+      "around": "<td valign=\"TOP\"><p align=\"CENTER\"><img alt=\"Vushtrria\" height=\"115\" src=\"images/vushtria_kos.png\" width=\"115\"/><span class=\"style27\">(P)</span></p></td>"
+    },
+    {
+      "alt": "2 Korriku",
+      "title": null,
+      "src": "images/korriku_kos.png",
+      "parent_text": "",
+      "row_text": "(R)",
+      "around": "<td valign=\"TOP\"><div align=\"center\"><img alt=\"2 Korriku\" height=\"115\" src=\"images/korriku_kos.png\" width=\"115\"/></div></td>"
+    },
+    {
+      "alt": "Besa",
+      "title": null,
+      "src": "images/besa_kos.png",
+      "parent_text": "",
+      "row_text": "(R)",
+      "around": "<td bgcolor=\"#FFFFFF\" valign=\"TOP\"><p align=\"CENTER\"><img alt=\"Besa\" height=\"115\" src=\"images/besa_kos.png\" width=\"115\"/></p></td>"
+    },
+    {
+      "alt": "Ferizaj",
+      "title": null,
+      "src": "images/dinamo_feriz_kos.png",
+      "parent_text": "",
+      "row_text": "(R)",
+      "around": "<td valign=\"TOP\"><div align=\"center\"><img alt=\"Ferizaj\" height=\"116\" src=\"images/dinamo_feriz_kos.png\" width=\"115\"/></div></td>"
+    },
+    {
+      "alt": "Ferizaj",
+      "title": null,
+      "src": "images/ferizaj_kos.png",
+      "parent_text": "(R)",
+      "row_text": "(R)",
+      "around": "<td valign=\"TOP\"><div align=\"center\"><img alt=\"Ferizaj\" height=\"115\" src=\"images/ferizaj_kos.png\" width=\"115\"/><span class=\"style27\">(R)</span></div></td>"
+    },
+    {
+      "alt": "Istogu",
+      "title": null,
+      "src": "images/istogu_kos.jpg",
+      "parent_text": "",
+      "row_text": "(R)",
+      "around": "<td valign=\"TOP\"><p align=\"CENTER\"><img alt=\"Istogu\" height=\"115\" src=\"images/istogu_kos.jpg\" width=\"115\"/></p></td>"
+    },
+    {
+      "alt": "Kika",
+      "title": null,
+      "src": "images/kika_kos.png",
+      "parent_text": "",
+      "row_text": "(P) (P) (R)",
+      "around": "<td valign=\"TOP\"><div align=\"center\"><img alt=\"Kika\" height=\"115\" src=\"images/kika_kos.png\" width=\"115\"/></div></td>"
+    },
+    {
+      "alt": "Lepenci",
+      "title": null,
+      "src": "images/lepenci_kos.png",
+      "parent_text": "(P)",
+      "row_text": "(P) (P) (R)",
+      "around": "<td valign=\"TOP\"><div align=\"center\"><img alt=\"Lepenci\" height=\"115\" src=\"images/lepenci_kos.png\" width=\"115\"/><span class=\"style27\">(P)</span></div></td>"
+    },
+    {
+      "alt": "Liria",
+      "title": null,
+      "src": "images/liria_kos.gif",
+      "parent_text": "",
+      "row_text": "(P) (P) (R)",
+      "around": "<td valign=\"TOP\"><p align=\"CENTER\"><img alt=\"Liria\" height=\"115\" src=\"images/liria_kos.gif\" width=\"105\"/></p></td>"
+    },
+    {
+      "alt": "Mitrovica",
+      "title": null,
+      "src": "images/mitrovica_kos.png",
+      "parent_text": "(P)",
+      "row_text": "(P) (P) (R)",
+      "around": "<td valign=\"TOP\"><div align=\"center\"><img alt=\"Mitrovica\" height=\"117\" src=\"images/mitrovica_kos.png\" width=\"108\"/><span class=\"style27\">(P)</span></div></td>"
+    },
+    {
+      "alt": "Prishtina E Re",
+      "title": null,
+      "src": "images/pris_e_re_kos.png",
+      "parent_text": "(R)",
+      "row_text": "(P) (P) (R)",
+      "around": "<td bgcolor=\"#FFFFFF\" valign=\"TOP\"><p align=\"CENTER\"><img alt=\"Prishtina E Re\" height=\"115\" src=\"images/pris_e_re_kos.png\" width=\"116\"/><span class=\"style27\">(R)</span></p></td>"
+    },
+    {
+      "alt": "Ramiz Sadiku",
+      "title": null,
+      "src": "images/ramiz_kos.png",
+      "parent_text": "",
+      "row_text": "",
+      "around": "<td valign=\"TOP\"><div align=\"center\"><img alt=\"Ramiz Sadiku\" height=\"115\" src=\"images/ramiz_kos.png\" width=\"115\"/></div></td>"
+    },
+    {
+      "alt": "Rilindja",
+      "title": null,
+      "src": "images/rili2_kos.png",
+      "parent_text": "",
+      "row_text": "",
+      "around": "<td valign=\"TOP\"><div align=\"center\"><img alt=\"Rilindja\" height=\"115\" src=\"images/rili2_kos.png\" width=\"116\"/></div></td>"
+    },
+    {
+      "alt": "Suhareka",
+      "title": null,
+      "src": "images/suhareka_kos.png",
+      "parent_text": "",
+      "row_text": "",
+      "around": "<td valign=\"TOP\"><div align=\"center\"><img alt=\"Suhareka\" height=\"115\" src=\"images/suhareka_kos.png\" width=\"116\"/></div></td>"
+    },
+    {
+      "alt": "Tefik Çanga",
+      "title": null,
+      "src": "images/tefik_kos.png",
+      "parent_text": "",
+      "row_text": "",
+      "around": "<td valign=\"TOP\"><div align=\"center\"><img alt=\"Tefik Çanga\" height=\"115\" src=\"images/tefik_kos.png\" width=\"116\"/></div></td>"
+    },
+    {
+      "alt": "Trepça",
+      "title": null,
+      "src": "images/trepca_kos.jpg",
+      "parent_text": "",
+      "row_text": "",
+      "around": "<td valign=\"TOP\"><div align=\"center\"><img alt=\"Trepça\" height=\"115\" src=\"images/trepca_kos.jpg\" width=\"115\"/></div></td>"
+    },
+    {
+      "alt": "Trepça 89",
+      "title": null,
+      "src": "images/trepca_89_kos.png",
+      "parent_text": "",
+      "row_text": "",
+      "around": "<td bgcolor=\"#FFFFFF\" valign=\"TOP\"><blockquote>\n<p align=\"CENTER\"><img alt=\"Trepça 89\" height=\"114\" src=\"images/trepca_89_kos.png\" width=\"84\"/></p>\n</blockquote></td>"
+    },
+    {
+      "alt": "Vëllaznimi",
+      "title": null,
+      "src": "images/veellaznimi_kos.png",
+      "parent_text": "",
+      "row_text": "",
+      "around": "<td bgcolor=\"#FFFFFF\" valign=\"TOP\"><blockquote>\n<p align=\"CENTER\"><img alt=\"Vëllaznimi\" height=\"115\" src=\"images/veellaznimi_kos.png\" width=\"94\"/></p>\n</blockquote></td>"
+    },
+    {
+      "alt": "Vjosa",
+      "title": null,
+      "src": "images/vjosa_kos.png",
+      "parent_text": "",
+      "row_text": "",
+      "around": "<td valign=\"TOP\"><div align=\"center\"><img alt=\"Vjosa\" height=\"115\" src=\"images/vjosa_kos.png\" width=\"115\"/></div></td>"
+    },
+    {
+      "alt": "Arberia        ",
+      "title": null,
+      "src": "images/arberia_kos.png",
+      "parent_text": "",
+      "row_text": "",
+      "around": "<td bgcolor=\"#FFFFFF\" valign=\"TOP\"><p align=\"CENTER\"><img alt=\"Arberia        \" height=\"115\" src=\"images/arberia_kos.png\" width=\"115\"/></p></td>"
+    },
+    {
+      "alt": "Dardania",
+      "title": null,
+      "src": "images/dardania_kos.png",
+      "parent_text": "",
+      "row_text": "",
+      "around": "<td valign=\"TOP\"><div align=\"center\"><img alt=\"Dardania\" height=\"115\" src=\"images/dardania_kos.png\" width=\"115\"/></div></td>"
+    },
+    {
+      "alt": "Deçani",
+      "title": null,
+      "src": "images/decani_kos.png",
+      "parent_text": "",
+      "row_text": "",
+      "around": "<td valign=\"TOP\"><div align=\"center\"><img alt=\"Deçani\" height=\"115\" src=\"images/decani_kos.png\" width=\"112\"/></div></td>"
+    },
+    {
+      "alt": "Drini i Bardhe",
+      "title": null,
+      "src": "images/drini_kos.png",
+      "parent_text": "",
+      "row_text": "",
+      "around": "<td valign=\"TOP\"><p align=\"CENTER\"><font color=\"#ffffff\"><img alt=\"Drini i Bardhe\" height=\"115\" src=\"images/drini_kos.png\" width=\"115\"/></font></p></td>"
+    },
+    {
+      "alt": "Flamurtari",
+      "title": null,
+      "src": "images/flamurtari_kos.png",
+      "parent_text": "",
+      "row_text": "",
+      "around": "<td valign=\"TOP\"><div align=\"center\"><img alt=\"Flamurtari\" height=\"116\" src=\"images/flamurtari_kos.png\" width=\"119\"/></div></td>"
+    },
+    {
+      "alt": "Fushë Kosova",
+      "title": null,
+      "src": "images/fushe_kos.png",
+      "parent_text": "",
+      "row_text": "(R) (R)",
+      "around": "<td bgcolor=\"#FFFFFF\" valign=\"TOP\"><p align=\"CENTER\"><img alt=\"Fushë Kosova\" height=\"115\" src=\"images/fushe_kos.png\" width=\"115\"/></p></td>"
+    },
+    {
+      "alt": " KEK",
+      "title": null,
+      "src": "images/kek_kos.png",
+      "parent_text": "(R)",
+      "row_text": "(R) (R)",
+      "around": "<td align=\"center\" valign=\"TOP\">  <img alt=\" KEK\" height=\"115\" src=\"images/kek_kos.png\" width=\"113\"/><span class=\"style27\">(R)</span></td>"
+    },
+    {
+      "alt": "Kosova Pristina",
+      "title": null,
+      "src": "images/kosova_pris_kos.png",
+      "parent_text": "",
+      "row_text": "(R) (R)",
+      "around": "<td valign=\"TOP\"><p align=\"CENTER\"><img alt=\"Kosova Pristina\" height=\"115\" src=\"images/kosova_pris_kos.png\" width=\"108\"/></p></td>"
+    },
+    {
+      "alt": "Podujeva",
+      "title": null,
+      "src": "images/podujeva_kos.png",
+      "parent_text": "",
+      "row_text": "(R) (R)",
+      "around": "<td valign=\"TOP\"><div align=\"center\"><img alt=\"Podujeva\" height=\"115\" src=\"images/podujeva_kos.png\" width=\"116\"/></div></td>"
+    },
+    {
+      "alt": "Prizreni",
+      "title": null,
+      "src": "images/prizreni_kos.jpg",
+      "parent_text": "(R)",
+      "row_text": "(R) (R)",
+      "around": "<td valign=\"TOP\"><p align=\"CENTER\"><img alt=\"Prizreni\" height=\"115\" src=\"images/prizreni_kos.jpg\" width=\"115\"/><span class=\"style27\">(R)</span></p></td>"
+    },
+    {
+      "alt": "Rahoveci",
+      "title": null,
+      "src": "images/rahoveci_kos.png",
+      "parent_text": "",
+      "row_text": "",
+      "around": "<td valign=\"TOP\"><div align=\"center\"><img alt=\"Rahoveci\" height=\"115\" src=\"images/rahoveci_kos.png\" width=\"115\"/></div></td>"
+    },
+    {
+      "alt": "Rilindja",
+      "title": null,
+      "src": "images/rilindja_kos.png",
+      "parent_text": "",
+      "row_text": "",
+      "around": "<td valign=\"TOP\"><div align=\"center\"><img alt=\"Rilindja\" height=\"115\" src=\"images/rilindja_kos.png\" width=\"115\"/></div></td>"
+    },
+    {
+      "alt": "Sharri",
+      "title": null,
+      "src": "images/sharri_kos.png",
+      "parent_text": "",
+      "row_text": "",
+      "around": "<td valign=\"TOP\"><div align=\"center\"><img alt=\"Sharri\" height=\"115\" src=\"images/sharri_kos.png\" width=\"115\"/></div></td>"
+    },
+    {
+      "alt": "Top Football",
+      "title": null,
+      "src": "images/top_kos.png",
+      "parent_text": "",
+      "row_text": "",
+      "around": "<td valign=\"TOP\"><p align=\"CENTER\"><font color=\"#ffffff\"><img alt=\"Top Football\" height=\"115\" src=\"images/top_kos.png\" width=\"114\"/></font></p></td>"
+    },
+    {
+      "alt": "Ulpiana",
+      "title": null,
+      "src": "images/ulpiana_kos.png",
+      "parent_text": "",
+      "row_text": "",
+      "around": "<td valign=\"TOP\"><div align=\"center\"><img alt=\"Ulpiana\" height=\"115\" src=\"images/ulpiana_kos.png\" width=\"115\"/></div></td>"
+    },
+    {
+      "alt": "Vllaznia Pozheran",
+      "title": null,
+      "src": "images/vllaznia_kos.jpg",
+      "parent_text": "",
+      "row_text": "",
+      "around": "<td valign=\"TOP\"><div align=\"center\"><img alt=\"Vllaznia Pozheran\" height=\"115\" src=\"images/vllaznia_kos.jpg\" width=\"115\"/></div></td>"
+    },
+    {
+      "alt": "Mokra Gora",
+      "title": null,
+      "src": "images/mokra_ser.gif",
+      "parent_text": "",
+      "row_text": "",
+      "around": "<td valign=\"TOP\"><p align=\"CENTER\"><font color=\"#ffffff\"><img alt=\"Mokra Gora\" height=\"114\" src=\"images/mokra_ser.gif\" width=\"91\"/></font></p></td>"
+    },
+    {
+      "alt": "Trepca",
+      "title": null,
+      "src": "images/trepca_ser.png",
+      "parent_text": "",
+      "row_text": "",
+      "around": "<td valign=\"TOP\"><p align=\"CENTER\"><font color=\"#ffffff\"><img alt=\"Trepca\" height=\"115\" src=\"images/trepca_ser.png\" width=\"101\"/></font></p></td>"
+    },
+    {
+      "alt": "A&N Prizren",
+      "title": null,
+      "src": "images/a_n_kos.png",
+      "parent_text": "",
+      "row_text": "(R)",
+      "around": "<td valign=\"TOP\"><div align=\"center\"><img alt=\"A&amp;N Prizren\" height=\"115\" src=\"images/a_n_kos.png\" width=\"115\"/></div></td>"
+    },
+    {
+      "alt": "Australia",
+      "title": null,
+      "src": "images/australia_kos.png",
+      "parent_text": "",
+      "row_text": "(R)",
+      "around": "<td valign=\"TOP\"><div align=\"center\"><img alt=\"Australia\" height=\"115\" src=\"images/australia_kos.png\" width=\"115\"/></div></td>"
+    },
+    {
+      "alt": "Bashkimi",
+      "title": null,
+      "src": "images/bashkimi_kos.png",
+      "parent_text": "",
+      "row_text": "(R)",
+      "around": "<td valign=\"TOP\"><div align=\"center\"><img alt=\"Bashkimi\" height=\"115\" src=\"images/bashkimi_kos.png\" width=\"115\"/></div></td>"
+    },
+    {
+      "alt": "Behari",
+      "title": null,
+      "src": "images/behari_kos.png",
+      "parent_text": "(R)",
+      "row_text": "(R)",
+      "around": "<td valign=\"TOP\"><div align=\"center\"><img alt=\"Behari\" height=\"115\" src=\"images/behari_kos.png\" width=\"115\"/><span class=\"style27\">(R)</span></div></td>"
+    },
+    {
+      "alt": "Besiana",
+      "title": null,
+      "src": "images/besiana_kos.gif",
+      "parent_text": "",
+      "row_text": "(R)",
+      "around": "<td bgcolor=\"#FFFFFF\" valign=\"TOP\" width=\"168\"><p align=\"CENTER\"><img alt=\"Besiana\" height=\"115\" src=\"images/besiana_kos.gif\" width=\"115\"/></p></td>"
+    },
+    {
+      "alt": "Dardana",
+      "title": null,
+      "src": "images/dardana_kos.png",
+      "parent_text": "",
+      "row_text": "(R)",
+      "around": "<td valign=\"TOP\"><div align=\"center\"><img alt=\"Dardana\" height=\"115\" src=\"images/dardana_kos.png\" width=\"115\"/></div></td>"
+    },
+    {
+      "alt": "Dardanet",
+      "title": null,
+      "src": "images/dardanet_kos.png",
+      "parent_text": "",
+      "row_text": "(R)",
+      "around": "<td valign=\"TOP\"><div align=\"center\"><img alt=\"Dardanet\" height=\"115\" src=\"images/dardanet_kos.png\" width=\"115\"/></div></td>"
+    },
+    {
+      "alt": "Dielli",
+      "title": null,
+      "src": "images/dielli_kos.png",
+      "parent_text": "",
+      "row_text": "(R)",
+      "around": "<td valign=\"TOP\"><div align=\"center\"><img alt=\"Dielli\" height=\"115\" src=\"images/dielli_kos.png\" width=\"116\"/></div></td>"
+    },
+    {
+      "alt": "Drenasi",
+      "title": null,
+      "src": "images/drenasi_kos.png",
+      "parent_text": "",
+      "row_text": "(R)",
+      "around": "<td valign=\"TOP\"><div align=\"center\"><img alt=\"Drenasi\" height=\"115\" src=\"images/drenasi_kos.png\" width=\"115\"/></div></td>"
+    },
+    {
+      "alt": "Dukagjini",
+      "title": null,
+      "src": "images/dukagjinig_kos.png",
+      "parent_text": "(R)",
+      "row_text": "(R)",
+      "around": "<td valign=\"TOP\"><div align=\"center\"><img alt=\"Dukagjini\" height=\"115\" src=\"images/dukagjinig_kos.png\" width=\"115\"/><span class=\"style27\">(R)</span></div></td>"
+    },
+    {
+      "alt": "Dushkaja",
+      "title": null,
+      "src": "images/dushkaja_kos.png",
+      "parent_text": "",
+      "row_text": "",
+      "around": "<td valign=\"TOP\"><div align=\"center\"><img alt=\"Dushkaja\" height=\"115\" src=\"images/dushkaja_kos.png\" width=\"115\"/></div></td>"
+    },
+    {
+      "alt": "Fortuna 2000",
+      "title": null,
+      "src": "images/fortuna2000_kos.jpg",
+      "parent_text": "",
+      "row_text": "",
+      "around": "<td valign=\"TOP\"><div align=\"center\"><img alt=\"Fortuna 2000\" height=\"115\" src=\"images/fortuna2000_kos.jpg\" width=\"114\"/></div></td>"
+    },
+    {
+      "alt": "Galaksia",
+      "title": null,
+      "src": "images/galaksia_kos.png",
+      "parent_text": "",
+      "row_text": "",
+      "around": "<td valign=\"TOP\"><div align=\"center\"><img alt=\"Galaksia\" height=\"115\" src=\"images/galaksia_kos.png\" width=\"115\"/></div></td>"
+    },
+    {
+      "alt": "Gjakova",
+      "title": null,
+      "src": "images/gjakova_kos.png",
+      "parent_text": "",
+      "row_text": "",
+      "around": "<td valign=\"TOP\"><div align=\"center\"><img alt=\"Gjakova\" height=\"115\" src=\"images/gjakova_kos.png\" width=\"115\"/></div></td>"
+    },
+    {
+      "alt": "Hajvalia",
+      "title": null,
+      "src": "images/hajvalia_kos.jpg",
+      "parent_text": "",
+      "row_text": "",
+      "around": "<td bgcolor=\"#FFFFFF\" valign=\"TOP\" width=\"168\"><div align=\"center\"><img alt=\"Hajvalia\" height=\"117\" src=\"images/hajvalia_kos.jpg\" width=\"111\"/></div></td>"
+    },
+    {
+      "alt": "Hysi",
+      "title": null,
+      "src": "images/hysi_kos.gif",
+      "parent_text": "",
+      "row_text": "",
+      "around": "<td valign=\"TOP\"><p align=\"CENTER\"><img alt=\"Hysi\" height=\"115\" src=\"images/hysi_kos.gif\" width=\"78\"/> </p></td>"
+    },
+    {
+      "alt": "Kosova",
+      "title": null,
+      "src": "images/kosova_kos.gif",
+      "parent_text": "",
+      "row_text": "",
+      "around": "<td valign=\"TOP\"><p align=\"CENTER\"><img alt=\"Kosova\" height=\"114\" src=\"images/kosova_kos.gif\" width=\"90\"/></p></td>"
+    },
+    {
+      "alt": "Minatori",
+      "title": null,
+      "src": "images/minatori_kos.png",
+      "parent_text": "",
+      "row_text": "",
+      "around": "<td valign=\"TOP\"><div align=\"center\"><img alt=\"Minatori\" height=\"115\" src=\"images/minatori_kos.png\" width=\"115\"/></div></td>"
+    },
+    {
+      "alt": "Opoja",
+      "title": null,
+      "src": "images/opja_kos.png",
+      "parent_text": "",
+      "row_text": "",
+      "around": "<td valign=\"TOP\"><div align=\"center\"><img alt=\"Opoja\" height=\"115\" src=\"images/opja_kos.png\" width=\"116\"/></div></td>"
+    },
+    {
+      "alt": "Onix",
+      "title": null,
+      "src": "images/onix_kos.png",
+      "parent_text": "",
+      "row_text": "",
+      "around": "<td valign=\"TOP\"><div align=\"center\"><img alt=\"Onix\" height=\"115\" src=\"images/onix_kos.png\" width=\"115\"/></div></td>"
+    },
+    {
+      "alt": "Shkëndija\t",
+      "title": null,
+      "src": "images/shkendija_kos.png",
+      "parent_text": "",
+      "row_text": "(R)",
+      "around": "<td valign=\"TOP\"><p align=\"CENTER\"><img alt=\"Shkëndija\t\" height=\"115\" src=\"images/shkendija_kos.png\" width=\"77\"/></p></td>"
+    },
+    {
+      "alt": "Shqiponjat",
+      "title": null,
+      "src": "images/shqiponjat_kos.png",
+      "parent_text": "(R)",
+      "row_text": "(R)",
+      "around": "<td valign=\"TOP\"><div align=\"center\"><img alt=\"Shqiponjat\" height=\"115\" src=\"images/shqiponjat_kos.png\" width=\"116\"/><span class=\"style27\">(R)</span></div></td>"
+    },
+    {
+      "alt": "Vëllazeria",
+      "title": null,
+      "src": "images/vellaz_kos.png",
+      "parent_text": "",
+      "row_text": "(R)",
+      "around": "<td valign=\"TOP\"><div align=\"center\"><img alt=\"Vëllazeria\" height=\"115\" src=\"images/vellaz_kos.png\" width=\"115\"/></div></td>"
+    },
+    {
+      "alt": "Vitia",
+      "title": null,
+      "src": "images/vitia_kos.png",
+      "parent_text": "",
+      "row_text": "(R)",
+      "around": "<td valign=\"TOP\"><div align=\"center\"><img alt=\"Vitia\" height=\"115\" src=\"images/vitia_kos.png\" width=\"115\"/></div></td>"
+    }
+  ]
+}
