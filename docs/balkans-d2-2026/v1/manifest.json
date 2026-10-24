@@ -1,7 +1,7 @@
 {
   "expected": 64,
-  "published": 63,
-  "missing": 1,
+  "published": 64,
+  "missing": 0,
   "assets": [
     {
       "id": 1947271000001,
@@ -191,6 +191,16 @@
       "provenance": "Global Sports Archive photo from https://globalsportsarchive.com/en/soccer/team/fk-laktasi/34668/",
       "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d2-2026/v1/1947271000103.png",
       "sha256": "e7cd9a3f6a188152860792c2e51c00b6dcbd22ca37281c037868e7823f94d6dc",
+      "background": "#AFBDD4"
+    },
+    {
+      "id": 1947271000104,
+      "league": "BA_RS",
+      "name": "FK Majevica Lopare",
+      "source_url": "https://fsrs.org/files/comet/logo-kluba/7370.png",
+      "provenance": "Fudbalski savez Republike Srpske official league club logo: FK Majevica Lopare",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d2-2026/v1/1947271000104.png",
+      "sha256": "158ebdc68ea72109c24ac6c39bd42e7419d0bc90a7857c0508947a101c3115fd",
       "background": "#AFBDD4"
     },
     {
@@ -634,12 +644,5 @@
       "background": "#A2CBDC"
     }
   ],
-  "unresolved": [
-    {
-      "id": 1947271000104,
-      "league": "BA_RS",
-      "name": "FK Majevica Lopare",
-      "status": "NO_VERIFIED_IMAGE"
-    }
-  ]
+  "unresolved": []
 }
