@@ -29,6 +29,73 @@ CATEGORIES = (
     "Category:DJK-Sportverein",
 )
 
+# Manually reviewed aliases for file names that use a club's official longer
+# legal name, year of foundation, normalized transliteration, or local shorthand.
+# No approximate/fuzzy matches are ever applied automatically.
+CURATED_ALIASES = {
+    "1898200000026": "File:ESC Geestemünde logo.png",
+    "1898200000118": "File:Siegburger SV Logo.svg",
+    "1898200000119": "File:VfL 08 Vichttal Logo.svg",
+    "1898200000120": "File:SSV Merten 1925 Logo.png",
+    "1898200000150": "File:TSV Victoria Clarholz Logo.svg",
+    "1898200000186": "File:FC-Holzhausen (Logo, 2024).png",
+    "1898200000189": "File:FC 1931 Eddersheim Logo.svg",
+    "1898200000245": "File:1. FC Amberg.png",
+    "1898200000276": "File:Logo TSV Nbg Buch.png",
+    "1898200000313": "File:FC Sonthofen logo.png",
+    "1898200000331": "File:Arminia Ludwigshafen.gif",
+    "1898200000346": "File:VfR Baumholder logo.png",
+    "1898200000356": "File:SV Viktoria Goch Logo.svg",
+    "1898200000359": "File:VfB Speldorf.svg",
+    "1898200000374": "File:SC Kapellen-Erft.png",
+    "1898200000375": "File:DJK Neuss-Gnadental.png",
+    "1898200000390": "File:VfB Merseburg Logo.png",
+    "1898200000402": "File:Logo Deutz 05.svg",
+    "1898200000425": "File:SV Helpenstein Logo.png",
+    "1898200000427": "File:Union Schafhausen Logo.svg",
+    "1898200000429": "File:Sportfreunde Uevekoven Logo.svg",
+    "1898200000438": "File:FV 09 Schwalbach.png",
+    "1898200000442": "File:Spvgg Quierschied Wappen.png",
+    "1898200000443": "File:Sc reisbach logo.jpg",
+    "1898200000451": "File:BSG Stahl Brandenburg Logo 2022.svg",
+    "1898200000472": "File:VfB Fortuna Biesdorf Logo.png",
+    "1898200000500": "File:1. Suhler SV 06.svg",
+    "1898200000506": "File:FC Oberlausitz Neugersdorf.svg",
+    "1898200000519": "File:SuS Neuenkirchen Logo.png",
+    "1898200000546": "File:SG Finnentrop Bamenohl Logo.svg",
+    "1898200000559": "File:VfB Friedrichshafen logo.svg",
+    "1898200000560": "File:Calcio Leinfelden-Echterdingen (Logo).png",
+    "1898200000561": "File:FC-Rottenburg Vereinswappen.svg",
+    "1898200000562": "File:SKV Rutesheim emblem.svg",
+    "1898200000580": "File:FC Denzlingen Wappen.png",
+    "1898200000602": "File:MSV Pampow Logo.png",
+    "1898200000620": "File:OSC Vellmar.gif",
+    "1898200000629": "File:SC Waldgirmes.svg",
+    "1898200000633": "File:Wappen FV Biebrich 02.png",
+    "1898200000660": "File:SpVgg 03 Neu-Isenburg Logo.gif",
+    "1898200000678": "File:Germania Schnelsen Logo.png",
+    "1898200000692": "File:Meiendorfer SV 1949.gif",
+    "1898200000727": "File:Offizielles Wappen des 1. SC Göttingen 05.svg",
+    "1898200000737": "File:SVG Göttingen Logo.png",
+    "1898200000756": "File:SG 74 Hannover logo.svg",
+    "1898200000761": "File:SV Ahlerstedt-Ottendorf.gif",
+    "1898200000774": "File:Sv eintracht nordhorn.svg",
+    "1898200000821": "File:VfB Linz Logo.svg",
+    "1898200000404": "File:SSV Homburg-Nuembrecht Logo.png",
+    "1898200000504": "File:FV-Dresden-06-Laubegast2.gif",
+    "1898200000129": "File:FSV Neunkirchen-Seelscheid Logo.svg",
+    "1898200000337": "File:Eintracht Bad Kreuznach logo.svg",
+    "1898200000059": "File:Schwarz-Weiß Rehden.svg",
+    "1898200000306": "File:Wappen des SV Planegg-Krailling e.V..png",
+    "1898200000022": "File:BTS Neustadt hochauflösendes Logo.png",
+    "1898200000228": "File:Pfaffenhofen-Ilm FSV 1919.jpg",
+    "1898200000348": "File:ASV Einigkeit Süchteln.gif",
+    "1898200000492": "File:SV Blau-Weiß 91 Bad Frankenhausen logo.png",
+    "1898200000664": "File:Logo Alsterbrüder, Hamburg.png",
+    "1898200000699": "File:Wappen der SGG Rot-Schwarz Kiel.gif",
+    "1898200000066": "File:VfV Hildesheim Logo.svg",
+}
+
 
 def fetch_titles(category):
     titles = set()
@@ -132,6 +199,9 @@ def main():
     matches = []
     for row in teams:
         found = [title for title in titles if tolerant_exact(row["club"], title)]
+        alias = CURATED_ALIASES.get(row["teamId"])
+        if alias in titles and alias not in found:
+            found.append(alias)
         if found:
             matches.append({**row, "candidate_titles": sorted(found)})
     print("Exact club name matches:", len(matches), flush=True)
