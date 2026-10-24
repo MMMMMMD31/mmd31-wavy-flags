@@ -1,0 +1,29 @@
+name: MMD31 CGE3 stage2 remaining 4 LI crests and federation logos
+on:
+  push:
+    branches: [mmd31-cge3-suisse-autriche-sanmarin-20261024]
+    paths:
+      - 'scripts/cge3/stage2_liechtenstein_and_logos.py'
+      - '.github/workflows/cge3-stage2-finish-images.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.11'}
+      - run: python -m pip install pillow requests beautifulsoup4
+      - run: python scripts/cge3/stage2_liechtenstein_and_logos.py
+      - name: Commit authentic remaining crests and actual federation logos
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add flags/clubs/standard/cge3-europe-2026-27 flags/competition/cge3-europe-2026-27 audit/cge3-europe-2026-27/stage2_badge_and_federation_completion.json
+          git commit -m "CGE3 recover LI club crests and publish cup federation logos"
+          git pull --rebase origin "$GITHUB_REF_NAME"
+          git push origin "HEAD:refs/heads/$GITHUB_REF_NAME"
