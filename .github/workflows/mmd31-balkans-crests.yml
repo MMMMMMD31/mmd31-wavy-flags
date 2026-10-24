@@ -1,0 +1,34 @@
+name: Generate real Balkan top-tier club crest flags
+on:
+  push:
+    branches:
+      - mmd31-balkans-d1-2026-test
+    paths:
+      - tools/mmd31_generate_balkans_d1_2026.py
+      - .github/workflows/mmd31-balkans-crests.yml
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 18
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install requests pillow cairosvg
+      - name: Verify and render source club logos 120x96
+        run: python tools/mmd31_generate_balkans_d1_2026.py
+      - name: Commit images and image audit manifest
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/balkans-d1-2026/v1/
+          if ! git diff --cached --quiet; then
+            git commit -m "Publish authentic Bosnian Serbian Kosovo crests"
+            git push origin HEAD:refs/heads/$GITHUB_REF_NAME
+          fi
