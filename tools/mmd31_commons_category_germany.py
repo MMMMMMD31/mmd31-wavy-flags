@@ -69,7 +69,7 @@ def image_metadata(item):
         if not url.startswith("https://upload.wikimedia.org/"):
             continue
         if info.get("mime") not in ("image/svg+xml", "image/png",
-                                   "image/jpeg", "image/webp"):
+                                   "image/jpeg", "image/webp", "image/gif"):
             continue
         ext = info.get("extmetadata", {})
         pics.append({
