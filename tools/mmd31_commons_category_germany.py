@@ -24,6 +24,9 @@ SOURCE_CSV = Path("tools/mmd31_remaining_germany_692.csv")
 CATEGORIES = (
     "Category:Association football logos of Germany",
     "Category:SVG association football logos of Germany",
+    "Category:Logos of sports clubs in Germany",
+    "Category:SVG sports logos of Germany",
+    "Category:DJK-Sportverein",
 )
 
 
