@@ -1,35 +1,33 @@
 {
-  "published": 64,
+  "published": 73,
   "original_missing": 692,
-  "remaining": 628,
+  "remaining": 619,
   "errors": [
     {
       "club": "FC Eddersheim",
       "problem": "unavailable or oversized"
     },
     {
-      "club": "1. FC Normannia Gmünd",
+      "club": "FC Teningen",
       "problem": "unavailable or oversized"
     },
     {
-      "club": "TuS Mechtersheim",
+      "club": "SV Eichede",
       "problem": "unavailable or oversized"
     },
     {
-      "club": "SC Staaken",
+      "club": "FC Wacker München",
       "problem": "unavailable or oversized"
     },
     {
-      "club": "HSV Barmbek-Uhlenhorst II",
+      "club": "SV Arminia Hannover",
       "problem": "unavailable or oversized"
     },
     {
-      "club": "SV 09 Arnstadt",
-      "problem": "unavailable or oversized"
-    },
-    {
-      "club": "Türkspor Dortmund",
+      "club": "SV Alemannia Waldalgesheim",
       "problem": "unavailable or oversized"
     }
-  ]
+  ],
+  "commons_exact_added": 10,
+  "commons_checked": 629
 }
