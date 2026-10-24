@@ -190,5 +190,165 @@
       78
     ],
     "sha256": "aaa599c0cb315fefa554f1d27b9941754bde82429086af5d144abd36a636c56b"
+  },
+  {
+    "teamId": "1898200000096",
+    "club": "1. FC Frankfurt (Oder)",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/12/Logo_1._FC_Frankfurt_%28Oder%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_type": "commons_german_football_category",
+    "commons_file": "File:Logo 1. FC Frankfurt (Oder).svg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Logo_1._FC_Frankfurt_(Oder).svg",
+    "license": "Public domain",
+    "png_path": "docs/german-clubs-2026-27/commons-category-20261024/1898200000096.png",
+    "background_rgb": [
+      243,
+      78,
+      78
+    ],
+    "sha256": "c158c4fe16a1ab87f262bd6bf4aff1c51002a8242da2f900b4563667ded93b78"
+  },
+  {
+    "teamId": "1898200000090",
+    "club": "VfL Halle 1896",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/62/VfL_Halle_1896_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_type": "commons_german_football_category",
+    "commons_file": "File:VfL Halle 1896 logo.svg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:VfL_Halle_1896_logo.svg",
+    "license": "Public domain",
+    "png_path": "docs/german-clubs-2026-27/commons-category-20261024/1898200000090.png",
+    "background_rgb": [
+      101,
+      149,
+      196
+    ],
+    "sha256": "e9f10a4464b726040cae9db7b91bb15e5c3d496d235a0b4b2484b085bd13897a"
+  },
+  {
+    "teamId": "1898200000181",
+    "club": "1. FC Normannia Gmünd",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/d9/1._FC_Normannia_Gm%C3%BCnd.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_type": "commons_german_football_category",
+    "commons_file": "File:1. FC Normannia Gmünd.svg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:1._FC_Normannia_Gmünd.svg",
+    "license": "Public domain",
+    "png_path": "docs/german-clubs-2026-27/commons-category-20261024/1898200000181.png",
+    "background_rgb": [
+      220,
+      101,
+      78
+    ],
+    "sha256": "d3b2b5e9df51d775761ed2f6f26063f181369d1242722eb43dfcdce252592bd6"
+  },
+  {
+    "teamId": "1898200000174",
+    "club": "TSV Essingen",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/f1/TSV_Essingen_%28Logo%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_type": "commons_german_football_category",
+    "commons_file": "File:TSV Essingen (Logo).svg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:TSV_Essingen_(Logo).svg",
+    "license": "Public domain",
+    "png_path": "docs/german-clubs-2026-27/commons-category-20261024/1898200000174.png",
+    "background_rgb": [
+      101,
+      125,
+      172
+    ],
+    "sha256": "98b14c15b8c088f1436597c0202902927eff119fbd218d8172af875cb2c68baa"
+  },
+  {
+    "teamId": "1898200000042",
+    "club": "Niendorfer TSV",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/84/Niendorfer_TSV_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_type": "commons_german_football_category",
+    "commons_file": "File:Niendorfer TSV logo.svg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Niendorfer_TSV_logo.svg",
+    "license": "Public domain",
+    "png_path": "docs/german-clubs-2026-27/commons-category-20261024/1898200000042.png",
+    "background_rgb": [
+      78,
+      149,
+      196
+    ],
+    "sha256": "e5d14b593d7d7bc8e5b9e8d8633922e75ef44d4da284c1c919c0521c0e2ffb9e"
+  },
+  {
+    "teamId": "1898200000045",
+    "club": "TSV Buchholz 08",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/0f/TSV_Buchholz_08-Logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_type": "commons_german_football_category",
+    "commons_file": "File:TSV Buchholz 08-Logo.svg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:TSV_Buchholz_08-Logo.svg",
+    "license": "Public domain",
+    "png_path": "docs/german-clubs-2026-27/commons-category-20261024/1898200000045.png",
+    "background_rgb": [
+      243,
+      78,
+      101
+    ],
+    "sha256": "fc58f1f81d5c5563f302699aae3cf26647849a6123fd0b49a387a858cf69924c"
+  },
+  {
+    "teamId": "1898200000110",
+    "club": "ETB Schwarz-Weiß Essen",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/ce/ETB_Schwarz-Weiss_Essen_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_type": "commons_german_football_category",
+    "commons_file": "File:ETB Schwarz-Weiss Essen Logo.png",
+    "source_page": "https://commons.wikimedia.org/wiki/File:ETB_Schwarz-Weiss_Essen_Logo.png",
+    "license": "CC BY-SA 3.0",
+    "png_path": "docs/german-clubs-2026-27/commons-category-20261024/1898200000110.png",
+    "background_rgb": [
+      102,
+      119,
+      148
+    ],
+    "sha256": "2e6bcaf3228d494f409f4130a555ceb082465dbb922d401eba8ce9755bbd635b"
+  },
+  {
+    "teamId": "1898200000102",
+    "club": "Ratingen 04/19",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/17/Ratingen_04-19.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_type": "commons_german_football_category",
+    "commons_file": "File:Ratingen 04-19.gif",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Ratingen_04-19.gif",
+    "license": "Public domain",
+    "png_path": "docs/german-clubs-2026-27/commons-category-20261024/1898200000102.png",
+    "background_rgb": [
+      243,
+      243,
+      78
+    ],
+    "sha256": "295ec1d9de80a00ac944644615fa86a74ea26cccf52b67f8f2f3c4c94fb5fe9f"
+  },
+  {
+    "teamId": "1898200000104",
+    "club": "SpVg Schonnebeck",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Logo_SPVG_Schonnebeck.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_type": "commons_german_football_category",
+    "commons_file": "File:Logo SPVG Schonnebeck.svg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Logo_SPVG_Schonnebeck.svg",
+    "license": "Public domain",
+    "png_path": "docs/german-clubs-2026-27/commons-category-20261024/1898200000104.png",
+    "background_rgb": [
+      101,
+      125,
+      101
+    ],
+    "sha256": "770a6946e72a3deabe30fad2eb13589801e4085150ae65e6e1b772af754a3246"
+  },
+  {
+    "teamId": "1898200000055",
+    "club": "Heeslinger SC",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/43/Heeslinger_SC_logo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_type": "commons_german_football_category",
+    "commons_file": "File:Heeslinger SC logo.png",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Heeslinger_SC_logo.png",
+    "license": "Public domain",
+    "png_path": "docs/german-clubs-2026-27/commons-category-20261024/1898200000055.png",
+    "background_rgb": [
+      78,
+      149,
+      101
+    ],
+    "sha256": "fb39d27a846ea0072711c632c0840cf6d2630ee1956cc46b8c354a0d63396ae2"
   }
 ]
