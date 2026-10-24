@@ -1,0 +1,26 @@
+{
+  "knvb": {
+    "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/netherlands/KNVB.svg",
+    "source_width": 364,
+    "source_height": 490,
+    "published_path": "docs/nl-andorra-competition-logos/v1/knvb.png",
+    "resolution": [
+      512,
+      512
+    ],
+    "result": "ok",
+    "organization": "KNVB"
+  },
+  "faf": {
+    "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/andorra/Andorra_National_Team.svg",
+    "source_width": 454,
+    "source_height": 490,
+    "published_path": "docs/nl-andorra-competition-logos/v1/faf.png",
+    "resolution": [
+      512,
+      512
+    ],
+    "result": "ok",
+    "organization": "Federació Andorrana de Futbol (badge used for national team)"
+  }
+}
