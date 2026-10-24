@@ -5,7 +5,12 @@
     "source_type": "jose_verified",
     "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/FC_Gundelfingen.svg",
     "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000223.png",
-    "sha256": "3328e2dded838a706a989f4984c94d00a4667508328d1b999f2f56948e542d1a"
+    "sha256": "49da2585cbb6478d7fc9b0d126551217f93e7c2a424c29ddbc63fa15c487f23a",
+    "background_rgb": [
+      102,
+      119,
+      148
+    ]
   },
   {
     "teamId": "1898200000199",
@@ -13,7 +18,12 @@
     "source_type": "jose_verified",
     "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/FSV_1926_Fernwald.svg",
     "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000199.png",
-    "sha256": "704dd96c150ff2f8fc31bc316b4b0abce5978367f1d1f8ef63e3894da0542f3b"
+    "sha256": "5199ff2d76e47178066d90127fa240d8e727be5505f4568f0f94903c166c208d",
+    "background_rgb": [
+      243,
+      243,
+      78
+    ]
   },
   {
     "teamId": "1898200000101",
@@ -21,7 +31,12 @@
     "source_type": "jose_verified",
     "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/SSVg_Velbert_02.svg",
     "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000101.png",
-    "sha256": "f8b85bb532f2efd0096dd951c0a8cde98bca1e3b2500801cb0b2a34e1844ab6b"
+    "sha256": "f1ebac018ed46d25b997bdc18476ee7af48c23fffe9b66fd488346d1389f6773",
+    "background_rgb": [
+      78,
+      172,
+      220
+    ]
   },
   {
     "teamId": "1898200000241",
@@ -29,7 +44,12 @@
     "source_type": "jose_verified",
     "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/1._FC_Passau.svg",
     "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000241.png",
-    "sha256": "3478982c47160f3f2c5c7c98932d46d70852d28a21c662c392b99a21feb97a4c"
+    "sha256": "6cfe5ef1706ab6401e5f62430b091e8b166c14c1890bdf6a5c9945f995e8ba7f",
+    "background_rgb": [
+      243,
+      78,
+      101
+    ]
   },
   {
     "teamId": "1898200000513",
@@ -37,7 +57,12 @@
     "source_type": "jose_verified",
     "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/germany/Dresdner_SC.svg",
     "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000513.png",
-    "sha256": "bbe301185b8a7a5adb656b41a1794c7d5719b25cc5fe176737daf58736a34097"
+    "sha256": "37517c04bb67b69bcf44e02810914be44321ac496d2a592b595f3529819e73e4",
+    "background_rgb": [
+      196,
+      78,
+      78
+    ]
   },
   {
     "teamId": "1898200000208",
@@ -46,7 +71,12 @@
     "wikidata": "Q1153961",
     "source_type": "wikidata_verified",
     "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000208.png",
-    "sha256": "c6d0f19184da22955d9c9afe1264dbe02b2ba7c8dfaa8a5f55017608133884d8"
+    "sha256": "3517a1204e215315945ed1cb05703776fbb88e2c8b65953a21f58290d5759eff",
+    "background_rgb": [
+      78,
+      149,
+      125
+    ]
   },
   {
     "teamId": "1898200000216",
@@ -55,7 +85,12 @@
     "wikidata": "Q665977",
     "source_type": "wikidata_verified",
     "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000216.png",
-    "sha256": "7b918787c3b6b443ab6d4a7b2192f6999de2ad752db31a07017145be2381f762"
+    "sha256": "cf12529102c9bcb4370205812ed8838875d515cac9d96f0d207f4682edfe4673",
+    "background_rgb": [
+      243,
+      243,
+      78
+    ]
   },
   {
     "teamId": "1898200000217",
@@ -64,7 +99,12 @@
     "wikidata": "Q15848066",
     "source_type": "wikidata_verified",
     "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000217.png",
-    "sha256": "948c657929d1eb67d56309a9e750513ac0c26265d693d44f7d7327991d6f714f"
+    "sha256": "66d9053d9b03b492bfc093233ce0efa43a0c211f9bca51ce78193a57b365b2c2",
+    "background_rgb": [
+      125,
+      196,
+      243
+    ]
   },
   {
     "teamId": "1898200000222",
@@ -73,7 +113,12 @@
     "wikidata": "Q566187",
     "source_type": "wikidata_verified",
     "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000222.png",
-    "sha256": "f4a3d84349818f87f54771596eb99fd1e3c72f9b5e05e6c2441437209df97fb8"
+    "sha256": "ae885f60890f52abbc85bd40350d8852561bb92a427c197be0000ae5e68ba96b",
+    "background_rgb": [
+      101,
+      125,
+      196
+    ]
   },
   {
     "teamId": "1898200000226",
@@ -82,7 +127,12 @@
     "wikidata": "Q13634402",
     "source_type": "wikidata_verified",
     "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000226.png",
-    "sha256": "edf5278ede1e1ddbfc35a84e7e2206d895f3485dfe0aa837b39fa9d659814903"
+    "sha256": "c3fc0b927d68fb5a76c455267422fc65210cb2a07bb5dfad76fe97a7b5ff5c05",
+    "background_rgb": [
+      78,
+      101,
+      196
+    ]
   },
   {
     "teamId": "1898200000231",
@@ -91,7 +141,12 @@
     "wikidata": "Q19958315",
     "source_type": "wikidata_verified",
     "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000231.png",
-    "sha256": "233b91746575e8cd3cd6c7475118e33f236163ef7c916b23a8a1a749ce298222"
+    "sha256": "487521a30676482488a7a61f5237dbb38cbabac2d9884394090ac11a3d5cf2a8",
+    "background_rgb": [
+      243,
+      243,
+      101
+    ]
   },
   {
     "teamId": "1898200000234",
@@ -100,7 +155,12 @@
     "wikidata": "Q112528",
     "source_type": "wikidata_verified",
     "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000234.png",
-    "sha256": "bd5991f1fd290d215ed5e31bf5a6e625f3c5a5343887bcc12a0ba4b31cef0818"
+    "sha256": "6f1db7fcdc01562885ad5ef63cae90733c64d8cb6a32f81aa545aec4e830ba11",
+    "background_rgb": [
+      102,
+      119,
+      148
+    ]
   },
   {
     "teamId": "1898200000017",
@@ -109,7 +169,12 @@
     "wikidata": "Q537188",
     "source_type": "wikidata_verified",
     "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000017.png",
-    "sha256": "a9169a94bc4ebfb4e888cada816c4bf3fce1fd45dab12178e639c70f4f9406f2"
+    "sha256": "b413ec1a5098a976ddc849aad06c4f27e861728f9c21abb8bb605efd75560550",
+    "background_rgb": [
+      243,
+      78,
+      78
+    ]
   },
   {
     "teamId": "1898200000025",
@@ -118,7 +183,12 @@
     "wikidata": "Q782387",
     "source_type": "wikidata_verified",
     "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000025.png",
-    "sha256": "a3cbfd38ace9531bddf6de96e82e5d6648eccc8189c7d7e6b7eed72dd7561aca"
+    "sha256": "293e6da3369490a1f7f078c3b3ef4ab54691654b2702a6625657dd76e7e4c69f",
+    "background_rgb": [
+      196,
+      78,
+      78
+    ]
   },
   {
     "teamId": "1898200000023",
@@ -127,7 +197,12 @@
     "wikidata": "Q1387777",
     "source_type": "wikidata_verified",
     "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000023.png",
-    "sha256": "1aa794842d10347ace55099788f3e1420e94cf78273beb24cbf9f447891c47c1"
+    "sha256": "29e4c5ca00b83f1fce213e0ffe7d58c95e264c32d9c8e73bad3a25efa04cf7f8",
+    "background_rgb": [
+      220,
+      101,
+      101
+    ]
   },
   {
     "teamId": "1898200000191",
@@ -145,7 +220,12 @@
     "wikidata": "Q113698",
     "source_type": "wikidata_verified",
     "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000132.png",
-    "sha256": "0fdc2d9773ccc09d60b40270ddcc9fd92730e385990f2533ea6747ab1daca989"
+    "sha256": "e97ee66e6de593b3d3c43c4a94e41d0d80091aba076801361d1bf9b6e3493473",
+    "background_rgb": [
+      196,
+      101,
+      101
+    ]
   },
   {
     "teamId": "1898200000121",
@@ -154,7 +234,12 @@
     "wikidata": "Q1387871",
     "source_type": "wikidata_verified",
     "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000121.png",
-    "sha256": "f95fe2fb7f3aadfdb6f055a9df856e2c9dda9accffd005e72c96d7882345cf0b"
+    "sha256": "bb3072b2b18c63ee5e92449953ec3d4622671b45680e2babe20859eb8f014705",
+    "background_rgb": [
+      220,
+      78,
+      78
+    ]
   },
   {
     "teamId": "1898200000082",
@@ -163,7 +248,12 @@
     "wikidata": "Q693383",
     "source_type": "wikidata_verified",
     "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000082.png",
-    "sha256": "122dcdce91e42b4904793c1aefe4d7082fd127da38e2a56132369c751800a493"
+    "sha256": "8ea76b8352724374b808cf383e24e4d1cc28c4b0b041bc94a662e8639b66bf29",
+    "background_rgb": [
+      172,
+      78,
+      78
+    ]
   },
   {
     "teamId": "1898200000081",
@@ -172,7 +262,12 @@
     "wikidata": "Q656960",
     "source_type": "wikidata_verified",
     "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000081.png",
-    "sha256": "7a762f744fe36060466e150decbe3389f1b14d26a0466954fe3b2fa7ef44999f"
+    "sha256": "3ae10fdd36d8522df5a3e0e45755a9c43a4ba238063aa63f71581bf6f13bfa4f",
+    "background_rgb": [
+      101,
+      125,
+      78
+    ]
   },
   {
     "teamId": "1898200000070",
@@ -181,7 +276,12 @@
     "wikidata": "Q176168",
     "source_type": "wikidata_verified",
     "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000070.png",
-    "sha256": "99e0cbdef68596dd1b05748f0b1c37422df83e933220bb57ab3821e2a3519d9b"
+    "sha256": "59b08cd2b0979dc320dd7ba29e17fa6e64773a4b9c7aa52269a71b6156238928",
+    "background_rgb": [
+      78,
+      172,
+      220
+    ]
   },
   {
     "teamId": "1898200000078",
@@ -190,7 +290,12 @@
     "wikidata": "Q639560",
     "source_type": "wikidata_verified",
     "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000078.png",
-    "sha256": "46ee4d985e356ff132b4661621a873cf69931d8cb4684cb88585c6d58160c729"
+    "sha256": "7630e2c256456f25f74d1686abcc1c989bf9574642255c22eb38ce67b62fd3d3",
+    "background_rgb": [
+      125,
+      78,
+      149
+    ]
   },
   {
     "teamId": "1898200000074",
@@ -199,7 +304,12 @@
     "wikidata": "Q476929",
     "source_type": "wikidata_verified",
     "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000074.png",
-    "sha256": "faf6e57ba319e7ea1505b8e7a95f77d9045dcc812faa1b5a051015b6d5aaf021"
+    "sha256": "b465e4b5687855e807442c69f28060b13092881439fe4e8751d098dd067cd54d",
+    "background_rgb": [
+      125,
+      149,
+      220
+    ]
   },
   {
     "teamId": "1898200000172",
@@ -217,7 +327,12 @@
     "wikidata": "Q1387714",
     "source_type": "wikidata_verified",
     "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000184.png",
-    "sha256": "b09d606873fb9abc14612b0dda350770cb34470ac0950cab16c421170282ce6f"
+    "sha256": "d898c64e69a25dcd0eabf70dcae3a66f19e352351464f0cbd77a4f9cdebe190b",
+    "background_rgb": [
+      149,
+      78,
+      78
+    ]
   },
   {
     "teamId": "1898200000177",
@@ -226,7 +341,12 @@
     "wikidata": "Q819367",
     "source_type": "wikidata_verified",
     "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000177.png",
-    "sha256": "4230b2c976648b21aefea4f022498f2a8fa46d1b046c48a019ba54641d069824"
+    "sha256": "a4c270f23fb675aee5385c6411fc3d05d92febdc18e99c1d1b67b7cffe4fea27",
+    "background_rgb": [
+      220,
+      78,
+      78
+    ]
   },
   {
     "teamId": "1898200000041",
@@ -235,7 +355,12 @@
     "wikidata": "Q17321578",
     "source_type": "wikidata_verified",
     "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000041.png",
-    "sha256": "6b98d4bb5f2b78d4fc13c0a92522dfca567a29c08f1dd70e8ba9addbca60d115"
+    "sha256": "022afdb6bd3be248cb0369929c34fc81fcfdc0038d480386605be03a85154cb9",
+    "background_rgb": [
+      101,
+      125,
+      172
+    ]
   },
   {
     "teamId": "1898200000109",
@@ -244,7 +369,12 @@
     "wikidata": "Q764358",
     "source_type": "wikidata_verified",
     "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000109.png",
-    "sha256": "85982c51fa9f57d7ee8b0aad6982370e115fedf567ec585b9826a3fef3ee9026"
+    "sha256": "d3192e15e07a8034c44d93151fbc65a3f95f94054a4b31572ccef0364d927295",
+    "background_rgb": [
+      101,
+      78,
+      149
+    ]
   },
   {
     "teamId": "1898200000157",
@@ -253,7 +383,12 @@
     "wikidata": "Q107406697",
     "source_type": "wikidata_verified",
     "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000157.png",
-    "sha256": "9722b18aacad3df4a4732492b8d6db785a83d849e78ca0bdc549ec2454f88fe7"
+    "sha256": "c389f0a7f5defab874d8df653d1cd252950275cd204ade5f75d5cdb3a7f48af8",
+    "background_rgb": [
+      220,
+      78,
+      78
+    ]
   },
   {
     "teamId": "1898200000156",
@@ -262,7 +397,12 @@
     "wikidata": "Q566242",
     "source_type": "wikidata_verified",
     "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000156.png",
-    "sha256": "34898ffa53b8db75d16f901da247f6401047430831897f2f5c9394e01ed7caa7"
+    "sha256": "503c52f01d570b1462c72eeb91bedd29bf9bfece575fd9bc1722b53e82ba56ff",
+    "background_rgb": [
+      101,
+      172,
+      125
+    ]
   },
   {
     "teamId": "1898200000163",
@@ -271,7 +411,12 @@
     "wikidata": "Q2374021",
     "source_type": "wikidata_verified",
     "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000163.png",
-    "sha256": "a3d195b6aad4bf6e61a984b6c12c82032b646e7026a4a0d96c016db5db275a77"
+    "sha256": "464c3945c8c9735e5f419df0d62f204dd75d700eea3614601a391eeb0a4448a1",
+    "background_rgb": [
+      78,
+      196,
+      125
+    ]
   },
   {
     "teamId": "1898200000155",
@@ -289,7 +434,12 @@
     "wikidata": "Q566161",
     "source_type": "wikidata_verified",
     "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000006.png",
-    "sha256": "3f71f3aeed45455b26b20bc49653419ad99a7fcf188983b4700dd1c1b7d928c5"
+    "sha256": "98b7a3398c2fc225f566587c2137ae80aed4b2c1cbbf4338cfdd297320f6e801",
+    "background_rgb": [
+      102,
+      119,
+      148
+    ]
   },
   {
     "teamId": "1898200000004",
@@ -298,7 +448,12 @@
     "wikidata": "Q2208389",
     "source_type": "wikidata_verified",
     "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000004.png",
-    "sha256": "f3dc44cd6a79d8875fe2805a773fa7a3c3e9e585abac16a9bf17f54267679a66"
+    "sha256": "0ffe34b149965a78986752151d14fbf4014825436e70e1a3f1adef3815446e1c",
+    "background_rgb": [
+      220,
+      78,
+      78
+    ]
   },
   {
     "teamId": "1898200000142",
@@ -307,7 +462,12 @@
     "wikidata": "Q479265",
     "source_type": "wikidata_verified",
     "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000142.png",
-    "sha256": "d7b01d41d99d6e4a9102fabab3f607b66c200652f990a4e8b3fcc3557ded4bcb"
+    "sha256": "e023936db5f7768e1e3d0fa8cad52ef2fe4436808c5407c2e3fcf363af113e48",
+    "background_rgb": [
+      243,
+      101,
+      101
+    ]
   },
   {
     "teamId": "1898200000145",
@@ -316,7 +476,12 @@
     "wikidata": "Q566145",
     "source_type": "wikidata_verified",
     "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000145.png",
-    "sha256": "7d9add6d37cabf98ca69f9b0181f91f85587be512e979c30383c0b9355b53a9b"
+    "sha256": "d2c4c7caf818b6098105656c59e9cc21f19a086a15e42080a90ae701ff52e403",
+    "background_rgb": [
+      243,
+      125,
+      101
+    ]
   },
   {
     "teamId": "1898200000481",
@@ -325,7 +490,12 @@
     "wikidata": "Q162423",
     "source_type": "wikidata_verified",
     "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000481.png",
-    "sha256": "85d946a92340851e913cea3d7610a9bf86bf73a1d1211179596e0d5b386a45d1"
+    "sha256": "c2081fb896f5a26c5c6b53f675107fbe55ba23c186ae79cd4da1cf74e7d8a586",
+    "background_rgb": [
+      220,
+      78,
+      78
+    ]
   },
   {
     "teamId": "1898200000483",
@@ -334,7 +504,12 @@
     "wikidata": "Q323858",
     "source_type": "wikidata_verified",
     "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000483.png",
-    "sha256": "5f4078243e93bbbdfd4ade585d55dc8330aefbb58cc733eab51343d1fc3f191e"
+    "sha256": "e7e9f3969d18066a4d7dffa3e142d581ff88280362dfbf65387aa9f06ccb83a8",
+    "background_rgb": [
+      243,
+      220,
+      78
+    ]
   },
   {
     "teamId": "1898200000474",
@@ -343,7 +518,12 @@
     "wikidata": "Q882317",
     "source_type": "wikidata_verified",
     "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000474.png",
-    "sha256": "4cd71841c5b35639fbfc11c660306104cbaeea2241135b8213b17e5e89a6bc85"
+    "sha256": "6a6c15b777e9b600ba14172cf5be772ce04856740f721d1cc0702629dcb6996f",
+    "background_rgb": [
+      101,
+      125,
+      196
+    ]
   },
   {
     "teamId": "1898200000473",
@@ -361,7 +541,12 @@
     "wikidata": "Q162205",
     "source_type": "wikidata_verified",
     "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000242.png",
-    "sha256": "0d20dde269ff2df85864c50bade9684553a8cdf28867bb06e1307455b8b07546"
+    "sha256": "e64e662612f11544bc759b06247e984307b42d1397c4ec61ba2cdc5c9e07ac78",
+    "background_rgb": [
+      243,
+      78,
+      78
+    ]
   },
   {
     "teamId": "1898200000269",
@@ -370,7 +555,12 @@
     "wikidata": "Q879389",
     "source_type": "wikidata_verified",
     "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000269.png",
-    "sha256": "a289e9e2b8fb504f6481dbfb5630f43cb7018807f6d88165a381036afa3c3756"
+    "sha256": "bb21621ebcb017cd3709d306d2a0367c6b81070c39ba76d6fb5c541e2896b9ec",
+    "background_rgb": [
+      78,
+      101,
+      125
+    ]
   },
   {
     "teamId": "1898200000271",
@@ -379,7 +569,12 @@
     "wikidata": "Q746114",
     "source_type": "wikidata_verified",
     "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000271.png",
-    "sha256": "e1c72167bed67af53b345df41cac7ca182d838a40192057329fdc919eb281399"
+    "sha256": "a7ec9e4b105186ca58a5f0b938aaad4d6b1e2b81d1f4f3697c1c274eeeeb67f3",
+    "background_rgb": [
+      78,
+      78,
+      243
+    ]
   },
   {
     "teamId": "1898200000298",
@@ -388,7 +583,12 @@
     "wikidata": "Q1387794",
     "source_type": "wikidata_verified",
     "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000298.png",
-    "sha256": "08c239a9520bdea547680095c1a7490805b334fc6fbc882efdecdd0ecefcc134"
+    "sha256": "27ae694e044c241fc9fa9d9e4f49651fb9397fd217536a57a56574380e1c9519",
+    "background_rgb": [
+      243,
+      220,
+      101
+    ]
   },
   {
     "teamId": "1898200000299",
@@ -397,7 +597,12 @@
     "wikidata": "Q681889",
     "source_type": "wikidata_verified",
     "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000299.png",
-    "sha256": "00a2c7bc825f50dcc460e3ff241a653df3c87086b80c1b6e18dfe4173b6b4faa"
+    "sha256": "f73159da1a27ad45a98330bc3d849cf5064e700947eebb2ed0301a80ede5450a",
+    "background_rgb": [
+      101,
+      125,
+      172
+    ]
   },
   {
     "teamId": "1898200000800",
@@ -406,7 +611,12 @@
     "wikidata": "Q162207",
     "source_type": "wikidata_verified",
     "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000800.png",
-    "sha256": "e8b869df4fe72c6f1f52c646cab6c48dd6191cb33fa0c05cd943ca748ae3b945"
+    "sha256": "63457f3f42c29d305f9d1c1a825401f9a812a23464377a44528f6b976dcf147a",
+    "background_rgb": [
+      101,
+      196,
+      125
+    ]
   },
   {
     "teamId": "1898200000795",
@@ -415,7 +625,12 @@
     "wikidata": "Q44126778",
     "source_type": "wikidata_verified",
     "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000795.png",
-    "sha256": "c63fd91b1a8ab79859a5e2ec62bee081e0d907b938e277184e2c6eb1ba2417a1"
+    "sha256": "64da85b5f94ce58bd90ccddbc800096901e9b86256416ab68a5cc84593981d3c",
+    "background_rgb": [
+      243,
+      243,
+      78
+    ]
   },
   {
     "teamId": "1898200000680",
@@ -433,7 +648,12 @@
     "wikidata": "Q1394812",
     "source_type": "wikidata_verified",
     "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000412.png",
-    "sha256": "1e27da513ca902b3cd507820174761808883fa5b6b3cb6ff1a59c94c9a1dc880"
+    "sha256": "4a4c84825d5fb2de9559892f8577d1877d90bde1918b4beba3afa2cae2d29fa6",
+    "background_rgb": [
+      243,
+      243,
+      78
+    ]
   },
   {
     "teamId": "1898200000363",
@@ -442,7 +662,12 @@
     "wikidata": "Q136159048",
     "source_type": "wikidata_verified",
     "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000363.png",
-    "sha256": "a720d0851a1421247d9254ff46e5fe53e7e030024b93399a1fac25aac33f8a2d"
+    "sha256": "489716d834b3ecaea43137b127eafeafa402e34baf3c8973e6be156d498e3937",
+    "background_rgb": [
+      101,
+      149,
+      125
+    ]
   },
   {
     "teamId": "1898200000728",
@@ -451,7 +676,12 @@
     "wikidata": "Q1882012",
     "source_type": "wikidata_verified",
     "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000728.png",
-    "sha256": "a16256ae1ae3f72cbc45c44a880ca5109a4cf5ed0392aff3e0e35a869de6b99e"
+    "sha256": "3aeb98d5452a5a748642c1e83ace95e19bfd5c39b1f12ff6192b244fbb012124",
+    "background_rgb": [
+      101,
+      125,
+      172
+    ]
   },
   {
     "teamId": "1898200000754",
@@ -460,7 +690,12 @@
     "wikidata": "Q472214",
     "source_type": "wikidata_verified",
     "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000754.png",
-    "sha256": "bcef9c9558c4ca608f3f1549ddb91ca163e59cf83e389c9dc125b487b9d384c1"
+    "sha256": "8789717886447a2efc336f8e9febdc09a689ea76a0ff7e96d316812e0ccc2b3d",
+    "background_rgb": [
+      243,
+      78,
+      78
+    ]
   },
   {
     "teamId": "1898200000746",
@@ -469,7 +704,12 @@
     "wikidata": "Q639482",
     "source_type": "wikidata_verified",
     "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000746.png",
-    "sha256": "86a468a3b2b2f6941c3bb0d8410e7d0ab157b83787570dddcc5c9c0c509f5af3"
+    "sha256": "a0ade2e3d26e6d914fb2cac0f87674965a324b5d330ff117beffbe6e173d5250",
+    "background_rgb": [
+      78,
+      196,
+      125
+    ]
   },
   {
     "teamId": "1898200000748",
@@ -478,7 +718,12 @@
     "wikidata": "Q1655772",
     "source_type": "wikidata_verified",
     "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000748.png",
-    "sha256": "a80b3f0438c8fcfce7b87b3471603e92ebca677b20d83d14ba02693b8e429f9e"
+    "sha256": "d840d2da91e113eae61a629c923db44d92e79660a3ac3c54ae687faa90cae123",
+    "background_rgb": [
+      243,
+      78,
+      101
+    ]
   },
   {
     "teamId": "1898200000709",
@@ -487,7 +732,12 @@
     "wikidata": "Q885203",
     "source_type": "wikidata_verified",
     "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000709.png",
-    "sha256": "cb128184983f7523618dac280659bc44dcceb2c6482ddb742a5b491810ce0c0c"
+    "sha256": "9a303ed84d3ba3511bb26b7bf2b73ec703946839277d127d7733d4baff7cb35f",
+    "background_rgb": [
+      243,
+      78,
+      101
+    ]
   },
   {
     "teamId": "1898200000433",
@@ -496,7 +746,12 @@
     "wikidata": "Q1389671",
     "source_type": "wikidata_verified",
     "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000433.png",
-    "sha256": "aaa6c0a2edae395685f58fb244819637b94c4aa68bfb9807b6f9d8a9eb60e4e0"
+    "sha256": "b55bcb3747f883eeb541ddb3a64a7860f5edd7048ade4417661a2da09d09a889",
+    "background_rgb": [
+      101,
+      78,
+      125
+    ]
   },
   {
     "teamId": "1898200000486",
@@ -514,7 +769,12 @@
     "wikidata": "Q831875",
     "source_type": "wikidata_verified",
     "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000569.png",
-    "sha256": "047f6349d8512dac86339987eec058c9aac492e78211f9d75ea546d3fe9327eb"
+    "sha256": "19a253a976ec36add45434c36f3930a6ac92ffacc3efee7a36cf5d6b8e4d097c",
+    "background_rgb": [
+      220,
+      101,
+      78
+    ]
   },
   {
     "teamId": "1898200000599",
@@ -523,7 +783,12 @@
     "wikidata": "Q162342",
     "source_type": "wikidata_verified",
     "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000599.png",
-    "sha256": "4dfec743b7d23fdda32263e52b20342436540ade7bbb7b334cdc9a295412a002"
+    "sha256": "2ae29455492d101209be4ba0e71b537772d5a47dd8253015ae4e03d08fbd92ee",
+    "background_rgb": [
+      101,
+      78,
+      149
+    ]
   },
   {
     "teamId": "1898200000605",
@@ -532,7 +797,12 @@
     "wikidata": "Q479296",
     "source_type": "wikidata_verified",
     "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000605.png",
-    "sha256": "b38f0c462bab18ed1fe6c20405304264bb580bda88236688e608dfc673b0a41c"
+    "sha256": "6ea77913b663b06f96980ce94f8c7e045b9d58dc25face20cade4608618162fa",
+    "background_rgb": [
+      101,
+      149,
+      101
+    ]
   },
   {
     "teamId": "1898200000385",
@@ -541,7 +811,12 @@
     "wikidata": "Q797015",
     "source_type": "wikidata_verified",
     "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000385.png",
-    "sha256": "8d7d27e8ee2724b95d719ef05260aa876fc2fc0146148be409e5cb7c390c8d50"
+    "sha256": "0e22916f2671b2d39c983558639ed82c4d55cbd6847d4914a79c1f0f2fd25910",
+    "background_rgb": [
+      220,
+      101,
+      78
+    ]
   },
   {
     "teamId": "1898200000339",
@@ -550,7 +825,12 @@
     "wikidata": "Q204207",
     "source_type": "wikidata_verified",
     "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000339.png",
-    "sha256": "7da0f1a8a6ef31ec0b3650863ab8f87ef4ef01b6dc8ac0b1603bf684a7df16a3"
+    "sha256": "0e8ac77602f680ef40c575d48fb85301d5964217cd9488f66507bf88ccf69933",
+    "background_rgb": [
+      101,
+      196,
+      101
+    ]
   },
   {
     "teamId": "1898200000554",
@@ -559,7 +839,12 @@
     "wikidata": "Q2312455",
     "source_type": "wikidata_verified",
     "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000554.png",
-    "sha256": "9ffd460b05172555d0adfb75928bb7055aaade48ac97fb2582f41f20d3309953"
+    "sha256": "173b1663af979dde491f69163fb978e94d55d2561dbfce1b1a997d88ca262b90",
+    "background_rgb": [
+      243,
+      78,
+      101
+    ]
   },
   {
     "teamId": "1898200000548",
@@ -568,6 +853,11 @@
     "wikidata": "Q285327",
     "source_type": "wikidata_verified",
     "png_path": "docs/german-clubs-2026-27/missing-20261024/1898200000548.png",
-    "sha256": "30201bbf834eef5126917691f9e8778f088c773e0249f18f2bce6aed67c3ac33"
+    "sha256": "055feec41c3dc1f3b3e083a349b1e314619effc4fbca94ed9f3940e911df8ca0",
+    "background_rgb": [
+      78,
+      172,
+      125
+    ]
   }
 ]
