@@ -1,0 +1,573 @@
+{
+  "expected": 64,
+  "published": 45,
+  "missing": 19,
+  "assets": [
+    {
+      "id": 1947271000001,
+      "league": "BA_FB",
+      "name": "NK Bratstvo Gračanica",
+      "source_url": "https://www.dsg-images.com/sport_entity/200x200/5056.png",
+      "provenance": "Global Sports Archive photo from https://globalsportsarchive.com/en/soccer/team/nk-bratstvo-gracanica/21554/",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d2-2026/v1/1947271000001.png",
+      "sha256": "1c114d43edaa76b2dbfe46d9701355ef85cde450b556e76439eb8e1cb3955dab",
+      "background": "#B4CBDD"
+    },
+    {
+      "id": 1947271000002,
+      "league": "BA_FB",
+      "name": "FK Budućnost Banovići",
+      "source_url": "https://dsg-images.com/clubs/50x50/18837.png",
+      "provenance": "Global Sports Archive photo from https://globalsportsarchive.com/en/soccer/team/nk-bratstvo-gracanica/21554/",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d2-2026/v1/1947271000002.png",
+      "sha256": "fca596bcddf0ea7198cc1e377e8c64e64c9e18044c3992ce620eea3d7efdbbbb",
+      "background": "#B4CBDD"
+    },
+    {
+      "id": 1947271000003,
+      "league": "BA_FB",
+      "name": "HNK Čapljina",
+      "source_url": "https://www.dsg-images.com/clubs/30x30/21558.png",
+      "provenance": "Global Sports Archive photo from https://globalsportsarchive.com/en/soccer/team/nk-bratstvo-gracanica/21554/",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d2-2026/v1/1947271000003.png",
+      "sha256": "7ce2f8a953281df7920aeb1809cbda43cf5f902bd421b4a9c8396b2469ebfa6d",
+      "background": "#B4CBDD"
+    },
+    {
+      "id": 1947271000004,
+      "league": "BA_FB",
+      "name": "NK GOŠK Gabela",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/bosnia-and-herzegovina/GO%C5%A0K_Gabela.svg",
+      "provenance": "JoseArroyave SVG crest",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d2-2026/v1/1947271000004.png",
+      "sha256": "98c8282a853eecec2aadea672f70392670a5a43d3feeb9144b8dc75c80116fa6",
+      "background": "#B4CBDD"
+    },
+    {
+      "id": 1947271000005,
+      "league": "BA_FB",
+      "name": "FK Igman Konjic",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/bosnia-and-herzegovina/Igman_Konjic.svg",
+      "provenance": "JoseArroyave SVG crest",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d2-2026/v1/1947271000005.png",
+      "sha256": "671fcca11b0496d57876d1928f4cd4f1fd14456e6e7abfe295364a45eb782d19",
+      "background": "#B4CBDD"
+    },
+    {
+      "id": 1947271000006,
+      "league": "BA_FB",
+      "name": "NK Jedinstvo Bihać",
+      "source_url": "https://dsg-images.com/clubs/50x50/18839.png",
+      "provenance": "Global Sports Archive photo from https://globalsportsarchive.com/en/soccer/team/nk-bratstvo-gracanica/21554/",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d2-2026/v1/1947271000006.png",
+      "sha256": "081c4b69e414a147ccd77d8b5c7106052c358ac83b6f1525638b68acba700664",
+      "background": "#B4CBDD"
+    },
+    {
+      "id": 1947271000007,
+      "league": "BA_FB",
+      "name": "HŠK Posušje",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/bosnia-and-herzegovina/Posu%C5%A1je.svg",
+      "provenance": "JoseArroyave SVG crest",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d2-2026/v1/1947271000007.png",
+      "sha256": "5b5c8884cb4a77d5a6eb14e71592e81fece2b116861f2805d3593237b21fe615",
+      "background": "#B4CBDD"
+    },
+    {
+      "id": 1947271000008,
+      "league": "BA_FB",
+      "name": "FK Radnik Hadžići",
+      "source_url": "https://dsg-images.com/clubs/50x50/34683.png",
+      "provenance": "Global Sports Archive photo from https://globalsportsarchive.com/en/soccer/team/nk-bratstvo-gracanica/21554/",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d2-2026/v1/1947271000008.png",
+      "sha256": "4d1eedd4858d34c667421fb1015bf6d9c7e17484d11ff34a12cdbcbdfa490784",
+      "background": "#B4CBDD"
+    },
+    {
+      "id": 1947271000009,
+      "league": "BA_FB",
+      "name": "FK Rudar Kakanj",
+      "source_url": "https://www.dsg-images.com/clubs/30x30/18836.png",
+      "provenance": "Global Sports Archive photo from https://globalsportsarchive.com/en/soccer/team/nk-bratstvo-gracanica/21554/",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d2-2026/v1/1947271000009.png",
+      "sha256": "e9a32e3d012427602f59a0862c4f3e81b40a3c122f14262d614dd047c299e223",
+      "background": "#B4CBDD"
+    },
+    {
+      "id": 1947271000010,
+      "league": "BA_FB",
+      "name": "FK Sloboda Tuzla",
+      "source_url": "https://dsg-images.com/clubs/50x50/18838.png",
+      "provenance": "Global Sports Archive photo from https://globalsportsarchive.com/en/soccer/team/nk-bratstvo-gracanica/21554/",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d2-2026/v1/1947271000010.png",
+      "sha256": "0ae83b9d983ff6ec2ab7a3faeced555c26d09291cce79c4b0bcb5eade1ea4406",
+      "background": "#B4CBDD"
+    },
+    {
+      "id": 1947271000011,
+      "league": "BA_FB",
+      "name": "NK Stupčanica Olovo",
+      "source_url": "https://dsg-images.com/clubs/50x50/51898.png",
+      "provenance": "Global Sports Archive photo from https://globalsportsarchive.com/en/soccer/team/nk-bratstvo-gracanica/21554/",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d2-2026/v1/1947271000011.png",
+      "sha256": "86de3a8f748975d958b9063ad675439cfa08dbc285bb6402a95b28d9b14b16c3",
+      "background": "#B4CBDD"
+    },
+    {
+      "id": 1947271000012,
+      "league": "BA_FB",
+      "name": "HNK Tomislav Tomislavgrad",
+      "source_url": "https://dsg-images.com/clubs/50x50/20433.png",
+      "provenance": "Global Sports Archive photo from https://globalsportsarchive.com/en/soccer/team/nk-bratstvo-gracanica/21554/",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d2-2026/v1/1947271000012.png",
+      "sha256": "38f25f1ede0a7404cdacfe868d78ea379ca5ed6e5b51d39f401f6e34a1681e7b",
+      "background": "#B4CBDD"
+    },
+    {
+      "id": 1947271000013,
+      "league": "BA_FB",
+      "name": "NK TOŠK Tešanj",
+      "source_url": "https://dsg-images.com/clubs/50x50/25404.png",
+      "provenance": "Global Sports Archive photo from https://globalsportsarchive.com/en/soccer/team/nk-bratstvo-gracanica/21554/",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d2-2026/v1/1947271000013.png",
+      "sha256": "f1a3516527fd61ff4fac6ce4196fec9208e6021868a763b19ee41b1593a9b386",
+      "background": "#B4CBDD"
+    },
+    {
+      "id": 1947271000014,
+      "league": "BA_FB",
+      "name": "NK Travnik",
+      "source_url": "https://dsg-images.com/clubs/50x50/18833.png",
+      "provenance": "Global Sports Archive photo from https://globalsportsarchive.com/en/soccer/team/nk-bratstvo-gracanica/21554/",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d2-2026/v1/1947271000014.png",
+      "sha256": "57d9b49d2c16fd69b007cef910c4d4b6813313483022cac58246157891183888",
+      "background": "#B4CBDD"
+    },
+    {
+      "id": 1947271000015,
+      "league": "BA_FB",
+      "name": "NK Vitez",
+      "source_url": "https://dsg-images.com/clubs/50x50/18840.png",
+      "provenance": "Global Sports Archive photo from https://globalsportsarchive.com/en/soccer/team/nk-bratstvo-gracanica/21554/",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d2-2026/v1/1947271000015.png",
+      "sha256": "e8eb5de5c2f675c711e7a5aff18c722b28687fe4fda337f043b86a7ede1a8bd7",
+      "background": "#B4CBDD"
+    },
+    {
+      "id": 1947271000016,
+      "league": "BA_FB",
+      "name": "NK Zvijezda Gradačac",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/bosnia-and-herzegovina/Zvijezda_Grada%C4%8Dac.svg",
+      "provenance": "JoseArroyave SVG crest",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d2-2026/v1/1947271000016.png",
+      "sha256": "c597f62a7bbb0a19450351cf03728284ed123820110e05427c2e65c3e8d74ca5",
+      "background": "#B4CBDD"
+    },
+    {
+      "id": 1947271000101,
+      "league": "BA_RS",
+      "name": "FK Leotar Trebinje",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/bosnia-and-herzegovina/Leotar_Trebinje.svg",
+      "provenance": "JoseArroyave SVG crest",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d2-2026/v1/1947271000101.png",
+      "sha256": "5dcefc6ff8477e89a893af24af942bd53490cbc192235d6367ead45f7d4b9688",
+      "background": "#AFBDD4"
+    },
+    {
+      "id": 1947271000102,
+      "league": "BA_RS",
+      "name": "FK Laktaši",
+      "source_url": "https://dsg-images.com/clubs/200x200/34668.png",
+      "provenance": "Global Sports Archive photo from https://globalsportsarchive.com/en/soccer/team/fk-laktasi/34668/",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d2-2026/v1/1947271000102.png",
+      "sha256": "4740589d2c6cceb3446e5e989f977ec51594259e14a38295704c6e30ca4b094f",
+      "background": "#AFBDD4"
+    },
+    {
+      "id": 1947271000103,
+      "league": "BA_RS",
+      "name": "FK Potkozarje Aleksandrovac",
+      "source_url": "https://www.dsg-images.com/sport_entity/30x30/5755.png",
+      "provenance": "Global Sports Archive photo from https://globalsportsarchive.com/en/soccer/team/fk-laktasi/34668/",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d2-2026/v1/1947271000103.png",
+      "sha256": "e7cd9a3f6a188152860792c2e51c00b6dcbd22ca37281c037868e7823f94d6dc",
+      "background": "#AFBDD4"
+    },
+    {
+      "id": 1947271000105,
+      "league": "BA_RS",
+      "name": "FK Drina Zvornik",
+      "source_url": "https://www.dsg-images.com/clubs/30x30/18849.png",
+      "provenance": "Global Sports Archive photo from https://globalsportsarchive.com/en/soccer/team/fk-laktasi/34668/",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d2-2026/v1/1947271000105.png",
+      "sha256": "43bc4a12f12fed2a372aeaae52753e2d65ca60b35ce6db0fecaa4e68331d76fe",
+      "background": "#AFBDD4"
+    },
+    {
+      "id": 1947271000106,
+      "league": "BA_RS",
+      "name": "FK Kozara Gradiška",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/bosnia-and-herzegovina/Kozara_Gradi%C5%A1ka.svg",
+      "provenance": "JoseArroyave SVG crest",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d2-2026/v1/1947271000106.png",
+      "sha256": "82b0ca25ab4d906e904553c269884cfd2728a490105ca8174a8a173815fe0b3f",
+      "background": "#AFBDD4"
+    },
+    {
+      "id": 1947271000107,
+      "league": "BA_RS",
+      "name": "FK Famos Vojkovići",
+      "source_url": "https://dsg-images.com/clubs/50x50/55874.png",
+      "provenance": "Global Sports Archive photo from https://globalsportsarchive.com/en/soccer/team/fk-laktasi/34668/",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d2-2026/v1/1947271000107.png",
+      "sha256": "b975efced0ae0674bd5bf8c46e108091c39883641eee511bab78ea02cfb64752",
+      "background": "#AFBDD4"
+    },
+    {
+      "id": 1947271000108,
+      "league": "BA_RS",
+      "name": "FK Rudar Prijedor",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/bosnia-and-herzegovina/Rudar_Prijedor.svg",
+      "provenance": "JoseArroyave SVG crest",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d2-2026/v1/1947271000108.png",
+      "sha256": "5e274e98d1d7c4cb8d70c2bab839ebf2d8375ac7cbfad0cb24cd3a72d287e67d",
+      "background": "#AFBDD4"
+    },
+    {
+      "id": 1947271000109,
+      "league": "BA_RS",
+      "name": "FK Romanija Pale",
+      "source_url": "https://dsg-images.com/clubs/50x50/62122.png",
+      "provenance": "Global Sports Archive photo from https://globalsportsarchive.com/en/soccer/team/fk-laktasi/34668/",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d2-2026/v1/1947271000109.png",
+      "sha256": "454fdfebe4e6d995b7c46f7495097ad0e54aa8da1f900e70d9e7c392a37941f3",
+      "background": "#AFBDD4"
+    },
+    {
+      "id": 1947271000110,
+      "league": "BA_RS",
+      "name": "FK Slavija Istočno Sarajevo",
+      "source_url": "https://dsg-images.com/clubs/50x50/18842.png",
+      "provenance": "Global Sports Archive photo from https://globalsportsarchive.com/en/soccer/team/fk-laktasi/34668/",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d2-2026/v1/1947271000110.png",
+      "sha256": "93b902a5e3f9fd75ccfc20465a66ad33153738e9d9418194cffe5f15465a17bc",
+      "background": "#AFBDD4"
+    },
+    {
+      "id": 1947271000111,
+      "league": "BA_RS",
+      "name": "FK Sutjeska Foča",
+      "source_url": "https://dsg-images.com/clubs/50x50/25399.png",
+      "provenance": "Global Sports Archive photo from https://globalsportsarchive.com/en/soccer/team/fk-laktasi/34668/",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d2-2026/v1/1947271000111.png",
+      "sha256": "bd88b9f0b7a59d7dff7f651c5a3000e98572179ce18505617f790bf8cfaecaf0",
+      "background": "#AFBDD4"
+    },
+    {
+      "id": 1947271000112,
+      "league": "BA_RS",
+      "name": "FK Velež Nevesinje",
+      "source_url": "https://dsg-images.com/clubs/50x50/21713.png",
+      "provenance": "Global Sports Archive photo from https://globalsportsarchive.com/en/soccer/team/fk-laktasi/34668/",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d2-2026/v1/1947271000112.png",
+      "sha256": "f7b16508c248a26d21908b8a5c94d9b9cd6ae648fbff0ca4c2dc221877cf4f25",
+      "background": "#AFBDD4"
+    },
+    {
+      "id": 1947271000113,
+      "league": "BA_RS",
+      "name": "FK Omarska",
+      "source_url": "https://dsg-images.com/clubs/50x50/50600.png",
+      "provenance": "Global Sports Archive photo from https://globalsportsarchive.com/en/soccer/team/fk-laktasi/34668/",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d2-2026/v1/1947271000113.png",
+      "sha256": "9f242d87ab94cfb276c61b5566e3e2e2c04bd339b417462b81072041f36bcdae",
+      "background": "#AFBDD4"
+    },
+    {
+      "id": 1947271000114,
+      "league": "BA_RS",
+      "name": "FK Zvijezda 09",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/bosnia-and-herzegovina/Zvijezda_09.svg",
+      "provenance": "JoseArroyave SVG crest",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d2-2026/v1/1947271000114.png",
+      "sha256": "339f72e40b39b63f78a43eec6fbb453a0b30c962ac6315fd6abd56a0ef531337",
+      "background": "#AFBDD4"
+    },
+    {
+      "id": 1947271000201,
+      "league": "RS",
+      "name": "FK TSC Bačka Topola",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/serbia/FK_TSC.svg",
+      "provenance": "JoseArroyave SVG crest",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d2-2026/v1/1947271000201.png",
+      "sha256": "b073ed2094d9fe7141abb7c8b01aaae44cf0045246dd11250d70526c0f23d81a",
+      "background": "#B6C4D7"
+    },
+    {
+      "id": 1947271000202,
+      "league": "RS",
+      "name": "FK Borac 1926 Čačak",
+      "source_url": "https://www.dsg-images.com/clubs/30x30/18811.png",
+      "provenance": "Global Sports Archive photo from https://globalsportsarchive.com/en/soccer/team/ofk-vrsac/25317/",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d2-2026/v1/1947271000202.png",
+      "sha256": "8dc4023502518f916a46818d6c2065c45760ec76732ac3fb04213df3d5d04f69",
+      "background": "#B6C4D7"
+    },
+    {
+      "id": 1947271000203,
+      "league": "RS",
+      "name": "FK Javor Matis Ivanjica",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/serbia/Javor_Matis.svg",
+      "provenance": "JoseArroyave SVG crest",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d2-2026/v1/1947271000203.png",
+      "sha256": "d8689eb2daac8e67d85c74162a05a2f7d964f6efb1473eee994ab01b34b48380",
+      "background": "#B6C4D7"
+    },
+    {
+      "id": 1947271000204,
+      "league": "RS",
+      "name": "FK Smederevo 1924",
+      "source_url": "https://dsg-images.com/clubs/50x50/38443.png",
+      "provenance": "Global Sports Archive photo from https://globalsportsarchive.com/en/soccer/team/ofk-vrsac/25317/",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d2-2026/v1/1947271000204.png",
+      "sha256": "8c42466593539444f5709adb6b5444e3767bc0285c5175ba7ce59cc7de283d27",
+      "background": "#B6C4D7"
+    },
+    {
+      "id": 1947271000205,
+      "league": "RS",
+      "name": "OFK Vršac",
+      "source_url": "https://dsg-images.com/clubs/200x200/25317.png",
+      "provenance": "Global Sports Archive photo from https://globalsportsarchive.com/en/soccer/team/ofk-vrsac/25317/",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d2-2026/v1/1947271000205.png",
+      "sha256": "166219e1831c14886a50ab025f2efa3ddd52f9ac32acbc5a3b56d1fd72ec433c",
+      "background": "#B6C4D7"
+    },
+    {
+      "id": 1947271000206,
+      "league": "RS",
+      "name": "FK Napredak Kruševac",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/serbia/FK_Napredak_Kru%C5%A1evac.svg",
+      "provenance": "JoseArroyave SVG crest",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d2-2026/v1/1947271000206.png",
+      "sha256": "8591a04b2bc10e6b72b849fe24d8dcc4ca9cdb6ca975d2f34be0d8dd31118b4e",
+      "background": "#B6C4D7"
+    },
+    {
+      "id": 1947271000207,
+      "league": "RS",
+      "name": "FK Voždovac",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/serbia/FK_Vo%C5%BEdovac.svg",
+      "provenance": "JoseArroyave SVG crest",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d2-2026/v1/1947271000207.png",
+      "sha256": "56022b8d093124c2844d65025108cfecbec93411852167c31a9ffb1686509f3a",
+      "background": "#B6C4D7"
+    },
+    {
+      "id": 1947271000208,
+      "league": "RS",
+      "name": "GFK Dubočica 1923",
+      "source_url": "https://dsg-images.com/clubs/50x50/47147.png",
+      "provenance": "Global Sports Archive photo from https://globalsportsarchive.com/en/soccer/team/ofk-vrsac/25317/",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d2-2026/v1/1947271000208.png",
+      "sha256": "e1bb55d4a31c10d54fc738fc46db7743b0282a925bfa59c74b911aff174f4d54",
+      "background": "#B6C4D7"
+    },
+    {
+      "id": 1947271000209,
+      "league": "RS",
+      "name": "FK Loznica",
+      "source_url": "https://dsg-images.com/clubs/50x50/23054.png",
+      "provenance": "Global Sports Archive photo from https://globalsportsarchive.com/en/soccer/team/ofk-vrsac/25317/",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d2-2026/v1/1947271000209.png",
+      "sha256": "78a082abd4b151c509e0a4d148c7cf5535dfc6ce55668426d8886664b960c0ad",
+      "background": "#B6C4D7"
+    },
+    {
+      "id": 1947271000210,
+      "league": "RS",
+      "name": "FK Metalac Gornji Milanovac",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/serbia/Metalac.svg",
+      "provenance": "JoseArroyave SVG crest",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d2-2026/v1/1947271000210.png",
+      "sha256": "5be0fa5c29ba95e67ba9ee716ca2828b5dabbf8df9ec55dc2171800811eaed3c",
+      "background": "#B6C4D7"
+    },
+    {
+      "id": 1947271000211,
+      "league": "RS",
+      "name": "FK Spartak Subotica",
+      "source_url": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/serbia/Spartak_Subotica.svg",
+      "provenance": "JoseArroyave SVG crest",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d2-2026/v1/1947271000211.png",
+      "sha256": "f1500170500e7bbd7b9d6fe0c4a811c1c79a1b68885a59ddd0adbe7be8d4559d",
+      "background": "#B6C4D7"
+    },
+    {
+      "id": 1947271000213,
+      "league": "RS",
+      "name": "FK Teleoptik Zemun",
+      "source_url": "https://dsg-images.com/clubs/50x50/22115.png",
+      "provenance": "Global Sports Archive photo from https://globalsportsarchive.com/en/soccer/team/ofk-vrsac/25317/",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d2-2026/v1/1947271000213.png",
+      "sha256": "f471de51353c83924cd1be5bc72950f6de3c431f93747863d3ad13b9c1d1d578",
+      "background": "#B6C4D7"
+    },
+    {
+      "id": 1947271000214,
+      "league": "RS",
+      "name": "RFK Grafičar Beograd",
+      "source_url": "https://www.dsg-images.com/clubs/30x30/41217.png",
+      "provenance": "Global Sports Archive photo from https://globalsportsarchive.com/en/soccer/team/ofk-vrsac/25317/",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d2-2026/v1/1947271000214.png",
+      "sha256": "56f64c060ded7eee3c7163a12d75bd3d83cac2c330026f92c043d4fefe378752",
+      "background": "#B6C4D7"
+    },
+    {
+      "id": 1947271000215,
+      "league": "RS",
+      "name": "FK Jedinstvo Ub",
+      "source_url": "https://www.dsg-images.com/clubs/30x30/55280.png",
+      "provenance": "Global Sports Archive photo from https://globalsportsarchive.com/en/soccer/team/ofk-vrsac/25317/",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d2-2026/v1/1947271000215.png",
+      "sha256": "e612b5e77bdd4a43dc8afb83d118aad3994fd090f77b1b84d5d4cdc2c43f498a",
+      "background": "#B6C4D7"
+    },
+    {
+      "id": 1947271000216,
+      "league": "RS",
+      "name": "FK Bor 1919",
+      "source_url": "https://dsg-images.com/clubs/50x50/61002.png",
+      "provenance": "Global Sports Archive photo from https://globalsportsarchive.com/en/soccer/team/ofk-vrsac/25317/",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d2-2026/v1/1947271000216.png",
+      "sha256": "b29e3dd72843ad4263c19c8fd460f111add8470a67e614e9fd16cf9b74d3d4e3",
+      "background": "#B6C4D7"
+    },
+    {
+      "id": 1947271000308,
+      "league": "XK",
+      "name": "KF Liria Prizren",
+      "source_url": "https://dsg-images.com/clubs/200x200/14711.png",
+      "provenance": "Global Sports Archive photo from https://globalsportsarchive.com/en/soccer/team/kf-liria-prizren/14711/",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d2-2026/v1/1947271000308.png",
+      "sha256": "d8865efc1706b64fa46a80a654fb2a14e26b2096468377210f7b1ea98673dc73",
+      "background": "#A2CBDC"
+    }
+  ],
+  "unresolved": [
+    {
+      "id": 1947271000104,
+      "league": "BA_RS",
+      "name": "FK Majevica Lopare",
+      "status": "NO_VERIFIED_IMAGE"
+    },
+    {
+      "id": 1947271000212,
+      "league": "RS",
+      "name": "FK Proleter 023",
+      "status": "NO_VERIFIED_IMAGE"
+    },
+    {
+      "id": 1947271000301,
+      "league": "XK",
+      "name": "KF 2 Korriku",
+      "status": "NO_VERIFIED_IMAGE"
+    },
+    {
+      "id": 1947271000302,
+      "league": "XK",
+      "name": "FC Besa Pejë",
+      "status": "NO_VERIFIED_IMAGE"
+    },
+    {
+      "id": 1947271000303,
+      "league": "XK",
+      "name": "KF Dinamo Ferizaj",
+      "status": "NO_VERIFIED_IMAGE"
+    },
+    {
+      "id": 1947271000304,
+      "league": "XK",
+      "name": "KF Ferizaj",
+      "status": "NO_VERIFIED_IMAGE"
+    },
+    {
+      "id": 1947271000305,
+      "league": "XK",
+      "name": "KF Istogu",
+      "status": "NO_VERIFIED_IMAGE"
+    },
+    {
+      "id": 1947271000306,
+      "league": "XK",
+      "name": "KF Kika",
+      "status": "NO_VERIFIED_IMAGE"
+    },
+    {
+      "id": 1947271000307,
+      "league": "XK",
+      "name": "KF Lepenci",
+      "status": "NO_VERIFIED_IMAGE"
+    },
+    {
+      "id": 1947271000309,
+      "league": "XK",
+      "name": "FC Mitrovica",
+      "status": "NO_VERIFIED_IMAGE"
+    },
+    {
+      "id": 1947271000310,
+      "league": "XK",
+      "name": "FC Prishtina e Re",
+      "status": "NO_VERIFIED_IMAGE"
+    },
+    {
+      "id": 1947271000311,
+      "league": "XK",
+      "name": "KF Ramiz Sadiku",
+      "status": "NO_VERIFIED_IMAGE"
+    },
+    {
+      "id": 1947271000312,
+      "league": "XK",
+      "name": "KF Rilindja 1974",
+      "status": "NO_VERIFIED_IMAGE"
+    },
+    {
+      "id": 1947271000313,
+      "league": "XK",
+      "name": "FC Suhareka",
+      "status": "NO_VERIFIED_IMAGE"
+    },
+    {
+      "id": 1947271000314,
+      "league": "XK",
+      "name": "KF Tefik Çanga",
+      "status": "NO_VERIFIED_IMAGE"
+    },
+    {
+      "id": 1947271000315,
+      "league": "XK",
+      "name": "KF Trepça",
+      "status": "NO_VERIFIED_IMAGE"
+    },
+    {
+      "id": 1947271000316,
+      "league": "XK",
+      "name": "KF Trepça '89",
+      "status": "NO_VERIFIED_IMAGE"
+    },
+    {
+      "id": 1947271000317,
+      "league": "XK",
+      "name": "KF Vëllaznimi",
+      "status": "NO_VERIFIED_IMAGE"
+    },
+    {
+      "id": 1947271000318,
+      "league": "XK",
+      "name": "KF Vjosa",
+      "status": "NO_VERIFIED_IMAGE"
+    }
+  ]
+}
