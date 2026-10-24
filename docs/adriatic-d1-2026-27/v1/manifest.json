@@ -2,7 +2,7 @@
   "season": "2026-27",
   "catalog": "MMD31 first division genuine crest candidates",
   "total": 40,
-  "published": 38,
+  "published": 39,
   "assets": [
     {
       "id": 1942600200000,
@@ -354,9 +354,12 @@
       "country": "montenegro",
       "name": "OFK Mladost Donja Gorica",
       "background": "#E3C3C3",
-      "source": null,
+      "source": "https://escudosdefutbolyequipaciones.com/images_esc3/UEFA/MONTENEGRO/escudos_jpg/escudo-ofk%20mladost%20donja%20gorica.jpg",
       "sourceCandidate": "mladost-donja-gorica",
-      "status": "CREST_SOURCE_UNVERIFIED"
+      "status": "PNG_120x96_PUBLISHED_IN_BRANCH",
+      "sha256": "a0e07caafd3b2333227b9bbcdf1cc50685f93b3588de57f73d7001c0f19cb87e",
+      "width": 120,
+      "height": 96
     },
     {
       "id": 1942600200300,
