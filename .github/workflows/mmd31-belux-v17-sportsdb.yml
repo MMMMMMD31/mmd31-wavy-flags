@@ -1,0 +1,28 @@
+name: MMD31 Belgian D4 D5 TheSportsDB badges
+on:
+  push:
+    branches: [mmd31-belux-d4-d5-v17-crests-fast]
+    paths:
+      - 'tools/mmd31-belux-v17-sportsdb-crests.py'
+      - '.github/workflows/mmd31-belux-v17-sportsdb.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.11'}
+      - run: pip install requests pillow
+      - run: python tools/mmd31-belux-v17-sportsdb-crests.py
+      - run: |
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git add docs/belgian-d4-d5-2026-27/v17/
+          if ! git diff --cached --quiet; then
+            git commit -m "Publish sourced lower league Belgian crest candidates"
+            git push origin HEAD:refs/heads/${GITHUB_REF_NAME}
+          fi
