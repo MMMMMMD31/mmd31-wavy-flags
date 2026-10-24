@@ -5,6 +5,7 @@ on:
     paths:
       - .github/workflows/mmd31-east-europe-2026-badges.yml
       - east-europe-d1-2026/generate.py
+      - east-europe-d1-2026/clubs.csv
   workflow_dispatch:
 permissions:
   contents: write
