@@ -1,0 +1,28 @@
+{
+  "eredivisie": {
+    "status": "published",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/81/VriendenLoterij_Eredivisie_Logo.png",
+    "output": "docs/nl-andorra-competition-logos/v2/eredivisie.png",
+    "format": "PNG",
+    "pixel_size": [
+      512,
+      512
+    ],
+    "sha256": "495015c03e223b272a905a078a9580e0d58b423032775f715fa84442b31723de",
+    "transparent_square": true,
+    "source_kind": "official competition logo"
+  },
+  "andorra-faf": {
+    "status": "published",
+    "source": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-nl-andorra-20261023/docs/nl-andorra-competition-logos/v1/faf.png",
+    "output": "docs/nl-andorra-competition-logos/v2/andorra-faf.png",
+    "format": "PNG",
+    "pixel_size": [
+      512,
+      512
+    ],
+    "sha256": "1051e57ac914153b55c547a336a5d0c0d918248d1b933c923ced3607427cef9b",
+    "transparent_square": true,
+    "source_kind": "federation emblem"
+  }
+}
