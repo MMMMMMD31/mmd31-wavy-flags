@@ -1,7 +1,7 @@
 {
   "expected": 58,
-  "published": 41,
-  "missing": 17,
+  "published": 53,
+  "missing": 5,
   "clubs": [
     {
       "country": "EE",
@@ -87,8 +87,16 @@
         120,
         96
       ],
-      "state": "missing",
-      "problem": "No securely identified real club logo; do not publish placeholder"
+      "state": "published",
+      "source": "https://jalgpall.ee/images/clubs/3588A0ED0A261C73F01FBD519F6A523F",
+      "source_type": "official-club-or-federation-table-strict-image-alt",
+      "path": "docs/cge36-d2-2026/clubs/EE/1897600005005.png",
+      "background_rgb": [
+        119,
+        186,
+        141
+      ],
+      "sha256": "dd39e2428b5ae0fa879648a8b9a30d2c216202048eb3ef53586d945b99d429c1"
     },
     {
       "country": "EE",
@@ -136,8 +144,16 @@
         120,
         96
       ],
-      "state": "missing",
-      "problem": "No securely identified real club logo; do not publish placeholder"
+      "state": "published",
+      "source": "https://jalgpall.ee/images/clubs/8EB372299094CBA81586D757A90329DF",
+      "source_type": "official-club-or-federation-table-strict-image-alt",
+      "path": "docs/cge36-d2-2026/clubs/EE/1897600005008.png",
+      "background_rgb": [
+        208,
+        208,
+        163
+      ],
+      "sha256": "9622246da77d4535c4dfb69d0a396d99f6f13a2c25b9f84c1babebce0de08955"
     },
     {
       "country": "EE",
@@ -166,8 +182,16 @@
         120,
         96
       ],
-      "state": "missing",
-      "problem": "No securely identified real club logo; do not publish placeholder"
+      "state": "published",
+      "source": "https://jalgpall.ee/images/clubs/F20D65F9755A7EB8CD98A73919191D27",
+      "source_type": "official-club-or-federation-table-strict-image-alt",
+      "path": "docs/cge36-d2-2026/clubs/EE/1897600005010.png",
+      "background_rgb": [
+        119,
+        119,
+        163
+      ],
+      "sha256": "f3419fce79961b110181e54a23fc51340a65374b8c10963be51434cefcef0f6a"
     },
     {
       "country": "LV",
@@ -215,8 +239,16 @@
         120,
         96
       ],
-      "state": "missing",
-      "problem": "No securely identified real club logo; do not publish placeholder"
+      "state": "published",
+      "source": "https://leevonppk.com/wp-content/uploads/2020/10/Leevon-ppk-logo.png",
+      "source_type": "official-club-or-federation-table-strict-image-alt",
+      "path": "docs/cge36-d2-2026/clubs/LV/1897600006003.png",
+      "background_rgb": [
+        186,
+        119,
+        119
+      ],
+      "sha256": "a03abd7e9cf46cf73721dc3e40d6abaee9d4f2fb5edae64b10823ac293e751ce"
     },
     {
       "country": "LV",
@@ -237,8 +269,16 @@
         120,
         96
       ],
-      "state": "missing",
-      "problem": "No securely identified real club logo; do not publish placeholder"
+      "state": "published",
+      "source": "https://leevonppk.com/wp-content/uploads/2022/03/JDFS-ALBERTS.png",
+      "source_type": "official-club-or-federation-table-strict-image-alt",
+      "path": "docs/cge36-d2-2026/clubs/LV/1897600006005.png",
+      "background_rgb": [
+        186,
+        163,
+        119
+      ],
+      "sha256": "04b6a51a9330b63620b3a2616be625461390048eeecb341e3fdcbdb1fb899d57"
     },
     {
       "country": "LV",
@@ -297,8 +337,16 @@
         120,
         96
       ],
-      "state": "missing",
-      "problem": "No securely identified real club logo; do not publish placeholder"
+      "state": "published",
+      "source": "https://leevonppk.com/wp-content/uploads/2022/03/Skanstes-SK.png",
+      "source_type": "official-club-or-federation-table-strict-image-alt",
+      "path": "docs/cge36-d2-2026/clubs/LV/1897600006009.png",
+      "background_rgb": [
+        201,
+        213,
+        228
+      ],
+      "sha256": "5f3524e7bdb225344a4cdd5889d658d9d2be55d72dbdd977609ecd16978fa967"
     },
     {
       "country": "LV",
@@ -308,8 +356,16 @@
         120,
         96
       ],
-      "state": "missing",
-      "problem": "No securely identified real club logo; do not publish placeholder"
+      "state": "published",
+      "source": "https://leevonppk.com/wp-content/uploads/2022/03/FK-Smiltene-BJSS.png",
+      "source_type": "official-club-or-federation-table-strict-image-alt",
+      "path": "docs/cge36-d2-2026/clubs/LV/1897600006010.png",
+      "background_rgb": [
+        119,
+        186,
+        208
+      ],
+      "sha256": "8152b82c985bdb4af6c9a09631f59fa16b432b1ac1d9af50f99c5419c4cb3e71"
     },
     {
       "country": "LV",
@@ -387,8 +443,16 @@
         120,
         96
       ],
-      "state": "missing",
-      "problem": "No securely identified real club logo; do not publish placeholder"
+      "state": "published",
+      "source": "https://www.fkbabrungas.lt/storage/teams/minija.png",
+      "source_type": "official-club-or-federation-table-strict-image-alt",
+      "path": "docs/cge36-d2-2026/clubs/LT/1897600007001.png",
+      "background_rgb": [
+        119,
+        141,
+        186
+      ],
+      "sha256": "51396b5f24f5d8f0bfa814d3909f365a10c879f44e3c8a2a46c278125be3ac94"
     },
     {
       "country": "LT",
@@ -398,8 +462,16 @@
         120,
         96
       ],
-      "state": "missing",
-      "problem": "No securely identified real club logo; do not publish placeholder"
+      "state": "published",
+      "source": "https://www.fkbabrungas.lt/storage/teams/babrungas.png",
+      "source_type": "official-club-or-federation-table-strict-image-alt",
+      "path": "docs/cge36-d2-2026/clubs/LT/1897600007002.png",
+      "background_rgb": [
+        141,
+        141,
+        186
+      ],
+      "sha256": "8be29761d5a7377b8294d99d5c750d3dc2690b4f91a8271c9eb78d1a76b8afe0"
     },
     {
       "country": "LT",
@@ -409,8 +481,16 @@
         120,
         96
       ],
-      "state": "missing",
-      "problem": "No securely identified real club logo; do not publish placeholder"
+      "state": "published",
+      "source": "https://www.fkbabrungas.lt/storage/teams/be1.png",
+      "source_type": "official-club-or-federation-table-strict-image-alt",
+      "path": "docs/cge36-d2-2026/clubs/LT/1897600007003.png",
+      "background_rgb": [
+        163,
+        163,
+        141
+      ],
+      "sha256": "cce1dd20406b4d4ed1f5cd57f7dad37fb1602ee53d40b72efdc8b82e743010e4"
     },
     {
       "country": "LT",
@@ -420,8 +500,16 @@
         120,
         96
       ],
-      "state": "missing",
-      "problem": "No securely identified real club logo; do not publish placeholder"
+      "state": "published",
+      "source": "https://www.fkbabrungas.lt/storage/teams/neptūnas.png",
+      "source_type": "official-club-or-federation-table-strict-image-alt",
+      "path": "docs/cge36-d2-2026/clubs/LT/1897600007004.png",
+      "background_rgb": [
+        119,
+        141,
+        186
+      ],
+      "sha256": "fa1d9b401ca3648fb779768c424216faaae841a9b24b7352da51a7ad8a1fd633"
     },
     {
       "country": "LT",
@@ -499,8 +587,16 @@
         120,
         96
       ],
-      "state": "missing",
-      "problem": "No securely identified real club logo; do not publish placeholder"
+      "state": "published",
+      "source": "https://fkbabrungas.lt/storage/teams/NiIxUWC2ddWV5sb3FaVEhCh3EDgs6aKREt0I9G61.jpg",
+      "source_type": "official-club-or-federation-table-strict-image-alt",
+      "path": "docs/cge36-d2-2026/clubs/LT/1897600007009.png",
+      "background_rgb": [
+        231,
+        186,
+        186
+      ],
+      "sha256": "a803650ee0e8bb2b93c4eef1869938dc76c9f7de28e986e1f59ceec0464d196f"
     },
     {
       "country": "LT",
