@@ -1,0 +1,357 @@
+{
+  "total_overseas": 326,
+  "existing_authenticated_source_pngs": 303,
+  "new_provisional_pngs": 23,
+  "total_pngs": 326,
+  "width": 120,
+  "height": 96,
+  "description": "Original generic monogram graphics, NOT official/authentic crests. They must be replaced when real club emblems are found.",
+  "retention": "The pre-existing 303 files are never opened for modification.",
+  "generated": [
+    {
+      "team_id": "1990262000029",
+      "club": "Golden Lion Fc",
+      "territory": "Martinique",
+      "status": "PROVISOIRE_NON_AUTHENTIQUE",
+      "filename": "1990262000029.png",
+      "monogram": "GL",
+      "background_rgb": [
+        136,
+        57,
+        68
+      ],
+      "sha256": "7f1350c0f965aa756afcdf9afee3d8451c3a5f183fb6b4a53d487284409c58fa",
+      "bytes": 1736
+    },
+    {
+      "team_id": "1990262000111",
+      "club": "Fam",
+      "territory": "Martinique",
+      "status": "PROVISOIRE_NON_AUTHENTIQUE",
+      "filename": "1990262000111.png",
+      "monogram": "FAM",
+      "background_rgb": [
+        113,
+        82,
+        30
+      ],
+      "sha256": "7feaee8dbb6cb3f51a9528b1ed228289ea9c9d251e3f512c38da44f04df30adc",
+      "bytes": 1621
+    },
+    {
+      "team_id": "1990262000121",
+      "club": "Ent.Etoile Riveraine",
+      "territory": "Martinique",
+      "status": "PROVISOIRE_NON_AUTHENTIQUE",
+      "filename": "1990262000121.png",
+      "monogram": "ER",
+      "background_rgb": [
+        136,
+        57,
+        68
+      ],
+      "sha256": "5f0301f408beb5aa274884b9275c2f2e00a81175a102e496de504b30225ab6fd",
+      "bytes": 1734
+    },
+    {
+      "team_id": "1990262000143",
+      "club": "Us Bell Canot",
+      "territory": "La Réunion",
+      "status": "PROVISOIRE_NON_AUTHENTIQUE",
+      "filename": "1990262000143.png",
+      "monogram": "BC",
+      "background_rgb": [
+        101,
+        57,
+        45
+      ],
+      "sha256": "e97174c33d4c4fc969dc946e3c675171f99a0affc548021ef7391db54eef38fe",
+      "bytes": 2031
+    },
+    {
+      "team_id": "1990262000154",
+      "club": "As Red Star",
+      "territory": "La Réunion",
+      "status": "PROVISOIRE_NON_AUTHENTIQUE",
+      "filename": "1990262000154.png",
+      "monogram": "RS",
+      "background_rgb": [
+        101,
+        57,
+        45
+      ],
+      "sha256": "6876d6e889b4a7026289237f324de07cc2ff96f8fc946c6a2f73b2945792ed67",
+      "bytes": 1964
+    },
+    {
+      "team_id": "1990262000169",
+      "club": "As Poudriere",
+      "territory": "La Réunion",
+      "status": "PROVISOIRE_NON_AUTHENTIQUE",
+      "filename": "1990262000169.png",
+      "monogram": "POU",
+      "background_rgb": [
+        101,
+        57,
+        45
+      ],
+      "sha256": "faf7a15dcb74fca8647df3b894e488f83b71fff22011d086f472f0c48b974772",
+      "bytes": 2251
+    },
+    {
+      "team_id": "1990262000179",
+      "club": "U.S. St-Elie",
+      "territory": "Guyane",
+      "status": "PROVISOIRE_NON_AUTHENTIQUE",
+      "filename": "1990262000179.png",
+      "monogram": "SE",
+      "background_rgb": [
+        101,
+        57,
+        45
+      ],
+      "sha256": "cf01d1b133817ba64a0046bed08b7f704eb15af9feca870374577c38625e1020",
+      "bytes": 1590
+    },
+    {
+      "team_id": "1990262000182",
+      "club": "Loya F.C.",
+      "territory": "Guyane",
+      "status": "PROVISOIRE_NON_AUTHENTIQUE",
+      "filename": "1990262000182.png",
+      "monogram": "LOY",
+      "background_rgb": [
+        23,
+        79,
+        138
+      ],
+      "sha256": "404fe69f658c217d7dc813191cf5c8fda6c206c742ce01984c7ccb3bf84bf853",
+      "bytes": 1913
+    },
+    {
+      "team_id": "1990262000186",
+      "club": "Celtic Sa",
+      "territory": "Guyane",
+      "status": "PROVISOIRE_NON_AUTHENTIQUE",
+      "filename": "1990262000186.png",
+      "monogram": "CS",
+      "background_rgb": [
+        119,
+        63,
+        115
+      ],
+      "sha256": "e64abf2594d1839f03e95adac2ddd952a254123a51cb33616c60ce44003d1e4b",
+      "bytes": 1905
+    },
+    {
+      "team_id": "1990262000203",
+      "club": "Etincelle",
+      "territory": "Martinique",
+      "status": "PROVISOIRE_NON_AUTHENTIQUE",
+      "filename": "1990262000203.png",
+      "monogram": "ETI",
+      "background_rgb": [
+        23,
+        79,
+        138
+      ],
+      "sha256": "4bc9d3604e9f535f977bb1c0a664ab77c5544f7f4da8506e0015d597a50d3f63",
+      "bytes": 1167
+    },
+    {
+      "team_id": "1990262000236",
+      "club": "Js Bois De Nefles",
+      "territory": "La Réunion",
+      "status": "PROVISOIRE_NON_AUTHENTIQUE",
+      "filename": "1990262000236.png",
+      "monogram": "BN",
+      "background_rgb": [
+        136,
+        57,
+        68
+      ],
+      "sha256": "e01f71eea4b6dcb39041271592aaff417003669daf924f488967381f3289136e",
+      "bytes": 1821
+    },
+    {
+      "team_id": "1990262000239",
+      "club": "Asc Labourdonnais",
+      "territory": "La Réunion",
+      "status": "PROVISOIRE_NON_AUTHENTIQUE",
+      "filename": "1990262000239.png",
+      "monogram": "LAB",
+      "background_rgb": [
+        49,
+        70,
+        125
+      ],
+      "sha256": "05529566ba997f3159214ea328e03e72ad86e4dc1f73bdc333178d6fb09b4424",
+      "bytes": 2229
+    },
+    {
+      "team_id": "1990262000241",
+      "club": "Jsc Rne Creuse",
+      "territory": "La Réunion",
+      "status": "PROVISOIRE_NON_AUTHENTIQUE",
+      "filename": "1990262000241.png",
+      "monogram": "RC",
+      "background_rgb": [
+        23,
+        79,
+        138
+      ],
+      "sha256": "5cd3ef227bbd35a21d80ad13ba6a95fb7bb5f7a2a9d0b889d893175c6ff1c6eb",
+      "bytes": 1963
+    },
+    {
+      "team_id": "1990262000252",
+      "club": "As Colimacons",
+      "territory": "La Réunion",
+      "status": "PROVISOIRE_NON_AUTHENTIQUE",
+      "filename": "1990262000252.png",
+      "monogram": "COL",
+      "background_rgb": [
+        119,
+        63,
+        115
+      ],
+      "sha256": "1cf0be4ba0b95bb5fc0b22940ed8b8954d4c331f9c51b2535cac9e4d3f1778a9",
+      "bytes": 2187
+    },
+    {
+      "team_id": "1990262000253",
+      "club": "Ajs Bellemene",
+      "territory": "La Réunion",
+      "status": "PROVISOIRE_NON_AUTHENTIQUE",
+      "filename": "1990262000253.png",
+      "monogram": "BEL",
+      "background_rgb": [
+        101,
+        57,
+        45
+      ],
+      "sha256": "9134edcb8a89a43083408cabf62ab7cca6be2c32451b1d0d9d83588e1123f57a",
+      "bytes": 1654
+    },
+    {
+      "team_id": "1990262000259",
+      "club": "As Du Plate",
+      "territory": "La Réunion",
+      "status": "PROVISOIRE_NON_AUTHENTIQUE",
+      "filename": "1990262000259.png",
+      "monogram": "PLA",
+      "background_rgb": [
+        31,
+        94,
+        112
+      ],
+      "sha256": "8f808c64323dc18bb5c03595cea2ca2a7e7bcdd35cf1e4598ec4e8c5dcc969e7",
+      "bytes": 1821
+    },
+    {
+      "team_id": "1990262000260",
+      "club": "E.S. Tamponnaise",
+      "territory": "La Réunion",
+      "status": "PROVISOIRE_NON_AUTHENTIQUE",
+      "filename": "1990262000260.png",
+      "monogram": "ET",
+      "background_rgb": [
+        113,
+        82,
+        30
+      ],
+      "sha256": "2b7261016067efabd97dc544145ad9468c8417ada12e425d101f9b7eee566e42",
+      "bytes": 1626
+    },
+    {
+      "team_id": "1990262000264",
+      "club": "Asfc Palmiste",
+      "territory": "La Réunion",
+      "status": "PROVISOIRE_NON_AUTHENTIQUE",
+      "filename": "1990262000264.png",
+      "monogram": "AP",
+      "background_rgb": [
+        90,
+        57,
+        130
+      ],
+      "sha256": "ba7b197f6e0a809ba185bf3676d6d05f688ae72c6d419ce8eecbb506ac97bb32",
+      "bytes": 1908
+    },
+    {
+      "team_id": "1990262000265",
+      "club": "A. M. Terre Sainte",
+      "territory": "La Réunion",
+      "status": "PROVISOIRE_NON_AUTHENTIQUE",
+      "filename": "1990262000265.png",
+      "monogram": "MT",
+      "background_rgb": [
+        101,
+        57,
+        45
+      ],
+      "sha256": "25bef4a12dc63be223b08c104c810b73a9b4a648804ef00f0aec5a806980d8cc",
+      "bytes": 1703
+    },
+    {
+      "team_id": "1990262000276",
+      "club": "Ef St Pierre",
+      "territory": "La Réunion",
+      "status": "PROVISOIRE_NON_AUTHENTIQUE",
+      "filename": "1990262000276.png",
+      "monogram": "ES",
+      "background_rgb": [
+        49,
+        70,
+        125
+      ],
+      "sha256": "13343b593a3c6f92a2256a03b0abf975c5dd10982f731c88c130299b8d06fc8a",
+      "bytes": 1626
+    },
+    {
+      "team_id": "1990262000279",
+      "club": "F.C. Pl D Gregues",
+      "territory": "La Réunion",
+      "status": "PROVISOIRE_NON_AUTHENTIQUE",
+      "filename": "1990262000279.png",
+      "monogram": "PG",
+      "background_rgb": [
+        119,
+        63,
+        115
+      ],
+      "sha256": "4d9c399e9163241551f65d0b05d9df5be1843c0c972f16c453838dbfe938208b",
+      "bytes": 2018
+    },
+    {
+      "team_id": "1990262000282",
+      "club": "Vaovao Sp Cult",
+      "territory": "La Réunion",
+      "status": "PROVISOIRE_NON_AUTHENTIQUE",
+      "filename": "1990262000282.png",
+      "monogram": "VS",
+      "background_rgb": [
+        31,
+        94,
+        112
+      ],
+      "sha256": "e459b034edca71f07aa13d2035b2225a4abe0e8150872e15dd62b80609844203",
+      "bytes": 2248
+    },
+    {
+      "team_id": "1990262000316",
+      "club": "Tohie’a FC",
+      "territory": "Polynésie française",
+      "status": "PROVISOIRE_NON_AUTHENTIQUE",
+      "filename": "1990262000316.png",
+      "monogram": "TOH",
+      "background_rgb": [
+        36,
+        81,
+        66
+      ],
+      "sha256": "e1439bccc508e20e343479d19be4daf92a729f6e76bfeb8f8dc26c0650940a0d",
+      "bytes": 1769
+    }
+  ]
+}
