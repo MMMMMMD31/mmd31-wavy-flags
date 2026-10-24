@@ -1,7 +1,7 @@
 {
   "expected": 34,
-  "created": 25,
-  "missing": 9,
+  "created": 33,
+  "missing": 1,
   "format": "120x96 authentic crest on club-color solid rectangle",
   "assets": [
     {
@@ -461,6 +461,158 @@
       ]
     },
     {
+      "id": 1947263000001,
+      "country": "XK",
+      "club": "FC Malisheva",
+      "source_url": "https://dsg-images.com/clubs/50x50/50994.png",
+      "source_description": "Global Sports Archive original competition logo, match checked by team name",
+      "background": "#9FB3DA",
+      "source_size_bytes": 5399,
+      "image_size": [
+        120,
+        96
+      ],
+      "sha256": "fa636f86e7fb94367ed92da3e3c4c2a72ebeb84cec2e3e0788ca678315e37e4a",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d1-2026/v1/1947263000001.png",
+      "source_resolution": [
+        44,
+        50
+      ]
+    },
+    {
+      "id": 1947263000002,
+      "country": "XK",
+      "club": "FC Prishtina",
+      "source_url": "https://dsg-images.com/clubs/50x50/14698.png",
+      "source_description": "Global Sports Archive original competition logo, match checked by team name",
+      "background": "#8FB8E7",
+      "source_size_bytes": 23607,
+      "image_size": [
+        120,
+        96
+      ],
+      "sha256": "c2f9183c9013ed9e2527589869597e44b30312a60da04fff16877c0bb0539573",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d1-2026/v1/1947263000002.png",
+      "source_resolution": [
+        38,
+        50
+      ]
+    },
+    {
+      "id": 1947263000003,
+      "country": "XK",
+      "club": "FC Drita",
+      "source_url": "https://dsg-images.com/clubs/50x50/14700.png",
+      "source_description": "Global Sports Archive original competition logo, match checked by team name",
+      "background": "#91BED3",
+      "source_size_bytes": 6287,
+      "image_size": [
+        120,
+        96
+      ],
+      "sha256": "f3dc09e930bc7b583f9830ca49b36336022cc2ff6ceef6393e3fb6a2bc760fe0",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d1-2026/v1/1947263000003.png",
+      "source_resolution": [
+        38,
+        50
+      ]
+    },
+    {
+      "id": 1947263000004,
+      "country": "XK",
+      "club": "SC Gjilani",
+      "source_url": "https://dsg-images.com/clubs/50x50/14714.png",
+      "source_description": "Global Sports Archive original competition logo, match checked by team name",
+      "background": "#CFA3A3",
+      "source_size_bytes": 28135,
+      "image_size": [
+        120,
+        96
+      ],
+      "sha256": "4ebfb89d88be6d2ef8be2f0968ae2de200583619cd1534f6166ff72f5e672b32",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d1-2026/v1/1947263000004.png",
+      "source_resolution": [
+        50,
+        50
+      ]
+    },
+    {
+      "id": 1947263000006,
+      "country": "XK",
+      "club": "FC Ballkani",
+      "source_url": "https://dsg-images.com/clubs/50x50/14715.png",
+      "source_description": "Global Sports Archive original competition logo, match checked by team name",
+      "background": "#CEAEA4",
+      "source_size_bytes": 5521,
+      "image_size": [
+        120,
+        96
+      ],
+      "sha256": "5ed6646a8754ea71e1b834a74866eb60801be6c4964faa557a1c764815c5dced",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d1-2026/v1/1947263000006.png",
+      "source_resolution": [
+        49,
+        50
+      ]
+    },
+    {
+      "id": 1947263000007,
+      "country": "XK",
+      "club": "KF Drenica",
+      "source_url": "https://www.dsg-images.com/sport_entity/50x50/5615.png",
+      "source_description": "Global Sports Archive original competition logo, match checked by team name",
+      "background": "#D29CAC",
+      "source_size_bytes": 7345,
+      "image_size": [
+        120,
+        96
+      ],
+      "sha256": "f2700bafc87a28854739bf103acc5a8c58010762d34e989e4286c379c0bb010f",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d1-2026/v1/1947263000007.png",
+      "source_resolution": [
+        48,
+        50
+      ]
+    },
+    {
+      "id": 1947263000008,
+      "country": "XK",
+      "club": "FC Feronikeli 74",
+      "source_url": "https://dsg-images.com/clubs/50x50/14705.png",
+      "source_description": "Global Sports Archive original competition logo, match checked by team name",
+      "background": "#97B5C4",
+      "source_size_bytes": 28943,
+      "image_size": [
+        120,
+        96
+      ],
+      "sha256": "db58351d575aeb301d15043ec1807f42eb52749129b02ba7c053f23185062652",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d1-2026/v1/1947263000008.png",
+      "source_resolution": [
+        50,
+        50
+      ]
+    },
+    {
+      "id": 1947263000009,
+      "country": "XK",
+      "club": "KF Llapi",
+      "source_url": "https://dsg-images.com/clubs/50x50/14722.png",
+      "source_description": "Global Sports Archive original competition logo, match checked by team name",
+      "background": "#91B2DE",
+      "source_size_bytes": 7675,
+      "image_size": [
+        120,
+        96
+      ],
+      "sha256": "3dbf351f786b24e86cde20a9b6cb89cf8646b07aba3f44fd325d7594b2801ce6",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d1-2026/v1/1947263000009.png",
+      "source_resolution": [
+        50,
+        45
+      ]
+    },
+    {
       "id": 1947263000010,
       "country": "XK",
       "club": "FC Vushtrria",
@@ -482,67 +634,11 @@
   ],
   "unresolved": [
     {
-      "id": 1947263000001,
-      "country": "XK",
-      "name": "FC Malisheva",
-      "error": "cannot identify image file <_io.BytesIO object at 0x7f2bba95dd00>",
-      "source_key": "FFK_Malisheva"
-    },
-    {
-      "id": 1947263000002,
-      "country": "XK",
-      "name": "FC Prishtina",
-      "error": "cannot identify image file <_io.BytesIO object at 0x7f2bb992e610>",
-      "source_key": "FFK_Prishtina"
-    },
-    {
-      "id": 1947263000003,
-      "country": "XK",
-      "name": "FC Drita",
-      "error": "cannot identify image file <_io.BytesIO object at 0x7f2bba95dd00>",
-      "source_key": "FFK_Drita"
-    },
-    {
-      "id": 1947263000004,
-      "country": "XK",
-      "name": "SC Gjilani",
-      "error": "403 Client Error: Forbidden for url: https://www.ffk-ks.com/wp-content/uploads/2024/08/LogoSCGjilani.png",
-      "source_key": "FFK_Gjilani"
-    },
-    {
       "id": 1947263000005,
       "country": "XK",
       "name": "KF Dukagjini",
-      "error": "cannot identify image file <_io.BytesIO object at 0x7f2bba95dd00>",
+      "error": "No identifiable club crest in verified sports competition source Dukagjini",
       "source_key": "FFK_Dukagjini"
-    },
-    {
-      "id": 1947263000006,
-      "country": "XK",
-      "name": "FC Ballkani",
-      "error": "cannot identify image file <_io.BytesIO object at 0x7f2bb992e610>",
-      "source_key": "FFK_Ballkani"
-    },
-    {
-      "id": 1947263000007,
-      "country": "XK",
-      "name": "KF Drenica",
-      "error": "cannot identify image file <_io.BytesIO object at 0x7f2bba95dd00>",
-      "source_key": "FFK_Drenica"
-    },
-    {
-      "id": 1947263000008,
-      "country": "XK",
-      "name": "FC Feronikeli 74",
-      "error": "403 Client Error: Forbidden for url: https://www.ffk-ks.com/wp-content/uploads/2023/08/feronikelilogo1.png",
-      "source_key": "FFK_Feronikeli"
-    },
-    {
-      "id": 1947263000009,
-      "country": "XK",
-      "name": "KF Llapi",
-      "error": "cannot identify image file <_io.BytesIO object at 0x7f2bba95dd00>",
-      "source_key": "FFK_Llapi"
     }
   ]
 }
