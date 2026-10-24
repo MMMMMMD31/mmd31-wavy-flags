@@ -169,7 +169,7 @@ TRANSFERMARKT_GROUNDED_CLUB_IDS={
  "Torpedo Kutaisi": 253,
  "Gagra": 22842,
  "Spaeri": 72702,
- "Meshakhte Tkibuli": 35056
+ "Meshakhte Tkibuli": 35056,"FC Minsk":23664,"Torpedo-BelAZ Zhodino":7964,"Slavia Mozyr":6423,"Baranovichi":24009,"Arsenal Dzerzhinsk":72822,"Belshina Bobruisk":3886,"Dnepr Mogilev":4394,"Naftan Novopolotsk":8563
 }
 
 g=guardian_catalog();e=espn_catalog()
