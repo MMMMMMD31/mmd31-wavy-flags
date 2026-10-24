@@ -1,0 +1,14 @@
+{
+  "displayName": "Northern Ireland Football League (NIFL)",
+  "sourcePage": "https://www.irishfa.com/ifa-domestic/leagues/nifl-premiership",
+  "sourceImage": "https://www.irishfa.com/media/48995/nifl-logo.png",
+  "publishedPath": "docs/nir-clubs-2026-27/competition/northern_ireland_football_league.png",
+  "sourcePublisher": "Irish Football Association — NIFL Premiership page",
+  "imageType": "PNG",
+  "dimensions": [
+    1000,
+    562
+  ],
+  "sha256": "3bd75b13673f5129cf424bd67e54bafe3b5220b1e4ee1cb54e92b41cd59d6bf8",
+  "note": "NIFL is the competition's highest-division organizer; local divisions administered by other associations."
+}
