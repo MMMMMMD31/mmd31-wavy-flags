@@ -143,6 +143,35 @@ def plate(im):
  out=Image.new('RGBA',(120,96),bg+(255,))
  out.alpha_composite(im,((120-im.width)//2,(96-im.height)//2))
  return out.convert('RGB'),bg
+TRANSFERMARKT_GROUNDED_CLUB_IDS={
+ "Polissya Zhytomyr": 53646,
+ "FC Kharkiv": 55686,
+ "Karpaty Lviv": 85465,
+ "LNZ Cherkasy": 63007,
+ "Kolos Kovalivka": 48332,
+ "Epitsentr Kamianets-Podilskyi": 84122,
+ "Veres Rivne": 26459,
+ "Livyi Bereh Kyiv": 86209,
+ "Bukovyna Chernivtsi": 21903,
+ "Obolon Kyiv": 39097,
+ "Kudrivka": 87883,
+ "Kryvbas Kryvyi Rih": 3592,
+ "FC Zimbru Chișinău": 2714,
+ "FC Petrocub Hîncești": 46643,
+ "Dacia Buiucani": 39003,
+ "FC Milsami Orhei": 30686,
+ "FC Politehnica UTM": 90107,
+ "FC Real Sireți": 128633,
+ "CSF Bălți": 83016,
+ "Dinamo Batumi": 11344,
+ "Rustavi": 1799,
+ "Samgurali Tsqaltubo": 29675,
+ "Torpedo Kutaisi": 253,
+ "Gagra": 22842,
+ "Spaeri": 72702,
+ "Meshakhte Tkibuli": 35056
+}
+
 g=guardian_catalog();e=espn_catalog()
 saved={}
 try:
@@ -155,6 +184,8 @@ for row in ROWS:
   for catalog in (e,g):
    z=catalog.get(norm(n))
    if z and z not in cand:cand.append(z)
+ tm_id=TRANSFERMARKT_GROUNDED_CLUB_IDS.get(team)
+ if tm_id:cand.append((f'https://tmssl.akamaized.net/images/wappen/head/{tm_id}.png','Transfermarkt club identity verified via public league roster',team))
  extra=sportsdb(team)
  if extra:cand.append(extra)
  if not cand:
