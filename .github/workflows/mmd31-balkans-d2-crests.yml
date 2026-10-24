@@ -1,0 +1,33 @@
+name: Generate authentic Balkan D2 team crests (2026)
+on:
+  push:
+    branches:
+      - mmd31-balkans-d1-2026-test
+    paths:
+      - tools/mmd31_balkans_d2_crests_2026.py
+      - .github/workflows/mmd31-balkans-d2-crests.yml
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  images:
+    runs-on: ubuntu-latest
+    timeout-minutes: 18
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install pillow requests beautifulsoup4 cairosvg
+      - run: python tools/mmd31_balkans_d2_crests_2026.py
+      - name: Commit verified crest images and unresolved audit
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/balkans-d2-2026/v1/
+          if ! git diff --cached --quiet; then
+            git commit -m "Publish new D2 club crest flags and sourcing manifest"
+            git push origin HEAD:refs/heads/$GITHUB_REF_NAME
+          fi
