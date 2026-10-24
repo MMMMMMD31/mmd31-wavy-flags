@@ -18,7 +18,7 @@ def source_for(country,key):
  if key=="BSK_FALLBACK":return WIKI_BSK,"Wikipedia club crest (250px verified)","wiki"
  if key=="FFK_Vushtrria":return GSA_FC_VUSHTRRIA,"Global Sports Archive verified club roster crest","gsa"
  if key.startswith("FFK_"):
-  alt=FFK_KEY[key]
+  alt="KF Dukagjini Klinë" if key=="FFK_Dukagjini" else FFK_KEY[key]
   # Official federation CDN blocks hotlinking; use identified football competition imagery.
   matches=[q for q in SOURCE["Kosovo competition"]["images"] if q["alt"].lower().startswith("logo of ") and q["alt"].lower().endswith(alt.lower()) and "/50x50/" in q["src"]]
   if not matches:raise ValueError("No identifiable club crest in verified sports competition source "+alt)
