@@ -1,0 +1,13 @@
+{
+  "identity": "Northern Ireland Football League (NIFL)",
+  "original": "docs/nir-clubs-2026-27/competition/northern_ireland_football_league.png",
+  "new": "docs/nir-clubs-2026-27/competition/northern_ireland_football_league_square.png",
+  "dimensions": [
+    512,
+    512
+  ],
+  "aspect": "1:1",
+  "sha256": "b5dcf7c1de9549b34f78265deede361810abf4be0fdaa279f381131d04fad413",
+  "method": "original logo centered on white 512 square; no redrawing",
+  "source": "https://www.irishfa.com/media/48995/nifl-logo.png"
+}
