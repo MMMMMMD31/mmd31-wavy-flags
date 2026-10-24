@@ -1,0 +1,1444 @@
+{
+  "page_meta": {
+    "D4_VV_A": {
+      "status": 200,
+      "count": 16,
+      "url": "https://www.foot24.be/nl/competities/2de-afdeling-voetb-vl-a-5"
+    },
+    "D4_VV_B": {
+      "status": 200,
+      "count": 16,
+      "url": "https://www.foot24.be/nl/competities/2de-afdeling-voetb-vl-b-5"
+    },
+    "D5_VV_A": {
+      "status": 200,
+      "count": 15,
+      "url": "https://www.foot24.be/nl/competities/3de-afdeling-voetb-vl-a-5"
+    },
+    "D5_VV_B": {
+      "status": 200,
+      "count": 17,
+      "url": "https://www.foot24.be/nl/competities/3de-afdeling-voetb-vl-b-5"
+    },
+    "D4_FFA": {
+      "status": 200,
+      "count": 0,
+      "url": "https://www.foot24.be/nl/competities/2e-nationale-5"
+    }
+  },
+  "assets": [
+    {
+      "id": 1900262703000,
+      "name": "Koninklijke Eendracht Aalst Lede",
+      "group": "D4_VV_A",
+      "status": "SOURCE_LINKED_PUBLISHED",
+      "sourceTeam": "KONINKLIJKE EENDRACHT AALST LEDE",
+      "matchConfidence": 100,
+      "source": "https://www.foot24.be/logos/03957.jpg",
+      "sourcePage": "https://www.foot24.be/nl/competities/2de-afdeling-voetb-vl-a-5",
+      "sourceClubPages": [
+        "https://www.foot24.be/nl/clubs/kvc-jong-lede/1-6538"
+      ],
+      "sourceDimensions": [
+        132,
+        160
+      ],
+      "background": [
+        188,
+        231,
+        176
+      ],
+      "sha256": "771a83df9f06c1489375f4ec2feb01e6a0cfedbf09e62cba875d9ea1e1afb525",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-d4-d5-v17-crests-fast/docs/belgian-d4-d5-2026-27/v17/1900262703000.png"
+    },
+    {
+      "id": 1900262703001,
+      "name": "KV Diksmuide-Oostende",
+      "group": "D4_VV_A",
+      "status": "SOURCE_LINKED_PUBLISHED",
+      "sourceTeam": "KV. DIKSMUIDE OOSTENDE",
+      "matchConfidence": 100,
+      "source": "https://www.foot24.be/logos/01972.jpg",
+      "sourcePage": "https://www.foot24.be/nl/competities/2de-afdeling-voetb-vl-a-5",
+      "sourceClubPages": [
+        "https://www.foot24.be/nl/clubs/ksv-diksmuide/1-a-2488"
+      ],
+      "sourceDimensions": [
+        91,
+        100
+      ],
+      "background": [
+        239,
+        237,
+        176
+      ],
+      "sha256": "227771104951ed44b2c903fd22d9787bea81e8fee299b4b7b585571bb48d8c3c",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-d4-d5-v17-crests-fast/docs/belgian-d4-d5-2026-27/v17/1900262703001.png"
+    },
+    {
+      "id": 1900262703002,
+      "name": "Racing Club Gent",
+      "group": "D4_VV_A",
+      "status": "SOURCE_LINKED_PUBLISHED",
+      "sourceTeam": "RACING CLUB GENT",
+      "matchConfidence": 100,
+      "source": "https://www.foot24.be/logos/00011.jpg",
+      "sourcePage": "https://www.foot24.be/nl/competities/2de-afdeling-voetb-vl-a-5",
+      "sourceClubPages": [
+        "https://www.foot24.be/nl/clubs/racing-club-gent/1-6330"
+      ],
+      "sourceDimensions": [
+        99,
+        100
+      ],
+      "background": [
+        221,
+        226,
+        233
+      ],
+      "sha256": "d8fd8cdc514d8094d3fd4f14bdd120e1e4d2fad82ae44a1c50b4fb2bc23ddc09",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-d4-d5-v17-crests-fast/docs/belgian-d4-d5-2026-27/v17/1900262703002.png"
+    },
+    {
+      "id": 1900262703003,
+      "name": "KFC Vigor Wuitens Hamme",
+      "group": "D4_VV_A",
+      "status": "SOURCE_LINKED_PUBLISHED",
+      "sourceTeam": "KFC. VIGOR WUITENS HAMME",
+      "matchConfidence": 100,
+      "source": "https://www.foot24.be/logos/00211.jpg",
+      "sourcePage": "https://www.foot24.be/nl/competities/2de-afdeling-voetb-vl-a-5",
+      "sourceClubPages": [
+        "https://www.foot24.be/nl/clubs/kfc-vigor-wuitens-hamme/1-6354"
+      ],
+      "sourceDimensions": [
+        141,
+        160
+      ],
+      "background": [
+        176,
+        203,
+        224
+      ],
+      "sha256": "b5ec1066d981688cdd52a6fa457e5c23109599c2c87e4563116a01921620a131",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-d4-d5-v17-crests-fast/docs/belgian-d4-d5-2026-27/v17/1900262703003.png"
+    },
+    {
+      "id": 1900262703004,
+      "name": "SV Zulte Waregem B",
+      "group": "D4_VV_A",
+      "status": "PARENT_REUSED_IN_JSON"
+    },
+    {
+      "id": 1900262703005,
+      "name": "KV Mechelen B",
+      "group": "D4_VV_A",
+      "status": "PARENT_REUSED_IN_JSON"
+    },
+    {
+      "id": 1900262703006,
+      "name": "KFC HO Kalken",
+      "group": "D4_VV_A",
+      "status": "SOURCE_LINKED_PUBLISHED",
+      "sourceTeam": "KFC. HOGER OP KALKEN",
+      "matchConfidence": 81.2,
+      "source": "https://www.foot24.be/logos/04139.jpg",
+      "sourcePage": "https://www.foot24.be/nl/competities/2de-afdeling-voetb-vl-a-5",
+      "sourceClubPages": [
+        "https://www.foot24.be/nl/clubs/kfc-hoger-op-kalken/1-a-2626"
+      ],
+      "sourceDimensions": [
+        180,
+        180
+      ],
+      "background": [
+        228,
+        182,
+        183
+      ],
+      "sha256": "a620f1025e47c586450474cc86cf9a59d9c33aa3c10c11ff98e798fe5c07c0ad",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-d4-d5-v17-crests-fast/docs/belgian-d4-d5-2026-27/v17/1900262703006.png"
+    },
+    {
+      "id": 1900262703007,
+      "name": "FC Lebbeke",
+      "group": "D4_VV_A",
+      "status": "SOURCE_LINKED_PUBLISHED",
+      "sourceTeam": "FC LEBBEKE",
+      "matchConfidence": 100,
+      "source": "https://www.foot24.be/logos/08601.jpg",
+      "sourcePage": "https://www.foot24.be/nl/competities/2de-afdeling-voetb-vl-a-5",
+      "sourceClubPages": [
+        "https://www.foot24.be/nl/clubs/fc-lebbeke/1-6890"
+      ],
+      "sourceDimensions": [
+        78,
+        100
+      ],
+      "background": [
+        240,
+        235,
+        176
+      ],
+      "sha256": "1949cbcc0ee5c39af4a4be0508d7c9d12848d937c5376687b57c34892801ffba",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-d4-d5-v17-crests-fast/docs/belgian-d4-d5-2026-27/v17/1900262703007.png"
+    },
+    {
+      "id": 1900262703008,
+      "name": "K Londerzeel SK",
+      "group": "D4_VV_A",
+      "status": "SOURCE_LINKED_PUBLISHED",
+      "sourceTeam": "K. LONDERZEEL SK.",
+      "matchConfidence": 100,
+      "source": "https://www.foot24.be/logos/03630.jpg",
+      "sourcePage": "https://www.foot24.be/nl/competities/2de-afdeling-voetb-vl-a-5",
+      "sourceClubPages": [
+        "https://www.foot24.be/nl/clubs/k-londerzeel-sk/1-6515"
+      ],
+      "sourceDimensions": [
+        157,
+        160
+      ],
+      "background": [
+        237,
+        176,
+        177
+      ],
+      "sha256": "c3d8e73edfba8329398cb27efa7622c2fd368fb5117249e04397cef4069307f9",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-d4-d5-v17-crests-fast/docs/belgian-d4-d5-2026-27/v17/1900262703008.png"
+    },
+    {
+      "id": 1900262703009,
+      "name": "VK Ninove",
+      "group": "D4_VV_A",
+      "status": "SOURCE_LINKED_PUBLISHED",
+      "sourceTeam": "VK. NINOVE",
+      "matchConfidence": 100,
+      "source": "https://www.foot24.be/logos/02373.jpg",
+      "sourcePage": "https://www.foot24.be/nl/competities/2de-afdeling-voetb-vl-a-5",
+      "sourceClubPages": [
+        "https://www.foot24.be/nl/clubs/vk-ninove/1-a-2507"
+      ],
+      "sourceDimensions": [
+        123,
+        160
+      ],
+      "background": [
+        177,
+        216,
+        188
+      ],
+      "sha256": "dbf0e3ec8badfa9f2bb540ef4b4b9d8671609f15746d1f6b094f6cfbbc4ecb70",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-d4-d5-v17-crests-fast/docs/belgian-d4-d5-2026-27/v17/1900262703009.png"
+    },
+    {
+      "id": 1900262703010,
+      "name": "KSV Oudenaarde",
+      "group": "D4_VV_A",
+      "status": "SOURCE_LINKED_PUBLISHED",
+      "sourceTeam": "KSV. OUDENAARDE",
+      "matchConfidence": 100,
+      "source": "https://www.foot24.be/logos/00081.jpg",
+      "sourcePage": "https://www.foot24.be/nl/competities/2de-afdeling-voetb-vl-a-5",
+      "sourceClubPages": [
+        "https://www.foot24.be/nl/clubs/ksv-oudenaarde/1-6340"
+      ],
+      "sourceDimensions": [
+        160,
+        160
+      ],
+      "background": [
+        240,
+        240,
+        176
+      ],
+      "sha256": "17c31b2345203d478584b8105bc592a906713fb11dcb38402f7a527ed4af2521",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-d4-d5-v17-crests-fast/docs/belgian-d4-d5-2026-27/v17/1900262703010.png"
+    },
+    {
+      "id": 1900262703011,
+      "name": "KVCSV Oostkamp",
+      "group": "D4_VV_A",
+      "status": "SOURCE_LINKED_PUBLISHED",
+      "sourceTeam": "KSV. OOSTKAMP",
+      "matchConfidence": 100,
+      "source": "https://www.foot24.be/logos/05956.jpg",
+      "sourcePage": "https://www.foot24.be/nl/competities/2de-afdeling-voetb-vl-a-5",
+      "sourceClubPages": [
+        "https://www.foot24.be/nl/clubs/kvcsv-oostkamp/1-a-2730"
+      ],
+      "sourceDimensions": [
+        160,
+        160
+      ],
+      "background": [
+        231,
+        182,
+        178
+      ],
+      "sha256": "685b8bd33a09e596e903aba420d29a2efbdf27fb64a782e88a31dc9d22d7348d",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-d4-d5-v17-crests-fast/docs/belgian-d4-d5-2026-27/v17/1900262703011.png"
+    },
+    {
+      "id": 1900262703012,
+      "name": "Sparta Petegem-Deinze",
+      "group": "D4_VV_A",
+      "status": "SOURCE_LINKED_PUBLISHED",
+      "sourceTeam": "SPARTA PETEGEM DEINZE",
+      "matchConfidence": 100,
+      "source": "https://www.foot24.be/logos/03821.jpg",
+      "sourcePage": "https://www.foot24.be/nl/competities/2de-afdeling-voetb-vl-a-5",
+      "sourceClubPages": [
+        "https://www.foot24.be/nl/clubs/kfc-sparta-petegem/1-a-2602"
+      ],
+      "sourceDimensions": [
+        100,
+        100
+      ],
+      "background": [
+        176,
+        209,
+        192
+      ],
+      "sha256": "9ab4d14049a76aa60777fe78b7262b342c4a119592eb15fc6f906141573499a0",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-d4-d5-v17-crests-fast/docs/belgian-d4-d5-2026-27/v17/1900262703012.png"
+    },
+    {
+      "id": 1900262703013,
+      "name": "KM Torhout",
+      "group": "D4_VV_A",
+      "status": "SOURCE_LINKED_PUBLISHED",
+      "sourceTeam": "KM TORHOUT",
+      "matchConfidence": 100,
+      "source": "https://www.foot24.be/logos/00822.jpg",
+      "sourcePage": "https://www.foot24.be/nl/competities/2de-afdeling-voetb-vl-a-5",
+      "sourceClubPages": [
+        "https://www.foot24.be/nl/clubs/km-torhout/1-a-2441"
+      ],
+      "sourceDimensions": [
+        142,
+        140
+      ],
+      "background": [
+        185,
+        214,
+        189
+      ],
+      "sha256": "62098fd2105f994df1597cf6db5aaedb9cb7ef414158a37306c7e8b064845bdc",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-d4-d5-v17-crests-fast/docs/belgian-d4-d5-2026-27/v17/1900262703013.png"
+    },
+    {
+      "id": 1900262703014,
+      "name": "KFC Voorde-Appelterre",
+      "group": "D4_VV_A",
+      "status": "SOURCE_FETCH_FAILED",
+      "sourceTeam": "KFC VOORDE-APPELTERRE",
+      "matchConfidence": 100,
+      "source": "https://www.foot24.be/logos/03964.jpg",
+      "sourcePage": "https://www.foot24.be/nl/competities/2de-afdeling-voetb-vl-a-5",
+      "sourceClubPages": [
+        "https://www.foot24.be/nl/clubs/kfc-voorde-appelterre/1-a-2619"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.foot24.be/logos/03964.jpg"
+    },
+    {
+      "id": 1900262703015,
+      "name": "RFC Wetteren",
+      "group": "D4_VV_A",
+      "status": "SOURCE_LINKED_PUBLISHED",
+      "sourceTeam": "RFC WETTEREN",
+      "matchConfidence": 100,
+      "source": "https://www.foot24.be/logos/00095.jpg",
+      "sourcePage": "https://www.foot24.be/nl/competities/2de-afdeling-voetb-vl-a-5",
+      "sourceClubPages": [
+        "https://www.foot24.be/nl/clubs/rfc-wetteren/1-6342"
+      ],
+      "sourceDimensions": [
+        100,
+        100
+      ],
+      "background": [
+        240,
+        229,
+        177
+      ],
+      "sha256": "85b80c6d0103efe4c45d7bf22d9d1373f8145f8390e52badffa4edbb009743ed",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-d4-d5-v17-crests-fast/docs/belgian-d4-d5-2026-27/v17/1900262703015.png"
+    },
+    {
+      "id": 1900262703016,
+      "name": "Bocholter VV",
+      "group": "D4_VV_B",
+      "status": "SOURCE_FETCH_FAILED",
+      "sourceTeam": "K. BOCHOLTER VV.",
+      "matchConfidence": 92.3,
+      "source": "https://www.foot24.be/logos/00595.jpg",
+      "sourcePage": "https://www.foot24.be/nl/competities/2de-afdeling-voetb-vl-b-5",
+      "sourceClubPages": [
+        "https://www.foot24.be/nl/clubs/k-bocholter-vv/1-a-2434"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.foot24.be/logos/00595.jpg"
+    },
+    {
+      "id": 1900262703017,
+      "name": "R Cappellen FC",
+      "group": "D4_VV_B",
+      "status": "SOURCE_FETCH_FAILED",
+      "sourceTeam": "R. CAPPELLEN FC.",
+      "matchConfidence": 100,
+      "source": "https://www.foot24.be/logos/00043.jpg",
+      "sourcePage": "https://www.foot24.be/nl/competities/2de-afdeling-voetb-vl-b-5",
+      "sourceClubPages": [
+        "https://www.foot24.be/nl/clubs/r-cappellen-fc/1-a-2372"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.foot24.be/logos/00043.jpg"
+    },
+    {
+      "id": 1900262703018,
+      "name": "KFC De Kempen TL",
+      "group": "D4_VV_B",
+      "status": "SOURCE_FETCH_FAILED",
+      "sourceTeam": "KFC DE KEMPEN TIELEN-LICHTAART",
+      "matchConfidence": 100,
+      "source": "https://www.foot24.be/logos/04469.jpg",
+      "sourcePage": "https://www.foot24.be/nl/competities/2de-afdeling-voetb-vl-b-5",
+      "sourceClubPages": [
+        "https://www.foot24.be/nl/clubs/kfc-de-kempen-tielen-lichtaart/1-a-2652"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.foot24.be/logos/04469.jpg"
+    },
+    {
+      "id": 1900262703019,
+      "name": "K Diegem Sport",
+      "group": "D4_VV_B",
+      "status": "SOURCE_FETCH_FAILED",
+      "sourceTeam": "K. DIEGEM SPORT",
+      "matchConfidence": 100,
+      "source": "https://www.foot24.be/logos/03887.jpg",
+      "sourcePage": "https://www.foot24.be/nl/competities/2de-afdeling-voetb-vl-b-5",
+      "sourceClubPages": [
+        "https://www.foot24.be/nl/clubs/k-diegem-sport/1-6529"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.foot24.be/logos/03887.jpg"
+    },
+    {
+      "id": 1900262703020,
+      "name": "RC Hades Kiewit",
+      "group": "D4_VV_B",
+      "status": "SOURCE_LINKED_PUBLISHED",
+      "sourceTeam": "RC HADES KIEWIT HASSELT",
+      "matchConfidence": 100,
+      "source": "https://www.foot24.be/logos/08721.jpg",
+      "sourcePage": "https://www.foot24.be/nl/competities/2de-afdeling-voetb-vl-b-5",
+      "sourceClubPages": [
+        "https://www.foot24.be/nl/clubs/rc-hades-kiewit-hasselt/1-a-2893"
+      ],
+      "sourceDimensions": [
+        148,
+        160
+      ],
+      "background": [
+        181,
+        212,
+        197
+      ],
+      "sha256": "b0948994eec7ec2f8f323700e4b3506c910d9a736c7622a7d9e47a046144bac0",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-d4-d5-v17-crests-fast/docs/belgian-d4-d5-2026-27/v17/1900262703020.png"
+    },
+    {
+      "id": 1900262703021,
+      "name": "K Racing Mechelen",
+      "group": "D4_VV_B",
+      "status": "SOURCE_FETCH_FAILED",
+      "sourceTeam": "KRC. MECHELEN",
+      "matchConfidence": 100,
+      "source": "https://www.foot24.be/logos/00024.jpg",
+      "sourcePage": "https://www.foot24.be/nl/competities/2de-afdeling-voetb-vl-b-5",
+      "sourceClubPages": [
+        "https://www.foot24.be/nl/clubs/krc-mechelen/1-6332"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.foot24.be/logos/00024.jpg"
+    },
+    {
+      "id": 1900262703022,
+      "name": "KFC Nijlen",
+      "group": "D4_VV_B",
+      "status": "SOURCE_FETCH_FAILED",
+      "sourceTeam": "KFC. NIJLEN",
+      "matchConfidence": 100,
+      "source": "https://www.foot24.be/logos/01065.jpg",
+      "sourcePage": "https://www.foot24.be/nl/competities/2de-afdeling-voetb-vl-b-5",
+      "sourceClubPages": [
+        "https://www.foot24.be/nl/clubs/kfc-nijlen/1-a-2449"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.foot24.be/logos/01065.jpg"
+    },
+    {
+      "id": 1900262703023,
+      "name": "Tempo Overijse",
+      "group": "D4_VV_B",
+      "status": "SOURCE_FETCH_FAILED",
+      "sourceTeam": "TEMPO OVERIJSE",
+      "matchConfidence": 100,
+      "source": "https://www.foot24.be/logos/08715.jpg",
+      "sourcePage": "https://www.foot24.be/nl/competities/2de-afdeling-voetb-vl-b-5",
+      "sourceClubPages": [
+        "https://www.foot24.be/nl/clubs/tempo-overijse/1-6897"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.foot24.be/logos/08715.jpg"
+    },
+    {
+      "id": 1900262703024,
+      "name": "Sportief Rotselaar",
+      "group": "D4_VV_B",
+      "status": "SOURCE_FETCH_FAILED",
+      "sourceTeam": "SPORTIEF ROTSELAAR",
+      "matchConfidence": 100,
+      "source": "https://www.foot24.be/logos/06909.jpg",
+      "sourcePage": "https://www.foot24.be/nl/competities/2de-afdeling-voetb-vl-b-5",
+      "sourceClubPages": [
+        "https://www.foot24.be/nl/clubs/sportief-rotselaar/1-a-2787"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.foot24.be/logos/06909.jpg"
+    },
+    {
+      "id": 1900262703025,
+      "name": "Rupel Boom",
+      "group": "D4_VV_B",
+      "status": "SOURCE_FETCH_FAILED",
+      "sourceTeam": "K. RUPEL BOOM FC.",
+      "matchConfidence": 90.0,
+      "source": "https://www.foot24.be/logos/02138.jpg",
+      "sourcePage": "https://www.foot24.be/nl/competities/2de-afdeling-voetb-vl-b-5",
+      "sourceClubPages": [
+        "https://www.foot24.be/nl/clubs/k-rupel-boom-fc/1-a-2496"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.foot24.be/logos/02138.jpg"
+    },
+    {
+      "id": 1900262703026,
+      "name": "Sint-Truidense VV B",
+      "group": "D4_VV_B",
+      "status": "PARENT_REUSED_IN_JSON"
+    },
+    {
+      "id": 1900262703027,
+      "name": "Eendracht Termien",
+      "group": "D4_VV_B",
+      "status": "SOURCE_FETCH_FAILED",
+      "sourceTeam": "EENDRACHT TERMIEN",
+      "matchConfidence": 100,
+      "source": "https://www.foot24.be/logos/07919.jpg",
+      "sourcePage": "https://www.foot24.be/nl/competities/2de-afdeling-voetb-vl-b-5",
+      "sourceClubPages": [
+        "https://www.foot24.be/nl/clubs/eendracht-termien/1-6834"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.foot24.be/logos/07919.jpg"
+    },
+    {
+      "id": 1900262703028,
+      "name": "KSK Tongeren",
+      "group": "D4_VV_B",
+      "status": "SOURCE_FETCH_FAILED",
+      "sourceTeam": "KSK TONGEREN",
+      "matchConfidence": 100,
+      "source": "https://www.foot24.be/logos/00054.jpg",
+      "sourcePage": "https://www.foot24.be/nl/competities/2de-afdeling-voetb-vl-b-5",
+      "sourceClubPages": [
+        "https://www.foot24.be/nl/clubs/ksk-tongeren/1-6335"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.foot24.be/logos/00054.jpg"
+    },
+    {
+      "id": 1900262703029,
+      "name": "KVK Wellen",
+      "group": "D4_VV_B",
+      "status": "SOURCE_LINKED_PUBLISHED",
+      "sourceTeam": "KVK. WELLEN",
+      "matchConfidence": 100,
+      "source": "https://www.foot24.be/logos/02825.jpg",
+      "sourcePage": "https://www.foot24.be/nl/competities/2de-afdeling-voetb-vl-b-5",
+      "sourceClubPages": [
+        "https://www.foot24.be/nl/clubs/kvk-wellen/1-6467"
+      ],
+      "sourceDimensions": [
+        138,
+        160
+      ],
+      "background": [
+        239,
+        221,
+        176
+      ],
+      "sha256": "57e2b9e8bcb9e9584de5b4856678cbddaa2a30054aeb16e7029f0d25c95024e9",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-d4-d5-v17-crests-fast/docs/belgian-d4-d5-2026-27/v17/1900262703029.png"
+    },
+    {
+      "id": 1900262703030,
+      "name": "KVC Wilrijk",
+      "group": "D4_VV_B",
+      "status": "SOURCE_FETCH_FAILED",
+      "sourceTeam": "KVC WILRIJK",
+      "matchConfidence": 100,
+      "source": "https://www.foot24.be/logos/09307.jpg",
+      "sourcePage": "https://www.foot24.be/nl/competities/2de-afdeling-voetb-vl-b-5",
+      "sourceClubPages": [
+        "https://www.foot24.be/nl/clubs/vc-wilrijk/1-a-2927"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.foot24.be/logos/09307.jpg"
+    },
+    {
+      "id": 1900262703031,
+      "name": "Royal Antwerp FC B",
+      "group": "D4_VV_B",
+      "status": "PARENT_REUSED_IN_JSON"
+    },
+    {
+      "id": 1900262703036,
+      "name": "KAS Eupen U23",
+      "group": "D4_FFA",
+      "status": "PARENT_REUSED_IN_JSON"
+    },
+    {
+      "id": 1900262703050,
+      "name": "Avanti Stekene",
+      "group": "D5_VV_A",
+      "status": "SOURCE_FETCH_FAILED",
+      "sourceTeam": "AVANTI STEKENE",
+      "matchConfidence": 100,
+      "source": "https://www.foot24.be/logos/08552.jpg",
+      "sourcePage": "https://www.foot24.be/nl/competities/3de-afdeling-voetb-vl-a-5",
+      "sourceClubPages": [
+        "https://www.foot24.be/nl/clubs/avanti-stekene/1-6888"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.foot24.be/logos/08552.jpg"
+    },
+    {
+      "id": 1900262703051,
+      "name": "K Berchem Sport",
+      "group": "D5_VV_A",
+      "status": "SOURCE_FETCH_FAILED",
+      "sourceTeam": "K. BERCHEM SPORT 2004",
+      "matchConfidence": 90.0,
+      "source": "https://www.foot24.be/logos/00028.jpg",
+      "sourcePage": "https://www.foot24.be/nl/competities/3de-afdeling-voetb-vl-a-5",
+      "sourceClubPages": [
+        "https://www.foot24.be/nl/clubs/k-berchem-sport-2004/1-a-2367"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.foot24.be/logos/00028.jpg"
+    },
+    {
+      "id": 1900262703052,
+      "name": "KSC Blankenberge",
+      "group": "D5_VV_A",
+      "status": "SOURCE_FETCH_FAILED",
+      "sourceTeam": "KSC. BLANKENBERGE",
+      "matchConfidence": 100,
+      "source": "https://www.foot24.be/logos/00048.jpg",
+      "sourcePage": "https://www.foot24.be/nl/competities/3de-afdeling-voetb-vl-a-5",
+      "sourceClubPages": [
+        "https://www.foot24.be/nl/clubs/ksc-blankenberge/1-a-2373"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.foot24.be/logos/00048.jpg"
+    },
+    {
+      "id": 1900262703053,
+      "name": "Olsa Brakel",
+      "group": "D5_VV_A",
+      "status": "SOURCE_FETCH_FAILED",
+      "sourceTeam": "OLSA BRAKEL",
+      "matchConfidence": 100,
+      "source": "https://www.foot24.be/logos/05553.jpg",
+      "sourcePage": "https://www.foot24.be/nl/competities/3de-afdeling-voetb-vl-a-5",
+      "sourceClubPages": [
+        "https://www.foot24.be/nl/clubs/olsa-brakel/1-a-2693"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.foot24.be/logos/05553.jpg"
+    },
+    {
+      "id": 1900262703054,
+      "name": "SC City Pirates Antwerpen",
+      "group": "D5_VV_A",
+      "status": "SOURCE_FETCH_FAILED",
+      "sourceTeam": "SC. CITY PIRATES ANTWERPEN",
+      "matchConfidence": 100,
+      "source": "https://www.foot24.be/logos/00544.jpg",
+      "sourcePage": "https://www.foot24.be/nl/competities/3de-afdeling-voetb-vl-a-5",
+      "sourceClubPages": [
+        "https://www.foot24.be/nl/clubs/sc-city-pirates-antwerpen/1-a-2432"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.foot24.be/logos/00544.jpg"
+    },
+    {
+      "id": 1900262703055,
+      "name": "KVE Drongen",
+      "group": "D5_VV_A",
+      "status": "SOURCE_FETCH_FAILED",
+      "sourceTeam": "KVE. DRONGEN",
+      "matchConfidence": 100,
+      "source": "https://www.foot24.be/logos/03851.jpg",
+      "sourcePage": "https://www.foot24.be/nl/competities/3de-afdeling-voetb-vl-a-5",
+      "sourceClubPages": [
+        "https://www.foot24.be/nl/clubs/kve-drongen/1-a-2605"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.foot24.be/logos/03851.jpg"
+    },
+    {
+      "id": 1900262703056,
+      "name": "Eendracht Elene-Grotenberge",
+      "group": "D5_VV_A",
+      "status": "SOURCE_FETCH_FAILED",
+      "sourceTeam": "EENDR. ELENE-GROTENBERGE",
+      "matchConfidence": 92.0,
+      "source": "https://www.foot24.be/logos/03861.jpg",
+      "sourcePage": "https://www.foot24.be/nl/competities/3de-afdeling-voetb-vl-a-5",
+      "sourceClubPages": [
+        "https://www.foot24.be/nl/clubs/eendr-elene-grotenberge/1-a-2607"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.foot24.be/logos/03861.jpg"
+    },
+    {
+      "id": 1900262703057,
+      "name": "KCVV Elewijt",
+      "group": "D5_VV_A",
+      "status": "SOURCE_LINKED_PUBLISHED",
+      "sourceTeam": "KCVV. ELEWIJT",
+      "matchConfidence": 100,
+      "source": "https://www.foot24.be/logos/00055.jpg",
+      "sourcePage": "https://www.foot24.be/nl/competities/3de-afdeling-voetb-vl-a-5",
+      "sourceClubPages": [
+        "https://www.foot24.be/nl/clubs/kcvv-elewijt/1-a-2374"
+      ],
+      "sourceDimensions": [
+        206,
+        206
+      ],
+      "background": [
+        187,
+        220,
+        187
+      ],
+      "sha256": "bfbdeff1d74348e39da7367c3b3fca9e0bbe1a601ff79dc2fb5cef7b16d024a0",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-d4-d5-v17-crests-fast/docs/belgian-d4-d5-2026-27/v17/1900262703057.png"
+    },
+    {
+      "id": 1900262703058,
+      "name": "Erpe-Mere United",
+      "group": "D5_VV_A",
+      "status": "SOURCE_FETCH_FAILED",
+      "sourceTeam": "ERPE-MERE UNITED",
+      "matchConfidence": 100,
+      "source": "https://www.foot24.be/logos/05343.jpg",
+      "sourcePage": "https://www.foot24.be/nl/competities/3de-afdeling-voetb-vl-a-5",
+      "sourceClubPages": [
+        "https://www.foot24.be/nl/clubs/erpe-mere-united/1-6628"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.foot24.be/logos/05343.jpg"
+    },
+    {
+      "id": 1900262703059,
+      "name": "FC Gullegem",
+      "group": "D5_VV_A",
+      "status": "SOURCE_FETCH_FAILED",
+      "sourceTeam": "FOOTBALL CLUB GULLEGEM",
+      "matchConfidence": 75.8,
+      "source": "https://www.foot24.be/logos/09512.jpg",
+      "sourcePage": "https://www.foot24.be/nl/competities/3de-afdeling-voetb-vl-a-5",
+      "sourceClubPages": [
+        "https://www.foot24.be/nl/clubs/football-club-gullegem/1-7002"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.foot24.be/logos/09512.jpg"
+    },
+    {
+      "id": 1900262703060,
+      "name": "KVK Ieper",
+      "group": "D5_VV_A",
+      "status": "SOURCE_FETCH_FAILED",
+      "sourceTeam": "KVK. IEPER",
+      "matchConfidence": 100,
+      "source": "https://www.foot24.be/logos/00100.jpg",
+      "sourcePage": "https://www.foot24.be/nl/competities/3de-afdeling-voetb-vl-a-5",
+      "sourceClubPages": [
+        "https://www.foot24.be/nl/clubs/kvk-westhoek/1-6343"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.foot24.be/logos/00100.jpg"
+    },
+    {
+      "id": 1900262703061,
+      "name": "KWS Club Lauwe",
+      "group": "D5_VV_A",
+      "status": "SOURCE_FETCH_FAILED",
+      "sourceTeam": "KWS. CLUB LAUWE",
+      "matchConfidence": 100,
+      "source": "https://www.foot24.be/logos/00535.jpg",
+      "sourcePage": "https://www.foot24.be/nl/competities/3de-afdeling-voetb-vl-a-5",
+      "sourceClubPages": [
+        "https://www.foot24.be/nl/clubs/kws-club-lauwe/1-a-2431"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.foot24.be/logos/00535.jpg"
+    },
+    {
+      "id": 1900262703062,
+      "name": "KSV Rumbeke",
+      "group": "D5_VV_A",
+      "status": "SOURCE_FETCH_FAILED",
+      "sourceTeam": "KSV. RUMBEKE",
+      "matchConfidence": 100,
+      "source": "https://www.foot24.be/logos/05181.jpg",
+      "sourcePage": "https://www.foot24.be/nl/competities/3de-afdeling-voetb-vl-a-5",
+      "sourceClubPages": [
+        "https://www.foot24.be/nl/clubs/ksv-rumbeke/1-6622"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.foot24.be/logos/05181.jpg"
+    },
+    {
+      "id": 1900262703063,
+      "name": "KVV Sint-Denijs Sport",
+      "group": "D5_VV_A",
+      "status": "SOURCE_FETCH_FAILED",
+      "sourceTeam": "KVV. ST-DENIJS SPORT",
+      "matchConfidence": 95.0,
+      "source": "https://www.foot24.be/logos/02533.jpg",
+      "sourcePage": "https://www.foot24.be/nl/competities/3de-afdeling-voetb-vl-a-5",
+      "sourceClubPages": [
+        "https://www.foot24.be/nl/clubs/kvv-st-denijs-sport/1-a-2519"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.foot24.be/logos/02533.jpg"
+    },
+    {
+      "id": 1900262703064,
+      "name": "KFC Wambeek-Ternat",
+      "group": "D5_VV_A",
+      "status": "SOURCE_FETCH_FAILED",
+      "sourceTeam": "KFC WAMBEEK TERNAT",
+      "matchConfidence": 100,
+      "source": "https://www.foot24.be/logos/05661.jpg",
+      "sourcePage": "https://www.foot24.be/nl/competities/3de-afdeling-voetb-vl-a-5",
+      "sourceClubPages": [
+        "https://www.foot24.be/nl/clubs/kfc-wambeek-ternat/1-a-2708"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.foot24.be/logos/05661.jpg"
+    },
+    {
+      "id": 1900262703066,
+      "name": "K Achel VV",
+      "group": "D5_VV_B",
+      "status": "SOURCE_LINKED_PUBLISHED",
+      "sourceTeam": "K. ACHEL VV.",
+      "matchConfidence": 100,
+      "source": "https://www.foot24.be/logos/02753.jpg",
+      "sourcePage": "https://www.foot24.be/nl/competities/3de-afdeling-voetb-vl-b-5",
+      "sourceClubPages": [
+        "https://www.foot24.be/nl/clubs/k-achel-vv/1-a-2532"
+      ],
+      "sourceDimensions": [
+        92,
+        160
+      ],
+      "background": [
+        221,
+        226,
+        233
+      ],
+      "sha256": "40382a0f31f5e24cd61a4513d254b20155ff4c8694e9571242cee530f3eeb29a",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-d4-d5-v17-crests-fast/docs/belgian-d4-d5-2026-27/v17/1900262703066.png"
+    },
+    {
+      "id": 1900262703067,
+      "name": "FC Averbode Testelt Okselaar",
+      "group": "D5_VV_B",
+      "status": "SOURCE_FETCH_FAILED",
+      "sourceTeam": "FC. AVERBODE TESTELT OKSELAAR",
+      "matchConfidence": 100,
+      "source": "https://www.foot24.be/logos/02030.jpg",
+      "sourcePage": "https://www.foot24.be/nl/competities/3de-afdeling-voetb-vl-b-5",
+      "sourceClubPages": [
+        "https://www.foot24.be/nl/clubs/fc-averbode-okselaar/1-a-2490"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.foot24.be/logos/02030.jpg"
+    },
+    {
+      "id": 1900262703068,
+      "name": "K Berg en Dal VV",
+      "group": "D5_VV_B",
+      "status": "SOURCE_FETCH_FAILED",
+      "sourceTeam": "K. BERG EN DAL VV.",
+      "matchConfidence": 100,
+      "source": "https://www.foot24.be/logos/03057.jpg",
+      "sourcePage": "https://www.foot24.be/nl/competities/3de-afdeling-voetb-vl-b-5",
+      "sourceClubPages": [
+        "https://www.foot24.be/nl/clubs/k-berg-en-dal-vv/1-6477"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.foot24.be/logos/03057.jpg"
+    },
+    {
+      "id": 1900262703069,
+      "name": "KAC Betekom",
+      "group": "D5_VV_B",
+      "status": "SOURCE_FETCH_FAILED",
+      "sourceTeam": "KAC. BETEKOM",
+      "matchConfidence": 100,
+      "source": "https://www.foot24.be/logos/03634.jpg",
+      "sourcePage": "https://www.foot24.be/nl/competities/3de-afdeling-voetb-vl-b-5",
+      "sourceClubPages": [
+        "https://www.foot24.be/nl/clubs/kac-betekom/1-a-2591"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.foot24.be/logos/03634.jpg"
+    },
+    {
+      "id": 1900262703070,
+      "name": "GS Bree-Beek",
+      "group": "D5_VV_B",
+      "status": "SOURCE_FETCH_FAILED",
+      "sourceTeam": "GS BREE-BEEK",
+      "matchConfidence": 100,
+      "source": "https://www.foot24.be/logos/07314.jpg",
+      "sourcePage": "https://www.foot24.be/nl/competities/3de-afdeling-voetb-vl-b-5",
+      "sourceClubPages": [
+        "https://www.foot24.be/nl/clubs/gs-bree-beek/1-a-2818"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.foot24.be/logos/07314.jpg"
+    },
+    {
+      "id": 1900262703071,
+      "name": "Esperanza Pelt",
+      "group": "D5_VV_B",
+      "status": "SOURCE_FETCH_FAILED",
+      "sourceTeam": "FC. ESPERANZA PELT",
+      "matchConfidence": 90.3,
+      "source": "https://www.foot24.be/logos/02529.jpg",
+      "sourcePage": "https://www.foot24.be/nl/competities/3de-afdeling-voetb-vl-b-5",
+      "sourceClubPages": [
+        "https://www.foot24.be/nl/clubs/fc-esperanza-pelt/1-a-2517"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.foot24.be/logos/02529.jpg"
+    },
+    {
+      "id": 1900262703073,
+      "name": "OHR Huldenberg",
+      "group": "D5_VV_B",
+      "status": "SOURCE_FETCH_FAILED",
+      "sourceTeam": "OHR. HULDENBERG",
+      "matchConfidence": 100,
+      "source": "https://www.foot24.be/logos/06827.jpg",
+      "sourcePage": "https://www.foot24.be/nl/competities/3de-afdeling-voetb-vl-b-5",
+      "sourceClubPages": [
+        "https://www.foot24.be/nl/clubs/ohr-huldenberg/1-a-2782"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.foot24.be/logos/06827.jpg"
+    },
+    {
+      "id": 1900262703074,
+      "name": "KVC Lille United",
+      "group": "D5_VV_B",
+      "status": "SOURCE_FETCH_FAILED",
+      "sourceTeam": "KVC LILLE UNITED",
+      "matchConfidence": 100,
+      "source": "https://www.foot24.be/logos/02618.jpg",
+      "sourcePage": "https://www.foot24.be/nl/competities/3de-afdeling-voetb-vl-b-5",
+      "sourceClubPages": [
+        "https://www.foot24.be/nl/clubs/vc-lille-united/1-a-2523"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.foot24.be/logos/02618.jpg"
+    },
+    {
+      "id": 1900262703075,
+      "name": "VK Linden",
+      "group": "D5_VV_B",
+      "status": "SOURCE_FETCH_FAILED",
+      "sourceTeam": "VK. LINDEN",
+      "matchConfidence": 100,
+      "source": "https://www.foot24.be/logos/08522.jpg",
+      "sourcePage": "https://www.foot24.be/nl/competities/3de-afdeling-voetb-vl-b-5",
+      "sourceClubPages": [
+        "https://www.foot24.be/nl/clubs/vk-linden/1-a-2885"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.foot24.be/logos/08522.jpg"
+    },
+    {
+      "id": 1900262703076,
+      "name": "Lommel SK B",
+      "group": "D5_VV_B",
+      "status": "PARENT_REUSED_IN_JSON"
+    },
+    {
+      "id": 1900262703077,
+      "name": "K Nieuwmoer FC",
+      "group": "D5_VV_B",
+      "status": "SOURCE_FETCH_FAILED",
+      "sourceTeam": "K. NIEUWMOER FC.",
+      "matchConfidence": 100,
+      "source": "https://www.foot24.be/logos/05627.jpg",
+      "sourcePage": "https://www.foot24.be/nl/competities/3de-afdeling-voetb-vl-b-5",
+      "sourceClubPages": [
+        "https://www.foot24.be/nl/clubs/k-nieuwmoer-fc/1-a-2701"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.foot24.be/logos/05627.jpg"
+    },
+    {
+      "id": 1900262703078,
+      "name": "WS Schoonbeek-Beverst",
+      "group": "D5_VV_B",
+      "status": "SOURCE_FETCH_FAILED",
+      "sourceTeam": "WS SCHOONBEEK-BILZEN",
+      "matchConfidence": 78.0,
+      "source": "https://www.foot24.be/logos/02727.jpg",
+      "sourcePage": "https://www.foot24.be/nl/competities/3de-afdeling-voetb-vl-b-5",
+      "sourceClubPages": [
+        "https://www.foot24.be/nl/clubs/ews-schoonbeek-beverst/1-a-2530"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.foot24.be/logos/02727.jpg"
+    },
+    {
+      "id": 1900262703079,
+      "name": "KFC Sint-Lenaarts",
+      "group": "D5_VV_B",
+      "status": "SOURCE_FETCH_FAILED",
+      "sourceTeam": "KFC. ST.-LENAARTS",
+      "matchConfidence": 93.8,
+      "source": "https://www.foot24.be/logos/01357.jpg",
+      "sourcePage": "https://www.foot24.be/nl/competities/3de-afdeling-voetb-vl-b-5",
+      "sourceClubPages": [
+        "https://www.foot24.be/nl/clubs/kfc-st-lenaarts/1-a-2458"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.foot24.be/logos/01357.jpg"
+    },
+    {
+      "id": 1900262703080,
+      "name": "KFC Turnhout",
+      "group": "D5_VV_B",
+      "status": "SOURCE_LINKED_PUBLISHED",
+      "sourceTeam": "KFC TURNHOUT",
+      "matchConfidence": 100,
+      "source": "https://www.foot24.be/logos/00148.jpg",
+      "sourcePage": "https://www.foot24.be/nl/competities/3de-afdeling-voetb-vl-b-5",
+      "sourceClubPages": [
+        "https://www.foot24.be/nl/clubs/kfc-turnhout/1-6347"
+      ],
+      "sourceDimensions": [
+        161,
+        160
+      ],
+      "background": [
+        176,
+        214,
+        234
+      ],
+      "sha256": "22db32269cc0c4247f3335dafc322a4b702955447c761f95dab2f50d6aab5a99",
+      "url": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-belux-d4-d5-v17-crests-fast/docs/belgian-d4-d5-2026-27/v17/1900262703080.png"
+    },
+    {
+      "id": 1900262703081,
+      "name": "FC Wezel Sport",
+      "group": "D5_VV_B",
+      "status": "SOURCE_FETCH_FAILED",
+      "sourceTeam": "FC. WEZEL SPORT",
+      "matchConfidence": 100,
+      "source": "https://www.foot24.be/logos/00844.jpg",
+      "sourcePage": "https://www.foot24.be/nl/competities/3de-afdeling-voetb-vl-b-5",
+      "sourceClubPages": [
+        "https://www.foot24.be/nl/clubs/fc-wezel-sport/1-a-2442"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.foot24.be/logos/00844.jpg"
+    },
+    {
+      "id": 1900262703082,
+      "name": "KVV Zepperen-Brustem",
+      "group": "D5_VV_B",
+      "status": "SOURCE_FETCH_FAILED",
+      "sourceTeam": "KVV. ZEPPEREN-BRUSTEM",
+      "matchConfidence": 100,
+      "source": "https://www.foot24.be/logos/08250.jpg",
+      "sourcePage": "https://www.foot24.be/nl/competities/3de-afdeling-voetb-vl-b-5",
+      "sourceClubPages": [
+        "https://www.foot24.be/nl/clubs/kvv-zepperen-brustem/1-a-2873"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.foot24.be/logos/08250.jpg"
+    },
+    {
+      "id": 1900262703095,
+      "name": "Union Rochefortoise B",
+      "group": "D5_FFA_A",
+      "status": "PARENT_REUSED_IN_JSON"
+    },
+    {
+      "id": 1900262703103,
+      "name": "RCS Habay-la-Neuve B",
+      "group": "D5_FFA_B",
+      "status": "PARENT_REUSED_IN_JSON"
+    },
+    {
+      "id": 1900262703032,
+      "name": "RUS Acren-Lessines",
+      "group": "D4_FFA",
+      "status": "UNMATCHED_FOOT24",
+      "candidates": []
+    },
+    {
+      "id": 1900262703033,
+      "name": "R Aywaille FC",
+      "group": "D4_FFA",
+      "status": "UNMATCHED_FOOT24",
+      "candidates": []
+    },
+    {
+      "id": 1900262703034,
+      "name": "RUS Binche",
+      "group": "D4_FFA",
+      "status": "UNMATCHED_FOOT24",
+      "candidates": []
+    },
+    {
+      "id": 1900262703035,
+      "name": "RCS Brainois",
+      "group": "D4_FFA",
+      "status": "UNMATCHED_FOOT24",
+      "candidates": []
+    },
+    {
+      "id": 1900262703037,
+      "name": "FC Ganshoren",
+      "group": "D4_FFA",
+      "status": "UNMATCHED_FOOT24",
+      "candidates": []
+    },
+    {
+      "id": 1900262703038,
+      "name": "Union Hutoise",
+      "group": "D4_FFA",
+      "status": "UNMATCHED_FOOT24",
+      "candidates": []
+    },
+    {
+      "id": 1900262703039,
+      "name": "RSD Jette",
+      "group": "D4_FFA",
+      "status": "UNMATCHED_FOOT24",
+      "candidates": []
+    },
+    {
+      "id": 1900262703040,
+      "name": "RFC La Calamine",
+      "group": "D4_FFA",
+      "status": "UNMATCHED_FOOT24",
+      "candidates": []
+    },
+    {
+      "id": 1900262703041,
+      "name": "RFC Manageoise",
+      "group": "D4_FFA",
+      "status": "UNMATCHED_FOOT24",
+      "candidates": []
+    },
+    {
+      "id": 1900262703042,
+      "name": "Stade Mouscronnois",
+      "group": "D4_FFA",
+      "status": "UNMATCHED_FOOT24",
+      "candidates": []
+    },
+    {
+      "id": 1900262703043,
+      "name": "Ostiches-Ath",
+      "group": "D4_FFA",
+      "status": "UNMATCHED_FOOT24",
+      "candidates": []
+    },
+    {
+      "id": 1900262703044,
+      "name": "Richelle United",
+      "group": "D4_FFA",
+      "status": "UNMATCHED_FOOT24",
+      "candidates": []
+    },
+    {
+      "id": 1900262703045,
+      "name": "Crossing Schaerbeek",
+      "group": "D4_FFA",
+      "status": "UNMATCHED_FOOT24",
+      "candidates": []
+    },
+    {
+      "id": 1900262703046,
+      "name": "Union Saint-Ghislain Tertre Hautrage",
+      "group": "D4_FFA",
+      "status": "UNMATCHED_FOOT24",
+      "candidates": []
+    },
+    {
+      "id": 1900262703047,
+      "name": "RRC Stockay-Warfusée",
+      "group": "D4_FFA",
+      "status": "UNMATCHED_FOOT24",
+      "candidates": []
+    },
+    {
+      "id": 1900262703048,
+      "name": "UR Namur",
+      "group": "D4_FFA",
+      "status": "UNMATCHED_FOOT24",
+      "candidates": []
+    },
+    {
+      "id": 1900262703049,
+      "name": "RCS Verviétois",
+      "group": "D4_FFA",
+      "status": "UNMATCHED_FOOT24",
+      "candidates": []
+    },
+    {
+      "id": 1900262703065,
+      "name": "Zwevegem Sport",
+      "group": "D5_VV_A",
+      "status": "UNMATCHED_FOOT24",
+      "candidates": [
+        {
+          "name": "K. BERCHEM SPORT 2004",
+          "score": 52.9
+        },
+        {
+          "name": "KVV. ST-DENIJS SPORT",
+          "score": 48.5
+        },
+        {
+          "name": "KFC WAMBEEK TERNAT",
+          "score": 37.5
+        }
+      ]
+    },
+    {
+      "id": 1900262703072,
+      "name": "ASV Geel",
+      "group": "D5_VV_B",
+      "status": "UNMATCHED_FOOT24",
+      "candidates": [
+        {
+          "name": "AS. VERBROEDERING GEEL",
+          "score": 60.0
+        },
+        {
+          "name": "KAC. BETEKOM",
+          "score": 42.1
+        },
+        {
+          "name": "FC. WEZEL SPORT",
+          "score": 40.9
+        }
+      ]
+    },
+    {
+      "id": 1900262703083,
+      "name": "Arquet",
+      "group": "D5_FFA_A",
+      "status": "UNMATCHED_FOOT24",
+      "candidates": []
+    },
+    {
+      "id": 1900262703084,
+      "name": "R Biesme",
+      "group": "D5_FFA_A",
+      "status": "UNMATCHED_FOOT24",
+      "candidates": []
+    },
+    {
+      "id": 1900262703085,
+      "name": "RCS Buzet",
+      "group": "D5_FFA_A",
+      "status": "UNMATCHED_FOOT24",
+      "candidates": []
+    },
+    {
+      "id": 1900262703086,
+      "name": "RFC Ciney",
+      "group": "D5_FFA_A",
+      "status": "UNMATCHED_FOOT24",
+      "candidates": []
+    },
+    {
+      "id": 1900262703087,
+      "name": "Evelette-Jallet",
+      "group": "D5_FFA_A",
+      "status": "UNMATCHED_FOOT24",
+      "candidates": []
+    },
+    {
+      "id": 1900262703088,
+      "name": "Stade Everois",
+      "group": "D5_FFA_A",
+      "status": "UNMATCHED_FOOT24",
+      "candidates": []
+    },
+    {
+      "id": 1900262703089,
+      "name": "USC Jemappes",
+      "group": "D5_FFA_A",
+      "status": "UNMATCHED_FOOT24",
+      "candidates": []
+    },
+    {
+      "id": 1900262703090,
+      "name": "FC Kosova Schaerbeek",
+      "group": "D5_FFA_A",
+      "status": "UNMATCHED_FOOT24",
+      "candidates": []
+    },
+    {
+      "id": 1900262703091,
+      "name": "R Léopold FC",
+      "group": "D5_FFA_A",
+      "status": "UNMATCHED_FOOT24",
+      "candidates": []
+    },
+    {
+      "id": 1900262703092,
+      "name": "RUS Molenbaix",
+      "group": "D5_FFA_A",
+      "status": "UNMATCHED_FOOT24",
+      "candidates": []
+    },
+    {
+      "id": 1900262703093,
+      "name": "RUS Monceau",
+      "group": "D5_FFA_A",
+      "status": "UNMATCHED_FOOT24",
+      "candidates": []
+    },
+    {
+      "id": 1900262703094,
+      "name": "SC Néchin",
+      "group": "D5_FFA_A",
+      "status": "UNMATCHED_FOOT24",
+      "candidates": []
+    },
+    {
+      "id": 1900262703096,
+      "name": "RUS Soignies",
+      "group": "D5_FFA_A",
+      "status": "UNMATCHED_FOOT24",
+      "candidates": []
+    },
+    {
+      "id": 1900262703097,
+      "name": "Sporting Bruxelles",
+      "group": "D5_FFA_A",
+      "status": "UNMATCHED_FOOT24",
+      "candidates": []
+    },
+    {
+      "id": 1900262703098,
+      "name": "Saint-Michel FC",
+      "group": "D5_FFA_A",
+      "status": "UNMATCHED_FOOT24",
+      "candidates": []
+    },
+    {
+      "id": 1900262703099,
+      "name": "FC Ans",
+      "group": "D5_FFA_B",
+      "status": "UNMATCHED_FOOT24",
+      "candidates": []
+    },
+    {
+      "id": 1900262703100,
+      "name": "R Aubel FC",
+      "group": "D5_FFA_B",
+      "status": "UNMATCHED_FOOT24",
+      "candidates": []
+    },
+    {
+      "id": 1900262703101,
+      "name": "RFC du Geer",
+      "group": "D5_FFA_B",
+      "status": "UNMATCHED_FOOT24",
+      "candidates": []
+    },
+    {
+      "id": 1900262703102,
+      "name": "RUS Elsaute",
+      "group": "D5_FFA_B",
+      "status": "UNMATCHED_FOOT24",
+      "candidates": []
+    },
+    {
+      "id": 1900262703104,
+      "name": "RUS Longlier",
+      "group": "D5_FFA_B",
+      "status": "UNMATCHED_FOOT24",
+      "candidates": []
+    },
+    {
+      "id": 1900262703105,
+      "name": "RFC Libramont",
+      "group": "D5_FFA_B",
+      "status": "UNMATCHED_FOOT24",
+      "candidates": []
+    },
+    {
+      "id": 1900262703106,
+      "name": "RFC Malmedy",
+      "group": "D5_FFA_B",
+      "status": "UNMATCHED_FOOT24",
+      "candidates": []
+    },
+    {
+      "id": 1900262703107,
+      "name": "RFC Meix-devant-Virton",
+      "group": "D5_FFA_B",
+      "status": "UNMATCHED_FOOT24",
+      "candidates": []
+    },
+    {
+      "id": 1900262703108,
+      "name": "RUS Messancy",
+      "group": "D5_FFA_B",
+      "status": "UNMATCHED_FOOT24",
+      "candidates": []
+    },
+    {
+      "id": 1900262703109,
+      "name": "R Momalloise",
+      "group": "D5_FFA_B",
+      "status": "UNMATCHED_FOOT24",
+      "candidates": []
+    },
+    {
+      "id": 1900262703110,
+      "name": "RUS Mormont",
+      "group": "D5_FFA_B",
+      "status": "UNMATCHED_FOOT24",
+      "candidates": []
+    },
+    {
+      "id": 1900262703111,
+      "name": "Sprimont Comblain Sport",
+      "group": "D5_FFA_B",
+      "status": "UNMATCHED_FOOT24",
+      "candidates": []
+    },
+    {
+      "id": 1900262703112,
+      "name": "RCS Tilff",
+      "group": "D5_FFA_B",
+      "status": "UNMATCHED_FOOT24",
+      "candidates": []
+    },
+    {
+      "id": 1900262703113,
+      "name": "RCS Verlaine",
+      "group": "D5_FFA_B",
+      "status": "UNMATCHED_FOOT24",
+      "candidates": []
+    },
+    {
+      "id": 1900262703114,
+      "name": "Stade Waremmien",
+      "group": "D5_FFA_B",
+      "status": "UNMATCHED_FOOT24",
+      "candidates": []
+    }
+  ],
+  "published": 18,
+  "parent": 8,
+  "unmatched": 49,
+  "ambiguous": 0
+}
