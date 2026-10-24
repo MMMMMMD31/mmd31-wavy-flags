@@ -1246,5 +1246,261 @@
       78
     ],
     "sha256": "ee10665ec137f22a3ffa93e9a6cb295da4e02d6c6dc46f6755f505b2961adb67"
+  },
+  {
+    "teamId": "1898200000746",
+    "club": "SV Arminia Hannover",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/e7/SV_Arminia_Hannover.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_type": "commons_german_football_category",
+    "commons_file": "File:SV Arminia Hannover.svg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:SV_Arminia_Hannover.svg",
+    "license": "Public domain",
+    "png_path": "docs/german-clubs-2026-27/commons-category-20261024/1898200000746.png",
+    "background_rgb": [
+      101,
+      196,
+      125
+    ],
+    "sha256": "ed39828fa73add7572fa08c57fb1158f4525b61417a3cf2d89e9648d497b3bf2"
+  },
+  {
+    "teamId": "1898200000761",
+    "club": "SV Ahlerstedt/Ottendorf",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/a4/SV_Ahlerstedt-Ottendorf.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_type": "commons_german_football_category",
+    "commons_file": "File:SV Ahlerstedt-Ottendorf.gif",
+    "source_page": "https://commons.wikimedia.org/wiki/File:SV_Ahlerstedt-Ottendorf.gif",
+    "license": "Public domain",
+    "png_path": "docs/german-clubs-2026-27/commons-category-20261024/1898200000761.png",
+    "background_rgb": [
+      220,
+      101,
+      101
+    ],
+    "sha256": "0707609f5469388b9096fb5298bc8e3401c60852bea1aff1bb4fc6a17a8955b4"
+  },
+  {
+    "teamId": "1898200000774",
+    "club": "SV Eintracht Nordhorn",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sv_eintracht_nordhorn.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_type": "commons_german_football_category",
+    "commons_file": "File:Sv eintracht nordhorn.svg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Sv_eintracht_nordhorn.svg",
+    "license": "Public domain",
+    "png_path": "docs/german-clubs-2026-27/commons-category-20261024/1898200000774.png",
+    "background_rgb": [
+      172,
+      101,
+      78
+    ],
+    "sha256": "799a814c40becce27bf9231efa8220777d2542047ddef7e9ab2800067a5e9a27"
+  },
+  {
+    "teamId": "1898200000699",
+    "club": "SSG Rot-Schwarz Kiel",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/82/Wappen_der_SGG_Rot-Schwarz_Kiel.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_type": "commons_german_football_category",
+    "commons_file": "File:Wappen der SGG Rot-Schwarz Kiel.gif",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Wappen_der_SGG_Rot-Schwarz_Kiel.gif",
+    "license": "Public domain",
+    "png_path": "docs/german-clubs-2026-27/commons-category-20261024/1898200000699.png",
+    "background_rgb": [
+      243,
+      78,
+      78
+    ],
+    "sha256": "a860f3a034a65c261f968d4c0d76adf87b8d804f85c920c801f852f3705ad379"
+  },
+  {
+    "teamId": "1898200000709",
+    "club": "TSV Kropp",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/5e/TSV_Kropp.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_type": "commons_german_football_category",
+    "commons_file": "File:TSV Kropp.gif",
+    "source_page": "https://commons.wikimedia.org/wiki/File:TSV_Kropp.gif",
+    "license": "Public domain",
+    "png_path": "docs/german-clubs-2026-27/commons-category-20261024/1898200000709.png",
+    "background_rgb": [
+      243,
+      78,
+      101
+    ],
+    "sha256": "9a303ed84d3ba3511bb26b7bf2b73ec703946839277d127d7733d4baff7cb35f"
+  },
+  {
+    "teamId": "1898200000821",
+    "club": "VfB Linz",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/3e/VfB_Linz_Logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_type": "commons_german_football_category",
+    "commons_file": "File:VfB Linz Logo.svg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:VfB_Linz_Logo.svg",
+    "license": "Public domain",
+    "png_path": "docs/german-clubs-2026-27/commons-category-20261024/1898200000821.png",
+    "background_rgb": [
+      243,
+      78,
+      101
+    ],
+    "sha256": "bbac30ad806e6550b0598cc4f6b5f7a936a7cc594959c1625e45e17925e2e76f"
+  },
+  {
+    "teamId": "1898200000506",
+    "club": "FC Oberlausitz Neugersdorf",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/7b/FC_Oberlausitz_Neugersdorf.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_type": "commons_german_football_category",
+    "commons_file": "File:FC Oberlausitz Neugersdorf.svg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:FC_Oberlausitz_Neugersdorf.svg",
+    "license": "Public domain",
+    "png_path": "docs/german-clubs-2026-27/commons-category-20261024/1898200000506.png",
+    "background_rgb": [
+      78,
+      125,
+      172
+    ],
+    "sha256": "a04ac121b6d40454ffee246b1734ec54bf5bd29fa923fa4037e03d71992a5da0"
+  },
+  {
+    "teamId": "1898200000504",
+    "club": "FV Dresden 06 Laubegast",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/cc/FV-Dresden-06-Laubegast2.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_type": "commons_german_football_category",
+    "commons_file": "File:FV-Dresden-06-Laubegast2.gif",
+    "source_page": "https://commons.wikimedia.org/wiki/File:FV-Dresden-06-Laubegast2.gif",
+    "license": "Public domain",
+    "png_path": "docs/german-clubs-2026-27/commons-category-20261024/1898200000504.png",
+    "background_rgb": [
+      78,
+      149,
+      220
+    ],
+    "sha256": "2d4650e9dac258dc233c6a3188bfaf20622860abcb5107a57332c0e44381caac"
+  },
+  {
+    "teamId": "1898200000438",
+    "club": "FV Schwalbach",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/68/FV_09_Schwalbach.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_type": "commons_german_football_category",
+    "commons_file": "File:FV 09 Schwalbach.png",
+    "source_page": "https://commons.wikimedia.org/wiki/File:FV_09_Schwalbach.png",
+    "license": "Public domain",
+    "png_path": "docs/german-clubs-2026-27/commons-category-20261024/1898200000438.png",
+    "background_rgb": [
+      101,
+      125,
+      101
+    ],
+    "sha256": "48cd67f5b62e7d7ae02fcffe3a939688f2adc8a3bfc5997fb9e7f51809cb51eb"
+  },
+  {
+    "teamId": "1898200000443",
+    "club": "SC Reisbach",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Sc_reisbach_logo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_type": "commons_german_football_category",
+    "commons_file": "File:Sc reisbach logo.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Sc_reisbach_logo.jpg",
+    "license": "Public domain",
+    "png_path": "docs/german-clubs-2026-27/commons-category-20261024/1898200000443.png",
+    "background_rgb": [
+      102,
+      119,
+      148
+    ],
+    "sha256": "92cea09e16d03bc192f3f46f0716fac3fdabe81fb6602849d3abd49b544d25f1"
+  },
+  {
+    "teamId": "1898200000660",
+    "club": "SpVgg Neu-Isenburg",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/1f/SpVgg_03_Neu-Isenburg_Logo.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_type": "commons_german_football_category",
+    "commons_file": "File:SpVgg 03 Neu-Isenburg Logo.gif",
+    "source_page": "https://commons.wikimedia.org/wiki/File:SpVgg_03_Neu-Isenburg_Logo.gif",
+    "license": "CC0",
+    "png_path": "docs/german-clubs-2026-27/commons-category-20261024/1898200000660.png",
+    "background_rgb": [
+      220,
+      78,
+      78
+    ],
+    "sha256": "fb60f60234f48089b6a0b30b7970f0b728b0215f275d708f91812c10fccafec3"
+  },
+  {
+    "teamId": "1898200000442",
+    "club": "SpVgg Quierschied",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Spvgg_Quierschied_Wappen.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_type": "commons_german_football_category",
+    "commons_file": "File:Spvgg Quierschied Wappen.png",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Spvgg_Quierschied_Wappen.png",
+    "license": "CC BY-SA 4.0",
+    "png_path": "docs/german-clubs-2026-27/commons-category-20261024/1898200000442.png",
+    "background_rgb": [
+      243,
+      243,
+      125
+    ],
+    "sha256": "921651020bc88b2b5990ac10c9111fa9d9d917e9578670ffa1c710439c1e577a"
+  },
+  {
+    "teamId": "1898200000500",
+    "club": "1. Suhler SV",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/a9/1._Suhler_SV_06.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_type": "commons_german_football_category",
+    "commons_file": "File:1. Suhler SV 06.svg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:1._Suhler_SV_06.svg",
+    "license": "Public domain",
+    "png_path": "docs/german-clubs-2026-27/commons-category-20261024/1898200000500.png",
+    "background_rgb": [
+      102,
+      119,
+      148
+    ],
+    "sha256": "c309799f6b8defaa5c36bce40d2e0438e3a362d0245569dcb66c8d6eee586156"
+  },
+  {
+    "teamId": "1898200000492",
+    "club": "SV BW 91 Bad Frankenhausen",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/ef/SV_Blau-Wei%C3%9F_91_Bad_Frankenhausen_logo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_type": "commons_german_football_category",
+    "commons_file": "File:SV Blau-Weiß 91 Bad Frankenhausen logo.png",
+    "source_page": "https://commons.wikimedia.org/wiki/File:SV_Blau-Weiß_91_Bad_Frankenhausen_logo.png",
+    "license": "Public domain",
+    "png_path": "docs/german-clubs-2026-27/commons-category-20261024/1898200000492.png",
+    "background_rgb": [
+      78,
+      78,
+      101
+    ],
+    "sha256": "27185485b4ce7848d89ac8306bc7e4438b21ba3efcbe72a0dee904252d1686a5"
+  },
+  {
+    "teamId": "1898200000633",
+    "club": "FV Biebrich 02",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Wappen_FV_Biebrich_02.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_type": "commons_german_football_category",
+    "commons_file": "File:Wappen FV Biebrich 02.png",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Wappen_FV_Biebrich_02.png",
+    "license": "Public domain",
+    "png_path": "docs/german-clubs-2026-27/commons-category-20261024/1898200000633.png",
+    "background_rgb": [
+      78,
+      101,
+      196
+    ],
+    "sha256": "72abca66803b611cf075c8633bddc50342d44f86428c96b2324cb39283e5ce10"
+  },
+  {
+    "teamId": "1898200000629",
+    "club": "SC Waldgirmes",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/72/SC_Waldgirmes.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_type": "commons_german_football_category",
+    "commons_file": "File:SC Waldgirmes.svg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:SC_Waldgirmes.svg",
+    "license": "Public domain",
+    "png_path": "docs/german-clubs-2026-27/commons-category-20261024/1898200000629.png",
+    "background_rgb": [
+      243,
+      101,
+      78
+    ],
+    "sha256": "5ffe976c005b9ca13b82376d6fa11c8b1a7e521bc229dd24cd2fe97c0e1d5bfe"
   }
 ]
