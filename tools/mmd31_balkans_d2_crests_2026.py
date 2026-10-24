@@ -65,6 +65,8 @@ def resolve(name):
  if name=="FK Proleter 023":
   return "https://srbijasport.net/img/club/1317/0","Srbijasport FK Proleter 023 club profile crest"
  if name=="FK Majevica Lopare":
+  return "https://fsrs.org/files/comet/logo-kluba/7370.png","Fudbalski savez Republike Srpske official league club logo: FK Majevica Lopare"
+ if name=="FK Majevica Lopare":
   try:
    page=S.get("https://fkmajevica.com/",timeout=30)
    dom=BeautifulSoup(page.text,"html.parser")
