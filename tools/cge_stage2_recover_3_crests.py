@@ -4,7 +4,6 @@ import requests,io,json,hashlib
 from pathlib import Path
 from PIL import Image
 SOURCES={
-1884520000109:('https://prosoccerplace.com/assets/components/phpthumbof/cache/175-36.digenis.6d905729ca4ec76b85cbad7989c9f36c.png','https://prosoccerplace.com/clubs/second-division/digenis-akritas-morfou/','Digenis Akritas Morphou'),
 1884520000202:('https://i0.wp.com/www.maltafootball.com/wp-content/uploads/2024/06/img_9402-1.jpg?fit=630%2C630&ssl=1','https://www.maltafootball.com/2024/06/13/naxxar-lions-unveil-new-logo/','Naxxar Lions'),
 1884520000313:('https://images.one.co.il/images/msites/leagues/logos150/e3b11a5bc3edf1b5286cab6ad76a8978.png','https://www.one.co.il/Soccer/Team/14','Maccabi Herzliya')
 }
@@ -16,7 +15,7 @@ for id_,(url,source,name) in SOURCES.items():
  raw=response.content;img=Image.open(io.BytesIO(raw)).convert('RGBA')
  assert min(img.size)>=64
  # The palette uses one of the club's distinctive colors, and the actual badge is centered.
- bgcolors={1884520000109:(235,241,221),1884520000202:(154,40,53),1884520000313:(247,233,116)}
+ bgcolors={1884520000202:(154,40,53),1884520000313:(247,233,116)}
  im=Image.new('RGBA',(120,96),bgcolors[id_]+(255,))
  img.thumbnail((95,85),Image.Resampling.LANCZOS)
  im.alpha_composite(img,((120-img.width)//2,(96-img.height)//2))
