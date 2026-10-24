@@ -1,0 +1,13 @@
+{
+  "total": 326,
+  "png_found": 302,
+  "missing": 24,
+  "territoires_non_resolus": {
+    "Martinique": 4,
+    "Guyane": 4,
+    "La Réunion": 15,
+    "Polynésie française": 1
+  },
+  "workflow": "mmd31_outremer_final_source_audit",
+  "note": "Presence, image dimensions and format verified. Authenticity rests on club source audits; rights to logos belong to owners. Do not infer missing badges."
+}
