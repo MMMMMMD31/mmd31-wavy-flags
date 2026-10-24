@@ -217,6 +217,26 @@ TRANSFERMARKT_GROUNDED_CLUB_IDS={
 }
 
 
+
+FOOTY_UKRAINE_VERIFIED_PAGES={
+'Viktoriya Sumy':'fc-viktoriya-sumy',
+'Feniks-Mariupol':'fenix-mariupol',
+'Ahrobiznes Volochysk':'fc-ahrobiznes-volochysk',
+'SC Poltava':'sc-poltava',
+'FC Oleksandriya':'fc-oleksandriya',
+'Prykarpattia-Blaho':'fc-prykarpattia-blaho',
+'Metalist Kharkiv':'fc-metalist-kharkiv',
+'Nyva Ternopil':'fc-nyva-ternopil',
+'Inhulets Petrove':'fc-inhulets-petrove',
+'UCSA Tarasivka':'fc-ucsa-tarasivka',
+'Chernihiv':'fc-chernihiv',
+'Probiy Horodenka':'nk-probiy-horodenka',
+}
+def ukraine_footy_asset(name):
+ slug=FOOTY_UKRAINE_VERIFIED_PAGES.get(name)
+ if not slug:return None
+ return ('https://assets.footylogos.com/logos/'+slug+'-logo-footylogos.svg','FootyLogos verified 2026 D2 club crest page',name)
+
 PARENT_LOGOS={
  'Dinamo-2 Minsk':('by','dinamo-minsk'),
  'Minsk B':('by','fc-minsk'),
@@ -242,6 +262,8 @@ for row in ROWS:
  team=row['club'];country=row['country'];id=row['team_id'];cand=[]
  parent=family_candidate(team)
  if parent:cand.append(parent)
+ ua=ukraine_footy_asset(team)
+ if ua:cand.append(ua)
  for n in aliases(team):
   for catalog in (e,g):
    z=catalog.get(norm(n))
