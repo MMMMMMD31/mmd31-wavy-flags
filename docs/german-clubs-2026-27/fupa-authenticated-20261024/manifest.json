@@ -3148,5 +3148,33 @@
     ],
     "png_path": "docs/german-clubs-2026-27/fupa-authenticated-20261024/1898200000595.png",
     "sha256": "16a5d959f49ac37e0ea78eb079c2e6552f668f968114d167d7f82c5b79f3aafe"
+  },
+  {
+    "teamId": "1898200000105",
+    "club": "SC St. Tönis 11/20",
+    "source": "https://image.fupa.net/club/93wTJYB3UH0V/32x32.jpeg",
+    "source_page": "https://www.fupa.net/club/sc-st-toenis-191120",
+    "source_type": "fupa_exact_club_profile",
+    "background_rgb": [
+      243,
+      243,
+      172
+    ],
+    "png_path": "docs/german-clubs-2026-27/fupa-authenticated-20261024/1898200000105.png",
+    "sha256": "a67731330aa2f9c318299190c888181b017bd97928be8dbdf53769a895d7f8c3"
+  },
+  {
+    "teamId": "1898200000546",
+    "club": "SG Finnentrop-Bamenohl",
+    "source": "https://image.fupa.net/club/TbMC5PNABKOn/32x32.jpeg",
+    "source_page": "https://www.fupa.net/club/sg-finnentrop-bamenohl-1227",
+    "source_type": "fupa_exact_club_profile",
+    "background_rgb": [
+      78,
+      125,
+      78
+    ],
+    "png_path": "docs/german-clubs-2026-27/fupa-authenticated-20261024/1898200000546.png",
+    "sha256": "2b4dc58a4ce6f4ccca9c29d786c2f34ee089a0f33a171ec2abb5b5aae89bd9e8"
   }
 ]

@@ -1,29 +1,8 @@
 {
-  "offset": 534,
-  "limit": 47,
-  "profiles_checked": 47,
-  "added": 43,
-  "total": 225,
-  "failed": [
-    {
-      "teamId": "1898200000105",
-      "club": "SC St. Tönis 11/20",
-      "reason": "club profile HTTP 404"
-    },
-    {
-      "teamId": "1898200000496",
-      "club": "FSV Wacker 90 Nordhausen",
-      "reason": "crest image unavailable or invalid"
-    },
-    {
-      "teamId": "1898200000546",
-      "club": "SG Finnentrop-Bamenohl",
-      "reason": "club profile HTTP 404"
-    },
-    {
-      "teamId": "1898200000490",
-      "club": "SV Blau-Weiß 90 Neustadt/Orla",
-      "reason": "crest image unavailable or invalid"
-    }
-  ]
+  "offset": 581,
+  "limit": 2,
+  "profiles_checked": 2,
+  "added": 2,
+  "total": 227,
+  "failed": []
 }
