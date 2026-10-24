@@ -1,0 +1,785 @@
+{
+  "assets": [
+    {
+      "id": 1900262703000,
+      "name": "Koninklijke Eendracht Aalst Lede",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703001,
+      "name": "KV Diksmuide-Oostende",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703002,
+      "name": "Racing Club Gent",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703003,
+      "name": "KFC Vigor Wuitens Hamme",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703004,
+      "name": "SV Zulte Waregem B",
+      "status": "PARENT_REUSED_IN_JSON"
+    },
+    {
+      "id": 1900262703005,
+      "name": "KV Mechelen B",
+      "status": "PARENT_REUSED_IN_JSON"
+    },
+    {
+      "id": 1900262703006,
+      "name": "KFC HO Kalken",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703007,
+      "name": "FC Lebbeke",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703008,
+      "name": "K Londerzeel SK",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703009,
+      "name": "VK Ninove",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703010,
+      "name": "KSV Oudenaarde",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703011,
+      "name": "KVCSV Oostkamp",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703012,
+      "name": "Sparta Petegem-Deinze",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703013,
+      "name": "KM Torhout",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703014,
+      "name": "KFC Voorde-Appelterre",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703015,
+      "name": "RFC Wetteren",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703016,
+      "name": "Bocholter VV",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703017,
+      "name": "R Cappellen FC",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703018,
+      "name": "KFC De Kempen TL",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703019,
+      "name": "K Diegem Sport",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703020,
+      "name": "RC Hades Kiewit",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703021,
+      "name": "K Racing Mechelen",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703022,
+      "name": "KFC Nijlen",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703023,
+      "name": "Tempo Overijse",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703024,
+      "name": "Sportief Rotselaar",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703025,
+      "name": "Rupel Boom",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703026,
+      "name": "Sint-Truidense VV B",
+      "status": "PARENT_REUSED_IN_JSON"
+    },
+    {
+      "id": 1900262703027,
+      "name": "Eendracht Termien",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703028,
+      "name": "KSK Tongeren",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703029,
+      "name": "KVK Wellen",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703030,
+      "name": "KVC Wilrijk",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703031,
+      "name": "Royal Antwerp FC B",
+      "status": "PARENT_REUSED_IN_JSON"
+    },
+    {
+      "id": 1900262703032,
+      "name": "RUS Acren-Lessines",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703033,
+      "name": "R Aywaille FC",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703034,
+      "name": "RUS Binche",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703035,
+      "name": "RCS Brainois",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703036,
+      "name": "KAS Eupen U23",
+      "status": "PARENT_REUSED_IN_JSON"
+    },
+    {
+      "id": 1900262703037,
+      "name": "FC Ganshoren",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703038,
+      "name": "Union Hutoise",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703039,
+      "name": "RSD Jette",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703040,
+      "name": "RFC La Calamine",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703041,
+      "name": "RFC Manageoise",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703042,
+      "name": "Stade Mouscronnois",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703043,
+      "name": "Ostiches-Ath",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703044,
+      "name": "Richelle United",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703045,
+      "name": "Crossing Schaerbeek",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703046,
+      "name": "Union Saint-Ghislain Tertre Hautrage",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703047,
+      "name": "RRC Stockay-Warfusée",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703048,
+      "name": "UR Namur",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703049,
+      "name": "RCS Verviétois",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703050,
+      "name": "Avanti Stekene",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703051,
+      "name": "K Berchem Sport",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703052,
+      "name": "KSC Blankenberge",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703053,
+      "name": "Olsa Brakel",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703054,
+      "name": "SC City Pirates Antwerpen",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703055,
+      "name": "KVE Drongen",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703056,
+      "name": "Eendracht Elene-Grotenberge",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703057,
+      "name": "KCVV Elewijt",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703058,
+      "name": "Erpe-Mere United",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703059,
+      "name": "FC Gullegem",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703060,
+      "name": "KVK Ieper",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703061,
+      "name": "KWS Club Lauwe",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703062,
+      "name": "KSV Rumbeke",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703063,
+      "name": "KVV Sint-Denijs Sport",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703064,
+      "name": "KFC Wambeek-Ternat",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703065,
+      "name": "Zwevegem Sport",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703066,
+      "name": "K Achel VV",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703067,
+      "name": "FC Averbode Testelt Okselaar",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703068,
+      "name": "K Berg en Dal VV",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703069,
+      "name": "KAC Betekom",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703070,
+      "name": "GS Bree-Beek",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703071,
+      "name": "Esperanza Pelt",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703072,
+      "name": "ASV Geel",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703073,
+      "name": "OHR Huldenberg",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703074,
+      "name": "KVC Lille United",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703075,
+      "name": "VK Linden",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703076,
+      "name": "Lommel SK B",
+      "status": "PARENT_REUSED_IN_JSON"
+    },
+    {
+      "id": 1900262703077,
+      "name": "K Nieuwmoer FC",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703078,
+      "name": "WS Schoonbeek-Beverst",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703079,
+      "name": "KFC Sint-Lenaarts",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703080,
+      "name": "KFC Turnhout",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703081,
+      "name": "FC Wezel Sport",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703082,
+      "name": "KVV Zepperen-Brustem",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703083,
+      "name": "Arquet",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703084,
+      "name": "R Biesme",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703085,
+      "name": "RCS Buzet",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703086,
+      "name": "RFC Ciney",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703087,
+      "name": "Evelette-Jallet",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703088,
+      "name": "Stade Everois",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703089,
+      "name": "USC Jemappes",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703090,
+      "name": "FC Kosova Schaerbeek",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703091,
+      "name": "R Léopold FC",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703092,
+      "name": "RUS Molenbaix",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703093,
+      "name": "RUS Monceau",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703094,
+      "name": "SC Néchin",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703095,
+      "name": "Union Rochefortoise B",
+      "status": "PARENT_REUSED_IN_JSON"
+    },
+    {
+      "id": 1900262703096,
+      "name": "RUS Soignies",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703097,
+      "name": "Sporting Bruxelles",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703098,
+      "name": "Saint-Michel FC",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703099,
+      "name": "FC Ans",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703100,
+      "name": "R Aubel FC",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703101,
+      "name": "RFC du Geer",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703102,
+      "name": "RUS Elsaute",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703103,
+      "name": "RCS Habay-la-Neuve B",
+      "status": "PARENT_REUSED_IN_JSON"
+    },
+    {
+      "id": 1900262703104,
+      "name": "RUS Longlier",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703105,
+      "name": "RFC Libramont",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703106,
+      "name": "RFC Malmedy",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703107,
+      "name": "RFC Meix-devant-Virton",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703108,
+      "name": "RUS Messancy",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703109,
+      "name": "R Momalloise",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703110,
+      "name": "RUS Mormont",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703111,
+      "name": "Sprimont Comblain Sport",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703112,
+      "name": "RCS Tilff",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703113,
+      "name": "RCS Verlaine",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    },
+    {
+      "id": 1900262703114,
+      "name": "Stade Waremmien",
+      "status": "NO_AUTHENTIC_SOURCE",
+      "wikidata_error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbs",
+      "commons_error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?actio"
+    }
+  ],
+  "count_sourced": 0,
+  "count_parent": 8
+}
