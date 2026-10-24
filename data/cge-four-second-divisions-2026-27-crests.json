@@ -1,0 +1,957 @@
+[
+  {
+    "id": 1884520000001,
+    "club": "GS Marko",
+    "country": "GRC",
+    "wikipedia": "Marko F.C.",
+    "repositoryStem": "Marko",
+    "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/greece/Marko.svg",
+    "authentic_source": true,
+    "validation": "source_retrieved_120x96_visual_review_pending",
+    "background": [
+      118,
+      160,
+      121
+    ],
+    "file": "docs/cge-four-second-divisions-2026-27/1884520000001.png",
+    "sha256": "44c0c4c96a5e6279cda079f08c0d9304cdd2c03580b435494ac6bf70a648bb40"
+  },
+  {
+    "id": 1884520000002,
+    "club": "Athens Kallithea FC",
+    "country": "GRC",
+    "wikipedia": "Athens Kallithea FC",
+    "repositoryStem": "Athens_Kallithea",
+    "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/greece/Athens_Kallithea.svg",
+    "authentic_source": true,
+    "validation": "source_retrieved_120x96_visual_review_pending",
+    "background": [
+      213,
+      197,
+      156
+    ],
+    "file": "docs/cge-four-second-divisions-2026-27/1884520000002.png",
+    "sha256": "4a4d4d7dcd0b3e6b67f9684296c27cae1d48c002dbbd7bc66f1c25cce0087019"
+  },
+  {
+    "id": 1884520000003,
+    "club": "Panionios GSS",
+    "country": "GRC",
+    "wikipedia": "Panionios F.C.",
+    "repositoryStem": "Panionios",
+    "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/greece/Panionios.svg",
+    "authentic_source": true,
+    "validation": "source_retrieved_120x96_visual_review_pending",
+    "background": [
+      224,
+      96,
+      116
+    ],
+    "file": "docs/cge-four-second-divisions-2026-27/1884520000003.png",
+    "sha256": "8a01921e5a832a5e0e003eda73837efdf10ebbdafc4f12ce8bdcd6d5675c030d"
+  },
+  {
+    "id": 1884520000004,
+    "club": "AEL Larissa",
+    "country": "GRC",
+    "wikipedia": "Athlitiki Enosi Larissa F.C.",
+    "repositoryStem": "Larissa",
+    "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/greece/Larissa.svg",
+    "authentic_source": true,
+    "validation": "source_retrieved_120x96_visual_review_pending",
+    "background": [
+      161,
+      116,
+      123
+    ],
+    "file": "docs/cge-four-second-divisions-2026-27/1884520000004.png",
+    "sha256": "93b0c250b4100cd0eca820fa2ff3add501d0e900616d2b05a35d8a25a4f46778"
+  },
+  {
+    "id": 1884520000005,
+    "club": "Hellas Syros",
+    "country": "GRC",
+    "wikipedia": "Hellas Syros F.C.",
+    "repositoryStem": "Hellas_Syros",
+    "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/greece/Hellas_Syros.svg",
+    "authentic_source": true,
+    "validation": "source_retrieved_120x96_visual_review_pending",
+    "background": [
+      96,
+      139,
+      196
+    ],
+    "file": "docs/cge-four-second-divisions-2026-27/1884520000005.png",
+    "sha256": "79712d043fde4b2b231c1a07f17d2e0053d7661a001db6a525242ee365c0045f"
+  },
+  {
+    "id": 1884520000006,
+    "club": "Panthrakikos",
+    "country": "GRC",
+    "wikipedia": "Panthrakikos F.C.",
+    "repositoryStem": "Panthrakikos",
+    "source": "https://thumb.wikimedia.org/wikipedia/en/thumb/6/6a/Panthrakikos.png/250px-Panthrakikos.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "authentic_source": true,
+    "validation": "source_retrieved_120x96_visual_review_pending",
+    "background": [
+      179,
+      187,
+      155
+    ],
+    "file": "docs/cge-four-second-divisions-2026-27/1884520000006.png",
+    "sha256": "b5f2788fc9798d7d451ef0c4532d4957a48b638647b5fa6c5326e473d1bc9978"
+  },
+  {
+    "id": 1884520000007,
+    "club": "Niki Volos",
+    "country": "GRC",
+    "wikipedia": "Niki Volos F.C.",
+    "repositoryStem": "Niki_Volou",
+    "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/greece/Niki_Volou.svg",
+    "authentic_source": true,
+    "validation": "source_retrieved_120x96_visual_review_pending",
+    "background": [
+      98,
+      98,
+      223
+    ],
+    "file": "docs/cge-four-second-divisions-2026-27/1884520000007.png",
+    "sha256": "71764f15ef8dbe65f8c70b76df4e2ae4489dadbafd94824f35badcf13cb96fc6"
+  },
+  {
+    "id": 1884520000008,
+    "club": "Apollon Kalamaria",
+    "country": "GRC",
+    "wikipedia": "Apollon Pontou F.C.",
+    "repositoryStem": "Apollon_Kalamaria",
+    "source": "https://thumb.wikimedia.org/wikipedia/en/thumb/4/45/Apollon_Kalamarias.png/250px-Apollon_Kalamarias.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "authentic_source": true,
+    "validation": "source_retrieved_120x96_visual_review_pending",
+    "background": [
+      245,
+      131,
+      127
+    ],
+    "file": "docs/cge-four-second-divisions-2026-27/1884520000008.png",
+    "sha256": "d5e974bda5e62cda1e83692b942e10a15fc7925f1ed99ffa5ec60dac0e6d05c9"
+  },
+  {
+    "id": 1884520000009,
+    "club": "Anagennisi Karditsa",
+    "country": "GRC",
+    "wikipedia": "Anagennisi Karditsa F.C.",
+    "repositoryStem": "Anagennisi_Karditsa",
+    "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/greece/Anagennisi_Karditsa.svg",
+    "authentic_source": true,
+    "validation": "source_retrieved_120x96_visual_review_pending",
+    "background": [
+      246,
+      219,
+      106
+    ],
+    "file": "docs/cge-four-second-divisions-2026-27/1884520000009.png",
+    "sha256": "40b210f07ee9ab28dc9e7b93ee5adb1266ee339d30f157b3ec88e6f1e43a22af"
+  },
+  {
+    "id": 1884520000010,
+    "club": "Asteras Aktor B",
+    "country": "GRC",
+    "wikipedia": "Asteras Tripolis F.C.",
+    "repositoryStem": "Asteras_Tripolis",
+    "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/greece/Asteras_Tripolis.svg",
+    "authentic_source": true,
+    "validation": "source_retrieved_120x96_visual_review_pending",
+    "background": [
+      121,
+      135,
+      192
+    ],
+    "file": "docs/cge-four-second-divisions-2026-27/1884520000010.png",
+    "sha256": "531597dea7bd0459044aaa73656d11fb7d11baf1f73e46443388fa8853e41f20"
+  },
+  {
+    "id": 1884520000011,
+    "club": "PAOK B",
+    "country": "GRC",
+    "wikipedia": "PAOK FC",
+    "repositoryStem": "PAOK",
+    "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/greece/PAOK.svg",
+    "authentic_source": true,
+    "validation": "source_retrieved_120x96_visual_review_pending",
+    "background": [
+      232,
+      212,
+      187
+    ],
+    "file": "docs/cge-four-second-divisions-2026-27/1884520000011.png",
+    "sha256": "9da04887d2dba7a125032062ba87927a852a37d66fa7c478411b95a68efee679"
+  },
+  {
+    "id": 1884520000012,
+    "club": "Panserraikos",
+    "country": "GRC",
+    "wikipedia": "Panserraikos F.C.",
+    "repositoryStem": "Panserraikos",
+    "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/greece/Panserraikos.svg",
+    "authentic_source": true,
+    "validation": "source_retrieved_120x96_visual_review_pending",
+    "background": [
+      236,
+      115,
+      117
+    ],
+    "file": "docs/cge-four-second-divisions-2026-27/1884520000012.png",
+    "sha256": "1072a5b3a1fb818a24c6ede72251d128732d0f632640a6cd879a2ad15a6ca4a3"
+  },
+  {
+    "id": 1884520000013,
+    "club": "Olympiacos B",
+    "country": "GRC",
+    "wikipedia": "Olympiacos F.C.",
+    "repositoryStem": "Olympiacos",
+    "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/greece/Olympiacos.svg",
+    "authentic_source": true,
+    "validation": "source_retrieved_120x96_visual_review_pending",
+    "background": [
+      237,
+      116,
+      120
+    ],
+    "file": "docs/cge-four-second-divisions-2026-27/1884520000013.png",
+    "sha256": "318101198b3bce82ec9e2553cce39f0f8dfe228916f22db827f7a6228ba53523"
+  },
+  {
+    "id": 1884520000014,
+    "club": "Nestos Chrysoupoli",
+    "country": "GRC",
+    "wikipedia": "Nestos Chrysoupoli F.C.",
+    "repositoryStem": "Nestos_Chrysoupoli",
+    "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/greece/Nestos_Chrysoupoli.svg",
+    "authentic_source": true,
+    "validation": "source_retrieved_120x96_visual_review_pending",
+    "background": [
+      103,
+      154,
+      209
+    ],
+    "file": "docs/cge-four-second-divisions-2026-27/1884520000014.png",
+    "sha256": "996cfc6c07cf43dc4d38b1a01c0103cd31ac82d2fc03439eb6421689864bb61c"
+  },
+  {
+    "id": 1884520000015,
+    "club": "PAS Pyrgos",
+    "country": "GRC",
+    "wikipedia": "Pyrgos F.C.",
+    "repositoryStem": "PAS_Pyrgos",
+    "source": "https://thumb.wikimedia.org/wikipedia/en/thumb/a/a0/PAS_Pyrgos_1968_logo.png/250px-PAS_Pyrgos_1968_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "authentic_source": true,
+    "validation": "source_retrieved_120x96_visual_review_pending",
+    "background": [
+      188,
+      98,
+      98
+    ],
+    "file": "docs/cge-four-second-divisions-2026-27/1884520000015.png",
+    "sha256": "55c68e8205a1ee631615fa347b51b8016af4e72c5ef1015cbbc86c65a1dc3fe4"
+  },
+  {
+    "id": 1884520000016,
+    "club": "Zakynthos",
+    "country": "GRC",
+    "wikipedia": "A.P.S. Zakynthos",
+    "repositoryStem": "Zakynthos",
+    "source": "https://upload.wikimedia.org/wikipedia/en/7/7b/A.P.S._Zakynthos_official_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+    "authentic_source": true,
+    "validation": "source_retrieved_120x96_visual_review_pending",
+    "background": [
+      98,
+      152,
+      170
+    ],
+    "file": "docs/cge-four-second-divisions-2026-27/1884520000016.png",
+    "sha256": "6774ed84f3f844a04e4ceae5c68613c3923cb9fb5c51ce96e4f08166c4f78e3e"
+  },
+  {
+    "id": 1884520000101,
+    "club": "Ethnikos Achna",
+    "country": "CYP",
+    "wikipedia": "Ethnikos Achna FC",
+    "repositoryStem": "Ethnikos_Achnas",
+    "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/cyprus/Ethnikos_Achnas.svg",
+    "authentic_source": true,
+    "validation": "source_retrieved_120x96_visual_review_pending",
+    "background": [
+      115,
+      125,
+      164
+    ],
+    "file": "docs/cge-four-second-divisions-2026-27/1884520000101.png",
+    "sha256": "38eea2371629d88b1fc181daa59c83fa62750ad043a41395e09fa72432dc1c60"
+  },
+  {
+    "id": 1884520000102,
+    "club": "Akritas Chlorakas",
+    "country": "CYP",
+    "wikipedia": "Akritas Chlorakas",
+    "repositoryStem": "Akritas_Chlorakas",
+    "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/cyprus/Akritas_Chlorakas.svg",
+    "authentic_source": true,
+    "validation": "source_retrieved_120x96_visual_review_pending",
+    "background": [
+      98,
+      188,
+      142
+    ],
+    "file": "docs/cge-four-second-divisions-2026-27/1884520000102.png",
+    "sha256": "7d3fa238eaa1db71188d2576a3eac93419698d9196683d5bde0413cc9de391c3"
+  },
+  {
+    "id": 1884520000103,
+    "club": "Enosis Neon Paralimni",
+    "country": "CYP",
+    "wikipedia": "Enosis Neon Paralimni FC",
+    "repositoryStem": "Enosis_Neon_Paralimniou",
+    "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/cyprus/Enosis_Neon_Paralimniou.svg",
+    "authentic_source": true,
+    "validation": "source_retrieved_120x96_visual_review_pending",
+    "background": [
+      180,
+      108,
+      109
+    ],
+    "file": "docs/cge-four-second-divisions-2026-27/1884520000103.png",
+    "sha256": "80ca465b641fe16153f264332bc34ef22f80014a1d0384ed82ba50ec1337e91d"
+  },
+  {
+    "id": 1884520000104,
+    "club": "AEP Polemidion",
+    "country": "CYP",
+    "wikipedia": "AEP Polemidion",
+    "repositoryStem": "AEP_Polemidion",
+    "source": null,
+    "authentic_source": false,
+    "validation": "source_missing"
+  },
+  {
+    "id": 1884520000105,
+    "club": "Anagennisi Deryneia",
+    "country": "CYP",
+    "wikipedia": "Anagennisi Deryneia",
+    "repositoryStem": "Anagennisis",
+    "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/cyprus/Anagennisis.svg",
+    "authentic_source": true,
+    "validation": "source_retrieved_120x96_visual_review_pending",
+    "background": [
+      96,
+      140,
+      126
+    ],
+    "file": "docs/cge-four-second-divisions-2026-27/1884520000105.png",
+    "sha256": "7aaef31ac782c94731ebf0f35488b017c9b71bfc516cc524dc566e9873c4f0e6"
+  },
+  {
+    "id": 1884520000106,
+    "club": "AO Ayia Napa",
+    "country": "CYP",
+    "wikipedia": "AO Ayia Napa",
+    "repositoryStem": "Ayia_Napa",
+    "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/cyprus/Ayia_Napa.svg",
+    "authentic_source": true,
+    "validation": "source_retrieved_120x96_visual_review_pending",
+    "background": [
+      246,
+      147,
+      113
+    ],
+    "file": "docs/cge-four-second-divisions-2026-27/1884520000106.png",
+    "sha256": "c07a17c326bd8ce38da81e07814783d057b9264b4c04a67f9fda48749fcc6399"
+  },
+  {
+    "id": 1884520000107,
+    "club": "APEA Akrotiri",
+    "country": "CYP",
+    "wikipedia": "APEA Akrotiri",
+    "repositoryStem": "APEA_Akrotiri",
+    "source": "https://thumb.wikimedia.org/wikipedia/en/thumb/8/80/APEA_Akrotiri_logo.png/250px-APEA_Akrotiri_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "authentic_source": true,
+    "validation": "source_retrieved_120x96_visual_review_pending",
+    "background": [
+      114,
+      169,
+      213
+    ],
+    "file": "docs/cge-four-second-divisions-2026-27/1884520000107.png",
+    "sha256": "d682c6725dc52ab2fac6ab8e272b9c0859fd72ae12b66a228acfbc6a1edfbfd2"
+  },
+  {
+    "id": 1884520000108,
+    "club": "ASIL Lysi",
+    "country": "CYP",
+    "wikipedia": "ASIL Lysi",
+    "repositoryStem": "ASIL_Lysi",
+    "source": "https://upload.wikimedia.org/wikipedia/en/d/d1/ASIL_Lysi.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+    "authentic_source": true,
+    "validation": "source_retrieved_120x96_visual_review_pending",
+    "background": [
+      255,
+      235,
+      99
+    ],
+    "file": "docs/cge-four-second-divisions-2026-27/1884520000108.png",
+    "sha256": "3aa054c2cebc185eca73831db9b3aa9488fcab02b5dfd5a5e83f2f81ba96d27d"
+  },
+  {
+    "id": 1884520000109,
+    "club": "Digenis Akritas Morphou",
+    "country": "CYP",
+    "wikipedia": "Digenis Akritas Morphou",
+    "repositoryStem": "Digenis_Morphou",
+    "source": null,
+    "authentic_source": false,
+    "validation": "source_missing"
+  },
+  {
+    "id": 1884520000110,
+    "club": "Doxa Katokopias",
+    "country": "CYP",
+    "wikipedia": "Doxa Katokopias FC",
+    "repositoryStem": "Doxa",
+    "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/cyprus/Doxa.svg",
+    "authentic_source": true,
+    "validation": "source_retrieved_120x96_visual_review_pending",
+    "background": [
+      119,
+      150,
+      123
+    ],
+    "file": "docs/cge-four-second-divisions-2026-27/1884520000110.png",
+    "sha256": "4fc5175a508112bf6bdef7bfd1a752011b5c5d97ae7756a0820eb46806e078a4"
+  },
+  {
+    "id": 1884520000111,
+    "club": "Ermis Aradippou",
+    "country": "CYP",
+    "wikipedia": "Ermis Aradippou",
+    "repositoryStem": "Ermis_Aradippou",
+    "source": null,
+    "authentic_source": false,
+    "validation": "source_missing"
+  },
+  {
+    "id": 1884520000112,
+    "club": "Iraklis Gerolakkou",
+    "country": "CYP",
+    "wikipedia": "Iraklis Gerolakkou",
+    "repositoryStem": "Iraklis_Gerolakkou",
+    "source": "https://thumb.wikimedia.org/wikipedia/en/thumb/8/80/Iraklis_Gerolakkou_logo.png/250px-Iraklis_Gerolakkou_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "authentic_source": true,
+    "validation": "source_retrieved_120x96_visual_review_pending",
+    "background": [
+      241,
+      222,
+      111
+    ],
+    "file": "docs/cge-four-second-divisions-2026-27/1884520000112.png",
+    "sha256": "06d382cd5669bc82957f134cfa5008f255cdf92e946a1b5866b313458aa3a51a"
+  },
+  {
+    "id": 1884520000113,
+    "club": "MEAP Nisou",
+    "country": "CYP",
+    "wikipedia": "MEAP Nisou",
+    "repositoryStem": "MEAP_Nisou",
+    "source": "https://thumb.wikimedia.org/wikipedia/en/thumb/9/93/MEAP_Nisou_logo.png/250px-MEAP_Nisou_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "authentic_source": true,
+    "validation": "source_retrieved_120x96_visual_review_pending",
+    "background": [
+      255,
+      96,
+      96
+    ],
+    "file": "docs/cge-four-second-divisions-2026-27/1884520000113.png",
+    "sha256": "bdebff53c5aaf4fa92bb52344291dd8ba78e645cdc2afa5ba9093074645a5601"
+  },
+  {
+    "id": 1884520000114,
+    "club": "PAEEK Kyrenia",
+    "country": "CYP",
+    "wikipedia": "PAEEK",
+    "repositoryStem": "PAEEK",
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/PAEEKyreniaSC.png/250px-PAEEKyreniaSC.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "authentic_source": true,
+    "validation": "source_retrieved_120x96_visual_review_pending",
+    "background": [
+      219,
+      225,
+      234
+    ],
+    "file": "docs/cge-four-second-divisions-2026-27/1884520000114.png",
+    "sha256": "64b83e124d5f507fd75b74b46d335ac074879eda2dc94bd8b9a07bea15fb834e"
+  },
+  {
+    "id": 1884520000115,
+    "club": "Spartakos Kitiou",
+    "country": "CYP",
+    "wikipedia": "Spartakos Kitiou FC",
+    "repositoryStem": "Spartakos_Kitiou",
+    "source": "https://thumb.wikimedia.org/wikipedia/en/thumb/1/18/Spartakos_Kitiou_logo.png/250px-Spartakos_Kitiou_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "authentic_source": true,
+    "validation": "source_retrieved_120x96_visual_review_pending",
+    "background": [
+      236,
+      101,
+      109
+    ],
+    "file": "docs/cge-four-second-divisions-2026-27/1884520000115.png",
+    "sha256": "4f15fed99659333d951bb04cc9dce72e69b0945949598d829e1fe7fa983a146c"
+  },
+  {
+    "id": 1884520000116,
+    "club": "Chalkanoras Idaliou",
+    "country": "CYP",
+    "wikipedia": "Chalkanoras Idaliou",
+    "repositoryStem": "Chalkanoras",
+    "source": "https://upload.wikimedia.org/wikipedia/en/f/ff/Chalkanoras_idaliou.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+    "authentic_source": true,
+    "validation": "source_retrieved_120x96_visual_review_pending",
+    "background": [
+      113,
+      98,
+      192
+    ],
+    "file": "docs/cge-four-second-divisions-2026-27/1884520000116.png",
+    "sha256": "a7c788b714eed1b9cd931b354469f83e98f162d45625f0da767b51f27ead7c0b"
+  },
+  {
+    "id": 1884520000201,
+    "club": "Tarxien Rainbows",
+    "country": "MLT",
+    "wikipedia": "Tarxien Rainbows F.C.",
+    "repositoryStem": "Tarxien_Rainbows",
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/TRFC_VECTOR_LOGO.png/250px-TRFC_VECTOR_LOGO.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "authentic_source": true,
+    "validation": "source_retrieved_120x96_visual_review_pending",
+    "background": [
+      112,
+      159,
+      205
+    ],
+    "file": "docs/cge-four-second-divisions-2026-27/1884520000201.png",
+    "sha256": "ad6c5cf78ab01fea3396e89d9ef2ad8c803d3605a421a25c66bf2e3becb459ca"
+  },
+  {
+    "id": 1884520000202,
+    "club": "Naxxar Lions",
+    "country": "MLT",
+    "wikipedia": "Naxxar Lions F.C.",
+    "repositoryStem": "Naxxar_Lions",
+    "source": null,
+    "authentic_source": false,
+    "validation": "source_missing"
+  },
+  {
+    "id": 1884520000203,
+    "club": "Mgarr United",
+    "country": "MLT",
+    "wikipedia": "Mġarr United F.C.",
+    "repositoryStem": "Mgarr_United",
+    "source": null,
+    "authentic_source": false,
+    "validation": "source_missing"
+  },
+  {
+    "id": 1884520000204,
+    "club": "Fgura United",
+    "country": "MLT",
+    "wikipedia": "Fgura United F.C.",
+    "repositoryStem": "Fgura_United",
+    "source": "https://thumb.wikimedia.org/wikipedia/en/thumb/f/f5/Fgura_United_F.C._logo.png/250px-Fgura_United_F.C._logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "authentic_source": true,
+    "validation": "source_retrieved_120x96_visual_review_pending",
+    "background": [
+      232,
+      115,
+      130
+    ],
+    "file": "docs/cge-four-second-divisions-2026-27/1884520000204.png",
+    "sha256": "fde0ee297b2d8f28910b3938112b15d53f4d26eacefe18f2d55132041a32c615"
+  },
+  {
+    "id": 1884520000205,
+    "club": "Swieqi United",
+    "country": "MLT",
+    "wikipedia": "Swieqi United F.C.",
+    "repositoryStem": "Swieqi_United",
+    "source": null,
+    "authentic_source": false,
+    "validation": "source_missing"
+  },
+  {
+    "id": 1884520000206,
+    "club": "Pietà Hotspurs",
+    "country": "MLT",
+    "wikipedia": "Pietà Hotspurs F.C.",
+    "repositoryStem": "Pieta_Hotspurs",
+    "source": null,
+    "authentic_source": false,
+    "validation": "source_missing"
+  },
+  {
+    "id": 1884520000207,
+    "club": "Victoria Hotspurs",
+    "country": "MLT",
+    "wikipedia": "Victoria Hotspurs F.C.",
+    "repositoryStem": "Victoria_Hotspurs",
+    "source": null,
+    "authentic_source": false,
+    "validation": "source_missing"
+  },
+  {
+    "id": 1884520000208,
+    "club": "Vittoriosa Stars",
+    "country": "MLT",
+    "wikipedia": "Vittoriosa Stars F.C.",
+    "repositoryStem": "Vittoriosa_Stars",
+    "source": null,
+    "authentic_source": false,
+    "validation": "source_missing"
+  },
+  {
+    "id": 1884520000209,
+    "club": "Melita FC",
+    "country": "MLT",
+    "wikipedia": "Melita F.C.",
+    "repositoryStem": "Melita",
+    "source": null,
+    "authentic_source": false,
+    "validation": "source_missing"
+  },
+  {
+    "id": 1884520000210,
+    "club": "Santa Lucía",
+    "country": "MLT",
+    "wikipedia": "Santa Lucía F.C.",
+    "repositoryStem": "Santa_Lucia",
+    "source": null,
+    "authentic_source": false,
+    "validation": "source_missing"
+  },
+  {
+    "id": 1884520000211,
+    "club": "Sirens FC",
+    "country": "MLT",
+    "wikipedia": "Sirens F.C.",
+    "repositoryStem": "Sirens",
+    "source": null,
+    "authentic_source": false,
+    "validation": "source_missing"
+  },
+  {
+    "id": 1884520000212,
+    "club": "Żurrieq FC",
+    "country": "MLT",
+    "wikipedia": "Żurrieq F.C.",
+    "repositoryStem": "Zurrieq",
+    "source": "https://thumb.wikimedia.org/wikipedia/en/thumb/7/72/%C5%BBurrieq_F.C._logo.png/250px-%C5%BBurrieq_F.C._logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "authentic_source": true,
+    "validation": "source_retrieved_120x96_visual_review_pending",
+    "background": [
+      96,
+      202,
+      240
+    ],
+    "file": "docs/cge-four-second-divisions-2026-27/1884520000212.png",
+    "sha256": "30b84ca6e2abf1896bceb942787db5e5058476fc9ff4e810e50e364cc9b32573"
+  },
+  {
+    "id": 1884520000213,
+    "club": "St. Andrews",
+    "country": "MLT",
+    "wikipedia": "St. Andrews F.C. (Malta)",
+    "repositoryStem": "St_Andrews",
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/LUXOL_ST._ANDREWS_LOGO_2026.png/250px-LUXOL_ST._ANDREWS_LOGO_2026.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "authentic_source": true,
+    "validation": "source_retrieved_120x96_visual_review_pending",
+    "background": [
+      165,
+      136,
+      191
+    ],
+    "file": "docs/cge-four-second-divisions-2026-27/1884520000213.png",
+    "sha256": "00c991ebc4d1e8899145d2ffb49dd8d9d29742803cad5bff28e0098737d0427a"
+  },
+  {
+    "id": 1884520000214,
+    "club": "Attard FC",
+    "country": "MLT",
+    "wikipedia": "Attard F.C.",
+    "repositoryStem": "Attard",
+    "source": null,
+    "authentic_source": false,
+    "validation": "source_missing"
+  },
+  {
+    "id": 1884520000215,
+    "club": "Żebbuġ Rangers",
+    "country": "MLT",
+    "wikipedia": "Żebbuġ Rangers F.C.",
+    "repositoryStem": "Zebbug_Rangers",
+    "source": null,
+    "authentic_source": false,
+    "validation": "source_missing"
+  },
+  {
+    "id": 1884520000216,
+    "club": "Gudja United",
+    "country": "MLT",
+    "wikipedia": "Gudja United F.C.",
+    "repositoryStem": "Gudja_United",
+    "source": "https://thumb.wikimedia.org/wikipedia/en/thumb/e/e8/GudjaUnitedFC.png/250px-GudjaUnitedFC.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "authentic_source": true,
+    "validation": "source_retrieved_120x96_visual_review_pending",
+    "background": [
+      98,
+      152,
+      192
+    ],
+    "file": "docs/cge-four-second-divisions-2026-27/1884520000216.png",
+    "sha256": "0b42d0dcb75505312ff8cf1f49f804cd1b2407a7921f42541f18662b7fbef782"
+  },
+  {
+    "id": 1884520000301,
+    "club": "F.C. Ashdod",
+    "country": "ISR",
+    "wikipedia": "F.C. Ashdod",
+    "repositoryStem": "Ashdod",
+    "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/israel/Ashdod.svg",
+    "authentic_source": true,
+    "validation": "source_retrieved_120x96_visual_review_pending",
+    "background": [
+      243,
+      114,
+      119
+    ],
+    "file": "docs/cge-four-second-divisions-2026-27/1884520000301.png",
+    "sha256": "f47dc81d7d87b1800f0e093547a4fd1fd2013f30ab553b602f9a07a25081c426"
+  },
+  {
+    "id": 1884520000302,
+    "club": "Bnei Yehuda Tel Aviv",
+    "country": "ISR",
+    "wikipedia": "Bnei Yehuda Tel Aviv F.C.",
+    "repositoryStem": "Bnei_Yehuda",
+    "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/israel/Bnei_Yehuda.svg",
+    "authentic_source": true,
+    "validation": "source_retrieved_120x96_visual_review_pending",
+    "background": [
+      247,
+      156,
+      111
+    ],
+    "file": "docs/cge-four-second-divisions-2026-27/1884520000302.png",
+    "sha256": "50906877403d4e67ccfa68e726ece0ec4542ec5426cc7bd1e8c271b8f9030d4c"
+  },
+  {
+    "id": 1884520000303,
+    "club": "Hapoel Rishon LeZion",
+    "country": "ISR",
+    "wikipedia": "Hapoel Rishon LeZion F.C.",
+    "repositoryStem": "Hapoel_Rishon-LeZion",
+    "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/israel/Hapoel_Rishon-LeZion.svg",
+    "authentic_source": true,
+    "validation": "source_retrieved_120x96_visual_review_pending",
+    "background": [
+      255,
+      152,
+      103
+    ],
+    "file": "docs/cge-four-second-divisions-2026-27/1884520000303.png",
+    "sha256": "a99ade1cc8cc044c53e52c0d3fe11ff78e5c16752283047ed9bbbe772fe33a9b"
+  },
+  {
+    "id": 1884520000304,
+    "club": "Hapoel Kfar Shalem",
+    "country": "ISR",
+    "wikipedia": "Hapoel Kfar Shalem F.C.",
+    "repositoryStem": "Hapoel_Kfar_Shalem",
+    "source": null,
+    "authentic_source": false,
+    "validation": "source_missing"
+  },
+  {
+    "id": 1884520000305,
+    "club": "F.C. Kiryat Yam",
+    "country": "ISR",
+    "wikipedia": "F.C. Kiryat Yam",
+    "repositoryStem": "Kiryat_Yam",
+    "source": null,
+    "authentic_source": false,
+    "validation": "source_missing"
+  },
+  {
+    "id": 1884520000306,
+    "club": "Hapoel Afula",
+    "country": "ISR",
+    "wikipedia": "Hapoel Afula F.C.",
+    "repositoryStem": "Hapoel_Afula",
+    "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/israel/Hapoel_Afula.svg",
+    "authentic_source": true,
+    "validation": "source_retrieved_120x96_visual_review_pending",
+    "background": [
+      96,
+      122,
+      193
+    ],
+    "file": "docs/cge-four-second-divisions-2026-27/1884520000306.png",
+    "sha256": "0e5a539c52139f9bbf13cdf1ca308496181595e9739027d7fcb4c80414de9f6c"
+  },
+  {
+    "id": 1884520000307,
+    "club": "Hapoel Ra'anana",
+    "country": "ISR",
+    "wikipedia": "Hapoel Ra'anana A.F.C.",
+    "repositoryStem": "Hapoel_Ra'anana",
+    "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/israel/Hapoel_Ra%27anana.svg",
+    "authentic_source": true,
+    "validation": "source_retrieved_120x96_visual_review_pending",
+    "background": [
+      232,
+      100,
+      116
+    ],
+    "file": "docs/cge-four-second-divisions-2026-27/1884520000307.png",
+    "sha256": "5439c198e7e6351e58b0fa0bc127829660a380492fe2061c25c18e8981084b0f"
+  },
+  {
+    "id": 1884520000308,
+    "club": "Maccabi Bnei Reineh",
+    "country": "ISR",
+    "wikipedia": "Maccabi Bnei Reineh",
+    "repositoryStem": "Maccabi_Bnei_Reineh",
+    "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/israel/Maccabi_Bnei_Reineh.svg",
+    "authentic_source": true,
+    "validation": "source_retrieved_120x96_visual_review_pending",
+    "background": [
+      132,
+      181,
+      225
+    ],
+    "file": "docs/cge-four-second-divisions-2026-27/1884520000308.png",
+    "sha256": "75ec6de0f13c407719572a707851ee541cf34d57667609f45cd633c88e0d64b7"
+  },
+  {
+    "id": 1884520000309,
+    "club": "F.C. Kafr Qasim",
+    "country": "ISR",
+    "wikipedia": "F.C. Kafr Qasim",
+    "repositoryStem": "Kafr_Qasim",
+    "source": "https://thumb.wikimedia.org/wikipedia/en/thumb/4/45/Fc-kafr-qasim.svg/250px-Fc-kafr-qasim.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "authentic_source": true,
+    "validation": "source_retrieved_120x96_visual_review_pending",
+    "background": [
+      227,
+      105,
+      124
+    ],
+    "file": "docs/cge-four-second-divisions-2026-27/1884520000309.png",
+    "sha256": "a3561212554355ff60fdc76f115e3d54b5fd9cfc27929a6d43a760fa924b4114"
+  },
+  {
+    "id": 1884520000310,
+    "club": "Ironi Modi'in",
+    "country": "ISR",
+    "wikipedia": "Ironi Modi'in F.C.",
+    "repositoryStem": "Ironi_Modiin",
+    "source": null,
+    "authentic_source": false,
+    "validation": "source_missing"
+  },
+  {
+    "id": 1884520000311,
+    "club": "Maccabi Kiryat Gat",
+    "country": "ISR",
+    "wikipedia": "Maccabi Kiryat Gat F.C.",
+    "repositoryStem": "Maccabi_Kiryat_Gat",
+    "source": null,
+    "authentic_source": false,
+    "validation": "source_missing"
+  },
+  {
+    "id": 1884520000312,
+    "club": "Maccabi Akhi Nazareth",
+    "country": "ISR",
+    "wikipedia": "Maccabi Akhi Nazareth F.C.",
+    "repositoryStem": "Maccabi_Ahi_Nazareth",
+    "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/israel/Maccabi_Ahi_Nazareth.svg",
+    "authentic_source": true,
+    "validation": "source_retrieved_120x96_visual_review_pending",
+    "background": [
+      128,
+      166,
+      134
+    ],
+    "file": "docs/cge-four-second-divisions-2026-27/1884520000312.png",
+    "sha256": "6d63b9fb77bad004323978e72e2b42e9bdf55075da3e4fb6a905803cafb601f7"
+  },
+  {
+    "id": 1884520000313,
+    "club": "Maccabi Herzliya",
+    "country": "ISR",
+    "wikipedia": "Maccabi Herzliya F.C.",
+    "repositoryStem": "Maccabi_Herzliya",
+    "source": null,
+    "authentic_source": false,
+    "validation": "source_missing"
+  },
+  {
+    "id": 1884520000314,
+    "club": "Hapoel Kfar Saba",
+    "country": "ISR",
+    "wikipedia": "Hapoel Kfar Saba F.C.",
+    "repositoryStem": "Hapoel_Kfar-Saba",
+    "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/israel/Hapoel_Kfar-Saba.svg",
+    "authentic_source": true,
+    "validation": "source_retrieved_120x96_visual_review_pending",
+    "background": [
+      117,
+      161,
+      139
+    ],
+    "file": "docs/cge-four-second-divisions-2026-27/1884520000314.png",
+    "sha256": "e876ac40ffb5871880702f7f76665a7f82f3419ef3efe83010e4da4efbf8f72a"
+  },
+  {
+    "id": 1884520000315,
+    "club": "Maccabi Jaffa",
+    "country": "ISR",
+    "wikipedia": "Maccabi Jaffa F.C.",
+    "repositoryStem": "Maccabi_Jaffa",
+    "source": "https://thumb.wikimedia.org/wikipedia/en/thumb/3/3d/Maccabi_Jaffa_FC.png/250px-Maccabi_Jaffa_FC.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "authentic_source": true,
+    "validation": "source_retrieved_120x96_visual_review_pending",
+    "background": [
+      130,
+      129,
+      181
+    ],
+    "file": "docs/cge-four-second-divisions-2026-27/1884520000315.png",
+    "sha256": "d1e4979c6a8504370c92f84584c74afafb37b826ba73cc21c7015ff207932f40"
+  },
+  {
+    "id": 1884520000316,
+    "club": "Hapoel Acre",
+    "country": "ISR",
+    "wikipedia": "Hapoel Acre F.C.",
+    "repositoryStem": "Hapoel_Acre",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Acrefc.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+    "authentic_source": true,
+    "validation": "source_retrieved_120x96_visual_review_pending",
+    "background": [
+      96,
+      153,
+      196
+    ],
+    "file": "docs/cge-four-second-divisions-2026-27/1884520000316.png",
+    "sha256": "66203a4a53db7b5bc4130a5a122fc05342b30e313a024a50e3f8ec5e7b7ae000"
+  }
+]
