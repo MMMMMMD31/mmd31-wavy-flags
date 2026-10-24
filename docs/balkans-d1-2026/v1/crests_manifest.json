@@ -1,7 +1,7 @@
 {
   "expected": 34,
-  "created": 33,
-  "missing": 1,
+  "created": 34,
+  "missing": 0,
   "format": "120x96 authentic crest on club-color solid rectangle",
   "assets": [
     {
@@ -537,6 +537,25 @@
       ]
     },
     {
+      "id": 1947263000005,
+      "country": "XK",
+      "club": "KF Dukagjini",
+      "source_url": "https://dsg-images.com/clubs/50x50/14721.png",
+      "source_description": "Global Sports Archive original competition logo, match checked by team name",
+      "background": "#D4A9A9",
+      "source_size_bytes": 5028,
+      "image_size": [
+        120,
+        96
+      ],
+      "sha256": "b41c31cf1a9928ce35afa06af983116885cf1a7ade322d4798c999faf461f022",
+      "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-balkans-d1-2026-test/docs/balkans-d1-2026/v1/1947263000005.png",
+      "source_resolution": [
+        50,
+        49
+      ]
+    },
+    {
       "id": 1947263000006,
       "country": "XK",
       "club": "FC Ballkani",
@@ -632,13 +651,5 @@
       ]
     }
   ],
-  "unresolved": [
-    {
-      "id": 1947263000005,
-      "country": "XK",
-      "name": "KF Dukagjini",
-      "error": "No identifiable club crest in verified sports competition source Dukagjini",
-      "source_key": "FFK_Dukagjini"
-    }
-  ]
+  "unresolved": []
 }
