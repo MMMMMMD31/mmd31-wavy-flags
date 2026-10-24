@@ -108,6 +108,12 @@ def main():
     ROOT.mkdir(parents=True, exist_ok=True)
     old = json.loads(BASE_MANIFEST.read_text(encoding="utf-8"))
     skip = {str(x["teamId"]) for x in old}
+    previous_manifest = ROOT / "manifest.json"
+    already_published = (
+        json.loads(previous_manifest.read_text(encoding="utf-8"))
+        if previous_manifest.exists() else []
+    )
+    previous_ids = {str(x["teamId"]) for x in already_published}
     with SOURCE_CSV.open(encoding="utf-8-sig", newline="") as file:
         teams = [x for x in csv.DictReader(file) if x["teamId"] not in skip]
     titles = set()
@@ -122,16 +128,20 @@ def main():
         if found:
             matches.append({**row, "candidate_titles": sorted(found)})
     print("Exact club name matches:", len(matches), flush=True)
+    new_matches = [x for x in matches if x["teamId"] not in previous_ids]
+    print("Matches not yet published:", len(new_matches), flush=True)
     with concurrent.futures.ThreadPoolExecutor(max_workers=5) as pool:
-        metadata = [x for x in pool.map(image_metadata, matches) if x]
+        metadata = [x for x in pool.map(image_metadata, new_matches) if x]
         rendered = [x for x in pool.map(render, metadata) if x]
+    combined = already_published + rendered
     (ROOT / "manifest.json").write_text(
-        json.dumps(rendered, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+        json.dumps(combined, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     (ROOT / "status.json").write_text(
         json.dumps({"categories": CATEGORIES, "files_searched": len(titles),
-                    "club_matches": len(matches), "published": len(rendered)},
+                    "club_matches": len(matches), "added_this_run": len(rendered),
+                    "published": len(combined)},
                    ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    print("PUBLISHED", len(rendered), flush=True)
+    print("PUBLISHED", len(combined), "ADDED", len(rendered), flush=True)
 
 
 if __name__ == "__main__":
