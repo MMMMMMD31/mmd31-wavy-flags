@@ -1,0 +1,688 @@
+{
+  "season": "2026-27",
+  "source": "2026-updated country logo catalogs",
+  "total": 40,
+  "published": 40,
+  "entries": [
+    {
+      "team_id": "2026102401001",
+      "country": "CH",
+      "club": "FC Basel 1893",
+      "match_alt": "Basel",
+      "catalog": "https://escudosfc.com.br/swit.htm",
+      "status": "published",
+      "source_alt": "Basel",
+      "source_url": "https://escudosfc.com.br/images/basel.png",
+      "bytes": 7631,
+      "sha256": "4b9db5db6940a624478cd1e36a98cc1baa1b040610ef380c6878c857d28b19e6",
+      "background_rgb": [
+        241,
+        147,
+        160
+      ]
+    },
+    {
+      "team_id": "2026102401002",
+      "country": "CH",
+      "club": "Grasshopper Club Zürich",
+      "match_alt": "Grasshoper",
+      "catalog": "https://escudosfc.com.br/swit.htm",
+      "status": "published",
+      "source_alt": "Grasshoper",
+      "source_url": "https://escudosfc.com.br/images/grassh.png",
+      "bytes": 8043,
+      "sha256": "04340d803cf76f5e4c75c3d45120f99da29d4dbe5f24236f8d5df0661914942f",
+      "background_rgb": [
+        147,
+        187,
+        214
+      ]
+    },
+    {
+      "team_id": "2026102401003",
+      "country": "CH",
+      "club": "FC Lausanne-Sport",
+      "match_alt": "Lausanne",
+      "catalog": "https://escudosfc.com.br/swit.htm",
+      "status": "published",
+      "source_alt": "Lausanne",
+      "source_url": "https://escudosfc.com.br/images/lausanne.png",
+      "bytes": 3650,
+      "sha256": "f985c202f2c76a2362a7bf0519de87d1acb8bcc6c35e637b00449e9c357f442f",
+      "background_rgb": [
+        147,
+        160,
+        187
+      ]
+    },
+    {
+      "team_id": "2026102401004",
+      "country": "CH",
+      "club": "FC Lugano",
+      "match_alt": "Lugano",
+      "catalog": "https://escudosfc.com.br/swit.htm",
+      "status": "published",
+      "source_alt": "Lugano",
+      "source_url": "https://escudosfc.com.br/images/lugano.png",
+      "bytes": 6195,
+      "sha256": "b9403095f718ec0853fe3de9aa7c397e68e8b057265a3a1c94b372609277c1af",
+      "background_rgb": [
+        214,
+        214,
+        214
+      ]
+    },
+    {
+      "team_id": "2026102401005",
+      "country": "CH",
+      "club": "FC Luzern",
+      "match_alt": "Luzern",
+      "catalog": "https://escudosfc.com.br/swit.htm",
+      "status": "published",
+      "source_alt": "Luzern",
+      "source_url": "https://escudosfc.com.br/images/luzern.gif",
+      "bytes": 11660,
+      "sha256": "b7ef2684a15b0ad96244274868741f644c3ebb5f4c690f5e8a0675a031bdafe6",
+      "background_rgb": [
+        160,
+        174,
+        201
+      ]
+    },
+    {
+      "team_id": "2026102401006",
+      "country": "CH",
+      "club": "Servette FC",
+      "match_alt": "Servette",
+      "catalog": "https://escudosfc.com.br/swit.htm",
+      "status": "published",
+      "source_alt": "Servette",
+      "source_url": "https://escudosfc.com.br/images/servette.png",
+      "bytes": 8782,
+      "sha256": "df178f6a5c0096c5d6bd2a6d86e4aca3f8e39368894096491d6d7dad8bb82ed6",
+      "background_rgb": [
+        201,
+        147,
+        160
+      ]
+    },
+    {
+      "team_id": "2026102401007",
+      "country": "CH",
+      "club": "FC Sion",
+      "match_alt": "Sion",
+      "catalog": "https://escudosfc.com.br/swit.htm",
+      "status": "published",
+      "source_alt": "Sion",
+      "source_url": "https://escudosfc.com.br/images/sion.png",
+      "bytes": 9340,
+      "sha256": "f2962260ee7fa3c9a52d503a49ae72657ace2818e057f7ba01a8b730313f95e4",
+      "background_rgb": [
+        241,
+        160,
+        147
+      ]
+    },
+    {
+      "team_id": "2026102401008",
+      "country": "CH",
+      "club": "FC St.Gallen 1879",
+      "match_alt": "St. Gallen",
+      "catalog": "https://escudosfc.com.br/swit.htm",
+      "status": "published",
+      "source_alt": "St. Gallen",
+      "source_url": "https://escudosfc.com.br/images/stgallen.png",
+      "bytes": 11732,
+      "sha256": "99784781700e97f719214612cb166061844fc7dc2affb7c9957ee78de9fa69ad",
+      "background_rgb": [
+        160,
+        201,
+        174
+      ]
+    },
+    {
+      "team_id": "2026102401009",
+      "country": "CH",
+      "club": "FC Thun",
+      "match_alt": "Thun",
+      "catalog": "https://escudosfc.com.br/swit.htm",
+      "status": "published",
+      "source_alt": "Thun",
+      "source_url": "https://escudosfc.com.br/images/thun_swi.png",
+      "bytes": 9965,
+      "sha256": "2d18ddd52c42d0a489606034ac45249f07b0728def48d4189387f5959b16a672",
+      "background_rgb": [
+        241,
+        147,
+        147
+      ]
+    },
+    {
+      "team_id": "2026102401010",
+      "country": "CH",
+      "club": "FC Vaduz",
+      "match_alt": "Vaduz",
+      "catalog": "https://escudosfc.com.br/swit.htm",
+      "status": "published",
+      "source_alt": "Vaduz",
+      "source_url": "https://escudosfc.com.br/images/vaduz.gif",
+      "bytes": 8237,
+      "sha256": "b6118a25c6c6a1413d72a38cf841fb00dffcfc0e2fb6649bbad3796f8597fe2c",
+      "background_rgb": [
+        241,
+        147,
+        147
+      ]
+    },
+    {
+      "team_id": "2026102401011",
+      "country": "CH",
+      "club": "BSC Young Boys",
+      "match_alt": "Young Boys",
+      "catalog": "https://escudosfc.com.br/swit.htm",
+      "status": "published",
+      "source_alt": "Young Boys",
+      "source_url": "https://escudosfc.com.br/images/youngboys.gif",
+      "bytes": 10385,
+      "sha256": "3c15793d7b99734bcc40942508f15fb8fa9c588d8452841c6baba98413bce42b",
+      "background_rgb": [
+        241,
+        228,
+        160
+      ]
+    },
+    {
+      "team_id": "2026102401012",
+      "country": "CH",
+      "club": "FC Zürich",
+      "match_alt": "Zurich",
+      "catalog": "https://escudosfc.com.br/swit.htm",
+      "status": "published",
+      "source_alt": "Zurich",
+      "source_url": "https://escudosfc.com.br/images/zurich_sui.jpg",
+      "bytes": 8580,
+      "sha256": "413d0d2a9a72ba7a53d0358d542f006cd63bc2eebaa550419f8afab42ad13cc6",
+      "background_rgb": [
+        147,
+        160,
+        174
+      ]
+    },
+    {
+      "team_id": "2026102402001",
+      "country": "AT",
+      "club": "SC Austria Lustenau",
+      "match_alt": "Austria Lustenau",
+      "catalog": "https://escudosfc.com.br/aut.htm",
+      "status": "published",
+      "source_alt": "Austria Lustenau",
+      "source_url": "https://escudosfc.com.br/images/aut_lustenau.gif",
+      "bytes": 7723,
+      "sha256": "34140dde0a58e2acb2b0d0de70b452d02ee33a7f001bc7c881f5f16c504c90e7",
+      "background_rgb": [
+        147,
+        214,
+        174
+      ]
+    },
+    {
+      "team_id": "2026102402002",
+      "country": "AT",
+      "club": "FK Austria Wien",
+      "match_alt": "Austria Vienna",
+      "catalog": "https://escudosfc.com.br/aut.htm",
+      "status": "published",
+      "source_alt": "Austria Vienna",
+      "source_url": "https://escudosfc.com.br/images/austriaw.png",
+      "bytes": 15015,
+      "sha256": "573c65c60b1527bb727d586711444fd4b64aa3fef853c6c8a963ca28cb7b28a7",
+      "background_rgb": [
+        160,
+        147,
+        187
+      ]
+    },
+    {
+      "team_id": "2026102402003",
+      "country": "AT",
+      "club": "Grazer AK 1902",
+      "match_alt": "Grazer",
+      "catalog": "https://escudosfc.com.br/aut.htm",
+      "status": "published",
+      "source_alt": "Grazer",
+      "source_url": "https://escudosfc.com.br/images/grazer_aut.png",
+      "bytes": 6633,
+      "sha256": "6d64f353239af84bf82bce8cc6bf5b8913242853df9e7350887d8f971b6272f9",
+      "background_rgb": [
+        241,
+        160,
+        160
+      ]
+    },
+    {
+      "team_id": "2026102402004",
+      "country": "AT",
+      "club": "TSV Hartberg",
+      "match_alt": "Hartberg",
+      "catalog": "https://escudosfc.com.br/aut.htm",
+      "status": "published",
+      "source_alt": "Hartberg",
+      "source_url": "https://escudosfc.com.br/images/hartberg_aut.jpg",
+      "bytes": 13115,
+      "sha256": "6ad043d50cd959b739aa4b5850947d1bdae097c99063b8d43359762fba2aa6c3",
+      "background_rgb": [
+        147,
+        201,
+        228
+      ]
+    },
+    {
+      "team_id": "2026102402005",
+      "country": "AT",
+      "club": "LASK",
+      "match_alt": "LASK Linz",
+      "catalog": "https://escudosfc.com.br/aut.htm",
+      "status": "published",
+      "source_alt": "LASK Linz",
+      "source_url": "https://escudosfc.com.br/images/lask_linz.png",
+      "bytes": 3925,
+      "sha256": "7b6f38f5dc1194a58feeeb1b7c886f739b674f292d27a38788d5039062e4088c",
+      "background_rgb": [
+        214,
+        214,
+        214
+      ]
+    },
+    {
+      "team_id": "2026102402006",
+      "country": "AT",
+      "club": "SK Rapid Wien",
+      "match_alt": "Rapid Vienna",
+      "catalog": "https://escudosfc.com.br/aut.htm",
+      "status": "published",
+      "source_alt": "Rapid Vienna",
+      "source_url": "https://escudosfc.com.br/images/rapidv.png",
+      "bytes": 9049,
+      "sha256": "240b3b784758c3f66e8fff6e76e4ed18bbdfb793f94328bca4ed7bfeb4f36fd3",
+      "background_rgb": [
+        147,
+        160,
+        187
+      ]
+    },
+    {
+      "team_id": "2026102402007",
+      "country": "AT",
+      "club": "FC Red Bull Salzburg",
+      "match_alt": "Red Bull Salzburg",
+      "catalog": "https://escudosfc.com.br/aut.htm",
+      "status": "published",
+      "source_alt": "Red Bull Salzburg",
+      "source_url": "https://escudosfc.com.br/images/salzburg.png",
+      "bytes": 10036,
+      "sha256": "fb030ca633fdf5fab9ee71b223cc25971892d13b3e7ce5bd4685756583127bf1",
+      "background_rgb": [
+        241,
+        147,
+        174
+      ]
+    },
+    {
+      "team_id": "2026102402008",
+      "country": "AT",
+      "club": "SCR Altach",
+      "match_alt": "Rheindorf Altach",
+      "catalog": "https://escudosfc.com.br/aut.htm",
+      "status": "published",
+      "source_alt": "Rheindorf Altach",
+      "source_url": "https://escudosfc.com.br/images/rheindorf_altach.png",
+      "bytes": 4483,
+      "sha256": "14b477b8fa9abffa0dd84c0aec453182f1c38ae7149d091681463374c68c170c",
+      "background_rgb": [
+        214,
+        214,
+        214
+      ]
+    },
+    {
+      "team_id": "2026102402009",
+      "country": "AT",
+      "club": "SV Ried",
+      "match_alt": "Ried",
+      "catalog": "https://escudosfc.com.br/aut.htm",
+      "status": "published",
+      "source_alt": "Ried",
+      "source_url": "https://escudosfc.com.br/images/ried_aut.gif",
+      "bytes": 7850,
+      "sha256": "e23f6fdf236486a1a4ffb644d335ca47b8ec1a8b4f0be0a7a272d3a09cbc518a",
+      "background_rgb": [
+        147,
+        201,
+        160
+      ]
+    },
+    {
+      "team_id": "2026102402010",
+      "country": "AT",
+      "club": "SK Sturm Graz",
+      "match_alt": "Sturm Graz",
+      "catalog": "https://escudosfc.com.br/aut.htm",
+      "status": "published",
+      "source_alt": "Sturm Graz",
+      "source_url": "https://escudosfc.com.br/images/sturmgraz_aut.png",
+      "bytes": 11224,
+      "sha256": "5c20328e88093b517742f16e43a3f020b2d43a94dc2ef89108f058f263ec3258",
+      "background_rgb": [
+        214,
+        214,
+        214
+      ]
+    },
+    {
+      "team_id": "2026102402011",
+      "country": "AT",
+      "club": "Wolfsberger AC",
+      "match_alt": "Wolfsberger",
+      "catalog": "https://escudosfc.com.br/aut.htm",
+      "status": "published",
+      "source_alt": "Wolfsberger",
+      "source_url": "https://escudosfc.com.br/images/wac_standra_aut.png",
+      "bytes": 12221,
+      "sha256": "4db45209f48fa3d0438d2c6099c672085c9831f27614b35325945ed986a468f9",
+      "background_rgb": [
+        147,
+        201,
+        160
+      ]
+    },
+    {
+      "team_id": "2026102402012",
+      "country": "AT",
+      "club": "WSG Tirol",
+      "match_alt": "Swarovski Tirol",
+      "catalog": "https://escudosfc.com.br/aut.htm",
+      "status": "published",
+      "source_alt": "Swarovski Tirol",
+      "source_url": "https://escudosfc.com.br/images/wattens_aut.png",
+      "bytes": 13282,
+      "sha256": "aa3022f2b52bb0f6412a2bb4404654e3c94568a9145be2fb9de7cf49956d2494",
+      "background_rgb": [
+        147,
+        214,
+        174
+      ]
+    },
+    {
+      "team_id": "2026102403001",
+      "country": "SM",
+      "club": "SP Cailungo",
+      "match_alt": "Cailungo",
+      "catalog": "https://escudosfc.com.br/san_m.htm",
+      "status": "published",
+      "source_alt": "Cailungo",
+      "source_url": "https://escudosfc.com.br/images/cailungo_san.png",
+      "bytes": 14886,
+      "sha256": "daf3bedfc657b3f752fce6d3fb8d9af47c6c393da8767671f60d30a70f2045f1",
+      "background_rgb": [
+        147,
+        187,
+        147
+      ]
+    },
+    {
+      "team_id": "2026102403002",
+      "country": "SM",
+      "club": "SS Cosmos",
+      "match_alt": "Cosmos",
+      "catalog": "https://escudosfc.com.br/san_m.htm",
+      "status": "published",
+      "source_alt": "Cosmos",
+      "source_url": "https://escudosfc.com.br/images/cosmos_sm.png",
+      "bytes": 12818,
+      "sha256": "7ff406945e54f04873d2398c27602740ad7dc6db1936e41bd9b985feaf334193",
+      "background_rgb": [
+        187,
+        214,
+        201
+      ]
+    },
+    {
+      "team_id": "2026102403003",
+      "country": "SM",
+      "club": "FC Domagnano",
+      "match_alt": "Domagnano",
+      "catalog": "https://escudosfc.com.br/san_m.htm",
+      "status": "published",
+      "source_alt": "Domagnano",
+      "source_url": "https://escudosfc.com.br/images/domagnano_sm.png",
+      "bytes": 11533,
+      "sha256": "e30eea4a7fc3b5306c5a8f17ae2bb65df725eb57fd033a671f53ca6bc84f9fee",
+      "background_rgb": [
+        241,
+        147,
+        147
+      ]
+    },
+    {
+      "team_id": "2026102403004",
+      "country": "SM",
+      "club": "SC Faetano",
+      "match_alt": "Faetano",
+      "catalog": "https://escudosfc.com.br/san_m.htm",
+      "status": "published",
+      "source_alt": "Faetano",
+      "source_url": "https://escudosfc.com.br/images/faetano_san.png",
+      "bytes": 10903,
+      "sha256": "c853d3288945043657e1bd72e5183fc636998a25ee3824c0c73f7551e8570b25",
+      "background_rgb": [
+        147,
+        174,
+        214
+      ]
+    },
+    {
+      "team_id": "2026102403005",
+      "country": "SM",
+      "club": "FC Fiorentino",
+      "match_alt": "Fiorentino",
+      "catalog": "https://escudosfc.com.br/san_m.htm",
+      "status": "published",
+      "source_alt": "Fiorentino",
+      "source_url": "https://escudosfc.com.br/images/fiorentino_san.png",
+      "bytes": 6907,
+      "sha256": "bd4450eef48930eec16b8ef0d5ceb63174d1d233de954f2e0ce483c802e5ac3e",
+      "background_rgb": [
+        160,
+        187,
+        228
+      ]
+    },
+    {
+      "team_id": "2026102403006",
+      "country": "SM",
+      "club": "SS Folgore/Falciano",
+      "match_alt": "Folgore/Falciano",
+      "catalog": "https://escudosfc.com.br/san_m.htm",
+      "status": "published",
+      "source_alt": "Folgore/Falciano",
+      "source_url": "https://escudosfc.com.br/images/folgore_san.png",
+      "bytes": 9218,
+      "sha256": "6dc1d88ac353d0753db46620d5b8e68103f801bf7511c8b92b60f2293d5caa34",
+      "background_rgb": [
+        241,
+        174,
+        147
+      ]
+    },
+    {
+      "team_id": "2026102403007",
+      "country": "SM",
+      "club": "AC Juvenes/Dogana",
+      "match_alt": "Juvenes Dogana",
+      "catalog": "https://escudosfc.com.br/san_m.htm",
+      "status": "published",
+      "source_alt": "Juvenes Dogana",
+      "source_url": "https://escudosfc.com.br/images/juvenes_dogana_sm.png",
+      "bytes": 6635,
+      "sha256": "9e4841315bdcaba849ea8b645cfbeb7e3168614fed5bf85769e13741a2fddd0b",
+      "background_rgb": [
+        241,
+        147,
+        147
+      ]
+    },
+    {
+      "team_id": "2026102403008",
+      "country": "SM",
+      "club": "SP La Fiorita",
+      "match_alt": "La Fiorita",
+      "catalog": "https://escudosfc.com.br/san_m.htm",
+      "status": "published",
+      "source_alt": "La Fiorita",
+      "source_url": "https://escudosfc.com.br/images/la_fiorita_san.png",
+      "bytes": 7431,
+      "sha256": "b6598e41b683fa15e70a39161747c9cc320e80d9fa3464c819d6e7ca904d8203",
+      "background_rgb": [
+        147,
+        160,
+        187
+      ]
+    },
+    {
+      "team_id": "2026102403009",
+      "country": "SM",
+      "club": "AC Libertas",
+      "match_alt": "Libertas",
+      "catalog": "https://escudosfc.com.br/san_m.htm",
+      "status": "published",
+      "source_alt": "Libertas",
+      "source_url": "https://escudosfc.com.br/images/libertas_san.png",
+      "bytes": 12651,
+      "sha256": "6434c4b56f7c11a1d7b5fa2f082591912122b34ec241380d94ac1a32962865a9",
+      "background_rgb": [
+        147,
+        214,
+        241
+      ]
+    },
+    {
+      "team_id": "2026102403010",
+      "country": "SM",
+      "club": "SS Murata",
+      "match_alt": "Murata",
+      "catalog": "https://escudosfc.com.br/san_m.htm",
+      "status": "published",
+      "source_alt": "Murata",
+      "source_url": "https://escudosfc.com.br/images/murata_san_marino.png",
+      "bytes": 8361,
+      "sha256": "be2e0193cb45b02671cf1726272086e9e8d1f90e22523e1f21b281c03a5df65a",
+      "background_rgb": [
+        214,
+        187,
+        160
+      ]
+    },
+    {
+      "team_id": "2026102403011",
+      "country": "SM",
+      "club": "SS Pennarossa",
+      "match_alt": "Pennarossa",
+      "catalog": "https://escudosfc.com.br/san_m.htm",
+      "status": "published",
+      "source_alt": "Pennarossa",
+      "source_url": "https://escudosfc.com.br/images/pennarossa_sm.png",
+      "bytes": 7843,
+      "sha256": "04c265e9f475cfe4aa9e996779ed85ac56b0a083efa76bb233b7d740e51b6efa",
+      "background_rgb": [
+        241,
+        160,
+        147
+      ]
+    },
+    {
+      "team_id": "2026102403012",
+      "country": "SM",
+      "club": "SS San Giovanni",
+      "match_alt": "San Giovanni",
+      "catalog": "https://escudosfc.com.br/san_m.htm",
+      "status": "published",
+      "source_alt": "San Giovanni",
+      "source_url": "https://escudosfc.com.br/images/san_giovanni_san.png",
+      "bytes": 13484,
+      "sha256": "b7cf05f2795ab28d713eaab42952805b4b85dc17c4ecdf0d4f1a416684dedfc7",
+      "background_rgb": [
+        241,
+        174,
+        174
+      ]
+    },
+    {
+      "team_id": "2026102403013",
+      "country": "SM",
+      "club": "San Marino Academy",
+      "match_alt": "San Marino Academy",
+      "catalog": "https://escudosfc.com.br/san_m.htm",
+      "status": "published",
+      "source_alt": "San Marino Academy",
+      "source_url": "https://escudosfc.com.br/images/san_marino_ac_ita.png",
+      "bytes": 10412,
+      "sha256": "1bcd2a2f9a38f812e9bcd90a7408a002c3d2340325d7f9a9fa93dbaf72b30e77",
+      "background_rgb": [
+        160,
+        160,
+        201
+      ]
+    },
+    {
+      "team_id": "2026102403014",
+      "country": "SM",
+      "club": "SP Tre Fiori",
+      "match_alt": "Tre Fiori",
+      "catalog": "https://escudosfc.com.br/san_m.htm",
+      "status": "published",
+      "source_alt": "Tre Fiori",
+      "source_url": "https://escudosfc.com.br/images/tre_fiori_san.png",
+      "bytes": 9714,
+      "sha256": "ed0041afa9ca3cdba876dc015f1d5856453daaaa84367081717f4479b92db87d",
+      "background_rgb": [
+        241,
+        241,
+        174
+      ]
+    },
+    {
+      "team_id": "2026102403015",
+      "country": "SM",
+      "club": "SP Tre Penne",
+      "match_alt": "Tre Penne",
+      "catalog": "https://escudosfc.com.br/san_m.htm",
+      "status": "published",
+      "source_alt": "Tre Penne",
+      "source_url": "https://escudosfc.com.br/images/tre_penne_san.jpg",
+      "bytes": 10564,
+      "sha256": "6906f668e91e927e2e541cbd10e2eb3b542d4f1978450b65a870cbe11a603c1a",
+      "background_rgb": [
+        147,
+        201,
+        228
+      ]
+    },
+    {
+      "team_id": "2026102403016",
+      "country": "SM",
+      "club": "AC Virtus",
+      "match_alt": "Virtus",
+      "catalog": "https://escudosfc.com.br/san_m.htm",
+      "status": "published",
+      "source_alt": "Virtus",
+      "source_url": "https://escudosfc.com.br/images/virtus_san.png",
+      "bytes": 10053,
+      "sha256": "490edbc72889d8828bfa93caf45d1c793aec0d20bd8bfa42568862ee65ab30fe",
+      "background_rgb": [
+        147,
+        201,
+        174
+      ]
+    }
+  ]
+}

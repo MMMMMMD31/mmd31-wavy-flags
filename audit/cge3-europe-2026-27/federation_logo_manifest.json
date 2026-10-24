@@ -1,0 +1,38 @@
+[
+  {
+    "country": "CH",
+    "organism": "Swiss Football League",
+    "source_url": "https://origins-sportlab-payload-s3.origins-digital.com/sfl/images/RZ_SFL_Logo_Portrait_RGB%20-%20Copy.png",
+    "status": "published",
+    "source_page": "https://sfl.ch",
+    "size": [
+      512,
+      428
+    ],
+    "sha256": "198a5e26d95932c53aa7715dc11c3ad794a6ada891096f54848aded9af09ae04"
+  },
+  {
+    "country": "AT",
+    "organism": "Österreichische Fußball-Bundesliga",
+    "source_url": "https://europeanleagues.com/wp-content/uploads/2016/10/AUT_%C3%96FBL_H_RGB.png",
+    "status": "published",
+    "source_page": "https://europeanleagues.com/member/osterreichische-fusball-bundesliga/",
+    "size": [
+      512,
+      512
+    ],
+    "sha256": "089c405795dca98229cd60e89949e42f03eedbed803a7447c83428ee4347856a"
+  },
+  {
+    "country": "SM",
+    "organism": "Federazione Sammarinese Giuoco Calcio",
+    "source_url": "https://www.sanmarinortv.sm/media/cache/fe_article_detail_full_big/uploads/img/photo/60/601d70601db68769895533.jpg",
+    "status": "published",
+    "source_page": "https://www.sanmarinortv.sm/sport/calcio-sammarinese-c15/nuovo-logo-per-la-federcalcio-di-san-marino-a200825",
+    "size": [
+      512,
+      288
+    ],
+    "sha256": "0a911a7063c52affdfe8bb4e902cfca200f8382afdd8d13e79dbc516e48e0712"
+  }
+]
