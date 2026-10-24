@@ -1,44 +1,8 @@
 {
-  "offset": 499,
+  "offset": 581,
   "limit": 35,
   "profiles_checked": 35,
-  "added": 28,
-  "total": 182,
-  "failed": [
-    {
-      "teamId": "1898200000784",
-      "club": "SV Union Lohne 1920",
-      "reason": "club profile HTTP 404"
-    },
-    {
-      "teamId": "1898200000789",
-      "club": "VfL Wildeshausen",
-      "reason": "club profile HTTP 404"
-    },
-    {
-      "teamId": "1898200000808",
-      "club": "TuS Immendorf",
-      "reason": "club profile HTTP 404"
-    },
-    {
-      "teamId": "1898200000809",
-      "club": "FV Hunsrückhöhe Morbach",
-      "reason": "club profile HTTP 404"
-    },
-    {
-      "teamId": "1898200000810",
-      "club": "FC Bitburg",
-      "reason": "club profile HTTP 404"
-    },
-    {
-      "teamId": "1898200000819",
-      "club": "SG Malberg",
-      "reason": "club profile HTTP 404"
-    },
-    {
-      "teamId": "1898200000822",
-      "club": "TuS Kirchberg",
-      "reason": "club profile HTTP 404"
-    }
-  ]
+  "added": 35,
+  "total": 217,
+  "failed": []
 }
