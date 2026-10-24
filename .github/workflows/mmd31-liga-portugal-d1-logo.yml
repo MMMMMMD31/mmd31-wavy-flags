@@ -1,0 +1,28 @@
+name: MMD31 Liga Portugal division 1 logo
+on:
+  push:
+    branches: [mmd31-ptgi-logos-20261023-test]
+    paths:
+      - '.github/workflows/mmd31-liga-portugal-d1-logo.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: python -m pip install requests pillow
+      - run: python tools/generate_ptgi_liga_portugal_d1_logo.py
+      - run: |
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git add docs/portugal-gibraltar-clubs-2026-27/competition-logos/liga_portugal_d1_logo*
+          if ! git diff --cached --quiet; then
+            git commit -m "Publish Liga Portugal D1 competition emblem"
+            git push origin HEAD:refs/heads/${GITHUB_REF_NAME}
+          fi
