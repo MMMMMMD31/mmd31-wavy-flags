@@ -1,0 +1,842 @@
+[
+  {
+    "country": "CZ",
+    "teamId": 1971262000001,
+    "club": "SK Slavia Praha",
+    "original_source": "https://assets.footylogos.com/logos/slavia-praha/slavia-praha-logo-footylogos.svg",
+    "profile": "https://www.footylogos.com/logos/slavia-praha",
+    "matched_slug": "slavia-praha",
+    "confidence": 1.0,
+    "bg_rgb": [
+      243,
+      78,
+      101
+    ],
+    "raw_sha256": "1503f92fa4fd2414cbd95ec12a555235e36c8526a4477ab124a92660759edd10",
+    "sha256": "cd4f9ab4feef86ea0e74c5f7531f93083519b819f41f98070d749ce0187583e4",
+    "path": "docs/central-europe-d1-2026-27/verified/1971262000001.png",
+    "size": [
+      120,
+      96
+    ]
+  },
+  {
+    "country": "CZ",
+    "teamId": 1971262000002,
+    "club": "AC Sparta Praha",
+    "original_source": "https://assets.footylogos.com/logos/sparta-praha/sparta-praha-logo-footylogos.svg",
+    "profile": "https://www.footylogos.com/logos/sparta-praha",
+    "matched_slug": "sparta-praha",
+    "confidence": 1.0,
+    "bg_rgb": [
+      220,
+      196,
+      125
+    ],
+    "raw_sha256": "163839ff07cb588f4e9220d06be7f9c6cdb56b9d9645c37ea9ff884172fe13d5",
+    "sha256": "04eeadf345b74dcc09fac40b15a3d6b330fc035f7915414c88fa8c163a576ebe",
+    "path": "docs/central-europe-d1-2026-27/verified/1971262000002.png",
+    "size": [
+      120,
+      96
+    ]
+  },
+  {
+    "country": "CZ",
+    "teamId": 1971262000003,
+    "club": "FC Viktoria Plzeň",
+    "original_source": "https://assets.footylogos.com/logos/viktoria-plzen/viktoria-plzen-logo-footylogos.svg",
+    "profile": "https://www.footylogos.com/logos/viktoria-plzen",
+    "matched_slug": "viktoria-plzen",
+    "confidence": 1.0,
+    "bg_rgb": [
+      243,
+      78,
+      78
+    ],
+    "raw_sha256": "e7993ccc6e5ca469c31a954974aff33aa5fde5992c02e352589de9886e59bf47",
+    "sha256": "1da279d29415708d9087a536ecbe1be23d0c25d955fabd3cafb09b38a628bf45",
+    "path": "docs/central-europe-d1-2026-27/verified/1971262000003.png",
+    "size": [
+      120,
+      96
+    ]
+  },
+  {
+    "country": "CZ",
+    "teamId": 1971262000004,
+    "club": "FC Hradec Králové",
+    "original_source": "https://assets.footylogos.com/logos/fc-hradec-kralove/fc-hradec-kralove-logo-footylogos.png",
+    "profile": "https://www.footylogos.com/logos/fc-hradec-kralove",
+    "matched_slug": "fc-hradec-kralove",
+    "confidence": 1.0,
+    "bg_rgb": [
+      196,
+      172,
+      149
+    ],
+    "raw_sha256": "426ed2b9087c628cf76467d4f56ef976e90fd372ef37ac6a035f17aa02258933",
+    "sha256": "e2b93ffecdc049576fa08ee1b78cfb61b5b03e62d27ab11f7794c8cfe0283aab",
+    "path": "docs/central-europe-d1-2026-27/verified/1971262000004.png",
+    "size": [
+      120,
+      96
+    ]
+  },
+  {
+    "country": "CZ",
+    "teamId": 1971262000005,
+    "club": "FK Jablonec",
+    "original_source": "https://assets.footylogos.com/logos/fk-jablonec/fk-jablonec-logo-footylogos.svg",
+    "profile": "https://www.footylogos.com/logos/fk-jablonec",
+    "matched_slug": "fk-jablonec",
+    "confidence": 1.0,
+    "bg_rgb": [
+      78,
+      101,
+      78
+    ],
+    "raw_sha256": "327f6f4db7cf58be300beeda2f008ec79c47d18d29641c896885493a1488ec60",
+    "sha256": "88e5422fc95c5e483c7bbe092a9d244fb0ab29566be245df9c959efd18e8d7c1",
+    "path": "docs/central-europe-d1-2026-27/verified/1971262000005.png",
+    "size": [
+      120,
+      96
+    ]
+  },
+  {
+    "country": "CZ",
+    "teamId": 1971262000006,
+    "club": "FC Slovan Liberec",
+    "original_source": "https://assets.footylogos.com/logos/fc-slovan-liberec/fc-slovan-liberec-logo-footylogos.svg",
+    "profile": "https://www.footylogos.com/logos/fc-slovan-liberec",
+    "matched_slug": "fc-slovan-liberec",
+    "confidence": 1.0,
+    "bg_rgb": [
+      149,
+      196,
+      243
+    ],
+    "raw_sha256": "862d5ad388b914493e1a324d57b3a53ec063e745273b8cac9cb2d5676c0f18c2",
+    "sha256": "b36fa112c96cbdbf825e8a55866bd6b20e10e3dda98c38a1c174273d2244da51",
+    "path": "docs/central-europe-d1-2026-27/verified/1971262000006.png",
+    "size": [
+      120,
+      96
+    ]
+  },
+  {
+    "country": "CZ",
+    "teamId": 1971262000007,
+    "club": "SK Sigma Olomouc",
+    "original_source": "https://assets.footylogos.com/logos/sk-sigma-olomouc/sk-sigma-olomouc-logo-footylogos.svg",
+    "profile": "https://www.footylogos.com/logos/sk-sigma-olomouc",
+    "matched_slug": "sk-sigma-olomouc",
+    "confidence": 1.0,
+    "bg_rgb": [
+      78,
+      125,
+      172
+    ],
+    "raw_sha256": "fb9182e02d6d3d5dea467decfa5917a681299fb4b6e922de65eea4867156886a",
+    "sha256": "901c5cb61674f994fc45cc549673be163a3776963bfc3c08ae68521da02f04a0",
+    "path": "docs/central-europe-d1-2026-27/verified/1971262000007.png",
+    "size": [
+      120,
+      96
+    ]
+  },
+  {
+    "country": "CZ",
+    "teamId": 1971262000008,
+    "club": "SK Artis Brno",
+    "original_source": "https://assets.footylogos.com/logos/sk-artis-brno-logo-footylogos.svg",
+    "profile": "https://www.footylogos.com/logos/sk-artis-brno",
+    "matched_slug": "sk-artis-brno",
+    "confidence": 1.0,
+    "bg_rgb": [
+      78,
+      78,
+      172
+    ],
+    "raw_sha256": "834f1f7ab87f005db90d23dba3092f8da16d04103adc399788bd3ac7a7ce06ed",
+    "sha256": "d3f3d82ccae9e128a049f40aa446ff2f16f408c719683023a63d77c7f6dcc49c",
+    "path": "docs/central-europe-d1-2026-27/verified/1971262000008.png",
+    "size": [
+      120,
+      96
+    ]
+  },
+  {
+    "country": "CZ",
+    "teamId": 1971262000009,
+    "club": "Bohemians Praha 1905",
+    "original_source": "https://assets.footylogos.com/logos/bohemians-praha/bohemians-praha-logo-footylogos.svg",
+    "profile": "https://www.footylogos.com/logos/bohemians-praha",
+    "matched_slug": "bohemians-praha",
+    "confidence": 1.0,
+    "bg_rgb": [
+      78,
+      172,
+      125
+    ],
+    "raw_sha256": "0752beb8df697dbfa3386a33d390772e8f1395ae27f32f26cb297334ce477dd9",
+    "sha256": "deedb9242b30ad815fda4eccd6470ccb8e076afa67ceb31ab0fb90d3137201f0",
+    "path": "docs/central-europe-d1-2026-27/verified/1971262000009.png",
+    "size": [
+      120,
+      96
+    ]
+  },
+  {
+    "country": "CZ",
+    "teamId": 1971262000010,
+    "club": "FK Teplice",
+    "original_source": "https://assets.footylogos.com/logos/fk-teplice/fk-teplice-logo-footylogos.svg",
+    "profile": "https://www.footylogos.com/logos/fk-teplice",
+    "matched_slug": "fk-teplice",
+    "confidence": 1.0,
+    "bg_rgb": [
+      243,
+      220,
+      101
+    ],
+    "raw_sha256": "99545700cf70a08ad4ccb5d775faf99f6c6ea8d5ce28cfaee127f55eb036c79f",
+    "sha256": "54034e79f6363f07cbfda3e33dfe34fe85f4983ee3303d657b568fc3b5fba140",
+    "path": "docs/central-europe-d1-2026-27/verified/1971262000010.png",
+    "size": [
+      120,
+      96
+    ]
+  },
+  {
+    "country": "CZ",
+    "teamId": 1971262000011,
+    "club": "FK Mladá Boleslav",
+    "original_source": "https://assets.footylogos.com/logos/fk-mlada-boleslav/fk-mlada-boleslav-logo-footylogos.svg",
+    "profile": "https://www.footylogos.com/logos/fk-mlada-boleslav",
+    "matched_slug": "fk-mlada-boleslav",
+    "confidence": 1.0,
+    "bg_rgb": [
+      220,
+      243,
+      243
+    ],
+    "raw_sha256": "9ef5d6a47877360f7f0c3b5e5b856bcd8dd0f086590733437a9cb0062614a223",
+    "sha256": "f16eabc9e2e119fba4345fe0d91e208c34237b9172e9fb020903c8548181d027",
+    "path": "docs/central-europe-d1-2026-27/verified/1971262000011.png",
+    "size": [
+      120,
+      96
+    ]
+  },
+  {
+    "country": "CZ",
+    "teamId": 1971262000012,
+    "club": "1. FC Slovácko",
+    "original_source": "https://assets.footylogos.com/logos/1-fc-slovacko/1-fc-slovacko-logo-footylogos.svg",
+    "profile": "https://www.footylogos.com/logos/1-fc-slovacko",
+    "matched_slug": "1-fc-slovacko",
+    "confidence": 1.0,
+    "bg_rgb": [
+      101,
+      101,
+      149
+    ],
+    "raw_sha256": "4c3e6d4e213c3fbdcec654406026da3c1bbe862e6d5a44a7099f465e95680f88",
+    "sha256": "b0edccbb5d9ecb3c081bb3d38b282abf28bd741c4d2f99919c9f0b05a0ccebca",
+    "path": "docs/central-europe-d1-2026-27/verified/1971262000012.png",
+    "size": [
+      120,
+      96
+    ]
+  },
+  {
+    "country": "CZ",
+    "teamId": 1971262000013,
+    "club": "FC Baník Ostrava",
+    "original_source": "https://assets.footylogos.com/logos/fc-banik-ostrava/fc-banik-ostrava-logo-footylogos.svg",
+    "profile": "https://www.footylogos.com/logos/fc-banik-ostrava",
+    "matched_slug": "fc-banik-ostrava",
+    "confidence": 1.0,
+    "bg_rgb": [
+      78,
+      149,
+      172
+    ],
+    "raw_sha256": "fbb75fccffb98cca681a5a70fc74d4c1b092eb5c39f87a61e41157db8e5a0e2e",
+    "sha256": "00e717ddf794c8876c6dfc1e99e4bb7222e23d4ce983792b8dba82f1b85abb27",
+    "path": "docs/central-europe-d1-2026-27/verified/1971262000013.png",
+    "size": [
+      120,
+      96
+    ]
+  },
+  {
+    "country": "CZ",
+    "teamId": 1971262000014,
+    "club": "FK Pardubice",
+    "original_source": "https://assets.footylogos.com/logos/fk-pardubice/fk-pardubice-logo-footylogos.svg",
+    "profile": "https://www.footylogos.com/logos/fk-pardubice",
+    "matched_slug": "fk-pardubice",
+    "confidence": 1.0,
+    "bg_rgb": [
+      78,
+      125,
+      172
+    ],
+    "raw_sha256": "6aea41d772c9d29dccad3ae4a6aa9c07a9566e7861a6905a55e593593058489f",
+    "sha256": "6c0996945bb1bcc92022d0e121561e16f933a3e354e90a3a2cfddd9ad2ad5e71",
+    "path": "docs/central-europe-d1-2026-27/verified/1971262000014.png",
+    "size": [
+      120,
+      96
+    ]
+  },
+  {
+    "country": "CZ",
+    "teamId": 1971262000015,
+    "club": "FC Zlín",
+    "original_source": "https://assets.footylogos.com/logos/fc-zlin/fc-zlin-logo-footylogos.png",
+    "profile": "https://www.footylogos.com/logos/fc-zlin",
+    "matched_slug": "fc-zlin",
+    "confidence": 1.0,
+    "bg_rgb": [
+      243,
+      220,
+      78
+    ],
+    "raw_sha256": "72f2eed03a3ac5357a896a914600495fd1788c16652fd5e358bd1d9edd8162c2",
+    "sha256": "0bbe6a777fd634522c0b87404f06bd3be5ce100e5e74197c1b75a7ad1b619400",
+    "path": "docs/central-europe-d1-2026-27/verified/1971262000015.png",
+    "size": [
+      120,
+      96
+    ]
+  },
+  {
+    "country": "CZ",
+    "teamId": 1971262000016,
+    "club": "FC Zbrojovka Brno",
+    "original_source": "https://assets.footylogos.com/logos/zbrojovka-brno-logo-footylogos.svg",
+    "profile": "https://www.footylogos.com/logos/zbrojovka-brno",
+    "matched_slug": "zbrojovka-brno",
+    "confidence": 1.0,
+    "bg_rgb": [
+      78,
+      101,
+      196
+    ],
+    "raw_sha256": "41bf597a135bb6b4f4618979999fb795613850aee230329e3a4e64501e110361",
+    "sha256": "ca8c3efeb45a33d55e670389a3b3758c83901e054e45d9b0f36d4de7d946759d",
+    "path": "docs/central-europe-d1-2026-27/verified/1971262000016.png",
+    "size": [
+      120,
+      96
+    ]
+  },
+  {
+    "country": "SK",
+    "teamId": 1971262000101,
+    "club": "ŠK Slovan Bratislava",
+    "original_source": "https://assets.footylogos.com/logos/sk-slovan-bratislava/sk-slovan-bratislava-logo-footylogos.svg",
+    "profile": "https://www.footylogos.com/logos/sk-slovan-bratislava",
+    "matched_slug": "sk-slovan-bratislava",
+    "confidence": 1.0,
+    "bg_rgb": [
+      78,
+      149,
+      172
+    ],
+    "raw_sha256": "0cf68f7423bcda3b7c752a110c873cbdf469393594cdb709c0eb918c7ab72378",
+    "sha256": "e4a9e52d68fb93baa52b6cc5bcbfd91a1d4f1e178fc36d0f81393480f50e4957",
+    "path": "docs/central-europe-d1-2026-27/verified/1971262000101.png",
+    "size": [
+      120,
+      96
+    ]
+  },
+  {
+    "country": "SK",
+    "teamId": 1971262000102,
+    "club": "FC DAC 1904 Dunajská Streda",
+    "original_source": "https://assets.footylogos.com/logos/dac-1904-dunajska-streda-logo-footylogos.svg",
+    "profile": "https://www.footylogos.com/logos/dac-1904-dunajska-streda",
+    "matched_slug": "dac-1904-dunajska-streda",
+    "confidence": 1.0,
+    "bg_rgb": [
+      243,
+      220,
+      101
+    ],
+    "raw_sha256": "9b7edbec7675672e98d38e58686365e830b5d3270ea9ca247573215316f06c10",
+    "sha256": "fef84695e56b3e80fa63c1020e36505a13fe35643b0d58bf5b1b13dcee143105",
+    "path": "docs/central-europe-d1-2026-27/verified/1971262000102.png",
+    "size": [
+      120,
+      96
+    ]
+  },
+  {
+    "country": "SK",
+    "teamId": 1971262000103,
+    "club": "FC Spartak Trnava",
+    "original_source": "https://assets.footylogos.com/logos/fc-spartak-trnava-logo-footylogos.svg",
+    "profile": "https://www.footylogos.com/logos/fc-spartak-trnava",
+    "matched_slug": "fc-spartak-trnava",
+    "confidence": 1.0,
+    "bg_rgb": [
+      220,
+      78,
+      78
+    ],
+    "raw_sha256": "737962ef19527a03247b8635676975d504656bedd467613401ee4a103b48e8fc",
+    "sha256": "f6ba5963277fe5bcc1e14c3f2cd4528bca4840c18bb2e581b157635d896167f9",
+    "path": "docs/central-europe-d1-2026-27/verified/1971262000103.png",
+    "size": [
+      120,
+      96
+    ]
+  },
+  {
+    "country": "SK",
+    "teamId": 1971262000104,
+    "club": "MŠK Žilina",
+    "original_source": "https://assets.footylogos.com/logos/msk-zilina-logo-footylogos.svg",
+    "profile": "https://www.footylogos.com/logos/msk-zilina",
+    "matched_slug": "msk-zilina",
+    "confidence": 1.0,
+    "bg_rgb": [
+      78,
+      149,
+      101
+    ],
+    "raw_sha256": "480d1ef8b4189f8eee6c33ed0c1a91adfbbb6233c1850945efe9846994d3c639",
+    "sha256": "4250dcd828e667a707ca5ff550cd2571bd57b9df8f1533ba9feec08d52f744c1",
+    "path": "docs/central-europe-d1-2026-27/verified/1971262000104.png",
+    "size": [
+      120,
+      96
+    ]
+  },
+  {
+    "country": "SK",
+    "teamId": 1971262000105,
+    "club": "MFK Zemplín Michalovce",
+    "original_source": "https://assets.footylogos.com/logos/mfk-zemplin-michalovce-logo-footylogos.svg",
+    "profile": "https://www.footylogos.com/logos/mfk-zemplin-michalovce",
+    "matched_slug": "mfk-zemplin-michalovce",
+    "confidence": 1.0,
+    "bg_rgb": [
+      101,
+      101,
+      172
+    ],
+    "raw_sha256": "6cb6da661408d55b825d52185a7d2d7d414f8e4486bd10d3d6a0c6a0cfa6ff50",
+    "sha256": "3f221afaedb544890ea70299e743aeced12014735f70e58e29deec610d768ef7",
+    "path": "docs/central-europe-d1-2026-27/verified/1971262000105.png",
+    "size": [
+      120,
+      96
+    ]
+  },
+  {
+    "country": "SK",
+    "teamId": 1971262000106,
+    "club": "FK Železiarne Podbrezová",
+    "original_source": "https://assets.footylogos.com/logos/fk-zeleziarne-podbrezova-logo-footylogos.svg",
+    "profile": "https://www.footylogos.com/logos/fk-zeleziarne-podbrezova",
+    "matched_slug": "fk-zeleziarne-podbrezova",
+    "confidence": 1.0,
+    "bg_rgb": [
+      220,
+      78,
+      101
+    ],
+    "raw_sha256": "a41c2c422cc1d6adf41628b7e22508b651a3d3091beb9cc7fd048ecfe556dc5e",
+    "sha256": "8aa970865fbc38141e496bda8c162edf60282d21115c8e8631c68b0a75110474",
+    "path": "docs/central-europe-d1-2026-27/verified/1971262000106.png",
+    "size": [
+      120,
+      96
+    ]
+  },
+  {
+    "country": "SK",
+    "teamId": 1971262000107,
+    "club": "FC Košice",
+    "original_source": "https://assets.footylogos.com/logos/fc-kosice-logo-footylogos.svg",
+    "profile": "https://www.footylogos.com/logos/fc-kosice",
+    "matched_slug": "fc-kosice",
+    "confidence": 1.0,
+    "bg_rgb": [
+      78,
+      101,
+      125
+    ],
+    "raw_sha256": "2292ab149ff4a9ebbefa6c29b44dd48f368229b09462569cd6c4a2dea4432d19",
+    "sha256": "a15ffbcddf5f1e525aba4e9383efcc1e2a5391908a72624cf1ca970adc323e86",
+    "path": "docs/central-europe-d1-2026-27/verified/1971262000107.png",
+    "size": [
+      120,
+      96
+    ]
+  },
+  {
+    "country": "SK",
+    "teamId": 1971262000108,
+    "club": "AS Trenčín",
+    "original_source": "https://assets.footylogos.com/logos/as-trencin-logo-footylogos.svg",
+    "profile": "https://www.footylogos.com/logos/as-trencin",
+    "matched_slug": "as-trencin",
+    "confidence": 1.0,
+    "bg_rgb": [
+      196,
+      78,
+      101
+    ],
+    "raw_sha256": "0f1b9b47132ac74ba4a6e50d5f16bbf78fb0b3d771a58ed0a48a4be5674836ba",
+    "sha256": "064846b8393212452192bdd06017f9109741ca1320c0b970e2516f5f0a5d97bb",
+    "path": "docs/central-europe-d1-2026-27/verified/1971262000108.png",
+    "size": [
+      120,
+      96
+    ]
+  },
+  {
+    "country": "SK",
+    "teamId": 1971262000109,
+    "club": "MFK Skalica",
+    "original_source": "https://assets.footylogos.com/logos/mfk-skalica-logo-footylogos.svg",
+    "profile": "https://www.footylogos.com/logos/mfk-skalica",
+    "matched_slug": "mfk-skalica",
+    "confidence": 1.0,
+    "bg_rgb": [
+      78,
+      149,
+      125
+    ],
+    "raw_sha256": "086393b15e5716c1f409409b3f7db8febc43843e4708f7c061d886f5a1ec92c2",
+    "sha256": "a63251b18bb941791160fed7fc6bd46ec68b87db29095a4794f7603a87dd8655",
+    "path": "docs/central-europe-d1-2026-27/verified/1971262000109.png",
+    "size": [
+      120,
+      96
+    ]
+  },
+  {
+    "country": "SK",
+    "teamId": 1971262000110,
+    "club": "MFK Ružomberok",
+    "original_source": "https://assets.footylogos.com/logos/mfk-ruzomberok-logo-footylogos.svg",
+    "profile": "https://www.footylogos.com/logos/mfk-ruzomberok",
+    "matched_slug": "mfk-ruzomberok",
+    "confidence": 1.0,
+    "bg_rgb": [
+      78,
+      78,
+      196
+    ],
+    "raw_sha256": "f4d2f9dcd56b7ee37d4e316cf416cce5b20ad396bd6a837f6407450a11f5ce01",
+    "sha256": "116e514bcf6b855ec788a0d2fe2a7e51cb90be6d5403d75ea9b36d92ac5b30e9",
+    "path": "docs/central-europe-d1-2026-27/verified/1971262000110.png",
+    "size": [
+      120,
+      96
+    ]
+  },
+  {
+    "country": "SK",
+    "teamId": 1971262000111,
+    "club": "KFC Komárno",
+    "original_source": "https://assets.footylogos.com/logos/kfc-komarno-logo-footylogos.svg",
+    "profile": "https://www.footylogos.com/logos/kfc-komarno",
+    "matched_slug": "kfc-komarno",
+    "confidence": 1.0,
+    "bg_rgb": [
+      125,
+      101,
+      172
+    ],
+    "raw_sha256": "92c5271e8c083d7f7764b395a2d5b8453b7d5a0a6726c994fc9ee3538c938e60",
+    "sha256": "e0d6e005c54db2f5e6f08776dfd6d1444f6692e931b8cd36cab91c975dde2a7a",
+    "path": "docs/central-europe-d1-2026-27/verified/1971262000111.png",
+    "size": [
+      120,
+      96
+    ]
+  },
+  {
+    "country": "SK",
+    "teamId": 1971262000112,
+    "club": "MFK Dukla Banská Bystrica",
+    "original_source": "https://assets.footylogos.com/logos/mfk-dukla-banska-bystrica-logo-footylogos.svg",
+    "profile": "https://www.footylogos.com/logos/mfk-dukla-banska-bystrica",
+    "matched_slug": "mfk-dukla-banska-bystrica",
+    "confidence": 1.0,
+    "bg_rgb": [
+      220,
+      78,
+      101
+    ],
+    "raw_sha256": "ab95ae36dcebea43ea2dff075bd08f9c6245eb29d314a7c7096f4e9e4f697d01",
+    "sha256": "55e7b6d30ae83418bef222dcfda1308339cd2a8712548c6ab678bbe7cf1112f9",
+    "path": "docs/central-europe-d1-2026-27/verified/1971262000112.png",
+    "size": [
+      120,
+      96
+    ]
+  },
+  {
+    "country": "HU",
+    "teamId": 1971262000201,
+    "club": "Debreceni VSC (DVSC)",
+    "original_source": "https://assets.footylogos.com/logos/debrecen/debrecen-logo-footylogos.svg",
+    "profile": "https://www.footylogos.com/logos/debrecen",
+    "matched_slug": "debrecen",
+    "confidence": 1.0,
+    "bg_rgb": [
+      220,
+      78,
+      78
+    ],
+    "raw_sha256": "0eccbb990aee697486adda7582eb7d8ace7d0953139b82c27a13601b0a863dc6",
+    "sha256": "ae8e2d9f56fbf9a0f55ab7fadfed9ca27dc049c67ae7c622f1ae9519bcf9f7de",
+    "path": "docs/central-europe-d1-2026-27/verified/1971262000201.png",
+    "size": [
+      120,
+      96
+    ]
+  },
+  {
+    "country": "HU",
+    "teamId": 1971262000202,
+    "club": "ETO FC Győr",
+    "original_source": "https://assets.footylogos.com/logos/gyor/gyor-logo-footylogos.svg",
+    "profile": "https://www.footylogos.com/logos/gyor",
+    "matched_slug": "gyor",
+    "confidence": 1.0,
+    "bg_rgb": [
+      196,
+      172,
+      149
+    ],
+    "raw_sha256": "950ad4cff7078aff281f920e2ca108dd58beba95f9b0a8e73077aea7f640b73d",
+    "sha256": "bf8f2f80980f478d33ff4e782ede3f3fbc392f3b788be559c75b458d2eaca104",
+    "path": "docs/central-europe-d1-2026-27/verified/1971262000202.png",
+    "size": [
+      120,
+      96
+    ]
+  },
+  {
+    "country": "HU",
+    "teamId": 1971262000203,
+    "club": "Ferencvárosi TC",
+    "original_source": "https://assets.footylogos.com/logos/ferencvaros-tc/ferencvaros-tc-logo-footylogos.svg",
+    "profile": "https://www.footylogos.com/logos/ferencvaros-tc",
+    "matched_slug": "ferencvaros-tc",
+    "confidence": 1.0,
+    "bg_rgb": [
+      196,
+      172,
+      101
+    ],
+    "raw_sha256": "d0acfed0a47032130e54f48eb264d201e9df1468d3b4973c1a7570eeb12ebb2d",
+    "sha256": "91828fd23a749e320c164f039ac5c0283507acfcf89c6c418d2368bdea55be3d",
+    "path": "docs/central-europe-d1-2026-27/verified/1971262000203.png",
+    "size": [
+      120,
+      96
+    ]
+  },
+  {
+    "country": "HU",
+    "teamId": 1971262000204,
+    "club": "Kispest-Honvéd FC",
+    "original_source": "https://tmssl.akamaized.net/images/wappen/head/709.png",
+    "profile": "https://www.transfermarkt.com/verein/709",
+    "matched_slug": "transfermarkt/709",
+    "confidence": 1,
+    "bg_rgb": [
+      243,
+      78,
+      101
+    ],
+    "raw_sha256": "8e880aac25961ad8ec9b8586d2b2d4fb72fd98aa7d875168035775d1973461dc",
+    "sha256": "61e0e997d126c5c2b35735ac1d25dbc070767b08826c16152050500e90b88e96",
+    "path": "docs/central-europe-d1-2026-27/verified/1971262000204.png",
+    "size": [
+      120,
+      96
+    ]
+  },
+  {
+    "country": "HU",
+    "teamId": 1971262000205,
+    "club": "Kisvárda Master Good",
+    "original_source": "https://assets.footylogos.com/logos/kisvarda/kisvarda-logo-footylogos.svg",
+    "profile": "https://www.footylogos.com/logos/kisvarda",
+    "matched_slug": "kisvarda",
+    "confidence": 1.0,
+    "bg_rgb": [
+      243,
+      78,
+      101
+    ],
+    "raw_sha256": "ccfb0b11521c2da954df52a734dfa04fcb341eca0293e542af05126e08b0651c",
+    "sha256": "eb7de4c1f5f3ec52aa3acfe78578e0d59ade4fc0aa186a0efa34364fdae166b4",
+    "path": "docs/central-europe-d1-2026-27/verified/1971262000205.png",
+    "size": [
+      120,
+      96
+    ]
+  },
+  {
+    "country": "HU",
+    "teamId": 1971262000206,
+    "club": "MTK Budapest",
+    "original_source": "https://assets.footylogos.com/logos/mtk-budapest/mtk-budapest-logo-footylogos.svg",
+    "profile": "https://www.footylogos.com/logos/mtk-budapest",
+    "matched_slug": "mtk-budapest",
+    "confidence": 1.0,
+    "bg_rgb": [
+      78,
+      125,
+      172
+    ],
+    "raw_sha256": "9c89ab9610e6b5226eeb4a27d40d28dbc3b9c2dd38beba3a2d021b149e65afee",
+    "sha256": "637f819ff9053c434bb17da1bb4f6fe26ed82befa59102f4502f15a661b888c0",
+    "path": "docs/central-europe-d1-2026-27/verified/1971262000206.png",
+    "size": [
+      120,
+      96
+    ]
+  },
+  {
+    "country": "HU",
+    "teamId": 1971262000207,
+    "club": "Nyíregyháza Spartacus FC",
+    "original_source": "https://assets.footylogos.com/logos/nyiregyhaza-spartacus/nyiregyhaza-spartacus-logo-footylogos.svg",
+    "profile": "https://www.footylogos.com/logos/nyiregyhaza-spartacus",
+    "matched_slug": "nyiregyhaza-spartacus",
+    "confidence": 1.0,
+    "bg_rgb": [
+      243,
+      78,
+      101
+    ],
+    "raw_sha256": "66b9da0fa369714b068e1cd07ceb07ff0d9a08bb2158df91e4b8d16439f270fc",
+    "sha256": "c2989fac95aa6f29356959080e431a36cab98bf63330c80f0153d9dc554560d3",
+    "path": "docs/central-europe-d1-2026-27/verified/1971262000207.png",
+    "size": [
+      120,
+      96
+    ]
+  },
+  {
+    "country": "HU",
+    "teamId": 1971262000208,
+    "club": "Paksi FC",
+    "original_source": "https://assets.footylogos.com/logos/paksi/paksi-logo-footylogos.svg",
+    "profile": "https://www.footylogos.com/logos/paksi",
+    "matched_slug": "paksi",
+    "confidence": 1.0,
+    "bg_rgb": [
+      125,
+      196,
+      125
+    ],
+    "raw_sha256": "e4aef4676c798e18ebe044713aee8516cd134b4244b622eb963534c67d7cca63",
+    "sha256": "53a1141e2ab9140f99ff41e0d83c2d801c607b1cd43366bb1d1fb6d34d02d372",
+    "path": "docs/central-europe-d1-2026-27/verified/1971262000208.png",
+    "size": [
+      120,
+      96
+    ]
+  },
+  {
+    "country": "HU",
+    "teamId": 1971262000209,
+    "club": "Puskás Akadémia FC",
+    "original_source": "https://assets.footylogos.com/logos/puskas-akademia/puskas-akademia-logo-footylogos.svg",
+    "profile": "https://www.footylogos.com/logos/puskas-akademia",
+    "matched_slug": "puskas-akademia",
+    "confidence": 0.909,
+    "bg_rgb": [
+      220,
+      196,
+      172
+    ],
+    "raw_sha256": "28644124e3eb26501ce299df84c10027b1907ff6f78700f1e963d6909c918914",
+    "sha256": "edab54a8f029ad2bc4e4b798f6bacc5bbc190163f5ca5aba06ad94e81a5c165b",
+    "path": "docs/central-europe-d1-2026-27/verified/1971262000209.png",
+    "size": [
+      120,
+      96
+    ]
+  },
+  {
+    "country": "HU",
+    "teamId": 1971262000210,
+    "club": "Újpest FC",
+    "original_source": "https://assets.footylogos.com/logos/ujpest/ujpest-logo-footylogos.svg",
+    "profile": "https://www.footylogos.com/logos/ujpest",
+    "matched_slug": "ujpest",
+    "confidence": 0.8,
+    "bg_rgb": [
+      125,
+      101,
+      172
+    ],
+    "raw_sha256": "07e2915035b467d7dd835ec37618ed803e9939f7c8a18bdd6c103043c72eb9b6",
+    "sha256": "6ed6b7f57daaf5afe34b97b91705ab83ca6293f0ac254da637dbad7a00fb6359",
+    "path": "docs/central-europe-d1-2026-27/verified/1971262000210.png",
+    "size": [
+      120,
+      96
+    ]
+  },
+  {
+    "country": "HU",
+    "teamId": 1971262000211,
+    "club": "Vasas FC",
+    "original_source": "https://tmssl.akamaized.net/images/wappen/head/5378.png",
+    "profile": "https://www.transfermarkt.com/verein/5378",
+    "matched_slug": "transfermarkt/5378",
+    "confidence": 1,
+    "bg_rgb": [
+      220,
+      196,
+      172
+    ],
+    "raw_sha256": "07e7c7b99885e6e6dd0a8e28e39183011aeb324075ad6120600611fb7754ca25",
+    "sha256": "65575acd6302f37d9b0d811d3e58135ce4fe151f52ac24220a189620eeb00520",
+    "path": "docs/central-europe-d1-2026-27/verified/1971262000211.png",
+    "size": [
+      120,
+      96
+    ]
+  },
+  {
+    "country": "HU",
+    "teamId": 1971262000212,
+    "club": "ZTE FC (Zalaegerszeg)",
+    "original_source": "https://assets.footylogos.com/logos/zte-zalaegerszeg/zte-zalaegerszeg-logo-footylogos.svg",
+    "profile": "https://www.footylogos.com/logos/zte-zalaegerszeg",
+    "matched_slug": "zte-zalaegerszeg",
+    "confidence": 1.0,
+    "bg_rgb": [
+      101,
+      149,
+      196
+    ],
+    "raw_sha256": "063049b2af6ee288404633cc093717b49ea247675b2edb3e8e31570b9b936ef7",
+    "sha256": "2283abdad7b5b0ffdcd6dea00dbfb9be095f22948820770c8007a3361e5287c6",
+    "path": "docs/central-europe-d1-2026-27/verified/1971262000212.png",
+    "size": [
+      120,
+      96
+    ]
+  }
+]

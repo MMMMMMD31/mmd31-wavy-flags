@@ -1,0 +1,32 @@
+[
+  {
+    "country": "CZ",
+    "name": "Ligová fotbalová asociace (LFA)",
+    "source": "https://europeanleagues.com/wp-content/uploads/LFA_01_CMYK_poz.png",
+    "path": "docs/central-europe-d1-2026-27/verified/operator-cz.png",
+    "size": [
+      512,
+      512
+    ]
+  },
+  {
+    "country": "SK",
+    "name": "Únia ligových klubov (ÚLK)",
+    "source": "https://api.sportnet.online/data/ppo/ulk.futbalnet.sk/logo",
+    "path": "docs/central-europe-d1-2026-27/verified/operator-sk.png",
+    "size": [
+      512,
+      512
+    ]
+  },
+  {
+    "country": "HU",
+    "name": "Magyar Labdarúgó Szövetség (MLSZ)",
+    "source": "https://mlsz.jegy.hu/images/articles/valogatottjegy_mlsz_hu/mlsz_logo.png",
+    "path": "docs/central-europe-d1-2026-27/verified/operator-hu.png",
+    "size": [
+      512,
+      512
+    ]
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "expected": 40,
+  "verified": 40,
+  "operator_verified": 3,
+  "failures": [],
+  "league_collections": {
+    "CZ": "https://www.footylogos.com/competition/chance-liga",
+    "SK": "https://www.footylogos.com/competition/nike-liga",
+    "HU": "https://www.footylogos.com/competition/nb1-hungary"
+  },
+  "provenance": "Official 2026/27 league lineups; named image pages with raw SHA-256"
+}
