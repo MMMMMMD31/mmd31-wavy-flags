@@ -1,0 +1,29 @@
+name: Publish authentic NIFL governing league logo
+on:
+  push:
+    paths:
+      - 'tools/nir_nifl_competition_logo.py'
+      - '.github/workflows/mmd31-nir-nifl-logo.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install pillow requests
+      - run: python tools/nir_nifl_competition_logo.py
+      - name: Publish verified source image and source metadata
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/nir-clubs-2026-27/competition/northern_ireland_football_league.png docs/nir-clubs-2026-27/competition/northern_ireland_football_league.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Publish NIFL logo as NI competition governing league emblem"
+            git push origin HEAD:refs/heads/${GITHUB_REF_NAME}
+          fi
