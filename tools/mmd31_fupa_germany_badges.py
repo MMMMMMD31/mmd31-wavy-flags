@@ -32,9 +32,63 @@ HEADERS = {"User-Agent": UA, "Accept": "text/html,image/avif,image/webp,image/*,
 # Cross-checked against FuPa's own 2026/27 club profile headings.
 # Short game names do not always equal the legal association name.
 VERIFIED_PROFILE_NAMES = {
+    "USC Paloma Hamburg": "USC Paloma",
+    "HT 16 Hamburg": "HT 16",
+    "Union Klosterfelde": "SG Union 1919 Klosterfelde",
+    "Berliner AK 07": "Berliner AK",
+    "SC St. Tönis 11/20": "SC St. Tönis 1911/20",
+    "Rot-Weiß Maaslingen": "SC Rot-Weiß Maaslingen",
+    "Westfalia Kinderhaus": "SC Westfalia Kinderhaus",
+    "TSV 1861 Nördlingen": "TSV Nördlingen",
+    "DJK Vornbach": "DJK Vornbach a. Inn",
+    "Grün-Weiß Brauweiler": "SV Grün-Weiss Brauweiler 1961",
+    "TuS Oberpleis": "TuS 05 Oberpleis",
+    "TSV Rudow 1888": "TSV Rudow Berlin",
+    "FSV Wacker 90 Nordhausen": "FSV Wacker Nordhausen",
+    "Ahrweiler BC": "Ahrweiler BC 1920",
+    "SG Hüffelsheim": "SG 1946 Hüffelsheim",
+    "TuS Hohenecken": "TuS 04 Hohenecken",
+    "SG 1948 Reppichau": "SG Reppichau",
+    "SG Finnentrop-Bamenohl": "SG Finnentrop-Bamenohl 12/27",
+    "Fortuna Heddesheim": "FV Fortuna Heddesheim",
+    "Malchower SV": "Malchower SV 90",
+    "SV Hafen Rostock": "SV Hafen Rostock 1961",
+    "FSV Rot-Weiß Wolfhagen": "FSV Rot-Weiß Wolfhagen 1925",
+    "SG Viktoria Bronnzell": "SG Bronnzell",
+    "TuSpo Grebenstein": "TuSpo 1900 Grebenstein",
+    "SSV Rantzau": "SSV Rantzau Barmstedt",
+    "Eintracht Northeim": "FC Eintracht Northeim",
+    "SV Iraklis Hellas": "SV Iraklis Hellas Hannover",
+    "SV Concordia Wiemelhausen": "Concordia Wiemelhausen",
+    "RW Ahlen": "Rot Weiss Ahlen",
+    "DJK/FC Ziegelhausen-Peterstal": "DJK/FC Ziegelhausen/Peterstal",
+    "SV Ramlingen-Ehlershausen": "SV Ramlingen/Ehlershausen",
+    "TSV Krähenwinkel-Kaltenweide": "TSV Krähenwinkel/Kaltenweide",
+    "VfL Wildeshausen": "VfL Wittekind Wildeshausen",
+    "TuS Immendorf": "TuS Immendorf 1899 e. V.",
+    "FC Bitburg": "FC Bitburg 1919",
+    "SV Union Lohne 1920": "SV Union Lohne",
+    "TuS Kirchberg": "TuS 1909 Kirchberg",
     "PSV Union Neumünster": "Polizei SV Union Neumünster",
     "Kaltenkirchener TS": "Kaltenkirchener Turnerschaft",
     "Oldenburger SV": "Oldenburger SV 1865",
+}
+
+# Public profile addresses are sometimes not the game's normalized club name.
+VERIFIED_PROFILE_SLUGS = {
+    "SC Eintracht Miersdorf/Zeuthen": "sc-eintracht-miersdorfzeuthen",
+    "SV Blau-Weiß 90 Neustadt/Orla": "sv-blau-weiss-90-neustadtorla",
+    "SG Kleinalmerode/Hundelshausen/Dohrenbach": "sg-kleinalmerodehundelshausendohrenbach",
+    "SG Calden/Meimbressen": "sg-caldenmeimbressen",
+    "SG Obbornhofen/Bellersheim": "sg-obbornhofenbellersheim",
+    "SF/BG Marburg": "sfbg-marburg",
+    "SV Solingen 08/10": "sv-solingen-0810",
+    "TSV Rain/Lech": "tsv-rainlech",
+    "FC Hagen/Uthlede": "fc-hagenuthlede",
+    "DJK/FC Ziegelhausen-Peterstal": "djkfc-ziegelhausenpeterstal",
+    "SpVgg Gundelfingen/Wildtal": "spvgg-gundelfingenwildtal",
+    "SV Ramlingen-Ehlershausen": "sv-ramlingenehlershausen",
+    "TSV Krähenwinkel-Kaltenweide": "tsv-kraehenwinkelkaltenweide",
 }
 
 
@@ -89,7 +143,7 @@ def candidate_logos(html, expected):
 def fetch_one(row, robots):
     name = row["club"]
     expected = VERIFIED_PROFILE_NAMES.get(root_club(name), root_club(name))
-    url = BASE + slug(expected)
+    url = BASE + VERIFIED_PROFILE_SLUGS.get(root_club(name), slug(expected))
     if not robots_allowed("www.fupa.net", url, robots):
         return {"teamId": row["teamId"], "club": name,
                 "reason": "profile disallowed by robots"}
