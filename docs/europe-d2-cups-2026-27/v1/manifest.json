@@ -1,0 +1,995 @@
+{
+  "idMapping": {
+    "1900264000101": "FK Belasica Strumica",
+    "1900264000102": "FC AP Brera Strumica",
+    "1900264000103": "FK Detonit Plachkovica",
+    "1900264000104": "KF Kamjani",
+    "1900264000105": "FK Kozhuf Gevgelija",
+    "1900264000106": "FK Euromilk Gorno Lisiche",
+    "1900264000107": "FK Makedonija Gjorče Petrov",
+    "1900264000108": "FK Novaci",
+    "1900264000109": "FK Ohrid Lychnidos",
+    "1900264000110": "FK Osogovo Kočani",
+    "1900264000111": "FK Pelister Bitola",
+    "1900264000112": "FK Rabotnički Skopje",
+    "1900264000113": "KF Shkupi",
+    "1900264000114": "FK Teteks Tetovo",
+    "1900264100101": "PFC CSKA Sofia II",
+    "1900264100102": "FC Vihren Sandanski",
+    "1900264100103": "FC Chernomorets Burgas",
+    "1900264100104": "FC Fratria",
+    "1900264100105": "PFC Beroe Stara Zagora",
+    "1900264100106": "FC Lokomotiv Gorna Oryahovitsa",
+    "1900264100107": "FC Hebar Pazardzhik",
+    "1900264100108": "FC Yantra Gabrovo",
+    "1900264100109": "FC Rilski Sportist Samokov",
+    "1900264100110": "FC Marek Dupnitsa",
+    "1900264100111": "PFC Nesebar",
+    "1900264100112": "OFC Spartak Pleven",
+    "1900264100113": "FC Etar Veliko Tarnovo",
+    "1900264100114": "PFC Ludogorets II",
+    "1900264100115": "PFC Montana",
+    "1900264100116": "FC Sportist Svoge",
+    "1900264100117": "PFC Dobrudzha Dobrich",
+    "1900264100118": "OFC Pirin Blagoevgrad",
+    "1900264200101": "CSM Cetatea 1932 Suceava",
+    "1900264200102": "CSL Ștefăneștii de Jos",
+    "1900264200103": "SCM Râmnicu Vâlcea",
+    "1900264200104": "SSU Politehnica Timișoara",
+    "1900264200105": "SC Popești-Leordeni",
+    "1900264200106": "FC Bihor Oradea",
+    "1900264200107": "CSA Steaua București",
+    "1900264200108": "AFC Chindia Târgoviște",
+    "1900264200109": "AFC ASA Târgu Mureș",
+    "1900264200110": "AFC Metalul Buzău",
+    "1900264200111": "CSM Slatina",
+    "1900264200112": "CS Gloria Bistrița",
+    "1900264200113": "ACS FC Bacău",
+    "1900264200114": "CS Concordia Chiajna",
+    "1900264200115": "CSM Reșița",
+    "1900264200116": "CS Afumați",
+    "1900264200117": "CSC Dumbrăvița",
+    "1900264200118": "CSC 1599 Șelimbăr",
+    "1900264200119": "CS Dinamo București",
+    "1900264200120": "FC Hermannstadt",
+    "1900264200121": "AFC Unirea 04 Slobozia",
+    "1900264200122": "FC Metaloglobus București",
+    "1900264200201": "ACS Minerul Lupeni",
+    "1900264200202": "CS Progresul Spartac",
+    "1900264200203": "CS Sporting Liești",
+    "1900264200204": "CSM Corona Brașov"
+  },
+  "date": "2026-10-24",
+  "base": "Official 2026/27 D2 and Romanian Cup group phase",
+  "crests": [
+    {
+      "id": 1900264000101,
+      "country": "MK",
+      "name": "FK Belasica Strumica",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "Belasica Strumica",
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/4/42/FK_Belasica_New_Logo.jpg/250px-FK_Belasica_New_Logo.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/FK_Belasica",
+        "alt": ""
+      },
+      "sha256": "e0d10e75227324ebb0619f01aaf7111df01e96bc155170f91904997334f9e6d4",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d2-cups-2026-27/v1/1900264000101.png"
+    },
+    {
+      "id": 1900264000102,
+      "country": "MK",
+      "name": "FC AP Brera Strumica",
+      "status": "NO_CREST_FOUND",
+      "candidate": "Brera Strumica"
+    },
+    {
+      "id": 1900264000103,
+      "country": "MK",
+      "name": "FK Detonit Plachkovica",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "Detonit Plachkovica",
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/a/aa/Detonit_Pla%C4%8Dkovica.png/250px-Detonit_Pla%C4%8Dkovica.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/FK_Detonit_Plachkovica",
+        "alt": ""
+      },
+      "sha256": "ce81261eec16c438a74751cfbf39fac15d4d2b994f5b1396726633c9a9bcbdf1",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d2-cups-2026-27/v1/1900264000103.png"
+    },
+    {
+      "id": 1900264000104,
+      "country": "MK",
+      "name": "KF Kamjani",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "Kamjani",
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/8/88/KF_Kamjani.svg/250px-KF_Kamjani.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/KF_Kamjani",
+        "alt": ""
+      },
+      "sha256": "4a5ea40239edd200747485010ac88aa588e7ae0e784ee1cf3c6b25500fa3e85b",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d2-cups-2026-27/v1/1900264000104.png"
+    },
+    {
+      "id": 1900264000105,
+      "country": "MK",
+      "name": "FK Kozhuf Gevgelija",
+      "status": "NO_CREST_FOUND",
+      "candidate": "Kozhuf Gevgelija",
+      "last_error": "429 Client Error: Too Many Requests (015d12c) for url: https://upload.wikimedia.org/wikipedia/en/e/eb/FK_Kozhuf_Gevgelija.png?utm_source=en.wikipedia.org&utm_ca"
+    },
+    {
+      "id": 1900264000106,
+      "country": "MK",
+      "name": "FK Euromilk Gorno Lisiche",
+      "status": "NO_CREST_FOUND",
+      "candidate": "Euromilk"
+    },
+    {
+      "id": 1900264000107,
+      "country": "MK",
+      "name": "FK Makedonija Gjorče Petrov",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "Makedonija GP",
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/6/6b/FK_Makedonija_Gorce_Petrov.svg/250px-FK_Makedonija_Gorce_Petrov.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/FK_Makedonija_Gjor%C4%8De_Petrov",
+        "alt": ""
+      },
+      "sha256": "5f8d1da5b924f7cd608aafbb97ae6ebd00b24491ae8a4a5e9efcfcb4ce80112e",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d2-cups-2026-27/v1/1900264000107.png"
+    },
+    {
+      "id": 1900264000108,
+      "country": "MK",
+      "name": "FK Novaci",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "Novaci",
+      "url": "https://upload.wikimedia.org/wikipedia/en/1/1c/FK_Novaci_Logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/FK_Novaci",
+        "alt": ""
+      },
+      "sha256": "15c6bef8bc0b0c6cf1c1f9a0e0cfaf8dd454e9b478fc9fb6fabe23dbc0bbf412",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d2-cups-2026-27/v1/1900264000108.png"
+    },
+    {
+      "id": 1900264000109,
+      "country": "MK",
+      "name": "FK Ohrid Lychnidos",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "Ohrid Lychnidos",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/GFK_Ohrid_Lihnidos.png/250px-GFK_Ohrid_Lihnidos.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/FK_Ohrid",
+        "alt": ""
+      },
+      "sha256": "7b39e064e14a97fda2ee114f0498ff292b355f2e07e21dc9a8745fb51e0769a6",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d2-cups-2026-27/v1/1900264000109.png"
+    },
+    {
+      "id": 1900264000110,
+      "country": "MK",
+      "name": "FK Osogovo Kočani",
+      "status": "NO_CREST_FOUND",
+      "candidate": "Osogovo Kocani",
+      "last_error": "429 Client Error: Too Many Requests (015d12c) for url: https://upload.wikimedia.org/wikipedia/commons/3/3c/Gfk-osogovo-kocani-logo.png?utm_source=en.wikipedia.o"
+    },
+    {
+      "id": 1900264000111,
+      "country": "MK",
+      "name": "FK Pelister Bitola",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "Pelister Bitola",
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/e/e8/FK_Pelister_Bitola.png/250px-FK_Pelister_Bitola.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/FK_Pelister",
+        "alt": ""
+      },
+      "sha256": "f3b61dd93e29cfd8915413b6ffd3dec4fb2dd76cb4d4242a489e45bcc801517e",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d2-cups-2026-27/v1/1900264000111.png"
+    },
+    {
+      "id": 1900264000112,
+      "country": "MK",
+      "name": "FK Rabotnički Skopje",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "Rabotnicki Skopje",
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/4/42/FK_Rabotni%C4%8Dki_logo.svg/250px-FK_Rabotni%C4%8Dki_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/FK_Rabotni%C4%8Dki",
+        "alt": ""
+      },
+      "sha256": "5ba2eeab1de952ac09cee6ac63b4971b14360335f9bb701ccd683255b0f9702d",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d2-cups-2026-27/v1/1900264000112.png"
+    },
+    {
+      "id": 1900264000113,
+      "country": "MK",
+      "name": "KF Shkupi",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "Shkupi",
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/8/8d/KF_Shkupi_logo.svg/250px-KF_Shkupi_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/KF_Shkupi",
+        "alt": ""
+      },
+      "sha256": "5399ffc9aa0f1eecd77b132920cb641681538f4c25a2e02a0953dacd7b320ef4",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d2-cups-2026-27/v1/1900264000113.png"
+    },
+    {
+      "id": 1900264000114,
+      "country": "MK",
+      "name": "FK Teteks Tetovo",
+      "status": "NO_CREST_FOUND",
+      "candidate": "Teteks Tetovo",
+      "last_error": ""
+    },
+    {
+      "id": 1900264100101,
+      "country": "BG",
+      "name": "PFC CSKA Sofia II",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "CSKA Sofia",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/CSKA_Sofia_logo.svg/250px-CSKA_Sofia_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/PFC_CSKA_Sofia",
+        "alt": ""
+      },
+      "sha256": "480918318a5af32b026a0274069cd71d2401a79aaf5dfba1c162dd565ba83178",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d2-cups-2026-27/v1/1900264100101.png"
+    },
+    {
+      "id": 1900264100102,
+      "country": "BG",
+      "name": "FC Vihren Sandanski",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "Vihren Sandanski",
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/3/34/Vihren_logo_old.png/250px-Vihren_logo_old.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/FC_Vihren_Sandanski",
+        "alt": ""
+      },
+      "sha256": "37d0981c410747cd8a891b4c48e831237cf656b0ec78f79fad22269fb454b330",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d2-cups-2026-27/v1/1900264100102.png"
+    },
+    {
+      "id": 1900264100103,
+      "country": "BG",
+      "name": "FC Chernomorets Burgas",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "Chernomorets Burgas",
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/b/bf/Chenomorets_Bugras_Sofia.png/250px-Chenomorets_Bugras_Sofia.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/FC_Chernomorets_Burgas",
+        "alt": ""
+      },
+      "sha256": "45b380d36056c7ffaeb6a59e62ef654560478bbca35e83f675aa6e851a784eca",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d2-cups-2026-27/v1/1900264100103.png"
+    },
+    {
+      "id": 1900264100104,
+      "country": "BG",
+      "name": "FC Fratria",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "Fratria",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/FC_Fratria_logo.png/250px-FC_Fratria_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/FC_Fratria",
+        "alt": ""
+      },
+      "sha256": "6fd079d4c98b69bcfc8419169c9767275f06044f0f6e0dd5e07dbb35db8e7d73",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d2-cups-2026-27/v1/1900264100104.png"
+    },
+    {
+      "id": 1900264100105,
+      "country": "BG",
+      "name": "PFC Beroe Stara Zagora",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "Beroe Stara Zagora",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/BeroeLogo.png/250px-BeroeLogo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/PFC_Beroe_Stara_Zagora",
+        "alt": ""
+      },
+      "sha256": "8fc44be9a933a96bb231a48cd7e1cef89f8cebe26d80f7d83854ac7b49f821d5",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d2-cups-2026-27/v1/1900264100105.png"
+    },
+    {
+      "id": 1900264100106,
+      "country": "BG",
+      "name": "FC Lokomotiv Gorna Oryahovitsa",
+      "status": "NO_CREST_FOUND",
+      "candidate": "Lokomotiv Gorna Oryahovitsa",
+      "last_error": "429 Client Error: Too many requests (f061ab2) for url: https://upload.wikimedia.org/wikipedia/commons/d/d8/Kit_left_arm_loko_go_20_21_h.png?utm_source=en.wikipe"
+    },
+    {
+      "id": 1900264100107,
+      "country": "BG",
+      "name": "FC Hebar Pazardzhik",
+      "status": "NO_CREST_FOUND",
+      "candidate": "Hebar Pazardzhik",
+      "last_error": ""
+    },
+    {
+      "id": 1900264100108,
+      "country": "BG",
+      "name": "FC Yantra Gabrovo",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "Yantra Gabrovo",
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/3/33/FC_Yantra_Gabrovo.png/250px-FC_Yantra_Gabrovo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/FC_Yantra_Gabrovo",
+        "alt": ""
+      },
+      "sha256": "987c37811758974380793e03893e1b8a89b58d31f8eb6d2335ded0975df76532",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d2-cups-2026-27/v1/1900264100108.png"
+    },
+    {
+      "id": 1900264100109,
+      "country": "BG",
+      "name": "FC Rilski Sportist Samokov",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "Rilski Sportist Samokov",
+      "url": "https://upload.wikimedia.org/wikipedia/en/6/6a/Rilski-sportist_small.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/FC_Rilski_Sportist_Samokov",
+        "alt": ""
+      },
+      "sha256": "b80740999201392aaff40ad86a930930744c9ce92f8124c5e738a5622eb11b97",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d2-cups-2026-27/v1/1900264100109.png"
+    },
+    {
+      "id": 1900264100110,
+      "country": "BG",
+      "name": "FC Marek Dupnitsa",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "Marek Dupnitsa",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Marekold3.png/250px-Marekold3.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/FC_Marek_Dupnitsa",
+        "alt": ""
+      },
+      "sha256": "85432adfe6348a50fc78e185aa6cf7f4b85cfbfaa79376fa3b55ab3a4538e1a3",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d2-cups-2026-27/v1/1900264100110.png"
+    },
+    {
+      "id": 1900264100111,
+      "country": "BG",
+      "name": "PFC Nesebar",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "Nesebar",
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/0/0d/Nesebar_logo.png/250px-Nesebar_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/PFC_Nesebar",
+        "alt": ""
+      },
+      "sha256": "ea0fb8f619b21d718b6b62acc23ca8456bda8298ca899d6f8a79963b8e9e6a7e",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d2-cups-2026-27/v1/1900264100111.png"
+    },
+    {
+      "id": 1900264100112,
+      "country": "BG",
+      "name": "OFC Spartak Pleven",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "Spartak Pleven",
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/0/0b/OFC_Spartak.png/250px-OFC_Spartak.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/OFC_Spartak_Pleven",
+        "alt": ""
+      },
+      "sha256": "716f363ec09640b5cab4a41636a247317ea19221dc31099b4fbb01049312a910",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d2-cups-2026-27/v1/1900264100112.png"
+    },
+    {
+      "id": 1900264100113,
+      "country": "BG",
+      "name": "FC Etar Veliko Tarnovo",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "Etar Veliko Tarnovo",
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/c/c3/Etar_logo_2012.png/250px-Etar_logo_2012.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/FC_Etar_Veliko_Tarnovo",
+        "alt": ""
+      },
+      "sha256": "3d395321ed4e95c7096371e252eb04708276da2b215634dabcfedc01a36556fc",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d2-cups-2026-27/v1/1900264100113.png"
+    },
+    {
+      "id": 1900264100114,
+      "country": "BG",
+      "name": "PFC Ludogorets II",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "Ludogorets Razgrad",
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/3/3d/PFC_Ludogorets.svg/250px-PFC_Ludogorets.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/PFC_Ludogorets_Razgrad",
+        "alt": ""
+      },
+      "sha256": "30babc2d9f293c4e2982e2e8e5af88bfdc9d75d0c590f42003e4471b880aef3b",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d2-cups-2026-27/v1/1900264100114.png"
+    },
+    {
+      "id": 1900264100115,
+      "country": "BG",
+      "name": "PFC Montana",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "Montana",
+      "url": "https://upload.wikimedia.org/wikipedia/en/e/ee/PFC_Montana_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/PFC_Montana",
+        "alt": ""
+      },
+      "sha256": "ff82daa482f711143f5c3d7a3bb6fc15d7395727b35aaa9a955b5d29faf14747",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d2-cups-2026-27/v1/1900264100115.png"
+    },
+    {
+      "id": 1900264100116,
+      "country": "BG",
+      "name": "FC Sportist Svoge",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "Sportist Svoge",
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/6/61/Sportist_svoge.png/250px-Sportist_svoge.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/FC_Sportist_Svoge",
+        "alt": ""
+      },
+      "sha256": "3f215dda6f3b8c2a94d35acfe01c4745ff2a68c06b5a72f884f598e7e0f6fdfb",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d2-cups-2026-27/v1/1900264100116.png"
+    },
+    {
+      "id": 1900264100117,
+      "country": "BG",
+      "name": "PFC Dobrudzha Dobrich",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "Dobrudzha Dobrich",
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/0/09/FC_Dobrudzha_Dobrich_2018_emblem.png/250px-FC_Dobrudzha_Dobrich_2018_emblem.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/PFC_Dobrudzha_Dobrich",
+        "alt": ""
+      },
+      "sha256": "e8de426c695944240101b633fb983404e5c1e18cb69bdb36beb6f677c1a813e3",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d2-cups-2026-27/v1/1900264100117.png"
+    },
+    {
+      "id": 1900264100118,
+      "country": "BG",
+      "name": "OFC Pirin Blagoevgrad",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "Pirin Blagoevgrad",
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/c/c0/FC_Pirin_Blagoevgrad.png/250px-FC_Pirin_Blagoevgrad.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/OFC_Pirin_Blagoevgrad",
+        "alt": ""
+      },
+      "sha256": "1b537c900581bde368ef60edd1b930e4952bf3d435be590f18cc4226f161af0b",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d2-cups-2026-27/v1/1900264100118.png"
+    },
+    {
+      "id": 1900264200101,
+      "country": "RO",
+      "name": "CSM Cetatea 1932 Suceava",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "Cetatea Suceava",
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/8/8c/CSM_Cetatea_Suceava.png/250px-CSM_Cetatea_Suceava.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/CSM_Cetatea_1932_Suceava",
+        "alt": ""
+      },
+      "sha256": "c6053a9f446146c80d572cddd53fe0db34355f3183ee6513d214317a3bef7b07",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d2-cups-2026-27/v1/1900264200101.png"
+    },
+    {
+      "id": 1900264200102,
+      "country": "RO",
+      "name": "CSL Ștefăneștii de Jos",
+      "status": "NO_CREST_FOUND",
+      "candidate": "Stefanestii de Jos",
+      "last_error": "429 Client Error: Too many requests (f061ab2) for url: https://upload.wikimedia.org/wikipedia/en/8/8b/CSL_%C8%98tef%C4%83ne%C8%99ti_logo.png?utm_source=en.wikip"
+    },
+    {
+      "id": 1900264200103,
+      "country": "RO",
+      "name": "SCM Râmnicu Vâlcea",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "SCM Ramnicu Valcea",
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/4/4d/SCM_R%C3%A2mnicu_V%C3%A2lcea_logo.png/250px-SCM_R%C3%A2mnicu_V%C3%A2lcea_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/SCM_R%C3%A2mnicu_V%C3%A2lcea",
+        "alt": ""
+      },
+      "sha256": "381feba168bee77ad1cfd6e71ea0ab4890245769f94938daa9ab94b2b7c56aba",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d2-cups-2026-27/v1/1900264200103.png"
+    },
+    {
+      "id": 1900264200104,
+      "country": "RO",
+      "name": "SSU Politehnica Timișoara",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "Politehnica Timisoara",
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/5/54/SS_Politehnica_Timisoara_logo.svg/250px-SS_Politehnica_Timisoara_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/SSU_Politehnica_Timi%C8%99oara",
+        "alt": ""
+      },
+      "sha256": "cd140f21df423dbc9b1a4aa84cbf1fc5630cc99a0455c5ace695b43f8bd58011",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d2-cups-2026-27/v1/1900264200104.png"
+    },
+    {
+      "id": 1900264200105,
+      "country": "RO",
+      "name": "SC Popești-Leordeni",
+      "status": "NO_CREST_FOUND",
+      "candidate": "Popesti-Leordeni",
+      "last_error": "429 Client Error: Too many requests (f061ab2) for url: https://upload.wikimedia.org/wikipedia/en/f/f4/SC_Pope%C8%99ti-Leordeni_logo.png?utm_source=en.wikipedia."
+    },
+    {
+      "id": 1900264200106,
+      "country": "RO",
+      "name": "FC Bihor Oradea",
+      "status": "NO_CREST_FOUND",
+      "candidate": "FC Bihor Oradea"
+    },
+    {
+      "id": 1900264200107,
+      "country": "RO",
+      "name": "CSA Steaua București",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "Steaua Bucuresti",
+      "url": "https://upload.wikimedia.org/wikipedia/en/9/90/CSASteaua.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/CSA_Steaua_Bucure%C8%99ti",
+        "alt": ""
+      },
+      "sha256": "ae79c8b464a825875459b857298f1c853a13911278848db446c0c09b27bf0f87",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d2-cups-2026-27/v1/1900264200107.png"
+    },
+    {
+      "id": 1900264200108,
+      "country": "RO",
+      "name": "AFC Chindia Târgoviște",
+      "status": "NO_CREST_FOUND",
+      "candidate": "Chindia Targoviste",
+      "last_error": "429 Client Error: Too many requests (f061ab2) for url: https://upload.wikimedia.org/wikipedia/en/8/82/Chindia_T%C3%A2rgovi%C5%9Fte.png?utm_source=en.wikipedia.o"
+    },
+    {
+      "id": 1900264200109,
+      "country": "RO",
+      "name": "AFC ASA Târgu Mureș",
+      "status": "NO_CREST_FOUND",
+      "candidate": "ASA Targu Mures"
+    },
+    {
+      "id": 1900264200110,
+      "country": "RO",
+      "name": "AFC Metalul Buzău",
+      "status": "NO_CREST_FOUND",
+      "candidate": "Metalul Buzau",
+      "last_error": "429 Client Error: Too many requests (f061ab2) for url: https://upload.wikimedia.org/wikipedia/en/4/41/AFC_Metalul_Buz%C4%83u_logo.png?utm_source=en.wikipedia.or"
+    },
+    {
+      "id": 1900264200111,
+      "country": "RO",
+      "name": "CSM Slatina",
+      "status": "NO_CREST_FOUND",
+      "candidate": "CSM Slatina"
+    },
+    {
+      "id": 1900264200112,
+      "country": "RO",
+      "name": "CS Gloria Bistrița",
+      "status": "NO_CREST_FOUND",
+      "candidate": "Gloria Bistrita"
+    },
+    {
+      "id": 1900264200113,
+      "country": "RO",
+      "name": "ACS FC Bacău",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "FC Bacau",
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/6/60/FCM-Bacau.png/250px-FCM-Bacau.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/FC_Bac%C4%83u",
+        "alt": ""
+      },
+      "sha256": "266a42374f3b4a45d30187a8385dcc7e37a62729e761cde0d418eb22a89cfbb7",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d2-cups-2026-27/v1/1900264200113.png"
+    },
+    {
+      "id": 1900264200114,
+      "country": "RO",
+      "name": "CS Concordia Chiajna",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "Concordia Chiajna",
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/3/39/Stema_Concordia.png/250px-Stema_Concordia.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/CS_Concordia_Chiajna",
+        "alt": ""
+      },
+      "sha256": "5728a40144cd24ac52a1080853ea3aea3c297511113cb8d19180b14b1cb862f6",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d2-cups-2026-27/v1/1900264200114.png"
+    },
+    {
+      "id": 1900264200115,
+      "country": "RO",
+      "name": "CSM Reșița",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "CSM Resita",
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/e/e6/CSM_Re%C8%99i%C8%9Ba_logo.png/250px-CSM_Re%C8%99i%C8%9Ba_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/CSM_Re%C8%99i%C8%9Ba",
+        "alt": ""
+      },
+      "sha256": "efaeafe55c1b1be9471d6c4dbd2079117222d351b587c237b0402b16ee4dedd5",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d2-cups-2026-27/v1/1900264200115.png"
+    },
+    {
+      "id": 1900264200116,
+      "country": "RO",
+      "name": "CS Afumați",
+      "status": "NO_CREST_FOUND",
+      "candidate": "CS Afumati",
+      "last_error": "429 Client Error: Too many requests. Please contact noc@wikimedia.org for further information (0068e25) for url: https://upload.wikimedia.org/wikipedia/en/0/0e/"
+    },
+    {
+      "id": 1900264200117,
+      "country": "RO",
+      "name": "CSC Dumbrăvița",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "CSC Dumbravita",
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/1/14/ACS_Dumbr%C4%83vi%C8%9Ba_logo.png/250px-ACS_Dumbr%C4%83vi%C8%9Ba_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/CSC_Dumbr%C4%83vi%C8%9Ba",
+        "alt": ""
+      },
+      "sha256": "213164603a8843a535b193ab4f82a52ccfe3c46f81c81e8d6ab2aa9653e553ac",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d2-cups-2026-27/v1/1900264200117.png"
+    },
+    {
+      "id": 1900264200118,
+      "country": "RO",
+      "name": "CSC 1599 Șelimbăr",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "CSC Selimbar",
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/6/6c/CSC_1599_%C8%98elimb%C4%83r_logo.png/250px-CSC_1599_%C8%98elimb%C4%83r_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/CSC_1599_%C8%98elimb%C4%83r",
+        "alt": ""
+      },
+      "sha256": "c5b3b105c4162dd7468d5577e055097d5b525695aaef9754503f70c500cbda54",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d2-cups-2026-27/v1/1900264200118.png"
+    },
+    {
+      "id": 1900264200119,
+      "country": "RO",
+      "name": "CS Dinamo București",
+      "status": "NO_CREST_FOUND",
+      "candidate": "CS Dinamo Bucuresti",
+      "last_error": "429 Client Error: Too many requests. Please contact noc@wikimedia.org for further information (0068e25) for url: https://upload.wikimedia.org/wikipedia/en/6/69/"
+    },
+    {
+      "id": 1900264200120,
+      "country": "RO",
+      "name": "FC Hermannstadt",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "Hermannstadt",
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/2/2b/FC_Hermannstadt_logo.png/250px-FC_Hermannstadt_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/FC_Hermannstadt",
+        "alt": ""
+      },
+      "sha256": "668b985ca1cdcabac2605ab7cbe092107c748b6388b56ca173087b969e2eea1e",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d2-cups-2026-27/v1/1900264200120.png"
+    },
+    {
+      "id": 1900264200121,
+      "country": "RO",
+      "name": "AFC Unirea 04 Slobozia",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "Unirea Slobozia",
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/d/dd/AFC_Unirea_Slobozia.png/250px-AFC_Unirea_Slobozia.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/AFC_Unirea_04_Slobozia",
+        "alt": ""
+      },
+      "sha256": "e0e9ee97585a1b733f6d736ac922808789482c381b680d2d612f1eef61bc43f8",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d2-cups-2026-27/v1/1900264200121.png"
+    },
+    {
+      "id": 1900264200122,
+      "country": "RO",
+      "name": "FC Metaloglobus București",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "Metaloglobus",
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/7/71/FC_Metaloglobus_Bucure%C8%99ti_logo.svg/250px-FC_Metaloglobus_Bucure%C8%99ti_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/FC_Metaloglobus_Bucure%C8%99ti",
+        "alt": ""
+      },
+      "sha256": "3616b247a424e41df220c3e75e8d133ad7fa0789213d1ae9ae48c78c8d1478a0",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d2-cups-2026-27/v1/1900264200122.png"
+    },
+    {
+      "id": 1900264200201,
+      "country": "RO",
+      "name": "ACS Minerul Lupeni",
+      "status": "NO_CREST_FOUND",
+      "candidate": "Minerul Lupeni",
+      "last_error": "429 Client Error: Too many requests. Please contact noc@wikimedia.org for further information (0068e25) for url: https://upload.wikimedia.org/wikipedia/en/8/81/"
+    },
+    {
+      "id": 1900264200202,
+      "country": "RO",
+      "name": "CS Progresul Spartac",
+      "status": "NO_CREST_FOUND",
+      "candidate": "Progresul Spartac"
+    },
+    {
+      "id": 1900264200203,
+      "country": "RO",
+      "name": "CS Sporting Liești",
+      "status": "SOURCE_IDENTIFIED",
+      "candidate": "Sporting Liesti",
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/d/de/CS_Sporting_Lie%C8%99ti_logo.png/250px-CS_Sporting_Lie%C8%99ti_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/CS_Sporting_Lie%C8%99ti",
+        "alt": ""
+      },
+      "sha256": "019174243ebcb6decbfe03a3e00d6d160c272e14fda079c83fbd7755774c1770",
+      "dimensions": [
+        120,
+        96
+      ],
+      "output": "docs/europe-d2-cups-2026-27/v1/1900264200203.png"
+    },
+    {
+      "id": 1900264200204,
+      "country": "RO",
+      "name": "CSM Corona Brașov",
+      "status": "NO_CREST_FOUND",
+      "candidate": "Corona Brasov",
+      "last_error": ""
+    }
+  ],
+  "federationLogos": [
+    {
+      "country": "MK",
+      "organizer": "Football Federation of Macedonia",
+      "status": "SOURCE_IDENTIFIED",
+      "sourceImage": "https://thumb.wikimedia.org/wikipedia/en/thumb/e/e6/Football_Federation_of_Macedonia_logo.svg/250px-Football_Federation_of_Macedonia_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/Football_Federation_of_Macedonia",
+        "alt": ""
+      },
+      "sha256": "60b03f759c522491a678ad806c6c5a599cd188903e581ac6fca28e21331830de",
+      "output": "docs/europe-d2-cups-2026-27/v1/federation_MK.png",
+      "dimensions": [
+        512,
+        512
+      ]
+    },
+    {
+      "country": "BG",
+      "organizer": "Bulgarian Football Union",
+      "status": "SOURCE_IDENTIFIED",
+      "sourceImage": "https://thumb.wikimedia.org/wikipedia/en/thumb/6/69/Bulgarian_Football_Union_logo.svg/250px-Bulgarian_Football_Union_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/Bulgarian_Football_Union",
+        "alt": ""
+      },
+      "sha256": "94458f500e1cfb24920db7c0ecec28ecd1d55fd6c1e0401d1df182eb0a606557",
+      "output": "docs/europe-d2-cups-2026-27/v1/federation_BG.png",
+      "dimensions": [
+        512,
+        512
+      ]
+    },
+    {
+      "country": "RO",
+      "organizer": "Romanian Football Federation",
+      "status": "SOURCE_IDENTIFIED",
+      "sourceImage": "https://thumb.wikimedia.org/wikipedia/en/thumb/2/2c/Romanian_Football_Federation_logo_%282019%29.svg/250px-Romanian_Football_Federation_logo_%282019%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "provider": {
+        "provider": "Wikipedia infobox (en)",
+        "sourcePage": "https://en.wikipedia.org/wiki/Romanian_Football_Federation",
+        "alt": ""
+      },
+      "sha256": "2bc913e72eaa071142b1e85d0e393566b62e6fa3778cf7cff786b30a0c2433d0",
+      "output": "docs/europe-d2-cups-2026-27/v1/federation_RO.png",
+      "dimensions": [
+        512,
+        512
+      ]
+    }
+  ],
+  "status": "DOWNLOADS_CHECKED_BYTES_NOT_MANUAL_VISUAL_AUTHENTICATION"
+}
