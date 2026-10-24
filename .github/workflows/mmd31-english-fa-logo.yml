@@ -1,0 +1,22 @@
+name: MMD31 English FA competition umbrella logo 2026
+on:
+  push:
+    paths:
+      - '.github/workflows/mmd31-english-fa-logo.yml'
+permissions:
+  contents: write
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.11' }
+      - run: python -m pip install --disable-pip-version-check pillow cairosvg requests
+      - run: python tools/english_fa_competition_logo.py
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/english-clubs-2026-27/competition/
+          git diff --cached --quiet || (git commit -m "Publish original Football Association umbrella logo for English pyramid" && git push origin HEAD)
