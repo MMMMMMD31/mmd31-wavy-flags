@@ -5,9 +5,9 @@
   "german_clubs": 970,
   "linked_before_the_526_club_search": 444,
   "original_missing": 526,
-  "newly_linked_verified": 470,
-  "linked_final": 914,
-  "still_without_verified_badge": 56,
+  "newly_linked_verified": 526,
+  "linked_final": 970,
+  "still_without_verified_badge": 0,
   "source_manifest_count": 475,
   "search_batches": {
     "initial_fupa_test": 5,
@@ -24,5 +24,6 @@
     "teams_userTeams_badge_url_conflicts": 0,
     "other_game_fields_modified": 0
   },
-  "note": "Missing clubs are left without an invented or ambiguous badge. All 475 badge files and their provenance appear in manifest.json."
+  "note": "All 970 German club badges are linked. FuPa (475) and Transfermarkt (56) manifests record source provenance; the final alias Scharmbeck-Pattensen-Ashausen has official league verification while the original game team name is preserved.",
+  "transfermarkt_manifest_count": 56
 }

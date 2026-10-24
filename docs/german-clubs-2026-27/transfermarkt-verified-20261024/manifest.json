@@ -1,0 +1,899 @@
+[
+  {
+    "teamId": "1898200000048",
+    "club": "SSG Nikola Tesla Hamburg",
+    "transfermarkt_id": "24733",
+    "source": "https://tmssl.akamaized.net/images/wappen/head/24733.png",
+    "source_page": "https://www.transfermarkt.de/jumplist/startseite/verein/24733",
+    "source_type": "transfermarkt_exact_profile_club_id",
+    "background_rgb": [
+      196,
+      78,
+      78
+    ],
+    "raw_sha256": "3e0d6297992a4551c90157e6b87b4c0e0141dd1072a02bc191ef0261b083329d",
+    "png_path": "docs/german-clubs-2026-27/transfermarkt-verified-20261024/1898200000048.png",
+    "sha256": "cec2c3731a5f0e7c363b98aa2251068383422e78c85c9c9deaa42ffceae84922"
+  },
+  {
+    "teamId": "1898200000075",
+    "club": "FC Anker Wismar",
+    "transfermarkt_id": "3676",
+    "source": "https://tmssl.akamaized.net/images/wappen/head/3676.png",
+    "source_page": "https://www.transfermarkt.de/jumplist/startseite/verein/3676",
+    "source_type": "transfermarkt_exact_profile_club_id",
+    "background_rgb": [
+      220,
+      78,
+      101
+    ],
+    "raw_sha256": "acbda2de1b53a88135e740c7d086633f427e80fb0faf34cab9e6fc0da3eede0c",
+    "png_path": "docs/german-clubs-2026-27/transfermarkt-verified-20261024/1898200000075.png",
+    "sha256": "ad7d87bc9c01d18a5b3ae8377dc21494ad984b7cc2bbfac69160351908d81ee1"
+  },
+  {
+    "teamId": "1898200000089",
+    "club": "VfB Germania Halberstadt",
+    "transfermarkt_id": "364",
+    "source": "https://tmssl.akamaized.net/images/wappen/head/364.png",
+    "source_page": "https://www.transfermarkt.de/jumplist/startseite/verein/364",
+    "source_type": "transfermarkt_exact_profile_club_id",
+    "background_rgb": [
+      243,
+      243,
+      78
+    ],
+    "raw_sha256": "6bd16612630407430b5ec699b96863e59a9d991a3812e5b196173c73b2a76501",
+    "png_path": "docs/german-clubs-2026-27/transfermarkt-verified-20261024/1898200000089.png",
+    "sha256": "aa50c5283331c8fde3390fc5e692c10e5450f0b3e1614b28eeeb5fbd7da5694e"
+  },
+  {
+    "teamId": "1898200000127",
+    "club": "FC Hennef 05",
+    "transfermarkt_id": "15171",
+    "source": "https://tmssl.akamaized.net/images/wappen/head/15171.png",
+    "source_page": "https://www.transfermarkt.de/jumplist/startseite/verein/15171",
+    "source_type": "transfermarkt_exact_profile_club_id",
+    "background_rgb": [
+      220,
+      78,
+      78
+    ],
+    "raw_sha256": "944ff4d098c3f8d0a8b2bf72f6384084a94dadea2a16fb96bf48f97d19595ce1",
+    "png_path": "docs/german-clubs-2026-27/transfermarkt-verified-20261024/1898200000127.png",
+    "sha256": "639df5a6df58a2ed14c1af7cc6694c32d57c8cca4b44775400f5df5a82435554"
+  },
+  {
+    "teamId": "1898200000130",
+    "club": "SC Borussia Lindenthal-Hohenlind",
+    "transfermarkt_id": "5605",
+    "source": "https://tmssl.akamaized.net/images/wappen/head/5605.png",
+    "source_page": "https://www.transfermarkt.de/jumplist/startseite/verein/5605",
+    "source_type": "transfermarkt_exact_profile_club_id",
+    "background_rgb": [
+      78,
+      125,
+      101
+    ],
+    "raw_sha256": "67c877b4d19c9c8e3a099932abe4898385bdb8dca8d3bdb6b07158b87447d4ed",
+    "png_path": "docs/german-clubs-2026-27/transfermarkt-verified-20261024/1898200000130.png",
+    "sha256": "c5290f93c1f4245602a4747719ae051d05774317bf32a63a1c7b6bcb1a7e5112"
+  },
+  {
+    "teamId": "1898200000153",
+    "club": "FK Pirmasens",
+    "transfermarkt_id": "726",
+    "source": "https://tmssl.akamaized.net/images/wappen/head/726.png",
+    "source_page": "https://www.transfermarkt.de/jumplist/startseite/verein/726",
+    "source_type": "transfermarkt_exact_profile_club_id",
+    "background_rgb": [
+      101,
+      125,
+      149
+    ],
+    "raw_sha256": "5e82b765635a8cd2ef9ab681ad72aeb6c5773eef6d62c601b9e121987aa81ade",
+    "png_path": "docs/german-clubs-2026-27/transfermarkt-verified-20261024/1898200000153.png",
+    "sha256": "8c70cc32d0906d6ce9eaae28898c8252272827adabe526e70e7e9d0de098a6e2"
+  },
+  {
+    "teamId": "1898200000165",
+    "club": "Sportfreunde Eisbachtal",
+    "transfermarkt_id": "1206",
+    "source": "https://tmssl.akamaized.net/images/wappen/head/1206.png",
+    "source_page": "https://www.transfermarkt.de/jumplist/startseite/verein/1206",
+    "source_type": "transfermarkt_exact_profile_club_id",
+    "background_rgb": [
+      101,
+      125,
+      196
+    ],
+    "raw_sha256": "ea70600af5acaffb7d604c1a4a470c981e03b3f18ccdface978fd200b4b15792",
+    "png_path": "docs/german-clubs-2026-27/transfermarkt-verified-20261024/1898200000165.png",
+    "sha256": "02d3b3ab82f1de42498a4048e20d3a2a373be4716089d5eafdf9387ca7b24ec2"
+  },
+  {
+    "teamId": "1898200000198",
+    "club": "VfB Marburg",
+    "transfermarkt_id": "1915",
+    "source": "https://tmssl.akamaized.net/images/wappen/head/1915.png",
+    "source_page": "https://www.transfermarkt.de/jumplist/startseite/verein/1915",
+    "source_type": "transfermarkt_exact_profile_club_id",
+    "background_rgb": [
+      243,
+      101,
+      125
+    ],
+    "raw_sha256": "8accee392df765f82ca336baee366e002b7467367818993837eb9821b5acc4a7",
+    "png_path": "docs/german-clubs-2026-27/transfermarkt-verified-20261024/1898200000198.png",
+    "sha256": "7e932e6683bb37a10e9267373d98ad68bffb509ed5e5b051d8eb61e126fa367b"
+  },
+  {
+    "teamId": "1898200000225",
+    "club": "FC Ismaning",
+    "transfermarkt_id": "1216",
+    "source": "https://tmssl.akamaized.net/images/wappen/head/1216.png",
+    "source_page": "https://www.transfermarkt.de/jumplist/startseite/verein/1216",
+    "source_type": "transfermarkt_exact_profile_club_id",
+    "background_rgb": [
+      101,
+      101,
+      172
+    ],
+    "raw_sha256": "bc15c8d5c1b11343d0e5a5f6198796120ae052cdb207c34cc463a9c163335b9e",
+    "png_path": "docs/german-clubs-2026-27/transfermarkt-verified-20261024/1898200000225.png",
+    "sha256": "0f36647ea51ff992f067c8ac35f1e020034b930ed1418654bc654b65f7a68408"
+  },
+  {
+    "teamId": "1898200000237",
+    "club": "TSV 1874 Kottern",
+    "transfermarkt_id": "6749",
+    "source": "https://tmssl.akamaized.net/images/wappen/head/6749.png",
+    "source_page": "https://www.transfermarkt.de/jumplist/startseite/verein/6749",
+    "source_type": "transfermarkt_exact_profile_club_id",
+    "background_rgb": [
+      78,
+      149,
+      196
+    ],
+    "raw_sha256": "7ca1352189fe33b5aeece8b221f0a53c5ca06e1ba2efe551ecc9d010503486e7",
+    "png_path": "docs/german-clubs-2026-27/transfermarkt-verified-20261024/1898200000237.png",
+    "sha256": "e321e9965e503bae0a5acdff01b700e412b5288d172afa0a1207a5b4d404a60f"
+  },
+  {
+    "teamId": "1898200000247",
+    "club": "FC Sturm Hauzenberg",
+    "transfermarkt_id": "9070",
+    "source": "https://tmssl.akamaized.net/images/wappen/head/9070.png",
+    "source_page": "https://www.transfermarkt.de/jumplist/startseite/verein/9070",
+    "source_type": "transfermarkt_exact_profile_club_id",
+    "background_rgb": [
+      78,
+      101,
+      172
+    ],
+    "raw_sha256": "0fefd3c633b933ca436a0161f00c9187263cf262a8304d9f6bf1146323791bc7",
+    "png_path": "docs/german-clubs-2026-27/transfermarkt-verified-20261024/1898200000247.png",
+    "sha256": "d0ea7fde09bb853d1dc6e9e187df92e1cc555f157ca866e5bc4bb3d91bdc84e6"
+  },
+  {
+    "teamId": "1898200000257",
+    "club": "TSV Kareth-Lappersdorf",
+    "transfermarkt_id": "18744",
+    "source": "https://tmssl.akamaized.net/images/wappen/head/18744.png",
+    "source_page": "https://www.transfermarkt.de/jumplist/startseite/verein/18744",
+    "source_type": "transfermarkt_exact_profile_club_id",
+    "background_rgb": [
+      172,
+      78,
+      172
+    ],
+    "raw_sha256": "e841d4b1bae27979795f1f1c125eb14efe7c3c2463a390b20874957447fbdd66",
+    "png_path": "docs/german-clubs-2026-27/transfermarkt-verified-20261024/1898200000257.png",
+    "sha256": "b1f4e4929299d6514563effc3074493a2f7affd5f1c8cd5e06a79446493990ab"
+  },
+  {
+    "teamId": "1898200000260",
+    "club": "1. FC Kalchreuth",
+    "transfermarkt_id": "5628",
+    "source": "https://tmssl.akamaized.net/images/wappen/head/5628.png",
+    "source_page": "https://www.transfermarkt.de/jumplist/startseite/verein/5628",
+    "source_type": "transfermarkt_exact_profile_club_id",
+    "background_rgb": [
+      220,
+      78,
+      78
+    ],
+    "raw_sha256": "aa6703d92ae6027a62477b500a701e1021b28962227b7a5767f5dddf05584067",
+    "png_path": "docs/german-clubs-2026-27/transfermarkt-verified-20261024/1898200000260.png",
+    "sha256": "ebc78cd4f3de2a15b7a8d4ddffb562a8a9ace22d26df3a8048c562b0e181f7fd"
+  },
+  {
+    "teamId": "1898200000263",
+    "club": "ATSV Erlangen",
+    "transfermarkt_id": "1729",
+    "source": "https://tmssl.akamaized.net/images/wappen/head/1729.png",
+    "source_page": "https://www.transfermarkt.de/jumplist/startseite/verein/1729",
+    "source_type": "transfermarkt_exact_profile_club_id",
+    "background_rgb": [
+      243,
+      101,
+      78
+    ],
+    "raw_sha256": "8c28a4aeacbb6a0ea9332a3be3d53330a1b3bdae6cf969c9de9c54711a7bbc54",
+    "png_path": "docs/german-clubs-2026-27/transfermarkt-verified-20261024/1898200000263.png",
+    "sha256": "87fa78744c972306febb444080b7f5cc882c4604833506824f0bc92bda322a81"
+  },
+  {
+    "teamId": "1898200000297",
+    "club": "FC Schwabing München",
+    "transfermarkt_id": "39350",
+    "source": "https://tmssl.akamaized.net/images/wappen/head/39350.png",
+    "source_page": "https://www.transfermarkt.de/jumplist/startseite/verein/39350",
+    "source_type": "transfermarkt_exact_profile_club_id",
+    "background_rgb": [
+      243,
+      101,
+      78
+    ],
+    "raw_sha256": "52eb4540a02051f55fe4b930ba016fe3ddccea1f20bc79f89241500689cd0f2f",
+    "png_path": "docs/german-clubs-2026-27/transfermarkt-verified-20261024/1898200000297.png",
+    "sha256": "ca3aa202b9d5866515241d36d92cfd5fdea32c9ed20f99de96ed28fb69bf1c5b"
+  },
+  {
+    "teamId": "1898200000334",
+    "club": "FK Pirmasens II",
+    "transfermarkt_id": "23636",
+    "source": "https://tmssl.akamaized.net/images/wappen/head/23636.png",
+    "source_page": "https://www.transfermarkt.de/jumplist/startseite/verein/23636",
+    "source_type": "transfermarkt_exact_profile_club_id",
+    "background_rgb": [
+      101,
+      125,
+      149
+    ],
+    "raw_sha256": "5e82b765635a8cd2ef9ab681ad72aeb6c5773eef6d62c601b9e121987aa81ade",
+    "png_path": "docs/german-clubs-2026-27/transfermarkt-verified-20261024/1898200000334.png",
+    "sha256": "8c70cc32d0906d6ce9eaae28898c8252272827adabe526e70e7e9d0de098a6e2"
+  },
+  {
+    "teamId": "1898200000337",
+    "club": "SG Eintracht Bad Kreuznach",
+    "transfermarkt_id": "2263",
+    "source": "https://tmssl.akamaized.net/images/wappen/head/2263.png",
+    "source_page": "https://www.transfermarkt.de/jumplist/startseite/verein/2263",
+    "source_type": "transfermarkt_exact_profile_club_id",
+    "background_rgb": [
+      78,
+      101,
+      172
+    ],
+    "raw_sha256": "78dde4073354de2636d00748009981d4b13642f45c099506c96df62046d44d17",
+    "png_path": "docs/german-clubs-2026-27/transfermarkt-verified-20261024/1898200000337.png",
+    "sha256": "418831255258e6d1191f209c84f3e67e7dd0dc547c943a0921b1cca7226e1626"
+  },
+  {
+    "teamId": "1898200000350",
+    "club": "SF Neuwerk 06",
+    "transfermarkt_id": "35484",
+    "source": "https://tmssl.akamaized.net/images/wappen/head/35484.png",
+    "source_page": "https://www.transfermarkt.de/jumplist/startseite/verein/35484",
+    "source_type": "transfermarkt_exact_profile_club_id",
+    "background_rgb": [
+      78,
+      125,
+      172
+    ],
+    "raw_sha256": "1532dedf4f2a49dee89c8d352672dfc8761a18851ecd4732cbdd1cf5455aaa6a",
+    "png_path": "docs/german-clubs-2026-27/transfermarkt-verified-20261024/1898200000350.png",
+    "sha256": "71b72dc58819ba836bc518bff231bef4d24a5167400f9c45c61f0a3c1780cad4"
+  },
+  {
+    "teamId": "1898200000370",
+    "club": "TSV Solingen-Aufderhöhe",
+    "transfermarkt_id": "55624",
+    "source": "https://tmssl.akamaized.net/images/wappen/head/55624.png",
+    "source_page": "https://www.transfermarkt.de/jumplist/startseite/verein/55624",
+    "source_type": "transfermarkt_exact_profile_club_id",
+    "background_rgb": [
+      78,
+      125,
+      196
+    ],
+    "raw_sha256": "a763060a07a4410b4f4216cb078008c38dd7ac078b8fc171d95959cda60ef9f3",
+    "png_path": "docs/german-clubs-2026-27/transfermarkt-verified-20261024/1898200000370.png",
+    "sha256": "9084c5f062063eeedd68c777a495170ca050bfe5328a52cd0f70b3a7258f44d5"
+  },
+  {
+    "teamId": "1898200000378",
+    "club": "DJK BW Mintard",
+    "transfermarkt_id": "48255",
+    "source": "https://tmssl.akamaized.net/images/wappen/head/48255.png",
+    "source_page": "https://www.transfermarkt.de/jumplist/startseite/verein/48255",
+    "source_type": "transfermarkt_exact_profile_club_id",
+    "background_rgb": [
+      78,
+      125,
+      243
+    ],
+    "raw_sha256": "6afdffbf6891e02d159709531ded2915e2bd800a006242964a425eaf99f0f973",
+    "png_path": "docs/german-clubs-2026-27/transfermarkt-verified-20261024/1898200000378.png",
+    "sha256": "6f89f50410ee28edb501e1efd4aa733e6c200084bbad878835f71a5e7e1f4788"
+  },
+  {
+    "teamId": "1898200000379",
+    "club": "SF Niederwenigern",
+    "transfermarkt_id": "41752",
+    "source": "https://tmssl.akamaized.net/images/wappen/head/41752.png",
+    "source_page": "https://www.transfermarkt.de/jumplist/startseite/verein/41752",
+    "source_type": "transfermarkt_exact_profile_club_id",
+    "background_rgb": [
+      243,
+      220,
+      78
+    ],
+    "raw_sha256": "eddf4f47e03077d5cbabcbd92cff3886602439d5b50707091b9abc8d228acaf0",
+    "png_path": "docs/german-clubs-2026-27/transfermarkt-verified-20261024/1898200000379.png",
+    "sha256": "935ea69a4452e8fcc974945f489cbe2e66060098aa42e5c6c7f9b66eebe4ae0d"
+  },
+  {
+    "teamId": "1898200000381",
+    "club": "DJK SF Katernberg",
+    "transfermarkt_id": "66139",
+    "source": "https://tmssl.akamaized.net/images/wappen/head/66139.png",
+    "source_page": "https://www.transfermarkt.de/jumplist/startseite/verein/66139",
+    "source_type": "transfermarkt_exact_profile_club_id",
+    "background_rgb": [
+      78,
+      101,
+      172
+    ],
+    "raw_sha256": "39b7e952055246293e70199613f7f7ce8409bd898fe1ac84c2c7795dfcc1da16",
+    "png_path": "docs/german-clubs-2026-27/transfermarkt-verified-20261024/1898200000381.png",
+    "sha256": "6af556b5974872fc0f498edcc0e8c4269ad03822752826b136025803921666fc"
+  },
+  {
+    "teamId": "1898200000421",
+    "club": "SV Germania Eicherscheid",
+    "transfermarkt_id": "49948",
+    "source": "https://tmssl.akamaized.net/images/wappen/head/49948.png",
+    "source_page": "https://www.transfermarkt.de/jumplist/startseite/verein/49948",
+    "source_type": "transfermarkt_exact_profile_club_id",
+    "background_rgb": [
+      78,
+      149,
+      196
+    ],
+    "raw_sha256": "cb83ff5119be6a260b7e2fd80832c255af4e1fb6f49003b46efaed84a73bc20a",
+    "png_path": "docs/german-clubs-2026-27/transfermarkt-verified-20261024/1898200000421.png",
+    "sha256": "18bdeb6be0d5d572801ddabb24c7389744a22be2de1cb2f08c9ff337664ee95c"
+  },
+  {
+    "teamId": "1898200000439",
+    "club": "SV Rot-Weiß Hasborn",
+    "transfermarkt_id": "1555",
+    "source": "https://tmssl.akamaized.net/images/wappen/head/1555.png",
+    "source_page": "https://www.transfermarkt.de/jumplist/startseite/verein/1555",
+    "source_type": "transfermarkt_exact_profile_club_id",
+    "background_rgb": [
+      196,
+      78,
+      78
+    ],
+    "raw_sha256": "cd73695fb767ef147d4822649ad3c5e1480e8887e13184e0cae75275fd45973e",
+    "png_path": "docs/german-clubs-2026-27/transfermarkt-verified-20261024/1898200000439.png",
+    "sha256": "c74d3c602ff60bc41d3935326c51cc0dc0a3e5c72de9ba0ee0ca2cd3fc4854ac"
+  },
+  {
+    "teamId": "1898200000446",
+    "club": "SG Marpingen-Urexweiler",
+    "transfermarkt_id": "10321",
+    "source": "https://tmssl.akamaized.net/images/wappen/head/10321.png",
+    "source_page": "https://www.transfermarkt.de/jumplist/startseite/verein/10321",
+    "source_type": "transfermarkt_exact_profile_club_id",
+    "background_rgb": [
+      102,
+      119,
+      148
+    ],
+    "raw_sha256": "fab2d2b5a78a74b93036fe418ca5d8fb6c9ee3d3abe9f8ef668ec079085967e9",
+    "png_path": "docs/german-clubs-2026-27/transfermarkt-verified-20261024/1898200000446.png",
+    "sha256": "401b9efeb73c948445055dfad946097ea2a614f3ef95a6e43b656afa0aa9297e"
+  },
+  {
+    "teamId": "1898200000450",
+    "club": "Märkischer SV 1919 Neuruppin",
+    "transfermarkt_id": "580",
+    "source": "https://tmssl.akamaized.net/images/wappen/head/580.png",
+    "source_page": "https://www.transfermarkt.de/jumplist/startseite/verein/580",
+    "source_type": "transfermarkt_exact_profile_club_id",
+    "background_rgb": [
+      78,
+      149,
+      220
+    ],
+    "raw_sha256": "c3676935d0e48b184018ce9a94f1c111ab9e8eb454da69c3ef7a37d689d43595",
+    "png_path": "docs/german-clubs-2026-27/transfermarkt-verified-20261024/1898200000450.png",
+    "sha256": "7be7ffbdd7da6d0d11b50bf43e99b51154b7835a9e75b2b3000e9da59b0952af"
+  },
+  {
+    "teamId": "1898200000468",
+    "club": "Blau-Weiß 90",
+    "transfermarkt_id": "2149",
+    "source": "https://tmssl.akamaized.net/images/wappen/head/2149.png",
+    "source_page": "https://www.transfermarkt.de/jumplist/startseite/verein/2149",
+    "source_type": "transfermarkt_exact_profile_club_id",
+    "background_rgb": [
+      78,
+      149,
+      220
+    ],
+    "raw_sha256": "dd076c0dd05f82620884434f826392d8409f14d72d147d075554f22c424efa63",
+    "png_path": "docs/german-clubs-2026-27/transfermarkt-verified-20261024/1898200000468.png",
+    "sha256": "6a57bac0eb65937ac996b363f0deff49b8893ee31f639f3435c9db784bb8ba48"
+  },
+  {
+    "teamId": "1898200000469",
+    "club": "Berliner SC",
+    "transfermarkt_id": "14410",
+    "source": "https://tmssl.akamaized.net/images/wappen/head/14410.png",
+    "source_page": "https://www.transfermarkt.de/jumplist/startseite/verein/14410",
+    "source_type": "transfermarkt_exact_profile_club_id",
+    "background_rgb": [
+      243,
+      220,
+      78
+    ],
+    "raw_sha256": "7bea49564e96ce59b7ba899af5c85a492d4f948b6808993d5ce450fc06437a58",
+    "png_path": "docs/german-clubs-2026-27/transfermarkt-verified-20261024/1898200000469.png",
+    "sha256": "7ce133e575189c9cc0b234e36e7c22a82268c87e7bd455d56f799183555183a3"
+  },
+  {
+    "teamId": "1898200000478",
+    "club": "SC Staaken",
+    "transfermarkt_id": "12076",
+    "source": "https://tmssl.akamaized.net/images/wappen/head/12076.png",
+    "source_page": "https://www.transfermarkt.de/jumplist/startseite/verein/12076",
+    "source_type": "transfermarkt_exact_profile_club_id",
+    "background_rgb": [
+      78,
+      101,
+      172
+    ],
+    "raw_sha256": "be56555864bed74cafb7a9d613e895537f815b9749c5fc3cfff0de2b39f625db",
+    "png_path": "docs/german-clubs-2026-27/transfermarkt-verified-20261024/1898200000478.png",
+    "sha256": "8fbe964f05afd8b4e7c7e71a5c648589e9b61bbc2dc09e494769e230c042bca1"
+  },
+  {
+    "teamId": "1898200000480",
+    "club": "Türkspor Berlin",
+    "transfermarkt_id": "32001",
+    "source": "https://tmssl.akamaized.net/images/wappen/head/32001.png",
+    "source_page": "https://www.transfermarkt.de/jumplist/startseite/verein/32001",
+    "source_type": "transfermarkt_exact_profile_club_id",
+    "background_rgb": [
+      243,
+      101,
+      78
+    ],
+    "raw_sha256": "75a0ad041ed4ada09da17f5407f28b8ade1e5a515b039a8e4bf161673749f14a",
+    "png_path": "docs/german-clubs-2026-27/transfermarkt-verified-20261024/1898200000480.png",
+    "sha256": "96edbfdf4caaee4d36ef163dedf86ebed4a7a00166003d587d174a00a672e80c"
+  },
+  {
+    "teamId": "1898200000484",
+    "club": "SF Johannisthal",
+    "transfermarkt_id": "18901",
+    "source": "https://tmssl.akamaized.net/images/wappen/head/18901.png",
+    "source_page": "https://www.transfermarkt.de/jumplist/startseite/verein/18901",
+    "source_type": "transfermarkt_exact_profile_club_id",
+    "background_rgb": [
+      78,
+      172,
+      78
+    ],
+    "raw_sha256": "2dfc25cab417d33035141f8fddb5e3e01b25715444b4ca366cf2830478cd4bc4",
+    "png_path": "docs/german-clubs-2026-27/transfermarkt-verified-20261024/1898200000484.png",
+    "sha256": "669478f5cf76674ff5a5161835ba9ffea36285186dabe6c017cbe750baa9159e"
+  },
+  {
+    "teamId": "1898200000485",
+    "club": "1. SC 1911 Heiligenstadt",
+    "transfermarkt_id": "26692",
+    "source": "https://tmssl.akamaized.net/images/wappen/head/26692.png",
+    "source_page": "https://www.transfermarkt.de/jumplist/startseite/verein/26692",
+    "source_type": "transfermarkt_exact_profile_club_id",
+    "background_rgb": [
+      78,
+      149,
+      243
+    ],
+    "raw_sha256": "202c3e32085a7b6f1a35bae8dc933916a56d90d671756082022c399c72331b6f",
+    "png_path": "docs/german-clubs-2026-27/transfermarkt-verified-20261024/1898200000485.png",
+    "sha256": "46427c08b282bc2a17619cacede3cc6db5b059d7eea247eb49a112762e80cb0b"
+  },
+  {
+    "teamId": "1898200000490",
+    "club": "SV Blau-Weiß 90 Neustadt/Orla",
+    "transfermarkt_id": "8395",
+    "source": "https://tmssl.akamaized.net/images/wappen/head/8395.png",
+    "source_page": "https://www.transfermarkt.de/jumplist/startseite/verein/8395",
+    "source_type": "transfermarkt_exact_profile_club_id",
+    "background_rgb": [
+      101,
+      101,
+      220
+    ],
+    "raw_sha256": "2c038c914dde66e467897a35610f6cfa741a771e85db746c9c1de602e21d9637",
+    "png_path": "docs/german-clubs-2026-27/transfermarkt-verified-20261024/1898200000490.png",
+    "sha256": "37848fdf36a8d29aaabe68b8e22037bb882449f87ff10582bfba3bc74a830863"
+  },
+  {
+    "teamId": "1898200000493",
+    "club": "FSV Preußen Bad Langensalza",
+    "transfermarkt_id": "28960",
+    "source": "https://tmssl.akamaized.net/images/wappen/head/28960.png",
+    "source_page": "https://www.transfermarkt.de/jumplist/startseite/verein/28960",
+    "source_type": "transfermarkt_exact_profile_club_id",
+    "background_rgb": [
+      102,
+      119,
+      148
+    ],
+    "raw_sha256": "59a96f5bbd45ca1267085f70b9da08ab53955bbf4614c48b8e5e0251a6c12c27",
+    "png_path": "docs/german-clubs-2026-27/transfermarkt-verified-20261024/1898200000493.png",
+    "sha256": "89d1be4e87a68b247fbedc3bcaa1282cf260da4d09ad3fbc38b6e3d1624f917e"
+  },
+  {
+    "teamId": "1898200000496",
+    "club": "FSV Wacker 90 Nordhausen",
+    "transfermarkt_id": "490",
+    "source": "https://tmssl.akamaized.net/images/wappen/head/490.png",
+    "source_page": "https://www.transfermarkt.de/jumplist/startseite/verein/490",
+    "source_type": "transfermarkt_exact_profile_club_id",
+    "background_rgb": [
+      78,
+      125,
+      196
+    ],
+    "raw_sha256": "e422c2050fbc2272041825249088653fc572f98c346d8aa72619931c7c8d997a",
+    "png_path": "docs/german-clubs-2026-27/transfermarkt-verified-20261024/1898200000496.png",
+    "sha256": "84374c15435eda58abc0e3e5a45da5b9c6f6a6ca650e08f9030fae38aa440383"
+  },
+  {
+    "teamId": "1898200000518",
+    "club": "SF Ostinghausen",
+    "transfermarkt_id": "44936",
+    "source": "https://tmssl.akamaized.net/images/wappen/head/44936.png",
+    "source_page": "https://www.transfermarkt.de/jumplist/startseite/verein/44936",
+    "source_type": "transfermarkt_exact_profile_club_id",
+    "background_rgb": [
+      102,
+      119,
+      148
+    ],
+    "raw_sha256": "4df1146f0dbd86fbe7ade4c8e96168ee8495007c09dc2ac93d8abe6c702eb1d7",
+    "png_path": "docs/german-clubs-2026-27/transfermarkt-verified-20261024/1898200000518.png",
+    "sha256": "544daec67c6b14e86702c968830b846ad77f8823acba9abaeca81826c410fbe2"
+  },
+  {
+    "teamId": "1898200000519",
+    "club": "SuS Neuenkirchen",
+    "transfermarkt_id": "7137",
+    "source": "https://tmssl.akamaized.net/images/wappen/head/7137.png",
+    "source_page": "https://www.transfermarkt.de/jumplist/startseite/verein/7137",
+    "source_type": "transfermarkt_exact_profile_club_id",
+    "background_rgb": [
+      102,
+      119,
+      148
+    ],
+    "raw_sha256": "e5d3c0e148e22aa4649d9924f958adbf5fc98014dd2d617777441e5ebeced231",
+    "png_path": "docs/german-clubs-2026-27/transfermarkt-verified-20261024/1898200000519.png",
+    "sha256": "ad54ed2c6b7a9bb09dea09e206cc8ebd8aa4807ef6387626793b117719dbb53e"
+  },
+  {
+    "teamId": "1898200000541",
+    "club": "SpVg Hagen 11",
+    "transfermarkt_id": "12800",
+    "source": "https://tmssl.akamaized.net/images/wappen/head/12800.png",
+    "source_page": "https://www.transfermarkt.de/jumplist/startseite/verein/12800",
+    "source_type": "transfermarkt_exact_profile_club_id",
+    "background_rgb": [
+      102,
+      119,
+      148
+    ],
+    "raw_sha256": "7aa279e74e6e2b2538712b0e60750830f9e0a2c7ac97682d1ec95e0567ccce25",
+    "png_path": "docs/german-clubs-2026-27/transfermarkt-verified-20261024/1898200000541.png",
+    "sha256": "11dcae7e4b5a97679280dfa7da2df7ce3c079a7a3269935b23f5b93e16c06af0"
+  },
+  {
+    "teamId": "1898200000566",
+    "club": "1. FC Bruchsal",
+    "transfermarkt_id": "2086",
+    "source": "https://tmssl.akamaized.net/images/wappen/head/2086.png",
+    "source_page": "https://www.transfermarkt.de/jumplist/startseite/verein/2086",
+    "source_type": "transfermarkt_exact_profile_club_id",
+    "background_rgb": [
+      78,
+      78,
+      125
+    ],
+    "raw_sha256": "9097f462c3bb0e8355e460a40d6ee25c9a3643be4188d1eb3f3286deefeeb93d",
+    "png_path": "docs/german-clubs-2026-27/transfermarkt-verified-20261024/1898200000566.png",
+    "sha256": "d563520f8d71d9ff435aa2cc4e7692deee3c4a3b9414dd4df224245249b51c10"
+  },
+  {
+    "teamId": "1898200000577",
+    "club": "Türkspor Mosbach",
+    "transfermarkt_id": "52559",
+    "source": "https://tmssl.akamaized.net/images/wappen/head/52559.png",
+    "source_page": "https://www.transfermarkt.de/jumplist/startseite/verein/52559",
+    "source_type": "transfermarkt_exact_profile_club_id",
+    "background_rgb": [
+      243,
+      78,
+      78
+    ],
+    "raw_sha256": "63a6772dda404277ee83ee1cfa7e117027f4116b21615512a8bf6161a4e25d41",
+    "png_path": "docs/german-clubs-2026-27/transfermarkt-verified-20261024/1898200000577.png",
+    "sha256": "3f66b8a11d1e8fd783fb3cea7b7afaf6c499424c1bb2183e8cd52a5a8b6876ee"
+  },
+  {
+    "teamId": "1898200000580",
+    "club": "FC Denzlingen",
+    "transfermarkt_id": "4974",
+    "source": "https://tmssl.akamaized.net/images/wappen/head/4974.png",
+    "source_page": "https://www.transfermarkt.de/jumplist/startseite/verein/4974",
+    "source_type": "transfermarkt_exact_profile_club_id",
+    "background_rgb": [
+      78,
+      172,
+      220
+    ],
+    "raw_sha256": "a9f00657484ec987788297a99bd76f093d4a38be94da365b00b5514b6626e4a0",
+    "png_path": "docs/german-clubs-2026-27/transfermarkt-verified-20261024/1898200000580.png",
+    "sha256": "83bf230a98bd76d2b3b3a289d58ce5435d6d796b753f8cd94aaa89202c8af4a5"
+  },
+  {
+    "teamId": "1898200000583",
+    "club": "FC Auggen",
+    "transfermarkt_id": "28294",
+    "source": "https://tmssl.akamaized.net/images/wappen/head/28294.png",
+    "source_page": "https://www.transfermarkt.de/jumplist/startseite/verein/28294",
+    "source_type": "transfermarkt_exact_profile_club_id",
+    "background_rgb": [
+      243,
+      101,
+      125
+    ],
+    "raw_sha256": "a7d70cc38da5c197f561644cf00f71a4af202cf75fde765f4bbc2c6b881d7e03",
+    "png_path": "docs/german-clubs-2026-27/transfermarkt-verified-20261024/1898200000583.png",
+    "sha256": "27a006b6f61fc76faadfdadd54def9503c4856a6e11fd0fe5a0da64a32388658"
+  },
+  {
+    "teamId": "1898200000603",
+    "club": "FC Förderkader René Schneider Rostock",
+    "transfermarkt_id": "24541",
+    "source": "https://tmssl.akamaized.net/images/wappen/head/24541.png",
+    "source_page": "https://www.transfermarkt.de/jumplist/startseite/verein/24541",
+    "source_type": "transfermarkt_exact_profile_club_id",
+    "background_rgb": [
+      243,
+      101,
+      101
+    ],
+    "raw_sha256": "eb74e20302ab7ea7f4605a6b8e38cde49e883fa8ea373b746750c43b185315f5",
+    "png_path": "docs/german-clubs-2026-27/transfermarkt-verified-20261024/1898200000603.png",
+    "sha256": "e3590d33ec9dd875896c4cacaab227f02b8e7ad53c1d676b0fdfb88fe17cfdef"
+  },
+  {
+    "teamId": "1898200000646",
+    "club": "1. Hanauer FC 93",
+    "transfermarkt_id": "9497",
+    "source": "https://tmssl.akamaized.net/images/wappen/head/9497.png",
+    "source_page": "https://www.transfermarkt.de/jumplist/startseite/verein/9497",
+    "source_type": "transfermarkt_exact_profile_club_id",
+    "background_rgb": [
+      102,
+      119,
+      148
+    ],
+    "raw_sha256": "7e9760deb30a2568125668984f77e2c5d64151525a4ecc9ea10fe10addce763a",
+    "png_path": "docs/german-clubs-2026-27/transfermarkt-verified-20261024/1898200000646.png",
+    "sha256": "3d700704b7a333d2bfcffb2195b288a7f65e25ab9477c4646d0b6712907ee4c8"
+  },
+  {
+    "teamId": "1898200000714",
+    "club": "TSV 1982 Lübeck",
+    "transfermarkt_id": "5342",
+    "source": "https://tmssl.akamaized.net/images/wappen/head/5342.png",
+    "source_page": "https://www.transfermarkt.de/jumplist/startseite/verein/5342",
+    "source_type": "transfermarkt_exact_profile_club_id",
+    "background_rgb": [
+      243,
+      101,
+      101
+    ],
+    "raw_sha256": "df45f71e5c6addbbbc89b3ce0726e3b39cfe06c3822e31b7a9a3125a5327f351",
+    "png_path": "docs/german-clubs-2026-27/transfermarkt-verified-20261024/1898200000714.png",
+    "sha256": "c917375258fa5d16ef9ed61bde238747a1763638d914617c7c30cb0ea595d6ad"
+  },
+  {
+    "teamId": "1898200000717",
+    "club": "SVT Bad Oldesloe",
+    "transfermarkt_id": "35169",
+    "source": "https://tmssl.akamaized.net/images/wappen/head/35169.png",
+    "source_page": "https://www.transfermarkt.de/jumplist/startseite/verein/35169",
+    "source_type": "transfermarkt_exact_profile_club_id",
+    "background_rgb": [
+      196,
+      101,
+      101
+    ],
+    "raw_sha256": "719453afdd5bc6a3430f8b5a4c44bb892dd1e85b1790fb3d4019790c49bc3e36",
+    "png_path": "docs/german-clubs-2026-27/transfermarkt-verified-20261024/1898200000717.png",
+    "sha256": "c8467eb11e6f85deea72ce371d206f8f56ffa9f09f3c94178e29deb1254fe65b"
+  },
+  {
+    "teamId": "1898200000719",
+    "club": "Eutiner SV 08",
+    "transfermarkt_id": "23625",
+    "source": "https://tmssl.akamaized.net/images/wappen/head/23625.png",
+    "source_page": "https://www.transfermarkt.de/jumplist/startseite/verein/23625",
+    "source_type": "transfermarkt_exact_profile_club_id",
+    "background_rgb": [
+      101,
+      101,
+      172
+    ],
+    "raw_sha256": "34c17bbd7f0e467320abd2ba2c997a83a6ec9ccd28f0970f171f373ad748fa1a",
+    "png_path": "docs/german-clubs-2026-27/transfermarkt-verified-20261024/1898200000719.png",
+    "sha256": "c266601cf408fd51708cd9412cd9c1751b4744c3647708722fd3fb7a6833b553"
+  },
+  {
+    "teamId": "1898200000730",
+    "club": "U.S.I. Lupo Martini Wolfsburg",
+    "transfermarkt_id": "8935",
+    "source": "https://tmssl.akamaized.net/images/wappen/head/8935.png",
+    "source_page": "https://www.transfermarkt.de/jumplist/startseite/verein/8935",
+    "source_type": "transfermarkt_exact_profile_club_id",
+    "background_rgb": [
+      78,
+      172,
+      220
+    ],
+    "raw_sha256": "a4b6d33888baf9d6386e88b1c885e2798dfdeff2a6d94017ee5b406dba3e469d",
+    "png_path": "docs/german-clubs-2026-27/transfermarkt-verified-20261024/1898200000730.png",
+    "sha256": "db2ff73ff975f6425cbeef894ebe3d28829d90bbb221ccaa5992c586dcbd5101"
+  },
+  {
+    "teamId": "1898200000733",
+    "club": "FT Braunschweig",
+    "transfermarkt_id": "5460",
+    "source": "https://tmssl.akamaized.net/images/wappen/head/5460.png",
+    "source_page": "https://www.transfermarkt.de/jumplist/startseite/verein/5460",
+    "source_type": "transfermarkt_exact_profile_club_id",
+    "background_rgb": [
+      220,
+      172,
+      101
+    ],
+    "raw_sha256": "58f1a301a316e5f572b851c4d09482a36653ca2c6c4ebdb7942e63dae1f9d560",
+    "png_path": "docs/german-clubs-2026-27/transfermarkt-verified-20261024/1898200000733.png",
+    "sha256": "9b1d578474b6f9ae2b5ef499c89cde3433ff429672e0e67b2717cdf2b18fb151"
+  },
+  {
+    "teamId": "1898200000738",
+    "club": "SG Landolfshausen/Seulingen",
+    "transfermarkt_id": "67733",
+    "source": "https://tmssl.akamaized.net/images/wappen/head/67733.png",
+    "source_page": "https://www.transfermarkt.de/jumplist/startseite/verein/67733",
+    "source_type": "transfermarkt_exact_profile_club_id",
+    "background_rgb": [
+      78,
+      78,
+      125
+    ],
+    "raw_sha256": "c2b8c50818411b09806974cbef0fee81d1ab7bfbd63aca1205aa4d75db9fb556",
+    "png_path": "docs/german-clubs-2026-27/transfermarkt-verified-20261024/1898200000738.png",
+    "sha256": "c45bfffbfe8485d02d236ab3e65434c321d0f48c3ac9a68091a972b983731780"
+  },
+  {
+    "teamId": "1898200000750",
+    "club": "TSV Pattensen",
+    "transfermarkt_id": "1878",
+    "source": "https://tmssl.akamaized.net/images/wappen/head/1878.png",
+    "source_page": "https://www.transfermarkt.de/jumplist/startseite/verein/1878",
+    "source_type": "transfermarkt_exact_profile_club_id",
+    "background_rgb": [
+      101,
+      101,
+      172
+    ],
+    "raw_sha256": "441c31f232fcb68f7e75bb8feaf4abfa400ab6b7a3b1115ef7772cd609e9e06b",
+    "png_path": "docs/german-clubs-2026-27/transfermarkt-verified-20261024/1898200000750.png",
+    "sha256": "247f8a6817c62dd754198a4e8724a2a9c1d5f17d72f35f5b92cef27aca29df9a"
+  },
+  {
+    "teamId": "1898200000752",
+    "club": "TSV Mühlenfeld",
+    "transfermarkt_id": "7986",
+    "source": "https://tmssl.akamaized.net/images/wappen/head/7986.png",
+    "source_page": "https://www.transfermarkt.de/jumplist/startseite/verein/7986",
+    "source_type": "transfermarkt_exact_profile_club_id",
+    "background_rgb": [
+      102,
+      119,
+      148
+    ],
+    "raw_sha256": "6253023f46b73ff428cf8afff4e2cbb3a92c5c81c7ac08538279c1e600556c04",
+    "png_path": "docs/german-clubs-2026-27/transfermarkt-verified-20261024/1898200000752.png",
+    "sha256": "a3ee3f8fa578253829b0a9c4fd2a8edd16b311ce202bc8d0cd7eb9bebb5b937c"
+  },
+  {
+    "teamId": "1898200000780",
+    "club": "TV Dinklage",
+    "transfermarkt_id": "21094",
+    "source": "https://tmssl.akamaized.net/images/wappen/head/21094.png",
+    "source_page": "https://www.transfermarkt.de/jumplist/startseite/verein/21094",
+    "source_type": "transfermarkt_exact_profile_club_id",
+    "background_rgb": [
+      78,
+      125,
+      172
+    ],
+    "raw_sha256": "4d43f433fffc047df8e6a0d5371bc84b511ff2a19595c9740edcce7e790b9a3c",
+    "png_path": "docs/german-clubs-2026-27/transfermarkt-verified-20261024/1898200000780.png",
+    "sha256": "8930b4b9cd9faa8b8c80dbb26ef9e84497f9936b87ad4c325662817bb5d39543"
+  },
+  {
+    "teamId": "1898200000809",
+    "club": "FV Hunsrückhöhe Morbach",
+    "transfermarkt_id": "8180",
+    "source": "https://tmssl.akamaized.net/images/wappen/head/8180.png",
+    "source_page": "https://www.transfermarkt.de/jumplist/startseite/verein/8180",
+    "source_type": "transfermarkt_exact_profile_club_id",
+    "background_rgb": [
+      243,
+      78,
+      101
+    ],
+    "raw_sha256": "8b634e63817af360a59649a7ab611abb79c6fa70ff4a818bb714d10c5f049064",
+    "png_path": "docs/german-clubs-2026-27/transfermarkt-verified-20261024/1898200000809.png",
+    "sha256": "281440988abf6fab2a3a367e372cc4fd32a3e0b962a0e8de864b4eaafd15d043"
+  },
+  {
+    "teamId": "1898200000819",
+    "club": "SG Malberg",
+    "transfermarkt_id": "1560",
+    "source": "https://tmssl.akamaized.net/images/wappen/head/1560.png",
+    "source_page": "https://www.transfermarkt.de/jumplist/startseite/verein/1560",
+    "source_type": "transfermarkt_exact_profile_club_id",
+    "background_rgb": [
+      243,
+      78,
+      78
+    ],
+    "raw_sha256": "6a3955ee41bd4f014510f9b0ca6864b6cd6703e8382c99dc44a0265a273879f9",
+    "png_path": "docs/german-clubs-2026-27/transfermarkt-verified-20261024/1898200000819.png",
+    "sha256": "c6c0755095a6b7c331a8da5974e90c9ea117b79a79d9a52e60ebc12f9c65894a"
+  },
+  {
+    "teamId": "1898200000764",
+    "club": "SV Scharmbeck-Pattensen-Axstedt",
+    "transfermarkt_id": "19209",
+    "source": "https://tmssl.akamaized.net/images/wappen/head/19209.png",
+    "source_page": "https://www.transfermarkt.de/jumplist/startseite/verein/19209",
+    "source_type": "transfermarkt_verified_federation_league_alias",
+    "official_name": "SG Scharmbeck-Pattensen-Ashausen",
+    "background_rgb": [
+      243,
+      78,
+      78
+    ],
+    "raw_sha256": "e276c14d12644bbb0555e92df515a3560bd51d36e439011edc4c9b0c355c77a0",
+    "png_path": "docs/german-clubs-2026-27/transfermarkt-verified-20261024/1898200000764.png",
+    "sha256": "929d487cd2a573a0972fa81f99c4aa5ac2e187766fed8658e22940768fddd78e"
+  }
+]
