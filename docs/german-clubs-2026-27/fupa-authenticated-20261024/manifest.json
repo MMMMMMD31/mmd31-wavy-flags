@@ -2154,5 +2154,397 @@
     ],
     "png_path": "docs/german-clubs-2026-27/fupa-authenticated-20261024/1898200000782.png",
     "sha256": "02297175a86924e29130d69b86825604bf65aa9cf13a4b27381ab5d15b6a9a9d"
+  },
+  {
+    "teamId": "1898200000785",
+    "club": "SV Altenoythe",
+    "source": "https://image.fupa.net/club/h6S6eGTJZRqr/32x32.jpeg",
+    "source_page": "https://www.fupa.net/club/sv-altenoythe",
+    "source_type": "fupa_exact_club_profile",
+    "background_rgb": [
+      220,
+      243,
+      243
+    ],
+    "png_path": "docs/german-clubs-2026-27/fupa-authenticated-20261024/1898200000785.png",
+    "sha256": "bce03e0bd0de121e9223938e57b89f61ca4956e73228a88fd02c6597351501a7"
+  },
+  {
+    "teamId": "1898200000787",
+    "club": "SV Holthausen-Biene",
+    "source": "https://image.fupa.net/club/SWIi4q4VxpnX/32x32.jpeg",
+    "source_page": "https://www.fupa.net/club/sv-holthausen-biene",
+    "source_type": "fupa_exact_club_profile",
+    "background_rgb": [
+      78,
+      125,
+      172
+    ],
+    "png_path": "docs/german-clubs-2026-27/fupa-authenticated-20261024/1898200000787.png",
+    "sha256": "3745b352b7a4e238a012515d1be016265f5096c841d95c98cd2018381c99e5cc"
+  },
+  {
+    "teamId": "1898200000788",
+    "club": "Blau-Weiß Hollage",
+    "source": "https://image.fupa.net/club/QbRvvDKlcLAW/32x32.jpeg",
+    "source_page": "https://www.fupa.net/club/blau-weiss-hollage",
+    "source_type": "fupa_exact_club_profile",
+    "background_rgb": [
+      78,
+      101,
+      149
+    ],
+    "png_path": "docs/german-clubs-2026-27/fupa-authenticated-20261024/1898200000788.png",
+    "sha256": "72fd644a26b4f2de1d2afd390dec3bfe2e18c9a611667e6284b964ffb2e47784"
+  },
+  {
+    "teamId": "1898200000790",
+    "club": "Bremen United",
+    "source": "https://image.fupa.net/club/WYU4GIbNM2Iz/32x32.jpeg",
+    "source_page": "https://www.fupa.net/club/bremen-united",
+    "source_type": "fupa_exact_club_profile",
+    "background_rgb": [
+      78,
+      125,
+      101
+    ],
+    "png_path": "docs/german-clubs-2026-27/fupa-authenticated-20261024/1898200000790.png",
+    "sha256": "f51074538e94ba038942348901f59f8f2fd79524a4d77c2e71d128af47fbca24"
+  },
+  {
+    "teamId": "1898200000791",
+    "club": "SC Borgfeld",
+    "source": "https://image.fupa.net/club/t5OUTpZfWo1G/32x32.jpeg",
+    "source_page": "https://www.fupa.net/club/sc-borgfeld",
+    "source_type": "fupa_exact_club_profile",
+    "background_rgb": [
+      220,
+      78,
+      101
+    ],
+    "png_path": "docs/german-clubs-2026-27/fupa-authenticated-20261024/1898200000791.png",
+    "sha256": "fab2c104151eab35a305425edda3d55f016b887dd9ad425ae1b8fdbb783e1d91"
+  },
+  {
+    "teamId": "1898200000793",
+    "club": "Tura Bremen",
+    "source": "https://image.fupa.net/club/bc9F8QhWcuz8/32x32.jpeg",
+    "source_page": "https://www.fupa.net/club/tura-bremen",
+    "source_type": "fupa_exact_club_profile",
+    "background_rgb": [
+      78,
+      172,
+      125
+    ],
+    "png_path": "docs/german-clubs-2026-27/fupa-authenticated-20261024/1898200000793.png",
+    "sha256": "b6467ca36d9869cc75283beb0ae3a2f0d58093306c6147bad5f80cb3117ac8ec"
+  },
+  {
+    "teamId": "1898200000794",
+    "club": "FC Sparta Bremerhaven",
+    "source": "https://image.fupa.net/club/oNBg5cXyaNry/32x32.jpeg",
+    "source_page": "https://www.fupa.net/club/fc-sparta-bremerhaven",
+    "source_type": "fupa_exact_club_profile",
+    "background_rgb": [
+      101,
+      78,
+      78
+    ],
+    "png_path": "docs/german-clubs-2026-27/fupa-authenticated-20261024/1898200000794.png",
+    "sha256": "e050be5323a7fd715d9f3f8723743f65ab2df43fc9abf5d82c3becf51cb4ae63"
+  },
+  {
+    "teamId": "1898200000796",
+    "club": "SG Findorff",
+    "source": "https://image.fupa.net/club/uLUWM5KaQxde/32x32.jpeg",
+    "source_page": "https://www.fupa.net/club/sg-findorff",
+    "source_type": "fupa_exact_club_profile",
+    "background_rgb": [
+      78,
+      78,
+      101
+    ],
+    "png_path": "docs/german-clubs-2026-27/fupa-authenticated-20261024/1898200000796.png",
+    "sha256": "415b6cbe96b63939f46048d154874c36cbacddd69c5004d0d2675c0db6e441b0"
+  },
+  {
+    "teamId": "1898200000797",
+    "club": "TuSpo Surheide",
+    "source": "https://image.fupa.net/club/ugXOPOj0vLCE/32x32.jpeg",
+    "source_page": "https://www.fupa.net/club/tuspo-surheide",
+    "source_type": "fupa_exact_club_profile",
+    "background_rgb": [
+      101,
+      101,
+      149
+    ],
+    "png_path": "docs/german-clubs-2026-27/fupa-authenticated-20261024/1898200000797.png",
+    "sha256": "f708db88c06946d466075134da311e6308797ce4efa4f0890c100a067611d20f"
+  },
+  {
+    "teamId": "1898200000799",
+    "club": "Habenhauser FV",
+    "source": "https://image.fupa.net/club/39JzAYVMs9eL/32x32.jpeg",
+    "source_page": "https://www.fupa.net/club/habenhauser-fv",
+    "source_type": "fupa_exact_club_profile",
+    "background_rgb": [
+      220,
+      243,
+      243
+    ],
+    "png_path": "docs/german-clubs-2026-27/fupa-authenticated-20261024/1898200000799.png",
+    "sha256": "105322c0e3568e28dec1c5f2d5c5d1079b8e5b9cd36770f1d8b1e224a35945c0"
+  },
+  {
+    "teamId": "1898200000801",
+    "club": "TuS Komet Arsten",
+    "source": "https://image.fupa.net/club/fMzqVDouf3ll/32x32.jpeg",
+    "source_page": "https://www.fupa.net/club/tus-komet-arsten",
+    "source_type": "fupa_exact_club_profile",
+    "background_rgb": [
+      101,
+      78,
+      78
+    ],
+    "png_path": "docs/german-clubs-2026-27/fupa-authenticated-20261024/1898200000801.png",
+    "sha256": "c80e44f35c43ac0e030a04c1f4f8da8bfa624e5587bac5462a0a8204990066ea"
+  },
+  {
+    "teamId": "1898200000802",
+    "club": "SC Vahr Blockdiek",
+    "source": "https://image.fupa.net/club/uo0Vu4iHyxvn/32x32.jpeg",
+    "source_page": "https://www.fupa.net/club/sc-vahr-blockdiek",
+    "source_type": "fupa_exact_club_profile",
+    "background_rgb": [
+      149,
+      78,
+      78
+    ],
+    "png_path": "docs/german-clubs-2026-27/fupa-authenticated-20261024/1898200000802.png",
+    "sha256": "2ecc3c35d6d9ab724e1572b7b60ef991d4648442de44467e5d1f42b211489d8b"
+  },
+  {
+    "teamId": "1898200000803",
+    "club": "TSV Hasenbüren",
+    "source": "https://image.fupa.net/club/snecM9HDcYW1/32x32.jpeg",
+    "source_page": "https://www.fupa.net/club/tsv-hasenbueren",
+    "source_type": "fupa_exact_club_profile",
+    "background_rgb": [
+      149,
+      78,
+      101
+    ],
+    "png_path": "docs/german-clubs-2026-27/fupa-authenticated-20261024/1898200000803.png",
+    "sha256": "b758502b59901482b7a654ac7aa2504f80ffb4d56efbe91a0cf71f92d137570c"
+  },
+  {
+    "teamId": "1898200000804",
+    "club": "VfL 07 Bremen",
+    "source": "https://image.fupa.net/club/itNkU7lFeIrE/32x32.jpeg",
+    "source_page": "https://www.fupa.net/club/vfl-07-bremen",
+    "source_type": "fupa_exact_club_profile",
+    "background_rgb": [
+      172,
+      196,
+      149
+    ],
+    "png_path": "docs/german-clubs-2026-27/fupa-authenticated-20261024/1898200000804.png",
+    "sha256": "d43c8a3824bbeae748d08803148b0caebfaff0adba5d2c2943bf0ebac85cae25"
+  },
+  {
+    "teamId": "1898200000805",
+    "club": "ATSV Sebaldsbrück",
+    "source": "https://image.fupa.net/club/X1StmLo3cdGP/32x32.jpeg",
+    "source_page": "https://www.fupa.net/club/atsv-sebaldsbrueck",
+    "source_type": "fupa_exact_club_profile",
+    "background_rgb": [
+      243,
+      243,
+      125
+    ],
+    "png_path": "docs/german-clubs-2026-27/fupa-authenticated-20261024/1898200000805.png",
+    "sha256": "3253591ba317ce80a45a962a68fcea141aeb687957da924955d093cfaa1ad86b"
+  },
+  {
+    "teamId": "1898200000806",
+    "club": "SG 2000 Mülheim-Kärlich",
+    "source": "https://image.fupa.net/club/7GFMEk37he9c/32x32.jpeg",
+    "source_page": "https://www.fupa.net/club/sg-2000-muelheim-kaerlich",
+    "source_type": "fupa_exact_club_profile",
+    "background_rgb": [
+      78,
+      125,
+      101
+    ],
+    "png_path": "docs/german-clubs-2026-27/fupa-authenticated-20261024/1898200000806.png",
+    "sha256": "da2fe9caaaa2222be8d98b9be5ef4b2f31e1b3cc3407686f4809c0e5aa035b78"
+  },
+  {
+    "teamId": "1898200000807",
+    "club": "SG Hochwald 2023",
+    "source": "https://image.fupa.net/club/WRunDopY12TR/32x32.jpeg",
+    "source_page": "https://www.fupa.net/club/sg-hochwald-2023",
+    "source_type": "fupa_exact_club_profile",
+    "background_rgb": [
+      101,
+      101,
+      125
+    ],
+    "png_path": "docs/german-clubs-2026-27/fupa-authenticated-20261024/1898200000807.png",
+    "sha256": "e27f23a6a8b8e566b91375fff7a215a1e3a90a23d2cb0ba470b1de9cfaf8f4c1"
+  },
+  {
+    "teamId": "1898200000812",
+    "club": "SV Laubach",
+    "source": "https://image.fupa.net/club/yreR1fulG5Db/32x32.jpeg",
+    "source_page": "https://www.fupa.net/club/sv-laubach",
+    "source_type": "fupa_exact_club_profile",
+    "background_rgb": [
+      78,
+      78,
+      101
+    ],
+    "png_path": "docs/german-clubs-2026-27/fupa-authenticated-20261024/1898200000812.png",
+    "sha256": "2d60ef354a977c926ed1a172356a10db132f3b2036578a1880e3bdc53c9bbab6"
+  },
+  {
+    "teamId": "1898200000813",
+    "club": "FSV Trier-Tarforst",
+    "source": "https://image.fupa.net/club/DedzcZ4Qpodw/32x32.jpeg",
+    "source_page": "https://www.fupa.net/club/fsv-trier-tarforst",
+    "source_type": "fupa_exact_club_profile",
+    "background_rgb": [
+      78,
+      78,
+      125
+    ],
+    "png_path": "docs/german-clubs-2026-27/fupa-authenticated-20261024/1898200000813.png",
+    "sha256": "045aaec93d3c0f7b6cd36702e512350114776a49ac5b365b1c949fed19452cdf"
+  },
+  {
+    "teamId": "1898200000814",
+    "club": "SG Schneifel 2006",
+    "source": "https://image.fupa.net/club/YGCIanCmFIqg/32x32.jpeg",
+    "source_page": "https://www.fupa.net/club/sg-schneifel-2006",
+    "source_type": "fupa_exact_club_profile",
+    "background_rgb": [
+      125,
+      78,
+      78
+    ],
+    "png_path": "docs/german-clubs-2026-27/fupa-authenticated-20261024/1898200000814.png",
+    "sha256": "c7b3398d122f836c166f718995b1090e017139599af690b9bfb725c8566c12f3"
+  },
+  {
+    "teamId": "1898200000815",
+    "club": "SG 99 Andernach",
+    "source": "https://image.fupa.net/club/2ECX2p6JpSq3/32x32.jpeg",
+    "source_page": "https://www.fupa.net/club/sg-99-andernach",
+    "source_type": "fupa_exact_club_profile",
+    "background_rgb": [
+      149,
+      172,
+      196
+    ],
+    "png_path": "docs/german-clubs-2026-27/fupa-authenticated-20261024/1898200000815.png",
+    "sha256": "1890de87409975774cdf2284133d4da89f439ede3ef808f1b8cd8d092f7592fd"
+  },
+  {
+    "teamId": "1898200000817",
+    "club": "TuS Mosella Schweich",
+    "source": "https://image.fupa.net/club/vLXCCVkR3yV8/32x32.jpeg",
+    "source_page": "https://www.fupa.net/club/tus-mosella-schweich",
+    "source_type": "fupa_exact_club_profile",
+    "background_rgb": [
+      78,
+      101,
+      243
+    ],
+    "png_path": "docs/german-clubs-2026-27/fupa-authenticated-20261024/1898200000817.png",
+    "sha256": "916a5985ed044383edf40609f0c168274d497d817b574a4ee291f429a68d5eef"
+  },
+  {
+    "teamId": "1898200000818",
+    "club": "SG 06 Betzdorf",
+    "source": "https://image.fupa.net/club/I8mNwVrSgUuH/32x32.jpeg",
+    "source_page": "https://www.fupa.net/club/sg-06-betzdorf",
+    "source_type": "fupa_exact_club_profile",
+    "background_rgb": [
+      78,
+      101,
+      78
+    ],
+    "png_path": "docs/german-clubs-2026-27/fupa-authenticated-20261024/1898200000818.png",
+    "sha256": "13dcb73bb34b90d0b1f852799072fc57459801e51997de625160c38d0a757132"
+  },
+  {
+    "teamId": "1898200000820",
+    "club": "SV Untermosel Kobern-Gondorf",
+    "source": "https://image.fupa.net/club/3qJnwHjUyuNe/32x32.jpeg",
+    "source_page": "https://www.fupa.net/club/sv-untermosel-kobern-gondorf",
+    "source_type": "fupa_exact_club_profile",
+    "background_rgb": [
+      220,
+      101,
+      101
+    ],
+    "png_path": "docs/german-clubs-2026-27/fupa-authenticated-20261024/1898200000820.png",
+    "sha256": "31776a7a9a5c2f1c1b2471dfaf4ed29bfc6454f3f0e9598c271a3676c998b48f"
+  },
+  {
+    "teamId": "1898200000823",
+    "club": "TuS Mayen",
+    "source": "https://image.fupa.net/club/fM2ggGFzU2Pa/32x32.jpeg",
+    "source_page": "https://www.fupa.net/club/tus-mayen",
+    "source_type": "fupa_exact_club_profile",
+    "background_rgb": [
+      125,
+      78,
+      78
+    ],
+    "png_path": "docs/german-clubs-2026-27/fupa-authenticated-20261024/1898200000823.png",
+    "sha256": "98f6d9ec94361080e9f7ddc8045244ba33cef90b02db144081e042c7a9413a72"
+  },
+  {
+    "teamId": "1898200000007",
+    "club": "PSV Union Neumünster",
+    "source": "https://image.fupa.net/club/coErqYHEP3R2/32x32.jpeg",
+    "source_page": "https://www.fupa.net/club/polizei-sv-union-neumuenster",
+    "source_type": "fupa_exact_club_profile",
+    "background_rgb": [
+      243,
+      196,
+      196
+    ],
+    "png_path": "docs/german-clubs-2026-27/fupa-authenticated-20261024/1898200000007.png",
+    "sha256": "2ee39f2a307f075db58813fdbed984703865c69838254404aea53f811b4b76ff"
+  },
+  {
+    "teamId": "1898200000009",
+    "club": "Kaltenkirchener TS",
+    "source": "https://image.fupa.net/club/tZvDzu77JVMW/32x32.jpeg",
+    "source_page": "https://www.fupa.net/club/kaltenkirchener-turnerschaft",
+    "source_type": "fupa_exact_club_profile",
+    "background_rgb": [
+      220,
+      78,
+      101
+    ],
+    "png_path": "docs/german-clubs-2026-27/fupa-authenticated-20261024/1898200000009.png",
+    "sha256": "1ad6c32cfd0593c2bf12fbb42fd43ddaea85aac6a1e0bff828e05ca5a72e6793"
+  },
+  {
+    "teamId": "1898200000012",
+    "club": "Oldenburger SV",
+    "source": "https://image.fupa.net/club/Qwg6JTyahI1K/32x32.jpeg",
+    "source_page": "https://www.fupa.net/club/oldenburger-sv-1865",
+    "source_type": "fupa_exact_club_profile",
+    "background_rgb": [
+      196,
+      220,
+      243
+    ],
+    "png_path": "docs/german-clubs-2026-27/fupa-authenticated-20261024/1898200000012.png",
+    "sha256": "07d541c4c392b08418b4433f18e61c735d809c6bf3a9628423e26ef1156a9958"
   }
 ]
