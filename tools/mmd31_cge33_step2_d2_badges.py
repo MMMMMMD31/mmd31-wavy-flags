@@ -75,6 +75,10 @@ def img(data):
  return None
 def retrieve(country,n,slug,name):
  candidates=[]
+ if country=="croatia":
+  # Croatian public club-crest CDN; path must identify this exact club.
+  for variant in [slug,"nk-"+slug,"hnk-"+slug]:
+   candidates.append("https://c.ff.hr/logos/"+variant+".png")
  if n:candidates.append("https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/"+country+"/"+urllib.parse.quote(n))
  candidates.append("https://assets.footylogos.com/logos/"+slug+"/"+slug+"-logo-footylogos.svg")
  for stem in [slug,slug.removeprefix("nk-").removeprefix("fk-"),slug.removeprefix("hnk-")]:
