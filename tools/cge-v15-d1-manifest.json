@@ -1,0 +1,491 @@
+{
+  "season_reference": "October 24 2026",
+  "clubs": [
+    {
+      "id": 1906100000001,
+      "name": "Noah",
+      "country": "armenia",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/armenia/Noah.svg",
+      "source_type": "SVG source repository",
+      "confirmed_name": true
+    },
+    {
+      "id": 1906100000002,
+      "name": "Pyunik",
+      "country": "armenia",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/armenia/Pyunik.svg",
+      "source_type": "SVG source repository",
+      "confirmed_name": true
+    },
+    {
+      "id": 1906100000003,
+      "name": "Ararat-Armenia",
+      "country": "armenia",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/armenia/Ararat-Armenia.svg",
+      "source_type": "SVG source repository",
+      "confirmed_name": true
+    },
+    {
+      "id": 1906100000004,
+      "name": "Alashkert",
+      "country": "armenia",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/armenia/Alashkert.svg",
+      "source_type": "SVG source repository",
+      "confirmed_name": true
+    },
+    {
+      "id": 1906100000005,
+      "name": "Urartu",
+      "country": "armenia",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/armenia/Urartu.svg",
+      "source_type": "SVG source repository",
+      "confirmed_name": true
+    },
+    {
+      "id": 1906100000006,
+      "name": "Sardarapat",
+      "country": "armenia",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/armenia/Sardarapat_FC.svg",
+      "source_type": "SVG source repository",
+      "confirmed_name": true
+    },
+    {
+      "id": 1906100000007,
+      "name": "Shirak",
+      "country": "armenia",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/armenia/Shirak.svg",
+      "source_type": "SVG source repository",
+      "confirmed_name": true
+    },
+    {
+      "id": 1906100000008,
+      "name": "Ararat",
+      "country": "armenia",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/armenia/Ararat.svg",
+      "source_type": "SVG source repository",
+      "confirmed_name": true
+    },
+    {
+      "id": 1906100000009,
+      "name": "BKMA Yerevan",
+      "country": "armenia",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/armenia/BKMA_Yerevan.svg",
+      "source_type": "SVG source repository",
+      "confirmed_name": true
+    },
+    {
+      "id": 1906100000010,
+      "name": "Van",
+      "country": "armenia",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/armenia/Van.svg",
+      "source_type": "SVG source repository",
+      "confirmed_name": true
+    },
+    {
+      "id": 1906100000011,
+      "name": "Syunik",
+      "country": "armenia",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/armenia/FC_Syunik.svg",
+      "source_type": "SVG source repository",
+      "confirmed_name": true
+    },
+    {
+      "id": 1906100000012,
+      "name": "Gandzasar",
+      "country": "armenia",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/armenia/Gandzasar.svg",
+      "source_type": "SVG source repository",
+      "confirmed_name": true
+    },
+    {
+      "id": 1906200000001,
+      "name": "Neftçi",
+      "country": "azerbaijan",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/azerbaijan/Neft%C3%A7i.svg",
+      "source_type": "SVG source repository",
+      "confirmed_name": true
+    },
+    {
+      "id": 1906200000002,
+      "name": "Sabah",
+      "country": "azerbaijan",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/azerbaijan/Sabah.svg",
+      "source_type": "SVG source repository",
+      "confirmed_name": true
+    },
+    {
+      "id": 1906200000003,
+      "name": "Qarabağ",
+      "country": "azerbaijan",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/azerbaijan/Qaraba%C4%9F.svg",
+      "source_type": "SVG source repository",
+      "confirmed_name": true
+    },
+    {
+      "id": 1906200000004,
+      "name": "Turan Tovuz",
+      "country": "azerbaijan",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/azerbaijan/Turan_Tovuz.svg",
+      "source_type": "SVG source repository",
+      "confirmed_name": true
+    },
+    {
+      "id": 1906200000005,
+      "name": "Zirə",
+      "country": "azerbaijan",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/azerbaijan/Zire.svg",
+      "source_type": "SVG source repository",
+      "confirmed_name": true
+    },
+    {
+      "id": 1906200000006,
+      "name": "Kəpəz",
+      "country": "azerbaijan",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/azerbaijan/K%C3%A4p%C3%A4z.svg",
+      "source_type": "SVG source repository",
+      "confirmed_name": true
+    },
+    {
+      "id": 1906200000007,
+      "name": "Şamaxı",
+      "country": "azerbaijan",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/azerbaijan/%C5%9Eamax%C4%B1.svg",
+      "source_type": "SVG source repository",
+      "confirmed_name": true
+    },
+    {
+      "id": 1906200000008,
+      "name": "Sumqayıt",
+      "country": "azerbaijan",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/azerbaijan/Sumqay%C4%B1t.svg",
+      "source_type": "SVG source repository",
+      "confirmed_name": true
+    },
+    {
+      "id": 1906200000009,
+      "name": "İmişli",
+      "country": "azerbaijan",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/azerbaijan/%C4%B0mi%C5%9Fli.svg",
+      "source_type": "SVG source repository",
+      "confirmed_name": true
+    },
+    {
+      "id": 1906200000010,
+      "name": "Qəbələ",
+      "country": "azerbaijan",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/azerbaijan/Gabala.svg",
+      "source_type": "SVG source repository",
+      "confirmed_name": true
+    },
+    {
+      "id": 1906200000011,
+      "name": "Şəfa Bakı",
+      "country": "azerbaijan",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/azerbaijan/Shafa_Baku.svg",
+      "source_type": "SVG source repository",
+      "confirmed_name": true
+    },
+    {
+      "id": 1906200000012,
+      "name": "Araz-Naxçıvan",
+      "country": "azerbaijan",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/azerbaijan/Araz-Nax%C3%A7%C4%B1van_PFK.svg",
+      "source_type": "SVG source repository",
+      "confirmed_name": true
+    },
+    {
+      "id": 1906300000001,
+      "name": "Ordabasy",
+      "country": "kazakhstan",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/kazakhstan/Ordabasy.svg",
+      "source_type": "SVG source repository",
+      "confirmed_name": true
+    },
+    {
+      "id": 1906300000002,
+      "name": "Qairat",
+      "country": "kazakhstan",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/kazakhstan/Kairat.svg",
+      "source_type": "SVG source repository",
+      "confirmed_name": true
+    },
+    {
+      "id": 1906300000003,
+      "name": "Astana",
+      "country": "kazakhstan",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/kazakhstan/Astana.svg",
+      "source_type": "SVG source repository",
+      "confirmed_name": true
+    },
+    {
+      "id": 1906300000004,
+      "name": "Aqtöbe",
+      "country": "kazakhstan",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/kazakhstan/Aktobe.svg",
+      "source_type": "SVG source repository",
+      "confirmed_name": true
+    },
+    {
+      "id": 1906300000005,
+      "name": "Oqjetpes",
+      "country": "kazakhstan",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/kazakhstan/Okzhetpes.svg",
+      "source_type": "SVG source repository",
+      "confirmed_name": true
+    },
+    {
+      "id": 1906300000006,
+      "name": "Elımai",
+      "country": "kazakhstan",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/kazakhstan/Yelimay.svg",
+      "source_type": "SVG source repository",
+      "confirmed_name": true
+    },
+    {
+      "id": 1906300000007,
+      "name": "Tobyl",
+      "country": "kazakhstan",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/kazakhstan/Tobol.svg",
+      "source_type": "SVG source repository",
+      "confirmed_name": true
+    },
+    {
+      "id": 1906300000008,
+      "name": "Ulytaw",
+      "country": "kazakhstan",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/kazakhstan/Ulytau.svg",
+      "source_type": "SVG source repository",
+      "confirmed_name": true
+    },
+    {
+      "id": 1906300000009,
+      "name": "Jeñıs",
+      "country": "kazakhstan",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/kazakhstan/Jenis.svg",
+      "source_type": "SVG source repository",
+      "confirmed_name": true
+    },
+    {
+      "id": 1906300000010,
+      "name": "Kaspi",
+      "country": "kazakhstan",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/kazakhstan/Kaspiy.svg",
+      "source_type": "SVG source repository",
+      "confirmed_name": true
+    },
+    {
+      "id": 1906300000011,
+      "name": "Qyzyljar",
+      "country": "kazakhstan",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/kazakhstan/Kyzylzhar.svg",
+      "source_type": "SVG source repository",
+      "confirmed_name": true
+    },
+    {
+      "id": 1906300000012,
+      "name": "Atyraw",
+      "country": "kazakhstan",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/kazakhstan/Atyrau.svg",
+      "source_type": "SVG source repository",
+      "confirmed_name": true
+    },
+    {
+      "id": 1906300000013,
+      "name": "Ertıs",
+      "country": "kazakhstan",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/kazakhstan/Irtysh.svg",
+      "source_type": "SVG source repository",
+      "confirmed_name": true
+    },
+    {
+      "id": 1906300000014,
+      "name": "Altai Öskemen",
+      "country": "kazakhstan",
+      "source": "https://kaz-football.kz/images/ust24.jpg",
+      "source_type": "2026 FC Altai emblem from Kazakhstan football club page",
+      "confirmed_name": true
+    },
+    {
+      "id": 1906300000015,
+      "name": "Qaisar",
+      "country": "kazakhstan",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/kazakhstan/Kaysar.svg",
+      "source_type": "SVG source repository",
+      "confirmed_name": true
+    },
+    {
+      "id": 1906300000016,
+      "name": "Jetısū",
+      "country": "kazakhstan",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/kazakhstan/Jetisu.svg",
+      "source_type": "SVG source repository",
+      "confirmed_name": true
+    },
+    {
+      "id": 1906400000001,
+      "name": "Galatasaray",
+      "country": "turkey",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Galatasaray.svg",
+      "source_type": "SVG source repository",
+      "confirmed_name": true
+    },
+    {
+      "id": 1906400000002,
+      "name": "Amed Sportif Faaliyetler",
+      "country": "turkey",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Amed_SFK.svg",
+      "source_type": "SVG source repository",
+      "confirmed_name": true
+    },
+    {
+      "id": 1906400000003,
+      "name": "Fenerbahçe",
+      "country": "turkey",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Fenerbah%C3%A7e.svg",
+      "source_type": "SVG source repository",
+      "confirmed_name": true
+    },
+    {
+      "id": 1906400000004,
+      "name": "Trabzonspor",
+      "country": "turkey",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Trabzonspor.svg",
+      "source_type": "SVG source repository",
+      "confirmed_name": true
+    },
+    {
+      "id": 1906400000005,
+      "name": "Kasımpaşa",
+      "country": "turkey",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Kas%C4%B1mpa%C5%9Fa.svg",
+      "source_type": "SVG source repository",
+      "confirmed_name": true
+    },
+    {
+      "id": 1906400000006,
+      "name": "Beşiktaş",
+      "country": "turkey",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Be%C5%9Fikta%C5%9F.svg",
+      "source_type": "SVG source repository",
+      "confirmed_name": true
+    },
+    {
+      "id": 1906400000007,
+      "name": "Kocaelispor",
+      "country": "turkey",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Kocaelispor.svg",
+      "source_type": "SVG source repository",
+      "confirmed_name": true
+    },
+    {
+      "id": 1906400000008,
+      "name": "Erzurumspor FK",
+      "country": "turkey",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/erzurumspor.svg",
+      "source_type": "SVG source repository",
+      "confirmed_name": true
+    },
+    {
+      "id": 1906400000009,
+      "name": "Çorum FK",
+      "country": "turkey",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/%C3%87orum_FK.svg",
+      "source_type": "SVG source repository",
+      "confirmed_name": true
+    },
+    {
+      "id": 1906400000010,
+      "name": "Alanyaspor",
+      "country": "turkey",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Alanyaspor.svg",
+      "source_type": "SVG source repository",
+      "confirmed_name": true
+    },
+    {
+      "id": 1906400000011,
+      "name": "İstanbul Başakşehir",
+      "country": "turkey",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Ba%C5%9Fak%C5%9Fehir.svg",
+      "source_type": "SVG source repository",
+      "confirmed_name": true
+    },
+    {
+      "id": 1906400000012,
+      "name": "Çaykur Rizespor",
+      "country": "turkey",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/%C3%87aykur_Rizespor.svg",
+      "source_type": "SVG source repository",
+      "confirmed_name": true
+    },
+    {
+      "id": 1906400000013,
+      "name": "Göztepe",
+      "country": "turkey",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/G%C3%B6ztepe_Izmir.svg",
+      "source_type": "SVG source repository",
+      "confirmed_name": true
+    },
+    {
+      "id": 1906400000014,
+      "name": "Gaziantep FK",
+      "country": "turkey",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Gaziantep.svg",
+      "source_type": "SVG source repository",
+      "confirmed_name": true
+    },
+    {
+      "id": 1906400000015,
+      "name": "Gençlerbirliği",
+      "country": "turkey",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Gen%C3%A7lerbirli%C4%9Fi.svg",
+      "source_type": "SVG source repository",
+      "confirmed_name": true
+    },
+    {
+      "id": 1906400000016,
+      "name": "Konyaspor",
+      "country": "turkey",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Konyaspor.svg",
+      "source_type": "SVG source repository",
+      "confirmed_name": true
+    },
+    {
+      "id": 1906400000017,
+      "name": "Samsunspor",
+      "country": "turkey",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Samsunspor.svg",
+      "source_type": "SVG source repository",
+      "confirmed_name": true
+    },
+    {
+      "id": 1906400000018,
+      "name": "Eyüpspor",
+      "country": "turkey",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Ey%C3%BCpspor.svg",
+      "source_type": "SVG source repository",
+      "confirmed_name": true
+    }
+  ],
+  "federations": [
+    {
+      "country": "armenia",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/armenia/Armenia_National_Team.svg",
+      "status": "national team emblem source, federation identity to confirm visually"
+    },
+    {
+      "country": "azerbaijan",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/azerbaijan/Azerbaijan_National_Team.svg",
+      "status": "national team emblem source, federation identity to confirm visually"
+    },
+    {
+      "country": "kazakhstan",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/kazakhstan/Kazakhstan_National_Team.svg",
+      "status": "national team emblem source, federation identity to confirm visually"
+    },
+    {
+      "country": "turkey",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Turkish_Football_Federation.svg",
+      "status": "national team emblem source, federation identity to confirm visually"
+    }
+  ]
+}
