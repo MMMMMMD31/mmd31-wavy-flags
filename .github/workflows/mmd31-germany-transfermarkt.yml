@@ -6,6 +6,7 @@ on:
       - mmd31-germany-tm-final-56-20261024
     paths:
       - tools/mmd31_transfermarkt_germany_badges.py
+      - tools/mmd31_germany_tm_verified_55.csv
       - .github/workflows/mmd31-germany-transfermarkt.yml
 
 permissions:

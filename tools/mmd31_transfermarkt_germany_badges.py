@@ -58,7 +58,12 @@ def load_badge(row: dict) -> dict:
                 "transfermarkt_id": club_id,
                 "source": res.url,
                 "source_page": f"https://www.transfermarkt.de/jumplist/startseite/verein/{club_id}",
-                "source_type": "transfermarkt_exact_profile_club_id",
+                "source_type": ("transfermarkt_verified_federation_league_alias"
+                                if row["club"] == "SV Scharmbeck-Pattensen-Axstedt"
+                                else "transfermarkt_exact_profile_club_id"),
+                "official_name": ("SG Scharmbeck-Pattensen-Ashausen"
+                                  if row["club"] == "SV Scharmbeck-Pattensen-Axstedt"
+                                  else row["club"]),
                 "background_rgb": bg,
                 "raw_sha256": hashlib.sha256(res.content).hexdigest(),
                 "_image": image,
