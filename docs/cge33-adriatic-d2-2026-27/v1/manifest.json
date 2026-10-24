@@ -1,0 +1,570 @@
+{
+  "edition": "2026-27",
+  "records": [
+    {
+      "teamId": 1942700200000,
+      "name": "ND Primorje",
+      "country": "slovenia",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/slovenia/Primorje.svg",
+      "sourceCandidate": "Primorje.svg",
+      "status": "PNG_REAL_SOURCE_CANDIDATE",
+      "sha256": "8635493bf36df6b90d1417042e6f2e10187cd7c8fbfa3201420978680c9369f7",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background": "#A9D0B7"
+    },
+    {
+      "teamId": 1942700200001,
+      "name": "NK Triglav Kranj",
+      "country": "slovenia",
+      "source": null,
+      "sourceCandidate": "triglav-kranj",
+      "status": "MISSING_REAL_CREST"
+    },
+    {
+      "teamId": 1942700200002,
+      "name": "ND Beltinci",
+      "country": "slovenia",
+      "source": null,
+      "sourceCandidate": "beltinci",
+      "status": "MISSING_REAL_CREST"
+    },
+    {
+      "teamId": 1942700200003,
+      "name": "NK Tabor Sežana",
+      "country": "slovenia",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/slovenia/Tabor.svg",
+      "sourceCandidate": "Tabor.svg",
+      "status": "PNG_REAL_SOURCE_CANDIDATE",
+      "sha256": "173d0ea657b84b6beb229847cbe9a9e97871bb81a99db40b80a1dc371307f0c9",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background": "#A9D0B7"
+    },
+    {
+      "teamId": 1942700200004,
+      "name": "NK Bistrica",
+      "country": "slovenia",
+      "source": null,
+      "sourceCandidate": "bistrica",
+      "status": "MISSING_REAL_CREST"
+    },
+    {
+      "teamId": 1942700200005,
+      "name": "ND Dravinja",
+      "country": "slovenia",
+      "source": null,
+      "sourceCandidate": "dravinja",
+      "status": "MISSING_REAL_CREST"
+    },
+    {
+      "teamId": 1942700200006,
+      "name": "NK Rudar Velenje",
+      "country": "slovenia",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/slovenia/Rudar_Velenje.svg",
+      "sourceCandidate": "Rudar_Velenje.svg",
+      "status": "PNG_REAL_SOURCE_CANDIDATE",
+      "sha256": "0276345fa6a0c8379c2ee798227856b513ecfad64553fbbf40b0e0313ac28f33",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background": "#A9D0B7"
+    },
+    {
+      "teamId": 1942700200007,
+      "name": "ND Bilje",
+      "country": "slovenia",
+      "source": null,
+      "sourceCandidate": "bilje",
+      "status": "MISSING_REAL_CREST"
+    },
+    {
+      "teamId": 1942700200008,
+      "name": "NK Jadran Dekani",
+      "country": "slovenia",
+      "source": null,
+      "sourceCandidate": "jadran-dekani",
+      "status": "MISSING_REAL_CREST"
+    },
+    {
+      "teamId": 1942700200009,
+      "name": "ND Slovan",
+      "country": "slovenia",
+      "source": null,
+      "sourceCandidate": "slovan-ljubljana",
+      "status": "MISSING_REAL_CREST"
+    },
+    {
+      "teamId": 1942700200010,
+      "name": "NK Krka",
+      "country": "slovenia",
+      "source": null,
+      "sourceCandidate": "krka",
+      "status": "MISSING_REAL_CREST"
+    },
+    {
+      "teamId": 1942700200011,
+      "name": "ND Ilirija 1911",
+      "country": "slovenia",
+      "source": null,
+      "sourceCandidate": "ilirija-1911",
+      "status": "MISSING_REAL_CREST"
+    },
+    {
+      "teamId": 1942700200012,
+      "name": "NK Krško Posavje",
+      "country": "slovenia",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/slovenia/Kr%C5%A1ko.svg",
+      "sourceCandidate": "Krško.svg",
+      "status": "PNG_REAL_SOURCE_CANDIDATE",
+      "sha256": "e8e1fa39cdfce1240e5fb9d8e62a59f37d266a33f4228f9b0c90fe9f5de40d63",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background": "#A9D0B7"
+    },
+    {
+      "teamId": 1942700200013,
+      "name": "ŠD Jesenice",
+      "country": "slovenia",
+      "source": null,
+      "sourceCandidate": "jesenice",
+      "status": "MISSING_REAL_CREST"
+    },
+    {
+      "teamId": 1942700200014,
+      "name": "NK Brežice 1919",
+      "country": "slovenia",
+      "source": null,
+      "sourceCandidate": "brezice-1919",
+      "status": "MISSING_REAL_CREST"
+    },
+    {
+      "teamId": 1942700200015,
+      "name": "NK Vrhnika",
+      "country": "slovenia",
+      "source": null,
+      "sourceCandidate": "vrhnika",
+      "status": "MISSING_REAL_CREST"
+    },
+    {
+      "teamId": 1942700200100,
+      "name": "NK Sesvete",
+      "country": "croatia",
+      "source": "https://c.ff.hr/logos/sesvete.png",
+      "sourceCandidate": "sesvete",
+      "status": "PNG_REAL_SOURCE_CANDIDATE",
+      "sha256": "8fb131f012e289df6665a498fabda267eca4d016874b9e1541e0d684b426365a",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background": "#B7CDEA"
+    },
+    {
+      "teamId": 1942700200101,
+      "name": "NK Dugopolje",
+      "country": "croatia",
+      "source": "https://c.ff.hr/logos/dugopolje.png",
+      "sourceCandidate": "NK_Dugopolje.svg",
+      "status": "PNG_REAL_SOURCE_CANDIDATE",
+      "sha256": "40b0fec0246b6fa0008fc6b22152873bc2807c2f3209ea765fa46168b7e22077",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background": "#B7CDEA"
+    },
+    {
+      "teamId": 1942700200102,
+      "name": "NK Mladost Ždralovi",
+      "country": "croatia",
+      "source": "https://c.ff.hr/logos/mladost-zdralovi.png",
+      "sourceCandidate": "mladost-zdralovi",
+      "status": "PNG_REAL_SOURCE_CANDIDATE",
+      "sha256": "4f71a4f3aba4efbc28e878aa415d886ff98fc4a7e726c0e33032fd3b7761815a",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background": "#B7CDEA"
+    },
+    {
+      "teamId": 1942700200103,
+      "name": "HNK Segesta",
+      "country": "croatia",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/croatia/HNK_Segesta_Sisak.svg",
+      "sourceCandidate": "HNK_Segesta_Sisak.svg",
+      "status": "PNG_REAL_SOURCE_CANDIDATE",
+      "sha256": "c7f1676c48e0185d71e555d90e995cfe22fa692c0529eda312de311d9587b762",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background": "#B7CDEA"
+    },
+    {
+      "teamId": 1942700200104,
+      "name": "GNK Dinamo Zagreb II",
+      "country": "croatia",
+      "source": "https://c.ff.hr/logos/dinamo-zagreb.png",
+      "sourceCandidate": "GNK_Dinamo_Zagreb.svg",
+      "status": "PNG_REAL_SOURCE_CANDIDATE",
+      "sha256": "3a681c2128f266b8d27bf39408d5aac91f209c71c64b681a712a69c7bde9d195",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background": "#B7CDEA"
+    },
+    {
+      "teamId": 1942700200105,
+      "name": "HNK Cibalia",
+      "country": "croatia",
+      "source": null,
+      "sourceCandidate": "cibalia",
+      "status": "MISSING_REAL_CREST"
+    },
+    {
+      "teamId": 1942700200106,
+      "name": "NK Croatia Zmijavci",
+      "country": "croatia",
+      "source": "https://c.ff.hr/logos/croatia-zmijavci.png",
+      "sourceCandidate": "croatia-zmijavci",
+      "status": "PNG_REAL_SOURCE_CANDIDATE",
+      "sha256": "0da5ae8a525154e8649b792238551211e51a7c37450fdd539a8b2fca3c6c3912",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background": "#B7CDEA"
+    },
+    {
+      "teamId": 1942700200107,
+      "name": "NK Jadran Luka Ploče",
+      "country": "croatia",
+      "source": "https://c.ff.hr/logos/jadran-luka-ploce.png",
+      "sourceCandidate": "jadran-luka-ploce",
+      "status": "PNG_REAL_SOURCE_CANDIDATE",
+      "sha256": "10fb737d6f150374cc36057f6160609e0a845e93c9d0ffc46bfabb6c07db03a9",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background": "#B7CDEA"
+    },
+    {
+      "teamId": 1942700200108,
+      "name": "NK Opatija",
+      "country": "croatia",
+      "source": "https://c.ff.hr/logos/opatija.png",
+      "sourceCandidate": "opatija",
+      "status": "PNG_REAL_SOURCE_CANDIDATE",
+      "sha256": "93086f2094409ae6da6f4ac7b3c3e3ec22e8570cadf233748cd6efa3d8bea0c6",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background": "#B7CDEA"
+    },
+    {
+      "teamId": 1942700200109,
+      "name": "NK Hrvace",
+      "country": "croatia",
+      "source": null,
+      "sourceCandidate": "hrvace",
+      "status": "MISSING_REAL_CREST"
+    },
+    {
+      "teamId": 1942700200110,
+      "name": "NK Dubrava Tim Kabel",
+      "country": "croatia",
+      "source": "https://c.ff.hr/logos/dubrava.png",
+      "sourceCandidate": "dubrava",
+      "status": "PNG_REAL_SOURCE_CANDIDATE",
+      "sha256": "451a6907e7be41db2639b560726f34f72da64e63af7370281678e5cabfd37d65",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background": "#B7CDEA"
+    },
+    {
+      "teamId": 1942700200111,
+      "name": "NK BSK Bijelo Brdo",
+      "country": "croatia",
+      "source": null,
+      "sourceCandidate": "bsk-bijelo-brdo",
+      "status": "MISSING_REAL_CREST"
+    },
+    {
+      "teamId": 1942700200112,
+      "name": "HNK Orijent",
+      "country": "croatia",
+      "source": null,
+      "sourceCandidate": "orijent",
+      "status": "MISSING_REAL_CREST"
+    },
+    {
+      "teamId": 1942700200113,
+      "name": "HNK Vukovar 1991",
+      "country": "croatia",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/croatia/HNK_Vukovar.svg",
+      "sourceCandidate": "HNK_Vukovar.svg",
+      "status": "PNG_REAL_SOURCE_CANDIDATE",
+      "sha256": "21b5722b7b4a6d7f83724d1c2ea9e78b1b0f03b9c000af80a695e806ac5892cb",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background": "#B7CDEA"
+    },
+    {
+      "teamId": 1942700200114,
+      "name": "NK Kustošija",
+      "country": "croatia",
+      "source": null,
+      "sourceCandidate": "kustosija",
+      "status": "MISSING_REAL_CREST"
+    },
+    {
+      "teamId": 1942700200115,
+      "name": "NK Karlovac 1919",
+      "country": "croatia",
+      "source": null,
+      "sourceCandidate": "karlovac-1919",
+      "status": "MISSING_REAL_CREST"
+    },
+    {
+      "teamId": 1942700200200,
+      "name": "FK Jedinstvo Bijelo Polje",
+      "country": "montenegro",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/montenegro/FK_Jedinstvo_Bijelo_Polje.svg",
+      "sourceCandidate": "FK_Jedinstvo_Bijelo_Polje.svg",
+      "status": "PNG_REAL_SOURCE_CANDIDATE",
+      "sha256": "8d8b1c571de4eca544506b9f3d8a200235fff0ac8d86493900caa7723aef3431",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background": "#BAD1E8"
+    },
+    {
+      "teamId": 1942700200201,
+      "name": "OFK Grbalj",
+      "country": "montenegro",
+      "source": null,
+      "sourceCandidate": "grbalj",
+      "status": "MISSING_REAL_CREST"
+    },
+    {
+      "teamId": 1942700200202,
+      "name": "FK Budva",
+      "country": "montenegro",
+      "source": null,
+      "sourceCandidate": "budva",
+      "status": "MISSING_REAL_CREST"
+    },
+    {
+      "teamId": 1942700200203,
+      "name": "FK Iskra Danilovgrad",
+      "country": "montenegro",
+      "source": null,
+      "sourceCandidate": "iskra-danilovgrad",
+      "status": "MISSING_REAL_CREST"
+    },
+    {
+      "teamId": 1942700200204,
+      "name": "FK Kom Podgorica",
+      "country": "montenegro",
+      "source": null,
+      "sourceCandidate": "kom-podgorica",
+      "status": "MISSING_REAL_CREST"
+    },
+    {
+      "teamId": 1942700200205,
+      "name": "FK Lovćen Cetinje",
+      "country": "montenegro",
+      "source": null,
+      "sourceCandidate": "lovcen",
+      "status": "MISSING_REAL_CREST"
+    },
+    {
+      "teamId": 1942700200206,
+      "name": "FK Podgorica",
+      "country": "montenegro",
+      "source": null,
+      "sourceCandidate": "podgorica",
+      "status": "MISSING_REAL_CREST"
+    },
+    {
+      "teamId": 1942700200207,
+      "name": "FK Berane",
+      "country": "montenegro",
+      "source": null,
+      "sourceCandidate": "berane",
+      "status": "MISSING_REAL_CREST"
+    },
+    {
+      "teamId": 1942700200208,
+      "name": "FK Rudar Pljevlja",
+      "country": "montenegro",
+      "source": "https://assets.football-logos.cc/logos/montenegro/700x700/rudar-pljevlja.39469960.png",
+      "sourceCandidate": "rudar-pljevlja",
+      "status": "PNG_REAL_SOURCE_CANDIDATE",
+      "sha256": "5700b1dbc74d277c9e906f6263dd9ee050df2a4ff71dc4138619e3bd06107cc8",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background": "#BAD1E8"
+    },
+    {
+      "teamId": 1942700200209,
+      "name": "FK Zeta Golubovci",
+      "country": "montenegro",
+      "source": null,
+      "sourceCandidate": "zeta-golubovci",
+      "status": "MISSING_REAL_CREST"
+    },
+    {
+      "teamId": 1942700200300,
+      "name": "KF Bylis",
+      "country": "albania",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/albania/Bylis.svg",
+      "sourceCandidate": "Bylis.svg",
+      "status": "PNG_REAL_SOURCE_CANDIDATE",
+      "sha256": "9771aa76ade7f8bdbbd0d88b0046ca929d9a3b71d7db764a114ed1e9e464c430",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background": "#D7B2B2"
+    },
+    {
+      "teamId": 1942700200301,
+      "name": "FC Flamurtari",
+      "country": "albania",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/albania/Flamurtari.svg",
+      "sourceCandidate": "Flamurtari.svg",
+      "status": "PNG_REAL_SOURCE_CANDIDATE",
+      "sha256": "88f2334b2ec503186217f57e4df1f7dde5c21c062d4a0501d8330790f534e479",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background": "#D7B2B2"
+    },
+    {
+      "teamId": 1942700200302,
+      "name": "KF Pogradeci",
+      "country": "albania",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/albania/Pogradec.svg",
+      "sourceCandidate": "Pogradec.svg",
+      "status": "PNG_REAL_SOURCE_CANDIDATE",
+      "sha256": "2a43280cc5cd0a129f1645ddaf68d9c5407714802450b374711925df8122fff0",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background": "#D7B2B2"
+    },
+    {
+      "teamId": 1942700200303,
+      "name": "KF Iliria",
+      "country": "albania",
+      "source": null,
+      "sourceCandidate": "iliria",
+      "status": "MISSING_REAL_CREST"
+    },
+    {
+      "teamId": 1942700200304,
+      "name": "KF Besa",
+      "country": "albania",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/albania/Besa.svg",
+      "sourceCandidate": "Besa.svg",
+      "status": "PNG_REAL_SOURCE_CANDIDATE",
+      "sha256": "e3a7865f87a4e28b4ac39766f592783acf32f32e9c0b03bd6dcda0f9b14c543b",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background": "#D7B2B2"
+    },
+    {
+      "teamId": 1942700200305,
+      "name": "KF Kastrioti",
+      "country": "albania",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/albania/Kastrioti.svg",
+      "sourceCandidate": "Kastrioti.svg",
+      "status": "PNG_REAL_SOURCE_CANDIDATE",
+      "sha256": "5c9fb0c46c3bf6a0383784ed81506a554601d13e11582bcd2f1ef8a03b976c2d",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background": "#D7B2B2"
+    },
+    {
+      "teamId": 1942700200306,
+      "name": "KS Burreli",
+      "country": "albania",
+      "source": null,
+      "sourceCandidate": "burreli",
+      "status": "MISSING_REAL_CREST"
+    },
+    {
+      "teamId": 1942700200307,
+      "name": "KF Korabi",
+      "country": "albania",
+      "source": null,
+      "sourceCandidate": "korabi",
+      "status": "MISSING_REAL_CREST"
+    },
+    {
+      "teamId": 1942700200308,
+      "name": "FK Kukësi",
+      "country": "albania",
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/albania/Kuk%C3%ABs.svg",
+      "sourceCandidate": "Kukës.svg",
+      "status": "PNG_REAL_SOURCE_CANDIDATE",
+      "sha256": "0a157e4739131c046f7608fa6982ee682c69d1033d41c27ef8fde64cc2aa9062",
+      "dimensions": [
+        120,
+        96
+      ],
+      "background": "#D7B2B2"
+    },
+    {
+      "teamId": 1942700200309,
+      "name": "KS Besëlidhja Lezhë",
+      "country": "albania",
+      "source": null,
+      "sourceCandidate": "beselidhja-lezhe",
+      "status": "MISSING_REAL_CREST"
+    },
+    {
+      "teamId": 1942700200310,
+      "name": "KF Oriku",
+      "country": "albania",
+      "source": null,
+      "sourceCandidate": "oriku",
+      "status": "MISSING_REAL_CREST"
+    },
+    {
+      "teamId": 1942700200311,
+      "name": "KS Sopoti",
+      "country": "albania",
+      "source": null,
+      "sourceCandidate": "sopoti",
+      "status": "MISSING_REAL_CREST"
+    }
+  ],
+  "published": 22
+}
