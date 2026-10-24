@@ -545,9 +545,17 @@
     "country": "MLT",
     "wikipedia": "Naxxar Lions F.C.",
     "repositoryStem": "Naxxar_Lions",
-    "source": null,
+    "source": "https://i0.wp.com/www.maltafootball.com/wp-content/uploads/2024/06/img_9402-1.jpg?fit=630%2C630&ssl=1",
     "authentic_source": false,
-    "validation": "source_missing"
+    "validation": "source_retrieved_120x96_visual_review_pending",
+    "original_source": "https://www.maltafootball.com/2024/06/13/naxxar-lions-unveil-new-logo/",
+    "background": [
+      154,
+      40,
+      53
+    ],
+    "file": "docs/cge-four-second-divisions-2026-27/1884520000202.png",
+    "sha256": "073c87101c9bb755303aaefce11e94066ed82c92b8d39c10dbb1099adc24b4f8"
   },
   {
     "id": 1884520000203,
@@ -899,9 +907,17 @@
     "country": "ISR",
     "wikipedia": "Maccabi Herzliya F.C.",
     "repositoryStem": "Maccabi_Herzliya",
-    "source": null,
+    "source": "https://images.one.co.il/images/msites/leagues/logos150/e3b11a5bc3edf1b5286cab6ad76a8978.png",
     "authentic_source": false,
-    "validation": "source_missing"
+    "validation": "source_retrieved_120x96_visual_review_pending",
+    "original_source": "https://www.one.co.il/Soccer/Team/14",
+    "background": [
+      247,
+      233,
+      116
+    ],
+    "file": "docs/cge-four-second-divisions-2026-27/1884520000313.png",
+    "sha256": "063657719f552b4be184772542a7dc926d53822c90cea78bac5c36763ed70410"
   },
   {
     "id": 1884520000314,
