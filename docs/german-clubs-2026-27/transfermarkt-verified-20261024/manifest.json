@@ -878,5 +878,22 @@
     "raw_sha256": "6a3955ee41bd4f014510f9b0ca6864b6cd6703e8382c99dc44a0265a273879f9",
     "png_path": "docs/german-clubs-2026-27/transfermarkt-verified-20261024/1898200000819.png",
     "sha256": "c6c0755095a6b7c331a8da5974e90c9ea117b79a79d9a52e60ebc12f9c65894a"
+  },
+  {
+    "teamId": "1898200000764",
+    "club": "SV Scharmbeck-Pattensen-Axstedt",
+    "transfermarkt_id": "19209",
+    "source": "https://tmssl.akamaized.net/images/wappen/head/19209.png",
+    "source_page": "https://www.transfermarkt.de/jumplist/startseite/verein/19209",
+    "source_type": "transfermarkt_verified_federation_league_alias",
+    "official_name": "SG Scharmbeck-Pattensen-Ashausen",
+    "background_rgb": [
+      243,
+      78,
+      78
+    ],
+    "raw_sha256": "e276c14d12644bbb0555e92df515a3560bd51d36e439011edc4c9b0c355c77a0",
+    "png_path": "docs/german-clubs-2026-27/transfermarkt-verified-20261024/1898200000764.png",
+    "sha256": "929d487cd2a573a0972fa81f99c4aa5ac2e187766fed8658e22940768fddd78e"
   }
 ]
