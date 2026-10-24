@@ -1,0 +1,28 @@
+{
+  "project": "CGE German club pyramid D1-D6 / Forever World Cup Simulator",
+  "date": "2026-10-24",
+  "source_branch": "mmd31-germany-remaining-crests-20261024",
+  "german_clubs": 970,
+  "linked_before_the_526_club_search": 444,
+  "original_missing": 526,
+  "newly_linked_verified": 470,
+  "linked_final": 914,
+  "still_without_verified_badge": 56,
+  "source_manifest_count": 475,
+  "search_batches": {
+    "initial_fupa_test": 5,
+    "first_full_pass": 212,
+    "second_full_pass": 149,
+    "last_32_and_three_aliases": 28,
+    "first_official_names_pass": 43,
+    "second_official_names_pass": 35,
+    "two_slug_corrections": 2,
+    "official_parent_badge_for_reserve": 1
+  },
+  "validated": {
+    "dexie_tables_preserved": 37,
+    "teams_userTeams_badge_url_conflicts": 0,
+    "other_game_fields_modified": 0
+  },
+  "note": "Missing clubs are left without an invented or ambiguous badge. All 475 badge files and their provenance appear in manifest.json."
+}
