@@ -1,0 +1,31 @@
+name: MMD31 Four UEFA national association logos
+on:
+  push:
+    branches: [mmd31-east-europe-d1-2026-v13-badges]
+    paths:
+      - east-europe-d1-2026/association_logos.py
+      - .github/workflows/mmd31-east-europe-2026-associations.yml
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  associations:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: mmd31-east-europe-d1-2026-v13-badges
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install requests pillow cairosvg
+      - run: python east-europe-d1-2026/association_logos.py
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/competition-logos/east-europe-d1-2026/ east-europe-d1-2026/associations-manifest.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Publish UEFA association emblems for four 2026 national leagues"
+            git push
+          fi
