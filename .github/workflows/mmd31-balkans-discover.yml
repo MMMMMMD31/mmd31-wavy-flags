@@ -1,0 +1,31 @@
+name: MMD31 Balkans football club crest source discovery
+on:
+  push:
+    branches:
+      - mmd31-balkans-d1-2026-test
+    paths:
+      - tools/mmd31_balkans_discover.py
+      - .github/workflows/mmd31-balkans-discover.yml
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  gather:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install requests beautifulsoup4
+      - run: python tools/mmd31_balkans_discover.py
+      - name: Store source page inventory
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/balkans-d1-2026/v1/discovery.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Record official crest source discovery"
+            git push origin HEAD:refs/heads/$GITHUB_REF_NAME
+          fi
