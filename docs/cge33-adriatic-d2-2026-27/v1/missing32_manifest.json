@@ -1,5 +1,5 @@
 {
-  "published": 31,
+  "published": 32,
   "total": 32,
   "records": [
     {
@@ -366,11 +366,17 @@
     {
       "teamId": 1942700200207,
       "club": "FK Berane",
-      "status": "MISSING_UNVERIFIED",
-      "source": null,
+      "status": "PUBLISHED_CREST_SOURCE_IDENTIFIED",
+      "source": "https://escudosdefutbolyequipaciones.com/images_esc3/UEFA/MONTENEGRO/escudos_jpg/escudo-fk%20berane.jpg",
       "attemptedSourceUrls": [
-        "https://upload.wikimedia.org/wikipedia/fr/6/63/FK_Berane.gif"
-      ]
+        "https://www.escudosdefutbolyequipaciones.com/ESCUDO%2BFK%20BERANE"
+      ],
+      "dimensions": [
+        120,
+        96
+      ],
+      "background": "#B5CBE1",
+      "sha256": "e5e7c56969a924b9eefd4069ad81b9034f5820b56c74d78f25e70198e09df342"
     },
     {
       "teamId": 1942700200209,
