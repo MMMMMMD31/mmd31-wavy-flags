@@ -27,6 +27,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add east-europe-d2-2026/badges-manifest.json
+          if [ -f east-europe-d2-2026/archive-moldova-image-index.json ]; then git add east-europe-d2-2026/archive-moldova-image-index.json; fi
           if [ -d docs/club-flags/east-europe-d2-2026 ]; then git add docs/club-flags/east-europe-d2-2026; fi
           if ! git diff --cached --quiet; then
             git commit -m "Publish verified-source D2 club crests (120x96)"
