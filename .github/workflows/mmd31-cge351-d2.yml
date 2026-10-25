@@ -1,0 +1,33 @@
+name: MMD31 CGE351 D2 authentic club crests 120x96
+on:
+  push:
+    paths:
+      - 'tools/mmd31_cge351_d2_badges.py'
+      - '.github/workflows/mmd31-cge351-d2.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install --quiet pillow cairosvg requests
+      - run: python tools/mmd31_cge351_d2_badges.py
+      - name: Commit authentic sourced 120x96 PNGs
+        run: |
+          set -euo pipefail
+          test "$(find docs/cge351-d2-2026-27/v1/clubs -type f -name '*.png' | wc -l)" -eq 38
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/cge351-d2-2026-27/v1/
+          if ! git diff --cached --quiet; then
+            git commit -m "CGE351: publish 38 sourced D2 120x96 PNG crests"
+            git push origin HEAD:refs/heads/${GITHUB_REF_NAME}
+          fi
