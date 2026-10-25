@@ -1,5 +1,5 @@
 {
-  "published": 30,
+  "published": 31,
   "total": 32,
   "records": [
     {
@@ -245,11 +245,17 @@
     {
       "teamId": 1942700200114,
       "club": "NK Kustošija",
-      "status": "MISSING_UNVERIFIED",
-      "source": null,
+      "status": "PUBLISHED_CREST_SOURCE_IDENTIFIED",
+      "source": "https://nk-kustosija.hr/wp-content/uploads/2025/08/cropped-sekundarni-2.png",
       "attemptedSourceUrls": [
-        "https://cdn-img.zerozero.pt/img/logos/equipas/66591_imgbank_1688382309.png"
-      ]
+        "https://nk-kustosija.hr/"
+      ],
+      "dimensions": [
+        120,
+        96
+      ],
+      "background": "#B9C9E0",
+      "sha256": "33a6d1d2f6f09380c30a39f9e20f8ad485a9ecd3b91cafaf783a141a1f2dc547"
     },
     {
       "teamId": 1942700200115,
@@ -360,26 +366,26 @@
     {
       "teamId": 1942700200207,
       "club": "FK Berane",
-      "status": "PUBLISHED_CREST_SOURCE_IDENTIFIED",
-      "source": "https://upload.wikimedia.org/wikipedia/fr/6/63/FK_Berane.gif",
+      "status": "MISSING_UNVERIFIED",
+      "source": null,
       "attemptedSourceUrls": [
         "https://upload.wikimedia.org/wikipedia/fr/6/63/FK_Berane.gif"
+      ]
+    },
+    {
+      "teamId": 1942700200209,
+      "club": "FK Zeta Golubovci",
+      "status": "PUBLISHED_CREST_SOURCE_IDENTIFIED",
+      "source": "https://kassiesa.net/uefa/clubs/images/Zeta-Golubovci.png",
+      "attemptedSourceUrls": [
+        "https://kassiesa.net/uefa/clubs/images/Zeta-Golubovci.png"
       ],
       "dimensions": [
         120,
         96
       ],
       "background": "#B5CBE1",
-      "sha256": "969d406cb327cbaee1b5b1828914a25cafc2bc5ba54ce67c6b05271f78d2ef91"
-    },
-    {
-      "teamId": 1942700200209,
-      "club": "FK Zeta Golubovci",
-      "status": "MISSING_UNVERIFIED",
-      "source": null,
-      "attemptedSourceUrls": [
-        "https://football-logos.cc/montenegro/fk-zeta/"
-      ]
+      "sha256": "e8324cdf0165fef47deb5d35c06af863b7017343d81996df8e7914b456bfbf8f"
     },
     {
       "teamId": 1942700200303,
