@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1971262100104,
+    "name": "FC TATRAN Prešov",
+    "official_profile": "https://sportnet.sme.sk/futbalnet/k/fc-tatran-presov/",
+    "source_logo": "https://api.sportnet.online/data/ppo/1-fc-tatran-presov.futbalnet.sk/79ac55b7-f844-4c4e-9555-d7a62dc4e4d5.jpeg",
+    "status": "VERIFIED_CREST",
+    "sha256": "bc4a707a518ec6e4b5422b8efb29a80cef37d2eba163425f8a94c7a0d4d7af73",
+    "width": 120,
+    "height": 96,
+    "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-central-europe-d2-20261025/docs/central-europe-d2-2026-27/verified/1971262100104.png"
+  },
+  {
+    "id": 1971262100105,
+    "name": "FC ViOn Zlaté Moravce - Vráble",
+    "official_profile": "https://sportnet.sme.sk/futbalnet/k/fc-vion-zlate-moravce-vrable/",
+    "source_logo": "https://api.sportnet.online/data/ppo/fc-vion-zlate-moravce.futbalnet.sk/eb54b5b9-8ef1-4c5e-b09d-1e2774bcb34e.png",
+    "status": "VERIFIED_CREST",
+    "sha256": "bcaac6345ca25b952a4a0cd37dbde9e37c7c3e738979134b4d5e67a0d49ba314",
+    "width": 120,
+    "height": 96,
+    "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-central-europe-d2-20261025/docs/central-europe-d2-2026-27/verified/1971262100105.png"
+  },
+  {
+    "id": 1971262100107,
+    "name": "FK Humenné",
+    "official_profile": "https://sportnet.sme.sk/futbalnet/k/futbalovy-klub-humenne-s-r-o/",
+    "source_logo": "https://api.sportnet.online/data/ppo/issf_club_12879/79cdedc6-e148-47ae-bfce-d317969e7f0a.jpeg",
+    "status": "VERIFIED_CREST",
+    "sha256": "01b1bd4245f248e1f625404816ce02b567e9cbe345a57ea6d0f7b08f410d3789",
+    "width": 120,
+    "height": 96,
+    "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-central-europe-d2-20261025/docs/central-europe-d2-2026-27/verified/1971262100107.png"
+  },
+  {
+    "id": 1971262100111,
+    "name": "MFK Tatran Liptovský Mikuláš",
+    "official_profile": "https://sportnet.sme.sk/futbalnet/k/mfk-tatran-liptovsky-mikulas/",
+    "source_logo": "https://api.sportnet.online/data/ppo/mfk-tatran-liptovsky-mikulas.futbalnet.sk/134865ac-e5b7-4ef7-80c7-e6fdaf87cc91.png",
+    "status": "VERIFIED_CREST",
+    "sha256": "70079ca6d02473d30cade5daf01861b62077104ba1706062205496ef375eab08",
+    "width": 120,
+    "height": 96,
+    "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-central-europe-d2-20261025/docs/central-europe-d2-2026-27/verified/1971262100111.png"
+  },
+  {
+    "id": 1971262100115,
+    "name": "OFK Malženice",
+    "official_profile": "https://sportnet.sme.sk/futbalnet/k/ofk-dynamo-malzenice/",
+    "source_logo": "https://api.sportnet.online/data/ppo/issf_club_12850/1fa6a97b-aec9-4b11-b7f6-34c9c42970d9.jpeg",
+    "status": "VERIFIED_CREST",
+    "sha256": "beb98d456a37815ab9b3e8de847e7aaf70fd2ef3c7a1617f5513422e5775c740",
+    "width": 120,
+    "height": 96,
+    "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-central-europe-d2-20261025/docs/central-europe-d2-2026-27/verified/1971262100115.png"
+  }
+]
