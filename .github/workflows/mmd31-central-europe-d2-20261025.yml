@@ -1,0 +1,34 @@
+name: Central Europe D2 authenticated club crests 2026-27
+on:
+  push:
+    branches:
+      - mmd31-central-europe-d2-20261025
+    paths:
+      - ".github/workflows/mmd31-central-europe-d2-20261025.yml"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  badges:
+    runs-on: ubuntu-latest
+    timeout-minutes: 50
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: mmd31-central-europe-d2-20261025
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install requests Pillow
+      - name: Research, verify, render and document
+        run: python tools/mmd31_central_europe_d2_badges.py
+      - name: Publish images and manifest in the same branch
+        run: |
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git add docs/central-europe-d2-2026-27
+          if ! git diff --cached --quiet; then
+            git commit -m "Publish verified 120x96 Central European D2 club badges and audit"
+            git push
+          fi
