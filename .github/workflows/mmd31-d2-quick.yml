@@ -1,0 +1,26 @@
+name: Quick club crest source audit FotMob SofaScore
+on:
+  push:
+    branches: [mmd31-central-europe-d2-20261025]
+    paths: [".github/workflows/mmd31-d2-quick.yml"]
+permissions:
+  contents: write
+jobs:
+  fast:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: mmd31-central-europe-d2-20261025
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.11'}
+      - run: pip install requests Pillow
+      - run: python tools/mmd31_d2_quick.py
+      - run: |
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git add docs/central-europe-d2-2026-27/quick docs/central-europe-d2-2026-27/quick-manifest.json
+          git commit -m "Publish quick verified Central Europe D2 crest results" || exit 0
+          git pull --rebase origin mmd31-central-europe-d2-20261025
+          git push origin HEAD:mmd31-central-europe-d2-20261025
