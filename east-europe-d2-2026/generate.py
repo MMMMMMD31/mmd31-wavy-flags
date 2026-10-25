@@ -296,6 +296,51 @@ def moldova_archive():
   (DATA/'archive-moldova-image-index.json').write_text(json.dumps({'error':str(exc)},ensure_ascii=False))
  return out
 
+MOLDOVA_FEDERATION_VERIFIED_CRESTS={
+  "CF Univer Comrat": "https://www.eurofotbal.cz/res/img/team-logo/AkgAEzCi-nyAR0wsT.png",
+  "Vulturii Cutezători Sîngerei": "https://fmf.md/cdn/news/9900/viber-2022-08-08-15-25-23-849-648334e523075-9900-1715340389.png",
+  "CSF Spartanii Sportul Chișinău": "https://fmf.md/cdn/news/9001/spartanii-crop%20%281%29-9001-1706378253.png",
+  "FC Fălești": "https://www.fmf.md/images/team/77/falesti.png",
+  "CF Oguz Comrat": "https://www.fmf.md/images/team/103/oguz.png"
+}
+
+def md_club_page(name):
+ # Prefer exact team portrait logo, not a generic football association image.
+ from urllib.parse import urljoin,quote
+ from bs4 import BeautifulSoup
+ aliases={
+ 'FCM Ungheni':['FCM Ungheni'],
+ 'FC Iskra Rîbnița':['Iskra','FC Iskra'],
+ 'FC Stăuceni':['FC Stăuceni','Stăuceni'],
+ 'FC Victoria Ialoveni':['Victoria','FC Victoria','Victoria Bardar'],
+ 'FC Național Ialoveni':['FC Național Ialoveni','Național','National Ialoveni'],
+ }
+ accepted={norm(x) for x in aliases.get(name,[name])}
+ slugdir={
+ 'FCM Ungheni':'fcm-ungen',
+ 'FC Iskra Rîbnița':'iskra',
+ 'FC Stăuceni':'fc-stauceni',
+ 'FC Victoria Ialoveni':'victoria',
+ 'FC Național Ialoveni':'national-ialoveni'
+ }
+ pages=["https://fmf.md/home/cluburi?club="+quote(name),
+        "https://divizia-a.md/ro/teams/"+slugdir.get(name,slug(name))]
+ for url in pages:
+  r=get(url,timeout=15)
+  if not r:continue
+  try:
+   soup=BeautifulSoup(r.content,'html.parser')
+   for img in soup.find_all('img'):
+    label=(img.get('alt') or img.get('title') or '').replace('logo of ','').replace('Logo ','')
+    if norm(label) not in accepted:continue
+    src=img.get('data-src') or img.get('src') or ''
+    if not src or src.startswith('data:'):continue
+    u=urljoin(url,src)
+    if urlparse(u).path.lower().endswith(('.png','.jpeg','.jpg','.webp','.svg')):
+     return (u,'FMF/Divizia-A current club badge, alt identity checked',label)
+  except Exception:pass
+ return None
+
 PARENT_LOGOS={
  'Dinamo-2 Minsk':('by','dinamo-minsk'),
  'Minsk B':('by','fc-minsk'),
@@ -331,6 +376,11 @@ for row in ROWS:
    except Exception:pass
 
  if country=='MD':
+  if team in MOLDOVA_FEDERATION_VERIFIED_CRESTS:
+   cand.append((MOLDOVA_FEDERATION_VERIFIED_CRESTS[team],'FMF official federation crest image',team))
+  else:
+   current=md_club_page(team)
+   if current:cand.append(current)
   for alias in MOLDOVA_ARCHIVE_ALIASES.get(team,[team]):
    if norm(alias) in md_archive:
     cand.append(md_archive[norm(alias)])
