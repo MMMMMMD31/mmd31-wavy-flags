@@ -152,8 +152,15 @@ def research(entry):
   break
  print(tid,result["status"],result["source"],result["matched_name"],flush=True)
  return result
+def safe_research(entry):
+ try:
+  return research(entry)
+ except Exception as e:
+  nation,tid,name,alias=entry
+  print("SOURCE_ERROR",tid,str(e)[:200],flush=True)
+  return {"nation":nation,"teamId":tid,"name":name,"alias":alias,"status":"SOURCE_ERROR","source":"","matched_name":"","image_url":"","page_url":"","png_url":"","sha256":"","error":str(e)[:200]}
 with ThreadPoolExecutor(max_workers=7) as pool:
- manifest=list(pool.map(research,DATA))
+ manifest=list(pool.map(safe_research,DATA))
 with open(ROOT.parent/"manifest.json","w") as f:json.dump(manifest,f,ensure_ascii=False,indent=2)
 with open(ROOT.parent/"manifest.csv","w",newline="") as f:
  w=csv.DictWriter(f,fieldnames=list(manifest[0]));w.writeheader();w.writerows(manifest)
