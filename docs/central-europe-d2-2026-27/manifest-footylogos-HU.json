@@ -35,18 +35,32 @@
     "teamId": 1971262100211,
     "name": "Szentlőrinc SE",
     "page": "https://www.footylogos.com/logos/szentlorinc-se",
-    "status": "PAGE_NOT_VERIFIED",
+    "status": "VERIFIED_CREST",
     "source": "FootyLogos verified named club page",
     "source_png": "https://www.footylogos.com/dls/logo/szentlorinc-se.png",
-    "http_status": 200
+    "sha256": "0cf500f4224ceb5e0a19bdabc0315620b7bb29f264f07d0d69289a35c20e5722",
+    "width": 120,
+    "height": 96,
+    "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-central-europe-d2-20261025/docs/central-europe-d2-2026-27/verified/1971262100211.png",
+    "source_pixels": [
+      82,
+      82
+    ]
   },
   {
     "teamId": 1971262100216,
     "name": "Mezőkövesd Zsóry FC",
     "page": "https://www.footylogos.com/logos/mezokovesd-zsory-fc",
-    "status": "PAGE_NOT_VERIFIED",
+    "status": "VERIFIED_CREST",
     "source": "FootyLogos verified named club page",
     "source_png": "https://www.footylogos.com/dls/logo/mezokovesd-zsory-fc.png",
-    "http_status": 200
+    "sha256": "a967375d78a99a9ed60508dfc0c996a3802671e828bfa69ccb625c25ff0025c1",
+    "width": 120,
+    "height": 96,
+    "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-central-europe-d2-20261025/docs/central-europe-d2-2026-27/verified/1971262100216.png",
+    "source_pixels": [
+      82,
+      82
+    ]
   }
 ]
