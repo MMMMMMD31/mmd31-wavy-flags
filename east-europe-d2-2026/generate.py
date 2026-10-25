@@ -237,6 +237,30 @@ def ukraine_footy_asset(name):
  if not slug:return None
  return ('https://assets.footylogos.com/logos/'+slug+'-logo-footylogos.svg','FootyLogos verified 2026 D2 club crest page',name)
 
+MMD31_D2_CLUB_ID_CRESTS = {
+  "Slutsksakhar Slutsk": 27238,
+  "Energetik-BGU Minsk": 27204,
+  "Kommunalnik Slonim": 24175,
+  "Volna Pinsk": 24177,
+  "Uni X-Labs Minsk": 98588,
+  "Orsha": 32976,
+  "Osipovichy": 32474,
+  "Kulykiv-Bilka": 112110,
+  "SC Poltava": 81401,
+  "FC Oleksandriya": 18303,
+  "Lokomotyv Kyiv": 27227,
+  "Gareji Sagarejo": 61358,
+  "Telavi": 41310,
+  "Shturmi": 98682,
+  "Samtredia": 2950,
+  "Merani Martvili": 31551,
+  "Aragvi Dusheti": 51588,
+  "Sioni Bolnisi": 10531,
+  "Odishi 1919": 49352,
+  "Kolkheti 1913 Poti": 28971,
+  "Gori": 61250
+}
+
 PARENT_LOGOS={
  'Dinamo-2 Minsk':('by','dinamo-minsk'),
  'Minsk B':('by','fc-minsk'),
@@ -260,6 +284,20 @@ except Exception:pass
 records=[]
 for row in ROWS:
  team=row['club'];country=row['country'];id=row['team_id'];cand=[]
+ if id in saved:
+  prev=saved[id];p=BASE/prev.get('path','')
+  if prev.get('status')!='MISSING' and p.is_file():
+   try:
+    with Image.open(p) as ver:
+     if ver.size==(120,96) and ver.format=='PNG':
+      records.append(prev)
+      print(team,"PREVIOUS_PNG_PRESERVED",flush=True)
+      continue
+   except Exception:pass
+
+ tm_checked=MMD31_D2_CLUB_ID_CRESTS.get(team)
+ if tm_checked:
+  cand.append((f"https://tmssl.akamaized.net/images/wappen/head/{tm_checked}.png","Transfermarkt documented club profile ID",team))
  parent=family_candidate(team)
  if parent:cand.append(parent)
  ua=ukraine_footy_asset(team)
