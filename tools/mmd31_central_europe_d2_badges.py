@@ -68,7 +68,7 @@ def acceptable(wanted,alias,found):
  return score>=0.81 or (score>=0.70 and any(len(k)>6 and k in norm(found) for k in [norm(alias),norm(wanted)]))
 def request(url,params=None):
  try:
-  r=S.get(url,params=params,timeout=18)
+  r=S.get(url,params=params,timeout=(3,6))
   if r.status_code==200:return r
  except Exception:return None
  return None
@@ -106,7 +106,7 @@ def sources(wanted,alias):
      if acceptable(wanted,alias,found) and x.get("id"):
       yield ("https://images.fotmob.com/image_resources/logo/teamlogo/"+str(x["id"])+".png","FotMob",found,r.url)
    except Exception:pass
-  time.sleep(0.25)
+  time.sleep(0.05)
 def backdrop(im):
  im=im.convert("RGBA")
  im.thumbnail((98,82),Image.Resampling.LANCZOS)
@@ -125,8 +125,9 @@ def valid_image(b):
   if im.mode=="P": im=im.convert("RGBA")
   return im
  except Exception:return None
-manifest=[]
-for nation,tid,name,alias in DATA:
+from concurrent.futures import ThreadPoolExecutor, as_completed
+def research(entry):
+ nation,tid,name,alias=entry
  result={"nation":nation,"teamId":tid,"name":name,"alias":alias,"status":"NOT_FOUND","source":"","matched_name":"","image_url":"","page_url":"","png_url":"","sha256":""}
  for image_url,src,found,page in sources(name,alias):
   r=request(image_url)
@@ -137,9 +138,11 @@ for nation,tid,name,alias in DATA:
   out=ROOT/(str(tid)+".png");new.save(out,"PNG",optimize=True)
   result.update(status="VERIFIED_PROVIDER_MATCH",source=src,matched_name=found,image_url=image_url,page_url=page,png_url=f"https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-central-europe-d2-20261025/docs/central-europe-d2-2026-27/verified/{tid}.png",sha256=hashlib.sha256(out.read_bytes()).hexdigest(),width=120,height=96)
   break
- manifest.append(result);print(tid,result["status"],result["source"],result["matched_name"],flush=True)
- with open(ROOT.parent/"manifest.json","w") as f:json.dump(manifest,f,ensure_ascii=False,indent=2)
- time.sleep(0.4)
+ print(tid,result["status"],result["source"],result["matched_name"],flush=True)
+ return result
+with ThreadPoolExecutor(max_workers=7) as pool:
+ manifest=list(pool.map(research,DATA))
+with open(ROOT.parent/"manifest.json","w") as f:json.dump(manifest,f,ensure_ascii=False,indent=2)
 with open(ROOT.parent/"manifest.csv","w",newline="") as f:
  w=csv.DictWriter(f,fieldnames=list(manifest[0]));w.writeheader();w.writerows(manifest)
 print("TOTAL VERIFIED",sum(x['status'].startswith('VERIFIED') for x in manifest),"OF",len(manifest),flush=True)
