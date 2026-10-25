@@ -1,0 +1,475 @@
+{
+  "published": 30,
+  "total": 32,
+  "records": [
+    {
+      "teamId": 1942700200001,
+      "club": "NK Triglav Kranj",
+      "status": "PUBLISHED_CREST_SOURCE_IDENTIFIED",
+      "source": "https://www.nzs.si/sites/default/files/media/image/NKTriglavKranj.svg",
+      "attemptedSourceUrls": [
+        "https://www.nzs.si/sites/default/files/media/image/NKTriglavKranj.svg"
+      ],
+      "dimensions": [
+        120,
+        96
+      ],
+      "background": "#A7CAB7",
+      "sha256": "dfc94e73abda7d2aeadcc0f8cdc61eab1843520deb2e48b40151c958d6bc0c12"
+    },
+    {
+      "teamId": 1942700200002,
+      "club": "ND Beltinci",
+      "status": "PUBLISHED_CREST_SOURCE_IDENTIFIED",
+      "source": "https://www.nzs.si/sites/default/files/media/image/NDBeltinci.svg",
+      "attemptedSourceUrls": [
+        "https://www.nzs.si/sites/default/files/media/image/NDBeltinci.svg"
+      ],
+      "dimensions": [
+        120,
+        96
+      ],
+      "background": "#A7CAB7",
+      "sha256": "fce59dc99cd36df01c9a1243eaad2649b6ecf553b7e6256d2e77978ca266957e"
+    },
+    {
+      "teamId": 1942700200004,
+      "club": "NK Bistrica",
+      "status": "PUBLISHED_CREST_SOURCE_IDENTIFIED",
+      "source": "https://www.nzs.si/sites/default/files/media/image/NKBistrica.svg",
+      "attemptedSourceUrls": [
+        "https://www.nzs.si/sites/default/files/media/image/NKBistrica.svg"
+      ],
+      "dimensions": [
+        120,
+        96
+      ],
+      "background": "#A7CAB7",
+      "sha256": "ee8f7450259a5e92438815de4a70e5a2f89b61f2da236499cddd159a4188e2a2"
+    },
+    {
+      "teamId": 1942700200005,
+      "club": "ND Dravinja",
+      "status": "PUBLISHED_CREST_SOURCE_IDENTIFIED",
+      "source": "https://www.nzs.si/sites/default/files/media/image/NDDravinja.svg",
+      "attemptedSourceUrls": [
+        "https://www.nzs.si/sites/default/files/media/image/NDDravinja.svg"
+      ],
+      "dimensions": [
+        120,
+        96
+      ],
+      "background": "#A7CAB7",
+      "sha256": "9773b977e70ecf8c7eeca02ac9fc4988fca22f5b078878190390ff1306e3a8d7"
+    },
+    {
+      "teamId": 1942700200007,
+      "club": "ND Bilje",
+      "status": "PUBLISHED_CREST_SOURCE_IDENTIFIED",
+      "source": "https://www.nzs.si/sites/default/files/media/image/NDBilje.svg",
+      "attemptedSourceUrls": [
+        "https://www.nzs.si/sites/default/files/media/image/NDBilje.svg"
+      ],
+      "dimensions": [
+        120,
+        96
+      ],
+      "background": "#A7CAB7",
+      "sha256": "20d036a6abdbb45ce20b59c3b79acdbf49615e1bc01b06fd19bd50d9e1c65397"
+    },
+    {
+      "teamId": 1942700200008,
+      "club": "NK Jadran Dekani",
+      "status": "PUBLISHED_CREST_SOURCE_IDENTIFIED",
+      "source": "https://www.nzs.si/sites/default/files/media/image/NKJadranDekani.svg",
+      "attemptedSourceUrls": [
+        "https://www.nzs.si/sites/default/files/media/image/NKJadranDekani.svg"
+      ],
+      "dimensions": [
+        120,
+        96
+      ],
+      "background": "#A7CAB7",
+      "sha256": "a66e3fef742d7e1d02d3bf9df9180559c5add1929ebcdc1b2f4169f48e591e1c"
+    },
+    {
+      "teamId": 1942700200009,
+      "club": "ND Slovan",
+      "status": "PUBLISHED_CREST_SOURCE_IDENTIFIED",
+      "source": "https://www.nzs.si/sites/default/files/media/image/NDSlovan.svg",
+      "attemptedSourceUrls": [
+        "https://www.nzs.si/sites/default/files/media/image/NDSlovan.svg"
+      ],
+      "dimensions": [
+        120,
+        96
+      ],
+      "background": "#A7CAB7",
+      "sha256": "3b3d23a0c9f16936be55ceed0a3e1a9e16fa63a503b9e3b992aa29cf582d06d9"
+    },
+    {
+      "teamId": 1942700200010,
+      "club": "NK Krka",
+      "status": "PUBLISHED_CREST_SOURCE_IDENTIFIED",
+      "source": "https://www.nzs.si/sites/default/files/media/image/NKKrka.svg",
+      "attemptedSourceUrls": [
+        "https://www.nzs.si/sites/default/files/media/image/NKKrka.svg"
+      ],
+      "dimensions": [
+        120,
+        96
+      ],
+      "background": "#A7CAB7",
+      "sha256": "5a2bd33eb812517267f500e628340918c760f4280d41f36e8ec5d560e793b145"
+    },
+    {
+      "teamId": 1942700200011,
+      "club": "ND Ilirija 1911",
+      "status": "PUBLISHED_CREST_SOURCE_IDENTIFIED",
+      "source": "https://www.nzs.si/sites/default/files/media/image/NDIlirija1911.svg",
+      "attemptedSourceUrls": [
+        "https://www.nzs.si/sites/default/files/media/image/NDIlirija1911.svg"
+      ],
+      "dimensions": [
+        120,
+        96
+      ],
+      "background": "#A7CAB7",
+      "sha256": "01280fed41ef97f8a78bae05edc5a29792f04164b06b87218aaec7958f768919"
+    },
+    {
+      "teamId": 1942700200013,
+      "club": "ŠD Jesenice",
+      "status": "PUBLISHED_CREST_SOURCE_IDENTIFIED",
+      "source": "https://www.nzs.si/sites/default/files/media/image/NKJesenice.svg",
+      "attemptedSourceUrls": [
+        "https://www.nzs.si/sites/default/files/media/image/NKJesenice.svg"
+      ],
+      "dimensions": [
+        120,
+        96
+      ],
+      "background": "#A7CAB7",
+      "sha256": "ec5bbb214c1dd5c7bb68d80b0f198bbd1758a5ffc1940e0e3047789339224f1a"
+    },
+    {
+      "teamId": 1942700200014,
+      "club": "NK Brežice 1919",
+      "status": "PUBLISHED_CREST_SOURCE_IDENTIFIED",
+      "source": "https://www.nzs.si/sites/default/files/media/image/Brezice.svg",
+      "attemptedSourceUrls": [
+        "https://www.nzs.si/sites/default/files/media/image/Brezice.svg"
+      ],
+      "dimensions": [
+        120,
+        96
+      ],
+      "background": "#A7CAB7",
+      "sha256": "20c43a8c221c92dbd2ff57cb854820739ca25756d4db260cef6970777bd5c747"
+    },
+    {
+      "teamId": 1942700200015,
+      "club": "NK Vrhnika",
+      "status": "PUBLISHED_CREST_SOURCE_IDENTIFIED",
+      "source": "https://www.nzs.si/sites/default/files/media/image/NKVrhnika.svg",
+      "attemptedSourceUrls": [
+        "https://www.nzs.si/sites/default/files/media/image/NKVrhnika.svg"
+      ],
+      "dimensions": [
+        120,
+        96
+      ],
+      "background": "#A7CAB7",
+      "sha256": "2d12d27058f1275c116160a953c124b1d2c4add1ba50751b1a39e0e443b34a4e"
+    },
+    {
+      "teamId": 1942700200105,
+      "club": "HNK Cibalia",
+      "status": "PUBLISHED_CREST_SOURCE_IDENTIFIED",
+      "source": "https://cdn-img.zerozero.pt/img/logos/equipas/1859_imgbank_1688380826.png",
+      "attemptedSourceUrls": [
+        "https://cdn-img.zerozero.pt/img/logos/equipas/1859_imgbank_1688380826.png"
+      ],
+      "dimensions": [
+        120,
+        96
+      ],
+      "background": "#B9C9E0",
+      "sha256": "3ef49a64e2ff8ca4361df161fb7fcb3c8b7cb17c3dc75e6581d0aa21c88e53bd"
+    },
+    {
+      "teamId": 1942700200109,
+      "club": "NK Hrvace",
+      "status": "PUBLISHED_CREST_SOURCE_IDENTIFIED",
+      "source": "https://r2.thesportsdb.com/images/media/team/badge/4ua0v41751790393.png",
+      "attemptedSourceUrls": [
+        "https://r2.thesportsdb.com/images/media/team/badge/4ua0v41751790393.png"
+      ],
+      "dimensions": [
+        120,
+        96
+      ],
+      "background": "#B9C9E0",
+      "sha256": "71525271d50ef9e2bbf32768cd3882f4c16b9e1f3d81f8ba2522297dccfffea1"
+    },
+    {
+      "teamId": 1942700200111,
+      "club": "NK BSK Bijelo Brdo",
+      "status": "PUBLISHED_CREST_SOURCE_IDENTIFIED",
+      "source": "https://www.ogol.com.br/img/logos/equipas/61528_imgbank_1688381755.png",
+      "attemptedSourceUrls": [
+        "https://www.ogol.com.br/img/logos/equipas/61528_imgbank_1688381755.png"
+      ],
+      "dimensions": [
+        120,
+        96
+      ],
+      "background": "#B9C9E0",
+      "sha256": "4544c0a6fddb10f9ef0f1a3a6935a429c933a6a467d67899b5bb7ebe732d7860"
+    },
+    {
+      "teamId": 1942700200112,
+      "club": "HNK Orijent",
+      "status": "PUBLISHED_CREST_SOURCE_IDENTIFIED",
+      "source": "https://cdn-img.zerozero.pt/img/logos/equipas/28771_imgbank_1688381306.png",
+      "attemptedSourceUrls": [
+        "https://cdn-img.zerozero.pt/img/logos/equipas/28771_imgbank_1688381306.png"
+      ],
+      "dimensions": [
+        120,
+        96
+      ],
+      "background": "#B9C9E0",
+      "sha256": "3c522766bb6abc89666093fc149f169aed957d96e966809602a1a1e75f68e507"
+    },
+    {
+      "teamId": 1942700200114,
+      "club": "NK Kustošija",
+      "status": "MISSING_UNVERIFIED",
+      "source": null,
+      "attemptedSourceUrls": [
+        "https://cdn-img.zerozero.pt/img/logos/equipas/66591_imgbank_1688382309.png"
+      ]
+    },
+    {
+      "teamId": 1942700200115,
+      "club": "NK Karlovac 1919",
+      "status": "PUBLISHED_CREST_SOURCE_IDENTIFIED",
+      "source": "https://nk-karlovac1919.hr/wp-content/uploads/2025/01/08_nk_karlovac_1919.png",
+      "attemptedSourceUrls": [
+        "https://nk-karlovac1919.hr/wp-content/uploads/2025/01/08_nk_karlovac_1919.png"
+      ],
+      "dimensions": [
+        120,
+        96
+      ],
+      "background": "#B9C9E0",
+      "sha256": "e8c7e62632779046624b0d16eb232cb1c1ccf9f121849b89f9fc89b566414724"
+    },
+    {
+      "teamId": 1942700200201,
+      "club": "OFK Grbalj",
+      "status": "PUBLISHED_CREST_SOURCE_IDENTIFIED",
+      "source": "https://cdn.freebiesupply.com/logos/large/2x/fk-grbalj-logo-png-transparent.png",
+      "attemptedSourceUrls": [
+        "https://cdn.freebiesupply.com/logos/large/2x/fk-grbalj-logo-png-transparent.png"
+      ],
+      "dimensions": [
+        120,
+        96
+      ],
+      "background": "#B5CBE1",
+      "sha256": "599c249e6bbb2292964d149f21349a68ec62c7b930363d35e0b552611a34371d"
+    },
+    {
+      "teamId": 1942700200202,
+      "club": "FK Budva",
+      "status": "PUBLISHED_CREST_SOURCE_IDENTIFIED",
+      "source": "https://fscg.me/files/images_comet/a1/c/_resized/a1c809c6f37258e5188e3eff099bad42ef204b9c_0_125_t.png",
+      "attemptedSourceUrls": [
+        "https://fscg.me/en/matches/budva-otrant-olympic-9315967/",
+        "https://www.footballlogosandkits.com/LOGO%2BFK%20BUDVA"
+      ],
+      "dimensions": [
+        120,
+        96
+      ],
+      "background": "#B5CBE1",
+      "sha256": "ca6fba9b919056f0bcecf3506707d0d47f6421568a83860077e6c5a66000b8c2"
+    },
+    {
+      "teamId": 1942700200203,
+      "club": "FK Iskra Danilovgrad",
+      "status": "PUBLISHED_CREST_SOURCE_IDENTIFIED",
+      "source": "https://assets.football-logos.cc/logos/montenegro/700x700/iskra.1bfddc02.png",
+      "attemptedSourceUrls": [
+        "https://assets.football-logos.cc/logos/montenegro/700x700/iskra.1bfddc02.png"
+      ],
+      "dimensions": [
+        120,
+        96
+      ],
+      "background": "#B5CBE1",
+      "sha256": "38cabd33410bbc789affb7fa9709346305c4f04397079b9f9220cc214694e598"
+    },
+    {
+      "teamId": 1942700200204,
+      "club": "FK Kom Podgorica",
+      "status": "PUBLISHED_CREST_SOURCE_IDENTIFIED",
+      "source": "https://images.seeklogo.com/logo-png/35/1/fk-kom-podgorica-logo-png_seeklogo-357664.png",
+      "attemptedSourceUrls": [
+        "https://images.seeklogo.com/logo-png/35/1/fk-kom-podgorica-logo-png_seeklogo-357664.png"
+      ],
+      "dimensions": [
+        120,
+        96
+      ],
+      "background": "#B5CBE1",
+      "sha256": "d99b88d9ae73fc7b349e5dff77575577f8344887e6983962f2210dc8e8bc6d66"
+    },
+    {
+      "teamId": 1942700200205,
+      "club": "FK Lovćen Cetinje",
+      "status": "PUBLISHED_CREST_SOURCE_IDENTIFIED",
+      "source": "https://www.europlan-online.de/files/85714688f89ce66a661da4ef401c9106.png",
+      "attemptedSourceUrls": [
+        "https://www.europlan-online.de/files/85714688f89ce66a661da4ef401c9106.png"
+      ],
+      "dimensions": [
+        120,
+        96
+      ],
+      "background": "#B5CBE1",
+      "sha256": "97564184e6757bd7d103ef8b5b69377394c853ade4aa7b5c4c57f2383ccc44a3"
+    },
+    {
+      "teamId": 1942700200206,
+      "club": "FK Podgorica",
+      "status": "PUBLISHED_CREST_SOURCE_IDENTIFIED",
+      "source": "https://assets.football-logos.cc/logos/montenegro/700x700/fk-podgorica.3e7114d0.png",
+      "attemptedSourceUrls": [
+        "https://assets.football-logos.cc/logos/montenegro/700x700/fk-podgorica.3e7114d0.png"
+      ],
+      "dimensions": [
+        120,
+        96
+      ],
+      "background": "#B5CBE1",
+      "sha256": "3dd60b1f523420a2d94c965ee90c0f2fd76b63b6fe86333664e5f18642961bf0"
+    },
+    {
+      "teamId": 1942700200207,
+      "club": "FK Berane",
+      "status": "PUBLISHED_CREST_SOURCE_IDENTIFIED",
+      "source": "https://upload.wikimedia.org/wikipedia/fr/6/63/FK_Berane.gif",
+      "attemptedSourceUrls": [
+        "https://upload.wikimedia.org/wikipedia/fr/6/63/FK_Berane.gif"
+      ],
+      "dimensions": [
+        120,
+        96
+      ],
+      "background": "#B5CBE1",
+      "sha256": "969d406cb327cbaee1b5b1828914a25cafc2bc5ba54ce67c6b05271f78d2ef91"
+    },
+    {
+      "teamId": 1942700200209,
+      "club": "FK Zeta Golubovci",
+      "status": "MISSING_UNVERIFIED",
+      "source": null,
+      "attemptedSourceUrls": [
+        "https://football-logos.cc/montenegro/fk-zeta/"
+      ]
+    },
+    {
+      "teamId": 1942700200303,
+      "club": "KF Iliria",
+      "status": "PUBLISHED_CREST_SOURCE_IDENTIFIED",
+      "source": "https://kruja.gov.al/wp-content/uploads/2016/03/ILIRIA-logo-480x480.jpg",
+      "attemptedSourceUrls": [
+        "https://kruja.gov.al/rreth-krujes/kultura/sport/"
+      ],
+      "dimensions": [
+        120,
+        96
+      ],
+      "background": "#D2B4B7",
+      "sha256": "b4bdf6d4d4ffd4522c34059a6c4ce65d2e1c1f23c7872f83c2e6b2fae1b91966"
+    },
+    {
+      "teamId": 1942700200306,
+      "club": "KS Burreli",
+      "status": "PUBLISHED_CREST_SOURCE_IDENTIFIED",
+      "source": "https://images.seeklogo.com/logo-png/49/1/kf-burreli-logo-png_seeklogo-493592.png",
+      "attemptedSourceUrls": [
+        "https://images.seeklogo.com/logo-png/49/1/kf-burreli-logo-png_seeklogo-493592.png"
+      ],
+      "dimensions": [
+        120,
+        96
+      ],
+      "background": "#D2B4B7",
+      "sha256": "9657f8794a1a96ceedb1057d8fe8bae9520494cda65d1d8e812e8953f04a1233"
+    },
+    {
+      "teamId": 1942700200307,
+      "club": "KF Korabi",
+      "status": "PUBLISHED_CREST_SOURCE_IDENTIFIED",
+      "source": "https://www.playmakerstats.com/img/logos/equipas/48832_imgbank_1686580961.png",
+      "attemptedSourceUrls": [
+        "https://www.playmakerstats.com/img/logos/equipas/48832_imgbank_1686580961.png"
+      ],
+      "dimensions": [
+        120,
+        96
+      ],
+      "background": "#D2B4B7",
+      "sha256": "c7e7f42535b939674587dc6cea75db527dc579b0947e22650a0816242b7d69cb"
+    },
+    {
+      "teamId": 1942700200309,
+      "club": "KS Besëlidhja Lezhë",
+      "status": "PUBLISHED_CREST_SOURCE_IDENTIFIED",
+      "source": "https://images.seeklogo.com/logo-png/1/1/beselidhja-lezha-logo-png_seeklogo-18688.png",
+      "attemptedSourceUrls": [
+        "https://images.seeklogo.com/logo-png/1/1/beselidhja-lezha-logo-png_seeklogo-18688.png"
+      ],
+      "dimensions": [
+        120,
+        96
+      ],
+      "background": "#D2B4B7",
+      "sha256": "0edc0327c46e1c560b2991dbf14f0b5ba65aaf40f641446f10e3d3f43f06925b"
+    },
+    {
+      "teamId": 1942700200310,
+      "club": "KF Oriku",
+      "status": "PUBLISHED_CREST_SOURCE_IDENTIFIED",
+      "source": "https://www.europlan-online.de/files/b31ffc90e8c1196e3c16ba1c8e851888.png",
+      "attemptedSourceUrls": [
+        "https://www.europlan-online.de/files/b31ffc90e8c1196e3c16ba1c8e851888.png"
+      ],
+      "dimensions": [
+        120,
+        96
+      ],
+      "background": "#D2B4B7",
+      "sha256": "4bf57575231875b3cdd93663359ca9109923c52a124b4f368e2835ffc961058d"
+    },
+    {
+      "teamId": 1942700200311,
+      "club": "KS Sopoti",
+      "status": "PUBLISHED_CREST_SOURCE_IDENTIFIED",
+      "source": "https://images.seeklogo.com/logo-png/12/1/sopoti-librazhd-logo-png_seeklogo-129494.png",
+      "attemptedSourceUrls": [
+        "https://images.seeklogo.com/logo-png/12/1/sopoti-librazhd-logo-png_seeklogo-129494.png"
+      ],
+      "dimensions": [
+        120,
+        96
+      ],
+      "background": "#D2B4B7",
+      "sha256": "dd21c9774e8c43c4ac9d44312bfdc61f25f4a193e4a36d207094306ff2f5dafd"
+    }
+  ]
+}
