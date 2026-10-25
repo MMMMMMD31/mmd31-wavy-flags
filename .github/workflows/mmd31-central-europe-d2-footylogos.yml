@@ -2,7 +2,7 @@ name: Exact-source Czech/Hungarian D2 crests
 on:
   push:
     branches: [mmd31-central-europe-d2-20261025]
-    paths: ['.github/workflows/mmd31-central-europe-d2-footylogos.yml']
+    paths: ['.github/workflows/mmd31-central-europe-d2-footylogos.yml', 'tools/mmd31_central_europe_d2_footylogos.py']
 permissions:
   contents: write
 jobs:
