@@ -125,11 +125,23 @@ def valid_image(b):
   if im.mode=="P": im=im.convert("RGBA")
   return im
  except Exception:return None
+# Exactly identified club crest sources from official club/league pages and specialist databases.
+SEEDS={
+ 1971262100006:("https://fkceskalipa.eoscms.cz/webimages/club_logo_filename_20260708_165830.png","Official club website","FK Arsenal Česká Lípa","https://www.fkceskalipa.cz"),
+ 1971262100013:("https://r2.thesportsdb.com/images/media/team/badge/yugcom1687931772.png","TheSportsDB","SK Hanácká Slavia Kroměříž","https://www.hanackaslavia.cz"),
+ 1971262100101:("https://www.fcpetrzalka.sk/www/img/logo-large.png","Official club website","FC Petržalka","https://www.fcpetrzalka.sk"),
+ 1971262100106:("https://www.monacobetliga.sk/photo/team/team_40.png","Official league football team directory","FK Baník Lehota pod Vtáčnikom","https://www.monacobetliga.sk/timy/2026"),
+ 1971262100110:("https://sport.video/media/club_logos/33b45117-aca.png","Sport.Video club page","MFK Bytča","https://watch.sport.video/3liga/iii-liga-stred/mfk-bytca-vs-tj-banik-kalinovo-196485"),
+ 1971262100212:("https://r2.thesportsdb.com/images/media/team/badge/g3diaw1751844953.png","TheSportsDB","Karcagi SC","https://www.thesportsdb.com/team/152526-karcag"),
+ 1971262100213:("https://images.seeklogo.com/logo-png/29/1/gyirmot-fc-gyor-logo-png_seeklogo-292270.png","SeekLogo","Gyirmót FC Győr","https://seeklogo.com/vector-logo/292270/gyirmot-fc-gyor"),
+}
+
+from itertools import chain
 from concurrent.futures import ThreadPoolExecutor, as_completed
 def research(entry):
  nation,tid,name,alias=entry
  result={"nation":nation,"teamId":tid,"name":name,"alias":alias,"status":"NOT_FOUND","source":"","matched_name":"","image_url":"","page_url":"","png_url":"","sha256":""}
- for image_url,src,found,page in sources(name,alias):
+ for image_url,src,found,page in chain(([SEEDS[tid]] if tid in SEEDS else []),sources(name,alias)):
   r=request(image_url)
   if not r:continue
   im=valid_image(r.content)
