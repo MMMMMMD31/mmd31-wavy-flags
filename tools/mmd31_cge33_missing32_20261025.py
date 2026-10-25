@@ -33,7 +33,7 @@ SOURCES=[
 (1942700200204,"FK Kom Podgorica",["https://images.seeklogo.com/logo-png/35/1/fk-kom-podgorica-logo-png_seeklogo-357664.png"]),
 (1942700200205,"FK Lovćen Cetinje",["https://www.europlan-online.de/files/85714688f89ce66a661da4ef401c9106.png"]),
 (1942700200206,"FK Podgorica",["https://assets.football-logos.cc/logos/montenegro/700x700/fk-podgorica.3e7114d0.png"]),
-(1942700200207,"FK Berane",["https://upload.wikimedia.org/wikipedia/fr/6/63/FK_Berane.gif"]),
+(1942700200207,"FK Berane",["https://www.escudosdefutbolyequipaciones.com/ESCUDO%2BFK%20BERANE"]),
 (1942700200209,"FK Zeta Golubovci",["https://kassiesa.net/uefa/clubs/images/Zeta-Golubovci.png"]),
 (1942700200303,"KF Iliria",["https://kruja.gov.al/rreth-krujes/kultura/sport/"]),
 (1942700200306,"KS Burreli",["https://images.seeklogo.com/logo-png/49/1/kf-burreli-logo-png_seeklogo-493592.png"]),
