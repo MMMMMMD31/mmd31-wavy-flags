@@ -25,7 +25,7 @@ SOURCES=[
 (1942700200109,"NK Hrvace",["https://r2.thesportsdb.com/images/media/team/badge/4ua0v41751790393.png"]),
 (1942700200111,"NK BSK Bijelo Brdo",["https://www.ogol.com.br/img/logos/equipas/61528_imgbank_1688381755.png"]),
 (1942700200112,"HNK Orijent",["https://cdn-img.zerozero.pt/img/logos/equipas/28771_imgbank_1688381306.png"]),
-(1942700200114,"NK Kustošija",["https://cdn-img.zerozero.pt/img/logos/equipas/66591_imgbank_1688382309.png"]),
+(1942700200114,"NK Kustošija",["https://nk-kustosija.hr/"]),
 (1942700200115,"NK Karlovac 1919",["https://nk-karlovac1919.hr/wp-content/uploads/2025/01/08_nk_karlovac_1919.png"]),
 (1942700200201,"OFK Grbalj",["https://cdn.freebiesupply.com/logos/large/2x/fk-grbalj-logo-png-transparent.png"]),
 (1942700200202,"FK Budva",["https://fscg.me/en/matches/budva-otrant-olympic-9315967/","https://www.footballlogosandkits.com/LOGO%2BFK%20BUDVA"]),
@@ -34,7 +34,7 @@ SOURCES=[
 (1942700200205,"FK Lovćen Cetinje",["https://www.europlan-online.de/files/85714688f89ce66a661da4ef401c9106.png"]),
 (1942700200206,"FK Podgorica",["https://assets.football-logos.cc/logos/montenegro/700x700/fk-podgorica.3e7114d0.png"]),
 (1942700200207,"FK Berane",["https://upload.wikimedia.org/wikipedia/fr/6/63/FK_Berane.gif"]),
-(1942700200209,"FK Zeta Golubovci",["https://football-logos.cc/montenegro/fk-zeta/"]),
+(1942700200209,"FK Zeta Golubovci",["https://kassiesa.net/uefa/clubs/images/Zeta-Golubovci.png"]),
 (1942700200303,"KF Iliria",["https://kruja.gov.al/rreth-krujes/kultura/sport/"]),
 (1942700200306,"KS Burreli",["https://images.seeklogo.com/logo-png/49/1/kf-burreli-logo-png_seeklogo-493592.png"]),
 (1942700200307,"KF Korabi",["https://www.playmakerstats.com/img/logos/equipas/48832_imgbank_1686580961.png"]),
@@ -66,6 +66,7 @@ def find_images(url,html,club):
   name=club.lower().replace("fk ","").replace("ofk ","").replace("kf ","")
   check=(u+" "+alt).lower()
   accept=("logo" in check or "grb" in check or "escudo" in check or "crest" in check)
+  if "kusto" in name:accept=accept and ("kusto" in check or "kusto" in alt.lower())
   if "budva" in name:accept=accept and ("budva" in check or "logo" in alt.lower())
   if "iliria" in name:accept=accept and "iliria" in check
   if "zeta" in name:accept=accept and "zeta" in check
