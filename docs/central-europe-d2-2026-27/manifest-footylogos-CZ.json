@@ -1,0 +1,91 @@
+[
+  {
+    "teamId": 1971262100005,
+    "name": "FC Vysočina Jihlava",
+    "page": "https://www.footylogos.com/logos/fc-vysocina-jihlava",
+    "status": "VERIFIED_CREST",
+    "source": "FootyLogos verified named club page",
+    "source_png": "https://www.footylogos.com/dls/logo/fc-vysocina-jihlava.png",
+    "sha256": "6c43c0a37a8fa09212e5ea83081c40e2a2d6745aa73813a29df91fb4e8617be8",
+    "width": 120,
+    "height": 96,
+    "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-central-europe-d2-20261025/docs/central-europe-d2-2026-27/verified/1971262100005.png",
+    "source_pixels": [
+      82,
+      82
+    ]
+  },
+  {
+    "teamId": 1971262100008,
+    "name": "FK Třinec",
+    "page": "https://www.footylogos.com/logos/fk-trinec",
+    "status": "VERIFIED_CREST",
+    "source": "FootyLogos verified named club page",
+    "source_png": "https://www.footylogos.com/dls/logo/fk-trinec.png",
+    "sha256": "fcff0e76ddfc34cc91357162db16eff8da9092a0cdb112b824e3ebf857ad345c",
+    "width": 120,
+    "height": 96,
+    "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-central-europe-d2-20261025/docs/central-europe-d2-2026-27/verified/1971262100008.png",
+    "source_pixels": [
+      82,
+      82
+    ]
+  },
+  {
+    "teamId": 1971262100009,
+    "name": "FK VIAGEM Ústí nad Labem",
+    "page": "https://www.footylogos.com/logos/fk-viagem-usti-nad-labem",
+    "status": "VERIFIED_CREST",
+    "source": "FootyLogos verified named club page",
+    "source_png": "https://www.footylogos.com/dls/logo/fk-viagem-usti-nad-labem.png",
+    "sha256": "ec54aeff417db93114704fc0ff5cd78a53cde10356d1361a6d24a99a7f0191f9",
+    "width": 120,
+    "height": 96,
+    "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-central-europe-d2-20261025/docs/central-europe-d2-2026-27/verified/1971262100009.png",
+    "source_pixels": [
+      82,
+      82
+    ]
+  },
+  {
+    "teamId": 1971262100011,
+    "name": "Fotbal Příbram",
+    "page": "https://www.footylogos.com/logos/fotbal-pribram",
+    "status": "VERIFIED_CREST",
+    "source": "FootyLogos verified named club page",
+    "source_png": "https://www.footylogos.com/dls/logo/fotbal-pribram.png",
+    "sha256": "97eebf6f7644dda0e4af717813e23e5cf0bc48d6b72a2c8ccd0c8a25120cf672",
+    "width": 120,
+    "height": 96,
+    "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-central-europe-d2-20261025/docs/central-europe-d2-2026-27/verified/1971262100011.png",
+    "source_pixels": [
+      82,
+      82
+    ]
+  },
+  {
+    "teamId": 1971262100012,
+    "name": "MFK Karviná",
+    "page": "https://www.footylogos.com/logos/mfk-karvina",
+    "status": "VERIFIED_CREST",
+    "source": "FootyLogos verified named club page",
+    "source_png": "https://www.footylogos.com/dls/logo/mfk-karvina.png",
+    "sha256": "9246ef71f5d3f69185928c99ce865d7dae1685e7b154d12137260503b0f0d993",
+    "width": 120,
+    "height": 96,
+    "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-central-europe-d2-20261025/docs/central-europe-d2-2026-27/verified/1971262100012.png",
+    "source_pixels": [
+      82,
+      82
+    ]
+  },
+  {
+    "teamId": 1971262100016,
+    "name": "Slezský FC Opava",
+    "page": "https://www.footylogos.com/logos/slezsky-fc-opava",
+    "status": "PAGE_NOT_VERIFIED",
+    "source": "FootyLogos verified named club page",
+    "source_png": "https://www.footylogos.com/dls/logo/slezsky-fc-opava.png",
+    "http_status": 200
+  }
+]
