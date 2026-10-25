@@ -75,6 +75,45 @@ def request(url,params=None):
 def sources(wanted,alias):
  # Sources with explicit club identity metadata, never arbitrary image search hit.
  for q in [wanted,alias]:
+  # Exact-name searches against additional sport identity registries.
+  r=request("https://www.fotmob.com/api/data/search/suggest",{"term":q,"hits":30,"lang":"en"})
+  if r:
+   try:
+    payload=r.json()
+    suggestions=[]
+    if isinstance(payload,list):
+     for block in payload:suggestions.extend(block.get("suggestions",[]) if isinstance(block,dict) else [])
+    elif isinstance(payload,dict):
+     suggestions.extend(payload.get("teams",[]))
+     for block in payload.get("suggestions",[]):
+      if isinstance(block,dict):suggestions.extend(block.get("suggestions",[]))
+    for x in suggestions:
+     if not isinstance(x,dict) or x.get("type","team")!="team":continue
+     found=x.get("name","")
+     if acceptable(wanted,alias,found) and x.get("id"):
+      yield ("https://images.fotmob.com/image_resources/logo/teamlogo/"+str(x["id"])+".png","FotMob:search/suggest",found,r.url)
+   except Exception:pass
+  r=request("https://www.fotmob.com/api/searchData",{"term":q})
+  if r:
+   try:
+    payload=r.json()
+    for x in payload.get("team",[]) if isinstance(payload,dict) else []:
+     found=x.get("name","")
+     if acceptable(wanted,alias,found) and x.get("id"):
+      yield ("https://images.fotmob.com/image_resources/logo/teamlogo/"+str(x["id"])+".png","FotMob:searchData",found,r.url)
+   except Exception:pass
+  r=request("https://api.sofascore.com/api/v1/search/all",{"q":q})
+  if r:
+   try:
+    payload=r.json()
+    expected={"CZ":"Czechia","SK":"Slovakia","HU":"Hungary"}
+    for x in payload.get("results",[]) if isinstance(payload,dict) else []:
+     if not isinstance(x,dict) or x.get("type")!="team":continue
+     found=x.get("entity",{}).get("name","") if isinstance(x.get("entity"),dict) else x.get("name","")
+     tid=x.get("entity",{}).get("id") if isinstance(x.get("entity"),dict) else x.get("id")
+     if acceptable(wanted,alias,found) and tid:
+      yield ("https://api.sofascore.com/api/v1/team/"+str(tid)+"/image","SofaScore:search/all",found,r.url)
+   except Exception:pass
   r=request("https://www.thesportsdb.com/api/v1/json/3/searchteams.php",{"t":q})
   if r:
    try:
