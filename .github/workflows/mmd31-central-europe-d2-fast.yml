@@ -1,0 +1,37 @@
+name: Central Europe D2 fast verified crests
+on:
+  push:
+    branches:
+      - mmd31-central-europe-d2-20261025
+    paths:
+      - ".github/workflows/mmd31-central-europe-d2-fast.yml"
+permissions:
+  contents: write
+jobs:
+  verified_seeds:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: mmd31-central-europe-d2-20261025
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install requests Pillow
+      - name: Fetch independently verified club assets
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          s=Path('tools/mmd31_central_europe_d2_badges.py').read_text()
+          s=s.replace('with ThreadPoolExecutor(max_workers=7) as pool:',"DATA=[x for x in DATA if x[1] in SEEDS]\\nwith ThreadPoolExecutor(max_workers=7) as pool:")
+          exec(compile(s,'tools/mmd31_central_europe_d2_badges.py','exec'),{'__name__':'__main__'})
+          PY
+      - name: Commit confirmed images and manifest
+        run: |
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git add docs/central-europe-d2-2026-27
+          git commit -m "Publish first verified Central European D2 PNG crests" || exit 0
+          git pull --rebase origin mmd31-central-europe-d2-20261025
+          git push origin HEAD:mmd31-central-europe-d2-20261025
