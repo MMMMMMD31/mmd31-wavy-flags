@@ -1,0 +1,34 @@
+name: Exact-source Czech/Hungarian D2 crests
+on:
+  push:
+    branches: [mmd31-central-europe-d2-20261025]
+    paths: ['.github/workflows/mmd31-central-europe-d2-footylogos.yml']
+permissions:
+  contents: write
+jobs:
+  badges:
+    strategy:
+      fail-fast: false
+      matrix:
+        batch: [CZ, HU]
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: mmd31-central-europe-d2-20261025
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install requests pillow
+      - run: python tools/mmd31_central_europe_d2_footylogos.py ${{ matrix.batch }}
+      - name: Publish exact-match checked PNG and batch manifest
+        run: |
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git add docs/central-europe-d2-2026-27
+          if ! git diff --cached --quiet; then
+            git commit -m "Verified D2 badges: ${{ matrix.batch }} batch"
+            git pull --rebase origin mmd31-central-europe-d2-20261025
+            git push origin HEAD:mmd31-central-europe-d2-20261025
+          fi
