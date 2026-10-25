@@ -261,6 +261,41 @@ MMD31_D2_CLUB_ID_CRESTS = {
   "Gori": 61250
 }
 
+
+MOLDOVA_ARCHIVE_ALIASES={
+ 'CF Univer Comrat':['Univer Comrat','Univer'],
+ 'FCM Ungheni':['FCM Ungheni'],
+ 'Vulturii Cutezători Sîngerei':['Vulturii Cutezatori','Vulturii'],
+ 'CSF Spartanii Sportul Chișinău':['Spartanii Selemet','Spartanii Sportul','Sparta Selemet'],
+ 'FC Iskra Rîbnița':['Iskra-Ribinita','Iskra'],
+ 'FC Stăuceni':['Stauceni'],
+ 'FC Victoria Ialoveni':['Victoria Bardar','Victoria'],
+ 'CF Oguz Comrat':['Oguzsport','Oguz'],
+ 'FC Fălești':['Flacara Falesti','Flacara','Falesti'],
+ 'FC Național Ialoveni':['National Ialoveni','National']
+}
+def moldova_archive():
+ # Public club crest archive labelled with the 2026/27 Moldovan Liga 1 groups.
+ from urllib.parse import urljoin
+ out={};audit=[]
+ r=get('https://escudosfc.com.br/mol.htm',timeout=35)
+ if not r:return out
+ try:
+  from bs4 import BeautifulSoup
+  soup=BeautifulSoup(r.content,'html.parser')
+  for img in soup.find_all('img'):
+   url=img.get('src') or img.get('data-src') or ''
+   title=img.get('alt') or img.get('title') or ''
+   if not url or not title:continue
+   url=urljoin('https://escudosfc.com.br/mol.htm',url)
+   audit.append({'text':title,'url':url})
+   if urlparse(url).path.lower().endswith(('.png','.jpg','.jpeg','.webp')):
+    out.setdefault(norm(title),(url,"EscudosFC Moldova 2026/27 league crest archive",title))
+  (DATA/'archive-moldova-image-index.json').write_text(json.dumps(audit,ensure_ascii=False,indent=2))
+ except Exception as exc:
+  (DATA/'archive-moldova-image-index.json').write_text(json.dumps({'error':str(exc)},ensure_ascii=False))
+ return out
+
 PARENT_LOGOS={
  'Dinamo-2 Minsk':('by','dinamo-minsk'),
  'Minsk B':('by','fc-minsk'),
@@ -276,7 +311,7 @@ def family_candidate(name):
  url="https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-east-europe-d1-2026-v13-badges/docs/club-flags/east-europe-d1-2026/"+c+"/"+slug+".png"
  return (url,"Official parent-club crest (reserve)",name)
 
-g=guardian_catalog();e=espn_catalog()
+g=guardian_catalog();e=espn_catalog();md_archive=moldova_archive()
 saved={}
 try:
  saved={r['team_id']:r for r in json.loads((DATA/'badges-manifest.json').read_text())['records']}
@@ -295,6 +330,11 @@ for row in ROWS:
       continue
    except Exception:pass
 
+ if country=='MD':
+  for alias in MOLDOVA_ARCHIVE_ALIASES.get(team,[team]):
+   if norm(alias) in md_archive:
+    cand.append(md_archive[norm(alias)])
+    break
  tm_checked=MMD31_D2_CLUB_ID_CRESTS.get(team)
  if tm_checked:
   cand.append((f"https://tmssl.akamaized.net/images/wappen/head/{tm_checked}.png","Transfermarkt documented club profile ID",team))
