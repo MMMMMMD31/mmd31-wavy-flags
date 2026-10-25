@@ -5,6 +5,7 @@ on:
       - mmd31-central-europe-d2-20261025
     paths:
       - ".github/workflows/mmd31-central-europe-d2-20261025.yml"
+      - "tools/mmd31_central_europe_d2_badges.py"
   workflow_dispatch:
 permissions:
   contents: write
