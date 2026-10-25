@@ -1,0 +1,32 @@
+name: MMD31 Repair 32 missing D2 crests 2026
+on:
+  push:
+    paths:
+      - 'tools/mmd31_cge33_missing32_20261025.py'
+      - '.github/workflows/mmd31-cge33-missing32.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  crests:
+    runs-on: ubuntu-latest
+    timeout-minutes: 18
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install -q pillow cairosvg requests beautifulsoup4
+      - run: python tools/mmd31_cge33_missing32_20261025.py
+      - name: Commit only identified crest assets and manifest
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/cge33-adriatic-d2-2026-27/v1/
+          if ! git diff --cached --quiet; then
+            git commit -m "Add missing real club crest PNGs"
+            git push origin HEAD:refs/heads/${GITHUB_REF_NAME}
+          fi
