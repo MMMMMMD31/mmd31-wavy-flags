@@ -83,9 +83,16 @@
     "teamId": 1971262100016,
     "name": "Slezský FC Opava",
     "page": "https://www.footylogos.com/logos/slezsky-fc-opava",
-    "status": "PAGE_NOT_VERIFIED",
+    "status": "VERIFIED_CREST",
     "source": "FootyLogos verified named club page",
     "source_png": "https://www.footylogos.com/dls/logo/slezsky-fc-opava.png",
-    "http_status": 200
+    "sha256": "5b531e31afbcf7a1773f7f13a2adac02f94fad99942aa0aa213207037945f07e",
+    "width": 120,
+    "height": 96,
+    "flagUrl": "https://raw.githubusercontent.com/MMMMMMD31/mmd31-wavy-flags/mmd31-central-europe-d2-20261025/docs/central-europe-d2-2026-27/verified/1971262100016.png",
+    "source_pixels": [
+      82,
+      82
+    ]
   }
 ]
