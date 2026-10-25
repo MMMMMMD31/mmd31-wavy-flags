@@ -24,7 +24,7 @@ jobs:
           python - <<'PY'
           from pathlib import Path
           s=Path('tools/mmd31_central_europe_d2_badges.py').read_text()
-          s=s.replace('with ThreadPoolExecutor(max_workers=7) as pool:',"DATA=[x for x in DATA if x[1] in SEEDS]\\nwith ThreadPoolExecutor(max_workers=7) as pool:")
+          s=s.replace('with ThreadPoolExecutor(max_workers=7) as pool:',"DATA=[x for x in DATA if x[1] in SEEDS]"+chr(10)+"with ThreadPoolExecutor(max_workers=7) as pool:")
           exec(compile(s,'tools/mmd31_central_europe_d2_badges.py','exec'),{'__name__':'__main__'})
           PY
       - name: Commit confirmed images and manifest
