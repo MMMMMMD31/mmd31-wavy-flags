@@ -22,6 +22,18 @@ jobs:
         with:
           python-version: '3.11'
       - run: pip install requests Pillow
+      - name: Record runner startup on badge branch
+        run: |
+          mkdir -p docs/central-europe-d2-2026-27
+          echo "Runner started for 44 2026-27 clubs" > docs/central-europe-d2-2026-27/job-started.txt
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git add docs/central-europe-d2-2026-27/job-started.txt
+          if ! git diff --cached --quiet; then
+            git commit -m "Log badge research runner startup"
+            git pull --rebase origin mmd31-central-europe-d2-20261025
+            git push origin HEAD:mmd31-central-europe-d2-20261025
+          fi
       - name: Research, verify, render and document
         run: python tools/mmd31_central_europe_d2_badges.py
       - name: Publish images and manifest in the same branch
@@ -31,5 +43,6 @@ jobs:
           git add docs/central-europe-d2-2026-27
           if ! git diff --cached --quiet; then
             git commit -m "Publish verified 120x96 Central European D2 club badges and audit"
-            git push
+            git pull --rebase origin mmd31-central-europe-d2-20261025
+            git push origin HEAD:mmd31-central-europe-d2-20261025
           fi
