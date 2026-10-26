@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1912262603001,
+    "name": "KPV Kokkola",
+    "svg": "KPV_Kokkola.svg",
+    "background": "#E7F2E7",
+    "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/finland/KPV_Kokkola.svg",
+    "sha256": "5d3e041b0c6571b374ef16041cf0c50b84a3a7cc1fba7f555c975f32e4ca8361",
+    "png": "docs/cge35-europelight-v91/cup-invitations/1912262603001.png"
+  },
+  {
+    "id": 1912262603002,
+    "name": "OLS Oulu",
+    "svg": "OLS_Oulu.svg",
+    "background": "#EDF2FC",
+    "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/finland/OLS_Oulu.svg",
+    "sha256": "4f8e2f7ede18d58ad637bf5cbadcccabc57189a3263044819a04e0f4af2d01cf",
+    "png": "docs/cge35-europelight-v91/cup-invitations/1912262603002.png"
+  }
+]
