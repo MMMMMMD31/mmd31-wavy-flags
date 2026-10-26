@@ -1,0 +1,11 @@
+{
+  "totalCandidates": 54408,
+  "assessed": 51137,
+  "uniqueFiles": 4751,
+  "branches": 76,
+  "statuses": {
+    "SCREEN_OK": 51090,
+    "SEVERE_LOW_VISIBILITY": 44,
+    "WEAK_COLOR_SEPARATION": 3
+  }
+}
