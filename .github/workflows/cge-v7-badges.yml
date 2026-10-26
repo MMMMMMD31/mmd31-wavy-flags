@@ -1,0 +1,34 @@
+name: CGE V7 league crest conversion
+on:
+  push:
+    paths:
+      - 'tools/cge_v7_badges.py'
+      - 'tools/cge_v7_badges_sources.txt'
+      - '.github/workflows/cge-v7-badges.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install --quiet pillow cairosvg requests
+      - name: Render audited SVG crests
+        run: python tools/cge_v7_badges.py
+      - name: Publish badge assets and report
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/cge-v7-d3-2026-27/v1/
+          if ! git diff --cached --quiet; then
+            git commit -m "Publish CGE V7 crest PNGs (120x96) and manifest"
+            git push origin HEAD:refs/heads/${GITHUB_REF_NAME}
+          fi
