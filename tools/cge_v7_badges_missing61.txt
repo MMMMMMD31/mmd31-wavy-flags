@@ -1,0 +1,61 @@
+2190262000023|Turkey|Altınordu
+2190262000038|Czechia|FK Králův Dvůr
+2190262000040|Czechia|FK Motorlet Praha
+2190262000043|Czechia|FK Loko Praha
+2190262000045|Czechia|FK Admira Praha
+2190262000050|Czechia|SK Aritma Praha
+2190262000051|Czechia|FK Benešov
+2190262000052|Czechia|Povltavská FA
+2190262000053|Czechia|SK Zápy
+2190262000056|Czechia|SK Benátky nad Jizerou
+2190262000059|Czechia|FK Baník Most-Souš
+2190262000061|Czechia|FK Čáslav
+2190262000063|Czechia|FK Horní Ředice
+2190262000064|Czechia|FK Neratovice-Byškovice
+2190262000065|Czechia|SK Sokol Brozany
+2190262000068|Czechia|FK Velké Hamry
+2190262000073|Czechia|SK Hranice
+2190262000076|Czechia|TJ Unie Hlubina
+2190262000077|Czechia|ČSK Uherský Brod
+2190262000078|Czechia|FK Hodonín
+2190262000079|Czechia|MFK Vítkovice
+2190262000082|Czechia|SFK Vrchovina
+2190262000083|Czechia|MFK Havířov
+2190262000084|Czechia|FK Blansko
+2190262000085|Czechia|FC Vsetín
+2190262000086|Czechia|FK SK Polanka
+2190262000087|Poland|Avia Świdnik
+2190262000088|Poland|Chojniczanka Chojnice
+2190262000092|Poland|Lechia Zielona Góra
+2190262000094|Poland|Olimpia Grudziądz
+2190262000095|Poland|Podhale Nowy Targ
+2190262000096|Poland|Rekord Bielsko-Biała
+2190262000097|Poland|Resovia Rzeszów
+2190262000098|Poland|Sandecja Nowy Sącz
+2190262000099|Poland|Sokół Kleczew
+2190262000100|Poland|Stal Stalowa Wola
+2190262000102|Poland|Świt Szczecin
+2190262000103|Poland|Zawisza Bydgoszcz
+2190262000105|Norway|Lysekloster
+2190262000106|Norway|Sotra
+2190262000107|Norway|Sandviken
+2190262000108|Norway|Pors
+2190262000109|Norway|Notodden
+2190262000111|Norway|Arendal
+2190262000112|Norway|Eik Tønsberg
+2190262000114|Norway|Bjarg
+2190262000115|Norway|Vidar
+2190262000116|Norway|Kvik Halden
+2190262000117|Norway|Brattvåg
+2190262000118|Norway|Træff
+2190262000120|Norway|Kjelsås
+2190262000122|Norway|Levanger
+2190262000124|Norway|Ull/Kisa
+2190262000125|Norway|Eidsvold Turn
+2190262000126|Norway|Rana
+2190262000127|Norway|Stjørdals-Blink
+2190262000128|Norway|Junkeren
+2190262000129|Norway|Lørenskog
+2190262000130|Norway|Trygg/Lade
+2190262000131|Norway|Tromsdalen
+2190262000132|Norway|Grorud
