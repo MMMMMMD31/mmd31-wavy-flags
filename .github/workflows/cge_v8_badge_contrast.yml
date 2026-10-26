@@ -1,0 +1,34 @@
+name: CGE V8 Full Club Badge Contrast Audit
+on:
+  push:
+    paths:
+      - ".github/workflows/cge_v8_badge_contrast.yml"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Fetch all project badge branches
+        run: git fetch origin '+refs/heads/*:refs/remotes/origin/*' --no-tags
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install --quiet pillow
+      - name: Analyze contrast without replacing club artwork
+        run: python scripts/cge_v8_audit_badge_contrast.py
+      - name: Commit audited results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/cge-v8-contrast-audit
+          if ! git diff --cached --quiet; then
+            git commit -m "CGE V8: full 120x96 badge contrast scan across branches"
+            git pull --rebase origin main
+            git push origin main
+          fi
