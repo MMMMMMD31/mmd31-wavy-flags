@@ -1,6 +1,6 @@
 {
   "count": 141,
-  "success": 43,
+  "success": 48,
   "items": [
     {
       "id": 2190262000023,
@@ -3025,22 +3025,22 @@
       "status": "MISSING",
       "suggestions": [
         {
-          "score": 0.33,
+          "score": 0.483,
           "title": "Other club logo · Iceland UMF Afturelding",
           "page": "https://www.footylogos.com/logos/umf-afturelding"
         },
         {
-          "score": 0.214,
+          "score": 0.188,
           "title": "KA Akureyri",
           "page": "https://www.footylogos.com/logos/ka-akureyri"
         },
         {
-          "score": 0.196,
+          "score": 0.173,
           "title": "Thor Akureyri",
           "page": "https://www.footylogos.com/logos/thor-akureyri"
         },
         {
-          "score": 0.171,
+          "score": 0.15,
           "title": "Breidablik",
           "page": "https://www.footylogos.com/logos/breidablik"
         }
@@ -3305,24 +3305,24 @@
       "status": "MISSING",
       "suggestions": [
         {
-          "score": 0.296,
+          "score": 0.338,
           "title": "Other club logo · Iceland IF Vestri",
           "page": "https://www.footylogos.com/logos/if-vestri"
         },
         {
-          "score": 0.193,
+          "score": 0.169,
           "title": "Stjarnan",
           "page": "https://www.footylogos.com/logos/stjarnan"
         },
         {
-          "score": 0.169,
-          "title": "KA Akureyri",
-          "page": "https://www.footylogos.com/logos/ka-akureyri"
+          "score": 0.164,
+          "title": "IBV",
+          "page": "https://www.footylogos.com/logos/ibv"
         },
         {
-          "score": 0.164,
-          "title": "Valur",
-          "page": "https://www.footylogos.com/logos/valur"
+          "score": 0.159,
+          "title": "IA Akranes",
+          "page": "https://www.footylogos.com/logos/ia-akranes"
         }
       ]
     },
@@ -3494,29 +3494,34 @@
       "id": 1906251000057,
       "country": "Norway",
       "name": "Strømsgodset",
-      "status": "MISSING",
+      "status": "VERIFIED_SAME_COUNTRY_CATALOG",
       "suggestions": [
         {
-          "score": 0.667,
+          "score": 1.0,
           "title": "Strømsgodset Toppfotball",
           "page": "https://www.footylogos.com/logos/stromsgodset-toppfotball"
         },
         {
-          "score": 0.5,
+          "score": 0.358,
           "title": "Strømmen IF",
           "page": "https://www.footylogos.com/logos/strommen-if"
         },
         {
-          "score": 0.205,
-          "title": "Lillestrøm SK",
-          "page": "https://www.footylogos.com/logos/lillestrom-sk"
+          "score": 0.25,
+          "title": "Sogndal Fotball",
+          "page": "https://www.footylogos.com/logos/sogndal-fotball"
         },
         {
-          "score": 0.2,
-          "title": "IK Start",
-          "page": "https://www.footylogos.com/logos/start"
+          "score": 0.238,
+          "title": "Åsane Fotball",
+          "page": "https://www.footylogos.com/logos/asane-fotball"
         }
-      ]
+      ],
+      "source_url": "https://assets.footylogos.com/previews/stromsgodset-toppfotball/stromsgodset-toppfotball-logo-footylogos-1200.webp",
+      "page": "https://www.footylogos.com/logos/stromsgodset-toppfotball",
+      "source_name": "Strømsgodset Toppfotball",
+      "score": 1.0,
+      "sha256": "719193be7011829812a89dc440918161caf44a7d61e7b9c1f9dac7117dbeba47"
     },
     {
       "id": 1906251000058,
@@ -3588,29 +3593,34 @@
       "id": 1906251000060,
       "country": "Norway",
       "name": "Egersund",
-      "status": "MISSING",
+      "status": "VERIFIED_SAME_COUNTRY_CATALOG",
       "suggestions": [
         {
-          "score": 0.379,
+          "score": 1.0,
           "title": "Egersunds IK",
           "page": "https://www.footylogos.com/logos/egersunds-ik"
         },
         {
-          "score": 0.284,
+          "score": 0.375,
+          "title": "IK Start",
+          "page": "https://www.footylogos.com/logos/start"
+        },
+        {
+          "score": 0.245,
           "title": "FK Haugesund",
           "page": "https://www.footylogos.com/logos/fk-haugesund"
         },
         {
-          "score": 0.281,
+          "score": 0.237,
           "title": "Aalesund",
           "page": "https://www.footylogos.com/logos/aalesund"
-        },
-        {
-          "score": 0.205,
-          "title": "Kristiansund BK",
-          "page": "https://www.footylogos.com/logos/kristiansund-bk"
         }
-      ]
+      ],
+      "source_url": "https://assets.footylogos.com/previews/egersunds-ik-logo-footylogos-1200.webp",
+      "page": "https://www.footylogos.com/logos/egersunds-ik",
+      "source_name": "Egersunds IK",
+      "score": 1.0,
+      "sha256": "f27571f0577d4ce7745d9d4198323ef284210ce7dfdc0b63dfdc9a3387ce6498"
     },
     {
       "id": 1906251000061,
@@ -3748,29 +3758,34 @@
       "id": 1906251000065,
       "country": "Norway",
       "name": "Odd",
-      "status": "MISSING",
+      "status": "VERIFIED_SAME_COUNTRY_CATALOG",
       "suggestions": [
         {
-          "score": 0.3,
+          "score": 1.0,
           "title": "Odds BK",
           "page": "https://www.footylogos.com/logos/odds-bk"
         },
         {
           "score": 0.225,
-          "title": "IL Hødd",
-          "page": "https://www.footylogos.com/logos/hodd"
+          "title": "Moss FK",
+          "page": "https://www.footylogos.com/logos/moss"
         },
         {
-          "score": 0.18,
+          "score": 0.212,
+          "title": "Rosenborg BK",
+          "page": "https://www.footylogos.com/logos/rosenborg-bk"
+        },
+        {
+          "score": 0.208,
           "title": "Molde FK",
           "page": "https://www.footylogos.com/logos/molde-fk"
-        },
-        {
-          "score": 0.138,
-          "title": "FK Bodø/Glimt",
-          "page": "https://www.footylogos.com/logos/fk-bodo-glimt"
         }
-      ]
+      ],
+      "source_url": "https://assets.footylogos.com/previews/odds-bk/odds-bk-logo-footylogos-1200.webp",
+      "page": "https://www.footylogos.com/logos/odds-bk",
+      "source_name": "Odds BK",
+      "score": 1.0,
+      "sha256": "8f06678580c42716380d2f34e9eaf74d6a120fdb78f599cc89037b0ba015d0f2"
     },
     {
       "id": 1906251000066,
@@ -3875,57 +3890,67 @@
       "id": 1906251000069,
       "country": "Norway",
       "name": "Stabæk",
-      "status": "MISSING",
+      "status": "VERIFIED_SAME_COUNTRY_CATALOG",
       "suggestions": [
         {
-          "score": 0.815,
+          "score": 1.0,
           "title": "Stabæk Fotball",
           "page": "https://www.footylogos.com/logos/stabaek-fotball"
         },
         {
-          "score": 0.245,
-          "title": "Odds BK",
-          "page": "https://www.footylogos.com/logos/odds-bk"
+          "score": 0.338,
+          "title": "Åsane Fotball",
+          "page": "https://www.footylogos.com/logos/asane-fotball"
         },
         {
-          "score": 0.237,
-          "title": "Kristiansund BK",
-          "page": "https://www.footylogos.com/logos/kristiansund-bk"
+          "score": 0.312,
+          "title": "Sogndal Fotball",
+          "page": "https://www.footylogos.com/logos/sogndal-fotball"
         },
         {
-          "score": 0.225,
-          "title": "IK Start",
-          "page": "https://www.footylogos.com/logos/start"
+          "score": 0.279,
+          "title": "Sandefjord Fotball",
+          "page": "https://www.footylogos.com/logos/sandefjord-fotball"
         }
-      ]
+      ],
+      "source_url": "https://assets.footylogos.com/logos/stabaek-fotball/stabaek-fotball-logo-footylogos.svg",
+      "page": "https://www.footylogos.com/logos/stabaek-fotball",
+      "source_name": "Stabæk Fotball",
+      "score": 1.0,
+      "sha256": "c10e33883461bd10ce120ba546249e08c0615767b4b0618339d2e665b088b79d"
     },
     {
       "id": 1906251000070,
       "country": "Norway",
       "name": "Åsane",
-      "status": "MISSING",
+      "status": "VERIFIED_SAME_COUNTRY_CATALOG",
       "suggestions": [
         {
-          "score": 0.815,
+          "score": 1.0,
           "title": "Åsane Fotball",
           "page": "https://www.footylogos.com/logos/asane-fotball"
         },
         {
-          "score": 0.24,
-          "title": "Sandnes Ulf",
-          "page": "https://www.footylogos.com/logos/sandnes-ulf"
+          "score": 0.346,
+          "title": "Ranheim Fotball",
+          "page": "https://www.footylogos.com/logos/ranheim-fotball"
         },
         {
-          "score": 0.225,
-          "title": "SK Brann",
-          "page": "https://www.footylogos.com/logos/sk-brann"
+          "score": 0.341,
+          "title": "Sandefjord Fotball",
+          "page": "https://www.footylogos.com/logos/sandefjord-fotball"
         },
         {
-          "score": 0.208,
-          "title": "Aalesund",
-          "page": "https://www.footylogos.com/logos/aalesund"
+          "score": 0.3,
+          "title": "Stabæk Fotball",
+          "page": "https://www.footylogos.com/logos/stabaek-fotball"
         }
-      ]
+      ],
+      "source_url": "https://assets.footylogos.com/logos/asane-fotball-logo-footylogos.svg",
+      "page": "https://www.footylogos.com/logos/asane-fotball",
+      "source_name": "Åsane Fotball",
+      "score": 1.0,
+      "sha256": "2d31741dec0c4e5ff072dfc147cffa9c715270f5973fc44a7813afdd1f90dc60"
     },
     {
       "id": 1906300001011,
