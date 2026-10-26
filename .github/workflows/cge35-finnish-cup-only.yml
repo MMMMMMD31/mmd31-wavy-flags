@@ -1,0 +1,27 @@
+name: CGE35 Finnish cup-only crests
+on:
+  push:
+    paths:
+      - 'tools/cge35_finnish_cup_only.py'
+      - '.github/workflows/cge35-finnish-cup-only.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 18
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install -q requests pillow cairosvg
+      - run: python tools/cge35_finnish_cup_only.py
+      - run: |
+          set -euo pipefail
+          test "$(find docs/cge35-europelight-v91/cup-invitations -name '*.png' | wc -l)" -eq 2
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/cge35-europelight-v91/cup-invitations/
+          git commit -m "CGE35: Finland 2026 cup-only club crests" && git push origin HEAD:refs/heads/${GITHUB_REF_NAME}
