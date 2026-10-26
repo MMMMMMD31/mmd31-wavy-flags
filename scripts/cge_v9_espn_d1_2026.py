@@ -59,6 +59,21 @@ REPLACEMENTS={
 "RC Strasbourg Alsace":["Strasbourg"],
 "Stade Rennais FC":["Rennes","Stade Rennais"],
 }
+REPLACEMENTS.update({
+"Toulouse FC":["Toulouse"],"OGC Nice":["Nice"],"Stade Brestois 29":["Brest"],"Angers SCO":["Angers"],"Le Mans FC":["Le Mans"],"ESTAC Troyes":["Troyes"],
+"1. FSV Mainz 05":["Mainz"],"1. FC Köln":["FC Cologne","Cologne"],
+"Real Betis Balompié":["Real Betis"],"Villarreal CF":["Villarreal"],"Sevilla FC":["Sevilla"],"RC Celta de Vigo":["Celta Vigo"],"CA Osasuna":["Osasuna"],"RCD Espanyol":["Espanyol"],
+"Valencia CF":["Valencia"],"Deportivo Alavés":["Alavés"],"RC Deportivo de La Coruña":["Deportivo"],"Elche CF":["Elche"],"Levante UD":["Levante"],"Getafe CF":["Getafe"],"Real Racing Club de Santander":["Racing Santander"],"Málaga CF":["Málaga"],
+"Inter":["Internazionale"],
+"Royale Union Saint-Gilloise":["Union St.-Gilloise"],"RSC Anderlecht":["Anderlecht"],"Club Brugge KV":["Club Brugge"],"Sporting Charleroi":["Royal Charleroi SC"],"KRC Genk":["Racing Genk"],"Royal Antwerp FC":["Antwerp"],"Cercle Brugge":["Cercle Brugge KSV"],"OH Leuven":["Oud-Heverlee Leuven"],"SK Beveren":["Waasland-Beveren"],
+"Ajax":["Ajax Amsterdam"],"Feyenoord":["Feyenoord Rotterdam"],"Excelsior Rotterdam":["Excelsior"],
+"Rio Ave FC":["Rio Ave"],"Gil Vicente FC":["Gil Vicente"],"Estrela Amadora":["Estrela"],"CS Marítimo":["Maritimo"],"Moreirense FC":["Moreirense"],"Estoril Praia":["Estoril"],"Casa Pia AC":["Casa Pia"],"Vitória SC":["Vitória de Guimaraes"],
+"SK Rapid Wien":["Rapid Vienna"],"FK Austria Wien":["Austria Vienna"],"SV Ried":["SV Josko Ried"],"Grazer AK 1902":["Grazer AK"],"FC Red Bull Salzburg":["RB Salzburg"],"LASK":["LASK Linz"],"WSG Tirol":["WSG Swarovski Tirol"],"Wolfsberger AC":["Wolfsberger"],"SCR Altach":["SC Rheindorf Altach"],
+"Sarpsborg 08":["Sarpsborg FK"],"HamKam":["Hamarkameratene"],"Kristiansund":["Kristiansund BK"],
+"Panathinaikos FC":["Panathinaikos"],"PAOK FC":["PAOK"],"AEK Athens FC":["AEK Athens"],"Olympiacos FC":["Olympiacos"],"AE Kifisia FC":["Kifisia"],"Kalamata FC":["Kalamata"],"Iraklis FC":["Iraklis"],"OFI Crete FC":["OFI Crete"],"Asteras Aktor FC":["Asteras Tripoli"],"Aris Thessaloniki FC":["Aris"],"Atromitos FC":["Atromitos"],"Panetolikos FC":["Panetolikos"],"Levadiakos FC":["Levadiakos"],
+"OB":["Odense Boldklub"],"Lyngby BK":["Lyngby Boldklub"],"Djurgårdens IF":["Djurgården"],
+"Amed Sportif Faaliyetler":["Amed SFK"],"Kasımpaşa":["Kasimpasa"],"Erzurumspor FK":["Erzurum BB"]
+})
 PREFIXES={"fk","fc","ac","sc","sk","mfc","mfk","cf","cd","ud","sd","rc","afc","ks","nk","if","ifk","afk","bsc","sv","vfl","vfb","as","stade","club"}
 
 def norm(s):
