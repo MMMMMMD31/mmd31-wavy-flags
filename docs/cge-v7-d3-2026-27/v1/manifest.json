@@ -1,0 +1,1002 @@
+{
+  "count": 83,
+  "successful": 83,
+  "crests": [
+    {
+      "id": 2190262000001,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/68_Aksaray_Belediyespor.svg",
+      "status": "PNG_120x96",
+      "sha256": "f59a18bdb8b0687b6cc63e071f61e363a938f04c1d9dc8b325e73c6f1cf595f6",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000001.png",
+      "bgcolor": [
+        238,
+        241,
+        245
+      ]
+    },
+    {
+      "id": 2190262000002,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Adana_Demirspor.svg",
+      "status": "PNG_120x96",
+      "sha256": "2640d5d1523a4e9d8432a9d8ea8aaddd7930d05c02ebde93fe7bcf83f2fe2f87",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000002.png",
+      "bgcolor": [
+        169,
+        169,
+        186
+      ]
+    },
+    {
+      "id": 2190262000003,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Alia%C4%9Fa_FK.svg",
+      "status": "PNG_120x96",
+      "sha256": "cc45634d92b3af8148379ceea0f870d039205d7584bc59a417747086b419b8b6",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000003.png",
+      "bgcolor": [
+        203,
+        195,
+        169
+      ]
+    },
+    {
+      "id": 2190262000004,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Ankaraspor.svg",
+      "status": "PNG_120x96",
+      "sha256": "58d87e620702e20832e3232d70ea86d92fe89968ccd950051a9e49d397ea22d3",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000004.png",
+      "bgcolor": [
+        169,
+        186,
+        211
+      ]
+    },
+    {
+      "id": 2190262000005,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Arnavutk%C3%B6y_Belediyespor.svg",
+      "status": "PNG_120x96",
+      "sha256": "dceb3cc27b0abbd9deb94ddd9ecf733feda1f84e028b271a7f9930e738dc122c",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000005.png",
+      "bgcolor": [
+        169,
+        195,
+        220
+      ]
+    },
+    {
+      "id": 2190262000006,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/%C3%87orluspor_1947.svg",
+      "status": "PNG_120x96",
+      "sha256": "95820b84a4e3cb97de4791f84d77f1f1d56dc74a18a826fc10f4786d707923e3",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000006.png",
+      "bgcolor": [
+        237,
+        169,
+        178
+      ]
+    },
+    {
+      "id": 2190262000007,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Elaz%C4%B1%C4%9Fspor.svg",
+      "status": "PNG_120x96",
+      "sha256": "fd9374497c1c0846cd66f043198cbeffb6576985849ce23d5e097e4f4958829f",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000007.png",
+      "bgcolor": [
+        237,
+        169,
+        169
+      ]
+    },
+    {
+      "id": 2190262000008,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Kastamonuspor.svg",
+      "status": "PNG_120x96",
+      "sha256": "75f3ea23d7c816333bb5dcf841f8191d37d3bec7de59675794098865ce817744",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000008.png",
+      "bgcolor": [
+        245,
+        178,
+        178
+      ]
+    },
+    {
+      "id": 2190262000009,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/G%C3%BCzide_Gebzespor.svg",
+      "status": "PNG_120x96",
+      "sha256": "1f9d7ef64ccf88d678eb12de5e522b9fb0c608974f121f0a91af6cc72a7ecf88",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000009.png",
+      "bgcolor": [
+        203,
+        195,
+        220
+      ]
+    },
+    {
+      "id": 2190262000010,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Hatayspor.svg",
+      "status": "PNG_120x96",
+      "sha256": "3fb29b3f960d3ae606fcb984d5b8ef862e1c9753b7473541bd355c2a0e6b2b02",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000010.png",
+      "bgcolor": [
+        228,
+        178,
+        178
+      ]
+    },
+    {
+      "id": 2190262000011,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Isparta_32_Spor.svg",
+      "status": "PNG_120x96",
+      "sha256": "0c0b569aa032ccc6eb002da2c38204b9bd97fb5224dc94f1d7e54e4da7bf7849",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000011.png",
+      "bgcolor": [
+        237,
+        169,
+        203
+      ]
+    },
+    {
+      "id": 2190262000012,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/%C4%B0neg%C3%B6l_Kafkas.svg",
+      "status": "PNG_120x96",
+      "sha256": "c6f29720da121518a8ffc08eb95d91f4e81138e34e7b920c821a46bd946e8993",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000012.png",
+      "bgcolor": [
+        169,
+        195,
+        178
+      ]
+    },
+    {
+      "id": 2190262000013,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/%C5%9Eanl%C4%B1urfaspor.svg",
+      "status": "PNG_120x96",
+      "sha256": "aed2bfd7f00ae8c67759e45cb79f2f95ed5c4b60212f405e48c56c23f945f7a2",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000013.png",
+      "bgcolor": [
+        178,
+        203,
+        195
+      ]
+    },
+    {
+      "id": 2190262000014,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Menemen_FK.svg",
+      "status": "PNG_120x96",
+      "sha256": "33c06e5794b8371c399dd7775108487aafc090704886beabb5150a266ef8f3e8",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000014.png",
+      "bgcolor": [
+        169,
+        186,
+        203
+      ]
+    },
+    {
+      "id": 2190262000015,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Erbaaspor.svg",
+      "status": "PNG_120x96",
+      "sha256": "587b20db9ef8713639a0dd6de49bbc4bc79fbd764de11be7c4c938d39d383a95",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000015.png",
+      "bgcolor": [
+        169,
+        195,
+        228
+      ]
+    },
+    {
+      "id": 2190262000016,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Mu%C5%9Fspor.svg",
+      "status": "PNG_120x96",
+      "sha256": "7da0a35608b806b55afce4dd30e769221cae1d7f7b099c2620b8e9ac445b85f6",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000016.png",
+      "bgcolor": [
+        203,
+        195,
+        169
+      ]
+    },
+    {
+      "id": 2190262000017,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Sebat_Gen%C3%A7lik_Spor.svg",
+      "status": "PNG_120x96",
+      "sha256": "c1569abcb190463d107db6d536b9627a0411dd6cb9c6e9dcdb02ec69b04d4824",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000017.png",
+      "bgcolor": [
+        237,
+        169,
+        169
+      ]
+    },
+    {
+      "id": 2190262000018,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Somaspor.svg",
+      "status": "PNG_120x96",
+      "sha256": "ec0c38665180c0b70d3c6809809fed70eaa96a677af907e936c5f1b13c99f6f1",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000018.png",
+      "bgcolor": [
+        245,
+        169,
+        169
+      ]
+    },
+    {
+      "id": 2190262000019,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/12_Bing%C3%B6lspor.svg",
+      "status": "PNG_120x96",
+      "sha256": "f7262c4808c5ad24cc9504f7d608a53b76c3764bb7f1ee6da100fbfbabc082ff",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000019.png",
+      "bgcolor": [
+        178,
+        220,
+        186
+      ]
+    },
+    {
+      "id": 2190262000020,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/1461_Trabzon_FK.svg",
+      "status": "PNG_120x96",
+      "sha256": "9f8d447307638d17e76101c4cefec123f6592a9745a3e3ccf39889be65fa7ab7",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000020.png",
+      "bgcolor": [
+        169,
+        178,
+        203
+      ]
+    },
+    {
+      "id": 2190262000021,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/52_Orduspor_FK.svg",
+      "status": "PNG_120x96",
+      "sha256": "44f6ef33ba2d4eab61a24f426e8fd2510a1d5bd62c09029194715095e89df24f",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000021.png",
+      "bgcolor": [
+        203,
+        178,
+        220
+      ]
+    },
+    {
+      "id": 2190262000022,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Adana_01_FK.svg",
+      "status": "PNG_120x96",
+      "sha256": "f189038a45c0dccc9fab031cbeb578870f5db4ab82d6aa5687a0344024d59efd",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000022.png",
+      "bgcolor": [
+        245,
+        237,
+        169
+      ]
+    },
+    {
+      "id": 2190262000024,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Erzincanspor.svg",
+      "status": "PNG_120x96",
+      "sha256": "bf45fefafd5b8fdbc355b5e8a8a7cc699a9cf9dccfe21f55af8ba2292e4f1881",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000024.png",
+      "bgcolor": [
+        253,
+        169,
+        169
+      ]
+    },
+    {
+      "id": 2190262000025,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Ankara_Demirspor.svg",
+      "status": "PNG_120x96",
+      "sha256": "406a67027dd74e667f86afc6470208940044f8bbc0e876168376af0fbbd3499b",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000025.png",
+      "bgcolor": [
+        169,
+        178,
+        211
+      ]
+    },
+    {
+      "id": 2190262000026,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Beyo%C4%9Flu_Yeni_%C3%87ar%C5%9F%C4%B1_FK.svg",
+      "status": "PNG_120x96",
+      "sha256": "833bd70a371bfd5227795ef081dd7f1283137e44c25a434c10a8a2fa8b628841",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000026.png",
+      "bgcolor": [
+        178,
+        220,
+        237
+      ]
+    },
+    {
+      "id": 2190262000027,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Fethiyespor.svg",
+      "status": "PNG_120x96",
+      "sha256": "da7d33c665cb0a8334b737aa99d9c39c04d98f0827d0756b6b32db6efb77a683",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000027.png",
+      "bgcolor": [
+        245,
+        178,
+        178
+      ]
+    },
+    {
+      "id": 2190262000028,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/%C4%B0skenderunspor.svg",
+      "status": "PNG_120x96",
+      "sha256": "b484f32d9906d0d8f5993b5ea14f8f812bbc00f4b914325625d8bc175c6c8787",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000028.png",
+      "bgcolor": [
+        169,
+        220,
+        245
+      ]
+    },
+    {
+      "id": 2190262000029,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Kahramanmara%C5%9F_%C4%B0stiklalspor.svg",
+      "status": "PNG_120x96",
+      "sha256": "e87f25bd3a59cd4f586ef574d7168159fc7bfe3cbc9411e13c17cd3ee6a26a8a",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000029.png",
+      "bgcolor": [
+        169,
+        178,
+        203
+      ]
+    },
+    {
+      "id": 2190262000030,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Karacabey_Belediye_Spor.svg",
+      "status": "PNG_120x96",
+      "sha256": "1e1695a92ff769649a4740547d04183c1edcacbd696f9959465f186397459c73",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000030.png",
+      "bgcolor": [
+        169,
+        203,
+        228
+      ]
+    },
+    {
+      "id": 2190262000031,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/K%C4%B1rklarelispor.svg",
+      "status": "PNG_120x96",
+      "sha256": "4e55771c6d413c2c8ccc86914d70eae3cc5e6628cf33e25ced363f5a61f7642d",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000031.png",
+      "bgcolor": [
+        169,
+        211,
+        203
+      ]
+    },
+    {
+      "id": 2190262000032,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/K%C3%BCtahyaspor.svg",
+      "status": "PNG_120x96",
+      "sha256": "6606c665d37769294aff695afaa2c6bef37efa81dc3f2799fdfc0b6c9b12c0c0",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000032.png",
+      "bgcolor": [
+        186,
+        169,
+        203
+      ]
+    },
+    {
+      "id": 2190262000033,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Ankarag%C3%BCc%C3%BC.svg",
+      "status": "PNG_120x96",
+      "sha256": "b6c7d91a989ad1ac844517154236b6846c3de490d1c5a2159825c49fdadc8aae",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000033.png",
+      "bgcolor": [
+        169,
+        169,
+        186
+      ]
+    },
+    {
+      "id": 2190262000034,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Sakaryaspor.svg",
+      "status": "PNG_120x96",
+      "sha256": "686649ccce30ac7f3b01326cdc680bb3a0ad562fb235e9c015dc8854ae26c8ab",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000034.png",
+      "bgcolor": [
+        169,
+        211,
+        186
+      ]
+    },
+    {
+      "id": 2190262000035,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/Serik_Belediyespor.svg",
+      "status": "PNG_120x96",
+      "sha256": "3c03a1dcc52c3945d10b39d45035b954a6a7d86df547e9c539c8e9a310807f72",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000035.png",
+      "bgcolor": [
+        169,
+        211,
+        195
+      ]
+    },
+    {
+      "id": 2190262000036,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/turkey/%C4%B0neg%C3%B6lspor.svg",
+      "status": "PNG_120x96",
+      "sha256": "b419401be3364d9bb9724de867504e56044d035d81f0cfe3652edecac2b802e4",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000036.png",
+      "bgcolor": [
+        203,
+        169,
+        169
+      ]
+    },
+    {
+      "id": 2190262000037,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/czech-republic/SK_Dynamo_%C4%8Cesk%C3%A9_Bud%C4%9Bjovice.svg",
+      "status": "PNG_120x96",
+      "sha256": "ed856cf7d5366d234f265ccac66ff310a0b8227e7702612b7296eb817399f2b6",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000037.png",
+      "bgcolor": [
+        238,
+        241,
+        245
+      ]
+    },
+    {
+      "id": 2190262000039,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/czech-republic/Jiskra_Domazlice.svg",
+      "status": "PNG_120x96",
+      "sha256": "9336abf0bd95ba6a805aa6b075666aa141e6994e7b3e52d5b2ed6f65c90199dd",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000039.png",
+      "bgcolor": [
+        169,
+        220,
+        245
+      ]
+    },
+    {
+      "id": 2190262000041,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/czech-republic/Viktoria_Plze%C5%88.svg",
+      "status": "PNG_120x96",
+      "sha256": "6d006c530589a81360feb9195235d720c9031f2e134a4db9075ff6078f9c1170",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000041.png",
+      "bgcolor": [
+        169,
+        169,
+        228
+      ]
+    },
+    {
+      "id": 2190262000042,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/czech-republic/AC_Sparta_Praha.svg",
+      "status": "PNG_120x96",
+      "sha256": "86856646512cbc653b535704670c3e5ab83c9e8db436ffa59ff148d00545c6c2",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000042.png",
+      "bgcolor": [
+        228,
+        178,
+        178
+      ]
+    },
+    {
+      "id": 2190262000044,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/czech-republic/SK_Slavia_Praha.svg",
+      "status": "PNG_120x96",
+      "sha256": "ae4541a50e7caa861059dfd498a93f0ecb784c12a578cd02c512edb35ce8cc64",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000044.png",
+      "bgcolor": [
+        245,
+        178,
+        186
+      ]
+    },
+    {
+      "id": 2190262000046,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/czech-republic/Bohemians_Praha.svg",
+      "status": "PNG_120x96",
+      "sha256": "343b8fa27c0db8434fcbe5e6b10a7b093093c87db4c808de49541907f363100c",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000046.png",
+      "bgcolor": [
+        169,
+        220,
+        186
+      ]
+    },
+    {
+      "id": 2190262000047,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/czech-republic/P%C3%ADsek.svg",
+      "status": "PNG_120x96",
+      "sha256": "056a9b9ef48d85a90e8c587f80c352593ce3308b658b4c32a1847a6a9d44c764",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000047.png",
+      "bgcolor": [
+        169,
+        169,
+        203
+      ]
+    },
+    {
+      "id": 2190262000048,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/czech-republic/P%C5%99%C3%ADbram.svg",
+      "status": "PNG_120x96",
+      "sha256": "d8dd205e63bd824c5a6091afe3b7175eaccda412a8688b14be3733a95facd3e0",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000048.png",
+      "bgcolor": [
+        169,
+        211,
+        186
+      ]
+    },
+    {
+      "id": 2190262000049,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/czech-republic/Dukla_Prague.svg",
+      "status": "PNG_120x96",
+      "sha256": "eb27ae7224ce293d9983a523fcb8c66436dde4f71dceb54c3489219d821354ea",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000049.png",
+      "bgcolor": [
+        203,
+        169,
+        169
+      ]
+    },
+    {
+      "id": 2190262000054,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/czech-republic/Jablonec.svg",
+      "status": "PNG_120x96",
+      "sha256": "38379b3d668566fe627d37653deb228511236b41dad8835a565bfce6f968c1d3",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000054.png",
+      "bgcolor": [
+        169,
+        211,
+        195
+      ]
+    },
+    {
+      "id": 2190262000055,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/czech-republic/Mlad%C3%A1_Boleslav.svg",
+      "status": "PNG_120x96",
+      "sha256": "123e10626a7a8dc4b65e2231b13030c44e619efc6079eece9f7a462ca255ee5d",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000055.png",
+      "bgcolor": [
+        169,
+        203,
+        220
+      ]
+    },
+    {
+      "id": 2190262000057,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/czech-republic/Pardubice.svg",
+      "status": "PNG_120x96",
+      "sha256": "3c7b5e1980e03e55125dfd86aeab20f8e1bba929ac04939b7bdfcfe88a679652",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000057.png",
+      "bgcolor": [
+        178,
+        186,
+        203
+      ]
+    },
+    {
+      "id": 2190262000058,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/czech-republic/Teplice.svg",
+      "status": "PNG_120x96",
+      "sha256": "27131e445f3df6da67ca6235a6509d59d5b74a0912940829cdc55844c0eab9bf",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000058.png",
+      "bgcolor": [
+        169,
+        178,
+        228
+      ]
+    },
+    {
+      "id": 2190262000060,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/czech-republic/FK_Varnsdorf.svg",
+      "status": "PNG_120x96",
+      "sha256": "574bd62fe3451da0917808c5d798e60b895a5edb9a484d7df46dad96b874fa88",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000060.png",
+      "bgcolor": [
+        169,
+        203,
+        228
+      ]
+    },
+    {
+      "id": 2190262000062,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/czech-republic/Hradec_Kr%C3%A1lov%C3%A9.svg",
+      "status": "PNG_120x96",
+      "sha256": "4d00348702dc665f8a7398e9d4a7ace656f9ba4b44a9fa925b63c3efd0ebdbce",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000062.png",
+      "bgcolor": [
+        237,
+        228,
+        203
+      ]
+    },
+    {
+      "id": 2190262000066,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/czech-republic/MFK_Chrudim.svg",
+      "status": "PNG_120x96",
+      "sha256": "66cea3d784e12f39affa6805a58163b2b6f7938092e222787c52a70ca4b4529b",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000066.png",
+      "bgcolor": [
+        169,
+        178,
+        195
+      ]
+    },
+    {
+      "id": 2190262000067,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/czech-republic/Slovan_Liberec.svg",
+      "status": "PNG_120x96",
+      "sha256": "60a23e402347fe5772cba0ae039c1e3fc37ead97cff49625b261b79d475a3d92",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000067.png",
+      "bgcolor": [
+        238,
+        241,
+        245
+      ]
+    },
+    {
+      "id": 2190262000069,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/czech-republic/SK_Artis_Brno.svg",
+      "status": "PNG_120x96",
+      "sha256": "13c3c485463c1ae4ffe02725278dbe70bd14fb59cd0af5bb15adff306bfc78af",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000069.png",
+      "bgcolor": [
+        169,
+        169,
+        211
+      ]
+    },
+    {
+      "id": 2190262000070,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/czech-republic/SK_Unicov.svg",
+      "status": "PNG_120x96",
+      "sha256": "a1456c807df4f75ebf9067ff50653618720a087146015bec78258777f673d47d",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000070.png",
+      "bgcolor": [
+        169,
+        211,
+        245
+      ]
+    },
+    {
+      "id": 2190262000071,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/czech-republic/FC_Zbrojovka_Brno.svg",
+      "status": "PNG_120x96",
+      "sha256": "3308af157f4eaf9a49370f4c96d1476b45989c1c3a58e8b6b3e2fec3634fcc64",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000071.png",
+      "bgcolor": [
+        169,
+        195,
+        220
+      ]
+    },
+    {
+      "id": 2190262000072,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/czech-republic/FK_Fr%C3%BDdek-M%C3%ADstek.svg",
+      "status": "PNG_120x96",
+      "sha256": "c350ebabe4c4143e81dceffc86c47aff298d13169b4acc7ddf43afa41a09d705",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000072.png",
+      "bgcolor": [
+        169,
+        178,
+        186
+      ]
+    },
+    {
+      "id": 2190262000074,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/czech-republic/Sigma_Olomouc.svg",
+      "status": "PNG_120x96",
+      "sha256": "94a5cd8605d3d861a8db611235856e6be4d2c9092ea5715ff4c57d9771a3887d",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000074.png",
+      "bgcolor": [
+        169,
+        195,
+        220
+      ]
+    },
+    {
+      "id": 2190262000075,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/czech-republic/1._FC_Slov%C3%A1cko.svg",
+      "status": "PNG_120x96",
+      "sha256": "4106e822a6d51894efea13430597e1c3c7bd44102284e5b0276dafa046946535",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000075.png",
+      "bgcolor": [
+        178,
+        178,
+        195
+      ]
+    },
+    {
+      "id": 2190262000080,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/czech-republic/Zl%C3%ADn.svg",
+      "status": "PNG_120x96",
+      "sha256": "a5e21f194f2fa4c7e9f89e16e7cf31a8517be0eb70342c164ea46dd0c7e07267",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000080.png",
+      "bgcolor": [
+        253,
+        237,
+        169
+      ]
+    },
+    {
+      "id": 2190262000081,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/czech-republic/Karvin%C3%A1.svg",
+      "status": "PNG_120x96",
+      "sha256": "3ae3393615d0db76260ee50fb82ed3c3fb789ad4a86cbfe1dd41a2f7ab84ee0f",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000081.png",
+      "bgcolor": [
+        169,
+        220,
+        186
+      ]
+    },
+    {
+      "id": 2190262000089,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/poland/GKS_Tychy.svg",
+      "status": "PNG_120x96",
+      "sha256": "6b03813d5c273bbabf6c782d0c1ea69c353a8e28d6882f1af8b3be7d3fca2083",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000089.png",
+      "bgcolor": [
+        245,
+        228,
+        203
+      ]
+    },
+    {
+      "id": 2190262000090,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/poland/G%C3%B3rnik_%C5%81%C4%99czna.svg",
+      "status": "PNG_120x96",
+      "sha256": "103e12824ca04de18e95a134a87daae61d40e4c32865369fcf5e22779170c5fc",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000090.png",
+      "bgcolor": [
+        169,
+        220,
+        186
+      ]
+    },
+    {
+      "id": 2190262000091,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/poland/Hutnik_Krak%C3%B3w.svg",
+      "status": "PNG_120x96",
+      "sha256": "9ade1afa68d8194cf0953d423d268a52fecdd68e4830bac7a0d478cfc6f1506d",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000091.png",
+      "bgcolor": [
+        169,
+        195,
+        211
+      ]
+    },
+    {
+      "id": 2190262000093,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/poland/Legia_Warszawa.svg",
+      "status": "PNG_120x96",
+      "sha256": "437c035c49c5abcb49d75a9d1efe121d21ecd0b9a36d9a35456c31d9b44d792b",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000093.png",
+      "bgcolor": [
+        169,
+        211,
+        186
+      ]
+    },
+    {
+      "id": 2190262000101,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/poland/%C5%9Al%C4%85sk_Wroc%C5%82aw.svg",
+      "status": "PNG_120x96",
+      "sha256": "86f121c13022d57d3fca4aa9d57363724e1d43dedf5de102efc43a2972972274",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000101.png",
+      "bgcolor": [
+        169,
+        220,
+        195
+      ]
+    },
+    {
+      "id": 2190262000104,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/poland/Znicz_Pruszk%C3%B3w.svg",
+      "status": "PNG_120x96",
+      "sha256": "335b88fcf5c8305d32aecbe020b9fde523353baf42bff7b6dae167864a17c36b",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000104.png",
+      "bgcolor": [
+        245,
+        178,
+        178
+      ]
+    },
+    {
+      "id": 2190262000110,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/norway/Jerv.svg",
+      "status": "PNG_120x96",
+      "sha256": "c9284bc3952cd9834988da4f7773118b2a8f18cdcc02da84bc7117acecca4a2f",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000110.png",
+      "bgcolor": [
+        169,
+        195,
+        228
+      ]
+    },
+    {
+      "id": 2190262000113,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/norway/Mj%C3%B8ndalen.svg",
+      "status": "PNG_120x96",
+      "sha256": "4912ea623834a19155ba5b84e10ba2232900303cf2164b83b5531aa9fa0f70c6",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000113.png",
+      "bgcolor": [
+        195,
+        178,
+        169
+      ]
+    },
+    {
+      "id": 2190262000119,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/norway/Skeid.svg",
+      "status": "PNG_120x96",
+      "sha256": "fbe55e9f9e28741096b05ea2171dab4b8797bab7a588abe3e4ba963430d47d1b",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000119.png",
+      "bgcolor": [
+        186,
+        186,
+        178
+      ]
+    },
+    {
+      "id": 2190262000121,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/norway/H%C3%B8nefoss_BK.svg",
+      "status": "PNG_120x96",
+      "sha256": "b9917b23c0c168c7bd60a3647aeb45b71156c306f8d209b43707b5d0125b4a74",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000121.png",
+      "bgcolor": [
+        186,
+        211,
+        178
+      ]
+    },
+    {
+      "id": 2190262000123,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/norway/Follo_FK.svg",
+      "status": "PNG_120x96",
+      "sha256": "36099cbe3f0fa8bedd3af728e584039ebf7545c7077a3bf432f46da26103ecfe",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000123.png",
+      "bgcolor": [
+        169,
+        195,
+        220
+      ]
+    },
+    {
+      "id": 2190262000133,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/denmark/B.93.svg",
+      "status": "PNG_120x96",
+      "sha256": "b26e6f429d2c0890237c49cab50b7caf2a7d29b0b950f404bf2b99cad7271d4d",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000133.png",
+      "bgcolor": [
+        169,
+        178,
+        195
+      ]
+    },
+    {
+      "id": 2190262000134,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/denmark/Brabrand_IF.svg",
+      "status": "PNG_120x96",
+      "sha256": "7bd4aebd2b61b099c6f399800125b961f38806c3d3b805f0978951ee4fadf4b3",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000134.png",
+      "bgcolor": [
+        169,
+        211,
+        237
+      ]
+    },
+    {
+      "id": 2190262000135,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/denmark/FA_2000.svg",
+      "status": "PNG_120x96",
+      "sha256": "40f68ab81cde0b2798ad9c686731861b1624c907b461e827026a7f00f834198c",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000135.png",
+      "bgcolor": [
+        169,
+        169,
+        211
+      ]
+    },
+    {
+      "id": 2190262000136,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/denmark/Fremad_Amager.svg",
+      "status": "PNG_120x96",
+      "sha256": "ccb119546e268e29c5f2853575710333532034ecf94eea9901666c218de7b953",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000136.png",
+      "bgcolor": [
+        178,
+        195,
+        220
+      ]
+    },
+    {
+      "id": 2190262000137,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/denmark/HIK.svg",
+      "status": "PNG_120x96",
+      "sha256": "a29302252454a5c4862ee910a19a5f03b9a7ef883e5e554e519da4bd8a69e966",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000137.png",
+      "bgcolor": [
+        169,
+        186,
+        203
+      ]
+    },
+    {
+      "id": 2190262000138,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/denmark/Middelfart_Boldklub.svg",
+      "status": "PNG_120x96",
+      "sha256": "63b553b40115beb2bc2955dff06e16a268da4df9a20599d1f32c43e58e1406e4",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000138.png",
+      "bgcolor": [
+        169,
+        186,
+        203
+      ]
+    },
+    {
+      "id": 2190262000139,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/denmark/N%C3%A6stved.svg",
+      "status": "PNG_120x96",
+      "sha256": "bc8108714dc64708ff43a019d50a03c86dfdc147a1a19facd4d8146f228c1fb5",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000139.png",
+      "bgcolor": [
+        186,
+        220,
+        195
+      ]
+    },
+    {
+      "id": 2190262000140,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/denmark/Nyk%C3%B8bing_FC.svg",
+      "status": "PNG_120x96",
+      "sha256": "463b8daeedec6aef030b503a86b4aa3d100d429064ca726bbc657e82e32f00cc",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000140.png",
+      "bgcolor": [
+        186,
+        220,
+        237
+      ]
+    },
+    {
+      "id": 2190262000141,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/denmark/FC_Roskilde.svg",
+      "status": "PNG_120x96",
+      "sha256": "7cac19dac7095ec4258cf7bc60c61acf7e0ae0c5422a2207db243b60c57c4959",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000141.png",
+      "bgcolor": [
+        186,
+        203,
+        228
+      ]
+    },
+    {
+      "id": 2190262000142,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/denmark/Skive.svg",
+      "status": "PNG_120x96",
+      "sha256": "847b318a33d8797b1a9958f5b40c35a483b218385256068237c3c46ed43866d5",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000142.png",
+      "bgcolor": [
+        245,
+        245,
+        169
+      ]
+    },
+    {
+      "id": 2190262000143,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/denmark/Thisted_FC.svg",
+      "status": "PNG_120x96",
+      "sha256": "eebfcd4809d1f684070c827c74176d0d38e2343fde27cbb819c14c228a55c3ca",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000143.png",
+      "bgcolor": [
+        178,
+        195,
+        228
+      ]
+    },
+    {
+      "id": 2190262000144,
+      "source": "https://raw.githubusercontent.com/JoseArroyave/football-logos/main/logos/denmark/VSK_Aarhus.svg",
+      "status": "PNG_120x96",
+      "sha256": "1b59e21ee24fba39d62f3d45ded21da88a564c9378524b8eaa0ef0d5b057d1ca",
+      "path": "docs/cge-v7-d3-2026-27/v1/2190262000144.png",
+      "bgcolor": [
+        169,
+        203,
+        228
+      ]
+    }
+  ]
+}
