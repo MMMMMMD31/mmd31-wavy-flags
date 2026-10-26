@@ -1,0 +1,1077 @@
+{
+  "count": 141,
+  "success": 3,
+  "items": [
+    {
+      "id": 2190262000023,
+      "name": "Altınordu",
+      "status": "ALREADY_PUBLISHED"
+    },
+    {
+      "id": 2190262000038,
+      "name": "FK Králův Dvůr",
+      "country": "Czechia",
+      "status": "VERIFIED_WIKI_ARTICLE_LOGO",
+      "qids": [
+        "Q5426212"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Special:Redirect/file/FK_Kr%C3%A1l%C5%AFv_Dv%C5%AFr_logo.png",
+      "article": "https://en.wikipedia.org/wiki/FK_Kr%C3%A1l%C5%AFv_Dv%C5%AFr",
+      "filename": "FK Králův Dvůr logo.png",
+      "score": 4,
+      "wikidata_qid": "Q5426212",
+      "sha256": "e9f0b9d61fced881075887fd3d52e0bbbb0a15c8641abefd234eb4e1b924a7cf"
+    },
+    {
+      "id": 2190262000040,
+      "name": "FK Motorlet Praha",
+      "country": "Czechia",
+      "status": "VERIFIED_WIKI_ARTICLE_LOGO",
+      "qids": [
+        "Q33057763"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Special:Redirect/file/SK_Motorlet_Prague_logo.png",
+      "article": "https://en.wikipedia.org/wiki/FK_Motorlet_Prague",
+      "filename": "SK Motorlet Prague logo.png",
+      "score": 4,
+      "wikidata_qid": "Q33057763",
+      "sha256": "30535e035b968d5117fe04eeafa6cc37b5f76819254cac4a5a021175570c34c9"
+    },
+    {
+      "id": 2190262000043,
+      "name": "FK Loko Praha",
+      "country": "Czechia",
+      "status": "VERIFIED_WIKI_ARTICLE_LOGO",
+      "qids": [
+        "Q6668719"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Special:Redirect/file/FK_Loko_Praha_logo.png",
+      "article": "https://en.wikipedia.org/wiki/FK_Loko_Prague",
+      "filename": "FK Loko Praha logo.png",
+      "score": 4,
+      "wikidata_qid": "Q6668719",
+      "sha256": "c783d577e7818aa8d4841c41bc1deb6930e32f05d005eaf897f534b586d34ebf"
+    },
+    {
+      "id": 2190262000045,
+      "name": "FK Admira Praha",
+      "country": "Czechia",
+      "status": "MISSING",
+      "qids": []
+    },
+    {
+      "id": 2190262000050,
+      "name": "SK Aritma Praha",
+      "country": "Czechia",
+      "status": "MISSING",
+      "qids": []
+    },
+    {
+      "id": 2190262000051,
+      "name": "FK Benešov",
+      "country": "Czechia",
+      "status": "MISSING",
+      "qids": [
+        "Q1809162"
+      ]
+    },
+    {
+      "id": 2190262000052,
+      "name": "Povltavská FA",
+      "country": "Czechia",
+      "status": "MISSING",
+      "qids": []
+    },
+    {
+      "id": 2190262000053,
+      "name": "SK Zápy",
+      "country": "Czechia",
+      "status": "MISSING",
+      "qids": [
+        "Q9179295"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q9179295&props=sitelinks&format=json"
+    },
+    {
+      "id": 2190262000056,
+      "name": "SK Benátky nad Jizerou",
+      "country": "Czechia",
+      "status": "MISSING",
+      "qids": [
+        "Q30348859"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q30348859&props=sitelinks&format=json"
+    },
+    {
+      "id": 2190262000059,
+      "name": "FK Baník Most-Souš",
+      "country": "Czechia",
+      "status": "MISSING",
+      "qids": []
+    },
+    {
+      "id": 2190262000061,
+      "name": "FK Čáslav",
+      "country": "Czechia",
+      "status": "MISSING",
+      "qids": [
+        "Q248345"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q248345&props=sitelinks&format=json"
+    },
+    {
+      "id": 2190262000063,
+      "name": "FK Horní Ředice",
+      "country": "Czechia",
+      "status": "MISSING",
+      "qids": []
+    },
+    {
+      "id": 2190262000064,
+      "name": "FK Neratovice-Byškovice",
+      "country": "Czechia",
+      "status": "MISSING",
+      "qids": [
+        "Q5426266"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q5426266&props=sitelinks&format=json"
+    },
+    {
+      "id": 2190262000065,
+      "name": "SK Sokol Brozany",
+      "country": "Czechia",
+      "status": "MISSING",
+      "qids": []
+    },
+    {
+      "id": 2190262000068,
+      "name": "FK Velké Hamry",
+      "country": "Czechia",
+      "status": "MISSING",
+      "qids": []
+    },
+    {
+      "id": 2190262000073,
+      "name": "SK Hranice",
+      "country": "Czechia",
+      "status": "MISSING",
+      "qids": [
+        "Q7390675"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q7390675&props=sitelinks&format=json"
+    },
+    {
+      "id": 2190262000076,
+      "name": "TJ Unie Hlubina",
+      "country": "Czechia",
+      "status": "MISSING",
+      "qids": []
+    },
+    {
+      "id": 2190262000077,
+      "name": "ČSK Uherský Brod",
+      "country": "Czechia",
+      "status": "MISSING",
+      "qids": [
+        "Q4433048"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q4433048&props=sitelinks&format=json"
+    },
+    {
+      "id": 2190262000078,
+      "name": "FK Hodonín",
+      "country": "Czechia",
+      "status": "MISSING",
+      "qids": [
+        "Q19601864"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q19601864&props=sitelinks&format=json"
+    },
+    {
+      "id": 2190262000079,
+      "name": "MFK Vítkovice",
+      "country": "Czechia",
+      "status": "MISSING",
+      "qids": [
+        "Q1387864"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q1387864&props=sitelinks&format=json"
+    },
+    {
+      "id": 2190262000082,
+      "name": "SFK Vrchovina",
+      "country": "Czechia",
+      "status": "MISSING",
+      "qids": [
+        "Q7389965"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q7389965&props=sitelinks&format=json"
+    },
+    {
+      "id": 2190262000083,
+      "name": "MFK Havířov",
+      "country": "Czechia",
+      "status": "MISSING",
+      "qids": [
+        "Q3502720"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q3502720&props=sitelinks&format=json"
+    },
+    {
+      "id": 2190262000084,
+      "name": "FK Blansko",
+      "country": "Czechia",
+      "status": "MISSING",
+      "qids": [
+        "Q11985950"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q11985950&props=sitelinks&format=json"
+    },
+    {
+      "id": 2190262000085,
+      "name": "FC Vsetín",
+      "country": "Czechia",
+      "status": "MISSING",
+      "qids": []
+    },
+    {
+      "id": 2190262000086,
+      "name": "FK SK Polanka",
+      "country": "Czechia",
+      "status": "MISSING",
+      "qids": []
+    },
+    {
+      "id": 2190262000087,
+      "name": "Avia Świdnik",
+      "country": "Poland",
+      "status": "MISSING",
+      "qids": [
+        "Q9162941"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q9162941&props=sitelinks&format=json"
+    },
+    {
+      "id": 2190262000088,
+      "name": "Chojniczanka Chojnice",
+      "country": "Poland",
+      "status": "MISSING",
+      "qids": [
+        "Q4498918"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q4498918&props=sitelinks&format=json"
+    },
+    {
+      "id": 2190262000092,
+      "name": "Lechia Zielona Góra",
+      "country": "Poland",
+      "status": "MISSING",
+      "qids": [
+        "Q1164141"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q1164141&props=sitelinks&format=json"
+    },
+    {
+      "id": 2190262000094,
+      "name": "Olimpia Grudziądz",
+      "country": "Poland",
+      "status": "MISSING",
+      "qids": [
+        "Q375734"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q375734&props=sitelinks&format=json"
+    },
+    {
+      "id": 2190262000095,
+      "name": "Podhale Nowy Targ",
+      "country": "Poland",
+      "status": "MISSING",
+      "qids": [
+        "Q25412984"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q25412984&props=sitelinks&format=json"
+    },
+    {
+      "id": 2190262000096,
+      "name": "Rekord Bielsko-Biała",
+      "country": "Poland",
+      "status": "MISSING",
+      "qids": [
+        "Q126678676"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q126678676&props=sitelinks&format=json"
+    },
+    {
+      "id": 2190262000097,
+      "name": "Resovia Rzeszów",
+      "country": "Poland",
+      "status": "MISSING",
+      "qids": []
+    },
+    {
+      "id": 2190262000098,
+      "name": "Sandecja Nowy Sącz",
+      "country": "Poland",
+      "status": "MISSING",
+      "qids": [
+        "Q1198933"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q1198933&props=sitelinks&format=json"
+    },
+    {
+      "id": 2190262000099,
+      "name": "Sokół Kleczew",
+      "country": "Poland",
+      "status": "MISSING",
+      "qids": [
+        "Q28672861"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q28672861&props=sitelinks&format=json"
+    },
+    {
+      "id": 2190262000100,
+      "name": "Stal Stalowa Wola",
+      "country": "Poland",
+      "status": "MISSING",
+      "qids": [
+        "Q1466362"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q1466362&props=sitelinks&format=json"
+    },
+    {
+      "id": 2190262000102,
+      "name": "Świt Szczecin",
+      "country": "Poland",
+      "status": "MISSING",
+      "qids": [
+        "Q56324602"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q56324602&props=sitelinks&format=json"
+    },
+    {
+      "id": 2190262000103,
+      "name": "Zawisza Bydgoszcz",
+      "status": "ALREADY_PUBLISHED"
+    },
+    {
+      "id": 2190262000105,
+      "name": "Lysekloster",
+      "country": "Norway",
+      "status": "MISSING",
+      "qids": [
+        "Q11987169"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q11987169&props=sitelinks&format=json"
+    },
+    {
+      "id": 2190262000106,
+      "name": "Sotra",
+      "country": "Norway",
+      "status": "MISSING",
+      "qids": [
+        "Q12002116"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q12002116&props=sitelinks&format=json"
+    },
+    {
+      "id": 2190262000107,
+      "name": "Sandviken",
+      "country": "Norway",
+      "status": "MISSING",
+      "qids": []
+    },
+    {
+      "id": 2190262000108,
+      "name": "Pors",
+      "country": "Norway",
+      "status": "MISSING",
+      "qids": []
+    },
+    {
+      "id": 2190262000109,
+      "name": "Notodden",
+      "country": "Norway",
+      "status": "MISSING",
+      "qids": [
+        "Q2404433"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q2404433&props=sitelinks&format=json"
+    },
+    {
+      "id": 2190262000111,
+      "name": "Arendal",
+      "country": "Norway",
+      "status": "MISSING",
+      "qids": []
+    },
+    {
+      "id": 2190262000112,
+      "name": "Eik Tønsberg",
+      "status": "ALREADY_PUBLISHED"
+    },
+    {
+      "id": 2190262000114,
+      "name": "Bjarg",
+      "country": "Norway",
+      "status": "MISSING",
+      "qids": [
+        "Q4586265"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q4586265&props=sitelinks&format=json"
+    },
+    {
+      "id": 2190262000115,
+      "name": "Vidar",
+      "country": "Norway",
+      "status": "MISSING",
+      "qids": []
+    },
+    {
+      "id": 2190262000116,
+      "name": "Kvik Halden",
+      "country": "Norway",
+      "status": "MISSING",
+      "qids": [
+        "Q962844"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q962844&props=sitelinks&format=json"
+    },
+    {
+      "id": 2190262000117,
+      "name": "Brattvåg",
+      "country": "Norway",
+      "status": "MISSING",
+      "qids": [
+        "Q4958155"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q4958155&props=sitelinks&format=json"
+    },
+    {
+      "id": 2190262000118,
+      "name": "Træff",
+      "country": "Norway",
+      "status": "MISSING",
+      "qids": [
+        "Q7390708"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q7390708&props=sitelinks&format=json"
+    },
+    {
+      "id": 2190262000120,
+      "name": "Kjelsås",
+      "country": "Norway",
+      "status": "MISSING",
+      "qids": [
+        "Q11980909"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q11980909&props=sitelinks&format=json"
+    },
+    {
+      "id": 2190262000122,
+      "name": "Levanger",
+      "country": "Norway",
+      "status": "MISSING",
+      "qids": [
+        "Q4586760"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q4586760&props=sitelinks&format=json"
+    },
+    {
+      "id": 2190262000124,
+      "name": "Ull/Kisa",
+      "country": "Norway",
+      "status": "MISSING",
+      "qids": [
+        "Q1780819"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q1780819&props=sitelinks&format=json"
+    },
+    {
+      "id": 2190262000125,
+      "name": "Eidsvold Turn",
+      "country": "Norway",
+      "status": "MISSING",
+      "qids": []
+    },
+    {
+      "id": 2190262000126,
+      "name": "Rana",
+      "country": "Norway",
+      "status": "MISSING",
+      "qids": []
+    },
+    {
+      "id": 2190262000127,
+      "name": "Stjørdals-Blink",
+      "country": "Norway",
+      "status": "MISSING",
+      "qids": [
+        "Q5971873"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q5971873&props=sitelinks&format=json"
+    },
+    {
+      "id": 2190262000128,
+      "name": "Junkeren",
+      "country": "Norway",
+      "status": "MISSING",
+      "qids": [
+        "Q5971610"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q5971610&props=sitelinks&format=json"
+    },
+    {
+      "id": 2190262000129,
+      "name": "Lørenskog",
+      "country": "Norway",
+      "status": "MISSING",
+      "qids": [
+        "Q1754198"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q1754198&props=sitelinks&format=json"
+    },
+    {
+      "id": 2190262000130,
+      "name": "Trygg/Lade",
+      "country": "Norway",
+      "status": "MISSING",
+      "qids": [
+        "Q19389967"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q19389967&props=sitelinks&format=json"
+    },
+    {
+      "id": 2190262000131,
+      "name": "Tromsdalen",
+      "country": "Norway",
+      "status": "MISSING",
+      "qids": [
+        "Q2705645"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q2705645&props=sitelinks&format=json"
+    },
+    {
+      "id": 2190262000132,
+      "name": "Grorud",
+      "country": "Norway",
+      "status": "MISSING",
+      "qids": [
+        "Q9164279"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q9164279&props=sitelinks&format=json"
+    },
+    {
+      "id": 1884520000305,
+      "name": "F.C. Kiryat Yam",
+      "country": "Israel",
+      "status": "MISSING",
+      "qids": [
+        "Q124487430"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q124487430&props=sitelinks&format=json"
+    },
+    {
+      "id": 1906100001001,
+      "name": "Olympia Yerevan",
+      "country": "Armenia",
+      "status": "MISSING",
+      "qids": []
+    },
+    {
+      "id": 1906100001005,
+      "name": "Avshar Ararat",
+      "country": "Armenia",
+      "status": "MISSING",
+      "qids": []
+    },
+    {
+      "id": 1906100001015,
+      "name": "Hayq",
+      "country": "Armenia",
+      "status": "MISSING",
+      "qids": []
+    },
+    {
+      "id": 1906200001003,
+      "name": "Şimal",
+      "country": "Azerbaijan",
+      "status": "MISSING",
+      "qids": []
+    },
+    {
+      "id": 1906200001004,
+      "name": "Gəncəbasar",
+      "country": "Azerbaijan",
+      "status": "MISSING",
+      "qids": []
+    },
+    {
+      "id": 1906200001005,
+      "name": "Xankəndi",
+      "country": "Azerbaijan",
+      "status": "MISSING",
+      "qids": []
+    },
+    {
+      "id": 1906200001007,
+      "name": "Mingəçevir",
+      "country": "Azerbaijan",
+      "status": "MISSING",
+      "qids": []
+    },
+    {
+      "id": 1906200001008,
+      "name": "Zaqatala",
+      "country": "Azerbaijan",
+      "status": "MISSING",
+      "qids": []
+    },
+    {
+      "id": 1906251000001,
+      "name": "Bala Town",
+      "status": "ALREADY_PUBLISHED"
+    },
+    {
+      "id": 1906251000002,
+      "name": "Bangor City 1876",
+      "status": "ALREADY_PUBLISHED"
+    },
+    {
+      "id": 1906251000003,
+      "name": "Brickfield Rangers",
+      "status": "ALREADY_PUBLISHED"
+    },
+    {
+      "id": 1906251000004,
+      "name": "Buckley Town",
+      "status": "ALREADY_PUBLISHED"
+    },
+    {
+      "id": 1906251000005,
+      "name": "Caersws",
+      "status": "ALREADY_PUBLISHED"
+    },
+    {
+      "id": 1906251000006,
+      "name": "Denbigh Town",
+      "status": "ALREADY_PUBLISHED"
+    },
+    {
+      "id": 1906251000007,
+      "name": "Gresford Athletic",
+      "status": "ALREADY_PUBLISHED"
+    },
+    {
+      "id": 1906251000008,
+      "name": "Guilsfield",
+      "status": "ALREADY_PUBLISHED"
+    },
+    {
+      "id": 1906251000009,
+      "name": "Holyhead Hotspur",
+      "status": "ALREADY_PUBLISHED"
+    },
+    {
+      "id": 1906251000010,
+      "name": "Llanuwchllyn",
+      "status": "ALREADY_PUBLISHED"
+    },
+    {
+      "id": 1906251000011,
+      "name": "Mold Alexandra",
+      "status": "ALREADY_PUBLISHED"
+    },
+    {
+      "id": 1906251000012,
+      "name": "Newtown",
+      "status": "ALREADY_PUBLISHED"
+    },
+    {
+      "id": 1906251000013,
+      "name": "Penrhyncoch",
+      "status": "ALREADY_PUBLISHED"
+    },
+    {
+      "id": 1906251000014,
+      "name": "Porthmadog",
+      "status": "ALREADY_PUBLISHED"
+    },
+    {
+      "id": 1906251000015,
+      "name": "Rhyl 1879",
+      "status": "ALREADY_PUBLISHED"
+    },
+    {
+      "id": 1906251000016,
+      "name": "Ruthin Town",
+      "status": "ALREADY_PUBLISHED"
+    },
+    {
+      "id": 1906251000017,
+      "name": "Aberystwyth Town",
+      "status": "ALREADY_PUBLISHED"
+    },
+    {
+      "id": 1906251000018,
+      "name": "Afan Lido",
+      "status": "ALREADY_PUBLISHED"
+    },
+    {
+      "id": 1906251000019,
+      "name": "Baglan Dragons",
+      "status": "ALREADY_PUBLISHED"
+    },
+    {
+      "id": 1906251000020,
+      "name": "Caerau Ely",
+      "status": "ALREADY_PUBLISHED"
+    },
+    {
+      "id": 1906251000021,
+      "name": "Caerphilly Athletic",
+      "status": "ALREADY_PUBLISHED"
+    },
+    {
+      "id": 1906251000022,
+      "name": "Cardiff Draconians",
+      "status": "ALREADY_PUBLISHED"
+    },
+    {
+      "id": 1906251000023,
+      "name": "Carmarthen Town",
+      "status": "ALREADY_PUBLISHED"
+    },
+    {
+      "id": 1906251000024,
+      "name": "Llanelli Town",
+      "status": "ALREADY_PUBLISHED"
+    },
+    {
+      "id": 1906251000025,
+      "name": "Llantwit Major",
+      "status": "ALREADY_PUBLISHED"
+    },
+    {
+      "id": 1906251000026,
+      "name": "Newport City",
+      "status": "ALREADY_PUBLISHED"
+    },
+    {
+      "id": 1906251000027,
+      "name": "Pontardawe Town",
+      "status": "ALREADY_PUBLISHED"
+    },
+    {
+      "id": 1906251000028,
+      "name": "Pontypridd United",
+      "status": "ALREADY_PUBLISHED"
+    },
+    {
+      "id": 1906251000029,
+      "name": "Pure Swansea",
+      "status": "ALREADY_PUBLISHED"
+    },
+    {
+      "id": 1906251000030,
+      "name": "Treowen Stars",
+      "status": "ALREADY_PUBLISHED"
+    },
+    {
+      "id": 1906251000031,
+      "name": "Trethomas Bluebirds",
+      "status": "ALREADY_PUBLISHED"
+    },
+    {
+      "id": 1906251000032,
+      "name": "Ynyshir Albions",
+      "status": "ALREADY_PUBLISHED"
+    },
+    {
+      "id": 1906251000033,
+      "name": "Afturelding",
+      "country": "Iceland",
+      "status": "MISSING",
+      "qids": [
+        "Q923238"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q923238&props=sitelinks&format=json"
+    },
+    {
+      "id": 1906251000034,
+      "name": "Ægir",
+      "country": "Iceland",
+      "status": "MISSING",
+      "qids": []
+    },
+    {
+      "id": 1906251000035,
+      "name": "Fylkir",
+      "status": "ALREADY_PUBLISHED"
+    },
+    {
+      "id": 1906251000036,
+      "name": "Grindavík",
+      "country": "Iceland",
+      "status": "MISSING",
+      "qids": [
+        "Q28224993"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q28224993&props=sitelinks&format=json"
+    },
+    {
+      "id": 1906251000037,
+      "name": "Grótta",
+      "country": "Iceland",
+      "status": "MISSING",
+      "qids": []
+    },
+    {
+      "id": 1906251000038,
+      "name": "HK Kópavogur",
+      "status": "ALREADY_PUBLISHED"
+    },
+    {
+      "id": 1906251000039,
+      "name": "ÍR Reykjavík",
+      "country": "Iceland",
+      "status": "MISSING",
+      "qids": []
+    },
+    {
+      "id": 1906251000040,
+      "name": "Leiknir Reykjavík",
+      "country": "Iceland",
+      "status": "MISSING",
+      "qids": [
+        "Q2647768"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q2647768&props=sitelinks&format=json"
+    },
+    {
+      "id": 1906251000041,
+      "name": "Njarðvík",
+      "country": "Iceland",
+      "status": "MISSING",
+      "qids": [
+        "Q56833019"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q56833019&props=sitelinks&format=json"
+    },
+    {
+      "id": 1906251000042,
+      "name": "Þróttur Reykjavík",
+      "country": "Iceland",
+      "status": "MISSING",
+      "qids": []
+    },
+    {
+      "id": 1906251000043,
+      "name": "Vestri",
+      "country": "Iceland",
+      "status": "MISSING",
+      "qids": [
+        "Q113407279"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q113407279&props=sitelinks&format=json"
+    },
+    {
+      "id": 1906251000044,
+      "name": "Völsungur",
+      "country": "Iceland",
+      "status": "MISSING",
+      "qids": [
+        "Q1815513"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q1815513&props=sitelinks&format=json"
+    },
+    {
+      "id": 1906251000045,
+      "name": "B36 Tórshavn II",
+      "country": "Faroe Islands",
+      "status": "MISSING",
+      "qids": [
+        "Q330978"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q330978&props=sitelinks&format=json"
+    },
+    {
+      "id": 1906251000046,
+      "name": "B71 Sandur",
+      "country": "Faroe Islands",
+      "status": "MISSING",
+      "qids": []
+    },
+    {
+      "id": 1906251000047,
+      "name": "FC Hoyvík",
+      "country": "Faroe Islands",
+      "status": "MISSING",
+      "qids": [
+        "Q845258"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q845258&props=sitelinks&format=json"
+    },
+    {
+      "id": 1906251000048,
+      "name": "FC Suðuroy",
+      "country": "Faroe Islands",
+      "status": "MISSING",
+      "qids": [
+        "Q856036"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q856036&props=sitelinks&format=json"
+    },
+    {
+      "id": 1906251000049,
+      "name": "HB Tórshavn II",
+      "country": "Faroe Islands",
+      "status": "MISSING",
+      "qids": []
+    },
+    {
+      "id": 1906251000050,
+      "name": "ÍF Fuglafjørður",
+      "country": "Faroe Islands",
+      "status": "MISSING",
+      "qids": [
+        "Q291719"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q291719&props=sitelinks&format=json"
+    },
+    {
+      "id": 1906251000051,
+      "name": "KÍ Klaksvík II",
+      "status": "ALREADY_PUBLISHED"
+    },
+    {
+      "id": 1906251000052,
+      "name": "NSÍ Runavík II",
+      "country": "Faroe Islands",
+      "status": "MISSING",
+      "qids": [
+        "Q216857"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q216857&props=sitelinks&format=json"
+    },
+    {
+      "id": 1906251000053,
+      "name": "TB Tvøroyri",
+      "country": "Faroe Islands",
+      "status": "MISSING",
+      "qids": [
+        "Q778858"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q778858&props=sitelinks&format=json"
+    },
+    {
+      "id": 1906251000054,
+      "name": "Víkingur Gøta II",
+      "country": "Faroe Islands",
+      "status": "MISSING",
+      "qids": [
+        "Q3543925"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q3543925&props=sitelinks&format=json"
+    },
+    {
+      "id": 1906251000055,
+      "name": "Bryne",
+      "status": "ALREADY_PUBLISHED"
+    },
+    {
+      "id": 1906251000056,
+      "name": "Haugesund",
+      "status": "ALREADY_PUBLISHED"
+    },
+    {
+      "id": 1906251000057,
+      "name": "Strømsgodset",
+      "country": "Norway",
+      "status": "MISSING",
+      "qids": [
+        "Q638288"
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q638288&props=sitelinks&format=json"
+    },
+    {
+      "id": 1906251000058,
+      "name": "Sandnes Ulf",
+      "status": "ALREADY_PUBLISHED"
+    },
+    {
+      "id": 1906251000059,
+      "name": "Strømmen",
+      "status": "ALREADY_PUBLISHED"
+    },
+    {
+      "id": 1906251000060,
+      "name": "Egersund",
+      "country": "Norway",
+      "status": "MISSING",
+      "qids": []
+    },
+    {
+      "id": 1906251000061,
+      "name": "Hødd",
+      "status": "ALREADY_PUBLISHED"
+    },
+    {
+      "id": 1906251000062,
+      "name": "Kongsvinger",
+      "status": "ALREADY_PUBLISHED"
+    },
+    {
+      "id": 1906251000063,
+      "name": "Lyn",
+      "status": "ALREADY_PUBLISHED"
+    },
+    {
+      "id": 1906251000064,
+      "name": "Moss",
+      "status": "ALREADY_PUBLISHED"
+    },
+    {
+      "id": 1906251000065,
+      "name": "Odd",
+      "country": "Norway",
+      "status": "MISSING",
+      "qids": []
+    },
+    {
+      "id": 1906251000066,
+      "name": "Ranheim",
+      "status": "ALREADY_PUBLISHED"
+    },
+    {
+      "id": 1906251000067,
+      "name": "Raufoss",
+      "status": "ALREADY_PUBLISHED"
+    },
+    {
+      "id": 1906251000068,
+      "name": "Sogndal",
+      "status": "ALREADY_PUBLISHED"
+    },
+    {
+      "id": 1906251000069,
+      "name": "Stabæk",
+      "country": "Norway",
+      "status": "MISSING",
+      "qids": []
+    },
+    {
+      "id": 1906251000070,
+      "name": "Åsane",
+      "country": "Norway",
+      "status": "MISSING",
+      "qids": []
+    },
+    {
+      "id": 1906300001011,
+      "name": "Batyr",
+      "country": "Kazakhstan",
+      "status": "MISSING",
+      "qids": []
+    }
+  ]
+}
