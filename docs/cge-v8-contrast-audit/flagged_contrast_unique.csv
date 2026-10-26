@@ -1,0 +1,4 @@
+teamIdFromFilename,branch,path,gitBlobSHA,foregroundCoverage,separationScore,cornerSpread,automatedScreen,numberReferences
+1793400200029,main,docs/italian-clubs-2026-27/v1/1793400200029.png,2ed8e6ad2383ec5b2511cc4b7c32c95d1680d72d,0.0009615384615384616,21.8,0,SEVERE_LOW_VISIBILITY,44
+1897600004005,mmd31-cge36-four-european-d1-20261024,docs/cge36-four-leagues-2026/clubs/PL/1897600004005.png,f2d8dabfb8ad019d7dd21821dee6e1234692b2e5,0.1625,36.5,0,WEAK_COLOR_SEPARATION,1
+1906200000008,mmd31-cge-v15-four-d1-20261024-test,docs/cge-v15-four-d1-20261024/1906200000008.png,b721c9ffab7ed2ac4340535ae6d88eb606eb07c1,0.2048076923076923,37.2,0,WEAK_COLOR_SEPARATION,2
