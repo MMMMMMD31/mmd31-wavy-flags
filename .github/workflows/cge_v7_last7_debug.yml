@@ -1,0 +1,21 @@
+name: CGE V7 - Inspect last seven badge sources
+on:
+  push:
+    paths:
+      - ".github/workflows/cge_v7_last7_debug.yml"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  inspect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 6
+    steps:
+      - uses: actions/checkout@v4
+      - run: python -m pip install --quiet requests beautifulsoup4
+      - run: python scripts/cge_v7_debug_last7.py
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/cge-v7-authentic-badges-20261026/debug_last7.txt
+          if ! git diff --cached --quiet; then git commit -m "CGE V7: inspect last seven official club logo sources"; git pull --rebase origin main; git push origin main; fi
