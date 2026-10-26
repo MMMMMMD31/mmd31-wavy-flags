@@ -1,0 +1,28 @@
+name: CGE V8 Fix Two Low Contrast Crests
+on:
+  push:
+    paths:
+      - ".github/workflows/cge_v8_fix_two_crests.yml"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Fetch source branches
+        run: git fetch origin '+refs/heads/*:refs/remotes/origin/*' --no-tags
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install --quiet pillow
+      - run: python scripts/cge_v8_fix_weak_contrast.py
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/cge-v8-contrast-fixes/
+          if ! git diff --cached --quiet; then git commit -m "CGE V8: increase Piast Gliwice and Sumqayit badge visibility"; git pull --rebase origin main; git push origin main; fi
