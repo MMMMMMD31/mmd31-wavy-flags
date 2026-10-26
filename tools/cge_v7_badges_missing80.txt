@@ -1,0 +1,80 @@
+1884520000305|Israel|F.C. Kiryat Yam
+1906100001001|Armenia|Olympia Yerevan
+1906100001005|Armenia|Avshar Ararat
+1906100001015|Armenia|Hayq
+1906200001003|Azerbaijan|Şimal
+1906200001004|Azerbaijan|Gəncəbasar
+1906200001005|Azerbaijan|Xankəndi
+1906200001007|Azerbaijan|Mingəçevir
+1906200001008|Azerbaijan|Zaqatala
+1906251000001|Wales|Bala Town
+1906251000002|Wales|Bangor City 1876
+1906251000003|Wales|Brickfield Rangers
+1906251000004|Wales|Buckley Town
+1906251000005|Wales|Caersws
+1906251000006|Wales|Denbigh Town
+1906251000007|Wales|Gresford Athletic
+1906251000008|Wales|Guilsfield
+1906251000009|Wales|Holyhead Hotspur
+1906251000010|Wales|Llanuwchllyn
+1906251000011|Wales|Mold Alexandra
+1906251000012|Wales|Newtown
+1906251000013|Wales|Penrhyncoch
+1906251000014|Wales|Porthmadog
+1906251000015|Wales|Rhyl 1879
+1906251000016|Wales|Ruthin Town
+1906251000017|Wales|Aberystwyth Town
+1906251000018|Wales|Afan Lido
+1906251000019|Wales|Baglan Dragons
+1906251000020|Wales|Caerau Ely
+1906251000021|Wales|Caerphilly Athletic
+1906251000022|Wales|Cardiff Draconians
+1906251000023|Wales|Carmarthen Town
+1906251000024|Wales|Llanelli Town
+1906251000025|Wales|Llantwit Major
+1906251000026|Wales|Newport City
+1906251000027|Wales|Pontardawe Town
+1906251000028|Wales|Pontypridd United
+1906251000029|Wales|Pure Swansea
+1906251000030|Wales|Treowen Stars
+1906251000031|Wales|Trethomas Bluebirds
+1906251000032|Wales|Ynyshir Albions
+1906251000033|Iceland|Afturelding
+1906251000034|Iceland|Ægir
+1906251000035|Iceland|Fylkir
+1906251000036|Iceland|Grindavík
+1906251000037|Iceland|Grótta
+1906251000038|Iceland|HK Kópavogur
+1906251000039|Iceland|ÍR Reykjavík
+1906251000040|Iceland|Leiknir Reykjavík
+1906251000041|Iceland|Njarðvík
+1906251000042|Iceland|Þróttur Reykjavík
+1906251000043|Iceland|Vestri
+1906251000044|Iceland|Völsungur
+1906251000045|Faroe Islands|B36 Tórshavn II
+1906251000046|Faroe Islands|B71 Sandur
+1906251000047|Faroe Islands|FC Hoyvík
+1906251000048|Faroe Islands|FC Suðuroy
+1906251000049|Faroe Islands|HB Tórshavn II
+1906251000050|Faroe Islands|ÍF Fuglafjørður
+1906251000051|Faroe Islands|KÍ Klaksvík II
+1906251000052|Faroe Islands|NSÍ Runavík II
+1906251000053|Faroe Islands|TB Tvøroyri
+1906251000054|Faroe Islands|Víkingur Gøta II
+1906251000055|Norway|Bryne
+1906251000056|Norway|Haugesund
+1906251000057|Norway|Strømsgodset
+1906251000058|Norway|Sandnes Ulf
+1906251000059|Norway|Strømmen
+1906251000060|Norway|Egersund
+1906251000061|Norway|Hødd
+1906251000062|Norway|Kongsvinger
+1906251000063|Norway|Lyn
+1906251000064|Norway|Moss
+1906251000065|Norway|Odd
+1906251000066|Norway|Ranheim
+1906251000067|Norway|Raufoss
+1906251000068|Norway|Sogndal
+1906251000069|Norway|Stabæk
+1906251000070|Norway|Åsane
+1906300001011|Kazakhstan|Batyr
