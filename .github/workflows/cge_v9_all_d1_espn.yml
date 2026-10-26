@@ -25,3 +25,4 @@ jobs:
             git pull --rebase origin main
             git push origin main
           fi
+# Re-run after country-verified club aliases were reconciled
