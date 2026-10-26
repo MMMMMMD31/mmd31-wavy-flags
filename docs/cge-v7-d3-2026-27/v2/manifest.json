@@ -1,0 +1,1918 @@
+{
+  "count": 141,
+  "success": 6,
+  "errors": 1,
+  "clubs": [
+    {
+      "id": 2190262000023,
+      "country": "Turkey",
+      "name": "Altınordu",
+      "status": "VERIFIED_WIKIDATA_P154",
+      "candidates": [
+        {
+          "id": "Q447191",
+          "label": "Altınordu F.K.",
+          "description": "Turkish association football club",
+          "score": 0.9467,
+          "query": "Altınordu"
+        },
+        {
+          "id": "Q4737084",
+          "label": "Altınordu İdman Yurdu SK",
+          "description": "Turkish association football club",
+          "score": 0.7943,
+          "query": "Altınordu"
+        }
+      ],
+      "qid": "Q447191",
+      "source": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Alt%C4%B1nordu_Futbol_Kul%C3%BCb%C3%BC_%28logo%29.svg",
+      "file": "Altınordu Futbol Kulübü (logo).svg",
+      "sha256": "088d81f9f06dfcfe96e7e76156ff8c8e33b83c25f45aa9c1a9288eda7d4df6af"
+    },
+    {
+      "id": 2190262000038,
+      "country": "Czechia",
+      "name": "FK Králův Dvůr",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q5426212",
+          "label": "FK Králův Dvůr",
+          "description": "football club",
+          "score": 1.0,
+          "query": "FK Králův Dvůr"
+        }
+      ]
+    },
+    {
+      "id": 2190262000040,
+      "country": "Czechia",
+      "name": "FK Motorlet Praha",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q33057763",
+          "label": "FK Motorlet Praha",
+          "description": "Czech association football club",
+          "score": 1.0,
+          "query": "FK Motorlet Praha"
+        }
+      ]
+    },
+    {
+      "id": 2190262000043,
+      "country": "Czechia",
+      "name": "FK Loko Praha",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q6668719",
+          "label": "Loko Praha",
+          "description": "Czech association football club",
+          "score": 1.0,
+          "query": "Loko Praha"
+        }
+      ]
+    },
+    {
+      "id": 2190262000045,
+      "country": "Czechia",
+      "name": "FK Admira Praha",
+      "status": "MISSING",
+      "candidates": []
+    },
+    {
+      "id": 2190262000050,
+      "country": "Czechia",
+      "name": "SK Aritma Praha",
+      "status": "MISSING",
+      "candidates": []
+    },
+    {
+      "id": 2190262000051,
+      "country": "Czechia",
+      "name": "FK Benešov",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q1809162",
+          "label": "SK Benešov",
+          "description": "football club",
+          "score": 0.9467,
+          "query": "FK Benešov"
+        }
+      ]
+    },
+    {
+      "id": 2190262000052,
+      "country": "Czechia",
+      "name": "Povltavská FA",
+      "status": "MISSING",
+      "candidates": []
+    },
+    {
+      "id": 2190262000053,
+      "country": "Czechia",
+      "name": "SK Zápy",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q9179295",
+          "label": "SK Zápy",
+          "description": "football club",
+          "score": 1.0,
+          "query": "SK Zápy"
+        }
+      ]
+    },
+    {
+      "id": 2190262000056,
+      "country": "Czechia",
+      "name": "SK Benátky nad Jizerou",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q30348859",
+          "label": "SK Benátky nad Jizerou",
+          "description": "Czech football club",
+          "score": 1.0,
+          "query": "SK Benátky nad Jizerou"
+        }
+      ]
+    },
+    {
+      "id": 2190262000059,
+      "country": "Czechia",
+      "name": "FK Baník Most-Souš",
+      "status": "MISSING",
+      "candidates": []
+    },
+    {
+      "id": 2190262000061,
+      "country": "Czechia",
+      "name": "FK Čáslav",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q248345",
+          "label": "FK Čáslav",
+          "description": "association football club in the Czech Republic",
+          "score": 1.0,
+          "query": "FK Čáslav"
+        }
+      ]
+    },
+    {
+      "id": 2190262000063,
+      "country": "Czechia",
+      "name": "FK Horní Ředice",
+      "status": "MISSING",
+      "candidates": []
+    },
+    {
+      "id": 2190262000064,
+      "country": "Czechia",
+      "name": "FK Neratovice-Byškovice",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q5426266",
+          "label": "FK Neratovice-Byškovice",
+          "description": "football club",
+          "score": 1.0,
+          "query": "FK Neratovice-Byškovice"
+        }
+      ]
+    },
+    {
+      "id": 2190262000065,
+      "country": "Czechia",
+      "name": "SK Sokol Brozany",
+      "status": "MISSING",
+      "candidates": []
+    },
+    {
+      "id": 2190262000068,
+      "country": "Czechia",
+      "name": "FK Velké Hamry",
+      "status": "MISSING",
+      "candidates": []
+    },
+    {
+      "id": 2190262000073,
+      "country": "Czechia",
+      "name": "SK Hranice",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q7390675",
+          "label": "SK Hranice",
+          "description": "football club",
+          "score": 1.0,
+          "query": "SK Hranice"
+        }
+      ]
+    },
+    {
+      "id": 2190262000076,
+      "country": "Czechia",
+      "name": "TJ Unie Hlubina",
+      "status": "MISSING",
+      "candidates": []
+    },
+    {
+      "id": 2190262000077,
+      "country": "Czechia",
+      "name": "ČSK Uherský Brod",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q4433048",
+          "label": "ČSK Uherský Brod",
+          "description": "Czech football club located in Uherský Brod",
+          "score": 1.0,
+          "query": "ČSK Uherský Brod"
+        }
+      ]
+    },
+    {
+      "id": 2190262000078,
+      "country": "Czechia",
+      "name": "FK Hodonín",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q19601864",
+          "label": "FK Hodonín",
+          "description": "football club",
+          "score": 1.0,
+          "query": "FK Hodonín"
+        }
+      ]
+    },
+    {
+      "id": 2190262000079,
+      "country": "Czechia",
+      "name": "MFK Vítkovice",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q1387864",
+          "label": "MFK Vítkovice",
+          "description": "association football club in the Czech Republic",
+          "score": 1.0,
+          "query": "MFK Vítkovice"
+        }
+      ]
+    },
+    {
+      "id": 2190262000082,
+      "country": "Czechia",
+      "name": "SFK Vrchovina",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q7389965",
+          "label": "SFK Vrchovina",
+          "description": "football club",
+          "score": 1.0,
+          "query": "SFK Vrchovina"
+        }
+      ]
+    },
+    {
+      "id": 2190262000083,
+      "country": "Czechia",
+      "name": "MFK Havířov",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q3502720",
+          "label": "MFK Havířov",
+          "description": "football club",
+          "score": 1.0,
+          "query": "MFK Havířov"
+        }
+      ]
+    },
+    {
+      "id": 2190262000084,
+      "country": "Czechia",
+      "name": "FK Blansko",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q11985950",
+          "label": "FK Blansko",
+          "description": "Czech football club",
+          "score": 1.0,
+          "query": "FK Blansko"
+        }
+      ]
+    },
+    {
+      "id": 2190262000085,
+      "country": "Czechia",
+      "name": "FC Vsetín",
+      "status": "MISSING",
+      "candidates": []
+    },
+    {
+      "id": 2190262000086,
+      "country": "Czechia",
+      "name": "FK SK Polanka",
+      "status": "MISSING",
+      "candidates": []
+    },
+    {
+      "id": 2190262000087,
+      "country": "Poland",
+      "name": "Avia Świdnik",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q9162941",
+          "label": "Avia Świdnik",
+          "description": "Polish football club",
+          "score": 1.0,
+          "query": "Avia Świdnik"
+        }
+      ]
+    },
+    {
+      "id": 2190262000088,
+      "country": "Poland",
+      "name": "Chojniczanka Chojnice",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q4498918",
+          "label": "Chojniczanka Chojnice",
+          "description": "football club",
+          "score": 1.0,
+          "query": "Chojniczanka Chojnice"
+        }
+      ]
+    },
+    {
+      "id": 2190262000092,
+      "country": "Poland",
+      "name": "Lechia Zielona Góra",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q1164141",
+          "label": "Lechia Zielona Góra",
+          "description": "association football club",
+          "score": 1.0,
+          "query": "Lechia Zielona Góra"
+        }
+      ]
+    },
+    {
+      "id": 2190262000094,
+      "country": "Poland",
+      "name": "Olimpia Grudziądz",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q375734",
+          "label": "Olimpia Grudziądz",
+          "description": "association football club",
+          "score": 1.0,
+          "query": "Olimpia Grudziądz"
+        }
+      ]
+    },
+    {
+      "id": 2190262000095,
+      "country": "Poland",
+      "name": "Podhale Nowy Targ",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q25412984",
+          "label": "Podhale Nowy Targ (football)",
+          "description": "Polish football club",
+          "score": 0.8989,
+          "query": "Podhale Nowy Targ"
+        }
+      ]
+    },
+    {
+      "id": 2190262000096,
+      "country": "Poland",
+      "name": "Rekord Bielsko-Biała",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q126678676",
+          "label": "Rekord Bielsko-Biała",
+          "description": "Polish football club",
+          "score": 1.0,
+          "query": "Rekord Bielsko-Biała"
+        }
+      ]
+    },
+    {
+      "id": 2190262000097,
+      "country": "Poland",
+      "name": "Resovia Rzeszów",
+      "status": "MISSING",
+      "candidates": []
+    },
+    {
+      "id": 2190262000098,
+      "country": "Poland",
+      "name": "Sandecja Nowy Sącz",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q1198933",
+          "label": "Sandecja Nowy Sącz",
+          "description": "association football club in Poland",
+          "score": 1.0,
+          "query": "Sandecja Nowy Sącz"
+        }
+      ]
+    },
+    {
+      "id": 2190262000099,
+      "country": "Poland",
+      "name": "Sokół Kleczew",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q28672861",
+          "label": "Sokół Kleczew",
+          "description": "Polish football club",
+          "score": 1.0,
+          "query": "Sokół Kleczew"
+        }
+      ]
+    },
+    {
+      "id": 2190262000100,
+      "country": "Poland",
+      "name": "Stal Stalowa Wola",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q1466362",
+          "label": "Stal Stalowa Wola",
+          "description": "association football club in Poland",
+          "score": 1.0,
+          "query": "Stal Stalowa Wola"
+        },
+        {
+          "id": "Q100997795",
+          "label": "ZKS Stal Stalowa Wola",
+          "description": "football club",
+          "score": 0.9564,
+          "query": "Stal Stalowa Wola"
+        },
+        {
+          "id": "Q120489792",
+          "label": "2023–24 Stal Stalowa Wola season",
+          "description": "season of football team",
+          "score": 0.8629,
+          "query": "Stal Stalowa Wola"
+        }
+      ]
+    },
+    {
+      "id": 2190262000102,
+      "country": "Poland",
+      "name": "Świt Szczecin",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q56324602",
+          "label": "Świt Szczecin",
+          "description": "Polish football club",
+          "score": 1.0,
+          "query": "Świt Szczecin"
+        }
+      ]
+    },
+    {
+      "id": 2190262000103,
+      "country": "Poland",
+      "name": "Zawisza Bydgoszcz",
+      "status": "VERIFIED_WIKIDATA_P154",
+      "candidates": [
+        {
+          "id": "Q167781",
+          "label": "Zawisza Bydgoszcz",
+          "description": "sports club in Poland",
+          "score": 1.0,
+          "query": "Zawisza Bydgoszcz"
+        }
+      ],
+      "qid": "Q167781",
+      "source": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Zawisza_Logo.svg",
+      "file": "Zawisza Logo.svg",
+      "sha256": "4d9a1f4630ac421f6e178c48475fcbbd2d0263e66ac7dd5683c1be52797fd04d"
+    },
+    {
+      "id": 2190262000105,
+      "country": "Norway",
+      "name": "Lysekloster",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q11987169",
+          "label": "Lysekloster IL",
+          "description": "sports club in Lysefjorden, Bjørnafjorden, Vestland, Norway",
+          "score": 0.96,
+          "query": "Lysekloster"
+        }
+      ]
+    },
+    {
+      "id": 2190262000106,
+      "country": "Norway",
+      "name": "Sotra",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q12002116",
+          "label": "Sotra SK",
+          "description": "sports club in Sotra, Vestland, Norway",
+          "score": 0.92,
+          "query": "Sotra"
+        }
+      ]
+    },
+    {
+      "id": 2190262000107,
+      "country": "Norway",
+      "name": "Sandviken",
+      "status": "MISSING",
+      "candidates": []
+    },
+    {
+      "id": 2190262000108,
+      "country": "Norway",
+      "name": "Pors",
+      "status": "MISSING",
+      "candidates": []
+    },
+    {
+      "id": 2190262000109,
+      "country": "Norway",
+      "name": "Notodden",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q2404433",
+          "label": "Notodden FK",
+          "description": "football club",
+          "score": 0.9467,
+          "query": "Notodden"
+        }
+      ]
+    },
+    {
+      "id": 2190262000111,
+      "country": "Norway",
+      "name": "Arendal",
+      "status": "MISSING",
+      "candidates": []
+    },
+    {
+      "id": 2190262000112,
+      "country": "Norway",
+      "name": "Eik Tønsberg",
+      "status": "VERIFIED_WIKIDATA_P154",
+      "candidates": [
+        {
+          "id": "Q2446725",
+          "label": "FK Eik Tønsberg",
+          "description": "Norwegian football club",
+          "score": 0.9564,
+          "query": "Eik Tønsberg"
+        }
+      ],
+      "qid": "Q2446725",
+      "source": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Eik-T%C3%B8nsberg_logo.jpg",
+      "file": "Eik-Tønsberg logo.jpg",
+      "sha256": "b00c12554e3b71e3ba73d33e65f9da254c293d8a7f349daa2f664598cd1cffe3"
+    },
+    {
+      "id": 2190262000114,
+      "country": "Norway",
+      "name": "Bjarg",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q4586265",
+          "label": "IL Bjarg",
+          "description": "sports club in Rådal, Bergen, Norway",
+          "score": 0.92,
+          "query": "Bjarg"
+        }
+      ]
+    },
+    {
+      "id": 2190262000115,
+      "country": "Norway",
+      "name": "Vidar",
+      "status": "MISSING",
+      "candidates": []
+    },
+    {
+      "id": 2190262000116,
+      "country": "Norway",
+      "name": "Kvik Halden",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q962844",
+          "label": "Kvik Halden FK",
+          "description": "association football club",
+          "score": 0.9564,
+          "query": "Kvik Halden"
+        }
+      ]
+    },
+    {
+      "id": 2190262000117,
+      "country": "Norway",
+      "name": "Brattvåg",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q4958155",
+          "label": "Brattvåg IL",
+          "description": "Norwegian sports club",
+          "score": 0.9467,
+          "query": "Brattvåg"
+        }
+      ]
+    },
+    {
+      "id": 2190262000118,
+      "country": "Norway",
+      "name": "Træff",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q7390708",
+          "label": "SK Træff",
+          "description": "sports club in Molde, Norway",
+          "score": 0.904,
+          "query": "Træff"
+        }
+      ]
+    },
+    {
+      "id": 2190262000120,
+      "country": "Norway",
+      "name": "Kjelsås",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q11980909",
+          "label": "Kjelsås IL",
+          "description": "sports club in Oslo, Norway",
+          "score": 0.94,
+          "query": "Kjelsås"
+        },
+        {
+          "id": "Q2760461",
+          "label": "Kjelsås Fotball",
+          "description": "football club",
+          "score": 0.84,
+          "query": "Kjelsås"
+        }
+      ]
+    },
+    {
+      "id": 2190262000122,
+      "country": "Norway",
+      "name": "Levanger",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q4586760",
+          "label": "Levanger FK",
+          "description": "football club in Levanger, Trøndelag, Norway",
+          "score": 0.9467,
+          "query": "Levanger"
+        }
+      ]
+    },
+    {
+      "id": 2190262000124,
+      "country": "Norway",
+      "name": "Ull/Kisa",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q1780819",
+          "label": "Ullensaker/Kisa IL",
+          "description": "sports club in Ullensaker, Norway",
+          "score": 0.8122,
+          "query": "Ull/Kisa"
+        }
+      ]
+    },
+    {
+      "id": 2190262000125,
+      "country": "Norway",
+      "name": "Eidsvold Turn",
+      "status": "MISSING",
+      "candidates": []
+    },
+    {
+      "id": 2190262000126,
+      "country": "Norway",
+      "name": "Rana",
+      "status": "MISSING",
+      "candidates": []
+    },
+    {
+      "id": 2190262000127,
+      "country": "Norway",
+      "name": "Stjørdals-Blink",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q5971873",
+          "label": "IL Stjørdals-Blink",
+          "description": "football club in Stjørdal, Trøndelag, Norway",
+          "score": 0.9657,
+          "query": "Stjørdals-Blink"
+        }
+      ]
+    },
+    {
+      "id": 2190262000128,
+      "country": "Norway",
+      "name": "Junkeren",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q5971610",
+          "label": "IK Junkeren",
+          "description": "sports club in Bodø, Norway",
+          "score": 0.9467,
+          "query": "Junkeren"
+        }
+      ]
+    },
+    {
+      "id": 2190262000129,
+      "country": "Norway",
+      "name": "Lørenskog",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q1754198",
+          "label": "Lørenskog IF",
+          "description": "Norwegian sports club",
+          "score": 0.9467,
+          "query": "Lørenskog"
+        }
+      ]
+    },
+    {
+      "id": 2190262000130,
+      "country": "Norway",
+      "name": "Trygg/Lade",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q19389967",
+          "label": "SK Trygg/Lade",
+          "description": "sports club in Trondheim, Norway",
+          "score": 0.952,
+          "query": "Trygg/Lade"
+        }
+      ]
+    },
+    {
+      "id": 2190262000131,
+      "country": "Norway",
+      "name": "Tromsdalen",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q2705645",
+          "label": "Tromsdalen UIL",
+          "description": "football club in Tromsø, Norway",
+          "score": 0.9374,
+          "query": "Tromsdalen"
+        }
+      ]
+    },
+    {
+      "id": 2190262000132,
+      "country": "Norway",
+      "name": "Grorud",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q9164279",
+          "label": "Grorud IL",
+          "description": "football club",
+          "score": 0.9314,
+          "query": "Grorud"
+        }
+      ]
+    },
+    {
+      "id": 1884520000305,
+      "country": "Israel",
+      "name": "F.C. Kiryat Yam",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q124487430",
+          "label": "F.C. Kiryat Yam",
+          "description": "Israeli football club",
+          "score": 1.0,
+          "query": "F.C. Kiryat Yam"
+        }
+      ]
+    },
+    {
+      "id": 1906100001001,
+      "country": "Armenia",
+      "name": "Olympia Yerevan",
+      "status": "MISSING",
+      "candidates": []
+    },
+    {
+      "id": 1906100001005,
+      "country": "Armenia",
+      "name": "Avshar Ararat",
+      "status": "MISSING",
+      "candidates": []
+    },
+    {
+      "id": 1906100001015,
+      "country": "Armenia",
+      "name": "Hayq",
+      "status": "MISSING",
+      "candidates": []
+    },
+    {
+      "id": 1906200001003,
+      "country": "Azerbaijan",
+      "name": "Şimal",
+      "status": "MISSING",
+      "candidates": []
+    },
+    {
+      "id": 1906200001004,
+      "country": "Azerbaijan",
+      "name": "Gəncəbasar",
+      "status": "MISSING",
+      "candidates": []
+    },
+    {
+      "id": 1906200001005,
+      "country": "Azerbaijan",
+      "name": "Xankəndi",
+      "status": "MISSING",
+      "candidates": []
+    },
+    {
+      "id": 1906200001007,
+      "country": "Azerbaijan",
+      "name": "Mingəçevir",
+      "status": "MISSING",
+      "candidates": []
+    },
+    {
+      "id": 1906200001008,
+      "country": "Azerbaijan",
+      "name": "Zaqatala",
+      "status": "MISSING",
+      "candidates": []
+    },
+    {
+      "id": 1906251000001,
+      "country": "Wales",
+      "name": "Bala Town",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q280727",
+          "label": "Bala Town F.C.",
+          "description": "association football club",
+          "score": 0.9467,
+          "query": "Bala Town"
+        }
+      ]
+    },
+    {
+      "id": 1906251000002,
+      "country": "Wales",
+      "name": "Bangor City 1876",
+      "status": "MISSING",
+      "candidates": []
+    },
+    {
+      "id": 1906251000003,
+      "country": "Wales",
+      "name": "Brickfield Rangers",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q4966008",
+          "label": "Brickfield Rangers F.C.",
+          "description": "Welsh association football team",
+          "score": 0.9733,
+          "query": "Brickfield Rangers"
+        }
+      ]
+    },
+    {
+      "id": 1906251000004,
+      "country": "Wales",
+      "name": "Buckley Town",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q507935",
+          "label": "Buckley Town F.C.",
+          "description": "association football club",
+          "score": 0.96,
+          "query": "Buckley Town"
+        }
+      ]
+    },
+    {
+      "id": 1906251000005,
+      "country": "Wales",
+      "name": "Caersws",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q658273",
+          "label": "Caersws F.C.",
+          "description": "association football club",
+          "score": 0.94,
+          "query": "Caersws"
+        }
+      ]
+    },
+    {
+      "id": 1906251000006,
+      "country": "Wales",
+      "name": "Denbigh Town",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q5256621",
+          "label": "Denbigh Town F.C.",
+          "description": "association football club in Wales",
+          "score": 0.96,
+          "query": "Denbigh Town"
+        }
+      ]
+    },
+    {
+      "id": 1906251000007,
+      "country": "Wales",
+      "name": "Gresford Athletic",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q5607559",
+          "label": "Gresford Athletic F.C.",
+          "description": "association football club in Wales",
+          "score": 0.9718,
+          "query": "Gresford Athletic"
+        }
+      ]
+    },
+    {
+      "id": 1906251000008,
+      "country": "Wales",
+      "name": "Guilsfield",
+      "status": "MISSING",
+      "candidates": []
+    },
+    {
+      "id": 1906251000009,
+      "country": "Wales",
+      "name": "Holyhead Hotspur",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q5887006",
+          "label": "Holyhead Hotspur F.C.",
+          "description": "association football club in Wales",
+          "score": 0.97,
+          "query": "Holyhead Hotspur"
+        }
+      ]
+    },
+    {
+      "id": 1906251000010,
+      "country": "Wales",
+      "name": "Llanuwchllyn",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q97403519",
+          "label": "Llanuwchllyn F.C.",
+          "description": "association football club in Wales",
+          "score": 0.9631,
+          "query": "Llanuwchllyn"
+        }
+      ]
+    },
+    {
+      "id": 1906251000011,
+      "country": "Wales",
+      "name": "Mold Alexandra",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q6895743",
+          "label": "Mold Alexandra F.C.",
+          "description": "association football club in Wales",
+          "score": 0.9657,
+          "query": "Mold Alexandra"
+        }
+      ]
+    },
+    {
+      "id": 1906251000012,
+      "country": "Wales",
+      "name": "Newtown",
+      "status": "MISSING",
+      "candidates": []
+    },
+    {
+      "id": 1906251000013,
+      "country": "Wales",
+      "name": "Penrhyncoch",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q7164586",
+          "label": "Penrhyncoch F.C.",
+          "description": "association football club in Wales",
+          "score": 0.96,
+          "query": "Penrhyncoch"
+        }
+      ]
+    },
+    {
+      "id": 1906251000014,
+      "country": "Wales",
+      "name": "Porthmadog",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q2020235",
+          "label": "Porthmadog F.C.",
+          "description": "association football club in Wales",
+          "score": 0.9564,
+          "query": "Porthmadog"
+        }
+      ]
+    },
+    {
+      "id": 1906251000015,
+      "country": "Wales",
+      "name": "Rhyl 1879",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q108570356",
+          "label": "Rhyl 1879 F.C.",
+          "description": "association football club in Wales",
+          "score": 0.9467,
+          "query": "Rhyl 1879"
+        }
+      ]
+    },
+    {
+      "id": 1906251000016,
+      "country": "Wales",
+      "name": "Ruthin Town",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q7383391",
+          "label": "Ruthin Town F.C.",
+          "description": "association football club in Wales",
+          "score": 0.9564,
+          "query": "Ruthin Town"
+        }
+      ]
+    },
+    {
+      "id": 1906251000017,
+      "country": "Wales",
+      "name": "Aberystwyth Town",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q319756",
+          "label": "Aberystwyth Town F.C.",
+          "description": "association football club",
+          "score": 0.97,
+          "query": "Aberystwyth Town"
+        },
+        {
+          "id": "Q16274923",
+          "label": "Aberystwyth Town Ladies F.C.",
+          "description": "football club",
+          "score": 0.8989,
+          "query": "Aberystwyth Town"
+        }
+      ]
+    },
+    {
+      "id": 1906251000018,
+      "country": "Wales",
+      "name": "Afan Lido",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q776074",
+          "label": "Afan Lido F.C.",
+          "description": "association football club",
+          "score": 0.9467,
+          "query": "Afan Lido"
+        }
+      ]
+    },
+    {
+      "id": 1906251000019,
+      "country": "Wales",
+      "name": "Baglan Dragons",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q97959509",
+          "label": "Baglan Dragons F.C.",
+          "description": "association football club in Wales",
+          "score": 0.9657,
+          "query": "Baglan Dragons"
+        }
+      ]
+    },
+    {
+      "id": 1906251000020,
+      "country": "Wales",
+      "name": "Caerau Ely",
+      "status": "MISSING",
+      "candidates": []
+    },
+    {
+      "id": 1906251000021,
+      "country": "Wales",
+      "name": "Caerphilly Athletic",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q124607333",
+          "label": "Caerphilly Athletic F.C.",
+          "description": "football club based in Caerphilly",
+          "score": 0.9747,
+          "query": "Caerphilly Athletic"
+        }
+      ]
+    },
+    {
+      "id": 1906251000022,
+      "country": "Wales",
+      "name": "Cardiff Draconians",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q97798468",
+          "label": "Cardiff Draconians F.C.",
+          "description": "association football club in Wales",
+          "score": 0.9733,
+          "query": "Cardiff Draconians"
+        }
+      ]
+    },
+    {
+      "id": 1906251000023,
+      "country": "Wales",
+      "name": "Carmarthen Town",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q856468",
+          "label": "Carmarthen Town A.F.C.",
+          "description": "association football club",
+          "score": 0.9535,
+          "query": "Carmarthen Town"
+        }
+      ]
+    },
+    {
+      "id": 1906251000024,
+      "country": "Wales",
+      "name": "Llanelli Town",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q291848",
+          "label": "Llanelli A.F.C.",
+          "description": "association football club",
+          "score": 0.8539,
+          "query": "Llanelli Town"
+        }
+      ]
+    },
+    {
+      "id": 1906251000025,
+      "country": "Wales",
+      "name": "Llantwit Major",
+      "status": "MISSING",
+      "candidates": []
+    },
+    {
+      "id": 1906251000026,
+      "country": "Wales",
+      "name": "Newport City",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q6661862",
+          "label": "Newport City F.C.",
+          "description": "association football club in Wales",
+          "score": 0.96,
+          "query": "Newport City"
+        }
+      ]
+    },
+    {
+      "id": 1906251000027,
+      "country": "Wales",
+      "name": "Pontardawe Town",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q7228070",
+          "label": "Pontardawe Town F.C.",
+          "description": "association football club in Wales",
+          "score": 0.968,
+          "query": "Pontardawe Town"
+        }
+      ]
+    },
+    {
+      "id": 1906251000028,
+      "country": "Wales",
+      "name": "Pontypridd United",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q7228420",
+          "label": "Pontypridd United A.F.C.",
+          "description": "association football club in Wales",
+          "score": 0.9589,
+          "query": "Pontypridd United"
+        },
+        {
+          "id": "Q108127750",
+          "label": "Pontypridd United W.F.C.",
+          "description": "women's football club in Wales",
+          "score": 0.9589,
+          "query": "Pontypridd United"
+        }
+      ]
+    },
+    {
+      "id": 1906251000029,
+      "country": "Wales",
+      "name": "Pure Swansea",
+      "status": "MISSING",
+      "candidates": []
+    },
+    {
+      "id": 1906251000030,
+      "country": "Wales",
+      "name": "Treowen Stars",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q7838653",
+          "label": "Treowen Stars F.C.",
+          "description": "association football club in Wales",
+          "score": 0.9631,
+          "query": "Treowen Stars"
+        }
+      ]
+    },
+    {
+      "id": 1906251000031,
+      "country": "Wales",
+      "name": "Trethomas Bluebirds",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q65041665",
+          "label": "Trethomas Bluebirds A.F.C.",
+          "description": "association football club in Wales",
+          "score": 0.9631,
+          "query": "Trethomas Bluebirds"
+        }
+      ]
+    },
+    {
+      "id": 1906251000032,
+      "country": "Wales",
+      "name": "Ynyshir Albions",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q65041643",
+          "label": "Ynyshir Albions F.C.",
+          "description": "Association football club in Wales",
+          "score": 0.968,
+          "query": "Ynyshir Albions"
+        }
+      ]
+    },
+    {
+      "id": 1906251000033,
+      "country": "Iceland",
+      "name": "Afturelding",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q923238",
+          "label": "Ungmennafélagið Afturelding",
+          "description": "association football club",
+          "score": 0.8133,
+          "query": "Afturelding"
+        }
+      ]
+    },
+    {
+      "id": 1906251000034,
+      "country": "Iceland",
+      "name": "Ægir",
+      "status": "MISSING",
+      "candidates": []
+    },
+    {
+      "id": 1906251000035,
+      "country": "Iceland",
+      "name": "Fylkir",
+      "status": "VERIFIED_WIKIDATA_P154",
+      "candidates": [
+        {
+          "id": "Q291723",
+          "label": "Fylkir",
+          "description": "association football club in Reykjavík, Iceland",
+          "score": 1.0,
+          "query": "Fylkir"
+        }
+      ],
+      "qid": "Q291723",
+      "source": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Fylkir_Reykjav%C3%ADk.svg",
+      "file": "Fylkir Reykjavík.svg",
+      "sha256": "e8ad8c506122f3d9abcd2e736b8ab1478d90298e7d313da898a76b0678693109"
+    },
+    {
+      "id": 1906251000036,
+      "country": "Iceland",
+      "name": "Grindavík",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q28224993",
+          "label": "UMF Grindavík",
+          "description": "football club",
+          "score": 0.9314,
+          "query": "Grindavík"
+        }
+      ]
+    },
+    {
+      "id": 1906251000037,
+      "country": "Iceland",
+      "name": "Grótta",
+      "status": "MISSING",
+      "candidates": []
+    },
+    {
+      "id": 1906251000038,
+      "country": "Iceland",
+      "name": "HK Kópavogur",
+      "status": "VERIFIED_WIKIDATA_P154",
+      "candidates": [
+        {
+          "id": "Q139504910",
+          "label": "HK Kópavogur",
+          "description": "first women's football team of the sports club of the same name",
+          "score": 1.0,
+          "query": "HK Kópavogur"
+        },
+        {
+          "id": "Q139504337",
+          "label": "HK Kópavogur",
+          "description": "first women's volleyball team of the sports club of the same name",
+          "score": 1.0,
+          "query": "HK Kópavogur"
+        },
+        {
+          "id": "Q139504898",
+          "label": "HK Kópavogur",
+          "description": "first men's football team of the sports club of the same name",
+          "score": 1.0,
+          "query": "HK Kópavogur"
+        }
+      ],
+      "qid": "Q139504910",
+      "source": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Logo_HK_Kopavogur.svg",
+      "file": "Logo HK Kopavogur.svg",
+      "sha256": "b82fb8a4b503f1fd25d5cdec914a48cb0238fb647edabf4cf5d946d87c19fb3a"
+    },
+    {
+      "id": 1906251000039,
+      "country": "Iceland",
+      "name": "ÍR Reykjavík",
+      "status": "MISSING",
+      "candidates": []
+    },
+    {
+      "id": 1906251000040,
+      "country": "Iceland",
+      "name": "Leiknir Reykjavík",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q2647768",
+          "label": "Leiknir Reykjavík",
+          "description": "sports club in Reykjavík, Iceland",
+          "score": 1.0,
+          "query": "Leiknir Reykjavík"
+        }
+      ]
+    },
+    {
+      "id": 1906251000041,
+      "country": "Iceland",
+      "name": "Njarðvík",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q56833019",
+          "label": "Njarðvík FC",
+          "description": "football club",
+          "score": 0.94,
+          "query": "Njarðvík"
+        },
+        {
+          "id": "Q728691",
+          "label": "Ungmennafélag Njarðvíkur",
+          "description": "Icelandic sports club",
+          "score": 0.7517,
+          "query": "Njarðvík"
+        }
+      ]
+    },
+    {
+      "id": 1906251000042,
+      "country": "Iceland",
+      "name": "Þróttur Reykjavík",
+      "status": "MISSING",
+      "candidates": []
+    },
+    {
+      "id": 1906251000043,
+      "country": "Iceland",
+      "name": "Vestri",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q113407279",
+          "label": "Vestri",
+          "description": "football club",
+          "score": 1.0,
+          "query": "Vestri"
+        }
+      ]
+    },
+    {
+      "id": 1906251000044,
+      "country": "Iceland",
+      "name": "Völsungur",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q1815513",
+          "label": "Íþróttafélagið Völsungur",
+          "description": "sports club of Iceland",
+          "score": 0.808,
+          "query": "Völsungur"
+        }
+      ]
+    },
+    {
+      "id": 1906251000045,
+      "country": "Faroe Islands",
+      "name": "B36 Tórshavn II",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q330978",
+          "label": "B36 Tórshavn",
+          "description": "Faroese football club",
+          "score": 1.0,
+          "query": "B36 Tórshavn"
+        },
+        {
+          "id": "Q48796068",
+          "label": "B36 Tórshavn",
+          "description": "football club",
+          "score": 1.0,
+          "query": "B36 Tórshavn"
+        }
+      ]
+    },
+    {
+      "id": 1906251000046,
+      "country": "Faroe Islands",
+      "name": "B71 Sandur",
+      "status": "MISSING",
+      "candidates": []
+    },
+    {
+      "id": 1906251000047,
+      "country": "Faroe Islands",
+      "name": "FC Hoyvík",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q845258",
+          "label": "FC Hoyvík",
+          "description": "Faroese football club founded 1975",
+          "score": 1.0,
+          "query": "FC Hoyvík"
+        },
+        {
+          "id": "Q59152070",
+          "label": "FC Hoyvík",
+          "description": "Faroese football club founded 2012",
+          "score": 1.0,
+          "query": "FC Hoyvík"
+        }
+      ]
+    },
+    {
+      "id": 1906251000048,
+      "country": "Faroe Islands",
+      "name": "FC Suðuroy",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q856036",
+          "label": "FC Suðuroy",
+          "description": "Faroese football club",
+          "score": 0.9314,
+          "query": "Suðuroy"
+        }
+      ]
+    },
+    {
+      "id": 1906251000049,
+      "country": "Faroe Islands",
+      "name": "HB Tórshavn II",
+      "status": "MISSING",
+      "candidates": []
+    },
+    {
+      "id": 1906251000050,
+      "country": "Faroe Islands",
+      "name": "ÍF Fuglafjørður",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q291719",
+          "label": "ÍF Fuglafjørður",
+          "description": "Faroese football club",
+          "score": 1.0,
+          "query": "ÍF Fuglafjørður"
+        }
+      ]
+    },
+    {
+      "id": 1906251000051,
+      "country": "Faroe Islands",
+      "name": "KÍ Klaksvík II",
+      "status": "VERIFIED_WIKIDATA_P154",
+      "candidates": [
+        {
+          "id": "Q723457",
+          "label": "KÍ Klaksvík",
+          "description": "Faroese football club",
+          "score": 1.0,
+          "query": "KÍ Klaksvík"
+        },
+        {
+          "id": "Q1795240",
+          "label": "KÍ Klaksvík",
+          "description": "football club",
+          "score": 1.0,
+          "query": "KÍ Klaksvík"
+        }
+      ],
+      "qid": "Q723457",
+      "source": "https://commons.wikimedia.org/wiki/Special:Redirect/file/K%C3%8D_Klaksv%C3%ADk.png",
+      "file": "KÍ Klaksvík.png",
+      "sha256": "4e9696570b87c773bc28f4fe8481ccd8ebc62b30befd6d08a1048b587b681200"
+    },
+    {
+      "id": 1906251000052,
+      "country": "Faroe Islands",
+      "name": "NSÍ Runavík II",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q216857",
+          "label": "NSÍ Runavík",
+          "description": "association football club in Runavík, Faroe Islands",
+          "score": 1.0,
+          "query": "NSÍ Runavík"
+        }
+      ]
+    },
+    {
+      "id": 1906251000053,
+      "country": "Faroe Islands",
+      "name": "TB Tvøroyri",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q778858",
+          "label": "TB Tvøroyri",
+          "description": "Faroese football club",
+          "score": 1.0,
+          "query": "TB Tvøroyri"
+        }
+      ]
+    },
+    {
+      "id": 1906251000054,
+      "country": "Faroe Islands",
+      "name": "Víkingur Gøta II",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q3543925",
+          "label": "Víkingur Gøta",
+          "description": "Faroese football club",
+          "score": 1.0,
+          "query": "Víkingur Gøta"
+        }
+      ]
+    },
+    {
+      "id": 1906251000055,
+      "country": "Norway",
+      "name": "Bryne",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q995313",
+          "label": "Bryne FK",
+          "description": "association football club in Bryne, Norway",
+          "score": 0.92,
+          "query": "Bryne"
+        }
+      ]
+    },
+    {
+      "id": 1906251000056,
+      "country": "Norway",
+      "name": "Haugesund",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q3379653",
+          "label": "Haugesund IL",
+          "description": "Norwegian sports club",
+          "score": 0.952,
+          "query": "Haugesund"
+        }
+      ]
+    },
+    {
+      "id": 1906251000057,
+      "country": "Norway",
+      "name": "Strømsgodset",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q638288",
+          "label": "Strømsgodset IF",
+          "description": "multi-sports club in Drammen, Buskerud, Norway",
+          "score": 0.96,
+          "query": "Strømsgodset"
+        },
+        {
+          "id": "Q7482049",
+          "label": "Strømsgodset TF",
+          "description": "association football club in Drammen, Norway",
+          "score": 0.96,
+          "query": "Strømsgodset"
+        },
+        {
+          "id": "Q17266048",
+          "label": "2014 Strømsgodset IF season",
+          "description": "season of football team",
+          "score": 0.8306,
+          "query": "Strømsgodset"
+        }
+      ]
+    },
+    {
+      "id": 1906251000058,
+      "country": "Norway",
+      "name": "Sandnes Ulf",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q645229",
+          "label": "Sandnes Ulf",
+          "description": "association football club in Sandnes, Norway",
+          "score": 1.0,
+          "query": "Sandnes Ulf"
+        },
+        {
+          "id": "Q21207184",
+          "label": "Sandnes Ulf i 2015",
+          "description": "season of football team",
+          "score": 0.904,
+          "query": "Sandnes Ulf"
+        },
+        {
+          "id": "Q3948124",
+          "label": "Sandnes Ulf i 2012",
+          "description": "season of football team",
+          "score": 0.904,
+          "query": "Sandnes Ulf"
+        }
+      ]
+    },
+    {
+      "id": 1906251000059,
+      "country": "Norway",
+      "name": "Strømmen",
+      "status": "MISSING",
+      "candidates": []
+    },
+    {
+      "id": 1906251000060,
+      "country": "Norway",
+      "name": "Egersund",
+      "status": "MISSING",
+      "candidates": []
+    },
+    {
+      "id": 1906251000061,
+      "country": "Norway",
+      "name": "Hødd",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q129565",
+          "label": "IL Hødd",
+          "description": "sports club in Ulsteinvik, Norway",
+          "score": 0.88,
+          "query": "Hødd"
+        }
+      ]
+    },
+    {
+      "id": 1906251000062,
+      "country": "Norway",
+      "name": "Kongsvinger",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "id": "Q1118263",
+          "label": "Kongsvinger IL",
+          "description": "sports club in Kongsvinger, Innlandet, Norway",
+          "score": 0.96,
+          "query": "Kongsvinger"
+        },
+        {
+          "id": "Q837205",
+          "label": "Kongsvinger IL Toppfotball",
+          "description": "association football club in Kongsvinger, Norway",
+          "score": 0.8217,
+          "query": "Kongsvinger"
+        }
+      ],
+      "error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q1118263&props=claims%7Clabels%7Cdescriptions&format=json"
+    },
+    {
+      "id": 1906251000063,
+      "country": "Norway",
+      "name": "Lyn",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Lyn&language=en&format=json&limit=8"
+        }
+      ]
+    },
+    {
+      "id": 1906251000064,
+      "country": "Norway",
+      "name": "Moss",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Moss&language=en&format=json&limit=8"
+        }
+      ]
+    },
+    {
+      "id": 1906251000065,
+      "country": "Norway",
+      "name": "Odd",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Odd&language=en&format=json&limit=8"
+        }
+      ]
+    },
+    {
+      "id": 1906251000066,
+      "country": "Norway",
+      "name": "Ranheim",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Ranheim&language=en&format=json&limit=8"
+        }
+      ]
+    },
+    {
+      "id": 1906251000067,
+      "country": "Norway",
+      "name": "Raufoss",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Raufoss&language=en&format=json&limit=8"
+        }
+      ]
+    },
+    {
+      "id": 1906251000068,
+      "country": "Norway",
+      "name": "Sogndal",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Sogndal&language=en&format=json&limit=8"
+        }
+      ]
+    },
+    {
+      "id": 1906251000069,
+      "country": "Norway",
+      "name": "Stabæk",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Stab%C3%A6k&language=en&format=json&limit=8"
+        }
+      ]
+    },
+    {
+      "id": 1906251000070,
+      "country": "Norway",
+      "name": "Åsane",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbsearchentities&search=%C3%85sane&language=en&format=json&limit=8"
+        }
+      ]
+    },
+    {
+      "id": 1906300001011,
+      "country": "Kazakhstan",
+      "name": "Batyr",
+      "status": "MISSING",
+      "candidates": [
+        {
+          "error": "429 Client Error: Too Many Requests for url: https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Batyr&language=en&format=json&limit=8"
+        }
+      ]
+    }
+  ]
+}
