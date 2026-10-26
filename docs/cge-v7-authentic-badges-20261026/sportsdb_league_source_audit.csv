@@ -1,0 +1,80 @@
+teamId,clubName,country,status,matchedParticipant,sourceImage,sourceLeagueOrError
+1884520000305,F.C. Kiryat Yam,Israel,source_verified,Hapoel Kiryat Yam,https://r2.thesportsdb.com/images/media/team/badge/vnz6m01751284277.png,https://api.thesportsdb.com/season/4966-israeli-liga-leumit/2026-2027
+1906100001001,Olympia Yerevan,Armenia,source_verified,Olympia Yerevan,https://r2.thesportsdb.com/images/media/team/badge/o5107z1791905979.png,https://api.thesportsdb.com/season/4908-armenian-first-league/2026-2027
+1906100001005,Avshar Ararat,Armenia,source_verified,Avshar Ararat,https://r2.thesportsdb.com/images/media/team/badge/ukqe2y1791905781.png,https://api.thesportsdb.com/season/4908-armenian-first-league/2026-2027
+1906100001015,Hayq,Armenia,source_verified,Hayq,https://r2.thesportsdb.com/images/media/team/badge/70eym41753942560.png,https://api.thesportsdb.com/season/4908-armenian-first-league/2026-2027
+1906200001003,Şimal,Azerbaijan,source_verified,Şi̇mal,https://r2.thesportsdb.com/images/media/team/badge/u7liuv1731823246.png,https://api.thesportsdb.com/season/4914-azerbaijan-first-division/2026-2027
+1906200001004,Gəncəbasar,Azerbaijan,source_verified,Gəncəbasar,https://r2.thesportsdb.com/images/media/team/badge/ftp6rz1791825644.png,https://api.thesportsdb.com/season/4914-azerbaijan-first-division/2026-2027
+1906200001005,Xankəndi,Azerbaijan,source_verified,Xankəndi,https://r2.thesportsdb.com/images/media/team/badge/8b2ztx1791824845.png,https://api.thesportsdb.com/season/4914-azerbaijan-first-division/2026-2027
+1906200001007,Mingəçevir,Azerbaijan,source_verified,Mingəçevir,https://r2.thesportsdb.com/images/media/team/badge/ewl3z11724603481.png,https://api.thesportsdb.com/season/4914-azerbaijan-first-division/2026-2027
+1906200001008,Zaqatala,Azerbaijan,source_verified,Zaqatala,https://r2.thesportsdb.com/images/media/team/badge/mhha7m1614284714.png,https://api.thesportsdb.com/season/4914-azerbaijan-first-division/2026-2027
+1906251000034,Ægir,Iceland,not_found,,,0
+1906251000036,Grindavík,Iceland,not_found,,,0
+1906251000037,Grótta,Iceland,not_found,,,0
+1906251000039,ÍR Reykjavík,Iceland,already_published,,,
+1906251000040,Leiknir Reykjavík,Iceland,not_found,,,0
+1906251000041,Njarðvík,Iceland,not_found,,,0
+1906251000042,Þróttur Reykjavík,Iceland,not_found,,,0
+1906251000044,Völsungur,Iceland,already_published,,,
+1906251000046,B71 Sandur,Faroe Islands,already_published,,,
+1906251000047,FC Hoyvík,Faroe Islands,source_verified,Hoyvík,https://r2.thesportsdb.com/images/media/team/badge/6fxz9l1617569088.png,https://api.thesportsdb.com/season/4961-faroe-islands-1.-deild/2026
+1906251000048,FC Suðuroy,Faroe Islands,source_verified,Suðuroy,https://r2.thesportsdb.com/images/media/team/badge/owtkmo1615841384.png,https://api.thesportsdb.com/season/4961-faroe-islands-1.-deild/2026
+1906251000050,ÍF Fuglafjørður,Faroe Islands,source_verified,ÍF Fuglafjørður,https://r2.thesportsdb.com/images/media/team/badge/ud1gz61514395064.png,https://api.thesportsdb.com/season/4961-faroe-islands-1.-deild/2026
+1906251000053,TB Tvøroyri,Faroe Islands,source_verified,TB Tvøroyri,https://r2.thesportsdb.com/images/media/team/badge/2kzda01579294745.png,https://api.thesportsdb.com/season/4961-faroe-islands-1.-deild/2026
+1906300001011,Batyr,Kazakhstan,not_found,,,0
+2190262000045,FK Admira Praha,Czech Republic,source_verified,Admira Praha,https://r2.thesportsdb.com/images/media/team/badge/74t1m81777677214.png,https://api.thesportsdb.com/season/5878-czech-bohemian-football-league-group-a/2026-2027
+2190262000050,SK Aritma Praha,Czech Republic,source_verified,Aritma Praha,https://r2.thesportsdb.com/images/media/team/badge/sigew81777679412.png,https://api.thesportsdb.com/season/5878-czech-bohemian-football-league-group-a/2026-2027
+2190262000051,FK Benešov,Czech Republic,source_verified,Benešov,https://r2.thesportsdb.com/images/media/team/badge/r2g78x1782495734.png,https://api.thesportsdb.com/season/5878-czech-bohemian-football-league-group-a/2026-2027
+2190262000052,Povltavská FA,Czech Republic,source_verified,Povltavská fotbalová akademie,https://r2.thesportsdb.com/images/media/team/badge/3xmo8u1782518380.png,https://api.thesportsdb.com/season/5878-czech-bohemian-football-league-group-a/2026-2027
+2190262000053,SK Zápy,Czech Republic,source_verified,Zápy,https://r2.thesportsdb.com/images/media/team/badge/dcjrmy1777741910.png,https://api.thesportsdb.com/season/5879-czech-bohemian-football-league-group-b/2026-2027
+2190262000056,SK Benátky nad Jizerou,Czech Republic,source_verified,Benátky nad Jizerou,https://r2.thesportsdb.com/images/media/team/badge/l3atgq1777828862.png,https://api.thesportsdb.com/season/5879-czech-bohemian-football-league-group-b/2026-2027
+2190262000059,FK Baník Most-Souš,Czech Republic,source_verified,Baník Most-Souš,https://r2.thesportsdb.com/images/media/team/badge/yr9sez1777765858.png,https://api.thesportsdb.com/season/5879-czech-bohemian-football-league-group-b/2026-2027
+2190262000061,FK Čáslav,Czech Republic,source_verified,Čáslav,https://r2.thesportsdb.com/images/media/team/badge/wqyzbt1782517069.png,https://api.thesportsdb.com/season/5879-czech-bohemian-football-league-group-b/2026-2027
+2190262000063,FK Horní Ředice,Czech Republic,source_verified,Horní Ředice,https://r2.thesportsdb.com/images/media/team/badge/o0edt71782518925.png,https://api.thesportsdb.com/season/5879-czech-bohemian-football-league-group-b/2026-2027
+2190262000064,FK Neratovice-Byškovice,Czech Republic,source_verified,Neratovice-Byškovice,https://r2.thesportsdb.com/images/media/team/badge/y6a1wp1777831078.png,https://api.thesportsdb.com/season/5879-czech-bohemian-football-league-group-b/2026-2027
+2190262000065,SK Sokol Brozany,Czech Republic,source_verified,Sokol Brozany,https://r2.thesportsdb.com/images/media/team/badge/4ejgv31777742512.png,https://api.thesportsdb.com/season/5879-czech-bohemian-football-league-group-b/2026-2027
+2190262000068,FK Velké Hamry,Czech Republic,source_verified,Velké Hamry,https://r2.thesportsdb.com/images/media/team/badge/0qnao71777832107.png,https://api.thesportsdb.com/season/5879-czech-bohemian-football-league-group-b/2026-2027
+2190262000073,SK Hranice,Czech Republic,source_verified,Hranice,https://r2.thesportsdb.com/images/media/team/badge/2aoeav1777917762.png,https://api.thesportsdb.com/season/5880-czech-moravian-silesian-football-league/2026-2027
+2190262000076,TJ Unie Hlubina,Czech Republic,source_verified,Unie Hlubina,https://r2.thesportsdb.com/images/media/team/badge/7yqagd1777852596.png,https://api.thesportsdb.com/season/5880-czech-moravian-silesian-football-league/2026-2027
+2190262000077,ČSK Uherský Brod,Czech Republic,source_verified,Uherský Brod,https://r2.thesportsdb.com/images/media/team/badge/7q2lk51783293983.png,https://api.thesportsdb.com/season/5880-czech-moravian-silesian-football-league/2026-2027
+2190262000078,FK Hodonín,Czech Republic,source_verified,Hodonín,https://r2.thesportsdb.com/images/media/team/badge/7lbnj71777852186.png,https://api.thesportsdb.com/season/5880-czech-moravian-silesian-football-league/2026-2027
+2190262000079,MFK Vítkovice,Czech Republic,source_verified,Vitkovice,https://r2.thesportsdb.com/images/media/team/badge/yjuxgs1758128075.png,https://api.thesportsdb.com/season/5880-czech-moravian-silesian-football-league/2026-2027
+2190262000082,SFK Vrchovina,Czech Republic,source_verified,Vrchovina,https://r2.thesportsdb.com/images/media/team/badge/via35e1777916844.png,https://api.thesportsdb.com/season/5880-czech-moravian-silesian-football-league/2026-2027
+2190262000083,MFK Havířov,Czech Republic,source_verified,Havířov,https://r2.thesportsdb.com/images/media/team/badge/x4c7961783293756.png,https://api.thesportsdb.com/season/5880-czech-moravian-silesian-football-league/2026-2027
+2190262000084,FK Blansko,Czech Republic,source_verified,Blansko,https://r2.thesportsdb.com/images/media/team/badge/t3yrjp1615835898.png,https://api.thesportsdb.com/season/5880-czech-moravian-silesian-football-league/2026-2027
+2190262000085,FC Vsetín,Czech Republic,source_verified,Vsetín,https://r2.thesportsdb.com/images/media/team/badge/iwf87r1777917382.png,https://api.thesportsdb.com/season/5880-czech-moravian-silesian-football-league/2026-2027
+2190262000086,FK SK Polanka,Czech Republic,source_verified,Polanka nad Odrou,https://r2.thesportsdb.com/images/media/team/badge/znw9u71777918673.png,https://api.thesportsdb.com/season/5880-czech-moravian-silesian-football-league/2026-2027
+2190262000087,Avia Świdnik,Poland,source_verified,Avia Świdnik,https://r2.thesportsdb.com/images/media/team/badge/iujovj1767935670.png,https://api.thesportsdb.com/season/5709-polish-ii-liga/2026-2027
+2190262000088,Chojniczanka Chojnice,Poland,source_verified,Chojniczanka Chojnice,https://r2.thesportsdb.com/images/media/team/badge/e8ixj41580815456.png,https://api.thesportsdb.com/season/5709-polish-ii-liga/2026-2027
+2190262000092,Lechia Zielona Góra,Poland,source_verified,Lechia Zielona Góra,https://r2.thesportsdb.com/images/media/team/badge/eclt9j1767826551.png,https://api.thesportsdb.com/season/5709-polish-ii-liga/2026-2027
+2190262000094,Olimpia Grudziądz,Poland,source_verified,Olimpia Grudziądz,https://r2.thesportsdb.com/images/media/team/badge/fwmqh21580815683.png,https://api.thesportsdb.com/season/5709-polish-ii-liga/2026-2027
+2190262000095,Podhale Nowy Targ,Poland,source_verified,Podhale Nowy Targ,https://r2.thesportsdb.com/images/media/team/badge/i072dr1760238507.png,https://api.thesportsdb.com/season/5709-polish-ii-liga/2026-2027
+2190262000096,Rekord Bielsko-Biała,Poland,source_verified,Rekord Bielsko-Biała,https://r2.thesportsdb.com/images/media/team/badge/i1hyuj1760239267.png,https://api.thesportsdb.com/season/5709-polish-ii-liga/2026-2027
+2190262000097,Resovia Rzeszów,Poland,source_verified,Resovia Rzeszów,https://r2.thesportsdb.com/images/media/team/badge/ynxxbi1596476075.png,https://api.thesportsdb.com/season/5709-polish-ii-liga/2026-2027
+2190262000098,Sandecja Nowy Sącz,Poland,source_verified,Sandecja Nowy Sacz,https://r2.thesportsdb.com/images/media/team/badge/jtq1cl1681320690.png,https://api.thesportsdb.com/season/5709-polish-ii-liga/2026-2027
+2190262000099,Sokół Kleczew,Poland,source_verified,Sokół Kleczew,https://r2.thesportsdb.com/images/media/team/badge/ezol7s1760240222.png,https://api.thesportsdb.com/season/5709-polish-ii-liga/2026-2027
+2190262000100,Stal Stalowa Wola,Poland,source_verified,Stal Stalowa Wola,https://r2.thesportsdb.com/images/media/team/badge/xnvanb1717917947.png,https://api.thesportsdb.com/season/5709-polish-ii-liga/2026-2027
+2190262000102,Świt Szczecin,Poland,source_verified,Świt Szczecin,https://r2.thesportsdb.com/images/media/team/badge/a88dms1760241853.png,https://api.thesportsdb.com/season/5709-polish-ii-liga/2026-2027
+2190262000105,Lysekloster,Norway,source_verified,Lysekloster,https://r2.thesportsdb.com/images/media/team/badge/2wro8q1750614580.png,https://api.thesportsdb.com/season/5758-norwegian-second-division-group-1/2026
+2190262000106,Sotra,Norway,source_verified,Sotra,https://r2.thesportsdb.com/images/media/team/badge/1r1znm1750614878.png,https://api.thesportsdb.com/season/5758-norwegian-second-division-group-1/2026
+2190262000107,Sandviken,Norway,source_verified,Sandviken,https://r2.thesportsdb.com/images/media/team/badge/wcuti61750622039.png,https://api.thesportsdb.com/season/5758-norwegian-second-division-group-1/2026
+2190262000108,Pors,Norway,source_verified,Pors,https://r2.thesportsdb.com/images/media/team/badge/c3uws61750623519.png,https://api.thesportsdb.com/season/5758-norwegian-second-division-group-1/2026
+2190262000109,Notodden,Norway,source_verified,Notodden,https://r2.thesportsdb.com/images/media/team/badge/5justw1530445026.png,https://api.thesportsdb.com/season/5758-norwegian-second-division-group-1/2026
+2190262000111,Arendal,Norway,source_verified,Arendal,https://r2.thesportsdb.com/images/media/team/badge/td4t8n1750615512.png,https://api.thesportsdb.com/season/5758-norwegian-second-division-group-1/2026
+2190262000114,Bjarg,Norway,source_verified,Bjarg,https://r2.thesportsdb.com/images/media/team/badge/is2kh11750636518.png,https://api.thesportsdb.com/season/5758-norwegian-second-division-group-1/2026
+2190262000115,Vidar,Norway,source_verified,Vidar,https://r2.thesportsdb.com/images/media/team/badge/dua7ch1750636761.png,https://api.thesportsdb.com/season/5758-norwegian-second-division-group-1/2026
+2190262000116,Kvik Halden,Norway,source_verified,Kvik Halden,https://r2.thesportsdb.com/images/media/team/badge/5e37wd1750648834.png,https://api.thesportsdb.com/season/5758-norwegian-second-division-group-1/2026
+2190262000117,Brattvåg,Norway,source_verified,Brattvåg,https://r2.thesportsdb.com/images/media/team/badge/jg1cyi1750622223.png,https://api.thesportsdb.com/season/5758-norwegian-second-division-group-1/2026
+2190262000118,Træff,Norway,source_verified,Træff,https://r2.thesportsdb.com/images/media/team/badge/gzjkyw1750621785.png,https://api.thesportsdb.com/season/5758-norwegian-second-division-group-1/2026
+2190262000120,Kjelsås,Norway,source_verified,Kjelsås,https://r2.thesportsdb.com/images/media/team/badge/xmc9kv1750615918.png,https://api.thesportsdb.com/season/5759-norwegian-second-division-group-2/2026
+2190262000122,Levanger,Norway,source_verified,Levanger,https://r2.thesportsdb.com/images/media/team/badge/ta1kea1512829802.png,https://api.thesportsdb.com/season/5759-norwegian-second-division-group-2/2026
+2190262000124,Ull/Kisa,Norway,source_verified,Ull/Kisa,https://r2.thesportsdb.com/images/media/team/badge/7dpj911512831708.png,https://api.thesportsdb.com/season/5759-norwegian-second-division-group-2/2026
+2190262000125,Eidsvold Turn,Norway,source_verified,Eidsvold Turn,https://r2.thesportsdb.com/images/media/team/badge/e0ixth1750624117.png,https://api.thesportsdb.com/season/5759-norwegian-second-division-group-2/2026
+2190262000126,Rana,Norway,source_verified,Rana,https://r2.thesportsdb.com/images/media/team/badge/7qkahk1750622444.png,https://api.thesportsdb.com/season/5759-norwegian-second-division-group-2/2026
+2190262000127,Stjørdals-Blink,Norway,source_verified,Stjørdals-Blink,https://r2.thesportsdb.com/images/media/team/badge/rie1kg1591539120.png,https://api.thesportsdb.com/season/5759-norwegian-second-division-group-2/2026
+2190262000128,Junkeren,Norway,source_verified,Junkeren,https://r2.thesportsdb.com/images/media/team/badge/z68q841750632585.png,https://api.thesportsdb.com/season/5759-norwegian-second-division-group-2/2026
+2190262000129,Lørenskog,Norway,source_verified,Lørenskog,https://r2.thesportsdb.com/images/media/team/badge/ij087r1750632369.png,https://api.thesportsdb.com/season/5759-norwegian-second-division-group-2/2026
+2190262000130,Trygg/Lade,Norway,source_verified,Trygg/Lade,https://r2.thesportsdb.com/images/media/team/badge/gvcwkp1750634865.png,https://api.thesportsdb.com/season/5759-norwegian-second-division-group-2/2026
+2190262000131,Tromsdalen,Norway,source_verified,Tromsdalen,https://r2.thesportsdb.com/images/media/team/badge/f2higc1750622996.png,https://api.thesportsdb.com/season/5759-norwegian-second-division-group-2/2026
+2190262000132,Grorud,Norway,source_verified,Grorud,https://r2.thesportsdb.com/images/media/team/badge/7o7fi41591539124.png,https://api.thesportsdb.com/season/5759-norwegian-second-division-group-2/2026
+1793400200029,Hellas Verona,Italy,not_found,,,0
