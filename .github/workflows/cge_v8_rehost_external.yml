@@ -1,0 +1,28 @@
+name: CGE V8 Normalize 16 External Club Badge Sources
+on:
+  push:
+    paths:
+      - ".github/workflows/cge_v8_rehost_external.yml"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  normalize:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install --quiet requests pillow
+      - run: python scripts/cge_v8_rehost_external_badges.py
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/cge-v8-contrast-fixes
+          if ! git diff --cached --quiet; then
+            git commit -m "CGE V8: normalize and host authentic external badges 120x96"
+            git pull --rebase origin main
+            git push origin main
+          fi
