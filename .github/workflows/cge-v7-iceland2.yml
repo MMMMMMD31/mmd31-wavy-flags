@@ -1,0 +1,32 @@
+name: CGE V7 Iceland crest followup
+on:
+  push:
+    paths:
+      - 'tools/cge_v7_iceland2.py'
+      - '.github/workflows/cge-v7-iceland2.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  create:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install --quiet pillow cairosvg requests
+      - run: python -u tools/cge_v7_iceland2.py
+      - name: Publish verified Iceland club PNGs
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/cge-v7-d3-2026-27/v5/
+          if ! git diff --cached --quiet; then
+            git commit -m "Publish CGE V7 Iceland logo files"
+            git pull --rebase origin "${GITHUB_REF_NAME}"
+            git push origin HEAD:refs/heads/${GITHUB_REF_NAME}
+          fi
