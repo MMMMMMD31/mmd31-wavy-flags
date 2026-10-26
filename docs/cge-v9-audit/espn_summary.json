@@ -1,0 +1,29 @@
+{
+  "date": "2026-10-26",
+  "clubs": 719,
+  "updated": 167,
+  "statuses": {
+    "MATCHED_NO_CHANGE": 9,
+    "PROXY_STANDINGS": 167,
+    "AMBIGUOUS_IDENTITY": 74,
+    "NO_DATA": 469
+  },
+  "leaguesWithData": {
+    "France": 18,
+    "Netherlands": 18,
+    "Italy": 20,
+    "Spain": 20,
+    "Germany": 18,
+    "Belgium": 18,
+    "England": 20,
+    "Scotland": 12,
+    "Austria": 12,
+    "Portugal": 18,
+    "Norway": 16,
+    "Greece": 14,
+    "Denmark": 12,
+    "Sweden": 16,
+    "Turkey": 18
+  },
+  "notes": "All estimates are provisional: ESPN 2026 standings are a snapshot, not a match-by-match ClubElo model. Sports evidence not available leaves ratings unchanged."
+}

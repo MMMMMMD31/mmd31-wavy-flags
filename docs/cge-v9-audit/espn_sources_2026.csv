@@ -1,0 +1,289 @@
+country,leagueCode,sourceURL,status,teamCount,club,espnTeamId,gp,points,gf,ga,wins,draws,losses
+France,fra.1,https://site.api.espn.com/apis/v2/sports/soccer/fra.1/standings?season=2026,OK French Ligue 1,18,Stade Rennais,169,8,16,18,14,5,1,2
+France,fra.1,https://site.api.espn.com/apis/v2/sports/soccer/fra.1/standings?season=2026,OK French Ligue 1,18,Lille,166,8,15,11,6,4,3,1
+France,fra.1,https://site.api.espn.com/apis/v2/sports/soccer/fra.1/standings?season=2026,OK French Ligue 1,18,AS Monaco,174,8,15,11,7,4,3,1
+France,fra.1,https://site.api.espn.com/apis/v2/sports/soccer/fra.1/standings?season=2026,OK French Ligue 1,18,Lyon,167,7,14,13,5,4,2,1
+France,fra.1,https://site.api.espn.com/apis/v2/sports/soccer/fra.1/standings?season=2026,OK French Ligue 1,18,Paris Saint-Germain,160,7,14,14,9,4,2,1
+France,fra.1,https://site.api.espn.com/apis/v2/sports/soccer/fra.1/standings?season=2026,OK French Ligue 1,18,Paris FC,6851,8,14,13,9,4,2,2
+France,fra.1,https://site.api.espn.com/apis/v2/sports/soccer/fra.1/standings?season=2026,OK French Ligue 1,18,Lens,175,8,13,16,12,4,1,3
+France,fra.1,https://site.api.espn.com/apis/v2/sports/soccer/fra.1/standings?season=2026,OK French Ligue 1,18,Marseille,176,8,12,18,13,4,0,4
+France,fra.1,https://site.api.espn.com/apis/v2/sports/soccer/fra.1/standings?season=2026,OK French Ligue 1,18,Lorient,273,8,12,7,6,3,3,2
+France,fra.1,https://site.api.espn.com/apis/v2/sports/soccer/fra.1/standings?season=2026,OK French Ligue 1,18,Nice,2502,8,11,8,10,3,2,3
+France,fra.1,https://site.api.espn.com/apis/v2/sports/soccer/fra.1/standings?season=2026,OK French Ligue 1,18,Toulouse,179,8,10,12,11,2,4,2
+France,fra.1,https://site.api.espn.com/apis/v2/sports/soccer/fra.1/standings?season=2026,OK French Ligue 1,18,AJ Auxerre,172,8,10,12,18,3,1,4
+France,fra.1,https://site.api.espn.com/apis/v2/sports/soccer/fra.1/standings?season=2026,OK French Ligue 1,18,Brest,6997,8,9,14,12,2,3,3
+France,fra.1,https://site.api.espn.com/apis/v2/sports/soccer/fra.1/standings?season=2026,OK French Ligue 1,18,Angers,7868,8,8,9,15,2,2,4
+France,fra.1,https://site.api.espn.com/apis/v2/sports/soccer/fra.1/standings?season=2026,OK French Ligue 1,18,Le Mans,2697,8,7,11,16,1,4,3
+France,fra.1,https://site.api.espn.com/apis/v2/sports/soccer/fra.1/standings?season=2026,OK French Ligue 1,18,Strasbourg,180,8,7,12,18,2,1,5
+France,fra.1,https://site.api.espn.com/apis/v2/sports/soccer/fra.1/standings?season=2026,OK French Ligue 1,18,Troyes,170,8,5,5,16,1,2,5
+France,fra.1,https://site.api.espn.com/apis/v2/sports/soccer/fra.1/standings?season=2026,OK French Ligue 1,18,Le Havre AC,3236,8,2,8,15,0,2,6
+Germany,ger.1,https://site.api.espn.com/apis/v2/sports/soccer/ger.1/standings?season=2026,OK German Bundesliga,18,Bayern Munich,132,7,17,25,6,5,2,0
+Germany,ger.1,https://site.api.espn.com/apis/v2/sports/soccer/ger.1/standings?season=2026,OK German Bundesliga,18,Borussia Dortmund,124,7,17,12,4,5,2,0
+Germany,ger.1,https://site.api.espn.com/apis/v2/sports/soccer/ger.1/standings?season=2026,OK German Bundesliga,18,SC Freiburg,126,7,13,16,9,4,1,2
+Germany,ger.1,https://site.api.espn.com/apis/v2/sports/soccer/ger.1/standings?season=2026,OK German Bundesliga,18,Bayer Leverkusen,131,7,13,16,12,4,1,2
+Germany,ger.1,https://site.api.espn.com/apis/v2/sports/soccer/ger.1/standings?season=2026,OK German Bundesliga,18,RB Leipzig,11420,7,12,20,11,4,0,3
+Germany,ger.1,https://site.api.espn.com/apis/v2/sports/soccer/ger.1/standings?season=2026,OK German Bundesliga,18,Werder Bremen,137,7,12,15,14,3,3,1
+Germany,ger.1,https://site.api.espn.com/apis/v2/sports/soccer/ger.1/standings?season=2026,OK German Bundesliga,18,Mainz,2950,7,10,16,13,3,1,3
+Germany,ger.1,https://site.api.espn.com/apis/v2/sports/soccer/ger.1/standings?season=2026,OK German Bundesliga,18,SV Elversberg,10388,7,10,12,15,3,1,3
+Germany,ger.1,https://site.api.espn.com/apis/v2/sports/soccer/ger.1/standings?season=2026,OK German Bundesliga,18,FC Augsburg,3841,7,9,17,13,2,3,2
+Germany,ger.1,https://site.api.espn.com/apis/v2/sports/soccer/ger.1/standings?season=2026,OK German Bundesliga,18,TSG Hoffenheim,7911,7,9,14,14,3,0,4
+Germany,ger.1,https://site.api.espn.com/apis/v2/sports/soccer/ger.1/standings?season=2026,OK German Bundesliga,18,Hamburg SV,127,7,9,6,16,3,0,4
+Germany,ger.1,https://site.api.espn.com/apis/v2/sports/soccer/ger.1/standings?season=2026,OK German Bundesliga,18,FC Cologne,122,7,8,8,11,2,2,3
+Germany,ger.1,https://site.api.espn.com/apis/v2/sports/soccer/ger.1/standings?season=2026,OK German Bundesliga,18,SC Paderborn 07,3307,7,8,6,9,2,2,3
+Germany,ger.1,https://site.api.espn.com/apis/v2/sports/soccer/ger.1/standings?season=2026,OK German Bundesliga,18,Eintracht Frankfurt,125,7,8,10,17,2,2,3
+Germany,ger.1,https://site.api.espn.com/apis/v2/sports/soccer/ger.1/standings?season=2026,OK German Bundesliga,18,VfB Stuttgart,134,7,6,10,13,2,0,5
+Germany,ger.1,https://site.api.espn.com/apis/v2/sports/soccer/ger.1/standings?season=2026,OK German Bundesliga,18,Schalke 04,133,7,6,4,7,1,3,3
+Germany,ger.1,https://site.api.espn.com/apis/v2/sports/soccer/ger.1/standings?season=2026,OK German Bundesliga,18,1. FC Union Berlin,598,7,6,6,18,1,3,3
+Germany,ger.1,https://site.api.espn.com/apis/v2/sports/soccer/ger.1/standings?season=2026,OK German Bundesliga,18,Borussia Mönchengladbach,268,7,3,11,22,1,0,6
+England,eng.1,https://site.api.espn.com/apis/v2/sports/soccer/eng.1/standings?season=2026,OK English Premier League,20,Manchester City,382,8,21,20,9,7,0,1
+England,eng.1,https://site.api.espn.com/apis/v2/sports/soccer/eng.1/standings?season=2026,OK English Premier League,20,Arsenal,359,8,21,13,5,7,0,1
+England,eng.1,https://site.api.espn.com/apis/v2/sports/soccer/eng.1/standings?season=2026,OK English Premier League,20,Brighton & Hove Albion,331,8,16,23,7,5,1,2
+England,eng.1,https://site.api.espn.com/apis/v2/sports/soccer/eng.1/standings?season=2026,OK English Premier League,20,Liverpool,364,8,15,11,8,4,3,1
+England,eng.1,https://site.api.espn.com/apis/v2/sports/soccer/eng.1/standings?season=2026,OK English Premier League,20,Chelsea,363,8,13,17,15,4,1,3
+England,eng.1,https://site.api.espn.com/apis/v2/sports/soccer/eng.1/standings?season=2026,OK English Premier League,20,Brentford,337,8,11,14,9,2,5,1
+England,eng.1,https://site.api.espn.com/apis/v2/sports/soccer/eng.1/standings?season=2026,OK English Premier League,20,Leeds United,357,8,11,9,6,2,5,1
+England,eng.1,https://site.api.espn.com/apis/v2/sports/soccer/eng.1/standings?season=2026,OK English Premier League,20,Newcastle United,361,8,11,12,14,3,2,3
+England,eng.1,https://site.api.espn.com/apis/v2/sports/soccer/eng.1/standings?season=2026,OK English Premier League,20,Aston Villa,362,8,11,9,12,3,2,3
+England,eng.1,https://site.api.espn.com/apis/v2/sports/soccer/eng.1/standings?season=2026,OK English Premier League,20,Hull City,306,8,10,9,8,2,4,2
+England,eng.1,https://site.api.espn.com/apis/v2/sports/soccer/eng.1/standings?season=2026,OK English Premier League,20,Everton,368,8,10,8,9,2,4,2
+England,eng.1,https://site.api.espn.com/apis/v2/sports/soccer/eng.1/standings?season=2026,OK English Premier League,20,Ipswich Town,373,8,10,12,16,3,1,4
+England,eng.1,https://site.api.espn.com/apis/v2/sports/soccer/eng.1/standings?season=2026,OK English Premier League,20,AFC Bournemouth,349,8,9,12,13,2,3,3
+England,eng.1,https://site.api.espn.com/apis/v2/sports/soccer/eng.1/standings?season=2026,OK English Premier League,20,Tottenham Hotspur,367,8,9,8,10,2,3,3
+England,eng.1,https://site.api.espn.com/apis/v2/sports/soccer/eng.1/standings?season=2026,OK English Premier League,20,Fulham,370,8,8,8,10,2,2,4
+England,eng.1,https://site.api.espn.com/apis/v2/sports/soccer/eng.1/standings?season=2026,OK English Premier League,20,Manchester United,360,8,7,10,13,1,4,3
+England,eng.1,https://site.api.espn.com/apis/v2/sports/soccer/eng.1/standings?season=2026,OK English Premier League,20,Crystal Palace,384,8,7,9,19,2,1,5
+England,eng.1,https://site.api.espn.com/apis/v2/sports/soccer/eng.1/standings?season=2026,OK English Premier League,20,Nottingham Forest,393,8,6,6,10,1,3,4
+England,eng.1,https://site.api.espn.com/apis/v2/sports/soccer/eng.1/standings?season=2026,OK English Premier League,20,Coventry City,388,8,6,6,15,2,0,6
+England,eng.1,https://site.api.espn.com/apis/v2/sports/soccer/eng.1/standings?season=2026,OK English Premier League,20,Sunderland,366,8,5,6,14,1,2,5
+Spain,esp.1,https://site.api.espn.com/apis/v2/sports/soccer/esp.1/standings?season=2026,OK Spanish LALIGA,20,Barcelona,83,10,27,40,11,9,0,1
+Spain,esp.1,https://site.api.espn.com/apis/v2/sports/soccer/esp.1/standings?season=2026,OK Spanish LALIGA,20,Atlético Madrid,1068,10,25,20,8,8,1,1
+Spain,esp.1,https://site.api.espn.com/apis/v2/sports/soccer/esp.1/standings?season=2026,OK Spanish LALIGA,20,Real Madrid,86,10,24,25,10,8,0,2
+Spain,esp.1,https://site.api.espn.com/apis/v2/sports/soccer/esp.1/standings?season=2026,OK Spanish LALIGA,20,Real Betis,244,10,20,16,14,6,2,2
+Spain,esp.1,https://site.api.espn.com/apis/v2/sports/soccer/esp.1/standings?season=2026,OK Spanish LALIGA,20,Real Sociedad,89,10,19,19,18,6,1,3
+Spain,esp.1,https://site.api.espn.com/apis/v2/sports/soccer/esp.1/standings?season=2026,OK Spanish LALIGA,20,Sevilla,243,9,14,14,16,4,2,3
+Spain,esp.1,https://site.api.espn.com/apis/v2/sports/soccer/esp.1/standings?season=2026,OK Spanish LALIGA,20,Alavés,96,10,12,14,11,3,3,4
+Spain,esp.1,https://site.api.espn.com/apis/v2/sports/soccer/esp.1/standings?season=2026,OK Spanish LALIGA,20,Athletic Club,93,9,12,12,9,3,3,3
+Spain,esp.1,https://site.api.espn.com/apis/v2/sports/soccer/esp.1/standings?season=2026,OK Spanish LALIGA,20,Celta Vigo,85,10,12,10,7,2,6,2
+Spain,esp.1,https://site.api.espn.com/apis/v2/sports/soccer/esp.1/standings?season=2026,OK Spanish LALIGA,20,Villarreal,102,10,12,15,14,3,3,4
+Spain,esp.1,https://site.api.espn.com/apis/v2/sports/soccer/esp.1/standings?season=2026,OK Spanish LALIGA,20,Deportivo,90,10,11,13,13,2,5,3
+Spain,esp.1,https://site.api.espn.com/apis/v2/sports/soccer/esp.1/standings?season=2026,OK Spanish LALIGA,20,Osasuna,97,9,11,10,18,3,2,4
+Spain,esp.1,https://site.api.espn.com/apis/v2/sports/soccer/esp.1/standings?season=2026,OK Spanish LALIGA,20,Racing Santander,87,10,11,15,26,3,2,5
+Spain,esp.1,https://site.api.espn.com/apis/v2/sports/soccer/esp.1/standings?season=2026,OK Spanish LALIGA,20,Levante,1538,10,10,16,19,2,4,4
+Spain,esp.1,https://site.api.espn.com/apis/v2/sports/soccer/esp.1/standings?season=2026,OK Spanish LALIGA,20,Elche,3751,10,10,14,17,2,4,4
+Spain,esp.1,https://site.api.espn.com/apis/v2/sports/soccer/esp.1/standings?season=2026,OK Spanish LALIGA,20,Rayo Vallecano,101,9,9,12,20,2,3,4
+Spain,esp.1,https://site.api.espn.com/apis/v2/sports/soccer/esp.1/standings?season=2026,OK Spanish LALIGA,20,Getafe,2922,10,9,5,15,2,3,5
+Spain,esp.1,https://site.api.espn.com/apis/v2/sports/soccer/esp.1/standings?season=2026,OK Spanish LALIGA,20,Espanyol,88,10,8,12,14,2,2,6
+Spain,esp.1,https://site.api.espn.com/apis/v2/sports/soccer/esp.1/standings?season=2026,OK Spanish LALIGA,20,Valencia,94,10,6,7,17,1,3,6
+Spain,esp.1,https://site.api.espn.com/apis/v2/sports/soccer/esp.1/standings?season=2026,OK Spanish LALIGA,20,Málaga,99,10,5,7,19,0,5,5
+Italy,ita.1,https://site.api.espn.com/apis/v2/sports/soccer/ita.1/standings?season=2026,OK Italian Serie A,20,Internazionale,110,8,22,23,10,7,1,0
+Italy,ita.1,https://site.api.espn.com/apis/v2/sports/soccer/ita.1/standings?season=2026,OK Italian Serie A,20,Lazio,112,8,22,16,5,7,1,0
+Italy,ita.1,https://site.api.espn.com/apis/v2/sports/soccer/ita.1/standings?season=2026,OK Italian Serie A,20,AS Roma,104,8,18,19,6,5,3,0
+Italy,ita.1,https://site.api.espn.com/apis/v2/sports/soccer/ita.1/standings?season=2026,OK Italian Serie A,20,AC Milan,103,8,18,16,7,5,3,0
+Italy,ita.1,https://site.api.espn.com/apis/v2/sports/soccer/ita.1/standings?season=2026,OK Italian Serie A,20,Como,2572,8,17,14,7,5,2,1
+Italy,ita.1,https://site.api.espn.com/apis/v2/sports/soccer/ita.1/standings?season=2026,OK Italian Serie A,20,Frosinone,4057,8,14,17,13,4,2,2
+Italy,ita.1,https://site.api.espn.com/apis/v2/sports/soccer/ita.1/standings?season=2026,OK Italian Serie A,20,Juventus,111,8,14,11,8,4,2,2
+Italy,ita.1,https://site.api.espn.com/apis/v2/sports/soccer/ita.1/standings?season=2026,OK Italian Serie A,20,Torino,239,8,13,13,11,4,1,3
+Italy,ita.1,https://site.api.espn.com/apis/v2/sports/soccer/ita.1/standings?season=2026,OK Italian Serie A,20,Cagliari,2925,8,13,6,9,4,1,3
+Italy,ita.1,https://site.api.espn.com/apis/v2/sports/soccer/ita.1/standings?season=2026,OK Italian Serie A,20,Napoli,114,8,11,13,10,3,2,3
+Italy,ita.1,https://site.api.espn.com/apis/v2/sports/soccer/ita.1/standings?season=2026,OK Italian Serie A,20,Atalanta,105,8,10,14,15,3,1,4
+Italy,ita.1,https://site.api.espn.com/apis/v2/sports/soccer/ita.1/standings?season=2026,OK Italian Serie A,20,Lecce,113,8,9,9,14,3,0,5
+Italy,ita.1,https://site.api.espn.com/apis/v2/sports/soccer/ita.1/standings?season=2026,OK Italian Serie A,20,Bologna,107,8,8,8,10,2,2,4
+Italy,ita.1,https://site.api.espn.com/apis/v2/sports/soccer/ita.1/standings?season=2026,OK Italian Serie A,20,Sassuolo,3997,8,8,12,16,2,2,4
+Italy,ita.1,https://site.api.espn.com/apis/v2/sports/soccer/ita.1/standings?season=2026,OK Italian Serie A,20,Monza,4007,8,7,15,18,2,1,5
+Italy,ita.1,https://site.api.espn.com/apis/v2/sports/soccer/ita.1/standings?season=2026,OK Italian Serie A,20,Genoa,3263,8,7,6,13,2,1,5
+Italy,ita.1,https://site.api.espn.com/apis/v2/sports/soccer/ita.1/standings?season=2026,OK Italian Serie A,20,Udinese,118,8,4,9,18,1,1,6
+Italy,ita.1,https://site.api.espn.com/apis/v2/sports/soccer/ita.1/standings?season=2026,OK Italian Serie A,20,Fiorentina,109,8,4,9,19,1,1,6
+Italy,ita.1,https://site.api.espn.com/apis/v2/sports/soccer/ita.1/standings?season=2026,OK Italian Serie A,20,Parma,115,8,4,5,15,1,1,6
+Italy,ita.1,https://site.api.espn.com/apis/v2/sports/soccer/ita.1/standings?season=2026,OK Italian Serie A,20,Venezia,17530,8,3,6,17,1,0,7
+Belgium,bel.1,https://site.api.espn.com/apis/v2/sports/soccer/bel.1/standings?season=2026,OK Belgian Pro League,18,KAA Gent,3611,9,25,19,4,8,1,0
+Belgium,bel.1,https://site.api.espn.com/apis/v2/sports/soccer/bel.1/standings?season=2026,OK Belgian Pro League,18,Club Brugge,570,9,24,22,6,8,0,1
+Belgium,bel.1,https://site.api.espn.com/apis/v2/sports/soccer/bel.1/standings?season=2026,OK Belgian Pro League,18,Union St.-Gilloise,5807,9,23,27,6,7,2,0
+Belgium,bel.1,https://site.api.espn.com/apis/v2/sports/soccer/bel.1/standings?season=2026,OK Belgian Pro League,18,Royal Charleroi SC,3616,9,21,16,10,7,0,2
+Belgium,bel.1,https://site.api.espn.com/apis/v2/sports/soccer/bel.1/standings?season=2026,OK Belgian Pro League,18,Anderlecht,441,9,16,9,10,5,1,3
+Belgium,bel.1,https://site.api.espn.com/apis/v2/sports/soccer/bel.1/standings?season=2026,OK Belgian Pro League,18,Racing Genk,938,9,15,18,13,4,3,2
+Belgium,bel.1,https://site.api.espn.com/apis/v2/sports/soccer/bel.1/standings?season=2026,OK Belgian Pro League,18,KVC Westerlo,606,9,14,24,21,4,2,3
+Belgium,bel.1,https://site.api.espn.com/apis/v2/sports/soccer/bel.1/standings?season=2026,OK Belgian Pro League,18,Lommel SK,22269,9,12,11,11,3,3,3
+Belgium,bel.1,https://site.api.espn.com/apis/v2/sports/soccer/bel.1/standings?season=2026,OK Belgian Pro League,18,Standard Liege,559,9,11,14,15,3,2,4
+Belgium,bel.1,https://site.api.espn.com/apis/v2/sports/soccer/bel.1/standings?season=2026,OK Belgian Pro League,18,Zulte-Waregem,4691,9,11,10,12,3,2,4
+Belgium,bel.1,https://site.api.espn.com/apis/v2/sports/soccer/bel.1/standings?season=2026,OK Belgian Pro League,18,Antwerp,17544,9,10,15,20,3,1,5
+Belgium,bel.1,https://site.api.espn.com/apis/v2/sports/soccer/bel.1/standings?season=2026,OK Belgian Pro League,18,Waasland-Beveren,13450,9,10,12,18,3,1,5
+Belgium,bel.1,https://site.api.espn.com/apis/v2/sports/soccer/bel.1/standings?season=2026,OK Belgian Pro League,18,Sint-Truidense,936,9,8,17,19,2,2,5
+Belgium,bel.1,https://site.api.espn.com/apis/v2/sports/soccer/bel.1/standings?season=2026,OK Belgian Pro League,18,RAAL La Louvière,131235,9,7,11,18,2,1,6
+Belgium,bel.1,https://site.api.espn.com/apis/v2/sports/soccer/bel.1/standings?season=2026,OK Belgian Pro League,18,KV Mechelen,7879,8,6,9,17,1,3,4
+Belgium,bel.1,https://site.api.espn.com/apis/v2/sports/soccer/bel.1/standings?season=2026,OK Belgian Pro League,18,Oud-Heverlee Leuven,5579,9,6,8,16,1,3,5
+Belgium,bel.1,https://site.api.espn.com/apis/v2/sports/soccer/bel.1/standings?season=2026,OK Belgian Pro League,18,KV Kortrijk,5786,8,3,2,18,1,0,7
+Belgium,bel.1,https://site.api.espn.com/apis/v2/sports/soccer/bel.1/standings?season=2026,OK Belgian Pro League,18,Cercle Brugge KSV,3610,9,3,11,21,0,3,6
+Luxembourg,lux.1,https://site.api.espn.com/apis/v2/sports/soccer/lux.1/standings?season=2026,ERROR 400 Client Error: Bad Request for url: https://site.api.espn.com/apis/v2/sports/soccer/lux.1/standings?season=2026,0,,,,,,,,,
+Netherlands,ned.1,https://site.api.espn.com/apis/v2/sports/soccer/ned.1/standings?season=2026,OK Dutch Eredivisie,18,Feyenoord Rotterdam,142,10,24,32,11,7,3,0
+Netherlands,ned.1,https://site.api.espn.com/apis/v2/sports/soccer/ned.1/standings?season=2026,OK Dutch Eredivisie,18,Ajax Amsterdam,139,10,21,29,13,6,3,1
+Netherlands,ned.1,https://site.api.espn.com/apis/v2/sports/soccer/ned.1/standings?season=2026,OK Dutch Eredivisie,18,PSV Eindhoven,148,10,20,28,13,6,2,2
+Netherlands,ned.1,https://site.api.espn.com/apis/v2/sports/soccer/ned.1/standings?season=2026,OK Dutch Eredivisie,18,FC Twente,152,10,20,19,10,6,2,2
+Netherlands,ned.1,https://site.api.espn.com/apis/v2/sports/soccer/ned.1/standings?season=2026,OK Dutch Eredivisie,18,AZ Alkmaar,140,10,20,20,12,6,2,2
+Netherlands,ned.1,https://site.api.espn.com/apis/v2/sports/soccer/ned.1/standings?season=2026,OK Dutch Eredivisie,18,Fortuna Sittard,143,10,18,17,17,5,3,2
+Netherlands,ned.1,https://site.api.espn.com/apis/v2/sports/soccer/ned.1/standings?season=2026,OK Dutch Eredivisie,18,Heerenveen,146,10,15,18,13,4,3,3
+Netherlands,ned.1,https://site.api.espn.com/apis/v2/sports/soccer/ned.1/standings?season=2026,OK Dutch Eredivisie,18,FC Groningen,145,10,15,24,21,4,3,3
+Netherlands,ned.1,https://site.api.espn.com/apis/v2/sports/soccer/ned.1/standings?season=2026,OK Dutch Eredivisie,18,Go Ahead Eagles,3706,10,14,23,23,3,5,2
+Netherlands,ned.1,https://site.api.espn.com/apis/v2/sports/soccer/ned.1/standings?season=2026,OK Dutch Eredivisie,18,SC Cambuur,3736,10,12,19,22,3,3,4
+Netherlands,ned.1,https://site.api.espn.com/apis/v2/sports/soccer/ned.1/standings?season=2026,OK Dutch Eredivisie,18,FC Utrecht,153,10,12,17,27,3,3,4
+Netherlands,ned.1,https://site.api.espn.com/apis/v2/sports/soccer/ned.1/standings?season=2026,OK Dutch Eredivisie,18,NEC Nijmegen,147,10,11,17,18,2,5,3
+Netherlands,ned.1,https://site.api.espn.com/apis/v2/sports/soccer/ned.1/standings?season=2026,OK Dutch Eredivisie,18,Excelsior,2566,10,11,16,19,3,2,5
+Netherlands,ned.1,https://site.api.espn.com/apis/v2/sports/soccer/ned.1/standings?season=2026,OK Dutch Eredivisie,18,Sparta Rotterdam,151,10,9,17,24,2,3,5
+Netherlands,ned.1,https://site.api.espn.com/apis/v2/sports/soccer/ned.1/standings?season=2026,OK Dutch Eredivisie,18,PEC Zwolle,2565,10,8,11,23,2,2,6
+Netherlands,ned.1,https://site.api.espn.com/apis/v2/sports/soccer/ned.1/standings?season=2026,OK Dutch Eredivisie,18,Telstar,3735,10,6,12,21,1,3,6
+Netherlands,ned.1,https://site.api.espn.com/apis/v2/sports/soccer/ned.1/standings?season=2026,OK Dutch Eredivisie,18,ADO Den Haag,2726,10,6,13,23,1,3,6
+Netherlands,ned.1,https://site.api.espn.com/apis/v2/sports/soccer/ned.1/standings?season=2026,OK Dutch Eredivisie,18,Willem II,156,10,2,10,32,0,2,8
+Andorra,and.1,https://site.api.espn.com/apis/v2/sports/soccer/and.1/standings?season=2026,ERROR 400 Client Error: Bad Request for url: https://site.api.espn.com/apis/v2/sports/soccer/and.1/standings?season=2026,0,,,,,,,,,
+Republic of Ireland,irl.1,https://site.api.espn.com/apis/v2/sports/soccer/irl.1/standings?season=2026,empty entries (Irish Premier Division),0,,,,,,,,,
+Northern Ireland,nir.1,https://site.api.espn.com/apis/v2/sports/soccer/nir.1/standings?season=2026,empty entries (Northern Irish Premiership),0,,,,,,,,,
+Scotland,sco.1,https://site.api.espn.com/apis/v2/sports/soccer/sco.1/standings?season=2026,OK Scottish Premiership,12,Celtic,256,10,27,25,6,9,0,1
+Scotland,sco.1,https://site.api.espn.com/apis/v2/sports/soccer/sco.1/standings?season=2026,OK Scottish Premiership,12,Rangers,257,10,23,17,7,7,2,1
+Scotland,sco.1,https://site.api.espn.com/apis/v2/sports/soccer/sco.1/standings?season=2026,OK Scottish Premiership,12,Heart of Midlothian,262,10,19,22,15,6,1,3
+Scotland,sco.1,https://site.api.espn.com/apis/v2/sports/soccer/sco.1/standings?season=2026,OK Scottish Premiership,12,Dundee United,264,10,15,14,14,4,3,3
+Scotland,sco.1,https://site.api.espn.com/apis/v2/sports/soccer/sco.1/standings?season=2026,OK Scottish Premiership,12,Dundee,261,10,14,14,12,4,2,4
+Scotland,sco.1,https://site.api.espn.com/apis/v2/sports/soccer/sco.1/standings?season=2026,OK Scottish Premiership,12,St Mirren,250,10,13,11,18,4,1,5
+Scotland,sco.1,https://site.api.espn.com/apis/v2/sports/soccer/sco.1/standings?season=2026,OK Scottish Premiership,12,Falkirk,254,10,12,12,12,3,3,4
+Scotland,sco.1,https://site.api.espn.com/apis/v2/sports/soccer/sco.1/standings?season=2026,OK Scottish Premiership,12,St Johnstone,267,10,12,11,15,3,3,4
+Scotland,sco.1,https://site.api.espn.com/apis/v2/sports/soccer/sco.1/standings?season=2026,OK Scottish Premiership,12,Aberdeen,263,10,11,12,13,3,2,5
+Scotland,sco.1,https://site.api.espn.com/apis/v2/sports/soccer/sco.1/standings?season=2026,OK Scottish Premiership,12,Motherwell,266,10,8,11,18,2,2,6
+Scotland,sco.1,https://site.api.espn.com/apis/v2/sports/soccer/sco.1/standings?season=2026,OK Scottish Premiership,12,Kilmarnock,260,10,8,10,23,2,2,6
+Scotland,sco.1,https://site.api.espn.com/apis/v2/sports/soccer/sco.1/standings?season=2026,OK Scottish Premiership,12,Hibernian,258,10,7,10,16,2,1,7
+Portugal,por.1,https://site.api.espn.com/apis/v2/sports/soccer/por.1/standings?season=2026,OK Portuguese Primeira Liga,18,FC Porto,437,9,27,21,4,9,0,0
+Portugal,por.1,https://site.api.espn.com/apis/v2/sports/soccer/por.1/standings?season=2026,OK Portuguese Primeira Liga,18,Benfica,1929,8,19,24,7,6,1,1
+Portugal,por.1,https://site.api.espn.com/apis/v2/sports/soccer/por.1/standings?season=2026,OK Portuguese Primeira Liga,18,Sporting CP,2250,9,18,21,11,5,3,1
+Portugal,por.1,https://site.api.espn.com/apis/v2/sports/soccer/por.1/standings?season=2026,OK Portuguese Primeira Liga,18,Santa Clara,12215,8,18,12,4,5,3,0
+Portugal,por.1,https://site.api.espn.com/apis/v2/sports/soccer/por.1/standings?season=2026,OK Portuguese Primeira Liga,18,Arouca,15784,9,17,12,7,5,2,2
+Portugal,por.1,https://site.api.espn.com/apis/v2/sports/soccer/por.1/standings?season=2026,OK Portuguese Primeira Liga,18,Académico de Viseu,21607,9,17,13,11,5,2,2
+Portugal,por.1,https://site.api.espn.com/apis/v2/sports/soccer/por.1/standings?season=2026,OK Portuguese Primeira Liga,18,Gil Vicente,3699,9,14,8,7,4,2,3
+Portugal,por.1,https://site.api.espn.com/apis/v2/sports/soccer/por.1/standings?season=2026,OK Portuguese Primeira Liga,18,Braga,2994,9,11,9,11,3,2,4
+Portugal,por.1,https://site.api.espn.com/apis/v2/sports/soccer/por.1/standings?season=2026,OK Portuguese Primeira Liga,18,Moreirense,3696,9,11,11,16,3,2,4
+Portugal,por.1,https://site.api.espn.com/apis/v2/sports/soccer/por.1/standings?season=2026,OK Portuguese Primeira Liga,18,Alverca,21613,9,11,13,13,3,2,4
+Portugal,por.1,https://site.api.espn.com/apis/v2/sports/soccer/por.1/standings?season=2026,OK Portuguese Primeira Liga,18,FC Famalicao,12698,9,10,14,11,2,4,3
+Portugal,por.1,https://site.api.espn.com/apis/v2/sports/soccer/por.1/standings?season=2026,OK Portuguese Primeira Liga,18,Estrela,21610,9,10,14,17,2,4,3
+Portugal,por.1,https://site.api.espn.com/apis/v2/sports/soccer/por.1/standings?season=2026,OK Portuguese Primeira Liga,18,Vitória de Guimaraes,5309,9,8,10,10,2,2,5
+Portugal,por.1,https://site.api.espn.com/apis/v2/sports/soccer/por.1/standings?season=2026,OK Portuguese Primeira Liga,18,Maritimo,552,9,8,9,19,2,2,5
+Portugal,por.1,https://site.api.espn.com/apis/v2/sports/soccer/por.1/standings?season=2026,OK Portuguese Primeira Liga,18,Rio Ave,3822,9,7,8,21,2,1,6
+Portugal,por.1,https://site.api.espn.com/apis/v2/sports/soccer/por.1/standings?season=2026,OK Portuguese Primeira Liga,18,C.D. Nacional,3472,9,7,10,18,2,1,6
+Portugal,por.1,https://site.api.espn.com/apis/v2/sports/soccer/por.1/standings?season=2026,OK Portuguese Primeira Liga,18,Casa Pia,21581,9,7,5,17,2,1,6
+Portugal,por.1,https://site.api.espn.com/apis/v2/sports/soccer/por.1/standings?season=2026,OK Portuguese Primeira Liga,18,Estoril,12216,9,2,5,15,0,2,7
+Gibraltar,gib.1,https://site.api.espn.com/apis/v2/sports/soccer/gib.1/standings?season=2026,ERROR 400 Client Error: Bad Request for url: https://site.api.espn.com/apis/v2/sports/soccer/gib.1/standings?season=2026,0,,,,,,,,,
+Switzerland,sui.1,https://site.api.espn.com/apis/v2/sports/soccer/sui.1/standings?season=2026,empty entries (Swiss Super League),0,,,,,,,,,
+Austria,aut.1,https://site.api.espn.com/apis/v2/sports/soccer/aut.1/standings?season=2026,OK Austrian Bundesliga,12,Rapid Vienna,519,10,27,31,9,9,0,1
+Austria,aut.1,https://site.api.espn.com/apis/v2/sports/soccer/aut.1/standings?season=2026,OK Austrian Bundesliga,12,RB Salzburg,2790,10,24,24,5,7,3,0
+Austria,aut.1,https://site.api.espn.com/apis/v2/sports/soccer/aut.1/standings?season=2026,OK Austrian Bundesliga,12,LASK Linz,4411,10,19,24,12,6,1,3
+Austria,aut.1,https://site.api.espn.com/apis/v2/sports/soccer/aut.1/standings?season=2026,OK Austrian Bundesliga,12,SK Sturm Graz,3746,10,18,18,12,5,3,2
+Austria,aut.1,https://site.api.espn.com/apis/v2/sports/soccer/aut.1/standings?season=2026,OK Austrian Bundesliga,12,SV Josko Ried,3759,10,15,18,17,4,3,3
+Austria,aut.1,https://site.api.espn.com/apis/v2/sports/soccer/aut.1/standings?season=2026,OK Austrian Bundesliga,12,TSV Hartberg,6907,10,14,16,19,4,2,4
+Austria,aut.1,https://site.api.espn.com/apis/v2/sports/soccer/aut.1/standings?season=2026,OK Austrian Bundesliga,12,WSG Swarovski Tirol,18794,10,12,13,15,3,3,4
+Austria,aut.1,https://site.api.espn.com/apis/v2/sports/soccer/aut.1/standings?season=2026,OK Austrian Bundesliga,12,Grazer AK,21846,10,10,8,23,2,4,4
+Austria,aut.1,https://site.api.espn.com/apis/v2/sports/soccer/aut.1/standings?season=2026,OK Austrian Bundesliga,12,SC Rheindorf Altach,4405,10,9,10,16,3,0,7
+Austria,aut.1,https://site.api.espn.com/apis/v2/sports/soccer/aut.1/standings?season=2026,OK Austrian Bundesliga,12,Austria Lustenau,21540,10,8,12,24,2,2,6
+Austria,aut.1,https://site.api.espn.com/apis/v2/sports/soccer/aut.1/standings?season=2026,OK Austrian Bundesliga,12,Austria Vienna,1382,10,7,10,20,2,1,7
+Austria,aut.1,https://site.api.espn.com/apis/v2/sports/soccer/aut.1/standings?season=2026,OK Austrian Bundesliga,12,Wolfsberger,13294,10,5,7,19,1,2,7
+San Marino,smr.1,https://site.api.espn.com/apis/v2/sports/soccer/smr.1/standings?season=2026,ERROR 400 Client Error: Bad Request for url: https://site.api.espn.com/apis/v2/sports/soccer/smr.1/standings?season=2026,0,,,,,,,,,
+Wales,wal.1,https://site.api.espn.com/apis/v2/sports/soccer/wal.1/standings?season=2026,empty entries (Welsh Premier League),0,,,,,,,,,
+Iceland,isl.1,https://site.api.espn.com/apis/v2/sports/soccer/isl.1/standings?season=2026,ERROR 400 Client Error: Bad Request for url: https://site.api.espn.com/apis/v2/sports/soccer/isl.1/standings?season=2026,0,,,,,,,,,
+Faroe Islands,fro.1,https://site.api.espn.com/apis/v2/sports/soccer/fro.1/standings?season=2026,ERROR 400 Client Error: Bad Request for url: https://site.api.espn.com/apis/v2/sports/soccer/fro.1/standings?season=2026,0,,,,,,,,,
+Norway,nor.1,https://site.api.espn.com/apis/v2/sports/soccer/nor.1/standings?season=2026,OK Norwegian Eliteserien,16,Viking FK,510,24,59,62,23,19,2,3
+Norway,nor.1,https://site.api.espn.com/apis/v2/sports/soccer/nor.1/standings?season=2026,OK Norwegian Eliteserien,16,Bodo/Glimt,2980,24,56,58,21,18,2,4
+Norway,nor.1,https://site.api.espn.com/apis/v2/sports/soccer/nor.1/standings?season=2026,OK Norwegian Eliteserien,16,Molde,2715,24,43,57,36,13,4,7
+Norway,nor.1,https://site.api.espn.com/apis/v2/sports/soccer/nor.1/standings?season=2026,OK Norwegian Eliteserien,16,Rosenborg,438,24,40,46,31,12,4,8
+Norway,nor.1,https://site.api.espn.com/apis/v2/sports/soccer/nor.1/standings?season=2026,OK Norwegian Eliteserien,16,Tromso,5270,24,40,43,34,11,7,6
+Norway,nor.1,https://site.api.espn.com/apis/v2/sports/soccer/nor.1/standings?season=2026,OK Norwegian Eliteserien,16,Lillestrom,987,24,39,35,33,12,3,9
+Norway,nor.1,https://site.api.espn.com/apis/v2/sports/soccer/nor.1/standings?season=2026,OK Norwegian Eliteserien,16,Sarpsborg FK,5002,24,31,30,35,8,7,9
+Norway,nor.1,https://site.api.espn.com/apis/v2/sports/soccer/nor.1/standings?season=2026,OK Norwegian Eliteserien,16,KFUM Oslo,22165,24,30,30,39,8,6,10
+Norway,nor.1,https://site.api.espn.com/apis/v2/sports/soccer/nor.1/standings?season=2026,OK Norwegian Eliteserien,16,SK Brann,620,24,29,42,40,9,2,13
+Norway,nor.1,https://site.api.espn.com/apis/v2/sports/soccer/nor.1/standings?season=2026,OK Norwegian Eliteserien,16,Vålerenga,2791,24,29,39,46,8,5,11
+Norway,nor.1,https://site.api.espn.com/apis/v2/sports/soccer/nor.1/standings?season=2026,OK Norwegian Eliteserien,16,Fredrikstad,3039,24,29,29,41,8,5,11
+Norway,nor.1,https://site.api.espn.com/apis/v2/sports/soccer/nor.1/standings?season=2026,OK Norwegian Eliteserien,16,Hamarkameratene,21380,24,26,33,51,7,5,12
+Norway,nor.1,https://site.api.espn.com/apis/v2/sports/soccer/nor.1/standings?season=2026,OK Norwegian Eliteserien,16,Sandefjord,3279,24,24,22,31,6,6,12
+Norway,nor.1,https://site.api.espn.com/apis/v2/sports/soccer/nor.1/standings?season=2026,OK Norwegian Eliteserien,16,Aalesund,3278,24,24,40,53,5,9,10
+Norway,nor.1,https://site.api.espn.com/apis/v2/sports/soccer/nor.1/standings?season=2026,OK Norwegian Eliteserien,16,Kristiansund BK,6672,24,20,25,49,5,5,14
+Norway,nor.1,https://site.api.espn.com/apis/v2/sports/soccer/nor.1/standings?season=2026,OK Norwegian Eliteserien,16,IK Start,6750,24,19,26,54,5,4,15
+Greece,gre.1,https://site.api.espn.com/apis/v2/sports/soccer/gre.1/standings?season=2026,OK Greek Super League,14,Panathinaikos,443,8,21,18,4,7,0,1
+Greece,gre.1,https://site.api.espn.com/apis/v2/sports/soccer/gre.1/standings?season=2026,OK Greek Super League,14,Olympiacos,435,8,19,12,2,6,1,1
+Greece,gre.1,https://site.api.espn.com/apis/v2/sports/soccer/gre.1/standings?season=2026,OK Greek Super League,14,AEK Athens,887,7,17,21,3,5,2,0
+Greece,gre.1,https://site.api.espn.com/apis/v2/sports/soccer/gre.1/standings?season=2026,OK Greek Super League,14,Aris,11553,8,16,13,14,5,1,2
+Greece,gre.1,https://site.api.espn.com/apis/v2/sports/soccer/gre.1/standings?season=2026,OK Greek Super League,14,PAOK,605,8,15,16,11,5,0,3
+Greece,gre.1,https://site.api.espn.com/apis/v2/sports/soccer/gre.1/standings?season=2026,OK Greek Super League,14,OFI Crete,1010,8,13,13,12,4,1,3
+Greece,gre.1,https://site.api.espn.com/apis/v2/sports/soccer/gre.1/standings?season=2026,OK Greek Super League,14,Kifisia,21969,8,11,10,11,3,2,3
+Greece,gre.1,https://site.api.espn.com/apis/v2/sports/soccer/gre.1/standings?season=2026,OK Greek Super League,14,Kalamata,132429,8,10,13,17,3,1,4
+Greece,gre.1,https://site.api.espn.com/apis/v2/sports/soccer/gre.1/standings?season=2026,OK Greek Super League,14,Iraklis,2575,8,9,9,11,2,3,3
+Greece,gre.1,https://site.api.espn.com/apis/v2/sports/soccer/gre.1/standings?season=2026,OK Greek Super League,14,Panetolikos,11431,8,9,8,16,3,0,5
+Greece,gre.1,https://site.api.espn.com/apis/v2/sports/soccer/gre.1/standings?season=2026,OK Greek Super League,14,Asteras Tripoli,8354,8,6,7,15,1,3,4
+Greece,gre.1,https://site.api.espn.com/apis/v2/sports/soccer/gre.1/standings?season=2026,OK Greek Super League,14,Levadiakos,5276,8,3,0,11,0,3,5
+Greece,gre.1,https://site.api.espn.com/apis/v2/sports/soccer/gre.1/standings?season=2026,OK Greek Super League,14,Atromitos,6790,7,2,6,12,0,2,5
+Greece,gre.1,https://site.api.espn.com/apis/v2/sports/soccer/gre.1/standings?season=2026,OK Greek Super League,14,Volos NFC,20043,8,0,6,13,0,3,5
+Cyprus,cyp.1,https://site.api.espn.com/apis/v2/sports/soccer/cyp.1/standings?season=2026,empty entries (Cypriot First Division),0,,,,,,,,,
+Malta,mlt.1,https://site.api.espn.com/apis/v2/sports/soccer/mlt.1/standings?season=2026,empty entries (Maltese Premier League),0,,,,,,,,,
+Israel,isr.1,https://site.api.espn.com/apis/v2/sports/soccer/isr.1/standings?season=2026,empty entries (Israeli Premier League),0,,,,,,,,,
+Slovenia,svn.1,https://site.api.espn.com/apis/v2/sports/soccer/svn.1/standings?season=2026,ERROR 400 Client Error: Bad Request for url: https://site.api.espn.com/apis/v2/sports/soccer/svn.1/standings?season=2026,0,,,,,,,,,
+Croatia,cro.1,https://site.api.espn.com/apis/v2/sports/soccer/cro.1/standings?season=2026,ERROR 400 Client Error: Bad Request for url: https://site.api.espn.com/apis/v2/sports/soccer/cro.1/standings?season=2026,0,,,,,,,,,
+Montenegro,mne.1,https://site.api.espn.com/apis/v2/sports/soccer/mne.1/standings?season=2026,ERROR 400 Client Error: Bad Request for url: https://site.api.espn.com/apis/v2/sports/soccer/mne.1/standings?season=2026,0,,,,,,,,,
+Albania,alb.1,https://site.api.espn.com/apis/v2/sports/soccer/alb.1/standings?season=2026,ERROR 400 Client Error: Bad Request for url: https://site.api.espn.com/apis/v2/sports/soccer/alb.1/standings?season=2026,0,,,,,,,,,
+Czechia,cze.1,https://site.api.espn.com/apis/v2/sports/soccer/cze.1/standings?season=2026,empty entries (),0,,,,,,,,,
+Slovakia,svk.1,https://site.api.espn.com/apis/v2/sports/soccer/svk.1/standings?season=2026,ERROR 400 Client Error: Bad Request for url: https://site.api.espn.com/apis/v2/sports/soccer/svk.1/standings?season=2026,0,,,,,,,,,
+Hungary,hun.1,https://site.api.espn.com/apis/v2/sports/soccer/hun.1/standings?season=2026,ERROR 400 Client Error: Bad Request for url: https://site.api.espn.com/apis/v2/sports/soccer/hun.1/standings?season=2026,0,,,,,,,,,
+Denmark,den.1,https://site.api.espn.com/apis/v2/sports/soccer/den.1/standings?season=2026,OK Danish Superliga,12,FC Midtjylland,572,12,28,24,13,8,4,0
+Denmark,den.1,https://site.api.espn.com/apis/v2/sports/soccer/den.1/standings?season=2026,OK Danish Superliga,12,F.C. København,909,11,25,25,11,8,1,2
+Denmark,den.1,https://site.api.espn.com/apis/v2/sports/soccer/den.1/standings?season=2026,OK Danish Superliga,12,Viborg FF,3153,12,20,19,12,6,2,4
+Denmark,den.1,https://site.api.espn.com/apis/v2/sports/soccer/den.1/standings?season=2026,OK Danish Superliga,12,FC Nordsjælland,3101,12,20,18,14,5,5,2
+Denmark,den.1,https://site.api.espn.com/apis/v2/sports/soccer/den.1/standings?season=2026,OK Danish Superliga,12,Brøndby IF,575,12,19,21,20,6,1,5
+Denmark,den.1,https://site.api.espn.com/apis/v2/sports/soccer/den.1/standings?season=2026,OK Danish Superliga,12,AC Horsens,3585,12,16,23,20,4,4,4
+Denmark,den.1,https://site.api.espn.com/apis/v2/sports/soccer/den.1/standings?season=2026,OK Danish Superliga,12,Odense Boldklub,11550,11,13,10,15,3,4,4
+Denmark,den.1,https://site.api.espn.com/apis/v2/sports/soccer/den.1/standings?season=2026,OK Danish Superliga,12,AGF,7853,12,12,17,19,2,6,4
+Denmark,den.1,https://site.api.espn.com/apis/v2/sports/soccer/den.1/standings?season=2026,OK Danish Superliga,12,Silkeborg IF,607,12,12,16,20,2,6,4
+Denmark,den.1,https://site.api.espn.com/apis/v2/sports/soccer/den.1/standings?season=2026,OK Danish Superliga,12,Randers FC,3132,12,11,12,19,3,2,7
+Denmark,den.1,https://site.api.espn.com/apis/v2/sports/soccer/den.1/standings?season=2026,OK Danish Superliga,12,Lyngby Boldklub,7860,12,8,17,27,1,5,6
+Denmark,den.1,https://site.api.espn.com/apis/v2/sports/soccer/den.1/standings?season=2026,OK Danish Superliga,12,Sønderjyske Fodbold,8118,12,8,17,29,2,2,8
+Sweden,swe.1,https://site.api.espn.com/apis/v2/sports/soccer/swe.1/standings?season=2026,OK Swedish Allsvenskan,16,IK Sirius,8547,25,55,56,32,17,4,4
+Sweden,swe.1,https://site.api.espn.com/apis/v2/sports/soccer/swe.1/standings?season=2026,OK Swedish Allsvenskan,16,Hammarby IF,2495,25,49,52,21,15,4,6
+Sweden,swe.1,https://site.api.espn.com/apis/v2/sports/soccer/swe.1/standings?season=2026,OK Swedish Allsvenskan,16,Djurgården,2339,25,48,52,23,15,3,7
+Sweden,swe.1,https://site.api.espn.com/apis/v2/sports/soccer/swe.1/standings?season=2026,OK Swedish Allsvenskan,16,BK Häcken,7834,25,45,47,30,12,9,4
+Sweden,swe.1,https://site.api.espn.com/apis/v2/sports/soccer/swe.1/standings?season=2026,OK Swedish Allsvenskan,16,IF Elfsborg,529,25,42,37,24,11,9,5
+Sweden,swe.1,https://site.api.espn.com/apis/v2/sports/soccer/swe.1/standings?season=2026,OK Swedish Allsvenskan,16,Västerås SK,22163,25,38,36,38,11,5,9
+Sweden,swe.1,https://site.api.espn.com/apis/v2/sports/soccer/swe.1/standings?season=2026,OK Swedish Allsvenskan,16,Malmö FF,2720,25,37,38,34,11,4,10
+Sweden,swe.1,https://site.api.espn.com/apis/v2/sports/soccer/swe.1/standings?season=2026,OK Swedish Allsvenskan,16,AIK,994,25,37,40,43,10,7,8
+Sweden,swe.1,https://site.api.espn.com/apis/v2/sports/soccer/swe.1/standings?season=2026,OK Swedish Allsvenskan,16,IFK Göteborg,2556,25,37,35,44,10,7,8
+Sweden,swe.1,https://site.api.espn.com/apis/v2/sports/soccer/swe.1/standings?season=2026,OK Swedish Allsvenskan,16,IF Brommapojkarna,8221,25,33,39,43,9,6,10
+Sweden,swe.1,https://site.api.espn.com/apis/v2/sports/soccer/swe.1/standings?season=2026,OK Swedish Allsvenskan,16,GAIS,8222,25,31,31,26,8,7,10
+Sweden,swe.1,https://site.api.espn.com/apis/v2/sports/soccer/swe.1/standings?season=2026,OK Swedish Allsvenskan,16,Mjällby AIF,20301,25,23,28,42,5,8,12
+Sweden,swe.1,https://site.api.espn.com/apis/v2/sports/soccer/swe.1/standings?season=2026,OK Swedish Allsvenskan,16,Kalmar FF,3052,25,22,23,41,6,4,15
+Sweden,swe.1,https://site.api.espn.com/apis/v2/sports/soccer/swe.1/standings?season=2026,OK Swedish Allsvenskan,16,Degerfors IF,20856,25,20,21,41,5,5,15
+Sweden,swe.1,https://site.api.espn.com/apis/v2/sports/soccer/swe.1/standings?season=2026,OK Swedish Allsvenskan,16,Örgryte IS,131552,25,19,31,56,4,7,14
+Sweden,swe.1,https://site.api.espn.com/apis/v2/sports/soccer/swe.1/standings?season=2026,OK Swedish Allsvenskan,16,Halmstads BK,3017,25,17,18,46,4,5,16
+Finland,fin.1,https://site.api.espn.com/apis/v2/sports/soccer/fin.1/standings?season=2026,empty entries (Finnish Veikkausliga),0,,,,,,,,,
+Estonia,est.1,https://site.api.espn.com/apis/v2/sports/soccer/est.1/standings?season=2026,ERROR 400 Client Error: Bad Request for url: https://site.api.espn.com/apis/v2/sports/soccer/est.1/standings?season=2026,0,,,,,,,,,
+Latvia,lat.1,https://site.api.espn.com/apis/v2/sports/soccer/lat.1/standings?season=2026,ERROR 400 Client Error: Bad Request for url: https://site.api.espn.com/apis/v2/sports/soccer/lat.1/standings?season=2026,0,,,,,,,,,
+Lithuania,lit.1,https://site.api.espn.com/apis/v2/sports/soccer/lit.1/standings?season=2026,ERROR 400 Client Error: Bad Request for url: https://site.api.espn.com/apis/v2/sports/soccer/lit.1/standings?season=2026,0,,,,,,,,,
+Poland,pol.1,https://site.api.espn.com/apis/v2/sports/soccer/pol.1/standings?season=2026,ERROR 400 Client Error: Bad Request for url: https://site.api.espn.com/apis/v2/sports/soccer/pol.1/standings?season=2026,0,,,,,,,,,
+Bosnia and Herzegovina,bih.1,https://site.api.espn.com/apis/v2/sports/soccer/bih.1/standings?season=2026,ERROR 400 Client Error: Bad Request for url: https://site.api.espn.com/apis/v2/sports/soccer/bih.1/standings?season=2026,0,,,,,,,,,
+Serbia,srb.1,https://site.api.espn.com/apis/v2/sports/soccer/srb.1/standings?season=2026,ERROR 400 Client Error: Bad Request for url: https://site.api.espn.com/apis/v2/sports/soccer/srb.1/standings?season=2026,0,,,,,,,,,
+Kosovo,kos.1,https://site.api.espn.com/apis/v2/sports/soccer/kos.1/standings?season=2026,ERROR 400 Client Error: Bad Request for url: https://site.api.espn.com/apis/v2/sports/soccer/kos.1/standings?season=2026,0,,,,,,,,,
+North Macedonia,mkd.1,https://site.api.espn.com/apis/v2/sports/soccer/mkd.1/standings?season=2026,ERROR 400 Client Error: Bad Request for url: https://site.api.espn.com/apis/v2/sports/soccer/mkd.1/standings?season=2026,0,,,,,,,,,
+Bulgaria,bul.1,https://site.api.espn.com/apis/v2/sports/soccer/bul.1/standings?season=2026,ERROR 400 Client Error: Bad Request for url: https://site.api.espn.com/apis/v2/sports/soccer/bul.1/standings?season=2026,0,,,,,,,,,
+Romania,rou.1,https://site.api.espn.com/apis/v2/sports/soccer/rou.1/standings?season=2026,empty entries (Romanian Liga 1),0,,,,,,,,,
+Belarus,blr.1,https://site.api.espn.com/apis/v2/sports/soccer/blr.1/standings?season=2026,ERROR 400 Client Error: Bad Request for url: https://site.api.espn.com/apis/v2/sports/soccer/blr.1/standings?season=2026,0,,,,,,,,,
+Ukraine,ukr.1,https://site.api.espn.com/apis/v2/sports/soccer/ukr.1/standings?season=2026,ERROR 400 Client Error: Bad Request for url: https://site.api.espn.com/apis/v2/sports/soccer/ukr.1/standings?season=2026,0,,,,,,,,,
+Moldova,mda.1,https://site.api.espn.com/apis/v2/sports/soccer/mda.1/standings?season=2026,ERROR 400 Client Error: Bad Request for url: https://site.api.espn.com/apis/v2/sports/soccer/mda.1/standings?season=2026,0,,,,,,,,,
+Georgia,geo.1,https://site.api.espn.com/apis/v2/sports/soccer/geo.1/standings?season=2026,ERROR 400 Client Error: Bad Request for url: https://site.api.espn.com/apis/v2/sports/soccer/geo.1/standings?season=2026,0,,,,,,,,,
+Armenia,arm.1,https://site.api.espn.com/apis/v2/sports/soccer/arm.1/standings?season=2026,ERROR 400 Client Error: Bad Request for url: https://site.api.espn.com/apis/v2/sports/soccer/arm.1/standings?season=2026,0,,,,,,,,,
+Azerbaijan,aze.1,https://site.api.espn.com/apis/v2/sports/soccer/aze.1/standings?season=2026,ERROR 400 Client Error: Bad Request for url: https://site.api.espn.com/apis/v2/sports/soccer/aze.1/standings?season=2026,0,,,,,,,,,
+Kazakhstan,kaz.1,https://site.api.espn.com/apis/v2/sports/soccer/kaz.1/standings?season=2026,ERROR 400 Client Error: Bad Request for url: https://site.api.espn.com/apis/v2/sports/soccer/kaz.1/standings?season=2026,0,,,,,,,,,
+Turkey,tur.1,https://site.api.espn.com/apis/v2/sports/soccer/tur.1/standings?season=2026,OK Turkish Super Lig,18,Amed SFK,132335,9,20,20,10,6,2,1
+Turkey,tur.1,https://site.api.espn.com/apis/v2/sports/soccer/tur.1/standings?season=2026,OK Turkish Super Lig,18,Galatasaray,432,8,19,17,11,6,1,1
+Turkey,tur.1,https://site.api.espn.com/apis/v2/sports/soccer/tur.1/standings?season=2026,OK Turkish Super Lig,18,Fenerbahce,436,8,16,22,6,5,1,2
+Turkey,tur.1,https://site.api.espn.com/apis/v2/sports/soccer/tur.1/standings?season=2026,OK Turkish Super Lig,18,Trabzonspor,997,8,16,18,5,5,1,2
+Turkey,tur.1,https://site.api.espn.com/apis/v2/sports/soccer/tur.1/standings?season=2026,OK Turkish Super Lig,18,Kasimpasa,6870,9,16,13,9,4,4,1
+Turkey,tur.1,https://site.api.espn.com/apis/v2/sports/soccer/tur.1/standings?season=2026,OK Turkish Super Lig,18,Besiktas,1895,8,15,16,10,5,0,3
+Turkey,tur.1,https://site.api.espn.com/apis/v2/sports/soccer/tur.1/standings?season=2026,OK Turkish Super Lig,18,Kocaelispor,995,9,15,11,9,5,0,4
+Turkey,tur.1,https://site.api.espn.com/apis/v2/sports/soccer/tur.1/standings?season=2026,OK Turkish Super Lig,18,Erzurum BB,19267,9,14,8,12,4,2,3
+Turkey,tur.1,https://site.api.espn.com/apis/v2/sports/soccer/tur.1/standings?season=2026,OK Turkish Super Lig,18,Çorum FK,132334,9,13,18,15,4,1,4
+Turkey,tur.1,https://site.api.espn.com/apis/v2/sports/soccer/tur.1/standings?season=2026,OK Turkish Super Lig,18,Goztepe,789,9,12,19,16,3,3,3
+Turkey,tur.1,https://site.api.espn.com/apis/v2/sports/soccer/tur.1/standings?season=2026,OK Turkish Super Lig,18,Alanyaspor,9078,9,12,9,11,3,3,3
+Turkey,tur.1,https://site.api.espn.com/apis/v2/sports/soccer/tur.1/standings?season=2026,OK Turkish Super Lig,18,Istanbul Basaksehir,7914,8,11,12,12,3,2,3
+Turkey,tur.1,https://site.api.espn.com/apis/v2/sports/soccer/tur.1/standings?season=2026,OK Turkish Super Lig,18,Caykur Rizespor,7656,8,10,8,11,3,1,4
+Turkey,tur.1,https://site.api.espn.com/apis/v2/sports/soccer/tur.1/standings?season=2026,OK Turkish Super Lig,18,Konyaspor,7648,9,8,6,9,2,2,5
+Turkey,tur.1,https://site.api.espn.com/apis/v2/sports/soccer/tur.1/standings?season=2026,OK Turkish Super Lig,18,Gaziantep FK,20070,9,8,9,15,2,2,5
+Turkey,tur.1,https://site.api.espn.com/apis/v2/sports/soccer/tur.1/standings?season=2026,OK Turkish Super Lig,18,Genclerbirligi,996,9,8,7,18,2,2,5
+Turkey,tur.1,https://site.api.espn.com/apis/v2/sports/soccer/tur.1/standings?season=2026,OK Turkish Super Lig,18,Samsunspor,11429,9,4,8,21,1,1,7
+Turkey,tur.1,https://site.api.espn.com/apis/v2/sports/soccer/tur.1/standings?season=2026,OK Turkish Super Lig,18,Eyupspor,20729,9,3,2,23,1,0,8
