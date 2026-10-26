@@ -1,0 +1,35 @@
+name: CGE V7 remaining crests from Wikidata
+on:
+  push:
+    paths:
+      - 'tools/cge_v7_wikidata_badges.py'
+      - 'tools/cge_v7_badges_missing61.txt'
+      - 'tools/cge_v7_badges_missing80.txt'
+      - '.github/workflows/cge-v7-wikidata.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install --quiet pillow cairosvg requests
+      - name: Source-verify Wikidata football logos and render PNGs
+        run: python -u tools/cge_v7_wikidata_badges.py
+      - name: Commit verified crests and candidate report
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/cge-v7-d3-2026-27/v2/
+          if ! git diff --cached --quiet; then
+            git commit -m "Publish source-verified CGE V7 missing crests and audit"
+            git push origin HEAD:refs/heads/${GITHUB_REF_NAME}
+          fi
