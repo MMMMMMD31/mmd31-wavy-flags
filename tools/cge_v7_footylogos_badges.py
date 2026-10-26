@@ -115,7 +115,17 @@ for country,slug in countries.items():
 records=[]
 for item in targets:
  tid,country,name=item['id'],item['country'],item['name']
- best,rank=choose(catalog[country],name)
+ known_aliases={
+  1906251000057:'Strømsgodset Toppfotball',
+  1906251000060:'Egersunds IK',
+  1906251000065:'Odds BK',
+  1906251000069:'Stabæk Fotball',
+  1906251000070:'Åsane Fotball',
+  1906251000033:'UMF Afturelding',
+  1906251000043:'IF Vestri',
+ }
+ lookup_name=known_aliases.get(tid,name)
+ best,rank=choose(catalog[country],lookup_name)
  item['suggestions']=[{'score':round(v,3),'title':d['name'],'page':d['url']} for v,d in rank]
  if best:
   v,entry=best
