@@ -55,7 +55,7 @@ def get_catalog(country,slug):
  url=f'https://www.footylogos.com/country/{slug}'
  r=s.get(url,timeout=22)
  r.raise_for_status()
- soup=bs4.BeautifulSoup(r.text,'html.parser')
+ soup=bs4.BeautifulSoup(r.content.decode('utf-8'),'html.parser')
  logos=[]
  for a in soup.select('a[href*="/logos/"]'):
   href=a.get('href','')
@@ -79,7 +79,7 @@ def choose(candidates,name):
  return best,ranks[:4]
 def fetch_logo(landing,name):
  page=s.get(landing,timeout=20);page.raise_for_status()
- soup=bs4.BeautifulSoup(page.text,'html.parser')
+ soup=bs4.BeautifulSoup(page.content.decode('utf-8'),'html.parser')
  # First try documented official transparent PNG download endpoint.
  dl=landing+'?download=png'
  try:
