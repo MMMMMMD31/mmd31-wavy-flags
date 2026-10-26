@@ -1,0 +1,18 @@
+{
+  "count": 2,
+  "success": 2,
+  "items": [
+    {
+      "id": 1906251000033,
+      "source": "https://assets.footylogos.com/logos/umf-afturelding/umf-afturelding-logo-footylogos.svg",
+      "status": "VERIFIED_SAME_COUNTRY_TEAM_PAGE",
+      "sha256": "461da8f6c4557a6d5d4b72f802aad0d16e41673a2740b1478afb93f78417c68f"
+    },
+    {
+      "id": 1906251000043,
+      "source": "https://assets.footylogos.com/logos/if-vestri/if-vestri-logo-footylogos.png",
+      "status": "VERIFIED_SAME_COUNTRY_TEAM_PAGE",
+      "sha256": "a661f2bbf7c81cfebd82b2ea535ef69d537e7a59fea4336e737343b1cddb462a"
+    }
+  ]
+}
