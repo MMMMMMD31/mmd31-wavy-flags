@@ -1,0 +1,54 @@
+competition,code,status,records
+France D1-D3,fra.1,OK,18
+Germany D1-D3,ger.1,OK,18
+England D1-D4,eng.1,OK,20
+Spain D1-D3,esp.1,OK,20
+Italy D1-D3,ita.1,OK,20
+Belgium D1-D3,bel.1,OK,18
+Luxembourg D1-D2,lux.1,ERROR:400 Client Error: Bad Request for url: https://site.api.espn.com/apis/v2/sports/soccer/lux.1/standings?season=2026,0
+Netherlands D1-D3,ned.1,OK,18
+Andorra D1-D2,and.1,ERROR:400 Client Error: Bad Request for url: https://site.api.espn.com/apis/v2/sports/soccer/and.1/standings?season=2026,0
+Republic of Ireland D1-D3,irl.1,not_enough_entries:0,0
+Northern Ireland D1-D2,nir.1,not_enough_entries:0,0
+Scotland D1-D3,sco.1,OK,12
+Portugal D1-D3,por.1,OK,18
+Gibraltar D1,gib.1,ERROR:400 Client Error: Bad Request for url: https://site.api.espn.com/apis/v2/sports/soccer/gib.1/standings?season=2026,0
+Switzerland D1-D2,sui.1,not_enough_entries:0,0
+Austria D1-D2,aut.1,OK,12
+San Marino D1,smr.1,ERROR:400 Client Error: Bad Request for url: https://site.api.espn.com/apis/v2/sports/soccer/smr.1/standings?season=2026,0
+Wales D1-D2,wal.1,not_enough_entries:0,0
+Iceland D1-D2,isl.1,ERROR:400 Client Error: Bad Request for url: https://site.api.espn.com/apis/v2/sports/soccer/isl.1/standings?season=2026,0
+Faroe Islands D1-D2,fro.1,ERROR:400 Client Error: Bad Request for url: https://site.api.espn.com/apis/v2/sports/soccer/fro.1/standings?season=2026,0
+Norway D1-D3,nor.1,OK,16
+Greece D1-D2,gre.1,OK,14
+Cyprus D1-D2,cyp.1,not_enough_entries:0,0
+Malta D1-D2,mlt.1,not_enough_entries:0,0
+Israel D1-D2,isr.1,not_enough_entries:0,0
+Slovenia D1-D2,svn.1,ERROR:400 Client Error: Bad Request for url: https://site.api.espn.com/apis/v2/sports/soccer/svn.1/standings?season=2026,0
+Croatia D1-D2,cro.1,ERROR:400 Client Error: Bad Request for url: https://site.api.espn.com/apis/v2/sports/soccer/cro.1/standings?season=2026,0
+Montenegro D1-D2,mne.1,ERROR:400 Client Error: Bad Request for url: https://site.api.espn.com/apis/v2/sports/soccer/mne.1/standings?season=2026,0
+Albania D1-D2,alb.1,ERROR:400 Client Error: Bad Request for url: https://site.api.espn.com/apis/v2/sports/soccer/alb.1/standings?season=2026,0
+Czechia D1-D3,cze.1,not_enough_entries:0,0
+Slovakia D1-D2,svk.1,ERROR:400 Client Error: Bad Request for url: https://site.api.espn.com/apis/v2/sports/soccer/svk.1/standings?season=2026,0
+Hungary D1-D2,hun.1,ERROR:400 Client Error: Bad Request for url: https://site.api.espn.com/apis/v2/sports/soccer/hun.1/standings?season=2026,0
+Denmark D1-D3,den.1,OK,12
+Sweden D1-D2,swe.1,OK,16
+Finland D1-D2,fin.1,not_enough_entries:0,0
+Estonia D1-D2,est.1,ERROR:400 Client Error: Bad Request for url: https://site.api.espn.com/apis/v2/sports/soccer/est.1/standings?season=2026,0
+Latvia D1-D2,lat.1,ERROR:400 Client Error: Bad Request for url: https://site.api.espn.com/apis/v2/sports/soccer/lat.1/standings?season=2026,0
+Lithuania D1-D2,ltu.1,ERROR:400 Client Error: Bad Request for url: https://site.api.espn.com/apis/v2/sports/soccer/ltu.1/standings?season=2026,0
+Poland D1-D3,pol.1,ERROR:400 Client Error: Bad Request for url: https://site.api.espn.com/apis/v2/sports/soccer/pol.1/standings?season=2026,0
+Bosnia and Herzegovina D1-D2,bih.1,ERROR:400 Client Error: Bad Request for url: https://site.api.espn.com/apis/v2/sports/soccer/bih.1/standings?season=2026,0
+Serbia D1-D2,ser.1,ERROR:400 Client Error: Bad Request for url: https://site.api.espn.com/apis/v2/sports/soccer/ser.1/standings?season=2026,0
+Kosovo D1-D2,kos.1,ERROR:400 Client Error: Bad Request for url: https://site.api.espn.com/apis/v2/sports/soccer/kos.1/standings?season=2026,0
+North Macedonia D1-D2,mkd.1,ERROR:400 Client Error: Bad Request for url: https://site.api.espn.com/apis/v2/sports/soccer/mkd.1/standings?season=2026,0
+Bulgaria D1-D2,bul.1,ERROR:400 Client Error: Bad Request for url: https://site.api.espn.com/apis/v2/sports/soccer/bul.1/standings?season=2026,0
+Romania D1-D2,rou.1,not_enough_entries:0,0
+Belarus D1-D2,blr.1,ERROR:400 Client Error: Bad Request for url: https://site.api.espn.com/apis/v2/sports/soccer/blr.1/standings?season=2026,0
+Ukraine D1-D2,ukr.1,ERROR:400 Client Error: Bad Request for url: https://site.api.espn.com/apis/v2/sports/soccer/ukr.1/standings?season=2026,0
+Moldova D1-D2,mda.1,ERROR:400 Client Error: Bad Request for url: https://site.api.espn.com/apis/v2/sports/soccer/mda.1/standings?season=2026,0
+Georgia D1-D2,geo.1,ERROR:400 Client Error: Bad Request for url: https://site.api.espn.com/apis/v2/sports/soccer/geo.1/standings?season=2026,0
+Armenia D1-D2,arm.1,ERROR:400 Client Error: Bad Request for url: https://site.api.espn.com/apis/v2/sports/soccer/arm.1/standings?season=2026,0
+Azerbaijan D1-D2,aze.1,ERROR:400 Client Error: Bad Request for url: https://site.api.espn.com/apis/v2/sports/soccer/aze.1/standings?season=2026,0
+Kazakhstan D1-D2,kaz.1,ERROR:400 Client Error: Bad Request for url: https://site.api.espn.com/apis/v2/sports/soccer/kaz.1/standings?season=2026,0
+Turkey D1-D3,tur.1,OK,18
