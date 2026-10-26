@@ -1,0 +1,62 @@
+name: CGE V7 - three verified club crests
+on:
+  push:
+    paths:
+      - ".github/workflows/cge_v7_verified_crests.yml"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  publish-verified:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python -m pip install --quiet pillow requests
+      - name: Fetch and prepare authentic badges
+        shell: bash
+        run: |
+          python - <<'PY'
+          from PIL import Image
+          import io, requests, os, time
+          assets = [
+            (1906251000044, "Volsungur", "https://upload.wikimedia.org/wikipedia/commons/a/a7/Escudo_del_Club_Volsungur_de_Islandia.png", "#D4E8D2"),
+            (1906251000039, "IR Reykjavik", "https://commons.wikimedia.org/wiki/Special:Redirect/file/Emblem_of_%C3%8D%C3%BEr%C3%B3ttaf%C3%A9lag_Reykjav%C3%ADkur.jpg", "#DFE7F2"),
+            (1906251000046, "B71 Sandur", "https://kassiesa.net/uefa/clubs/images/B71-Sandur.png", "#E9ECF5")
+          ]
+          session=requests.Session()
+          session.headers.update({"User-Agent":"MMD31-CGE-badge-integrator/1.0 (GitHub Actions, noncommercial project)"})
+          out="docs/cge-v7-authentic-badges-20261026"
+          os.makedirs(out,exist_ok=True)
+          for team_id,name,url,bg in assets:
+              for attempt in range(3):
+                  try:
+                      response=session.get(url,timeout=35)
+                      response.raise_for_status()
+                      image=Image.open(io.BytesIO(response.content)).convert("RGBA")
+                      image.load()
+                      if image.width<80 or image.height<80: raise RuntimeError("Source too small")
+                      image.thumbnail((106,82),Image.Resampling.LANCZOS)
+                      target=Image.new("RGBA",(120,96),bg)
+                      target.alpha_composite(image,((120-image.width)//2,(96-image.height)//2))
+                      path=f"{out}/{team_id}.png"
+                      target.convert("RGB").save(path,"PNG",optimize=True)
+                      print("PREPARED",team_id,name,path)
+                      break
+                  except Exception as e:
+                      print("ERROR",team_id,name,str(e))
+                      if attempt==2: raise
+                      time.sleep(3)
+          PY
+      - name: Publish images
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/cge-v7-authentic-badges-20261026
+          if ! git diff --cached --quiet; then
+            git commit -m "CGE V7: publish three sourced authentic club crests"
+            git push
+          fi
