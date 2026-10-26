@@ -1,0 +1,720 @@
+competitionId,country,competition,stageId,stage,teamId,team,elo2030,elo2034,attack,defense,luck,penalty,clutch,mentality
+1792900200901,France,Ligue 1 & Coupe de France — France,1792900200902,Ligue 1,1792900200001,Paris Saint-Germain,2300,2300,99,98,47,43,47,47
+1792900200901,France,Ligue 1 & Coupe de France — France,1792900200902,Ligue 1,1792900200007,RC Strasbourg Alsace,2083,2083,85,85,56,42,68,74
+1792900200901,France,Ligue 1 & Coupe de France — France,1792900200902,Ligue 1,1792900200008,Olympique de Marseille,2065,2065,85,84,53,54,58,62
+1792900200901,France,Ligue 1 & Coupe de France — France,1792900200902,Ligue 1,1792900200002,AS Monaco,2055,2055,83,83,53,41,72,62
+1792900200901,France,Ligue 1 & Coupe de France — France,1792900200902,Ligue 1,1792900200005,RC Lens,2045,2045,83,83,52,58,61,62
+1792900200901,France,Ligue 1 & Coupe de France — France,1792900200902,Ligue 1,1792900200003,Olympique Lyonnais,2040,2040,84,85,45,49,62,64
+1792900200901,France,Ligue 1 & Coupe de France — France,1792900200902,Ligue 1,1792900200011,FC Lorient,2027,2027,82,83,65,38,67,60
+1792900200901,France,Ligue 1 & Coupe de France — France,1792900200902,Ligue 1,1792900200006,LOSC Lille,2010,2010,81,82,70,65,66,65
+1792900200901,France,Ligue 1 & Coupe de France — France,1792900200902,Ligue 1,1792900200013,AJ Auxerre,2008,2008,81,80,59,60,62,67
+1792900200901,France,Ligue 1 & Coupe de France — France,1792900200902,Ligue 1,1792900200004,Stade Rennais FC,1970,1970,83,81,47,75,62,73
+1792900200901,France,Ligue 1 & Coupe de France — France,1792900200902,Ligue 1,1792900200009,Toulouse FC,1968,1968,80,79,60,69,39,63
+1792900200901,France,Ligue 1 & Coupe de France — France,1792900200902,Ligue 1,1792900200014,OGC Nice,1950,1950,76,77,34,71,43,56
+1792900200901,France,Ligue 1 & Coupe de France — France,1792900200902,Ligue 1,1792900200012,Stade Brestois 29,1904,1904,75,75,58,60,39,54
+1792900200901,France,Ligue 1 & Coupe de France — France,1792900200902,Ligue 1,1792900200015,Le Havre AC,1856,1856,74,75,38,70,50,58
+1792900200901,France,Ligue 1 & Coupe de France — France,1792900200902,Ligue 1,1792900200016,Angers SCO,1829,1829,73,73,43,58,44,52
+1792900200901,France,Ligue 1 & Coupe de France — France,1792900200902,Ligue 1,1792900200018,Le Mans FC,1794,1794,70,70,47,67,61,51
+1792900200901,France,Ligue 1 & Coupe de France — France,1792900200902,Ligue 1,1792900200010,Paris FC,1785,1785,72,72,36,47,68,63
+1792900200901,France,Ligue 1 & Coupe de France — France,1792900200902,Ligue 1,1792900200017,ESTAC Troyes,1690,1690,68,69,45,51,61,65
+1898100000000,Germany,Bundesliga (D1-D3) & DFB-Pokal — Germany,1898100000100,Bundesliga,1898000000001,FC Bayern München,2255,2255,95,94,54,46,51,53
+1898100000000,Germany,Bundesliga (D1-D3) & DFB-Pokal — Germany,1898100000100,Bundesliga,1898000000002,Borussia Dortmund,2165,2165,89,89,48,53,49,51
+1898100000000,Germany,Bundesliga (D1-D3) & DFB-Pokal — Germany,1898100000100,Bundesliga,1898000000004,Bayer 04 Leverkusen,2155,2155,90,90,53,52,52,56
+1898100000000,Germany,Bundesliga (D1-D3) & DFB-Pokal — Germany,1898100000100,Bundesliga,1898000000005,1. FSV Mainz 05,2110,2110,88,87,54,48,49,51
+1898100000000,Germany,Bundesliga (D1-D3) & DFB-Pokal — Germany,1898100000100,Bundesliga,1898000000003,SC Freiburg,2092,2092,85,86,52,41,53,53
+1898100000000,Germany,Bundesliga (D1-D3) & DFB-Pokal — Germany,1898100000100,Bundesliga,1898000000007,RB Leipzig,2074,2074,86,85,63,45,52,53
+1898100000000,Germany,Bundesliga (D1-D3) & DFB-Pokal — Germany,1898100000100,Bundesliga,1898000000009,Hamburger SV,2055,2055,83,84,48,49,47,55
+1898100000000,Germany,Bundesliga (D1-D3) & DFB-Pokal — Germany,1898100000100,Bundesliga,1898000000010,FC Augsburg,2036,2036,84,83,51,46,49,46
+1898100000000,Germany,Bundesliga (D1-D3) & DFB-Pokal — Germany,1898100000100,Bundesliga,1898000000011,Eintracht Frankfurt,2017,2017,83,82,57,51,51,60
+1898100000000,Germany,Bundesliga (D1-D3) & DFB-Pokal — Germany,1898100000100,Bundesliga,1898000000008,SV Werder Bremen,1997,1997,82,82,50,57,50,54
+1898100000000,Germany,Bundesliga (D1-D3) & DFB-Pokal — Germany,1898100000100,Bundesliga,1898000000006,SV Elversberg,1977,1977,81,82,54,50,47,52
+1898100000000,Germany,Bundesliga (D1-D3) & DFB-Pokal — Germany,1898100000100,Bundesliga,1898000000012,1. FC Köln,1956,1956,82,80,52,45,48,49
+1898100000000,Germany,Bundesliga (D1-D3) & DFB-Pokal — Germany,1898100000100,Bundesliga,1898000000013,VfB Stuttgart,1935,1935,79,79,53,54,52,54
+1898100000000,Germany,Bundesliga (D1-D3) & DFB-Pokal — Germany,1898100000100,Bundesliga,1898000000014,TSG Hoffenheim,1913,1913,78,78,57,43,47,58
+1898100000000,Germany,Bundesliga (D1-D3) & DFB-Pokal — Germany,1898100000100,Bundesliga,1898000000015,FC Schalke 04,1890,1890,79,79,59,51,51,56
+1898100000000,Germany,Bundesliga (D1-D3) & DFB-Pokal — Germany,1898100000100,Bundesliga,1898000000016,SC Paderborn 07,1865,1865,75,76,53,53,53,49
+1898100000000,Germany,Bundesliga (D1-D3) & DFB-Pokal — Germany,1898100000100,Bundesliga,1898000000018,Borussia Mönchengladbach,1838,1838,75,75,59,52,51,54
+1898100000000,Germany,Bundesliga (D1-D3) & DFB-Pokal — Germany,1898100000100,Bundesliga,1898000000017,1. FC Union Berlin,1803,1803,72,73,52,50,48,51
+1793400000000,England,Premier League (D1-D4) & FA Cup — England,1793400100001,Premier League (D1),1793400000002,Arsenal,2240,2240,91,91,57,50,49,57
+1793400000000,England,Premier League (D1-D4) & FA Cup — England,1793400100001,Premier League (D1),1793400000001,Manchester City,2220,2220,91,91,53,50,53,58
+1793400000000,England,Premier League (D1-D4) & FA Cup — England,1793400100001,Premier League (D1),1793400000005,Liverpool,2220,2220,90,90,47,52,52,48
+1793400000000,England,Premier League (D1-D4) & FA Cup — England,1793400100001,Premier League (D1),1793400000004,Chelsea,2170,2170,88,88,50,48,47,51
+1793400000000,England,Premier League (D1-D4) & FA Cup — England,1793400100001,Premier League (D1),1793400000006,Brentford,2143,2143,87,86,50,52,49,51
+1793400000000,England,Premier League (D1-D4) & FA Cup — England,1793400100001,Premier League (D1),1793400000007,Leeds United,2110,2110,85,86,51,54,48,50
+1793400000000,England,Premier League (D1-D4) & FA Cup — England,1793400100001,Premier League (D1),1793400000012,Aston Villa,2110,2110,87,85,53,51,51,56
+1793400000000,England,Premier League (D1-D4) & FA Cup — England,1793400100001,Premier League (D1),1793400000003,Brighton & Hove Albion,2094,2094,87,86,59,47,50,58
+1793400000000,England,Premier League (D1-D4) & FA Cup — England,1793400100001,Premier League (D1),1793400000011,Newcastle United,2080,2080,84,83,49,51,51,52
+1793400000000,England,Premier League (D1-D4) & FA Cup — England,1793400100001,Premier League (D1),1793400000013,Manchester United,2077,2077,86,85,59,47,49,65
+1793400000000,England,Premier League (D1-D4) & FA Cup — England,1793400100001,Premier League (D1),1793400000016,Tottenham Hotspur,2065,2065,84,84,51,51,53,55
+1793400000000,England,Premier League (D1-D4) & FA Cup — England,1793400100001,Premier League (D1),1793400000009,Hull City,2060,2060,83,83,51,45,52,52
+1793400000000,England,Premier League (D1-D4) & FA Cup — England,1793400100001,Premier League (D1),1793400000008,Everton,2025,2025,82,82,54,50,48,52
+1793400000000,England,Premier League (D1-D4) & FA Cup — England,1793400100001,Premier League (D1),1793400000010,Ipswich Town,2007,2007,82,82,51,51,50,52
+1793400000000,England,Premier League (D1-D4) & FA Cup — England,1793400100001,Premier League (D1),1793400000017,Coventry City,1989,1989,81,80,54,52,48,62
+1793400000000,England,Premier League (D1-D4) & FA Cup — England,1793400100001,Premier League (D1),1793400000014,Crystal Palace,1950,1950,78,78,46,50,47,45
+1793400000000,England,Premier League (D1-D4) & FA Cup — England,1793400100001,Premier League (D1),1793400000018,Fulham,1930,1930,78,77,58,45,47,50
+1793400000000,England,Premier League (D1-D4) & FA Cup — England,1793400100001,Premier League (D1),1793400000020,Sunderland,1909,1909,77,76,56,51,53,55
+1793400000000,England,Premier League (D1-D4) & FA Cup — England,1793400100001,Premier League (D1),1793400000019,Nottingham Forest,1862,1862,75,75,56,53,48,59
+1793400000000,England,Premier League (D1-D4) & FA Cup — England,1793400100001,Premier League (D1),1793400000015,AFC Bournemouth,1830,1830,73,73,49,55,52,48
+1884500300000,Spain,LaLiga (D1-D3) & Copa del Rey — Spain,1884500400100,LaLiga (D1),1884500100003,Real Madrid CF,2265,2265,94,94,54,52,47,55
+1884500300000,Spain,LaLiga (D1-D3) & Copa del Rey — Spain,1884500400100,LaLiga (D1),1884500100001,FC Barcelona,2250,2250,95,94,60,54,50,57
+1884500300000,Spain,LaLiga (D1-D3) & Copa del Rey — Spain,1884500400100,LaLiga (D1),1884500100002,Atlético de Madrid,2175,2175,90,90,53,47,48,57
+1884500300000,Spain,LaLiga (D1-D3) & Copa del Rey — Spain,1884500400100,LaLiga (D1),1884500100004,Real Betis Balompié,2141,2141,88,88,56,52,51,60
+1884500300000,Spain,LaLiga (D1-D3) & Copa del Rey — Spain,1884500400100,LaLiga (D1),1884500100012,Villarreal CF,2109,2109,86,85,57,54,53,56
+1884500300000,Spain,LaLiga (D1-D3) & Copa del Rey — Spain,1884500400100,LaLiga (D1),1884500100006,Sevilla FC,2092,2092,85,84,50,53,53,52
+1884500300000,Spain,LaLiga (D1-D3) & Copa del Rey — Spain,1884500400100,LaLiga (D1),1884500100014,Rayo Vallecano,2076,2076,84,84,51,47,49,52
+1884500300000,Spain,LaLiga (D1-D3) & Copa del Rey — Spain,1884500400100,LaLiga (D1),1884500100008,RC Celta de Vigo,2059,2059,82,84,48,41,47,48
+1884500300000,Spain,LaLiga (D1-D3) & Copa del Rey — Spain,1884500400100,LaLiga (D1),1884500100010,CA Osasuna,2042,2042,81,82,56,51,48,50
+1884500300000,Spain,LaLiga (D1-D3) & Copa del Rey — Spain,1884500400100,LaLiga (D1),1884500100005,Real Sociedad,2025,2025,82,81,47,45,49,51
+1884500300000,Spain,LaLiga (D1-D3) & Copa del Rey — Spain,1884500400100,LaLiga (D1),1884500100016,RCD Espanyol,2007,2007,81,81,54,47,52,61
+1884500300000,Spain,LaLiga (D1-D3) & Copa del Rey — Spain,1884500400100,LaLiga (D1),1884500100019,Valencia CF,1989,1989,79,80,52,55,47,48
+1884500300000,Spain,LaLiga (D1-D3) & Copa del Rey — Spain,1884500400100,LaLiga (D1),1884500100007,Deportivo Alavés,1971,1971,81,81,53,53,52,55
+1884500300000,Spain,LaLiga (D1-D3) & Copa del Rey — Spain,1884500400100,LaLiga (D1),1884500100009,RC Deportivo de La Coruña,1952,1952,79,79,50,49,52,54
+1884500300000,Spain,LaLiga (D1-D3) & Copa del Rey — Spain,1884500400100,LaLiga (D1),1884500100018,Elche CF,1932,1932,76,76,51,49,48,47
+1884500300000,Spain,LaLiga (D1-D3) & Copa del Rey — Spain,1884500400100,LaLiga (D1),1884500100013,Athletic Club,1912,1912,75,76,46,50,53,50
+1884500300000,Spain,LaLiga (D1-D3) & Copa del Rey — Spain,1884500400100,LaLiga (D1),1884500100011,Levante UD,1891,1891,76,76,55,51,50,52
+1884500300000,Spain,LaLiga (D1-D3) & Copa del Rey — Spain,1884500400100,LaLiga (D1),1884500100015,Getafe CF,1869,1869,74,76,56,50,49,55
+1884500300000,Spain,LaLiga (D1-D3) & Copa del Rey — Spain,1884500400100,LaLiga (D1),1884500100017,Real Racing Club de Santander,1844,1844,74,73,59,54,51,57
+1884500300000,Spain,LaLiga (D1-D3) & Copa del Rey — Spain,1884500400100,LaLiga (D1),1884500100020,Málaga CF,1812,1812,72,72,52,50,51,51
+1793400100000,Italy,Serie A (D1-D3) & Coppa Italia — Italy,1793400400000,Serie A,1793400200007,Inter,2210,2210,90,89,47,47,45,45
+1793400100000,Italy,Serie A (D1-D3) & Coppa Italia — Italy,1793400400000,Serie A,1793400200009,Lazio,2181,2181,89,88,53,47,51,57
+1793400100000,Italy,Serie A (D1-D3) & Coppa Italia — Italy,1793400400000,Serie A,1793400200011,Milan,2165,2165,89,88,54,56,47,50
+1793400100000,Italy,Serie A (D1-D3) & Coppa Italia — Italy,1793400400000,Serie A,1793400200015,Roma,2150,2150,87,88,55,55,47,57
+1793400100000,Italy,Serie A (D1-D3) & Coppa Italia — Italy,1793400400000,Serie A,1793400200008,Juventus,2145,2145,87,89,56,47,46,60
+1793400100000,Italy,Serie A (D1-D3) & Coppa Italia — Italy,1793400400000,Serie A,1793400200005,Frosinone,2118,2118,86,85,54,56,53,62
+1793400100000,Italy,Serie A (D1-D3) & Coppa Italia — Italy,1793400400000,Serie A,1793400200003,Como,2085,2085,83,85,48,35,55,56
+1793400100000,Italy,Serie A (D1-D3) & Coppa Italia — Italy,1793400400000,Serie A,1793400200010,Lecce,2068,2068,85,84,58,55,48,57
+1793400100000,Italy,Serie A (D1-D3) & Coppa Italia — Italy,1793400400000,Serie A,1793400200017,Torino,2051,2051,83,84,60,52,52,62
+1793400100000,Italy,Serie A (D1-D3) & Coppa Italia — Italy,1793400400000,Serie A,1793400200002,Cagliari,2034,2034,82,83,57,56,48,53
+1793400100000,Italy,Serie A (D1-D3) & Coppa Italia — Italy,1793400400000,Serie A,1793400200012,Monza,2016,2016,81,81,52,49,52,54
+1793400100000,Italy,Serie A (D1-D3) & Coppa Italia — Italy,1793400400000,Serie A,1793400200000,Atalanta,1998,1998,81,81,54,47,52,51
+1793400100000,Italy,Serie A (D1-D3) & Coppa Italia — Italy,1793400400000,Serie A,1793400200013,Napoli,1980,1980,79,80,53,51,49,50
+1793400100000,Italy,Serie A (D1-D3) & Coppa Italia — Italy,1793400400000,Serie A,1793400200019,Venezia,1961,1961,80,79,62,44,53,59
+1793400100000,Italy,Serie A (D1-D3) & Coppa Italia — Italy,1793400400000,Serie A,1793400200018,Udinese,1941,1941,78,78,52,51,47,51
+1793400100000,Italy,Serie A (D1-D3) & Coppa Italia — Italy,1793400400000,Serie A,1793400200014,Parma,1921,1921,77,77,49,54,51,57
+1793400100000,Italy,Serie A (D1-D3) & Coppa Italia — Italy,1793400400000,Serie A,1793400200004,Fiorentina,1900,1900,77,76,49,61,47,56
+1793400100000,Italy,Serie A (D1-D3) & Coppa Italia — Italy,1793400400000,Serie A,1793400200006,Genoa,1878,1878,76,75,52,46,54,55
+1793400100000,Italy,Serie A (D1-D3) & Coppa Italia — Italy,1793400400000,Serie A,1793400200001,Bologna,1853,1853,73,73,48,48,53,50
+1793400100000,Italy,Serie A (D1-D3) & Coppa Italia — Italy,1793400400000,Serie A,1793400200016,Sassuolo,1821,1821,73,72,48,51,48,49
+1900262700000,Belgium,Jupiler Pro League & Coupe de Belgique — Croky Cup — Belgium,1900262700901,Jupiler Pro League (D1),1900262701011,Royale Union Saint-Gilloise,2136,2136,84,85,55,52,49,53
+1900262700000,Belgium,Jupiler Pro League & Coupe de Belgique — Croky Cup — Belgium,1900262700901,Jupiler Pro League (D1),1900262701012,RSC Anderlecht,2119,2119,84,84,59,54,47,49
+1900262700000,Belgium,Jupiler Pro League & Coupe de Belgique — Croky Cup — Belgium,1900262700901,Jupiler Pro League (D1),1900262701002,KAA Gent,2101,2101,82,84,47,55,49,52
+1900262700000,Belgium,Jupiler Pro League & Coupe de Belgique — Croky Cup — Belgium,1900262700901,Jupiler Pro League (D1),1900262701001,Club Brugge KV,2083,2083,82,82,49,46,50,49
+1900262700000,Belgium,Jupiler Pro League & Coupe de Belgique — Croky Cup — Belgium,1900262700901,Jupiler Pro League (D1),1900262701014,Sporting Charleroi,2065,2065,81,82,53,45,49,56
+1900262700000,Belgium,Jupiler Pro League & Coupe de Belgique — Croky Cup — Belgium,1900262700901,Jupiler Pro League (D1),1900262701003,KRC Genk,2047,2047,81,80,54,43,49,51
+1900262700000,Belgium,Jupiler Pro League & Coupe de Belgique — Croky Cup — Belgium,1900262700901,Jupiler Pro League (D1),1900262701016,Sint-Truidense VV,2028,2028,81,80,53,52,50,57
+1900262700000,Belgium,Jupiler Pro League & Coupe de Belgique — Croky Cup — Belgium,1900262700901,Jupiler Pro League (D1),1900262701010,Royal Antwerp FC,2009,2009,80,80,55,48,53,55
+1900262700000,Belgium,Jupiler Pro League & Coupe de Belgique — Croky Cup — Belgium,1900262700901,Jupiler Pro League (D1),1900262701015,Standard de Liège,1990,1990,80,77,57,47,52,59
+1900262700000,Belgium,Jupiler Pro League & Coupe de Belgique — Croky Cup — Belgium,1900262700901,Jupiler Pro League (D1),1900262701006,KVC Westerlo,1970,1970,77,77,51,50,51,47
+1900262700000,Belgium,Jupiler Pro League & Coupe de Belgique — Croky Cup — Belgium,1900262700901,Jupiler Pro League (D1),1900262701000,Cercle Brugge,1950,1950,76,78,53,57,48,49
+1900262700000,Belgium,Jupiler Pro League & Coupe de Belgique — Croky Cup — Belgium,1900262700901,Jupiler Pro League (D1),1900262701005,KV Mechelen,1929,1929,75,77,48,52,53,47
+1900262700000,Belgium,Jupiler Pro League & Coupe de Belgique — Croky Cup — Belgium,1900262700901,Jupiler Pro League (D1),1900262701008,OH Leuven,1908,1908,74,74,57,49,51,45
+1900262700000,Belgium,Jupiler Pro League & Coupe de Belgique — Croky Cup — Belgium,1900262700901,Jupiler Pro League (D1),1900262701013,SK Beveren,1886,1886,74,75,55,53,51,50
+1900262700000,Belgium,Jupiler Pro League & Coupe de Belgique — Croky Cup — Belgium,1900262700901,Jupiler Pro League (D1),1900262701007,Lommel SK,1863,1863,73,74,48,53,49,55
+1900262700000,Belgium,Jupiler Pro League & Coupe de Belgique — Croky Cup — Belgium,1900262700901,Jupiler Pro League (D1),1900262701017,SV Zulte Waregem,1838,1838,71,72,50,45,49,47
+1900262700000,Belgium,Jupiler Pro League & Coupe de Belgique — Croky Cup — Belgium,1900262700901,Jupiler Pro League (D1),1900262701009,RAAL La Louvière,1811,1811,71,71,47,49,52,52
+1900262700000,Belgium,Jupiler Pro League & Coupe de Belgique — Croky Cup — Belgium,1900262700901,Jupiler Pro League (D1),1900262701004,KV Kortrijk,1776,1776,69,69,51,53,53,48
+1901262700000,Luxembourg,Luxembourger Leagues (D1-D2) & Coupe de Luxembourg — Luxembourg,1901262700901,BGL Ligue (D1),1901262701000,UNA Strassen,1463,1463,55,56,45,47,53,47
+1901262700000,Luxembourg,Luxembourger Leagues (D1-D2) & Coupe de Luxembourg — Luxembourg,1901262700901,BGL Ligue (D1),1901262701002,US Mondorf-les-Bains,1446,1446,55,55,55,46,50,50
+1901262700000,Luxembourg,Luxembourger Leagues (D1-D2) & Coupe de Luxembourg — Luxembourg,1901262700901,BGL Ligue (D1),1901262701001,FC Differdange 03,1428,1428,54,54,53,56,49,50
+1901262700000,Luxembourg,Luxembourger Leagues (D1-D2) & Coupe de Luxembourg — Luxembourg,1901262700901,BGL Ligue (D1),1901262701005,UN Käerjeng 97,1410,1410,54,53,50,49,50,45
+1901262700000,Luxembourg,Luxembourger Leagues (D1-D2) & Coupe de Luxembourg — Luxembourg,1901262700901,BGL Ligue (D1),1901262701004,Progrès Niederkorn,1392,1392,55,55,54,52,47,59
+1901262700000,Luxembourg,Luxembourger Leagues (D1-D2) & Coupe de Luxembourg — Luxembourg,1901262700901,BGL Ligue (D1),1901262701003,Racing FC Union Luxembourg,1374,1374,53,52,49,51,48,53
+1901262700000,Luxembourg,Luxembourger Leagues (D1-D2) & Coupe de Luxembourg — Luxembourg,1901262700901,BGL Ligue (D1),1901262701007,Résidence Walferdange,1355,1355,52,52,49,48,47,52
+1901262700000,Luxembourg,Luxembourger Leagues (D1-D2) & Coupe de Luxembourg — Luxembourg,1901262700901,BGL Ligue (D1),1901262701006,FC Atert Bissen,1336,1336,49,49,41,41,53,43
+1901262700000,Luxembourg,Luxembourger Leagues (D1-D2) & Coupe de Luxembourg — Luxembourg,1901262700901,BGL Ligue (D1),1901262701010,F91 Dudelange,1317,1317,49,50,50,55,48,49
+1901262700000,Luxembourg,Luxembourger Leagues (D1-D2) & Coupe de Luxembourg — Luxembourg,1901262700901,BGL Ligue (D1),1901262701012,Victoria Rosport,1297,1297,49,49,50,55,53,50
+1901262700000,Luxembourg,Luxembourger Leagues (D1-D2) & Coupe de Luxembourg — Luxembourg,1901262700901,BGL Ligue (D1),1901262701008,US Hostert,1276,1276,47,47,48,46,47,52
+1901262700000,Luxembourg,Luxembourger Leagues (D1-D2) & Coupe de Luxembourg — Luxembourg,1901262700901,BGL Ligue (D1),1901262701009,AS La Jeunesse d’Esch/Alzette,1255,1255,47,46,51,45,53,48
+1901262700000,Luxembourg,Luxembourger Leagues (D1-D2) & Coupe de Luxembourg — Luxembourg,1901262700901,BGL Ligue (D1),1901262701013,Etzella Ettelbruck,1232,1232,45,46,46,54,52,45
+1901262700000,Luxembourg,Luxembourger Leagues (D1-D2) & Coupe de Luxembourg — Luxembourg,1901262700901,BGL Ligue (D1),1901262701011,US Rumelange,1208,1208,45,44,45,51,48,47
+1901262700000,Luxembourg,Luxembourger Leagues (D1-D2) & Coupe de Luxembourg — Luxembourg,1901262700901,BGL Ligue (D1),1901262701015,Swift Hesperange,1182,1182,45,43,54,54,52,53
+1901262700000,Luxembourg,Luxembourger Leagues (D1-D2) & Coupe de Luxembourg — Luxembourg,1901262700901,BGL Ligue (D1),1901262701014,FC Wiltz 71,1148,1148,44,43,55,61,51,49
+1895000000001,Netherlands,Eredivisie & KNVB Beker — Netherlands,1895000000100,Eredivisie (D1),1895100000002,PSV Eindhoven,2127,2127,88,87,52,46,47,56
+1895000000001,Netherlands,Eredivisie & KNVB Beker — Netherlands,1895000000100,Eredivisie (D1),1895100000004,AZ Alkmaar,2110,2110,86,85,51,51,51,52
+1895000000001,Netherlands,Eredivisie & KNVB Beker — Netherlands,1895000000100,Eredivisie (D1),1895100000001,Ajax,2092,2092,85,84,48,48,52,52
+1895000000001,Netherlands,Eredivisie & KNVB Beker — Netherlands,1895000000100,Eredivisie (D1),1895100000003,Feyenoord,2074,2074,85,83,45,49,49,48
+1895000000001,Netherlands,Eredivisie & KNVB Beker — Netherlands,1895000000100,Eredivisie (D1),1895100000011,Fortuna Sittard,2056,2056,84,83,51,49,52,55
+1895000000001,Netherlands,Eredivisie & KNVB Beker — Netherlands,1895000000100,Eredivisie (D1),1895100000005,FC Twente,2038,2038,81,81,49,47,53,49
+1895000000001,Netherlands,Eredivisie & KNVB Beker — Netherlands,1895000000100,Eredivisie (D1),1895100000009,FC Groningen,2019,2019,82,80,51,48,47,49
+1895000000001,Netherlands,Eredivisie & KNVB Beker — Netherlands,1895000000100,Eredivisie (D1),1895100000012,Sparta Rotterdam,2000,2000,80,78,52,53,53,50
+1895000000001,Netherlands,Eredivisie & KNVB Beker — Netherlands,1895000000100,Eredivisie (D1),1895100000006,FC Utrecht,1981,1981,81,79,57,47,48,57
+1895000000001,Netherlands,Eredivisie & KNVB Beker — Netherlands,1895000000100,Eredivisie (D1),1895100000010,Go Ahead Eagles,1961,1961,79,78,51,55,50,48
+1895000000001,Netherlands,Eredivisie & KNVB Beker — Netherlands,1895000000100,Eredivisie (D1),1895100000007,NEC Nijmegen,1941,1941,76,76,45,46,50,48
+1895000000001,Netherlands,Eredivisie & KNVB Beker — Netherlands,1895000000100,Eredivisie (D1),1895100000014,PEC Zwolle,1920,1920,77,77,57,56,50,55
+1895000000001,Netherlands,Eredivisie & KNVB Beker — Netherlands,1895000000100,Eredivisie (D1),1895100000008,SC Heerenveen,1899,1899,76,77,53,50,53,54
+1895000000001,Netherlands,Eredivisie & KNVB Beker — Netherlands,1895000000100,Eredivisie (D1),1895100000016,ADO Den Haag,1877,1877,75,74,54,50,47,50
+1895000000001,Netherlands,Eredivisie & KNVB Beker — Netherlands,1895000000100,Eredivisie (D1),1895100000017,SC Cambuur,1854,1854,75,74,49,55,49,58
+1895000000001,Netherlands,Eredivisie & KNVB Beker — Netherlands,1895000000100,Eredivisie (D1),1895100000013,Excelsior Rotterdam,1829,1829,71,72,46,41,48,45
+1895000000001,Netherlands,Eredivisie & KNVB Beker — Netherlands,1895000000100,Eredivisie (D1),1895100000015,SC Telstar,1802,1802,72,71,45,52,52,50
+1895000000001,Netherlands,Eredivisie & KNVB Beker — Netherlands,1895000000100,Eredivisie (D1),1895100000018,Willem II,1767,1767,71,70,57,53,51,58
+1895000000002,Andorra,Andorran Full League System & Copa Constitució — Andorra,1895000000200,Primera Divisió (D1),1895100000057,FC Santa Coloma,1541,1541,61,60,48,52,52,51
+1895000000002,Andorra,Andorran Full League System & Copa Constitució — Andorra,1895000000200,Primera Divisió (D1),1895100000058,Inter Club d’Escaldes,1512,1512,59,58,45,44,47,49
+1895000000002,Andorra,Andorran Full League System & Copa Constitució — Andorra,1895000000200,Primera Divisió (D1),1895100000059,FC Ordino,1482,1482,58,57,55,59,49,56
+1895000000002,Andorra,Andorran Full League System & Copa Constitució — Andorra,1895000000200,Primera Divisió (D1),1895100000060,Atlètic Club d’Escaldes,1452,1452,56,55,44,47,51,41
+1895000000002,Andorra,Andorran Full League System & Copa Constitució — Andorra,1895000000200,Primera Divisió (D1),1895100000063,Penya Encarnada d’Andorra,1421,1421,56,55,56,54,50,56
+1895000000002,Andorra,Andorran Full League System & Copa Constitució — Andorra,1895000000200,Primera Divisió (D1),1895100000061,FC Rànger’s,1388,1388,52,52,53,49,53,47
+1895000000002,Andorra,Andorran Full League System & Copa Constitució — Andorra,1895000000200,Primera Divisió (D1),1895100000062,CF Esperança d’Andorra,1354,1354,53,51,50,49,48,49
+1895000000002,Andorra,Andorran Full League System & Copa Constitució — Andorra,1895000000200,Primera Divisió (D1),1895100000064,CE Casa de Portugal,1318,1318,50,50,48,50,52,50
+1895000000002,Andorra,Andorran Full League System & Copa Constitució — Andorra,1895000000200,Primera Divisió (D1),1895100000066,CE Carroi,1278,1278,48,48,50,55,49,51
+1895000000002,Andorra,Andorran Full League System & Copa Constitució — Andorra,1895000000200,Primera Divisió (D1),1895100000065,Sporting Club d’Escaldes,1226,1226,45,45,46,50,47,46
+1883263000000,Republic of Ireland,League of Ireland (Republic) — 2026 National Pyramid & Men's FAI Cup — Republic of Ireland,1883263000001,Premier Division (PD),1883261000006,Shamrock Rovers,1723,1723,67,67,49,55,54,53
+1883263000000,Republic of Ireland,League of Ireland (Republic) — 2026 National Pyramid & Men's FAI Cup — Republic of Ireland,1883263000001,Premier Division (PD),1883261000009,St Patrick's Athletic,1694,1694,65,66,48,50,49,51
+1883263000000,Republic of Ireland,League of Ireland (Republic) — 2026 National Pyramid & Men's FAI Cup — Republic of Ireland,1883263000001,Premier Division (PD),1883261000001,Bohemians,1664,1664,64,64,49,42,48,47
+1883263000000,Republic of Ireland,League of Ireland (Republic) — 2026 National Pyramid & Men's FAI Cup — Republic of Ireland,1883263000001,Premier Division (PD),1883261000010,Waterford,1634,1634,62,62,46,51,50,49
+1883263000000,Republic of Ireland,League of Ireland (Republic) — 2026 National Pyramid & Men's FAI Cup — Republic of Ireland,1883263000001,Premier Division (PD),1883261000007,Shelbourne,1603,1603,62,61,52,49,47,50
+1883263000000,Republic of Ireland,League of Ireland (Republic) — 2026 National Pyramid & Men's FAI Cup — Republic of Ireland,1883263000001,Premier Division (PD),1883261000002,Derry City,1570,1570,59,59,43,49,49,39
+1883263000000,Republic of Ireland,League of Ireland (Republic) — 2026 National Pyramid & Men's FAI Cup — Republic of Ireland,1883263000001,Premier Division (PD),1883261000005,Galway United,1536,1536,59,59,49,53,52,51
+1883263000000,Republic of Ireland,League of Ireland (Republic) — 2026 National Pyramid & Men's FAI Cup — Republic of Ireland,1883263000001,Premier Division (PD),1883261000003,Drogheda United,1500,1500,57,57,51,45,50,53
+1883263000000,Republic of Ireland,League of Ireland (Republic) — 2026 National Pyramid & Men's FAI Cup — Republic of Ireland,1883263000001,Premier Division (PD),1883261000004,Dundalk,1460,1460,55,54,48,52,51,45
+1883263000000,Republic of Ireland,League of Ireland (Republic) — 2026 National Pyramid & Men's FAI Cup — Republic of Ireland,1883263000001,Premier Division (PD),1883261000008,Sligo Rovers,1408,1408,52,53,52,50,48,49
+1900231000001,Northern Ireland,Northern Ireland Football League (D1-D2) & Irish Cup — Northern Ireland,1900231200001,NIFL Premiership — Regular Season (D1),1900231300011,Linfield,1476,1476,55,56,43,53,52,41
+1900231000001,Northern Ireland,Northern Ireland Football League (D1-D2) & Irish Cup — Northern Ireland,1900231200001,NIFL Premiership — Regular Season (D1),1900231300010,Larne,1452,1452,55,55,45,46,49,50
+1900231000001,Northern Ireland,Northern Ireland Football League (D1-D2) & Irish Cup — Northern Ireland,1900231200001,NIFL Premiership — Regular Season (D1),1900231300005,Coleraine,1428,1428,54,53,54,49,47,49
+1900231000001,Northern Ireland,Northern Ireland Football League (D1-D2) & Irish Cup — Northern Ireland,1900231200001,NIFL Premiership — Regular Season (D1),1900231300008,Glentoran,1404,1404,51,54,57,46,48,51
+1900231000001,Northern Ireland,Northern Ireland Football League (D1-D2) & Irish Cup — Northern Ireland,1900231200001,NIFL Premiership — Regular Season (D1),1900231300004,Cliftonville,1378,1378,49,51,53,50,47,45
+1900231000001,Northern Ireland,Northern Ireland Football League (D1-D2) & Irish Cup — Northern Ireland,1900231200001,NIFL Premiership — Regular Season (D1),1900231300006,Crusaders,1353,1353,49,48,45,49,51,44
+1900231000001,Northern Ireland,Northern Ireland Football League (D1-D2) & Irish Cup — Northern Ireland,1900231200001,NIFL Premiership — Regular Season (D1),1900231300001,Ballymena United,1326,1326,48,49,49,47,49,51
+1900231000001,Northern Ireland,Northern Ireland Football League (D1-D2) & Irish Cup — Northern Ireland,1900231200001,NIFL Premiership — Regular Season (D1),1900231300003,Carrick Rangers,1298,1298,47,47,47,49,49,48
+1900231000001,Northern Ireland,Northern Ireland Football League (D1-D2) & Irish Cup — Northern Ireland,1900231200001,NIFL Premiership — Regular Season (D1),1900231300009,Limavady United,1270,1270,45,46,52,55,50,50
+1900231000001,Northern Ireland,Northern Ireland Football League (D1-D2) & Irish Cup — Northern Ireland,1900231200001,NIFL Premiership — Regular Season (D1),1900231300007,Dungannon Swifts,1239,1239,44,45,47,50,52,47
+1900231000001,Northern Ireland,Northern Ireland Football League (D1-D2) & Irish Cup — Northern Ireland,1900231200001,NIFL Premiership — Regular Season (D1),1900231300012,Portadown,1205,1205,41,43,52,55,52,48
+1900231000001,Northern Ireland,Northern Ireland Football League (D1-D2) & Irish Cup — Northern Ireland,1900231200001,NIFL Premiership — Regular Season (D1),1900231300002,Bangor,1161,1161,41,41,56,53,48,52
+1900230100000,Scotland,Scottish Premiership (D1-D3) & Scottish Cup — Scotland,1900230300001,Scottish Premiership (D1),1900231100001,Celtic,1980,1980,82,80,48,50,51,51
+1900230100000,Scotland,Scottish Premiership (D1-D3) & Scottish Cup — Scotland,1900230300001,Scottish Premiership (D1),1900231100002,Rangers,1950,1950,80,82,60,56,48,60
+1900230100000,Scotland,Scottish Premiership (D1-D3) & Scottish Cup — Scotland,1900230300001,Scottish Premiership (D1),1900231100004,Dundee,1887,1887,76,76,51,48,49,55
+1900230100000,Scotland,Scottish Premiership (D1-D3) & Scottish Cup — Scotland,1900230300001,Scottish Premiership (D1),1900231100003,Heart of Midlothian,1839,1839,77,76,57,53,48,61
+1900230100000,Scotland,Scottish Premiership (D1-D3) & Scottish Cup — Scotland,1900230300001,Scottish Premiership (D1),1900231100009,Falkirk,1813,1813,73,73,54,51,48,54
+1900230100000,Scotland,Scottish Premiership (D1-D3) & Scottish Cup — Scotland,1900230300001,Scottish Premiership (D1),1900231100011,Kilmarnock,1788,1788,72,72,54,49,47,62
+1900230100000,Scotland,Scottish Premiership (D1-D3) & Scottish Cup — Scotland,1900230300001,Scottish Premiership (D1),1900231100006,Dundee United,1761,1761,70,71,51,49,51,49
+1900230100000,Scotland,Scottish Premiership (D1-D3) & Scottish Cup — Scotland,1900230300001,Scottish Premiership (D1),1900231100008,St Mirren,1733,1733,68,68,45,45,52,41
+1900230100000,Scotland,Scottish Premiership (D1-D3) & Scottish Cup — Scotland,1900230300001,Scottish Premiership (D1),1900231100012,Hibernian,1705,1705,69,70,58,57,53,54
+1900230100000,Scotland,Scottish Premiership (D1-D3) & Scottish Cup — Scotland,1900230300001,Scottish Premiership (D1),1900231100010,Motherwell,1674,1674,67,67,52,51,53,53
+1900230100000,Scotland,Scottish Premiership (D1-D3) & Scottish Cup — Scotland,1900230300001,Scottish Premiership (D1),1900231100007,Aberdeen,1640,1640,65,68,59,48,49,54
+1900230100000,Scotland,Scottish Premiership (D1-D3) & Scottish Cup — Scotland,1900230300001,Scottish Premiership (D1),1900231100005,St Johnstone,1596,1596,64,65,48,51,47,50
+1905102000000,Portugal,Primeira Liga & Taça de Portugal — Portugal,1905103000001,Primeira Liga (D1),1905100000004,SC Braga,2092,2092,84,84,47,46,51,47
+1905102000000,Portugal,Primeira Liga & Taça de Portugal — Portugal,1905103000001,Primeira Liga (D1),1905100000002,Sporting CP,2090,2090,86,85,50,47,49,49
+1905102000000,Portugal,Primeira Liga & Taça de Portugal — Portugal,1905103000001,Primeira Liga (D1),1905100000012,Rio Ave FC,2074,2074,84,84,57,52,47,54
+1905102000000,Portugal,Primeira Liga & Taça de Portugal — Portugal,1905103000001,Primeira Liga (D1),1905100000003,SL Benfica,2070,2070,87,84,47,41,47,49
+1905102000000,Portugal,Primeira Liga & Taça de Portugal — Portugal,1905103000001,Primeira Liga (D1),1905100000006,Gil Vicente FC,2056,2056,83,85,59,51,53,56
+1905102000000,Portugal,Primeira Liga & Taça de Portugal — Portugal,1905103000001,Primeira Liga (D1),1905100000001,FC Porto,2055,2055,87,87,59,48,53,58
+1905102000000,Portugal,Primeira Liga & Taça de Portugal — Portugal,1905103000001,Primeira Liga (D1),1905100000009,FC Alverca,2037,2037,83,83,57,52,49,57
+1905102000000,Portugal,Primeira Liga & Taça de Portugal — Portugal,1905103000001,Primeira Liga (D1),1905100000015,Estrela Amadora,2018,2018,81,80,47,46,53,52
+1905102000000,Portugal,Primeira Liga & Taça de Portugal — Portugal,1905103000001,Primeira Liga (D1),1905100000013,Santa Clara,1999,1999,80,80,46,47,53,44
+1905102000000,Portugal,Primeira Liga & Taça de Portugal — Portugal,1905103000001,Primeira Liga (D1),1905100000011,FC Arouca,1979,1979,80,81,52,51,53,55
+1905102000000,Portugal,Primeira Liga & Taça de Portugal — Portugal,1905103000001,Primeira Liga (D1),1905100000005,FC Famalicão,1959,1959,78,78,51,47,47,48
+1905102000000,Portugal,Primeira Liga & Taça de Portugal — Portugal,1905103000001,Primeira Liga (D1),1905100000018,Académico Viseu,1938,1938,78,77,57,48,47,45
+1905102000000,Portugal,Primeira Liga & Taça de Portugal — Portugal,1905103000001,Primeira Liga (D1),1905100000017,CS Marítimo,1917,1917,78,78,50,57,51,56
+1905102000000,Portugal,Primeira Liga & Taça de Portugal — Portugal,1905103000001,Primeira Liga (D1),1905100000008,Moreirense FC,1895,1895,75,75,44,52,50,49
+1905102000000,Portugal,Primeira Liga & Taça de Portugal — Portugal,1905103000001,Primeira Liga (D1),1905100000010,Estoril Praia,1872,1872,75,75,57,48,50,54
+1905102000000,Portugal,Primeira Liga & Taça de Portugal — Portugal,1905103000001,Primeira Liga (D1),1905100000016,Casa Pia AC,1847,1847,73,73,49,54,53,51
+1905102000000,Portugal,Primeira Liga & Taça de Portugal — Portugal,1905103000001,Primeira Liga (D1),1905100000014,CD Nacional,1820,1820,72,73,46,50,52,46
+1905102000000,Portugal,Primeira Liga & Taça de Portugal — Portugal,1905103000001,Primeira Liga (D1),1905100000007,Vitória SC,1785,1785,71,71,47,49,49,46
+1905102000001,Gibraltar,Gibraltar Football League & Rock Cup — Gibraltar,1905103000029,Regular Season (GI D1),1905100000391,St Joseph's FC,1515,1515,59,59,41,46,49,50
+1905102000001,Gibraltar,Gibraltar Football League & Rock Cup — Gibraltar,1905103000029,Regular Season (GI D1),1905100000392,Lincoln Red Imps FC,1489,1489,58,59,53,51,51,48
+1905102000001,Gibraltar,Gibraltar Football League & Rock Cup — Gibraltar,1905103000029,Regular Season (GI D1),1905100000394,Mons Calpe FC,1462,1462,56,56,50,51,47,48
+1905102000001,Gibraltar,Gibraltar Football League & Rock Cup — Gibraltar,1905103000029,Regular Season (GI D1),1905100000393,Glacis United FC,1435,1435,55,55,46,49,47,46
+1905102000001,Gibraltar,Gibraltar Football League & Rock Cup — Gibraltar,1905103000029,Regular Season (GI D1),1905100000396,Lions Gibraltar FC,1407,1407,54,54,51,50,47,51
+1905102000001,Gibraltar,Gibraltar Football League & Rock Cup — Gibraltar,1905103000029,Regular Season (GI D1),1905100000390,FC Magpies,1378,1378,53,53,45,45,49,44
+1905102000001,Gibraltar,Gibraltar Football League & Rock Cup — Gibraltar,1905103000029,Regular Season (GI D1),1905100000400,FC Hound Dogs,1349,1349,51,50,57,52,49,53
+1905102000001,Gibraltar,Gibraltar Football League & Rock Cup — Gibraltar,1905103000029,Regular Season (GI D1),1905100000397,Europa FC,1317,1317,50,51,56,49,50,55
+1905102000001,Gibraltar,Gibraltar Football League & Rock Cup — Gibraltar,1905103000029,Regular Season (GI D1),1905100000395,Europa Point FC,1284,1284,49,48,49,52,52,45
+1905102000001,Gibraltar,Gibraltar Football League & Rock Cup — Gibraltar,1905103000029,Regular Season (GI D1),1905100000398,College 1975 FC,1248,1248,47,46,51,49,49,43
+1905102000001,Gibraltar,Gibraltar Football League & Rock Cup — Gibraltar,1905103000029,Regular Season (GI D1),1905100000399,Lynx FC,1200,1200,44,44,50,49,49,47
+2026102410001,Switzerland,Brack Super League & Schweizer Cup — Switzerland,2026102430101,Brack Super League — Regular Season,2026102401007,FC Sion,2001,2001,81,79,48,54,49,58
+2026102410001,Switzerland,Brack Super League & Schweizer Cup — Switzerland,2026102430101,Brack Super League — Regular Season,2026102401011,BSC Young Boys,1974,1974,80,77,54,47,49,53
+2026102410001,Switzerland,Brack Super League & Schweizer Cup — Switzerland,2026102430101,Brack Super League — Regular Season,2026102401004,FC Lugano,1946,1946,77,77,48,46,49,48
+2026102410001,Switzerland,Brack Super League & Schweizer Cup — Switzerland,2026102430101,Brack Super League — Regular Season,2026102401006,Servette FC,1918,1918,75,75,52,53,49,50
+2026102410001,Switzerland,Brack Super League & Schweizer Cup — Switzerland,2026102430101,Brack Super League — Regular Season,2026102401012,FC Zürich,1890,1890,75,73,49,54,48,53
+2026102410001,Switzerland,Brack Super League & Schweizer Cup — Switzerland,2026102430101,Brack Super League — Regular Season,2026102401010,FC Vaduz,1860,1860,74,72,50,52,48,47
+2026102410001,Switzerland,Brack Super League & Schweizer Cup — Switzerland,2026102430101,Brack Super League — Regular Season,2026102401009,FC Thun,1830,1830,73,71,56,45,51,50
+2026102410001,Switzerland,Brack Super League & Schweizer Cup — Switzerland,2026102430101,Brack Super League — Regular Season,2026102401001,FC Basel 1893,1798,1798,71,70,48,52,50,49
+2026102410001,Switzerland,Brack Super League & Schweizer Cup — Switzerland,2026102430101,Brack Super League — Regular Season,2026102401003,FC Lausanne-Sport,1765,1765,67,68,53,49,47,46
+2026102410001,Switzerland,Brack Super League & Schweizer Cup — Switzerland,2026102430101,Brack Super League — Regular Season,2026102401002,Grasshopper Club Zürich,1730,1730,67,66,51,54,47,45
+2026102410001,Switzerland,Brack Super League & Schweizer Cup — Switzerland,2026102430101,Brack Super League — Regular Season,2026102401008,FC St.Gallen 1879,1691,1691,65,64,54,49,47,42
+2026102410001,Switzerland,Brack Super League & Schweizer Cup — Switzerland,2026102430101,Brack Super League — Regular Season,2026102401005,FC Luzern,1641,1641,63,62,43,55,52,47
+2026102410002,Austria,Österreichische Fußball-Bundesliga & ÖFB-Cup — Austria,2026102430201,Bundesliga — Regular Season (D1),2026102402010,SK Sturm Graz,1983,1983,79,80,50,49,53,54
+2026102410002,Austria,Österreichische Fußball-Bundesliga & ÖFB-Cup — Austria,2026102430201,Bundesliga — Regular Season (D1),2026102402006,SK Rapid Wien,1956,1956,79,77,54,48,48,48
+2026102410002,Austria,Österreichische Fußball-Bundesliga & ÖFB-Cup — Austria,2026102430201,Bundesliga — Regular Season (D1),2026102402002,FK Austria Wien,1928,1928,76,75,53,58,53,54
+2026102410002,Austria,Österreichische Fußball-Bundesliga & ÖFB-Cup — Austria,2026102430201,Bundesliga — Regular Season (D1),2026102402009,SV Ried,1900,1900,75,74,52,49,49,55
+2026102410002,Austria,Österreichische Fußball-Bundesliga & ÖFB-Cup — Austria,2026102430201,Bundesliga — Regular Season (D1),2026102402003,Grazer AK 1902,1872,1872,74,74,62,48,52,58
+2026102410002,Austria,Österreichische Fußball-Bundesliga & ÖFB-Cup — Austria,2026102430201,Bundesliga — Regular Season (D1),2026102402007,FC Red Bull Salzburg,1842,1842,73,73,53,45,51,50
+2026102410002,Austria,Österreichische Fußball-Bundesliga & ÖFB-Cup — Austria,2026102430201,Bundesliga — Regular Season (D1),2026102402005,LASK,1812,1812,72,70,52,51,48,56
+2026102410002,Austria,Österreichische Fußball-Bundesliga & ÖFB-Cup — Austria,2026102430201,Bundesliga — Regular Season (D1),2026102402012,WSG Tirol,1780,1780,70,70,56,49,47,57
+2026102410002,Austria,Österreichische Fußball-Bundesliga & ÖFB-Cup — Austria,2026102430201,Bundesliga — Regular Season (D1),2026102402011,Wolfsberger AC,1747,1747,68,68,57,47,51,55
+2026102410002,Austria,Österreichische Fußball-Bundesliga & ÖFB-Cup — Austria,2026102430201,Bundesliga — Regular Season (D1),2026102402001,SC Austria Lustenau,1712,1712,67,66,49,49,47,53
+2026102410002,Austria,Österreichische Fußball-Bundesliga & ÖFB-Cup — Austria,2026102430201,Bundesliga — Regular Season (D1),2026102402004,TSV Hartberg,1673,1673,65,64,47,51,50,47
+2026102410002,Austria,Österreichische Fußball-Bundesliga & ÖFB-Cup — Austria,2026102430201,Bundesliga — Regular Season (D1),2026102402008,SCR Altach,1623,1623,63,62,50,49,47,45
+2026102410003,San Marino,Campionato Sammarinese & Coppa Titano — San Marino,2026102430301,Campionato Sammarinese — Regular Season (D1),2026102403006,SS Folgore/Falciano,1424,1424,55,56,56,57,51,57
+2026102410003,San Marino,Campionato Sammarinese & Coppa Titano — San Marino,2026102430301,Campionato Sammarinese — Regular Season (D1),2026102403016,AC Virtus,1407,1407,52,54,54,55,52,53
+2026102410003,San Marino,Campionato Sammarinese & Coppa Titano — San Marino,2026102430301,Campionato Sammarinese — Regular Season (D1),2026102403015,SP Tre Penne,1389,1389,51,52,47,49,52,48
+2026102410003,San Marino,Campionato Sammarinese & Coppa Titano — San Marino,2026102430301,Campionato Sammarinese — Regular Season (D1),2026102403014,SP Tre Fiori,1371,1371,53,50,54,46,52,48
+2026102410003,San Marino,Campionato Sammarinese & Coppa Titano — San Marino,2026102430301,Campionato Sammarinese — Regular Season (D1),2026102403003,FC Domagnano,1353,1353,50,49,43,50,52,45
+2026102410003,San Marino,Campionato Sammarinese & Coppa Titano — San Marino,2026102430301,Campionato Sammarinese — Regular Season (D1),2026102403002,SS Cosmos,1335,1335,50,49,53,51,47,48
+2026102410003,San Marino,Campionato Sammarinese & Coppa Titano — San Marino,2026102430301,Campionato Sammarinese — Regular Season (D1),2026102403013,San Marino Academy,1316,1316,46,49,51,50,49,48
+2026102410003,San Marino,Campionato Sammarinese & Coppa Titano — San Marino,2026102430301,Campionato Sammarinese — Regular Season (D1),2026102403004,SC Faetano,1297,1297,47,47,48,50,52,54
+2026102410003,San Marino,Campionato Sammarinese & Coppa Titano — San Marino,2026102430301,Campionato Sammarinese — Regular Season (D1),2026102403011,SS Pennarossa,1278,1278,48,47,49,49,48,56
+2026102410003,San Marino,Campionato Sammarinese & Coppa Titano — San Marino,2026102430301,Campionato Sammarinese — Regular Season (D1),2026102403008,SP La Fiorita,1258,1258,46,48,56,50,53,53
+2026102410003,San Marino,Campionato Sammarinese & Coppa Titano — San Marino,2026102430301,Campionato Sammarinese — Regular Season (D1),2026102403001,SP Cailungo,1237,1237,45,46,53,53,48,53
+2026102410003,San Marino,Campionato Sammarinese & Coppa Titano — San Marino,2026102430301,Campionato Sammarinese — Regular Season (D1),2026102403009,AC Libertas,1216,1216,43,44,43,48,52,35
+2026102410003,San Marino,Campionato Sammarinese & Coppa Titano — San Marino,2026102430301,Campionato Sammarinese — Regular Season (D1),2026102403007,AC Juvenes/Dogana,1193,1193,43,43,47,53,48,50
+2026102410003,San Marino,Campionato Sammarinese & Coppa Titano — San Marino,2026102430301,Campionato Sammarinese — Regular Season (D1),2026102403005,FC Fiorentino,1169,1169,41,41,42,44,53,43
+2026102410003,San Marino,Campionato Sammarinese & Coppa Titano — San Marino,2026102430301,Campionato Sammarinese — Regular Season (D1),2026102403012,SS San Giovanni,1143,1143,41,40,49,48,47,48
+2026102410003,San Marino,Campionato Sammarinese & Coppa Titano — San Marino,2026102430301,Campionato Sammarinese — Regular Season (D1),2026102403010,SS Murata,1109,1109,38,39,43,49,53,44
+1906242020001,Wales,Novira Cymru Premier & Welsh Cup — Wales,1906242030000,Regular Season (D1),1906242000009,Connah’s Quay Nomads,1437,1437,55,54,37,48,64,52
+1906242020001,Wales,Novira Cymru Premier & Welsh Cup — Wales,1906242030000,Regular Season (D1),1906242000015,The New Saints,1420,1420,55,54,46,62,55,52
+1906242020001,Wales,Novira Cymru Premier & Welsh Cup — Wales,1906242030000,Regular Season (D1),1906242000014,Penybont,1402,1402,54,52,39,51,53,57
+1906242020001,Wales,Novira Cymru Premier & Welsh Cup — Wales,1906242030000,Regular Season (D1),1906242000005,Caernarfon Town,1384,1384,51,52,35,58,52,57
+1906242020001,Wales,Novira Cymru Premier & Welsh Cup — Wales,1906242030000,Regular Season (D1),1906242000008,Colwyn Bay,1366,1366,50,49,43,55,60,37
+1906242020001,Wales,Novira Cymru Premier & Welsh Cup — Wales,1906242030000,Regular Season (D1),1906242000003,Barry Town United,1348,1348,51,50,46,67,47,65
+1906242020001,Wales,Novira Cymru Premier & Welsh Cup — Wales,1906242030000,Regular Season (D1),1906242000001,Airbus UK Broughton,1329,1329,47,47,29,37,39,34
+1906242020001,Wales,Novira Cymru Premier & Welsh Cup — Wales,1906242030000,Regular Season (D1),1906242000007,Cardiff Metropolitan University,1310,1310,48,50,44,53,58,60
+1906242020001,Wales,Novira Cymru Premier & Welsh Cup — Wales,1906242030000,Regular Season (D1),1906242000006,Cambrian United,1291,1291,46,46,35,38,53,43
+1906242020001,Wales,Novira Cymru Premier & Welsh Cup — Wales,1906242030000,Regular Season (D1),1906242000004,Briton Ferry Llansawel,1271,1271,46,49,63,45,49,57
+1906242020001,Wales,Novira Cymru Premier & Welsh Cup — Wales,1906242030000,Regular Season (D1),1906242000011,Haverfordwest County,1250,1250,47,45,43,39,43,54
+1906242020001,Wales,Novira Cymru Premier & Welsh Cup — Wales,1906242030000,Regular Season (D1),1906242000013,Llandudno,1229,1229,44,45,29,38,47,44
+1906242020001,Wales,Novira Cymru Premier & Welsh Cup — Wales,1906242030000,Regular Season (D1),1906242000010,Flint Town United,1206,1206,42,42,45,61,40,55
+1906242020001,Wales,Novira Cymru Premier & Welsh Cup — Wales,1906242030000,Regular Season (D1),1906242000002,Ammanford,1182,1182,41,41,45,50,42,54
+1906242020001,Wales,Novira Cymru Premier & Welsh Cup — Wales,1906242030000,Regular Season (D1),1906242000016,Trefelin BGC,1156,1156,39,39,59,46,57,58
+1906242020001,Wales,Novira Cymru Premier & Welsh Cup — Wales,1906242030000,Regular Season (D1),1906242000012,Holywell Town,1122,1122,38,38,59,56,45,64
+1906242020002,Iceland,Besta deild karla & Bikarkeppni KSÍ — Mjólkurbikarinn — Iceland,1906242030100,Regular Season (D1),1906242000024,Valur,1736,1736,66,66,52,53,61,41
+1906242020002,Iceland,Besta deild karla & Bikarkeppni KSÍ — Mjólkurbikarinn — Iceland,1906242030100,Regular Season (D1),1906242000017,Víkingur Reykjavík,1712,1712,66,63,35,35,42,39
+1906242020002,Iceland,Besta deild karla & Bikarkeppni KSÍ — Mjólkurbikarinn — Iceland,1906242030100,Regular Season (D1),1906242000020,Breiðablik,1688,1688,66,64,56,43,49,58
+1906242020002,Iceland,Besta deild karla & Bikarkeppni KSÍ — Mjólkurbikarinn — Iceland,1906242030100,Regular Season (D1),1906242000021,ÍA,1664,1664,63,64,39,58,53,63
+1906242020002,Iceland,Besta deild karla & Bikarkeppni KSÍ — Mjólkurbikarinn — Iceland,1906242030100,Regular Season (D1),1906242000019,KR,1638,1638,64,60,38,61,46,54
+1906242020002,Iceland,Besta deild karla & Bikarkeppni KSÍ — Mjólkurbikarinn — Iceland,1906242030100,Regular Season (D1),1906242000023,Stjarnan,1613,1613,61,64,54,55,60,63
+1906242020002,Iceland,Besta deild karla & Bikarkeppni KSÍ — Mjólkurbikarinn — Iceland,1906242030100,Regular Season (D1),1906242000025,FH,1586,1586,60,58,36,50,64,57
+1906242020002,Iceland,Besta deild karla & Bikarkeppni KSÍ — Mjólkurbikarinn — Iceland,1906242030100,Regular Season (D1),1906242000018,Fram,1558,1558,58,56,37,46,43,55
+1906242020002,Iceland,Besta deild karla & Bikarkeppni KSÍ — Mjólkurbikarinn — Iceland,1906242030100,Regular Season (D1),1906242000027,KA,1530,1530,56,55,37,39,44,50
+1906242020002,Iceland,Besta deild karla & Bikarkeppni KSÍ — Mjólkurbikarinn — Iceland,1906242030100,Regular Season (D1),1906242000022,Keflavík,1499,1499,57,54,37,40,54,46
+1906242020002,Iceland,Besta deild karla & Bikarkeppni KSÍ — Mjólkurbikarinn — Iceland,1906242030100,Regular Season (D1),1906242000028,ÍBV,1465,1465,53,53,59,56,46,64
+1906242020002,Iceland,Besta deild karla & Bikarkeppni KSÍ — Mjólkurbikarinn — Iceland,1906242030100,Regular Season (D1),1906242000026,Þór Akureyri,1421,1421,51,51,45,61,40,55
+1906242020003,Faroe Islands,Betri Deildin menn & Løgmanssteypið — Faroe Islands,1906242030200,Regular Season (D1),1906242000031,HB Tórshavn,1606,1606,61,60,37,61,47,54
+1906242020003,Faroe Islands,Betri Deildin menn & Løgmanssteypið — Faroe Islands,1906242030200,Regular Season (D1),1906242000032,Víkingur Gøta,1577,1577,60,56,39,41,49,48
+1906242020003,Faroe Islands,Betri Deildin menn & Løgmanssteypið — Faroe Islands,1906242030200,Regular Season (D1),1906242000033,B36 Tórshavn,1547,1547,58,60,31,58,53,63
+1906242020003,Faroe Islands,Betri Deildin menn & Løgmanssteypið — Faroe Islands,1906242030200,Regular Season (D1),1906242000030,KÍ Klaksvík,1517,1517,57,56,31,40,42,45
+1906242020003,Faroe Islands,Betri Deildin menn & Løgmanssteypið — Faroe Islands,1906242030200,Regular Season (D1),1906242000029,NSÍ Runavík,1486,1486,57,54,32,27,40,39
+1906242020003,Faroe Islands,Betri Deildin menn & Løgmanssteypið — Faroe Islands,1906242030200,Regular Season (D1),1906242000035,Skála ÍF,1453,1453,53,56,47,63,61,60
+1906242020003,Faroe Islands,Betri Deildin menn & Løgmanssteypið — Faroe Islands,1906242030200,Regular Season (D1),1906242000034,EB/Streymur,1419,1419,53,51,33,46,54,45
+1906242020003,Faroe Islands,Betri Deildin menn & Løgmanssteypið — Faroe Islands,1906242030200,Regular Season (D1),1906242000038,B68 Toftir,1383,1383,49,52,35,57,40,54
+1906242020003,Faroe Islands,Betri Deildin menn & Løgmanssteypið — Faroe Islands,1906242030200,Regular Season (D1),1906242000036,AB Argir,1343,1343,47,47,59,55,60,45
+1906242020003,Faroe Islands,Betri Deildin menn & Løgmanssteypið — Faroe Islands,1906242030200,Regular Season (D1),1906242000037,07 Vestur,1291,1291,45,45,38,48,63,56
+1906242020004,Norway,Eliteserien & Norgesmesterskapet i fotball — Norway,1906242030300,Regular Season (D1),1906242000040,Viking FK,2055,2055,81,80,43,46,44,52
+1906242020004,Norway,Eliteserien & Norgesmesterskapet i fotball — Norway,1906242030300,Regular Season (D1),1906242000039,Bodø/Glimt,2035,2035,81,79,35,38,40,43
+1906242020004,Norway,Eliteserien & Norgesmesterskapet i fotball — Norway,1906242030300,Regular Season (D1),1906242000045,Brann,2015,2015,80,78,48,53,58,63
+1906242020004,Norway,Eliteserien & Norgesmesterskapet i fotball — Norway,1906242030300,Regular Season (D1),1906242000041,Molde,1995,1995,79,78,51,67,47,58
+1906242020004,Norway,Eliteserien & Norgesmesterskapet i fotball — Norway,1906242030300,Regular Season (D1),1906242000046,Vålerenga,1974,1974,79,77,62,55,61,52
+1906242020004,Norway,Eliteserien & Norgesmesterskapet i fotball — Norway,1906242030300,Regular Season (D1),1906242000043,Tromsø,1953,1953,75,76,35,58,53,56
+1906242020004,Norway,Eliteserien & Norgesmesterskapet i fotball — Norway,1906242030300,Regular Season (D1),1906242000042,Rosenborg,1932,1932,75,74,45,45,49,46
+1906242020004,Norway,Eliteserien & Norgesmesterskapet i fotball — Norway,1906242030300,Regular Season (D1),1906242000044,Lillestrøm,1910,1910,75,74,44,40,54,51
+1906242020004,Norway,Eliteserien & Norgesmesterskapet i fotball — Norway,1906242030300,Regular Season (D1),1906242000047,Fredrikstad,1888,1888,73,72,38,48,63,59
+1906242020004,Norway,Eliteserien & Norgesmesterskapet i fotball — Norway,1906242030300,Regular Season (D1),1906242000048,KFUM Oslo,1865,1865,71,73,41,63,42,56
+1906242020004,Norway,Eliteserien & Norgesmesterskapet i fotball — Norway,1906242030300,Regular Season (D1),1906242000049,Sarpsborg 08,1841,1841,72,70,46,39,41,49
+1906242020004,Norway,Eliteserien & Norgesmesterskapet i fotball — Norway,1906242030300,Regular Season (D1),1906242000050,HamKam,1817,1817,72,70,62,60,48,64
+1906242020004,Norway,Eliteserien & Norgesmesterskapet i fotball — Norway,1906242030300,Regular Season (D1),1906242000051,Sandefjord,1791,1791,68,69,38,38,49,46
+1906242020004,Norway,Eliteserien & Norgesmesterskapet i fotball — Norway,1906242030300,Regular Season (D1),1906242000053,Kristiansund,1764,1764,67,66,52,64,55,47
+1906242020004,Norway,Eliteserien & Norgesmesterskapet i fotball — Norway,1906242030300,Regular Season (D1),1906242000052,Aalesund,1734,1734,65,65,45,51,52,61
+1906242020004,Norway,Eliteserien & Norgesmesterskapet i fotball — Norway,1906242030300,Regular Season (D1),1906242000054,IK Start,1695,1695,63,63,59,46,58,58
+1884511000001,Greece,Super League Greece & Greek Cup — Greece,1884512000000,Regular Season (D1),1884510000001,Panathinaikos FC,2109,2109,86,84,50,43,51,54
+1884511000001,Greece,Super League Greece & Greek Cup — Greece,1884512000000,Regular Season (D1),1884510000003,PAOK FC,2086,2086,85,82,53,56,50,57
+1884511000001,Greece,Super League Greece & Greek Cup — Greece,1884512000000,Regular Season (D1),1884510000004,AEK Athens FC,2063,2063,84,83,49,49,50,52
+1884511000001,Greece,Super League Greece & Greek Cup — Greece,1884512000000,Regular Season (D1),1884510000002,Olympiacos FC,2039,2039,80,82,56,52,50,55
+1884511000001,Greece,Super League Greece & Greek Cup — Greece,1884512000000,Regular Season (D1),1884510000010,AE Kifisia FC,2015,2015,79,78,52,51,53,50
+1884511000001,Greece,Super League Greece & Greek Cup — Greece,1884512000000,Regular Season (D1),1884510000006,Kalamata FC,1991,1991,79,77,42,39,48,49
+1884511000001,Greece,Super League Greece & Greek Cup — Greece,1884512000000,Regular Season (D1),1884510000008,Iraklis FC,1966,1966,76,75,48,46,53,43
+1884511000001,Greece,Super League Greece & Greek Cup — Greece,1884512000000,Regular Season (D1),1884510000007,OFI Crete FC,1940,1940,77,75,46,48,50,54
+1884511000001,Greece,Super League Greece & Greek Cup — Greece,1884512000000,Regular Season (D1),1884510000011,Asteras Aktor FC,1913,1913,74,74,52,50,50,49
+1884511000001,Greece,Super League Greece & Greek Cup — Greece,1884512000000,Regular Season (D1),1884510000005,Aris Thessaloniki FC,1886,1886,75,73,55,46,49,50
+1884511000001,Greece,Super League Greece & Greek Cup — Greece,1884512000000,Regular Season (D1),1884510000012,Atromitos FC,1857,1857,73,73,56,56,47,52
+1884511000001,Greece,Super League Greece & Greek Cup — Greece,1884512000000,Regular Season (D1),1884510000009,Panetolikos FC,1827,1827,73,71,51,55,48,53
+1884511000001,Greece,Super League Greece & Greek Cup — Greece,1884512000000,Regular Season (D1),1884510000013,Levadiakos FC,1793,1793,69,69,60,53,49,56
+1884511000001,Greece,Super League Greece & Greek Cup — Greece,1884512000000,Regular Season (D1),1884510000014,Volos NFC,1749,1749,68,67,56,54,53,51
+1884511000002,Cyprus,Cyprus League & Cyprus Cup — Cyprus,1884512000100,Regular Season (D1),1884510000101,AEL Limassol,2019,2019,79,78,49,53,48,52
+1884511000002,Cyprus,Cyprus League & Cyprus Cup — Cyprus,1884512000100,Regular Season (D1),1884510000102,AEK Larnaca,1996,1996,78,78,53,53,52,51
+1884511000002,Cyprus,Cyprus League & Cyprus Cup — Cyprus,1884512000100,Regular Season (D1),1884510000103,Omonia Nicosia,1973,1973,78,77,51,50,49,51
+1884511000002,Cyprus,Cyprus League & Cyprus Cup — Cyprus,1884512000100,Regular Season (D1),1884510000104,Apollon Limassol,1949,1949,77,75,48,49,48,51
+1884511000002,Cyprus,Cyprus League & Cyprus Cup — Cyprus,1884512000100,Regular Season (D1),1884510000105,Pafos FC,1925,1925,74,75,50,53,52,51
+1884511000002,Cyprus,Cyprus League & Cyprus Cup — Cyprus,1884512000100,Regular Season (D1),1884510000106,Aris Limassol,1901,1901,73,73,47,50,53,50
+1884511000002,Cyprus,Cyprus League & Cyprus Cup — Cyprus,1884512000100,Regular Season (D1),1884510000107,APOEL Nicosia,1876,1876,73,72,51,50,52,50
+1884511000002,Cyprus,Cyprus League & Cyprus Cup — Cyprus,1884512000100,Regular Season (D1),1884510000108,ALS Omonia 29M,1850,1850,72,71,52,48,52,50
+1884511000002,Cyprus,Cyprus League & Cyprus Cup — Cyprus,1884512000100,Regular Season (D1),1884510000109,Omonia Aradippou,1823,1823,69,70,50,53,47,49
+1884511000002,Cyprus,Cyprus League & Cyprus Cup — Cyprus,1884512000100,Regular Season (D1),1884510000110,Olympiakos Nicosia,1796,1796,69,67,50,50,49,49
+1884511000002,Cyprus,Cyprus League & Cyprus Cup — Cyprus,1884512000100,Regular Season (D1),1884510000111,Nea Salamina,1767,1767,68,65,49,49,47,49
+1884511000002,Cyprus,Cyprus League & Cyprus Cup — Cyprus,1884512000100,Regular Season (D1),1884510000114,Karmiotissa Polemidion,1737,1737,65,65,47,49,53,49
+1884511000002,Cyprus,Cyprus League & Cyprus Cup — Cyprus,1884512000100,Regular Season (D1),1884510000112,Krasava ENY Ypsonas,1703,1703,64,63,53,49,50,49
+1884511000002,Cyprus,Cyprus League & Cyprus Cup — Cyprus,1884512000100,Regular Season (D1),1884510000113,Anorthosis Famagusta,1659,1659,62,61,49,51,52,49
+1884511000003,Malta,Malta Premier League & FA Trophy — Malta,1884512000200,Opening Round (D1),1884510000201,Valletta FC,1528,1528,59,58,52,48,47,52
+1884511000003,Malta,Malta Premier League & FA Trophy — Malta,1884512000200,Opening Round (D1),1884510000202,Marsaxlokk FC,1504,1504,57,56,53,50,51,51
+1884511000003,Malta,Malta Premier League & FA Trophy — Malta,1884512000200,Opening Round (D1),1884510000203,Floriana FC,1480,1480,57,55,49,48,50,51
+1884511000003,Malta,Malta Premier League & FA Trophy — Malta,1884512000200,Opening Round (D1),1884510000204,Mosta FC,1456,1456,54,54,48,53,52,50
+1884511000003,Malta,Malta Premier League & FA Trophy — Malta,1884512000200,Opening Round (D1),1884510000205,Ħamrun Spartans,1430,1430,53,53,48,53,47,50
+1884511000003,Malta,Malta Premier League & FA Trophy — Malta,1884512000200,Opening Round (D1),1884510000206,Sliema Wanderers,1405,1405,52,52,47,49,47,50
+1884511000003,Malta,Malta Premier League & FA Trophy — Malta,1884512000200,Opening Round (D1),1884510000207,Balzan FC,1378,1378,51,51,47,48,50,50
+1884511000003,Malta,Malta Premier League & FA Trophy — Malta,1884512000200,Opening Round (D1),1884510000208,Birkirkara FC,1350,1350,49,50,51,48,49,50
+1884511000003,Malta,Malta Premier League & FA Trophy — Malta,1884512000200,Opening Round (D1),1884510000209,Hibernians FC,1322,1322,48,48,50,53,49,50
+1884511000003,Malta,Malta Premier League & FA Trophy — Malta,1884512000200,Opening Round (D1),1884510000210,Żabbar St Patrick FC,1291,1291,47,47,49,47,49,49
+1884511000003,Malta,Malta Premier League & FA Trophy — Malta,1884512000200,Opening Round (D1),1884510000211,Gżira United,1257,1257,44,44,49,47,47,49
+1884511000003,Malta,Malta Premier League & FA Trophy — Malta,1884512000200,Opening Round (D1),1884510000212,Birżebbuġa St Peter’s,1213,1213,42,42,53,49,48,48
+1884511000004,Israel,Ligat HaAl & Israel State Cup — Israel,1884512000300,Regular Season (D1),1884510000301,Maccabi Haifa,1839,1839,74,72,52,47,49,52
+1884511000004,Israel,Ligat HaAl & Israel State Cup — Israel,1884512000300,Regular Season (D1),1884510000302,Maccabi Tel Aviv,1819,1819,73,72,52,50,53,52
+1884511000004,Israel,Ligat HaAl & Israel State Cup — Israel,1884512000300,Regular Season (D1),1884510000303,Hapoel Tel Aviv,1799,1799,72,71,48,52,53,51
+1884511000004,Israel,Ligat HaAl & Israel State Cup — Israel,1884512000300,Regular Season (D1),1884510000304,Hapoel Be’er Sheva,1778,1778,70,70,47,51,47,51
+1884511000004,Israel,Ligat HaAl & Israel State Cup — Israel,1884512000300,Regular Season (D1),1884510000305,Beitar Jerusalem,1757,1757,69,68,49,53,52,51
+1884511000004,Israel,Ligat HaAl & Israel State Cup — Israel,1884512000300,Regular Season (D1),1884510000306,Maccabi Netanya,1736,1736,67,67,51,49,50,50
+1884511000004,Israel,Ligat HaAl & Israel State Cup — Israel,1884512000300,Regular Season (D1),1884510000307,Hapoel Haifa,1714,1714,66,66,48,53,53,50
+1884511000004,Israel,Ligat HaAl & Israel State Cup — Israel,1884512000300,Regular Season (D1),1884510000308,Bnei Sakhnin,1691,1691,64,66,47,47,49,50
+1884511000004,Israel,Ligat HaAl & Israel State Cup — Israel,1884512000300,Regular Season (D1),1884510000309,Hapoel Jerusalem,1668,1668,65,62,53,52,49,49
+1884511000004,Israel,Ligat HaAl & Israel State Cup — Israel,1884512000300,Regular Season (D1),1884510000310,Maccabi Petah Tikva,1644,1644,63,62,49,52,48,49
+1884511000004,Israel,Ligat HaAl & Israel State Cup — Israel,1884512000300,Regular Season (D1),1884510000311,Hapoel Ramat Gan,1619,1619,62,61,49,53,52,49
+1884511000004,Israel,Ligat HaAl & Israel State Cup — Israel,1884512000300,Regular Season (D1),1884510000312,Hapoel Petah Tikva,1592,1592,60,60,48,48,53,49
+1884511000004,Israel,Ligat HaAl & Israel State Cup — Israel,1884512000300,Regular Season (D1),1884510000313,Hapoel Ironi Kiryat Shmona,1562,1562,59,58,52,48,53,48
+1884511000004,Israel,Ligat HaAl & Israel State Cup — Israel,1884512000300,Regular Season (D1),1884510000314,Ironi Tiberias,1524,1524,58,57,52,53,53,48
+1942600100000,Slovenia,PrvaLiga & Pokal Pivovarna Union — Slovenia,1942600400000,PrvaLiga (D1),1942600200004,NK Maribor,1821,1821,72,73,50,47,50,51
+1942600100000,Slovenia,PrvaLiga & Pokal Pivovarna Union — Slovenia,1942600400000,PrvaLiga (D1),1942600200001,FC Koper,1792,1792,71,71,50,48,52,51
+1942600100000,Slovenia,PrvaLiga & Pokal Pivovarna Union — Slovenia,1942600400000,PrvaLiga (D1),1942600200002,NK Bravo,1762,1762,69,70,53,52,47,50
+1942600100000,Slovenia,PrvaLiga & Pokal Pivovarna Union — Slovenia,1942600400000,PrvaLiga (D1),1942600200003,NK Olimpija Ljubljana,1732,1732,68,69,50,48,53,50
+1942600100000,Slovenia,PrvaLiga & Pokal Pivovarna Union — Slovenia,1942600400000,PrvaLiga (D1),1942600200009,NK Nafta 1903,1701,1701,67,67,53,50,47,50
+1942600100000,Slovenia,PrvaLiga & Pokal Pivovarna Union — Slovenia,1942600400000,PrvaLiga (D1),1942600200000,NK Celje,1668,1668,65,66,52,53,50,50
+1942600100000,Slovenia,PrvaLiga & Pokal Pivovarna Union — Slovenia,1942600400000,PrvaLiga (D1),1942600200006,NK Aluminij Kidričevo,1634,1634,64,64,48,47,52,50
+1942600100000,Slovenia,PrvaLiga & Pokal Pivovarna Union — Slovenia,1942600400000,PrvaLiga (D1),1942600200008,NK Brinje Grosuplje,1598,1598,62,61,49,52,50,49
+1942600100000,Slovenia,PrvaLiga & Pokal Pivovarna Union — Slovenia,1942600400000,PrvaLiga (D1),1942600200007,NŠ Mura,1558,1558,61,60,49,48,53,49
+1942600100000,Slovenia,PrvaLiga & Pokal Pivovarna Union — Slovenia,1942600400000,PrvaLiga (D1),1942600200005,NK Radomlje,1506,1506,59,58,48,52,51,49
+1942600100001,Croatia,Hrvatska nogometna liga & Hrvatski nogometni kup — Croatia,1942600400010,Hrvatska nogometna liga (D1),1942600200102,HNK Hajduk Split,1947,1947,78,78,50,53,47,51
+1942600100001,Croatia,Hrvatska nogometna liga & Hrvatski nogometni kup — Croatia,1942600400010,Hrvatska nogometna liga (D1),1942600200100,GNK Dinamo Zagreb,1918,1918,77,76,49,49,53,51
+1942600100001,Croatia,Hrvatska nogometna liga & Hrvatski nogometni kup — Croatia,1942600400010,Hrvatska nogometna liga (D1),1942600200106,HNK Rijeka,1888,1888,75,75,53,52,51,51
+1942600100001,Croatia,Hrvatska nogometna liga & Hrvatski nogometni kup — Croatia,1942600400010,Hrvatska nogometna liga (D1),1942600200109,NK Varaždin,1858,1858,74,74,49,52,48,51
+1942600100001,Croatia,Hrvatska nogometna liga & Hrvatski nogometni kup — Croatia,1942600400010,Hrvatska nogometna liga (D1),1942600200105,NK Osijek,1827,1827,73,72,49,49,53,50
+1942600100001,Croatia,Hrvatska nogometna liga & Hrvatski nogometni kup — Croatia,1942600400010,Hrvatska nogometna liga (D1),1942600200103,NK Istra 1961,1794,1794,71,71,50,53,49,50
+1942600100001,Croatia,Hrvatska nogometna liga & Hrvatski nogometni kup — Croatia,1942600400010,Hrvatska nogometna liga (D1),1942600200104,NK Lokomotiva Zagreb,1760,1760,70,70,53,49,49,49
+1942600100001,Croatia,Hrvatska nogometna liga & Hrvatski nogometni kup — Croatia,1942600400010,Hrvatska nogometna liga (D1),1942600200108,NK Slaven Belupo,1724,1724,68,68,52,52,49,49
+1942600100001,Croatia,Hrvatska nogometna liga & Hrvatski nogometni kup — Croatia,1942600400010,Hrvatska nogometna liga (D1),1942600200101,HNK Gorica,1684,1684,66,66,51,48,47,49
+1942600100001,Croatia,Hrvatska nogometna liga & Hrvatski nogometni kup — Croatia,1942600400010,Hrvatska nogometna liga (D1),1942600200107,NK Rudeš,1632,1632,65,64,50,50,53,49
+1942600100002,Montenegro,Prva crnogorska fudbalska liga & Kup Crne Gore — Montenegro,1942600400020,Prva crnogorska fudbalska liga (D1),1942600200208,FK Otrant-Olympic,1450,1450,57,56,52,52,53,51
+1942600100002,Montenegro,Prva crnogorska fudbalska liga & Kup Crne Gore — Montenegro,1942600400020,Prva crnogorska fudbalska liga (D1),1942600200201,FK Sutjeska Nikšić,1421,1421,55,56,49,53,50,50
+1942600100002,Montenegro,Prva crnogorska fudbalska liga & Kup Crne Gore — Montenegro,1942600400020,Prva crnogorska fudbalska liga (D1),1942600200205,FK Mornar Bar,1391,1391,54,54,53,53,52,50
+1942600100002,Montenegro,Prva crnogorska fudbalska liga & Kup Crne Gore — Montenegro,1942600400020,Prva crnogorska fudbalska liga (D1),1942600200200,FK Budućnost Podgorica,1361,1361,53,53,53,49,53,50
+1942600100002,Montenegro,Prva crnogorska fudbalska liga & Kup Crne Gore — Montenegro,1942600400020,Prva crnogorska fudbalska liga (D1),1942600200202,FK Dečić Tuzi,1330,1330,51,52,50,47,47,50
+1942600100002,Montenegro,Prva crnogorska fudbalska liga & Kup Crne Gore — Montenegro,1942600400020,Prva crnogorska fudbalska liga (D1),1942600200204,FK Bokelj Kotor,1297,1297,50,51,47,52,51,50
+1942600100002,Montenegro,Prva crnogorska fudbalska liga & Kup Crne Gore — Montenegro,1942600400020,Prva crnogorska fudbalska liga (D1),1942600200207,FK Jezero Plav,1263,1263,48,48,53,50,50,49
+1942600100002,Montenegro,Prva crnogorska fudbalska liga & Kup Crne Gore — Montenegro,1942600400020,Prva crnogorska fudbalska liga (D1),1942600200209,OFK Mladost Donja Gorica,1227,1227,47,46,51,51,53,49
+1942600100002,Montenegro,Prva crnogorska fudbalska liga & Kup Crne Gore — Montenegro,1942600400020,Prva crnogorska fudbalska liga (D1),1942600200203,OFK Petrovac,1187,1187,45,46,53,47,50,49
+1942600100002,Montenegro,Prva crnogorska fudbalska liga & Kup Crne Gore — Montenegro,1942600400020,Prva crnogorska fudbalska liga (D1),1942600200206,FK Arsenal Tivat,1135,1135,43,43,50,50,50,49
+1942600100003,Albania,Kategoria Superiore & Kupa e Shqipërisë — Albania,1942600400030,Regular Season (D1),1942600200307,KF Teuta,1593,1593,63,63,49,50,48,52
+1942600100003,Albania,Kategoria Superiore & Kupa e Shqipërisë — Albania,1942600400030,Regular Season (D1),1942600200300,KF Egnatia,1564,1564,62,62,51,47,48,52
+1942600100003,Albania,Kategoria Superiore & Kupa e Shqipërisë — Albania,1942600400030,Regular Season (D1),1942600200303,FC Dinamo City,1534,1534,60,60,49,48,53,50
+1942600100003,Albania,Kategoria Superiore & Kupa e Shqipërisë — Albania,1942600400030,Regular Season (D1),1942600200305,KF Tirana,1504,1504,59,59,48,48,53,50
+1942600100003,Albania,Kategoria Superiore & Kupa e Shqipërisë — Albania,1942600400030,Regular Season (D1),1942600200306,FK Vora,1473,1473,58,57,49,53,53,50
+1942600100003,Albania,Kategoria Superiore & Kupa e Shqipërisë — Albania,1942600400030,Regular Season (D1),1942600200301,AF Elbasani,1440,1440,56,56,50,51,50,49
+1942600100003,Albania,Kategoria Superiore & Kupa e Shqipërisë — Albania,1942600400030,Regular Season (D1),1942600200309,KF Laçi,1406,1406,55,55,47,47,49,49
+1942600100003,Albania,Kategoria Superiore & Kupa e Shqipërisë — Albania,1942600400030,Regular Season (D1),1942600200308,KF Skënderbeu,1370,1370,53,53,51,48,49,49
+1942600100003,Albania,Kategoria Superiore & Kupa e Shqipërisë — Albania,1942600400030,Regular Season (D1),1942600200302,KF Vllaznia,1330,1330,52,52,52,47,52,49
+1942600100003,Albania,Kategoria Superiore & Kupa e Shqipërisë — Albania,1942600400030,Regular Season (D1),1942600200304,FK Partizani,1278,1278,50,49,48,51,47,49
+1971261000001,Czechia,Chance Liga (D1-D3) & MOL Cup — Czechia,1971263000001,Chance Liga (D1),1971262000001,SK Slavia Praha,2091,2091,87,85,53,47,51,52
+1971261000001,Czechia,Chance Liga (D1-D3) & MOL Cup — Czechia,1971263000001,Chance Liga (D1),1971262000002,AC Sparta Praha,2071,2071,85,85,48,50,53,51
+1971261000001,Czechia,Chance Liga (D1-D3) & MOL Cup — Czechia,1971263000001,Chance Liga (D1),1971262000003,FC Viktoria Plzeň,2051,2051,84,83,50,50,49,49
+1971261000001,Czechia,Chance Liga (D1-D3) & MOL Cup — Czechia,1971263000001,Chance Liga (D1),1971262000007,SK Sigma Olomouc,2031,2031,82,81,47,52,51,50
+1971261000001,Czechia,Chance Liga (D1-D3) & MOL Cup — Czechia,1971263000001,Chance Liga (D1),1971262000006,FC Slovan Liberec,2010,2010,82,80,53,51,52,50
+1971261000001,Czechia,Chance Liga (D1-D3) & MOL Cup — Czechia,1971263000001,Chance Liga (D1),1971262000005,FK Jablonec,1989,1989,80,81,48,52,47,48
+1971261000001,Czechia,Chance Liga (D1-D3) & MOL Cup — Czechia,1971263000001,Chance Liga (D1),1971262000011,FK Mladá Boleslav,1968,1968,80,80,52,52,51,51
+1971261000001,Czechia,Chance Liga (D1-D3) & MOL Cup — Czechia,1971263000001,Chance Liga (D1),1971262000016,FC Zbrojovka Brno,1946,1946,79,78,50,49,47,50
+1971261000001,Czechia,Chance Liga (D1-D3) & MOL Cup — Czechia,1971263000001,Chance Liga (D1),1971262000004,FC Hradec Králové,1924,1924,77,77,53,51,47,47
+1971261000001,Czechia,Chance Liga (D1-D3) & MOL Cup — Czechia,1971263000001,Chance Liga (D1),1971262000010,FK Teplice,1901,1901,76,76,48,53,47,49
+1971261000001,Czechia,Chance Liga (D1-D3) & MOL Cup — Czechia,1971263000001,Chance Liga (D1),1971262000013,FC Baník Ostrava,1877,1877,74,75,49,51,52,47
+1971261000001,Czechia,Chance Liga (D1-D3) & MOL Cup — Czechia,1971263000001,Chance Liga (D1),1971262000009,Bohemians Praha 1905,1853,1853,74,74,53,52,52,50
+1971261000001,Czechia,Chance Liga (D1-D3) & MOL Cup — Czechia,1971263000001,Chance Liga (D1),1971262000014,FK Pardubice,1827,1827,73,73,47,50,51,49
+1971261000001,Czechia,Chance Liga (D1-D3) & MOL Cup — Czechia,1971263000001,Chance Liga (D1),1971262000012,1. FC Slovácko,1800,1800,71,71,53,50,49,47
+1971261000001,Czechia,Chance Liga (D1-D3) & MOL Cup — Czechia,1971263000001,Chance Liga (D1),1971262000008,SK Artis Brno,1770,1770,69,71,51,51,47,48
+1971261000001,Czechia,Chance Liga (D1-D3) & MOL Cup — Czechia,1971263000001,Chance Liga (D1),1971262000015,FC Zlín,1731,1731,67,68,48,50,49,47
+1971261000002,Slovakia,Niké liga & Slovnaft Cup — Slovakia,1971263000011,Niké liga (D1),1971262000102,FC DAC 1904 Dunajská Streda,1803,1803,75,73,48,50,47,51
+1971261000002,Slovakia,Niké liga & Slovnaft Cup — Slovakia,1971263000011,Niké liga (D1),1971262000101,ŠK Slovan Bratislava,1779,1779,73,72,49,48,53,49
+1971261000002,Slovakia,Niké liga & Slovnaft Cup — Slovakia,1971263000011,Niké liga (D1),1971262000103,FC Spartak Trnava,1755,1755,71,71,49,50,53,49
+1971261000002,Slovakia,Niké liga & Slovnaft Cup — Slovakia,1971263000011,Niké liga (D1),1971262000104,MŠK Žilina,1731,1731,70,70,50,50,51,50
+1971261000002,Slovakia,Niké liga & Slovnaft Cup — Slovakia,1971263000011,Niké liga (D1),1971262000106,FK Železiarne Podbrezová,1705,1705,69,68,49,47,49,50
+1971261000002,Slovakia,Niké liga & Slovnaft Cup — Slovakia,1971263000011,Niké liga (D1),1971262000107,FC Košice,1680,1680,67,68,49,49,48,50
+1971261000002,Slovakia,Niké liga & Slovnaft Cup — Slovakia,1971263000011,Niké liga (D1),1971262000105,MFK Zemplín Michalovce,1653,1653,66,67,47,51,48,50
+1971261000002,Slovakia,Niké liga & Slovnaft Cup — Slovakia,1971263000011,Niké liga (D1),1971262000108,AS Trenčín,1625,1625,64,64,47,47,47,49
+1971261000002,Slovakia,Niké liga & Slovnaft Cup — Slovakia,1971263000011,Niké liga (D1),1971262000110,MFK Ružomberok,1597,1597,62,63,53,48,48,48
+1971261000002,Slovakia,Niké liga & Slovnaft Cup — Slovakia,1971263000011,Niké liga (D1),1971262000112,MFK Dukla Banská Bystrica,1566,1566,61,62,53,52,47,49
+1971261000002,Slovakia,Niké liga & Slovnaft Cup — Slovakia,1971263000011,Niké liga (D1),1971262000109,MFK Skalica,1532,1532,59,61,53,53,49,49
+1971261000002,Slovakia,Niké liga & Slovnaft Cup — Slovakia,1971263000011,Niké liga (D1),1971262000111,KFC Komárno,1488,1488,58,58,50,50,51,48
+1971261000003,Hungary,OTP Bank Liga & MOL Magyar Kupa — Hungary,1971263000021,OTP Bank Liga (D1),1971262000203,Ferencvárosi TC,1965,1965,81,80,51,49,49,49
+1971261000003,Hungary,OTP Bank Liga & MOL Magyar Kupa — Hungary,1971263000021,OTP Bank Liga (D1),1971262000202,ETO FC Győr,1938,1938,79,79,48,53,50,51
+1971261000003,Hungary,OTP Bank Liga & MOL Magyar Kupa — Hungary,1971263000021,OTP Bank Liga (D1),1971262000209,Puskás Akadémia FC,1910,1910,78,77,48,52,50,49
+1971261000003,Hungary,OTP Bank Liga & MOL Magyar Kupa — Hungary,1971263000021,OTP Bank Liga (D1),1971262000208,Paksi FC,1882,1882,75,75,47,48,48,49
+1971261000003,Hungary,OTP Bank Liga & MOL Magyar Kupa — Hungary,1971263000021,OTP Bank Liga (D1),1971262000201,Debreceni VSC (DVSC),1854,1854,74,74,52,53,49,51
+1971261000003,Hungary,OTP Bank Liga & MOL Magyar Kupa — Hungary,1971263000021,OTP Bank Liga (D1),1971262000210,Újpest FC,1824,1824,73,73,53,47,48,51
+1971261000003,Hungary,OTP Bank Liga & MOL Magyar Kupa — Hungary,1971263000021,OTP Bank Liga (D1),1971262000206,MTK Budapest,1794,1794,72,71,48,47,49,48
+1971261000003,Hungary,OTP Bank Liga & MOL Magyar Kupa — Hungary,1971263000021,OTP Bank Liga (D1),1971262000211,Vasas FC,1762,1762,70,70,51,51,50,48
+1971261000003,Hungary,OTP Bank Liga & MOL Magyar Kupa — Hungary,1971263000021,OTP Bank Liga (D1),1971262000205,Kisvárda Master Good,1729,1729,68,69,51,52,47,47
+1971261000003,Hungary,OTP Bank Liga & MOL Magyar Kupa — Hungary,1971263000021,OTP Bank Liga (D1),1971262000212,ZTE FC (Zalaegerszeg),1694,1694,66,67,47,53,48,47
+1971261000003,Hungary,OTP Bank Liga & MOL Magyar Kupa — Hungary,1971263000021,OTP Bank Liga (D1),1971262000204,Kispest-Honvéd FC,1655,1655,66,66,48,50,53,47
+1971261000003,Hungary,OTP Bank Liga & MOL Magyar Kupa — Hungary,1971263000021,OTP Bank Liga (D1),1971262000207,Nyíregyháza Spartacus FC,1605,1605,63,64,53,53,47,48
+1910262600000,Denmark,3F Superliga & DBU Pokalen — Denmark,1910262600901,Regular Season (D1),1910262601004,F.C. København,2037,2037,80,81,47,52,50,50
+1910262600000,Denmark,3F Superliga & DBU Pokalen — Denmark,1910262600901,Regular Season (D1),1910262601005,FC Midtjylland,2010,2010,79,79,51,52,47,50
+1910262600000,Denmark,3F Superliga & DBU Pokalen — Denmark,1910262600901,Regular Season (D1),1910262601003,Brøndby IF,1982,1982,78,78,52,47,50,50
+1910262600000,Denmark,3F Superliga & DBU Pokalen — Denmark,1910262600901,Regular Season (D1),1910262601002,AGF,1954,1954,77,77,49,49,49,50
+1910262600000,Denmark,3F Superliga & DBU Pokalen — Denmark,1910262600901,Regular Season (D1),1910262601006,FC Nordsjælland,1926,1926,76,76,49,53,47,50
+1910262600000,Denmark,3F Superliga & DBU Pokalen — Denmark,1910262600901,Regular Season (D1),1910262601012,Viborg FF,1896,1896,75,74,48,52,47,50
+1910262600000,Denmark,3F Superliga & DBU Pokalen — Denmark,1910262600901,Regular Season (D1),1910262601010,Silkeborg IF,1866,1866,73,73,47,49,50,50
+1910262600000,Denmark,3F Superliga & DBU Pokalen — Denmark,1910262600901,Regular Season (D1),1910262601008,OB,1834,1834,72,72,51,53,49,50
+1910262600000,Denmark,3F Superliga & DBU Pokalen — Denmark,1910262600901,Regular Season (D1),1910262601011,Sønderjyske Fodbold,1801,1801,70,70,51,52,47,50
+1910262600000,Denmark,3F Superliga & DBU Pokalen — Denmark,1910262600901,Regular Season (D1),1910262601009,Randers FC,1766,1766,69,69,50,50,47,50
+1910262600000,Denmark,3F Superliga & DBU Pokalen — Denmark,1910262600901,Regular Season (D1),1910262601001,AC Horsens,1727,1727,67,67,47,50,49,50
+1910262600000,Denmark,3F Superliga & DBU Pokalen — Denmark,1910262600901,Regular Season (D1),1910262601007,Lyngby BK,1677,1677,65,65,53,50,52,50
+1911262600000,Sweden,Allsvenskan & Svenska Cupen — Sweden,1911262600901,Allsvenskan (D1),1911262601013,Malmö FF,1929,1929,77,76,50,52,50,50
+1911262600000,Sweden,Allsvenskan & Svenska Cupen — Sweden,1911262600901,Allsvenskan (D1),1911262601007,Hammarby IF,1912,1912,76,76,47,48,51,51
+1911262600000,Sweden,Allsvenskan & Svenska Cupen — Sweden,1911262600901,Allsvenskan (D1),1911262601004,Djurgårdens IF,1894,1894,75,75,52,47,51,51
+1911262600000,Sweden,Allsvenskan & Svenska Cupen — Sweden,1911262600901,Allsvenskan (D1),1911262601011,IK Sirius,1876,1876,75,74,51,52,51,52
+1911262600000,Sweden,Allsvenskan & Svenska Cupen — Sweden,1911262600901,Allsvenskan (D1),1911262601002,BK Häcken,1858,1858,73,74,47,53,47,51
+1911262600000,Sweden,Allsvenskan & Svenska Cupen — Sweden,1911262600901,Allsvenskan (D1),1911262601001,AIK,1840,1840,73,72,50,49,47,50
+1911262600000,Sweden,Allsvenskan & Svenska Cupen — Sweden,1911262600901,Allsvenskan (D1),1911262601009,IF Elfsborg,1821,1821,72,72,50,49,51,51
+1911262600000,Sweden,Allsvenskan & Svenska Cupen — Sweden,1911262600901,Allsvenskan (D1),1911262601014,Mjällby AIF,1802,1802,71,70,47,49,51,48
+1911262600000,Sweden,Allsvenskan & Svenska Cupen — Sweden,1911262600901,Allsvenskan (D1),1911262601010,IFK Göteborg,1783,1783,71,70,49,52,50,50
+1911262600000,Sweden,Allsvenskan & Svenska Cupen — Sweden,1911262600901,Allsvenskan (D1),1911262601005,GAIS,1763,1763,69,70,53,48,52,49
+1911262600000,Sweden,Allsvenskan & Svenska Cupen — Sweden,1911262600901,Allsvenskan (D1),1911262601015,Västerås SK,1742,1742,68,68,48,52,47,50
+1911262600000,Sweden,Allsvenskan & Svenska Cupen — Sweden,1911262600901,Allsvenskan (D1),1911262601008,IF Brommapojkarna,1721,1721,68,67,47,48,52,50
+1911262600000,Sweden,Allsvenskan & Svenska Cupen — Sweden,1911262600901,Allsvenskan (D1),1911262601012,Kalmar FF,1698,1698,66,66,49,48,53,48
+1911262600000,Sweden,Allsvenskan & Svenska Cupen — Sweden,1911262600901,Allsvenskan (D1),1911262601003,Degerfors IF,1674,1674,65,65,51,51,52,48
+1911262600000,Sweden,Allsvenskan & Svenska Cupen — Sweden,1911262600901,Allsvenskan (D1),1911262601016,Örgryte IS,1648,1648,65,63,50,48,48,48
+1911262600000,Sweden,Allsvenskan & Svenska Cupen — Sweden,1911262600901,Allsvenskan (D1),1911262601006,Halmstads BK,1614,1614,63,62,47,52,52,48
+1912262600000,Finland,Veikkausliiga & Suomen Cup — Finland,1912262600901,Regular Season (D1),1912262601009,KuPS,1658,1658,65,65,49,48,52,50
+1912262600000,Finland,Veikkausliiga & Suomen Cup — Finland,1912262600901,Regular Season (D1),1912262601005,HJK,1634,1634,64,64,50,50,49,50
+1912262600000,Finland,Veikkausliiga & Suomen Cup — Finland,1912262600901,Regular Season (D1),1912262601002,FC Inter Turku,1610,1610,63,63,47,47,53,50
+1912262600000,Finland,Veikkausliiga & Suomen Cup — Finland,1912262600901,Regular Season (D1),1912262601008,Ilves,1586,1586,62,62,49,47,52,50
+1912262600000,Finland,Veikkausliiga & Suomen Cup — Finland,1912262600901,Regular Season (D1),1912262601006,IF Gnistan,1560,1560,61,61,49,53,49,50
+1912262600000,Finland,Veikkausliiga & Suomen Cup — Finland,1912262600901,Regular Season (D1),1912262601012,VPS,1535,1535,60,60,48,52,49,50
+1912262600000,Finland,Veikkausliiga & Suomen Cup — Finland,1912262600901,Regular Season (D1),1912262601010,SJK,1508,1508,59,58,52,50,52,50
+1912262600000,Finland,Veikkausliiga & Suomen Cup — Finland,1912262600901,Regular Season (D1),1912262601001,AC Oulu,1480,1480,57,57,51,51,51,50
+1912262600000,Finland,Veikkausliiga & Suomen Cup — Finland,1912262600901,Regular Season (D1),1912262601003,FC Lahti,1452,1452,56,56,49,51,48,50
+1912262600000,Finland,Veikkausliiga & Suomen Cup — Finland,1912262600901,Regular Season (D1),1912262601011,TPS,1421,1421,55,55,48,53,48,50
+1912262600000,Finland,Veikkausliiga & Suomen Cup — Finland,1912262600901,Regular Season (D1),1912262601004,FF Jaro,1387,1387,53,53,50,50,49,50
+1912262600000,Finland,Veikkausliiga & Suomen Cup — Finland,1912262600901,Regular Season (D1),1912262601007,IFK Mariehamn,1343,1343,51,51,53,47,49,50
+1897600000001,Estonia,Premium liiga & Eesti karikavõistlused — Estonia,1897600100001,Premium liiga (D1),1897600001001,FCI Levadia Tallinn,1502,1502,61,59,52,49,49,51
+1897600000001,Estonia,Premium liiga & Eesti karikavõistlused — Estonia,1897600100001,Premium liiga (D1),1897600001003,Paide Linnameeskond,1473,1473,58,58,48,52,49,50
+1897600000001,Estonia,Premium liiga & Eesti karikavõistlused — Estonia,1897600100001,Premium liiga (D1),1897600001004,Nõmme Kalju FC,1443,1443,56,56,52,53,49,50
+1897600000001,Estonia,Premium liiga & Eesti karikavõistlused — Estonia,1897600100001,Premium liiga (D1),1897600001002,FC Flora Tallinn,1413,1413,55,54,53,51,53,50
+1897600000001,Estonia,Premium liiga & Eesti karikavõistlused — Estonia,1897600100001,Premium liiga (D1),1897600001005,Tartu JK Tammeka,1382,1382,54,53,48,52,48,50
+1897600000001,Estonia,Premium liiga & Eesti karikavõistlused — Estonia,1897600100001,Premium liiga (D1),1897600001006,Harju JK Laagri,1349,1349,52,52,49,51,51,50
+1897600000001,Estonia,Premium liiga & Eesti karikavõistlused — Estonia,1897600100001,Premium liiga (D1),1897600001008,FC Kuressaare,1315,1315,50,51,51,51,48,50
+1897600000001,Estonia,Premium liiga & Eesti karikavõistlused — Estonia,1897600100001,Premium liiga (D1),1897600001007,Pärnu JK Vaprus,1279,1279,50,48,50,51,47,50
+1897600000001,Estonia,Premium liiga & Eesti karikavõistlused — Estonia,1897600100001,Premium liiga (D1),1897600001009,FC Nõmme United,1239,1239,49,46,47,48,48,50
+1897600000001,Estonia,Premium liiga & Eesti karikavõistlused — Estonia,1897600100001,Premium liiga (D1),1897600001010,JK Narva Trans,1187,1187,45,44,48,47,53,49
+1897600000002,Latvia,Virslīga & Latvijas kauss — Latvia,1897600100002,Virslīga (D1),1897600002002,Riga FC,1684,1684,69,66,49,48,50,51
+1897600000002,Latvia,Virslīga & Latvijas kauss — Latvia,1897600100002,Virslīga (D1),1897600002001,FC RFS,1655,1655,66,65,52,47,50,51
+1897600000002,Latvia,Virslīga & Latvijas kauss — Latvia,1897600100002,Virslīga (D1),1897600002003,FK Auda,1625,1625,64,64,51,49,50,50
+1897600000002,Latvia,Virslīga & Latvijas kauss — Latvia,1897600100002,Virslīga (D1),1897600002004,FK Liepāja,1595,1595,62,62,53,53,53,50
+1897600000002,Latvia,Virslīga & Latvijas kauss — Latvia,1897600100002,Virslīga (D1),1897600002005,BFC Daugavpils,1564,1564,60,62,50,50,48,50
+1897600000002,Latvia,Virslīga & Latvijas kauss — Latvia,1897600100002,Virslīga (D1),1897600002006,SK Super Nova,1531,1531,59,60,53,47,48,50
+1897600000002,Latvia,Virslīga & Latvijas kauss — Latvia,1897600100002,Virslīga (D1),1897600002007,FS Jelgava,1497,1497,58,58,49,47,48,50
+1897600000002,Latvia,Virslīga & Latvijas kauss — Latvia,1897600100002,Virslīga (D1),1897600002008,FK Grobiņa,1461,1461,56,57,53,48,47,50
+1897600000002,Latvia,Virslīga & Latvijas kauss — Latvia,1897600100002,Virslīga (D1),1897600002009,FK Tukums 2000,1421,1421,55,54,52,52,53,49
+1897600000002,Latvia,Virslīga & Latvijas kauss — Latvia,1897600100002,Virslīga (D1),1897600002010,Ogre United,1369,1369,53,51,48,47,49,49
+1897600000003,Lithuania,TOPLYGA & LFF taurė — Lithuania,1897600100003,TOPLYGA (D1),1897600003002,FK Žalgiris Vilnius,1554,1554,61,61,50,50,51,50
+1897600000003,Lithuania,TOPLYGA & LFF taurė — Lithuania,1897600100003,TOPLYGA (D1),1897600003001,FK Kauno Žalgiris,1525,1525,60,61,47,49,48,50
+1897600000003,Lithuania,TOPLYGA & LFF taurė — Lithuania,1897600100003,TOPLYGA (D1),1897600003003,FK Sūduva,1495,1495,58,59,47,52,47,50
+1897600000003,Lithuania,TOPLYGA & LFF taurė — Lithuania,1897600100003,TOPLYGA (D1),1897600003004,FK TransINVEST,1465,1465,57,57,53,52,52,50
+1897600000003,Lithuania,TOPLYGA & LFF taurė — Lithuania,1897600100003,TOPLYGA (D1),1897600003005,FK Banga,1434,1434,55,57,53,53,53,50
+1897600000003,Lithuania,TOPLYGA & LFF taurė — Lithuania,1897600100003,TOPLYGA (D1),1897600003006,FC Džiugas,1401,1401,54,54,49,53,52,50
+1897600000003,Lithuania,TOPLYGA & LFF taurė — Lithuania,1897600100003,TOPLYGA (D1),1897600003007,FK Panevėžys,1367,1367,52,53,50,52,50,50
+1897600000003,Lithuania,TOPLYGA & LFF taurė — Lithuania,1897600100003,TOPLYGA (D1),1897600003008,FC Hegelmann,1331,1331,51,51,52,48,53,50
+1897600000003,Lithuania,TOPLYGA & LFF taurė — Lithuania,1897600100003,TOPLYGA (D1),1897600003009,FA Šiauliai,1291,1291,49,49,49,48,53,49
+1897600000003,Lithuania,TOPLYGA & LFF taurė — Lithuania,1897600100003,TOPLYGA (D1),1897600003010,FK Riteriai,1239,1239,47,46,48,50,52,49
+1897600000004,Poland,Ekstraklasa & Puchar Polski — Poland,1897600100004,Ekstraklasa (D1),1897600004002,Lech Poznań,2073,2073,85,83,50,51,47,51
+1897600000004,Poland,Ekstraklasa & Puchar Polski — Poland,1897600100004,Ekstraklasa (D1),1897600004001,Górnik Zabrze,2056,2056,83,83,50,52,48,51
+1897600000004,Poland,Ekstraklasa & Puchar Polski — Poland,1897600100004,Ekstraklasa (D1),1897600004003,Pogoń Szczecin,2038,2038,82,83,50,52,48,51
+1897600000004,Poland,Ekstraklasa & Puchar Polski — Poland,1897600100004,Ekstraklasa (D1),1897600004004,Legia Warszawa,2020,2020,81,81,50,49,53,50
+1897600000004,Poland,Ekstraklasa & Puchar Polski — Poland,1897600100004,Ekstraklasa (D1),1897600004012,Jagiellonia Białystok,2002,2002,80,80,53,47,49,50
+1897600000004,Poland,Ekstraklasa & Puchar Polski — Poland,1897600100004,Ekstraklasa (D1),1897600004005,Piast Gliwice,1984,1984,80,79,51,49,49,50
+1897600000004,Poland,Ekstraklasa & Puchar Polski — Poland,1897600100004,Ekstraklasa (D1),1897600004006,Wisła Kraków,1965,1965,79,79,48,48,52,50
+1897600000004,Poland,Ekstraklasa & Puchar Polski — Poland,1897600100004,Ekstraklasa (D1),1897600004008,GKS Katowice,1946,1946,78,77,50,47,50,50
+1897600000004,Poland,Ekstraklasa & Puchar Polski — Poland,1897600100004,Ekstraklasa (D1),1897600004007,Zagłębie Lubin,1927,1927,77,77,48,53,51,50
+1897600000004,Poland,Ekstraklasa & Puchar Polski — Poland,1897600100004,Ekstraklasa (D1),1897600004009,Korona Kielce,1907,1907,76,76,53,48,48,50
+1897600000004,Poland,Ekstraklasa & Puchar Polski — Poland,1897600100004,Ekstraklasa (D1),1897600004010,Wisła Płock,1887,1887,75,75,48,48,53,50
+1897600000004,Poland,Ekstraklasa & Puchar Polski — Poland,1897600100004,Ekstraklasa (D1),1897600004011,Motor Lublin,1866,1866,74,73,47,51,50,50
+1897600000004,Poland,Ekstraklasa & Puchar Polski — Poland,1897600100004,Ekstraklasa (D1),1897600004013,Cracovia,1845,1845,73,73,53,51,51,50
+1897600000004,Poland,Ekstraklasa & Puchar Polski — Poland,1897600100004,Ekstraklasa (D1),1897600004014,Widzew Łódź,1823,1823,72,72,47,51,48,50
+1897600000004,Poland,Ekstraklasa & Puchar Polski — Poland,1897600100004,Ekstraklasa (D1),1897600004015,Wieczysta Kraków,1800,1800,71,70,51,49,47,49
+1897600000004,Poland,Ekstraklasa & Puchar Polski — Poland,1897600100004,Ekstraklasa (D1),1897600004018,Śląsk Wrocław,1775,1775,70,69,52,52,52,49
+1897600000004,Poland,Ekstraklasa & Puchar Polski — Poland,1897600100004,Ekstraklasa (D1),1897600004017,Raków Częstochowa,1748,1748,69,68,52,52,50,49
+1897600000004,Poland,Ekstraklasa & Puchar Polski — Poland,1897600100004,Ekstraklasa (D1),1897600004016,Radomiak Radom,1713,1713,68,66,53,49,50,49
+1947265000001,Bosnia and Herzegovina,Premijer liga Bosne i Hercegovine & Kup Bosne i Hercegovine — Bosnia and Herzegovina,1947266001001,Premijer liga Bosne i Hercegovine (D1),1947261000002,FK Borac Banja Luka,1697,1697,69,69,53,50,52,48
+1947265000001,Bosnia and Herzegovina,Premijer liga Bosne i Hercegovine & Kup Bosne i Hercegovine — Bosnia and Herzegovina,1947266001001,Premijer liga Bosne i Hercegovine (D1),1947261000001,HŠK Zrinjski Mostar,1668,1668,67,66,53,47,51,53
+1947265000001,Bosnia and Herzegovina,Premijer liga Bosne i Hercegovine & Kup Bosne i Hercegovine — Bosnia and Herzegovina,1947266001001,Premijer liga Bosne i Hercegovine (D1),1947261000003,FK Sarajevo,1638,1638,64,65,52,53,53,50
+1947265000001,Bosnia and Herzegovina,Premijer liga Bosne i Hercegovine & Kup Bosne i Hercegovine — Bosnia and Herzegovina,1947266001001,Premijer liga Bosne i Hercegovine (D1),1947261000005,FK Željezničar Sarajevo,1608,1608,62,62,51,52,48,47
+1947265000001,Bosnia and Herzegovina,Premijer liga Bosne i Hercegovine & Kup Bosne i Hercegovine — Bosnia and Herzegovina,1947266001001,Premijer liga Bosne i Hercegovine (D1),1947261000010,FK Velež Mostar,1577,1577,61,61,48,50,50,53
+1947265000001,Bosnia and Herzegovina,Premijer liga Bosne i Hercegovine & Kup Bosne i Hercegovine — Bosnia and Herzegovina,1947266001001,Premijer liga Bosne i Hercegovine (D1),1947261000004,NK Široki Brijeg,1544,1544,59,60,51,49,47,52
+1947265000001,Bosnia and Herzegovina,Premijer liga Bosne i Hercegovine & Kup Bosne i Hercegovine — Bosnia and Herzegovina,1947266001001,Premijer liga Bosne i Hercegovine (D1),1947261000008,FK Sloga Doboj,1510,1510,57,58,48,49,51,53
+1947265000001,Bosnia and Herzegovina,Premijer liga Bosne i Hercegovine & Kup Bosne i Hercegovine — Bosnia and Herzegovina,1947266001001,Premijer liga Bosne i Hercegovine (D1),1947261000009,FK Radnik Bijeljina,1474,1474,57,55,49,51,49,51
+1947265000001,Bosnia and Herzegovina,Premijer liga Bosne i Hercegovine & Kup Bosne i Hercegovine — Bosnia and Herzegovina,1947266001001,Premijer liga Bosne i Hercegovine (D1),1947261000007,NK Čelik Zenica,1434,1434,54,54,49,48,50,51
+1947265000001,Bosnia and Herzegovina,Premijer liga Bosne i Hercegovine & Kup Bosne i Hercegovine — Bosnia and Herzegovina,1947266001001,Premijer liga Bosne i Hercegovine (D1),1947261000006,FK BSK Banja Luka,1382,1382,52,52,50,51,49,49
+1947265000002,Serbia,Super liga Srbije & Kup Srbije — Serbia,1947266002001,Super liga Srbije — Regular Season (D1),1947262000001,FK Crvena zvezda,1767,1767,73,72,52,47,52,48
+1947265000002,Serbia,Super liga Srbije & Kup Srbije — Serbia,1947266002001,Super liga Srbije — Regular Season (D1),1947262000002,FK Vojvodina,1747,1747,70,69,51,47,53,50
+1947265000002,Serbia,Super liga Srbije & Kup Srbije — Serbia,1947266002001,Super liga Srbije — Regular Season (D1),1947262000010,FK Partizan,1727,1727,70,68,47,50,51,48
+1947265000002,Serbia,Super liga Srbije & Kup Srbije — Serbia,1947266002001,Super liga Srbije — Regular Season (D1),1947262000009,FK Čukarički,1706,1706,68,67,47,50,50,53
+1947265000002,Serbia,Super liga Srbije & Kup Srbije — Serbia,1947266002001,Super liga Srbije — Regular Season (D1),1947262000005,FK Radnički 1923 Kragujevac,1685,1685,66,66,49,47,49,49
+1947265000002,Serbia,Super liga Srbije & Kup Srbije — Serbia,1947266002001,Super liga Srbije — Regular Season (D1),1947262000008,FK Novi Pazar,1664,1664,65,66,48,50,49,51
+1947265000002,Serbia,Super liga Srbije & Kup Srbije — Serbia,1947266002001,Super liga Srbije — Regular Season (D1),1947262000004,FK IMT Novi Beograd,1642,1642,63,65,50,47,48,47
+1947265000002,Serbia,Super liga Srbije & Kup Srbije — Serbia,1947266002001,Super liga Srbije — Regular Season (D1),1947262000003,FK Železničar Pančevo,1619,1619,63,64,50,47,47,52
+1947265000002,Serbia,Super liga Srbije & Kup Srbije — Serbia,1947266002001,Super liga Srbije — Regular Season (D1),1947262000011,OFK Beograd,1596,1596,62,61,53,49,52,50
+1947265000002,Serbia,Super liga Srbije & Kup Srbije — Serbia,1947266002001,Super liga Srbije — Regular Season (D1),1947262000007,FK Mladost Lučani,1572,1572,60,61,49,50,48,49
+1947265000002,Serbia,Super liga Srbije & Kup Srbije — Serbia,1947266002001,Super liga Srbije — Regular Season (D1),1947262000006,FK Radnik Surdulica,1547,1547,59,59,50,50,47,47
+1947265000002,Serbia,Super liga Srbije & Kup Srbije — Serbia,1947266002001,Super liga Srbije — Regular Season (D1),1947262000013,FK Radnički Niš,1520,1520,57,58,52,49,47,47
+1947265000002,Serbia,Super liga Srbije & Kup Srbije — Serbia,1947266002001,Super liga Srbije — Regular Season (D1),1947262000014,FK Zemun,1490,1490,56,56,51,49,48,49
+1947265000002,Serbia,Super liga Srbije & Kup Srbije — Serbia,1947266002001,Super liga Srbije — Regular Season (D1),1947262000012,FK Mačva Šabac,1452,1452,54,55,52,49,53,52
+1947265000003,Kosovo,Superliga e Kosovës & Kupa e Kosovës — Kosovo,1947266003001,Superliga e Kosovës (D1),1947263000002,FC Prishtina,1671,1671,65,65,49,51,53,52
+1947265000003,Kosovo,Superliga e Kosovës & Kupa e Kosovës — Kosovo,1947266003001,Superliga e Kosovës (D1),1947263000006,FC Ballkani,1642,1642,63,64,48,47,48,49
+1947265000003,Kosovo,Superliga e Kosovës & Kupa e Kosovës — Kosovo,1947266003001,Superliga e Kosovës (D1),1947263000003,FC Drita,1612,1612,61,63,50,47,52,50
+1947265000003,Kosovo,Superliga e Kosovës & Kupa e Kosovës — Kosovo,1947266003001,Superliga e Kosovës (D1),1947263000001,FC Malisheva,1582,1582,61,60,50,51,52,50
+1947265000003,Kosovo,Superliga e Kosovës & Kupa e Kosovës — Kosovo,1947266003001,Superliga e Kosovës (D1),1947263000004,SC Gjilani,1551,1551,59,60,49,47,53,52
+1947265000003,Kosovo,Superliga e Kosovës & Kupa e Kosovës — Kosovo,1947266003001,Superliga e Kosovës (D1),1947263000005,KF Dukagjini,1518,1518,56,58,49,47,47,47
+1947265000003,Kosovo,Superliga e Kosovës & Kupa e Kosovës — Kosovo,1947266003001,Superliga e Kosovës (D1),1947263000007,KF Drenica,1484,1484,55,56,47,47,49,51
+1947265000003,Kosovo,Superliga e Kosovës & Kupa e Kosovës — Kosovo,1947266003001,Superliga e Kosovës (D1),1947263000009,KF Llapi,1448,1448,54,53,53,53,50,48
+1947265000003,Kosovo,Superliga e Kosovës & Kupa e Kosovës — Kosovo,1947266003001,Superliga e Kosovës (D1),1947263000008,FC Feronikeli 74,1408,1408,51,52,53,53,49,53
+1947265000003,Kosovo,Superliga e Kosovës & Kupa e Kosovës — Kosovo,1947266003001,Superliga e Kosovës (D1),1947263000010,FC Vushtrria,1356,1356,49,49,52,53,51,50
+1900264000000,North Macedonia,Macedonian First Football League & Macedonian Cup — North Macedonia,1900264010001,Regular Season (D1),1900264000002,FC Struga Trim-Lum,1580,1580,60,60,48,49,53,51
+1900264000000,North Macedonia,Macedonian First Football League & Macedonian Cup — North Macedonia,1900264010001,Regular Season (D1),1900264000001,FK Shkëndija,1551,1551,59,58,49,50,48,52
+1900264000000,North Macedonia,Macedonian First Football League & Macedonian Cup — North Macedonia,1900264010001,Regular Season (D1),1900264000004,GFK Tikveš,1521,1521,57,57,47,50,52,51
+1900264000000,North Macedonia,Macedonian First Football League & Macedonian Cup — North Macedonia,1900264010001,Regular Season (D1),1900264000003,FK Vardar,1491,1491,56,56,50,52,48,51
+1900264000000,North Macedonia,Macedonian First Football League & Macedonian Cup — North Macedonia,1900264010001,Regular Season (D1),1900264000005,FK Sileks,1460,1460,55,55,53,47,53,50
+1900264000000,North Macedonia,Macedonian First Football League & Macedonian Cup — North Macedonia,1900264010001,Regular Season (D1),1900264000006,KF Shkëndija Haraçinë 77,1427,1427,52,53,47,47,51,50
+1900264000000,North Macedonia,Macedonian First Football League & Macedonian Cup — North Macedonia,1900264010001,Regular Season (D1),1900264000007,FK Bregalnica Štip,1393,1393,51,51,48,50,49,49
+1900264000000,North Macedonia,Macedonian First Football League & Macedonian Cup — North Macedonia,1900264010001,Regular Season (D1),1900264000008,KF Arsimi 1973,1357,1357,49,49,47,51,51,49
+1900264000000,North Macedonia,Macedonian First Football League & Macedonian Cup — North Macedonia,1900264010001,Regular Season (D1),1900264000009,KF Bashkimi 1947,1317,1317,47,46,47,53,49,49
+1900264000000,North Macedonia,Macedonian First Football League & Macedonian Cup — North Macedonia,1900264010001,Regular Season (D1),1900264000010,FK Skopje,1265,1265,45,45,52,50,49,48
+1900264100000,Bulgaria,Bulgarian First Professional Football League & Bulgarian Cup — Bulgaria,1900264110001,Regular Season (D1),1900264100001,PFC Levski Sofia,1785,1785,69,69,49,48,47,52
+1900264100000,Bulgaria,Bulgarian First Professional Football League & Bulgarian Cup — Bulgaria,1900264110001,Regular Season (D1),1900264100003,PFC Ludogorets Razgrad,1765,1765,68,68,52,52,52,52
+1900264100000,Bulgaria,Bulgarian First Professional Football League & Bulgarian Cup — Bulgaria,1900264110001,Regular Season (D1),1900264100002,PFC CSKA Sofia,1745,1745,68,67,49,48,49,52
+1900264100000,Bulgaria,Bulgarian First Professional Football League & Bulgarian Cup — Bulgaria,1900264110001,Regular Season (D1),1900264100004,FC CSKA 1948 Sofia,1724,1724,66,66,49,52,53,51
+1900264100000,Bulgaria,Bulgarian First Professional Football League & Bulgarian Cup — Bulgaria,1900264110001,Regular Season (D1),1900264100005,PFC Botev Plovdiv,1703,1703,65,65,53,49,47,51
+1900264100000,Bulgaria,Bulgarian First Professional Football League & Bulgarian Cup — Bulgaria,1900264110001,Regular Season (D1),1900264100006,PFC Arda Kardzhali,1682,1682,64,63,49,52,47,50
+1900264100000,Bulgaria,Bulgarian First Professional Football League & Bulgarian Cup — Bulgaria,1900264110001,Regular Season (D1),1900264100007,PFC Spartak Varna,1660,1660,62,63,49,51,51,50
+1900264100000,Bulgaria,Bulgarian First Professional Football League & Bulgarian Cup — Bulgaria,1900264110001,Regular Season (D1),1900264100008,PFC Slavia Sofia,1637,1637,61,62,48,49,51,49
+1900264100000,Bulgaria,Bulgarian First Professional Football League & Bulgarian Cup — Bulgaria,1900264110001,Regular Season (D1),1900264100010,PFC Lokomotiv Sofia 1929,1614,1614,60,60,47,49,51,49
+1900264100000,Bulgaria,Bulgarian First Professional Football League & Bulgarian Cup — Bulgaria,1900264110001,Regular Season (D1),1900264100012,PFC Lokomotiv Plovdiv,1590,1590,59,60,52,53,50,49
+1900264100000,Bulgaria,Bulgarian First Professional Football League & Bulgarian Cup — Bulgaria,1900264110001,Regular Season (D1),1900264100011,FC Dunav Ruse,1565,1565,58,58,52,53,49,49
+1900264100000,Bulgaria,Bulgarian First Professional Football League & Bulgarian Cup — Bulgaria,1900264110001,Regular Season (D1),1900264100009,POFC Botev Vratsa,1538,1538,57,57,52,47,48,49
+1900264100000,Bulgaria,Bulgarian First Professional Football League & Bulgarian Cup — Bulgaria,1900264110001,Regular Season (D1),1900264100013,PFC Septemvri Sofia,1508,1508,56,56,49,53,52,49
+1900264100000,Bulgaria,Bulgarian First Professional Football League & Bulgarian Cup — Bulgaria,1900264110001,Regular Season (D1),1900264100014,PFC Cherno More Varna,1470,1470,54,54,47,48,48,48
+1900264200000,Romania,SuperLiga României & Cupa României — Romania,1900264210001,Regular Season (D1),1900264200001,FC Dinamo București,1893,1893,74,73,53,52,51,52
+1900264200000,Romania,SuperLiga României & Cupa României — Romania,1900264210001,Regular Season (D1),1900264200003,CS Universitatea Craiova,1876,1876,73,73,50,49,48,52
+1900264200000,Romania,SuperLiga României & Cupa României — Romania,1900264210001,Regular Season (D1),1900264200002,FC Rapid București,1858,1858,71,72,51,47,53,52
+1900264200000,Romania,SuperLiga României & Cupa României — Romania,1900264210001,Regular Season (D1),1900264200005,FC Universitatea Cluj,1840,1840,71,70,49,51,51,50
+1900264200000,Romania,SuperLiga României & Cupa României — Romania,1900264210001,Regular Season (D1),1900264200004,FC Petrolul Ploiești,1822,1822,69,69,53,52,51,51
+1900264200000,Romania,SuperLiga României & Cupa României — Romania,1900264210001,Regular Season (D1),1900264200006,FCSB,1804,1804,69,68,51,48,50,50
+1900264200000,Romania,SuperLiga României & Cupa României — Romania,1900264210001,Regular Season (D1),1900264200007,FC Farul Constanța,1785,1785,68,68,51,47,53,50
+1900264200000,Romania,SuperLiga României & Cupa României — Romania,1900264210001,Regular Season (D1),1900264200009,CS Corvinul Hunedoara,1766,1766,67,67,52,47,50,50
+1900264200000,Romania,SuperLiga României & Cupa României — Romania,1900264210001,Regular Season (D1),1900264200008,CFR Cluj,1747,1747,66,66,49,51,53,50
+1900264200000,Romania,SuperLiga României & Cupa României — Romania,1900264210001,Regular Season (D1),1900264200011,FC Botoșani,1727,1727,66,66,51,50,50,49
+1900264200000,Romania,SuperLiga României & Cupa României — Romania,1900264210001,Regular Season (D1),1900264200010,FC UTA Arad,1706,1706,65,65,53,53,48,50
+1900264200000,Romania,SuperLiga României & Cupa României — Romania,1900264210001,Regular Season (D1),1900264200012,Sepsi OSK Sfântu Gheorghe,1685,1685,63,64,47,53,49,49
+1900264200000,Romania,SuperLiga României & Cupa României — Romania,1900264210001,Regular Season (D1),1900264200013,FC Argeș Pitești,1662,1662,62,63,48,49,52,49
+1900264200000,Romania,SuperLiga României & Cupa României — Romania,1900264210001,Regular Season (D1),1900264200014,ASC Oțelul Galați,1638,1638,61,62,48,51,53,49
+1900264200000,Romania,SuperLiga României & Cupa României — Romania,1900264210001,Regular Season (D1),1900264200015,FC Voluntari,1612,1612,60,60,52,52,48,48
+1900264200000,Romania,SuperLiga României & Cupa României — Romania,1900264210001,Regular Season (D1),1900264200016,FK Csíkszereda Miercurea Ciuc,1578,1578,58,58,53,52,53,48
+1906260100001,Belarus,Belarusian Premier League & Belarusian Cup — Belarus,1906260300001,Belarusian Premier League (D1),1906261101001,Maxline Vitebsk,1567,1567,64,63,51,48,47,52
+1906260100001,Belarus,Belarusian Premier League & Belarusian Cup — Belarus,1906260300001,Belarusian Premier League (D1),1906261101002,Dinamo Minsk,1550,1550,63,63,48,48,50,52
+1906260100001,Belarus,Belarusian Premier League & Belarusian Cup — Belarus,1906260300001,Belarusian Premier League (D1),1906261101003,Isloch Minsk Raion,1532,1532,62,62,49,52,53,52
+1906260100001,Belarus,Belarusian Premier League & Belarusian Cup — Belarus,1906260300001,Belarusian Premier League (D1),1906261101004,Dinamo Brest,1514,1514,61,61,53,49,47,51
+1906260100001,Belarus,Belarusian Premier League & Belarusian Cup — Belarus,1906260300001,Belarusian Premier League (D1),1906261101005,Neman Grodno,1496,1496,59,61,50,49,49,51
+1906260100001,Belarus,Belarusian Premier League & Belarusian Cup — Belarus,1906260300001,Belarusian Premier League (D1),1906261101006,FC Gomel,1478,1478,59,59,51,53,52,51
+1906260100001,Belarus,Belarusian Premier League & Belarusian Cup — Belarus,1906260300001,Belarusian Premier League (D1),1906261101007,FC Vitebsk,1459,1459,57,59,48,50,52,51
+1906260100001,Belarus,Belarusian Premier League & Belarusian Cup — Belarus,1906260300001,Belarusian Premier League (D1),1906261101009,Torpedo-BelAZ Zhodino,1440,1440,57,57,47,47,51,50
+1906260100001,Belarus,Belarusian Premier League & Belarusian Cup — Belarus,1906260300001,Belarusian Premier League (D1),1906261101008,FC Minsk,1421,1421,56,56,52,50,48,50
+1906260100001,Belarus,Belarusian Premier League & Belarusian Cup — Belarus,1906260300001,Belarusian Premier League (D1),1906261101010,Slavia Mozyr,1401,1401,55,55,50,51,51,49
+1906260100001,Belarus,Belarusian Premier League & Belarusian Cup — Belarus,1906260300001,Belarusian Premier League (D1),1906261101011,Baranovichi,1380,1380,54,54,53,51,47,49
+1906260100001,Belarus,Belarusian Premier League & Belarusian Cup — Belarus,1906260300001,Belarusian Premier League (D1),1906261101013,BATE Borisov,1359,1359,53,54,52,52,50,49
+1906260100001,Belarus,Belarusian Premier League & Belarusian Cup — Belarus,1906260300001,Belarusian Premier League (D1),1906261101012,Arsenal Dzerzhinsk,1336,1336,52,52,48,48,50,49
+1906260100001,Belarus,Belarusian Premier League & Belarusian Cup — Belarus,1906260300001,Belarusian Premier League (D1),1906261101014,Belshina Bobruisk,1312,1312,52,51,49,52,53,49
+1906260100001,Belarus,Belarusian Premier League & Belarusian Cup — Belarus,1906260300001,Belarusian Premier League (D1),1906261101015,Dnepr Mogilev,1286,1286,51,51,50,49,49,49
+1906260100001,Belarus,Belarusian Premier League & Belarusian Cup — Belarus,1906260300001,Belarusian Premier League (D1),1906261101016,Naftan Novopolotsk,1252,1252,50,48,47,47,49,49
+1906260100002,Ukraine,Ukrainian Premier League & Ukrainian Cup — Ukraine,1906260300002,Ukrainian Premier League (D1),1906261102002,Shakhtar Donetsk,1875,1875,76,76,47,47,51,52
+1906260100002,Ukraine,Ukrainian Premier League & Ukrainian Cup — Ukraine,1906260300002,Ukrainian Premier League (D1),1906261102001,Polissya Zhytomyr,1858,1858,77,74,52,50,48,52
+1906260100002,Ukraine,Ukrainian Premier League & Ukrainian Cup — Ukraine,1906260300002,Ukrainian Premier League (D1),1906261102003,FC Kharkiv,1840,1840,75,74,50,51,51,52
+1906260100002,Ukraine,Ukrainian Premier League & Ukrainian Cup — Ukraine,1906260300002,Ukrainian Premier League (D1),1906261102004,Dynamo Kyiv,1822,1822,73,73,53,51,47,52
+1906260100002,Ukraine,Ukrainian Premier League & Ukrainian Cup — Ukraine,1906260300002,Ukrainian Premier League (D1),1906261102005,Karpaty Lviv,1804,1804,73,72,48,48,50,52
+1906260100002,Ukraine,Ukrainian Premier League & Ukrainian Cup — Ukraine,1906260300002,Ukrainian Premier League (D1),1906261102007,LNZ Cherkasy,1786,1786,70,72,49,52,53,50
+1906260100002,Ukraine,Ukrainian Premier League & Ukrainian Cup — Ukraine,1906260300002,Ukrainian Premier League (D1),1906261102006,Zorya Luhansk,1767,1767,70,70,52,52,50,50
+1906260100002,Ukraine,Ukrainian Premier League & Ukrainian Cup — Ukraine,1906260300002,Ukrainian Premier League (D1),1906261102008,Kolos Kovalivka,1748,1748,70,69,50,49,49,50
+1906260100002,Ukraine,Ukrainian Premier League & Ukrainian Cup — Ukraine,1906260300002,Ukrainian Premier League (D1),1906261102011,Livyi Bereh Kyiv,1729,1729,67,70,52,50,48,49
+1906260100002,Ukraine,Ukrainian Premier League & Ukrainian Cup — Ukraine,1906260300002,Ukrainian Premier League (D1),1906261102009,Epitsentr Kamianets-Podilskyi,1709,1709,68,68,47,47,49,49
+1906260100002,Ukraine,Ukrainian Premier League & Ukrainian Cup — Ukraine,1906260300002,Ukrainian Premier League (D1),1906261102012,Bukovyna Chernivtsi,1688,1688,66,67,49,47,48,49
+1906260100002,Ukraine,Ukrainian Premier League & Ukrainian Cup — Ukraine,1906260300002,Ukrainian Premier League (D1),1906261102010,Veres Rivne,1667,1667,65,67,51,53,52,49
+1906260100002,Ukraine,Ukrainian Premier League & Ukrainian Cup — Ukraine,1906260300002,Ukrainian Premier League (D1),1906261102016,Kryvbas Kryvyi Rih,1644,1644,65,64,48,48,50,49
+1906260100002,Ukraine,Ukrainian Premier League & Ukrainian Cup — Ukraine,1906260300002,Ukrainian Premier League (D1),1906261102014,Chornomorets Odesa,1620,1620,63,65,47,51,53,49
+1906260100002,Ukraine,Ukrainian Premier League & Ukrainian Cup — Ukraine,1906260300002,Ukrainian Premier League (D1),1906261102013,Obolon Kyiv,1594,1594,62,63,53,53,51,49
+1906260100002,Ukraine,Ukrainian Premier League & Ukrainian Cup — Ukraine,1906260300002,Ukrainian Premier League (D1),1906261102015,Kudrivka,1560,1560,63,60,51,48,47,48
+1906260100003,Moldova,Super Liga & Cupa Moldovei — Moldova,1906260300003,Super Liga — Faza I (D1),1906261103001,FC Sheriff Tiraspol,1619,1619,66,65,50,49,49,52
+1906260100003,Moldova,Super Liga & Cupa Moldovei — Moldova,1906260300003,Super Liga — Faza I (D1),1906261103002,FC Zimbru Chișinău,1582,1582,63,63,47,47,49,51
+1906260100003,Moldova,Super Liga & Cupa Moldovei — Moldova,1906260300003,Super Liga — Faza I (D1),1906261103003,FC Petrocub Hîncești,1543,1543,62,62,51,53,52,51
+1906260100003,Moldova,Super Liga & Cupa Moldovei — Moldova,1906260300003,Super Liga — Faza I (D1),1906261103004,Dacia Buiucani,1503,1503,59,59,52,50,48,50
+1906260100003,Moldova,Super Liga & Cupa Moldovei — Moldova,1906260300003,Super Liga — Faza I (D1),1906261103005,FC Milsami Orhei,1461,1461,57,58,49,47,48,50
+1906260100003,Moldova,Super Liga & Cupa Moldovei — Moldova,1906260300003,Super Liga — Faza I (D1),1906261103006,FC Politehnica UTM,1417,1417,56,56,53,53,51,50
+1906260100003,Moldova,Super Liga & Cupa Moldovei — Moldova,1906260300003,Super Liga — Faza I (D1),1906261103007,FC Real Sireți,1368,1368,52,55,47,51,53,49
+1906260100003,Moldova,Super Liga & Cupa Moldovei — Moldova,1906260300003,Super Liga — Faza I (D1),1906261103008,CSF Bălți,1304,1304,50,48,51,48,47,48
+1906260100004,Georgia,Erovnuli Liga & Georgian Cup — Georgia,1906260300005,Erovnuli Liga (D1),1906261104001,Dinamo Tbilisi,1489,1489,59,60,51,48,47,51
+1906260100004,Georgia,Erovnuli Liga & Georgian Cup — Georgia,1906260300005,Erovnuli Liga (D1),1906261104002,Dinamo Batumi,1460,1460,59,58,48,48,50,51
+1906260100004,Georgia,Erovnuli Liga & Georgian Cup — Georgia,1906260300005,Erovnuli Liga (D1),1906261104004,Iberia 1999,1430,1430,57,57,53,49,47,51
+1906260100004,Georgia,Erovnuli Liga & Georgian Cup — Georgia,1906260300005,Erovnuli Liga (D1),1906261104003,Rustavi,1400,1400,55,57,49,52,53,51
+1906260100004,Georgia,Erovnuli Liga & Georgian Cup — Georgia,1906260300005,Erovnuli Liga (D1),1906261104005,Dila Gori,1369,1369,54,54,50,49,49,50
+1906260100004,Georgia,Erovnuli Liga & Georgian Cup — Georgia,1906260300005,Erovnuli Liga (D1),1906261104007,Torpedo Kutaisi,1336,1336,53,53,48,50,52,50
+1906260100004,Georgia,Erovnuli Liga & Georgian Cup — Georgia,1906260300005,Erovnuli Liga (D1),1906261104006,Samgurali Tsqaltubo,1302,1302,53,51,51,53,52,50
+1906260100004,Georgia,Erovnuli Liga & Georgian Cup — Georgia,1906260300005,Erovnuli Liga (D1),1906261104009,Spaeri,1266,1266,50,50,47,47,51,49
+1906260100004,Georgia,Erovnuli Liga & Georgian Cup — Georgia,1906260300005,Erovnuli Liga (D1),1906261104008,Gagra,1226,1226,48,49,52,50,48,49
+1906260100004,Georgia,Erovnuli Liga & Georgian Cup — Georgia,1906260300005,Erovnuli Liga (D1),1906261104010,Meshakhte Tkibuli,1174,1174,45,46,50,51,51,49
+1906102000000,Armenia,Armenian Premier League & Armenian Cup — Armenia,1906103000000,Armenian Premier League (D1),1906100000001,Noah,1710,1710,73,72,51,47,52,53
+1906102000000,Armenia,Armenian Premier League & Armenian Cup — Armenia,1906103000000,Armenian Premier League (D1),1906100000002,Pyunik,1686,1686,71,70,53,51,50,52
+1906102000000,Armenia,Armenian Premier League & Armenian Cup — Armenia,1906103000000,Armenian Premier League (D1),1906100000003,Ararat-Armenia,1662,1662,68,68,52,48,48,52
+1906102000000,Armenia,Armenian Premier League & Armenian Cup — Armenia,1906103000000,Armenian Premier League (D1),1906100000004,Alashkert,1638,1638,67,68,49,49,52,51
+1906102000000,Armenia,Armenian Premier League & Armenian Cup — Armenia,1906103000000,Armenian Premier League (D1),1906100000005,Urartu,1612,1612,65,65,53,47,50,50
+1906102000000,Armenia,Armenian Premier League & Armenian Cup — Armenia,1906103000000,Armenian Premier League (D1),1906100000006,Sardarapat,1587,1587,64,63,52,47,47,50
+1906102000000,Armenia,Armenian Premier League & Armenian Cup — Armenia,1906103000000,Armenian Premier League (D1),1906100000007,Shirak,1560,1560,62,62,47,50,50,49
+1906102000000,Armenia,Armenian Premier League & Armenian Cup — Armenia,1906103000000,Armenian Premier League (D1),1906100000008,Ararat,1532,1532,60,61,49,52,48,49
+1906102000000,Armenia,Armenian Premier League & Armenian Cup — Armenia,1906103000000,Armenian Premier League (D1),1906100000009,BKMA Yerevan,1504,1504,58,59,52,48,47,49
+1906102000000,Armenia,Armenian Premier League & Armenian Cup — Armenia,1906103000000,Armenian Premier League (D1),1906100000010,Van,1473,1473,56,56,49,51,47,49
+1906102000000,Armenia,Armenian Premier League & Armenian Cup — Armenia,1906103000000,Armenian Premier League (D1),1906100000011,Syunik,1439,1439,55,56,53,48,51,48
+1906102000000,Armenia,Armenian Premier League & Armenian Cup — Armenia,1906103000000,Armenian Premier League (D1),1906100000012,Gandzasar,1395,1395,53,53,48,48,49,48
+1906202000000,Azerbaijan,Azərbaycan Premyer Liqası & Azərbaycan Kuboku — Azerbaijan,1906203000000,Azərbaycan Premyer Liqası (D1),1906200000002,Sabah,1857,1857,79,79,47,50,49,53
+1906202000000,Azerbaijan,Azərbaycan Premyer Liqası & Azərbaycan Kuboku — Azerbaijan,1906203000000,Azərbaycan Premyer Liqası (D1),1906200000003,Qarabağ,1833,1833,77,76,50,51,49,53
+1906202000000,Azerbaijan,Azərbaycan Premyer Liqası & Azərbaycan Kuboku — Azerbaijan,1906203000000,Azərbaycan Premyer Liqası (D1),1906200000001,Neftçi,1809,1809,77,76,50,53,53,52
+1906202000000,Azerbaijan,Azərbaycan Premyer Liqası & Azərbaycan Kuboku — Azerbaijan,1906203000000,Azərbaycan Premyer Liqası (D1),1906200000004,Turan Tovuz,1785,1785,72,74,53,48,52,51
+1906202000000,Azerbaijan,Azərbaycan Premyer Liqası & Azərbaycan Kuboku — Azerbaijan,1906203000000,Azərbaycan Premyer Liqası (D1),1906200000007,Şamaxı,1759,1759,71,72,51,48,52,50
+1906202000000,Azerbaijan,Azərbaycan Premyer Liqası & Azərbaycan Kuboku — Azerbaijan,1906203000000,Azərbaycan Premyer Liqası (D1),1906200000006,Kəpəz,1734,1734,70,70,52,52,50,51
+1906202000000,Azerbaijan,Azərbaycan Premyer Liqası & Azərbaycan Kuboku — Azerbaijan,1906203000000,Azərbaycan Premyer Liqası (D1),1906200000005,Zirə,1707,1707,69,69,52,53,52,50
+1906202000000,Azerbaijan,Azərbaycan Premyer Liqası & Azərbaycan Kuboku — Azerbaijan,1906203000000,Azərbaycan Premyer Liqası (D1),1906200000008,Sumqayıt,1679,1679,68,67,51,47,47,49
+1906202000000,Azerbaijan,Azərbaycan Premyer Liqası & Azərbaycan Kuboku — Azerbaijan,1906203000000,Azərbaycan Premyer Liqası (D1),1906200000009,İmişli,1651,1651,65,65,52,52,48,48
+1906202000000,Azerbaijan,Azərbaycan Premyer Liqası & Azərbaycan Kuboku — Azerbaijan,1906203000000,Azərbaycan Premyer Liqası (D1),1906200000010,Qəbələ,1620,1620,63,64,48,47,47,48
+1906202000000,Azerbaijan,Azərbaycan Premyer Liqası & Azərbaycan Kuboku — Azerbaijan,1906203000000,Azərbaycan Premyer Liqası (D1),1906200000011,Şəfa Bakı,1586,1586,61,62,52,53,51,48
+1906202000000,Azerbaijan,Azərbaycan Premyer Liqası & Azərbaycan Kuboku — Azerbaijan,1906203000000,Azərbaycan Premyer Liqası (D1),1906200000012,Araz-Naxçıvan,1542,1542,60,59,49,48,52,48
+1906302000000,Kazakhstan,Kazakhstan Premier League & Kazakhstan Cup — Kazakhstan,1906303000000,Kazakhstan Premier League (D1),1906300000001,Ordabasy,1645,1645,70,70,48,52,47,52
+1906302000000,Kazakhstan,Kazakhstan Premier League & Kazakhstan Cup — Kazakhstan,1906303000000,Kazakhstan Premier League (D1),1906300000002,Qairat,1628,1628,69,68,48,53,51,52
+1906302000000,Kazakhstan,Kazakhstan Premier League & Kazakhstan Cup — Kazakhstan,1906303000000,Kazakhstan Premier League (D1),1906300000003,Astana,1610,1610,67,67,48,48,50,51
+1906302000000,Kazakhstan,Kazakhstan Premier League & Kazakhstan Cup — Kazakhstan,1906303000000,Kazakhstan Premier League (D1),1906300000004,Aqtöbe,1592,1592,66,65,52,47,49,51
+1906302000000,Kazakhstan,Kazakhstan Premier League & Kazakhstan Cup — Kazakhstan,1906303000000,Kazakhstan Premier League (D1),1906300000005,Oqjetpes,1574,1574,65,64,49,48,51,51
+1906302000000,Kazakhstan,Kazakhstan Premier League & Kazakhstan Cup — Kazakhstan,1906303000000,Kazakhstan Premier League (D1),1906300000006,Elımai,1556,1556,64,63,51,53,49,50
+1906302000000,Kazakhstan,Kazakhstan Premier League & Kazakhstan Cup — Kazakhstan,1906303000000,Kazakhstan Premier League (D1),1906300000007,Tobyl,1537,1537,63,63,53,49,50,50
+1906302000000,Kazakhstan,Kazakhstan Premier League & Kazakhstan Cup — Kazakhstan,1906303000000,Kazakhstan Premier League (D1),1906300000008,Ulytaw,1518,1518,61,62,47,51,47,50
+1906302000000,Kazakhstan,Kazakhstan Premier League & Kazakhstan Cup — Kazakhstan,1906303000000,Kazakhstan Premier League (D1),1906300000009,Jeñıs,1499,1499,61,61,52,50,50,50
+1906302000000,Kazakhstan,Kazakhstan Premier League & Kazakhstan Cup — Kazakhstan,1906303000000,Kazakhstan Premier League (D1),1906300000010,Kaspi,1479,1479,60,60,53,53,47,50
+1906302000000,Kazakhstan,Kazakhstan Premier League & Kazakhstan Cup — Kazakhstan,1906303000000,Kazakhstan Premier League (D1),1906300000011,Qyzyljar,1458,1458,59,59,52,52,53,49
+1906302000000,Kazakhstan,Kazakhstan Premier League & Kazakhstan Cup — Kazakhstan,1906303000000,Kazakhstan Premier League (D1),1906300000013,Ertıs,1437,1437,58,58,53,47,49,49
+1906302000000,Kazakhstan,Kazakhstan Premier League & Kazakhstan Cup — Kazakhstan,1906303000000,Kazakhstan Premier League (D1),1906300000012,Atyraw,1414,1414,57,58,53,50,51,49
+1906302000000,Kazakhstan,Kazakhstan Premier League & Kazakhstan Cup — Kazakhstan,1906303000000,Kazakhstan Premier League (D1),1906300000014,Altai Öskemen,1390,1390,56,56,47,49,50,49
+1906302000000,Kazakhstan,Kazakhstan Premier League & Kazakhstan Cup — Kazakhstan,1906303000000,Kazakhstan Premier League (D1),1906300000015,Qaisar,1364,1364,55,55,49,49,51,49
+1906302000000,Kazakhstan,Kazakhstan Premier League & Kazakhstan Cup — Kazakhstan,1906303000000,Kazakhstan Premier League (D1),1906300000016,Jetısū,1330,1330,53,53,48,52,51,49
+1906402000000,Turkey,Süper Lig (D1-D3) & Türkiye Kupası — Turkey,1906403000000,Süper Lig (D1),1906400000004,Trabzonspor,2101,2101,90,90,48,49,47,51
+1906402000000,Turkey,Süper Lig (D1-D3) & Türkiye Kupası — Turkey,1906403000000,Süper Lig (D1),1906400000002,Amed Sportif Faaliyetler,2083,2083,89,88,48,47,52,52
+1906402000000,Turkey,Süper Lig (D1-D3) & Türkiye Kupası — Turkey,1906403000000,Süper Lig (D1),1906400000006,Beşiktaş,2047,2047,87,86,51,49,52,51
+1906402000000,Turkey,Süper Lig (D1-D3) & Türkiye Kupası — Turkey,1906403000000,Süper Lig (D1),1906400000009,Çorum FK,2029,2029,86,84,47,50,50,50
+1906402000000,Turkey,Süper Lig (D1-D3) & Türkiye Kupası — Turkey,1906403000000,Süper Lig (D1),1906400000001,Galatasaray,2015,2015,86,85,47,48,51,52
+1906402000000,Turkey,Süper Lig (D1-D3) & Türkiye Kupası — Turkey,1906403000000,Süper Lig (D1),1906400000003,Fenerbahçe,2010,2010,87,86,50,50,50,51
+1906402000000,Turkey,Süper Lig (D1-D3) & Türkiye Kupası — Turkey,1906403000000,Süper Lig (D1),1906400000005,Kasımpaşa,2010,2010,84,85,51,50,53,51
+1906402000000,Turkey,Süper Lig (D1-D3) & Türkiye Kupası — Turkey,1906403000000,Süper Lig (D1),1906400000007,Kocaelispor,1991,1991,82,84,53,49,53,51
+1906402000000,Turkey,Süper Lig (D1-D3) & Türkiye Kupası — Turkey,1906403000000,Süper Lig (D1),1906400000011,İstanbul Başakşehir,1972,1972,82,82,53,51,49,50
+1906402000000,Turkey,Süper Lig (D1-D3) & Türkiye Kupası — Turkey,1906403000000,Süper Lig (D1),1906400000008,Erzurumspor FK,1952,1952,80,82,53,47,47,50
+1906402000000,Turkey,Süper Lig (D1-D3) & Türkiye Kupası — Turkey,1906403000000,Süper Lig (D1),1906400000013,Göztepe,1932,1932,82,79,49,48,51,49
+1906402000000,Turkey,Süper Lig (D1-D3) & Türkiye Kupası — Turkey,1906403000000,Süper Lig (D1),1906400000010,Alanyaspor,1911,1911,79,80,48,50,48,50
+1906402000000,Turkey,Süper Lig (D1-D3) & Türkiye Kupası — Turkey,1906403000000,Süper Lig (D1),1906400000012,Çaykur Rizespor,1890,1890,78,79,49,51,51,50
+1906402000000,Turkey,Süper Lig (D1-D3) & Türkiye Kupası — Turkey,1906403000000,Süper Lig (D1),1906400000014,Gaziantep FK,1868,1868,76,77,47,47,50,49
+1906402000000,Turkey,Süper Lig (D1-D3) & Türkiye Kupası — Turkey,1906403000000,Süper Lig (D1),1906400000015,Gençlerbirliği,1845,1845,75,75,50,48,52,49
+1906402000000,Turkey,Süper Lig (D1-D3) & Türkiye Kupası — Turkey,1906403000000,Süper Lig (D1),1906400000016,Konyaspor,1820,1820,73,76,51,50,53,48
+1906402000000,Turkey,Süper Lig (D1-D3) & Türkiye Kupası — Turkey,1906403000000,Süper Lig (D1),1906400000017,Samsunspor,1793,1793,73,72,48,49,53,48
+1906402000000,Turkey,Süper Lig (D1-D3) & Türkiye Kupası — Turkey,1906403000000,Süper Lig (D1),1906400000018,Eyüpspor,1758,1758,70,70,53,48,47,48
