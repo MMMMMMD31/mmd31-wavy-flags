@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96" role="img" aria-label="Cup qualification">
+  <circle cx="48" cy="48" r="46" fill="#0B8E69"/>
+  <circle cx="48" cy="48" r="42" fill="none" stroke="#7CE0BC" stroke-width="2" opacity=".8"/>
+  <path d="M30 27h36v14c0 14-7.8 23-18 23s-18-9-18-23V27Z" fill="#FFF"/>
+  <path d="M30 33H20v5c0 10 5 16 16 16M66 33h10v5c0 10-5 16-16 16" fill="none" stroke="#FFF" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M48 64v10M35 78h26" stroke="#FFF" stroke-width="7" stroke-linecap="round"/>
+  <path d="m48 35 2.5 5.5 6 .7-4.4 4.2 1.2 6-5.3-2.9-5.3 2.9 1.2-6-4.4-4.2 6-.7Z" fill="#0B8E69"/>
+</svg>
